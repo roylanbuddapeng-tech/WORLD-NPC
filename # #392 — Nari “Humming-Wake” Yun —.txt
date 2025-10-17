@@ -1,0 +1,194 @@
+# #392 — **Nari “Humming-Wake” Yun** — *Tiny Storm, Clear Lane*
+
+> “I’ll buzz the gap—when you feel the wind, step through.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 392
+* **Gender:** **Female (Type: รุ่นน้อง — earnest, shy-brave, eager-to-please)**
+* **Age:** 19
+* **Race:** **Half-Beast (avian — hummingbird lineage; ~88% human, faint iridescent ear tufts, thin emerald ring in pupils)**
+* **Class & Level:** **Barbarian (Path of Wild Magic) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **lane opener / darting decoy / chaos herder**
+* **Organization:** **Valeronnes Rail Wardens — Wake-Buzz Line**
+* **Symbol:** a tiny spiral gust stitched across a glass seam with a spearpoint at its heart
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese petite sprinter** — bright, fluttery energy; smile that makes crowds relax.
+
+**Height:** **151 cm** **Weight:** **44 kg**
+**Body Type:** **petite, fit**, spring-loaded calves, narrow shoulders; lightning-quick balance.
+
+**Hair (equal-weight random):** **Low ponytail**, **wavy**, tied with a slim emerald cord; flyaway wisps halo when she dashes.
+**Color:** **raven black** with **iridescent green lowlights** that flash in rainlight.
+**Eyes:** **tea-brown** with a thin emerald ring that brightens when magic stirs.
+**Skin:** fair with a soft dew-sheen along the collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** tiny feather-ear cuff (single), knotted wind-charm bracelet, matte steel thumb ring for grip.
+
+### FEMALE BODY METRICS
+
+```
+CUP: A   CATEGORY: Small
+THREE_SIZES (B–W–H, cm): 78 – 56 – 88
+VALIDATION: • W/B = 0.72 → OK   • H/W = 1.57 → OK
+```
+
+A **small-bust, tiny waist** silhouette built for explosive bursts; the harness routes shock through hips so her spear stays aligned.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium–High** (functional reveal for mobility)
+
+A **cutaway scout cuirass** with **open shoulders** over a **supportive battle halter**; **open-back cross harness** anchors the scabbard without bounce. **Short split skirt** over **compression shorts** for deep lunges on slick glass. **Knee-high traction boots** with “humming-pad” tread; **half-gloves** etched with wind runes; a **short storm-capelet** pins close so crowds can read her outline.
+
+**Palette:** charcoal / emerald / steel / pale silver
+
+**Weapons & Gear:**
+
+* **Spear “Buzz-Thread”** (versatile; rail-balanced haft with spiral gust etch)
+* **Handaxe ×2** (utility throws)
+* **Silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**, **grip resin**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **27 HP** (3d12 + CON +2 ×3)
+* **AC:** **15** (Unarmored Defense 10 + DEX +3 + CON +2)
+* **Speed:** 30 ft
+* **STR 15 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Acrobatics +5, Athletics +4, Perception +3, Insight +3, Persuasion +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of Wild Magic (TCoE)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning/piercing/slashing**
+* **Unarmored Defense**, **Reckless Attack**, **Danger Sense**
+* **Magic Awareness (2/LR):** Bonus Action to sense magic within 60 ft for 1 round
+* **Wild Surge:** when you **enter Rage**, roll on the **Wild Magic** table (TCoE); effects like **teleport burst, spectral vines, flying motes, push-pulse**, etc., centered to help allies (GM rolls each time)
+
+**Attacks**
+
+* **Spear (1h):** +4 to hit, **1d6+2** piercing (**+2** while raging)
+* **Spear (2h):** +4 to hit, **1d8+2** piercing (**+2** while raging)
+* **Handaxe (melee or 20/60):** +4 to hit, **1d6+2** slashing (**+2** rage)
+
+---
+
+## 🎯 Combat Tactics (Chaos Thread Skirmisher)
+
+* **Role:** **skirmisher / soft control via Wild Surge**
+* **Opener:** **Rage** → Wild Surge flares (e.g., **spectral vines** to hinder rushers or **gust motes** to shove), then a dart-in spear tag to claim the seam.
+* **Flow:** dances between foes, using **Reckless** only to pull eyes off civilians; throws a **handaxe** to pop flanks; **Magic Awareness** pings illusions before escorting crowds.
+* **Finisher:** quick two-handed thrust as motes whirl; rain threads into a neat spiral arrow pointing “through.”
+
+**Damage Flavor:** emerald motes buzz from her boots; each step leaves a tiny ripple-ring that fades when allies pass.
+
+---
+
+## 💬 Personality
+
+* **Traits:** shy grin, bright “I’ll go first!” energy, apologizes when she bounces someone’s shield.
+* **Ideal:** Help First — “If I’m fast, fear has less time to grow.”
+* **Bond:** carries a stitched ribbon from a dock singer she guided through a surge.
+* **Flaw:** overextends to rescue stragglers; needs someone to call her back.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort dash**, **riot peel by surge control**, **duel at a slick apex**
+
+---
+
+## 📜 Background & Lifestyle
+
+A tea runner who learned to move trays across wet planks without spilling. The night the Echo howled, she stepped into a crush; the air **sang** around her ankles, and lanes opened like threads.
+
+* **Lifestyle:** cozy loft of straps, wind charms, and drying boots.
+* **Income:** city stipend, hazard pay, dockside tips.
+
+---
+
+## 🧩 Morals & Ethics
+
+She measures success by **how easily people breathe behind her**. Chaos is just choreography waiting to be counted.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a span where the air won’t “sing” (Severance stillness).
+* **Weaknesses:** **AC 15**, susceptible to focus fire; Wild Surge is **unpredictable**.
+* **Strengths:** **Rage resistances**, team-helping **Wild Surge** riders, nimble spear control, illusion sniff via **Magic Awareness**.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง — shy-brave, accidentally flirty**
+
+> “C-can you hold my back strap? If I buzz left, tug once… mm—thanks! Okay, fast now.”
+
+หน้าแดงง่ายเมื่อถูกชม แล้วจะเร่งจังหวะได้ครึ่งก้าวโดยไม่รู้ตัว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her wind-charm hums a **counter-melody** when a rail is counterfeit.
+* **Hooks:**
+
+  1. **Buzz Map:** her surge motes spiral into an arrow at midnight toward a sealed under-bridge.
+  2. **Borrowed Song:** a chorus claims her motes “remember” a lost conductor—help them find the score.
+  3. **Quiet Spiral:** Wild Surge effects go mute on one span—trace the Severance anchor.
+
+---
+
+## Tags: #Female #HalfBeast #Hummingbird #Barbarian3 #WildMagic #Spear #Skirmisher #SmallCup #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nari **places your hand on the harness ring, cheeks pink:**
+
+> “Half-step shadow. When the air sings, we move together—promise?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, 2× handaxes, silk rope 50 ft, chalk-line, echo-salt, salve ×2, wind charm, grip resin
+* **Level-Up (to 4):** **+2 DEX (to 18)** หรือ **Feat: Mobile / Alert** (keeps the buzz going)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort dash**, **riot peel via Wild Surge**, **slick-apex duel**
+* **Affiliation:** **Wake-Buzz Line — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female half-beast hummingbird barbarian wild magic 151cm low wavy ponytail emerald lowlights medium-high exposure cutaway cuirass split skirt spear A-cup B78 W56 H88 rain bridge emerald motes

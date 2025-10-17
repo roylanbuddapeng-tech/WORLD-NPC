@@ -1,0 +1,192 @@
+# #383 — **Hye-Jin “Breaker-Mom” Rhee** — *If the Line Must Not Fall, I Hold It*
+
+> “Sweetheart, behind me. Breathe in time with the rain—then we move.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 383
+* **Gender:** **Female (Type: MILF — protective, warm, slightly teasing)**
+* **Age:** 31
+* **Race:** **Half-Beast (mammal — wolf lineage; ~88% human, soft ear-tufts, faint silver tail-nub, amber ring in pupils)**
+* **Class & Level:** **Barbarian (Path of the Berserker) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane bulwark / riot peel / crowd shield**
+* **Organization:** **Valeronnes Rail Wardens — Motherline**
+* **Symbol:** a halberd crossing a glass seam; three tiny heart-dots mark safe breath counts
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean** — maternal warmth over iron poise; the look that calms panic and terrifies bullies.
+
+**Height:** **162 cm** **Weight:** **58 kg**
+**Body Type:** compact hourglass; powerful hips and legs, strong back and shoulders.
+
+**Hair (equal-weight random):** **High ponytail**, **straight**, with long face-framing locks; rain beads roll off the sleek strands when she rages.
+**Color:** **raven black** with **ash-silver lowlights**.
+**Eyes:** **amber-brown** with a thin lupine ring that tightens under stress.
+**Skin:** warm ivory, faint freckle-dust over the nose; very subtle silver down along flanks.
+
+**Jewelry & Accessories (glasses 40% → fail):** matte steel torque engraved with hush-runes; braided wrist wrap; tiny wolf-charm on ponytail band.
+
+### FEMALE BODY METRICS
+
+```
+CUP: J   CATEGORY: Huge
+THREE_SIZES (B–W–H, cm): 108 – 64 – 104
+VALIDATION: • W/B = 0.59 → OK   • H/W = 1.63 → OK
+```
+
+A striking **J-cup** on a tight waist; the support harness is engineered for shock control so movement stays efficient, not showy.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High** (functional reveal, harnessed support)
+
+A **cutaway cuirass** with a **deep V panel** laced into a **battle-halter harness**; **open back** with crossed elastic anchors for halberd scabbard stability. A **high-slit tactical skirt** over **compression shorts** for lunges on slick glass. **Knee greaves** with micro-tread; **half-gloves** for grip and hook-pulls. A **short storm-capelet** pins flat so crowds can read her stance.
+
+**Palette:** charcoal / steel / wolf-silver / warm ivory
+
+**Weapons & Gear:**
+
+* **Halberd “Raincleaver”** (reach 10 ft; matte beak; etched breath-marks)
+* **Handaxe ×2** (utility throws)
+* **Silk rope 50 ft, chalk-line, echo-salt, salve ×2, grip resin**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 = **29 HP**
+* **AC:** **15** (Unarmored Defense 10 + DEX +2 + CON +3)
+* **Speed:** 30 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Intimidation +4, Perception +3, Medicine +3, Insight +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Berserker (PHB)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning/piercing/slashing**
+* **Unarmored Defense**, **Reckless Attack**, **Danger Sense**
+* **Frenzy (while raging):** as a **bonus action**, make a **melee weapon attack** each turn; gain **one level of exhaustion** when rage ends (rules reminder)
+
+**Attacks**
+
+* **Halberd (reach 10 ft, 2h):** +6 to hit, **1d10+4** slashing (**+2** while raging)
+* **Handaxe (melee or 20/60):** +6 to hit, **1d6+4** slashing (**+2** rage)
+
+---
+
+## 🎯 Combat Tactics (Motherline Bulwark)
+
+* **Role:** **frontline controller / aggro sink**
+* **Opener:** **Reckless** reach-cut to tag the lead brute; she plants feet on the seam so civilians can flow past.
+* **Flow:** triggers **Frenzy** only when a gap must be carved **now**; off-hand handaxe throws are for disrupting flanks, not chase.
+* **Finisher:** hip-pivot half-moon sweep with halberd beak; rain sparks off the edge in a clear “pass-through” arc.
+
+**Damage Flavor:** silver motes thread off the halberd with each hit; her ponytail bell gives a near-silent *tik* when the line is safe.
+
+---
+
+## 💬 Personality
+
+* **Traits:** protective, deadpan humor, shameless about battlefield hugs to steady nerves.
+* **Ideal:** Shelter — “Strength is the rent we pay for the breath behind us.”
+* **Bond:** keeps a stitched ribbon from her child’s cloak wrapped around the grip.
+* **Flaw:** will not disengage while anyone remains behind her on the seam.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock stairs, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort wall**, **riot peel**, **quiet duel in heavy rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+A dock porter who out-lifted men twice her size, she learned to stack weight through hips and breath. On her first Echo night she stepped forward with bare hands—by dawn, the Wardens issued a halberd and a route in her name.
+
+* **Lifestyle:** tidy riverside room; cooks huge stews for the squad.
+* **Income:** city stipend, hazard pay, quiet donations from shop rows she shields.
+
+---
+
+## 🧩 Morals & Ethics
+
+She judges victory by **how gently the crowd can keep walking**, not by how hard she hits.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a span too wide for one promise; a silence where rain should speak.
+* **Weaknesses:** **AC 15**; ranged focus fire hurts; **Frenzy** exhaustion tax.
+* **Strengths:** **Rage resistances**, **reach control**, emergency **Frenzy** burst to open lanes.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF — protective, softly teasing**
+
+> “Hand on my back strap—tighter. Good. Eyes on the seam, not the neckline. I’ll make the space.”
+
+เธอมักดันไหล่คุณเข้าที่ จับท่าทางให้พอดี แล้วปล่อยยิ้มที่ทำเอาเผลอหน้าแดง
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** the wolf-charm warms when **forged rails** are near; it goes cold on Severance-stilled spans.
+* **Hooks:**
+
+  1. **Frenzy Debt:** a smuggler saved in her lane now offers “repayment” that risks her badge.
+  2. **Motherline Trial:** hold a bridge through midnight rotations without yielding once.
+  3. **Bell of Silence:** her ponytail bell stops ringing entirely—someone is eating the rain’s voice.
+
+---
+
+## Tags: #Female #HalfBeast #Wolf #Barbarian3 #Berserker #Halberd #MILF #HugeCup #CR1 #Frontline
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Hye-Jin **sets the halberd crosswise and nudges you behind it:**
+
+> “Breathe with me—two in, two out. When I move, you pass.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** halberd, 2× handaxes, silk rope 50 ft, chalk-line, echo-salt, salve ×2, torque, wrist wrap, wolf charm
+* **Level-Up (to 4):** **+2 STR (to 20)** or **Feat: Great Weapon Master / Sentinel** (lane-lock vs push-through)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort wall**, **riot peel**, **apex duel in rain**
+* **Affiliation:** **Motherline — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean female half-beast wolf barbarian berserker 162cm high ponytail raven hair ash lowlights very high exposure deep-V cutaway cuirass open back high-slit skirt halberd J-cup B108 W64 H104 rain bridge protective MILF fantasy

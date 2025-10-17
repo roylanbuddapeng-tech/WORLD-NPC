@@ -1,0 +1,198 @@
+# #382 — **Seo-Yeon “Rain-Lancer” Park** — *Hold the Reins, Hold the Line*
+
+> “I steady the mount. You steady your breath. Then we move.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 382
+* **Gender:** **Female (Type: รุ่นพี่ — calm, protective, quietly strict)**
+* **Age:** 27
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Cavalier) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **mounted escort lead / spear-lane anchor / formation tutor**
+* **Organization:** **Valeronnes Rail Wardens — Spur Line**
+* **Symbol:** a rain-drop stamped by a lance tip over twin rail seams
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean — stately rider’s poise**, the kind of senior who corrects your grip with two fingers and a soft “again.”
+
+**Height:** **176 cm** **Weight:** **61 kg**
+**Body Type:** tall, elegant-athletic; long legs, strong seat, narrow waist; composed posture.
+
+**Hair (equal-weight random):** **Twin buns (space buns)**, **straight** with long face-framing tendrils; practical under a light helm.
+**Color:** **raven black** with **cool steel lowlights** that catch rainlight when she charges.
+**Eyes:** cool **smoke-brown**, steady; soften when speaking to novices.
+**Skin:** light ivory; rider’s sun-kiss along nose bridge.
+
+**Jewelry & Accessories (glasses 40% → success):** **thin rectangular silver glasses** (anti-fog wards), **steel spur-shaped ear-cuff**, **braided rein-wrist strap** with a tiny rain-charm.
+
+### FEMALE BODY METRICS
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B–W–H, cm): 88 – 62 – 96
+VALIDATION: • W/B = 0.70 → OK   • H/W = 1.55 → OK
+```
+
+Long, clean lines; compact bust with firm support harness, built for saddle control and standing spear-thrusts.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Low → Medium** (mounted practicality)
+
+A **reinforced riding cuirass** with articulated shoulders for couching a lance; **storm-blue riding gambeson** beneath; **split riding skirt** over **fitted breeches** for high-knee mounting; **knee-high traction boots** with rail-safe treads. **Half-cloak** pins to the right shoulder so it won’t foul the lance line; **open-back harness** crosses under the cloak to anchor scabbards without bulk.
+
+**Palette:** storm blue / charcoal / steel / silver thread
+
+**Weapons & Gear:**
+
+* **Cavalry Spear “Rain-Spur”** (versatile; rail-balanced, lance-like when mounted)
+* **Shield** (curved cavalry pattern)
+* **Longsword** (sidearm), **dagger**
+* **Light helm**, **saddle kit**, **silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+* **Mount:** **war mare “Miststep”**—sure-footed on wet glass (setting flavor)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **26 HP**
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft (mounted 60 ft)
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Animal Handling +5, Athletics +5, Persuasion +3, Perception +3, History +2
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Cavalier (XGtE)**
+
+* **Fighting Style:** **Defense**
+* **Second Wind (1d10+3)** • **Action Surge (1/rest)**
+* **Bonus Proficiency:** Animal Handling (already counted)
+* **Born to the Saddle:** adv. vs falling, mount/dismount costs 5 ft less
+* **Unwavering Mark:** on a melee hit, **mark** a foe; it has **disadvantage** attacking others; if it hits someone else, make a **bonus attack** next turn for **+5** damage
+
+**Attacks**
+
+* **Cavalry Spear (1h + shield, mounted or foot):** +5 to hit, **1d6+3** piercing
+* **Cavalry Spear (2h, set):** +5 to hit, **1d8+3** piercing
+* **Longsword (1h):** +5 to hit, **1d8+3** slashing
+* **Dagger:** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Mounted Line Anchor)
+
+* **Role:** **frontline defender / aggro keeper / escort pivot**
+* **Opener:** mounts fast; **mark** the lead brute with a set spear to pin aggro; positions **Miststep** to block the seam with shield angle guiding civilians.
+* **Flow:** alternates **lance passes** with **shield holds**; uses **Action Surge** to convert a safe hold into a decisive push window.
+* **Finisher:** dismount pivot → two-handed spear thrust; rain springs off the haft in a fan that reads “pass now.”
+
+**Damage Flavor:** each hit throws a thin spray like stitched rain; her glasses flash a silver line just before the thrust lands.
+
+---
+
+## 💬 Personality
+
+* **Traits:** patient teacher, soft-spoken, exacting about safety rules.
+* **Ideal:** Stewardship — “Position is kindness.”
+* **Bond:** keeps a braid from her first mount tied to her wrist strap.
+* **Flaw:** takes responsibility for every slip; will not retreat if anyone’s still crossing.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, lock-stair aprons**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **mounted escort**, **riot peel at a choke**, **apex duel in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+Stablehand to instructor: she learned hoof-sense before spear-sense. On her first Echo night, she rode a borrowed mare into a crush, split it clean, and never left the saddle again.
+
+* **Lifestyle:** sparse rider’s loft over the stables; up before dawn.
+* **Income:** city stipend, hazard pay, private riding lessons.
+
+---
+
+## 🧩 Morals & Ethics
+
+Success is when **the line behind her breathes easier**. Discipline is just compassion with muscles.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing a rider under her command; a silent span where hooves can’t trust the rain.
+* **Weaknesses:** tight indoor spaces limit mount advantage; vulnerable to concentrated ranged fire.
+* **Strengths:** **mark-based aggro control**, **mount synergy**, **high AC**, **formation tutoring**.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ — calm & caring**
+
+> “Thumb along the rein… breathe. Good. Now match my heel cue—on *three*.”
+
+เธอแตะหลังมือคุณเบา ๆ ให้จังหวะ แล้วปล่อยยิ้มบาง ๆ ที่ทำเอาเผลอหน้าแดงได้ง่าย
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her wrist rain-charm warms near **counterfeit rails** and turns cold near **Severance-stilled** spans.
+* **Hooks:**
+
+  1. **Spur in the Silence:** mounts refuse a certain bridge; Seo-Yeon must test the seam under fire.
+  2. **Borrowed Mare:** the former owner of *Miststep* returns with a dubious claim.
+  3. **Glass Tactics:** a rival officer challenges her methods—trial by public escort.
+
+---
+
+## Tags: #Female #Human #Fighter3 #Cavalier #MountedCombat #Spear #Shield #SenpaiType #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Seo-Yeon **sets your hand on the back strap, voice even:**
+
+> “Half-step shadow. If I lean, you lean. I’ll make the space—use it.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** cavalry spear, shield, longsword, dagger, saddle kit, silk rope 50 ft, chalk-line, echo-salt, salve ×2, glasses
+* **Level-Up (to 4):** **+2 STR (to 18)** or **Feat: Mounted Combatant / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **mounted escort**, **riot peel**, **apex duel**
+* **Affiliation:** **Spur Line — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean female fighter cavalier 176cm twin buns glasses riding cuirass split skirt breeches cavalry spear shield storm blue rain bridge poised senpai

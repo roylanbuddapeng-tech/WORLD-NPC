@@ -1,0 +1,194 @@
+# #388 — **Eun-Ji “Line-Guardian” Seo** — *Small Hands, Loud Ancestors*
+
+> “I’ll be the first step. The voices will be the second.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 388
+* **Gender:** **Female (Type: รุ่นเพื่อน — playful, steady, team-first)**
+* **Age:** 21
+* **Race:** **Half-Beast (mammal — red panda lineage; ~88% human, faint russet ear tufts, soft tail-nub, warm amber ring in pupils)**
+* **Class & Level:** **Barbarian (Path of the Ancestral Guardian) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane protector / aggro sink / crowd shepherd**
+* **Organization:** **Valeronnes Rail Wardens — Guardian Line**
+* **Symbol:** a spearpoint with three faint spirit-rings stitched across a glass seam
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese petite athlete** — friendly grin, bright eyes, and the reliable vibe of a classmate who volunteers first.
+
+**Height:** **155 cm** **Weight:** **47 kg**
+**Body Type:** **petite, fit**, springy legs, compact shoulders; center-of-gravity trained for sudden stops.
+
+**Hair (equal-weight random):** **Bun (single high bun)**, **straight**, with soft cheek-length tendrils.
+**Color:** **russet black** with **cinnamon lowlights** that glow in rain.
+**Eyes:** **amber-brown** with a warm panda-like ring; widen when spirits stir.
+**Skin:** fair with a soft peach warmth across the cheekbones.
+
+**Jewelry & Accessories (glasses 40% → success):** **round bronze glasses** (anti-fog wards), **tiny knot-earrings**, a **spirit-etched bangle** that ticks like a metronome when danger is near.
+
+### FEMALE BODY METRICS
+
+```
+CUP: B   CATEGORY: Small
+THREE_SIZES (B–W–H, cm): 83 – 57 – 91
+VALIDATION: • W/B = 0.69 → OK   • H/W = 1.60 → OK
+```
+
+A **small-bust, tiny waist** silhouette; her support harness routes shock through hips so her spear line stays steady.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium–High** (functional reveal at shoulders/midriff)
+
+A **cutaway cuirass** with **open shoulders** over a **supportive battle halter**; **open-back cross harness** anchors the scabbard. **Short split skirt** over **compression shorts** for deep lunges on slick glass. **Knee-high traction boots** with “panda-pad” tread; **half-gloves** stitched with spirit-knots. **Short storm-capelet** pins tight so crowds can read her stance.
+
+**Palette:** charcoal / ember-russet / steel / pale ivory
+
+**Weapons & Gear:**
+
+* **Spear “Knot-Thread”** (versatile; rail-balanced; ancestor-knot etchings along the haft)
+* **Shield** (glass-inset boss with triple-ring motif)
+* **Handaxe** (utility), **silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **27 HP** (3d12 + CON +2 ×3)
+* **AC:** **15** (Unarmored Defense 10 + DEX +2 + CON +3)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Acrobatics +4, Perception +3, Insight +3, Persuasion +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Ancestral Guardian (XGtE)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning, piercing, slashing**
+* **Unarmored Defense**, **Reckless Attack**, **Danger Sense**
+* **Ancestral Protectors:** the **first creature you hit while raging** is **hobbled by spirits** until the start of your next turn—**disadvantage** on attacks vs targets **other than you**, and those targets gain **resistance** to its damage
+* **Spirit Shield** (gained at 6th; not yet) — future preview only
+
+**Attacks**
+
+* **Spear (1h + shield):** +5 to hit, **1d6+3** piercing (**+2** while raging)
+* **Spear (2h):** +5 to hit, **1d8+3** piercing (**+2** while raging)
+* **Handaxe (melee or 20/60):** +5 to hit, **1d6+3** slashing (**+2** while raging)
+
+---
+
+## 🎯 Combat Tactics (Ancestral Pin & Pass)
+
+* **Role:** **frontline defender / aggro anchor**
+* **Opener:** **Rage** + precise **spear tag** to brand the lead brute with **Ancestral Protectors**, forcing it to focus on her while the crowd slips by.
+* **Flow:** maintains seam with **shield** angles; uses **Reckless** only to snag attention off civilians; handaxe flicks disrupt flanks.
+* **Finisher:** step-in feint → two-handed thrust; spirit-rings flare and the rain stitches a path right past her.
+
+**Damage Flavor:** translucent red-panda silhouettes swirl at her shoulders when she hits, padding blows and nudging enemies off the seam.
+
+---
+
+## 💬 Personality
+
+* **Traits:** teasing-in-a-nice-way, checks teammates’ breathing, cheers when anyone nails footwork.
+* **Ideal:** “Protection is a conversation—me, you, and the ancestors.”
+* **Bond:** keeps a woven knot from her grandmother; taps it before stepping onto the rail.
+* **Flaw:** refuses to drop aggro even when retreat would be smarter.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort choke**, **riot peel with spirit mark**, **apex duel in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+Granddaughter of a knot-weaver; learned to read tension and load through ropes before steel. The first time Echo hit, she tied people together with **breaths**, not rope—and the spirits answered.
+
+* **Lifestyle:** tiny loft of straps, knots, and a tea kettle that never quite cools.
+* **Income:** city stipend, hazard pay, “knot lessons” for rookies.
+
+---
+
+## 🧩 Morals & Ethics
+
+Victory = **the quiet behind her**. Pain is acceptable; panic is not.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a span where the ancestor-rings go silent (Severance).
+* **Weaknesses:** **AC 15**; focus fire hurts; must manage Reckless usage.
+* **Strengths:** **team-wide protection via Ancestral Protectors**, **Rage resistances**, reliable **spear+shield control**.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน — teasing & supportive**
+
+> “Back strap—yep, tighter. If the voices swirl, that means I’ve got their eyes. You just pass.”
+
+เธอชอบเคาะโล่เบา ๆ ให้จังหวะหายใจ แล้วเอียงหัวยิ้มจนคนข้าง ๆ เผลอหน้าแดง
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her glasses fog in braided patterns that **predict shove vectors** for one heartbeat.
+* **Hooks:**
+
+  1. **Knot Map:** ancestor knots form a route to a sealed under-bridge at midnight.
+  2. **Borrowed Grandmother:** a spirit claiming to be her gran orders her to protect a stranger—why?
+  3. **Quiet Rings:** the rings stop answering on one bridge; someone has **cut** them.
+
+---
+
+## Tags: #Female #HalfBeast #RedPanda #Barbarian3 #AncestralGuardian #Spear #Shield #FriendType #SmallCup #CR1 #AggroAnchor
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Eun-Ji **guides your hand to the strap, grin easy:**
+
+> “Half-step shadow. If I say ‘eyes on me,’ you pass—deal?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, shield, handaxe, silk rope 50 ft, chalk-line, echo-salt, salve ×2, knot charm, round bronze glasses
+* **Level-Up (to 4):** **+2 STR (to 18)** หรือ **Feat: Sentinel** (pairs brutally with Ancestral Protectors)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort choke**, **riot peel**, **duel in rainlight**
+* **Affiliation:** **Guardian Line — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female half-beast red panda barbarian ancestral guardian 155cm high bun straight russet-black hair cinnamon lowlights round bronze glasses medium-high exposure cutaway cuirass split skirt spear shield B-cup B83 W57 H91 rain-slick bridge spirit rings playful teammate fantasy

@@ -1,0 +1,170 @@
+# #401 — **Akihiko “Echo-Surgeon” Mori** — *The Knife That Hums Back*
+
+> “Screams are just data. Silence… is the result.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 401
+* **Gender:** **Male (Subtype: วัยกลางคน)**
+* **Age:** **38**
+* **Race:** **Human (Valeronnes—90% human, distinctive feature: faint mercury glow circling irises)**
+* **Class & Level:** **Wizard (School of Necromancy) 3** — **Level 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Evil**
+* **Profession:** **black-market “echo-surgeon,” occult pathologist, corpse-indexer**
+* **Organization:** **Unlicensed Mortuary Guild (front) / whispers of Severance buyers**
+* **Symbol:** a scalpel crossing a sound-ring
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese — immaculate, clinical elegance**; his neatness feels predatory.
+
+**Height:** **178 cm** **Weight:** **68 kg**
+**Body Build:** **lean–elegant**, surgeon’s shoulders, pianist’s hands; movements are spare and precise.
+
+**Hair (equal-weight random):** **Medium length**, **wavy**, sharp **undercut**; combed back so rain slicks into tidy waves.
+**Color:** **blue-black** with **cold silver lowlights**.
+**Eyes:** mercury-ringed dark brown; pupils tighten with surgical interest.
+**Skin:** porcelain-pale; faint chemical pallor along the jaw.
+
+**Jewelry & Accessories (glasses 40% → fail):** **crystalline monocle** (swings on chain), thin bone-charm bracelet, sterile black gloves tucked in belt.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Low** (clinical layers)
+A **graphite long-coat** lined with waxed silk, slit for quick strides; under it a **high-collared vest** with hidden scalpel loops. **Charcoal trousers** tuck into **polished ankle boots**; **black leather gloves** snap tight with rune-stitches. A **bloodless-white apron** rolls from his belt when “working.”
+
+**Palette:** graphite / bone-white / cold silver / midnight blue
+
+**Weapons & Gear:** ritual scalpel (counts as **dagger**), component pouch, **alchemist’s supplies**, **poisoner’s kit**, embalmer’s salts, echo-stethoscope (flavor), 50 ft silk cord, 3× vials (harmless saline unless poisoned via kit).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **18 HP** (3d6 avg 12 + CON +2 ×3 = 6)
+* **AC:** **15** (*Mage Armor* 13 + DEX +2)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 16 (+3)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, Medicine +5, Investigation +5, Insight +3, Intimidation +3
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Wizard 3 — School of Necromancy (PHB)**
+
+* **Necromancy Savant** (copying necro cheaper)
+* **Grim Harvest:** when you **kill** one or more creatures with a spell of 1st level+ on your turn, regain **HP = 2× spell level** (**3×** if Necromancy). 1/turn.
+* **Spellcasting (INT, DC **13**, +5 to hit)**
+
+  * **Cantrips (at will):** *Chill Touch, Toll the Dead, Mage Hand, Minor Illusion*
+  * **1st-level (4 slots):** *Mage Armor, Shield, Ray of Sickness, Cause Fear (XGtE)*
+  * **2nd-level (2 slots):** *Blindness/Deafness, Web*
+  * **Prepared:** **7** (INT 3 + level 3 + base 1)
+
+**Attacks**
+
+* **Dagger (ritual scalpel):** +4 to hit, **1d4+2** piercing
+
+---
+
+## 🎯 Combat Tactics (Clinical Control & Cull)
+
+* **Role:** **controller / finisher healer (via Grim Harvest)**
+* **Opener:** tags a brute with **Cause Fear** to peel lines; slings **Web** to fix a cluster; plucks off the weakest with **Ray of Sickness** for **Grim Harvest**.
+* **Flow:** keeps **Mage Armor** up; **Shield** on lethal swings. **Blindness/Deafness** removes threats like archers or chanters.
+* **Finisher:** **Toll the Dead** on wounded targets; the bell’s after-ring maps arteries in the rain.
+
+**Damage Flavor:** when he kills, rain draws faint anatomical lines over the corpse before fading, and his coat settles as if exhaling.
+
+---
+
+## 💬 Personality (สุดโต่ง)
+
+* **Traits:** icily polite; takes notes while people scream; corrects grammar mid-threat.
+* **Ideal (Extremist):** “Truth is worth any body-count.”
+* **Bond:** his ledger of “failed subjects” is indexed by tone of last word.
+* **Flaw:** compulsion to escalate experiments—refuses clean kills if a test is possible.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes**—drainside morgues, hush corridors, rain-greased steps to under-bridges
+* **Threat Gradient:** **Deep Echo** (he hunts where screams warp)
+* **Encounter Framing:** **kidnap-rescue dissection raid**, **morgue siege**, **rain-duel on glass slabs**
+
+---
+
+## 📜 Background & Lifestyle
+
+Dockside coroner who learned that Echo changes how tissue “sings.” He left the ledger open too long and realized bodies are just questions with warm ink.
+
+* **Lifestyle:** immaculate cellar lab above a legal front; sleeps in a chair facing the slab.
+* **Income:** corpse-transfer bribes, black-market “specimens,” quiet nobles’ retainers.
+
+---
+
+## 🧩 Morals & Ethics
+
+Pain is a reagent; people are trials. He will spare a bystander only if it preserves a better data set.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** choirs that **fall silent**—no echo, no data (Severance stillness).
+* **Weaknesses:** low HP, reliant on spell slots; hates fair fights.
+* **Strengths:** layered control (**Web/Blindness/Fear**), **reactive defense (Shield)**, self-sustain via **Grim Harvest**.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**How he toys with people:** speaks softly about your pulse cadence; asks to “borrow a scream”; compliments bone density like a love note.
+**PCs making him flustered:** remain utterly calm; he starts over-explaining procedures until he slips.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** keeps a **black ledger** of echo-modified organs; a few victims still whisper.
+* **Hooks:**
+
+  1. **Ledger of Names:** rescue targets listed for “tonal isolation”—his lab moves nightly.
+  2. **Quiet Bell:** he seeks a span where **Toll the Dead** makes no sound; stop him before he figures out why.
+  3. **Buyer’s Hand:** a Severance broker wants his **silence-map**; tail the courier through rain.
+
+---
+
+## Tags: #Male #Human #Wizard3 #Necromancy #Controller #ClinicalKiller #DeepEcho #CR1
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Treasure/Equipment:** ritual scalpel (dagger), component pouch, alchemist’s supplies, poisoner’s kit, embalmer’s salts, silk cord 50 ft, echo-stethoscope, sterile apron
+* **Level-Up (to 4):** **+2 INT (to 18)** or **Feat: War Caster** (keeps Web/Fear up under pressure)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** morgue stairs, drain-tunnels, rain-slick inspection slabs
+* **Threat Gradient:** **Deep Echo**
+* **Encounter Type:** **heist/raid**, **morgue siege**, **surgical duel**
+* **Affiliation:** **Unlicensed Mortuary Guild (front)**
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Japanese male wizard necromancer 178cm medium wavy undercut blue-black hair silver lowlights graphite coat bone-white apron dagger mercury-ring eyes rain lab

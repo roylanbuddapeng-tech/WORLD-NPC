@@ -1,0 +1,194 @@
+# #391 — **Seul-Ki “Vow-Line” Rhee** — *Warm Hand, Unbreakable Promise*
+
+> “Stay behind me and breathe. I’ll take the hit; you take the step.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 391
+* **Gender:** **Female (Type: MILF — protective, warm, teasing-but-firm)**
+* **Age:** 32
+* **Race:** **Half-Beast (mammal — snow leopard lineage; ~88% human, faint ear tufts, short tail nub, pale rosette shimmer on hips)**
+* **Class & Level:** **Barbarian (Path of the Zealot) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane bulwark / vow-bearer / riot peel**
+* **Organization:** **Valeronnes Rail Wardens — Oath Thread**
+* **Symbol:** a haloed spearpoint stitched across a rain-bright rail, three breath dots beneath
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean — maternal poise with predator calm**; a smile that hushes panic and eyes that warn bullies.
+
+**Height:** **165 cm** **Weight:** **58 kg**
+**Body Type:** strong hourglass; thick legs, stable hips; shoulders and back conditioned for long holds.
+
+**Hair (equal-weight random):** **Classic ponytail**, **wavy**, tied high; loose waves darken and cling under rain.
+**Color:** **smoky black** with **frost-silver lowlights**.
+**Eyes:** **cool gray** with a feline ring; narrow when she commits to a hit.
+**Skin:** warm ivory with a faint pearly sheen along collarbones; subtle snow-rosette shimmer at the outer thighs.
+
+**Jewelry & Accessories (glasses 40% → success):** **rectangular steel glasses** (anti-fog wards), **matte silver torque**, **braided vow-cord** on her wrist with two tiny chime beads.
+
+### FEMALE BODY METRICS
+
+```
+CUP: K   CATEGORY: Gigantic
+THREE_SIZES (B–W–H, cm): 112 – 60 – 108
+VALIDATION: • W/B = 0.54 → OK   • H/W = 1.80 → OK
+```
+
+A **gigantic bust** held by a load-bearing harness; movement stays efficient and controlled, never sloppy.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High** (functional reveal, harnessed support)
+
+A **cutaway cuirass** with a **deep cathedral V** laced to a **reinforced battle halter**; **open back** with cross-elastic anchors for her polearm scabbard. **High-slit tactical skirt** over **compression shorts** for deep lunges on slick glass; **knee greaves** with micro-tread; **half-gloves** for hook pulls. A **short storm-capelet** pins flat so crowds can read her stance.
+
+**Palette:** charcoal / frost silver / steel / pale indigo
+
+**Weapons & Gear:**
+
+* **Halberd “Vow-Stitch”** (reach 10 ft; matte beak; vow-etch runes)
+* **Spear** (versatile backup)
+* **Handaxe ×2**, **silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **29 HP** (3d12 + CON +3 ×3)
+* **AC:** **15** (Unarmored Defense 10 + DEX +2 + CON +3)
+* **Speed:** 30 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Intimidation +4, Perception +3, Medicine +3, Insight +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Zealot (XGtE)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning/piercing/slashing**
+* **Unarmored Defense**, **Reckless Attack**, **Danger Sense**
+* **Divine Fury:** **first creature** you hit on **each of your turns while raging** takes **+1d6 + 2** **radiant** damage
+* **Warrior of the Gods:** being raised from the dead **doesn’t require material components** (future-relevant)
+
+**Attacks**
+
+* **Halberd (reach 10 ft, 2h):** +6 to hit, **1d10+4** slashing (**+2** while raging) **+ 1d6+2 radiant** (Divine Fury, once/turn)
+* **Spear (1h):** +6 to hit, **1d6+4** piercing (**+2** while raging)
+* **Handaxe (melee or 20/60):** +6 to hit, **1d6+4** slashing (**+2** while raging)
+
+---
+
+## 🎯 Combat Tactics (Vowed Bulwark)
+
+* **Role:** **frontline controller / aggro sink / radiant pressure**
+* **Opener:** steps onto the seam, **Rage** on, **halberd tag** laced with **Divine Fury** to announce the lane; bullies look at her, not the crowd.
+* **Flow:** **Reckless** only when a pass window must open **now**; uses spear for tight railings; handaxes break flanks.
+* **Finisher:** hip-turn crescent cut; rain catches in a bright arc like a haloed “go” sign.
+
+**Damage Flavor:** radiant threads twine around her halberd, pulling droplets into a thin silver ribbon that points the way through.
+
+---
+
+## 💬 Personality
+
+* **Traits:** maternal warmth, deadpan teasing, battlefield hugs to steady nerves.
+* **Ideal:** Shelter — “Strength is the rent we pay for the breaths behind us.”
+* **Bond:** keeps a child’s ribbon looped on her wrist cord; kisses it before patrol.
+* **Flaw:** refuses to disengage while anyone remains in her care.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock stairs, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort wall**, **riot peel under radiant pressure**, **apex duel in heavy rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former quay porter and night caretaker at a riverside shelter. During her first Echo surge she stepped in front of a stampede, swore a promise, and felt light coil up her arms. The Wardens gave her steel and a rail to keep.
+
+* **Lifestyle:** tidy room over a soup kitchen; cooks huge stews for rookies.
+* **Income:** city stipend, hazard pay, quiet donations from shop rows she shields.
+
+---
+
+## 🧩 Morals & Ethics
+
+She measures victory by **how quietly people can keep walking**. Radiance is just kindness with teeth.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a span too wide for one promise; silence where rain should answer.
+* **Weaknesses:** **AC 15** and focus-fire hurts; reckless swings invite crits.
+* **Strengths:** **Rage resistances**, **Divine Fury** radiant pressure, reach control, vow-anchored morale.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF — protective, softly teasing**
+
+> “Hand on my back strap—tighter. Eyes on the seam, not the neckline. I’ll make space; you make use of it.”
+
+เธอมักดันไหล่คุณเข้าที่ เคาะจังหวะหายใจ แล้วปล่อยยิ้มที่ทำเอาเผลอหน้าแดงอย่างน่าหงุดหงิดใจ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her vow-cord beads warm near **forged rails** and chill on **Severance-stilled** spans.
+* **Hooks:**
+
+  1. **Vow Until Dawn:** hold a single seam through a full Echo rotation without once stepping back.
+  2. **Borrowed Halo:** a charlatan imitates her vow rune to grift donations; find the forger.
+  3. **Silent Benediction:** a bridge refuses to echo her Divine Fury—someone is eating the rain’s voice.
+
+---
+
+## Tags: #Female #HalfBeast #SnowLeopard #Barbarian3 #Zealot #Halberd #MILF #GiganticCup #CR1 #Frontline
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Seul-Ki **sets the halberd crosswise and nudges you behind it, glasses beading rain:**
+
+> “Two breaths with me. When I move, you pass—no arguments.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** halberd, spear, 2× handaxes, silk rope 50 ft, chalk-line, echo-salt, salve ×2, torque, vow-cord, glasses
+* **Level-Up (to 4):** **+2 STR (to 20)** หรือ **Feat: Great Weapon Master / Sentinel** (burst open or lane lock)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort wall**, **riot peel**, **apex duel in rain**
+* **Affiliation:** **Oath Thread — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean female half-beast snow leopard MILF barbarian zealot 165cm wavy ponytail glasses very high exposure deep-V cutaway cuirass high-slit skirt halberd K-cup B112 W60 H108 rain bridge radiant halo

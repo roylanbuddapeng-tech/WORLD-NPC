@@ -1,0 +1,182 @@
+# #409 — **Kana “Night-Cored” Ishida** — *Sugar on the Rim, Poison in the Cup*
+
+> “I only erase the parts that scream too loud.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 409
+* **Gender:** **Female** (Type: รุ่นเพื่อน — bright, disarmingly casual)
+* **Age:** 21
+* **Race:** **Human (Valeronnes—~90% human; distinctive: faint smoky ring around pupils)**
+* **Class & Level:** **Sorcerer (Shadow Magic) 3** — **Level 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Evil**
+* **Profession:** night “problem solvent,” alley illusionist, hush cleaner
+* **Organization:** freelance; whispers of favors for the Under-Stage runners
+* **Symbol:** a thin crescent of black ink swallowing a teardrop of light
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese idol-goth** — sweet smile, soft cheeks, and eyes that never quite reflect what they should.
+
+**Height:** **158 cm** **Weight:** **47 kg**
+**Body Type:** **petite-fit**, graceful wrists, dancer ankles; a stillness that reads as “camera-ready.”
+
+**Hair (equal-weight styles; twin bun chance is half of a single bun and did not trigger):** **High single bun**, **straight** with side-swept bangs; rain slicks it into a glossy knot.
+**Color:** **inky black** with **blue-violet lowlights** that flash under lantern rain.
+**Eyes:** dark brown with a smoke-gray ring; irises seem to “eat” reflections for a heartbeat.
+**Skin:** pale ivory with a cool moon-sheen at the collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** black ribbon choker with a tiny obsidian bead, thin chain bracelet, single drop earring (hematite).
+
+### FEMALE BODY METRICS
+
+```
+CUP: B   CATEGORY: Small
+THREE_SIZES (B–W–H, cm): 84 – 58 – 90
+VALIDATION: • W/B = 0.69 → OK   • H/W = 1.55 → OK
+```
+
+A compact silhouette optimized for swift turns and sudden stops; underlayers are tension-mapped so casting gestures stay razor-precise.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium–High** (sleek, mobile, subtly provocative)
+
+A **cutaway shadow-vest** with a **narrow plunge** over a **support bralette**, **open back** X-harness routing a spell-component sleeve. **High-slit skirt** layered over **opaque tights** for quick rail steps; **ankle boots** with whisper soles; **half-gloves** etched with crescent sigils. A **short storm-capelet** snaps at the collar and arcs like spilled ink in the rain.
+
+**Palette:** black / blue-violet / cold silver / dim pearl
+
+**Weapons & Gear:** ritual **dagger**, component pouch, occult chalks, silk rope 50 ft, echo-salt, smelling salts, three black ribbons (arcane foci flavor)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **17 HP** (3d6 avg 10 + CON +2 ×3 = +6)
+* **AC:** **16** (*Mage Armor* 13 + DEX +3)
+* **Speed:** 30 ft
+* **STR 8 (–1)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, CHA +5
+* **Skills:** Stealth +5, Deception +5, Insight +3, Arcana +2, Performance +5, Perception +3
+* **Languages:** Common, Thalassaran Cant
+
+**Sorcerer 3 — Shadow Magic (XGtE)**
+
+* **Eyes of the Dark:** **Darkvision 120 ft**, can spend **2 Sorcery Points** to cast **Darkness** (you can see through it)
+* **Strength of the Grave (1/LR):** when dropped to 0 HP by non-radiant/crit, **CHA save** to drop to 1 HP instead
+* **Sorcery Points:** **3**; **Metamagic (2):** **Subtle Spell**, **Twinned Spell**
+* **Spellcasting (CHA; DC **13**, +5 to hit)** • **Slots:** 1st×4, 2nd×2
+
+  * **Cantrips:** *Chill Touch, Fire Bolt, Minor Illusion, Mage Hand*
+  * **1st-level:** *Mage Armor, Disguise Self, Shield, Sleep*
+  * **2nd-level:** *Darkness* (also via Eyes), *Hold Person*
+
+**Attacks**
+
+* **Fire Bolt:** +5 to hit, **1d10** fire (120 ft)
+* **Chill Touch:** +5 to hit, **1d8** necrotic (120 ft), no healing
+* **Dagger:** +5 to hit, **1d4+3** piercing (finesse, 20/60)
+
+---
+
+## 🎯 Combat Tactics (Black-Ribbon Control)
+
+* **Role:** **controller / pick-off finisher / skirmish caster**
+* **Opener:** **Disguise Self** to get close, then pop **Darkness (Eyes of the Dark)** so she sees and they don’t; **Twinned Hold Person** snatches two targets into stillness.
+* **Flow:** thread **Chill Touch** through her personal darkness to choke off heals; **Subtle Spell** on **Sleep** or **Hold Person** in tight negotiations; **Shield** when the math says “greedy.”
+* **Finisher:** a soft step to the rail and a whisper—**Fire Bolt** stitches a blue-violet seam through the rain.
+
+**Damage Flavor:** her spells leave “ink halos” in falling rain; droplets curve around her like they’re afraid to touch.
+
+---
+
+## 💬 Personality (สุดโต่ง + มุมน่ารัก & ที่มา)
+
+* **Extremist Trait:** **ฆาตกรเชิงความเงียบ** — หมกมุ่นกับการลบ “เสียงสกปรก” ออกจากเมือง; เลือกเป้าหมายที่พูดมาก/ก่อจราจล
+* **Cute Quirk (unexpectedly sweet):** พก **วิถีทำขนมปังนม** ฉบับเขียนมือ; แจกขนมปังร้อน ๆ ให้เด็กเร่ร่อนก่อนออกล่าเสมอ
+* **Origin of Extremes:** โตในอพาร์ตเมนต์ที่ผนังบาง—คืนหนึ่งเสียงทะเลาะดังจน **Echo** พาคนตาย เธอรอดใต้โต๊ะและสาบานว่าจะ “ทำให้เมืองเงียบพอจะนอน” นับแต่นั้นคืนฝนตกคือเวลา “ชำระเสียง”
+* **Flaw:** จะเสี่ยงภารกิจเพื่อให้ **ฉากสุดท้าย** เงียบ “พอดี”—ถ้าคนร้องไห้เกินหนึ่ง เธออาจเริ่มใหม่
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, hush corridors, backstage ladders**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **negotiation-turned blackout**, **ambush in personal darkness**, **rain-duel on a narrow span**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former stagehand who learned sightlines and mic hiss. She files victims by “dB of offense,” then bakes bread at dawn as if absolution rises with the dough.
+
+* **Lifestyle:** one-room loft—oven, black ribbons, immaculate bedroll.
+* **Income:** hush retainers, “noise abatement” contracts, side tips from grateful neighbors.
+
+---
+
+## 🧩 Morals & Ethics
+
+Noise is cruelty; silence is mercy. Bodies are just stubborn sounds that forgot how to stop.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Severance spans where **rain makes no sound**—her “meter” breaks.
+* **Weaknesses:** low HP; relies on slots/points; struggles vs radiant and multi-target pressure.
+* **Strengths:** **Darkness you can see through**, **Subtle** social nukes, **Twinned Hold Person**, strong pick-offs.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+* **Making others blush:** fixes your collar, slips a warm bun into your hand, murmurs, “Breathe on two… good.”
+* **How she teases:** taps your pulse with a ribbon tip; smiles when it matches rainfall tempo.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+1. **Black-Ribbon Ledger:** ribbons pinned on a city map mark “noise sources”—three pins match a PC’s routes.
+2. **Silent Bakehouse:** her oven roars without sound on one bridge-night; a Severance anchor sits in the flue.
+3. **Echo Debt:** a victim’s sibling offers her a list of “loud men” for baking lessons—stop a burgeoning conspiracy.
+
+---
+
+## Tags
+
+#Female #Human #Sorcerer3 #ShadowMagic #Controller #DarknessSubtle #QuietKiller #CR1
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** dagger, component pouch, occult chalks, silk rope 50 ft, echo-salt, smelling salts, ribbon foci, pocket oven charm
+* **Level-Up (to 4):** **+2 CHA (to 18)** หรือ **Feat: War Caster / Metamagic Adept** (hold-concentration, more metamagic)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** hush corridors & glass bridges
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **blackout ambush**, **twinned paralyze**, **rain-span duel**
+* **Affiliation:** freelance, rumor-linked to the Under-Stage
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Japanese female sorcerer shadow 158cm high single bun blue-violet lowlights medium-high exposure cutaway vest darkness ink halos rain bridge

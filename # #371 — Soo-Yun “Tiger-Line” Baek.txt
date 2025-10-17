@@ -1,0 +1,192 @@
+# #371 — **Soo-Yun “Tiger-Line” Baek** — *Where the Spear Stops, the City Breathes*
+
+> “I take the first hit so you don’t have to.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 371
+* **Gender:** **Female (Type: MILF)**
+* **Age:** 32
+* **Race:** **Half-Beast (mammal — tiger lineage; ~88% human, faint auburn stripes at hips/shoulders, feline iris ring)**
+* **Class & Level:** **Barbarian (Ancestral Guardian) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **bridge bulwark / pike-lane anchor / civilian shield**
+* **Organization:** **Valeronnes Rail Wardens — Ancestral Line**
+* **Symbol:** tiger whiskers stylized into a rail seam with three ancestral knots
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean** — poised, warm-eyed authority with a fighter’s calm.
+**Height:** **166 cm** **Weight:** **60 kg**
+**Body Type:** compact hourglass; powerful thighs, carved core, soft maternal presence over steel.
+
+**Hair (female randomizer):** **Short feminine bob (15%)**, **sleek straight** with a side-swept fringe; practical under rain.
+**Color:** **black-brown** with **tiger-amber lowlights** that glint when she rages.
+**Eyes:** deep umber with a thin golden ring; pupils narrow feline-like under stress.
+**Skin:** warm ivory with faint auburn striping at the flanks and collarbones (subtle tiger tell).
+
+**Jewelry & Accessories (40% glasses → fail):** matte steel torque engraved with family sigils; braided wrist-cord; thumb-ring (grip ritual).
+
+### FEMALE BODY METRICS
+
+```
+CUP: K   CATEGORY: Gigantic
+THREE_SIZES (B–W–H, cm): 112 – 69 – 108
+VALIDATION: • W/B = 0.616 → OK   • H/W = 1.57 → OK
+```
+
+A **K-cup** carried with athletic posture and armor-grade support; small waist and strong hips make her silhouette striking but battle-ready.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Very High (combat-functional, ceremonial cut)**
+A **split laminar cuirass** with **deep V chest plate** laced tight for support; **open back** with crossed harness straps; **high-slit battle skirt** over compression shorts for lunging and anchoring on slick rails. **Knee greaves** bite the glass; a **short storm-cloak** pins flat to keep the spear line clear.
+
+**Palette:** charcoal / tiger-amber / steel / muted ivory
+
+**Weapons & Gear:**
+
+* **Glaive “Ancestor’s Line”** (reach 10 ft, rail-etched beak; ancestral knotwork along the haft)
+* **Handaxe ×2** (utility throws)
+* **Grip resin, chalk-line, silk rope 50 ft, manacles, salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 = **29 HP**
+* **AC:** **15** (Unarmored Defense 10 + DEX +2 + CON +3)
+* **Speed:** 40 ft (Barbarian Fast Movement at 5th? *Not yet* → **30 ft**; tiger stance training grants **+5 ft flavor**, stat stays **30 ft**)
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Intimidation +4, Perception +3, Insight +3, Survival +3
+* **Languages:** Common, Giant, Thalassaran Cant
+
+**Barbarian 3 — Ancestral Guardian (XGtE)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning, piercing, slashing**
+* **Unarmored Defense** (DEX + CON to AC)
+* **Reckless Attack**, **Danger Sense**
+* **Ancestral Protectors:** first creature you hit while raging has **disadvantage** on attacks vs targets other than you; allies gain **resistance** vs that target’s damage
+* **Ancestral Flavor:** pale tiger-spirit lines spiral from the glaive and trace lanes on the rain-glass
+
+**Attacks**
+
+* **Glaive (reach 10 ft, 2h):** +6 to hit, **1d10+4** slashing (**+2** while raging)
+* **Handaxe (melee or 20/60):** +6 to hit, **1d6+4** slashing (**+2** rage)
+
+---
+
+## 🎯 Combat Tactics (Lane Anchor / Bodyguard Spear)
+
+* **Role:** **frontline controller / protector**
+* **Opener:** **Reckless** reach cut to tag the priority threat → **Ancestral Protectors** forces it to focus her, shielding civilians/party.
+* **Flow:** plants feet on the rail seam; pivots hips to herd foes with the glaive’s beak; throws a handaxe only to stop flanks, never to chase.
+* **Finisher:** shoulder-in, half-moon sweep; when the tiger-lines wrap the enemy, allies pass safely.
+
+**Damage Flavor:** amber stripes brighten; spectral whiskers skitter in rain like luminous threads guiding allies.
+
+---
+
+## 💬 Personality
+
+* **Traits:** warm, teasing, protective “หัวหน้าทีมสายกอด”; laughs softly after hard hits.
+* **Ideal:** Shelter — “Strength is rent you pay for the people behind you.”
+* **Bond:** keeps a bead from her grandmother’s prayer cord; speaks to it before patrols.
+* **Flaw:** will **not** disengage if innocents are trapped; overextends.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock stairs, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort wall**, **riot peel with reach weapon**, **quiet duel under heavy rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former dock porter turned line-guardian. The first night she raged, the rain traced tiger whiskers down the rail and a crowd slipped past behind her untouched. The Wardens put a glaive in her hands and never looked back.
+
+* **Lifestyle:** spartan, sleeps short, cooks big for the squad.
+* **Income:** city stipend, hazard pay, small donations from saved shopkeepers.
+
+---
+
+## 🧩 Morals & Ethics
+
+She weighs choices by **who breathes easier after**. If that means taking the worst hit, she smiles through the bruise.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a span so wide even her ancestors can’t cover the distance.
+* **Weaknesses:** modest AC; if kited by ranged fire, needs cover.
+* **Strengths:** **aggro lock** via Ancestral Protectors, **reach control**, **Rage** resistances.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF — protective, softly teasing**
+
+> “Behind me, sweetheart. Breathe. The rail listens to confidence.”
+
+When allies blush, she grins and bumps shoulders: “Eyes on the line, not the neckline.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her beads warm near forged-echo forgeries — the ancestors “hiss” at false rails.
+* **Hooks:**
+
+  1. **The Whisker Map:** spectral whiskers start pointing to a hidden span beneath the city.
+  2. **Debt of the Dock:** smugglers target the families she once carried crates with.
+  3. **Ancestor’s Trial:** her tiger-spirit demands a night without retreat to sanctify a bridge.
+
+---
+
+## Tags: #Female #HalfBeast #Tiger #Barbarian3 #AncestralGuardian #Glaive #MILF #CR1 #Protector
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Soo-Yun **sets the glaive crosswise and nods you behind it**
+
+> “Hand on my belt, head down. I’ll write us a safe lane.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** glaive; 2× handaxes; grip resin; chalk-line; silk rope; manacles; salve ×2; torque; wrist-cord; prayer bead
+* **Level-Up (to 4):** **+2 STR (to 20)** or **Feat: Polearm Master / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort wall**, **riot peel**, **duel under rain**
+* **Affiliation:** **Ancestral Line — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean female half-beast tiger barbarian ancestral guardian 166cm short sleek bob amber lowlights gigantic K-cup deep-V open back high-slit skirt glaive rain bridge protective warm smile fantasy

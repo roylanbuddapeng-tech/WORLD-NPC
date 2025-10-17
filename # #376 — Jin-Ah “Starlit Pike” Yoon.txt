@@ -1,0 +1,195 @@
+# #376 — **Jin-Ah “Starlit Pike” Yoon** — *Tiny Frame, Big Crash*
+
+> “I’m small so the lane has room for you. The spear makes the room.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 376
+* **Gender:** **Female (Type: รุ่นเพื่อน — playful, confident, team-first)**
+* **Age:** 21
+* **Race:** **Half-Beast (mammal — sable lineage; ~88% human, faint dusk-brown ear tufts, soft tail nub)**
+* **Class & Level:** **Barbarian (Wild Magic) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **lane breaker / reach herder / riot peel**
+* **Organization:** **Valeronnes Rail Wardens — Starlit Line**
+* **Symbol:** a slim spear carving a comet trail across a glass rail
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese street-athletic** — compact, bright, and mischievous; the look of a sprinter who discovered a spear.
+
+**Height:** **156 cm** **Weight:** **48 kg**
+**Body Type:** **petite hourglass** with track-toned legs and a surprisingly full bust; power concentrated in hips and core.
+
+**Hair (equal-weight random):** **Twin tails** (high), straight ribbons falling to collarbone; strands flare when she rages.
+**Color:** **inky black** with **starlight silver lowlights**.
+**Eyes:** **smoky amber** with a sable-like iris ring.
+**Skin:** fair with a soft dusk glow along the collarbones.
+
+**Jewelry & Accessories (glasses 40% → success):** **thin round glasses** (anti-fog runes), a **silver star pendant**, **braided wrist-cord**, and a **tiny bell charm** on one hair tie.
+
+### FEMALE BODY METRICS
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B–W–H, cm): 100 – 57 – 96
+VALIDATION: • W/B = 0.57 → OK   • H/W = 1.68 → OK
+```
+
+A striking **I-cup on a very small waist**; her support harness and stance training keep motion efficient for sprint-and-pike work.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High** (functional but revealing for mobility)
+
+A **cutaway cuirass** with **deep V** laced into a **supportive battle halter**, **open back** with cross-elastic harness to anchor the scabbard; a **high-slit tactical skirt** over compression shorts for lunges on slippery glass. **Knee greaves** with micro-grip pads; **half-gloves** for pole control. **Short storm-cloak** pins flat to keep the silhouette clean for crowds.
+
+**Palette:** night black / steel / starlight silver / indigo accents
+
+**Weapons & Gear:**
+
+* **Rail-spear “Comet Trace”** (versatile; rail-balanced haft with etched stars)
+* **Glaive (field rack)** for extended reach setups
+* **Throwing needles ×6**, **silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +2)×3 = **27 HP**
+* **AC:** **15** (Unarmored Defense 10 + DEX +2 + CON +2 → 14; **battle halter wards +1** flavor; RAW uses 14, encounters assume 14–15)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Acrobatics +4, Athletics +5, Intimidation +4, Perception +3, Performance +4
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Wild Magic (TCoE)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning/piercing/slashing**
+* **Unarmored Defense**, **Reckless Attack**, **Danger Sense**
+* **Magic Awareness (1/LR):** as an action, sense spells/magic items within 60 ft (1 round)
+* **Wild Surge (d8) on Rage:** random effects such as **teleport bursts, force motes, spectral vines, bolt lashes**; she “reads” them like star trails to herd foes safely. *(Use TCoE surge table.)*
+
+**Attacks**
+
+* **Spear (1h):** +5 to hit, **1d6+3** piercing (**+2** while raging)
+* **Spear (2h):** +5 to hit, **1d8+3** piercing (**+2** while raging)
+* **Glaive (reach 10 ft, 2h):** +5 to hit, **1d10+3** slashing (**+2** rage)
+* **Throwing Needle:** +4 to hit, **1d4+2** piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Chaos-Control Pike)
+
+* **Role:** **frontline skirmisher / lane shaper**
+* **Opener:** **Rage** → let **Wild Surge** decide the first “star trail”; she steps where the sparks fall, drawing enemies away from civilians.
+* **Flow:** **spear** for precision pin; swap to **glaive** when the span widens; uses **Reckless** selectively to pull aggro into her surge zone.
+* **Finisher:** short-hop feint; star-motes pop along the spear line—**Action economy stays Barbarian**, effects are surge flavor per TCoE.
+
+**Damage Flavor:** rain turns to glittering beads along her weapon; when a surge pops, the beads arc like a comet tail.
+
+---
+
+## 💬 Personality
+
+* **Traits:** banter-happy, competitive grin, checks on teammates between swings.
+* **Ideal:** Joy Under Pressure — “If I’m smiling, the crowd breathes.”
+* **Bond:** keeps a folded rail ticket from the night she first saved a lane.
+* **Flaw:** chases “cool” plays; will attempt a stylish pivot instead of a safer shove.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **riot peel via surge zones**, **escort choke**, **duel on a slick apex**
+
+---
+
+## 📜 Background & Lifestyle
+
+A courier who sprinted wet planks for tips; when Echo night hit, she grabbed a forgotten spear and found the storm tracing her steps with light. The Wardens taught her to steer chaos instead of fear it.
+
+* **Lifestyle:** tiny loft with star maps and grip tape.
+* **Income:** city stipend, hazard pay, courier side-gigs.
+
+---
+
+## 🧩 Morals & Ethics
+
+She judges success by **how smoothly people pass behind her**, not by the bruises she collects.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a “dead sky” surge that refuses to light; Echo eating her starlight.
+* **Weaknesses:** **AC 14–15**, vulnerable to focus fire; Wild Surge unpredictability can misalign plans.
+* **Strengths:** **Rage resistances**, **on-hit pressure with spear/glaive**, **surge utility** to herd or burst.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน — playful, supportive**
+
+> “Okay, your hand on my strap—no, the *back* strap. Ready? We pivot on three—smile.”
+
+เธอชอบแหย่ให้คนข้าง ๆ ยิ้มก่อนเริ่มวิ่งเสมอ ทำเอาเผลอหน้าแดงแล้วก้าวได้พอดีจังหวะ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her bell charm tings only when a **favorable** surge is coming—she thinks it’s luck; it’s actually keyed to an old starmage ward.
+* **Hooks:**
+
+  1. **Comet Rail:** surges sketch a route to a sealed bridge; the map appears only in rain.
+  2. **Ticket to Silence:** her keepsake ticket belongs to a vanished courier cult.
+  3. **Borrowed Constellation:** a rival steals her bell; surges turn hostile until it’s reclaimed.
+
+---
+
+## Tags: #Female #HalfBeast #Sable #Barbarian3 #WildMagic #Spear #Glaive #BigCupSmallFrame #HighExposure #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Jin-Ah **bumps shoulders, then sets the spear like a pointer:**
+
+> “We dash on the starlight. If it wobbles, I pin it—promise.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, glaive (rack), needles ×6, silk rope 50 ft, chalk-line, echo-salt, salve ×2, star pendant, glasses
+* **Level-Up (to 4):** **+2 STR (to 18)** or **Feat: Polearm Master** (bonus butt-end poke, opportunity control)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **riot peel via surge**, **escort choke**, **apex duel**
+* **Affiliation:** **Starlit Line — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female half-beast sable barbarian wild magic 156cm petite hourglass twin tails black hair silver lowlights round glasses high to very high exposure deep-V cutaway cuirass open back high-slit skirt spear and glaive I-cup B100 W57 H96 starlight rain glow playful teammate fantasy

@@ -1,0 +1,181 @@
+# #373 — **Nari “Ripple-Pike” Seo** — *Small Frame, Long Shadow*
+
+> “If the line wobbles, I’ll pin it… promise!”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 373
+* **Gender:** **Female (Type: รุ่นน้อง — shy-brave, eager-to-please)**
+* **Age:** 19
+* **Race:** **Half-Beast (aquatic — dolphin lineage; ~88% human, faint opalescent hue at temples, subtle fin-like ear ridges)**
+* **Class & Level:** **Fighter (Eldritch Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **pike-line defender / lane stabilizer / arcane cover**
+* **Organization:** **Valeronnes Glass Court — Ripple Ward**
+* **Symbol:** a slim spear tracing ripples across a rail seam
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean idol-cute** — petite, bright-eyed, with “I’ll try my best!” energy.
+
+**Height:** **155 cm** **Weight:** **49 kg**
+**Body Type:** **petite hourglass** — deceptively small frame with strong hips/legs; delicate shoulders.
+
+**Hair (equal-weight random):** **Twin buns (double odango)** with wispy curtain bangs and a few trailing ribbons.
+**Color:** **ink-black** with **pearlescent teal lowlights** that glow faintly in rain.
+**Eyes:** **sea-glass teal**, wide and earnest; pupils ringed with a soft silver sheen.
+**Skin:** fair with a **cool opal glow** along collarbones under wet light.
+
+**Jewelry & Accessories (glasses 40% → success):** **oval frameless glasses** (anti-fog runes), a **tiny conch-pendant**, **silver ear-cuff** shaped like a droplet, and a **bracelet of blue-thread charms**.
+
+### FEMALE BODY METRICS
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B–W–H, cm): 100 – 58 – 92
+VALIDATION: • W/B = 0.58 → OK   • H/W = 1.59 → OK
+```
+
+A dramatically **petite-but-busty** silhouette (I-cup) held by disciplined posture and a custom harness; movement remains nimble and balanced.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High** (combat-functional but revealing)
+
+A **cutaway breastplate** with **deep V front** over an **arcane support harness** (runic straps distribute weight for sprinting); **backless cross-harness** anchors the spear scabbard. **High-slit tactical skirt** over compression shorts for rail lunges; **thigh-grip straps** hold throwing needles. **Knee-high traction boots** with fin-tread soles.
+
+**Palette:** pearl white / sea-teal / silver / black accents
+
+**Weapons & Gear:**
+
+* **Spear “Ripple-Pike”** (one-handed, rail-balanced; bonded)
+* **Shield** (glass-inset boss, bonded)
+* **Throwing needles ×6** (sleeve spring)
+* **Arcane chalk, silk rope 50 ft, echo-salt, salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **26 HP**
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 14 (+2)** **CON 14 (+2)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Acrobatics +4, Athletics +4, Arcana +3, Perception +3, Persuasion +4
+* **Languages:** Common, Aquan, Thalassaran Cant
+
+**Fighter 3 — Eldritch Knight**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Weapon Bond:** **Spear** and **Shield** (can’t be disarmed; summon as bonus action)
+* **Spellcasting:** **INT-based**; **2× 1st-level slots**, **Spells Known: 3** (at least two Abjuration/Evocation)
+
+  * **Cantrips (2):** *Mage Hand, Fire Bolt*
+  * **1st-level (3 known):** *Shield* (Abj), *Absorb Elements* (Abj), *Magic Missile* (Evo)
+* **Arcane Flavor:** runes along harness glimmer when she “pins the lane”
+
+**Attacks**
+
+* **Spear (1h + shield):** +4 to hit, **1d6+2** piercing
+* **Spear (2h):** +4 to hit, **1d8+2** piercing
+* **Throwing Needle:** +4 to hit, **1d4+2** piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Arcane Lane-Pin)
+
+* **Role:** **frontline defender / reactive control**
+* **Opener:** mark the choke with chalk → **Shield** spell ready to catch the first swing; **spear+shield** tag to hold aggro.
+* **Flow:** turtle-step footwork; **Magic Missile** to punish kites; **Absorb Elements** to survive bursts; **Action Surge** for decisive shove/finish.
+* **Finisher:** quick swap two-handed spear for a lane-pierce thrust that makes rain split like a curtain.
+
+**Damage Flavor:** droplets bead into ripples along her spear path; when *Shield* pops, a thin water-lens flashes over the glass.
+
+---
+
+## 💬 Personality
+
+* **Traits:** earnest, apologizes when she hits too hard; stubborn about keeping promises.
+* **Ideal:** Care — “A steady lane is a kind of hug.”
+* **Bond:** keeps a folded note from her captain: “Small isn’t weak.”
+* **Flaw:** flusters easily; overcorrects posture when teased.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort pin**, **riot peel**, **quiet duel at a slick apex**
+
+---
+
+## 📜 Background & Lifestyle
+
+A dock-runner who learned balance chasing crates across wet planks. Her dolphin-blood made her read water like sheet music; the Court taught her to draw lanes with steel and spells.
+
+* **Lifestyle:** tiny attic with drying racks for harness straps.
+* **Income:** city stipend, hazard pay, grateful tips from shop rows she keeps safe.
+
+---
+
+## 🧩 Morals & Ethics
+
+She measures victory by **how smoothly people pass behind her**, not by enemies fallen.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** **dead water** (Echo silences the rain); slipping when others trust her feet.
+* **Weaknesses:** modest damage without Action Surge; can be baited by taunts.
+* **Strengths:** **AC 19**, **on-demand Shield**, **bonded spear+shield**, **steady control in rain**.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง — shy but flirty when flustered**
+
+> “H-hold the strap here… i-it helps me balance… w-wait, not that strap!”
+
+She blushes, then plants her spear with a tiny stomp: “A-anyway—stay behind me!”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her glasses fog with **arrow-like runes** before danger—micro-currents whisper black-ice spots.
+* **Hooks:**
+
+  1. **Ripple Map:** her chalk marks rearrange into a hidden route at midnight.
+  2. **Dead Water Night:** Echo stills the rain; Nari must fight without her “water sense.”
+  3. **Harness Heist:** smugglers want her runic support harness design.
+
+---
+
+## Tags: #Female #HalfBeast #Dolphin #Fighter3 #EldritchKnight #Spear #Shield #KoreanTheme #BigCupSmallFrame #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nari **tucks your hand under a harness strap, cheeks pink:**
+
+> “If I wobble, squeeze once. I’ll steady the line… then we go.”
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean female half-beast dolphin fighter eldritch knight 155cm petite hourglass twin buns ink-black hair teal lowlights oval glasses high exposure deep-V cutaway breastplate backless harness high-slit skirt spear shield I-cup huge B100 W58 H92 rain-slick bridge pearlescent glow shy kohai fantasy

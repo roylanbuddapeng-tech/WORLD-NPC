@@ -1,0 +1,185 @@
+# #372 — **Min “Pearl-Spark” Han** — *Sugar-Soft Storm on a Silver Rail*
+
+> “I can hold your hand… or hold the line. Which one first?”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 372
+* **Gender:** **Male — Femboy (Subtype: ยั่วยวนใสซื่อ)**
+* **Age:** 20
+* **Race:** **Half-Beast (mammal — fox lineage; ~88% human, soft auric ring in eyes, tiny velvet tail nub)**
+* **Class & Level:** **Barbarian (Storm Herald — Sea) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **lane-sweeper / crowd-safety brawler / drizzle-ward dancer**
+* **Organization:** **Valeronnes Glass Court — Storm Thread**
+* **Symbol:** a tiny fox-tail charm tied to a raindrop sigil
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean idol-soft** — porcelain-smooth features, heart-shaped smile, and a shy tilt that switches to playful in a blink.
+
+**Height:** **158 cm** (femboy rule ≤160)
+**Weight:** **49 kg**
+**Body Build:** **slender, graceful**, dancer’s calves, delicate wrists; moves like a stage performer who learned to fight between beats.
+
+**Hair (femboy uses female styles):** **Twin buns (odango)** with airy curtain bangs and a few wisps trailing behind (bun/twin bun favored).
+**Color:** **silvery rose** with **pearlescent lowlights** that flash when the storm aura purrs.
+**Eyes:** dewy **tea-brown** with a **golden fox ring**; lashes long enough to cause accidents.
+**Skin:** fair with a soft moonlit glow along the collarbones.
+
+**Jewelry & Accessories (40% glasses → success):** **round, thin silver glasses** (anti-fog runes), tiny **fox-charm earrings**, a **sea-pearl choker**, and a **ribboned wrist-bangle** that jingles faintly.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High (allowed for femboy)**
+A **cropped storm-vest** with a **deep V front** laced in silver thread, showing the smooth sternum line; **open back** crossed by elastic straps that anchor the harness. **High-cut side-slit shorts** over sheer black tights, and **knee-high soft boots** with wave-stitch soles for glass traction. A **short rain-capelet** clips at the shoulders; when his aura flares, its hem ripples like water.
+
+**Palette:** pearl white / sea teal / silver / blush-pink accents
+
+**Weapons & Gear:**
+
+* **Trident “Rain-Kitten”** (rail-balanced, fork tips etched with ripple runes)
+* **Net (silk, weighted)** for safe captures
+* **Dagger** (utility), **chalk-line**, **echo-salt**, **smoke bead ×1**, **silk rope 50 ft**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +1)×3 = **24 HP**
+* **AC:** **14** (Unarmored Defense 10 + DEX +3 + CON +1)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 16 (+3)** **CON 12 (+1)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +3
+* **Skills:** Acrobatics +5, Performance +5, Persuasion +5, Athletics +5, Insight +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Storm Herald (Sea)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning, piercing, slashing**
+* **Unarmored Defense** (DEX + CON)
+* **Reckless Attack**, **Danger Sense**
+* **Storm Aura (Sea):** while raging, **aura 10 ft**; as a bonus action each round, one creature in aura makes **STR save (DC = 8 + PB2 + CON1 = 11)** or takes **1d6 lightning** and is **pushed 10 ft** (creature choice, not allies) — perfect for lane clearing on glass.
+
+**Attacks**
+
+* **Trident (1h + free off-hand):** +5 to hit, **1d6+3** piercing (**+2** while raging)
+* **Trident (2h):** +5 to hit, **1d8+3** piercing (**+2** rage)
+* **Net:** on hit, target **restrained** (RAW limits further attack use)
+* **Dagger:** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Storm-Lane Sweeper)
+
+* **Role:** **frontline controller / safe capture**
+* **Opener:** coy wave → **Rage** flares as a hush of rain; **Storm Aura (Sea)** pops to **push** the loudest brute **off the safe line** without tossing them into civilians.
+* **Flow:** **net** high-threat casters; trident taps ankles and guard-hands; uses **Reckless** only to draw aggro away from bystanders.
+* **Finisher:** cheeky pirouette → trident lifts, **aura** crackles — foe slides back like the rain said “please move.”
+
+**Damage Flavor:** hair buns halo with tiny lightning motes; droplets bead on his glasses, tracing heart shapes before falling.
+
+---
+
+## 💬 Personality
+
+* **Traits:** innocent-flirty, playful helper; compliments first, swings later.
+* **Ideal:** Care Through Chaos — “If I must be loud, let it be for someone’s safety.”
+* **Bond:** keeps a pearl from his first rescue; kisses it before shifts.
+* **Flaw:** too trusting; will try to “talk the monster down” mid-brawl.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **riot peel by push-aura**, **escort choke**, **net capture under rainlight**
+
+---
+
+## 📜 Background & Lifestyle
+
+Busked as a street dancer; learned to read crowds and footwork before weapons. One night, a storm loved his rhythm — lightning purred when he spun. The Wardens taught him a trident and how to turn applause into **open lanes**.
+
+* **Lifestyle:** tiny garret room; closet full of capes.
+* **Income:** city stipend, performance tips after safe escorts.
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes kindness can be theatrical — a show that convinces fear to take a seat.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** sudden silences where rain should fall (Echo eats sound).
+* **Weaknesses:** **AC 14**; hates tight quarters without a crowd to read.
+* **Strengths:** **push aura control**, **Rage resistances**, **soft capture** with net.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy — ยั่วยวนใสซื่อ:**
+
+> “Hold my cape, okay? If it flies up, it’s totally the storm’s fault… probably.”
+
+ชอบแกล้งทำปากเบะแล้วส่งตาหวาน จากนั้นก็จับมือพาเดินในเลนปลอดภัย—ทำให้คนหน้าแดงจนลืมกลัว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** when his aura hums, his glasses fog in runic shapes that **predict shove vectors**.
+* **Hooks:**
+
+  1. **Pearl Forecast:** storms start tracing arrows on his lenses toward a hidden sea-door.
+  2. **Net of Hearts:** a black-market ring sells cursed nets; Min has to swap them mid-riot.
+  3. **Storm That Blushes:** a spirit claims Min “stole its rhythm” and wants a dance-duel at the bridge apex.
+
+---
+
+## Tags: #Femboy #Male #HalfBeast #Fox #Barbarian3 #StormHeraldSea #Trident #Net #Controller #CR1 #HighExposure
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Min **tucks your fingers into his bangle ribbon**
+
+> “Stay right here—if I spin, you spin with me. Cute duo, right?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** trident, net, dagger, silk rope 50 ft, smoke bead ×1, echo-salt ×1, chalk-line, capelet, glasses (anti-fog), pearl charm
+* **Level-Up (to 4):** **+2 STR (to 18)** or **Feat: Polearm Master** (bonus butt-end poke for control)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & roof-rails**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort push-aura**, **riot peel**, **net capture**
+* **Affiliation:** **Storm Thread — Glass Court**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean femboy fox half-beast barbarian storm herald sea 158cm twin buns silvery rose hair round silver glasses high exposure cropped deep-V vest open back side-slit shorts sheer tights knee boots trident net rain-slick bridge lightning aura cute seductive innocent fantasy

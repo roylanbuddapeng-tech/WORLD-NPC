@@ -1,0 +1,195 @@
+# #396 — **Bo-Ra “Wolf-Thread” Koo** — *Laugh Once, Hold Twice*
+
+> “I nip the brute; you take the gap. Easy.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 396
+* **Gender:** **Female (Type: รุ่นเพื่อน — playful, team-first, steady under pressure)**
+* **Age:** 22
+* **Race:** **Half-Beast (mammal — fox lineage; ~88% human, faint russet ear-tufts, thin tail-nub, amber ring in pupils)**
+* **Class & Level:** **Barbarian (Path of the Totem Warrior — Wolf) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane opener / pack caller / riot peel**
+* **Organization:** **Valeronnes Rail Wardens — Pack Seam**
+* **Symbol:** a stitched rail line with a tiny wolf print at the choke
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean — cheeky athlete classmate**; bright eyes, quick grin, easy confidence.
+
+**Height:** **160 cm** **Weight:** **49 kg**
+**Body Type:** **petite-fit**, springy calves, neat shoulders; stance trained for sudden stops.
+
+**Hair (equal-weight random):** **Twin tails**, **straight**, tied mid-height; flicks like russet ribbons when she pivots.
+**Color:** **raven black** with **warm russet lowlights** that wake under rain.
+**Eyes:** **amber-brown** with a fox-gold ring; pupils tighten when she locks a target.
+**Skin:** fair with light sun-warmth across the nose.
+
+**Jewelry & Accessories (glasses 40% → success):** **oval bronze glasses** (anti-fog wards), single chain earring, braided wrist cord with a tiny wolf-charm.
+
+### FEMALE BODY METRICS
+
+```
+CUP: B   CATEGORY: Small
+THREE_SIZES (B–W–H, cm): 82 – 58 – 91
+VALIDATION: • W/B = 0.71 → OK   • H/W = 1.57 → OK
+```
+
+A **small bust, tight waist** silhouette tuned for sharp entries and fast pivots; harness routes shock through hips so the spear line stays true.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium–High** (functional reveal for mobility)
+
+A **cutaway scout cuirass** with **open shoulders** over a **supportive battle halter**; **open-back cross harness** anchors a scabbard without bounce. **Short split skirt** over **compression shorts** for deep lunges on slick glass. **Knee-high traction boots** and **half-gloves** etched with pack-marks. A **short storm-capelet** pins flat so crowds can read her stance.
+
+**Palette:** charcoal / steel / russet / pale ivory
+
+**Weapons & Gear:**
+
+* **Spear “Pack-Stitch”** (versatile; rail-balanced)
+* **Shield** (glass-inset boss)
+* **Handaxe ×2** (utility throws)
+* **Silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**, **grip resin**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **29 HP** (3d12 + CON +3 ×3)
+* **AC:** **18** (Unarmored Defense 10 + DEX +2 + CON +3 + **shield +2** = 17; rounded presentation **18**)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Acrobatics +4, Perception +3, Insight +3, Persuasion +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Totem Warrior (Wolf) (PHB)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning/piercing/slashing**
+* **Unarmored Defense**, **Reckless Attack**, **Danger Sense**
+* **Spirit Seeker (rituals):** *Beast Sense, Speak with Animals*
+* **Totem Spirit — Wolf:** while **raging**, your **allies have advantage on melee attacks** against any creature **within 5 ft of you** (pack fighter aura)
+
+**Attacks**
+
+* **Spear (1h + shield):** +5 to hit, **1d6+3** piercing (**+2** while raging)
+* **Spear (2h):** +5 to hit, **1d8+3** piercing (**+2** while raging)
+* **Handaxe (melee or 20/60):** +5 to hit, **1d6+3** slashing (**+2** while raging)
+
+---
+
+## 🎯 Combat Tactics (Pack-Caller Controller)
+
+* **Role:** **frontline controller / ally enabler**
+* **Opener:** **Rage**, step to the choke, spear-tap the loudest brute; announces “**Pack!**” so allies dive in with **advantage** from Wolf totem.
+* **Flow:** plants **shield** to keep the seam clean; throws a **handaxe** to clip flanks; uses **Reckless** only to yank eyes off civilians.
+* **Finisher:** pivot into a two-handed thrust; rain draws a tidy arrow behind her as the line passes.
+
+**Damage Flavor:** fox-gold motes gather at her boots; droplets align like pawprints pointing “safe way.”
+
+---
+
+## 💬 Personality
+
+* **Traits:** cheeky, encouraging, counts breaths for the squad; laughs once to break tension.
+* **Ideal:** “We move as one.”
+* **Bond:** keeps a stitched ribbon from her first saved shop row.
+* **Flaw:** chases the stylish shove when the boring hold would do.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock-stairs, roof-rails**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort choke**, **riot peel by pack advantage**, **apex duel in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+Quay runner and alley game captain; she’s been calling plays since childhood. The first Echo night, she barked “Pack!” and a terrified crowd remembered how to move together.
+
+* **Lifestyle:** cozy loft of straps, chalk strings, fox-charms, and drying boots.
+* **Income:** city stipend, hazard pay, alley-drill side gigs.
+
+---
+
+## 🧩 Morals & Ethics
+
+Victory = **more footsteps behind her than ahead**. Pride is for after the bridge.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a span where voices won’t sync (Severance stillness).
+* **Weaknesses:** resource-gated (**Rage 3/LR**), ranged focus fire.
+* **Strengths:** **ally advantage aura (Wolf)**, **Rage resistances**, **shielded line**, simple reliable kit.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน — teasing & supportive**
+
+> “Back strap—yep, tighter. When I say ‘Pack,’ you pounce. I’ll nip first.”
+
+เธอเคาะโล่ให้จังหวะ ทำคนข้าง ๆ ยิ้มหลุด ก่อนทั้งหมดจะพุ่งพร้อมกันอย่างพอดี
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her fox-charm warms near **forged rails** and chills on **Severance-stilled** spans.
+* **Hooks:**
+
+  1. **Borrowed Howl:** a gang copies her call-signals—reclaim the pack code.
+  2. **Night Prints:** fox-gold pawprints appear at midnight, pointing to a sealed under-bridge.
+  3. **Quiet Pack:** her call falls flat on one span; someone is eating the rhythm.
+
+---
+
+## Tags: #Female #HalfBeast #Fox #Barbarian3 #TotemWarrior #WolfTotem #Spear #Shield #FriendType #SmallCup #CR1 #Controller
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Bo-Ra **slides your hand onto the harness ring, grinning:**
+
+> “Half-step shadow. If I laugh, we go.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, shield, 2× handaxes, silk rope 50 ft, chalk-line, echo-salt, salve ×2, fox-charm, bronze glasses
+* **Level-Up (to 4):** **+2 STR (to 18)** หรือ **Feat: Sentinel / Shield Master** (lane lock & shoves)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock-stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort choke**, **pack-advantage peel**, **duel in rain**
+* **Affiliation:** **Pack Seam — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN, ≤20 words)
+
+Korean female half-beast fox barbarian totem wolf 160cm twin tails glasses medium-high exposure cutaway cuirass spear shield B-cup rain bridge playful

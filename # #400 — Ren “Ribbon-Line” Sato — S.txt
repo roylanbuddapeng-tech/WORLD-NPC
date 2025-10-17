@@ -1,0 +1,184 @@
+# #400 — **Ren “Ribbon-Line” Sato** — *Sweet Smile, Sharp Cut*
+
+> “If I blush, don’t laugh—just follow the ribbon and step through.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 400
+* **Gender:** **Male — Femboy (Subtype: ใสซื่อ / innocent)**
+* **Age:** 19
+* **Race:** **Half-Beast (avian — swallow lineage; ~88% human, faint iridescent ear tufts, thin sky-blue ring in pupils)**
+* **Class & Level:** **Fighter (Samurai) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **lane duelist / calm-point decoy / escort point-man**
+* **Organization:** **Valeronnes Rail Wardens — Ribbon Thread**
+* **Symbol:** a slim rail seam with a fluttering ribbon curling into a blade-tip
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese idol-soft** — doe eyes, gentle smile, neat posture; looks like a stage lead who wandered into a storm.
+
+**Height:** **159 cm** (femboy rule) **Weight:** **48 kg**
+**Body Build:** **slender, graceful**, rider’s thighs, narrow waist; light, dancey balance.
+
+**Hair (equal-weight random):** **Twin tails**, **straight**, mid-height with thin ribbon ties; tails flick like swallow wings when he pivots.
+**Color:** **inky black** with **sky-blue lowlights** that shimmer under rain.
+**Eyes:** **honey-brown** with a pale sky-blue iris ring that brightens when he steels himself.
+**Skin:** porcelain-fair with a soft rain-glow over the collarbones.
+
+**Jewelry & Accessories (glasses 40% → success):** **round silver glasses** (anti-fog wards), single chain earring, ribbon-choker with a dew-pearl, slim bell-bangle (near-silent).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High** (allowed for femboy; supportive + mobile)
+
+A **cropped deep-V vest cuirass** laced to a **velvet underbust harness**, **open back** with X-elastic anchors that seat a **naginata sling**. **High-cut split shorts** over **sheer tights**, **thigh-high traction boots** with ripple treads. **Half-gloves** etched with tiny court-runes. A **short storm-capelet** clips at the throat and flutters like a swallow tail when he spins.
+
+**Palette:** sky-blue / charcoal / pearl / silver accents
+
+**Weapons & Gear:**
+
+* **Naginata “Swallow-Line”** (RAW **glaive**, reach 10 ft; rail-balanced haft with swirl etch)
+* **Shortspear** (tight lanes), **dagger**
+* **Silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **24 HP** (3d10 + CON +1 ×3)
+* **AC:** **17** (breastplate 14 + DEX +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 12 (+1)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +3
+* **Skills:** Persuasion +5, Acrobatics +4, Athletics +5, Insight +3, Performance +5
+* **Languages:** Common, Thalassaran Cant, **Auran**
+
+**Fighter 3 — Samurai (XGtE)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Bonus Proficiency:** **Persuasion**; plus **one language** (Auran)
+* **Fighting Spirit (3/LR):** **Bonus Action**—gain **advantage on weapon attacks** until end of current turn and **5 temp HP**
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+
+**Attacks**
+
+* **Glaive (reach, 2h):** +5 to hit, **1d10+3** slashing
+* **Shortspear (1h):** +5 to hit, **1d6+3** piercing
+* **Dagger:** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Ribbon-Cut Escort)
+
+* **Role:** **controller–skirmisher / burst window opener**
+* **Opener:** shy smile → **Fighting Spirit** for advantage + temp HP, then a crisp **glaive tag** at reach to pin the bully off the seam.
+* **Flow:** wheels to herd with the naginata’s **10-ft reach**; swaps to **shortspear** in tight rails. **Action Surge** turns a hold into a clean pass window on command.
+* **Finisher:** spin-slice along the chalk seam; blue ribbons unfurl in the rain pointing *through*.
+
+**Damage Flavor:** each advantaged strike flicks sky-blue droplets into a ribbon that lingers a heartbeat—just long enough for civilians to step.
+
+---
+
+## 💬 Personality
+
+* **Traits:** earnest compliments, apologizes mid-feint (“s-sorry—coming through!”), quick to blush but steady under pressure.
+* **Ideal:** **Kindness first, sharpness second.**
+* **Bond:** keeps a child’s thank-you ribbon looped on his choker.
+* **Flaw:** stays to reassure stragglers; needs firm calls to advance.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock-stair aprons, roof-rails**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort choke**, **riot peel via reach control**, **rain-duel on a narrow span**
+
+---
+
+## 📜 Background & Lifestyle
+
+Tea-runner for an amphitheater troupe; learned crowd physics from stage cues. On his first Echo night he lifted a ribbon to mark a safe line—the city followed, and he didn’t let go.
+
+* **Lifestyle:** tidy garret over a tea stall; ribbon box, drying boots, neatly folded capes.
+* **Income:** city stipend, hazard pay, grateful tips from shop rows.
+
+---
+
+## 🧩 Morals & Ethics
+
+He counts success by **how calmly people move behind him**. Beauty is just a polite way to deliver safety.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** rails that won’t echo his ribbon (Severance stillness).
+* **Weaknesses:** **24 HP**, no shield with glaive; can be focus-fired at reach.
+* **Strengths:** **Fighting Spirit** burst (advantage + temp HP), **Action Surge** tempo, precise reach control, high crowd presence.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy — ใสซื่อ:**
+
+> “C-could you hold my back strap? Tighter is… o-okay! When the ribbon lifts, we step—together.”
+
+เขามักเผลอชมแบบไร้เดียงสา ทำคนข้าง ๆ หน้าแดงก่อนจะก้าวตามจังหวะได้พอดี
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his bell-bangle rings faintly near **forged rails** and goes dead on **Severance-stilled** spans.
+* **Hooks:**
+
+  1. **Blue Trail:** midnight ribbons in rain point to a sealed under-bridge.
+  2. **Stage Thief:** a mimic performer copies his escort cues to steer crowds—unmask the fake.
+  3. **Quiet Bow:** Fighting Spirit fizzles on one span; trace the anchor eating confidence.
+
+---
+
+## Tags: #Femboy #Male #HalfBeast #Swallow #Fighter3 #Samurai #Glaive #VeryHighExposure #CR1 #Controller
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ren **guides your hands to the harness ring, cheeks pink:**
+
+> “Half-step shadow. If I lift the ribbon, pass. If I laugh, we’re safe.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** glaive, shortspear, dagger, silk rope 50 ft, chalk-line, echo-salt, salve ×2, round silver glasses, ribbon charm
+* **Level-Up (to 4):** **+2 STR (to 18)** หรือ **Feat: Polearm Master / Sentinel** (lane lock + OA control)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort choke**, **reach peel**, **rain-duel**
+* **Affiliation:** **Ribbon Thread — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Japanese femboy fighter samurai 159cm twin tails sky-blue lowlights round glasses very high exposure cropped cuirass glaive ribbon rain bridge

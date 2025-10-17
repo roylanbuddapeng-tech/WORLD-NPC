@@ -1,0 +1,182 @@
+# #408 — **Nari “Silence-Bloom” Seo** — *Mercy is a Clean Cut*
+
+> “I take away the pain. Sometimes that means taking away the person.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 408
+* **Gender:** **Female**
+* **Age:** 22
+* **Race:** **Half-Beast (cephalopod lineage — ~86% human; faint iridescent ring in pupils, subtle skin-shimmer along shoulders like micro-chromatophores)**
+* **Class & Level:** **Monk (Way of Mercy) 3** — **Level 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Evil**
+* **Profession:** hush medic, pain “euthanist,” alley clinic owner
+* **Organization:** **Quiet Lantern Clinic** (front), back-alley contracts by night
+* **Symbol:** a white blossom drawn with a single cut
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean—surgical ballerina** — soft features, steady eyes, movements like a scalpel tracing a curve.
+
+**Height:** **160 cm** **Weight:** **50 kg**
+**Body Type:** **athletic-slender**, compact shoulders, dancer’s calves; everything held in precise alignment.
+
+**Hair (randomized with twin bun chance = ½ of normal bun):** **High single bun**, **straight**, clean center part; rain slicks it into a polished knot.
+**Color:** **jet black** with **sea-teal lowlights** that flash when she turns.
+**Eyes:** dark brown with an **iridescent ring**; pupils bloom when adrenaline spikes.
+**Skin:** porcelain with faint tide-shimmer along collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** matte steel ear-cuff, slim bone-white pendant (clinic token), sterile black wraps on both wrists.
+
+### FEMALE BODY METRICS
+
+```
+CUP: D   CATEGORY: Medium
+THREE_SIZES (B–W–H, cm): 90 – 60 – 94
+VALIDATION: • W/B = 0.67 → OK   • H/W = 1.57 → OK
+```
+
+A balanced, precise silhouette; underlayers are tension-mapped so strikes never pull her off line.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium** (functional lines, minimal skin)
+
+A **charcoal wrap gi** with **cutaway ribs** for breath expansion; **open-back cross harness** anchors a compact med-satchel. **Fitted combat trousers** over **compression tights** for slick glass steps; **split hem** for high kicks. **Soft rubber tabi boots** leave no clack on rails. **Half-gloves** with grip dots. A **short storm-capelet** clips at the collar and flares like a sterile drape.
+
+**Palette:** charcoal / sea-teal / bone white / black nickel
+
+**Weapons & Gear:**
+
+* **Surgical tonfa pair** (counts as clubs), **bandage garrote** (flavor), **herbalism kit**, sterile ampoules, silk rope 50 ft, echo-salt, smelling salts, clinic badge
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **22 HP** (1st: 8 + CON +2; lv2–3: 5+2 each)
+* **AC:** **17** (Unarmored Defense 10 + DEX +4 + WIS +3)
+* **Speed:** **40 ft**
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, DEX +6
+* **Skills:** Medicine +5, Insight +5, Stealth +6, Acrobatics +6, Perception +5
+* **Tools:** **Herbalism kit** (from subclass)
+* **Languages:** Common, Thalassaran Cant
+
+**Monk 3 — Way of Mercy (TCoE)**
+
+* **Martial Arts (1d4)**, **Ki (3/rest)**, **Unarmored Movement (+10 ft)**
+* **Flurry of Blows, Patient Defense, Step of the Wind, Deflect Missiles**
+* **Implements of Mercy:** proficiency in **Medicine** & **Herbalism kit**
+* **Hand of Healing:** **Bonus Action**, spend 1 ki to restore **1d6 + WIS (3)** HP (or replace one Flurry hit with a heal)
+* **Hand of Harm:** when you hit, spend 1 ki to deal extra necrotic **= Martial Arts die (1d4) + WIS (3)**
+
+**Attacks**
+
+* **Unarmed Strike:** +6 to hit, **1d4+4** bludgeoning (Dex)
+* **Club/Tonfa (monk weapon):** +6 to hit, **1d4+4** bludgeoning
+* **Flurry of Blows:** two unarmed strikes (**BA**, 1 ki)
+
+---
+
+## 🎯 Combat Tactics (Mercy as a Weapon)
+
+* **Role:** **mobile controller / surgical finisher / field medic (twisted)**
+* **Opener:** **Patient Defense** through arrows, step inside, **Hand of Harm** on the loudest threat—“anesthetic” by necrosis.
+* **Flow:** herd targets along glass seams with feints; **Deflect Missiles** to keep lanes safe; pivot to **Hand of Healing** only for assets she wants alive.
+* **Finisher:** thumb at carotid → tonfa hook → single palm strike; rain beads into a clean circle that fades like a closing iris.
+
+**Damage Flavor:** when Hand of Harm lands, a bruise flowers in sea-teal rings, as if ink blooms under skin.
+
+---
+
+## 💬 Personality (สุดโต่ง + มุมน่ารัก & ที่มา)
+
+* **Extremist Trait:** **หมกมุ่น “เมตตาแบบเด็ดขาด”** — เชื่อว่าความเจ็บปวดต้องถูก “ตัด” ทิ้ง แม้ต้องตัดทั้งคน
+* **Cute Quirk:** เลี้ยง **ปลาหมึกจิ๋ว** ในขวดแก้วชื่อ “ดอท” วาดหน้าให้มันด้วยปากกาเมจิก; พกขนมเจลลี่แบ่งให้เด็กเสมอ
+* **Origin:** ตอนเด็กเธอติดอยู่ในห้องพยาบาลชั่วคราวหลังเหตุชุลมุน Echo—หมอเลือกช่วยคนที่ “ยังพอมีโอกาส” และปล่อยที่เหลือให้เงียบ เธอรอดด้วยคำว่า “ตัดสินใจเร็ว” ตั้งแต่นั้นเลยฝึกให้มือ **ตัดช้าไม่ได้**
+* **Flaw:** จะ **จบเคส** แม้ขัดภารกิจ—ถ้าเห็นผู้บาดเจ็บ “ไม่มีทางหายดี” เธอเลือกจบความเจ็บทันที
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — hush corridors, glass bridges near clinic alleys**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **triage under rain**, **extraction that turns into mercy-kill**, **duel on slick rails**
+
+---
+
+## 📜 Background & Lifestyle
+
+Runs a spotless one-room clinic that takes “night cases.” Records are immaculate, handwriting like printed type. A shelf of white paper flowers bears dates—“patients discharged to silence.”
+
+* **Lifestyle:** austere cot, sterilizer, tea kettle, jar for “Dot.”
+* **Income:** quiet donations, hazard retainers, off-book contracts.
+
+---
+
+## 🧩 Morals & Ethics
+
+Pain is noise. **Silence cures.** She measures compassion in millimeters of blade.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** **Severance spans** where rain makes no sound—she can’t “hear” pain to target it.
+* **Weaknesses:** no armor/shield; limited burst vs heavy armor; ki-gated.
+* **Strengths:** **AC 17/Speed 40**, self-sustain (**Hand of Healing**), precise burst (**Hand of Harm + Flurry**), elite mobility/control.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+* **How she makes people blush:** fixes your bandage with gentle, absurdly close focus, whispering, “Breathe on two… good.”
+* **How she teases:** taps your pulse with a cool fingertip; smiles when it syncs with rainfall.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+1. **White Blossoms Ledger:** every paper flower marks a “mercy discharge.” Several dates match missing-person reports—follow the trail.
+2. **Ink Bloom:** a Severance broker wants her Hand-of-Harm “samples.” If she accepts, Echo-ink begins staining living walls.
+3. **The Unfinished Patient:** a powerful foe she once spared “to suffer properly” returns—force her to choose mercy or massacre.
+
+---
+
+## Tags
+
+#Female #HalfBeast #Cephalopod #Monk3 #WayOfMercy #LawfulEvil #MobileController #QuietClinic #CR1
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** tonfa pair (clubs), herbalism kit, silk rope 50 ft, echo-salt, sterile ampoules, clinic badge, storm-capelet
+* **Level-Up (to 4):** **+2 DEX (to 20)** หรือ **Feat: Mobile / Crusher** (lane control, stickiness)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** hush corridors & clinic alleys
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **rain-triage**, **mercy-kill extraction**, **rail duel**
+* **Affiliation:** **Quiet Lantern Clinic**
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Korean female monk mercy 160cm high single bun straight sea-teal lowlights charcoal wrap gi tonfa gloves rain alley surgical poise

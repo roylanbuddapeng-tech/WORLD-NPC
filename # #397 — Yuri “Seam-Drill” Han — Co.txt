@@ -1,0 +1,200 @@
+# #397 — **Yuri “Seam-Drill” Han** — *Count, Cut, and Carry Through*
+
+> “Two breaths, one step. I’ll make the space—use it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 397
+* **Gender:** **Female (Type: รุ่นพี่ — calm, mentoring, quietly strict)**
+* **Age:** 27
+* **Race:** **Half-Beast (avian — crane lineage; ~88% human, faint white down at temples, long-line grace, pale gold ring in pupils)**
+* **Class & Level:** **Fighter (Battle Master) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **formation tutor / lane controller / spear-shield anchor**
+* **Organization:** **Valeronnes Rail Wardens — Drill Thread**
+* **Symbol:** a stitched rail seam with three drill dots and a spear tip
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean — elegant senior poise**, long lines and a steady gaze that hushes crowds.
+
+**Height:** **172 cm** **Weight:** **58 kg**
+**Body Type:** tall elegant-hourglass; long limbs, strong back; posture razor-straight.
+
+**Hair (equal-weight random):** **Bob cut**, **wavy**, chin-length with tucked sides; rain beads curl into glossy arcs.
+**Color:** **raven black** with **pale gold lowlights** that glint under lantern rain.
+**Eyes:** **smoke-brown** with a thin **golden iris ring**; focus tightens before a thrust.
+**Skin:** light ivory; subtle pearly sheen along collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** slim steel ear-cuff, jade-teardrop pendant, drill-bangle with tiny click-beads for cadence.
+
+### FEMALE BODY METRICS
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B–W–H, cm): 101 – 62 – 105
+VALIDATION: • W/B = 0.61 → OK   • H/W = 1.69 → OK
+```
+
+A **very-large bust** held by a rigid support harness; silhouette remains crisp and mobile, built for sudden stops and disciplined drives.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium–High** (functional reveal; command presence)
+
+A **cutaway captain’s cuirass** with a **deep V panel** over a **support battle halter**; **open-back cross harness** anchors scabbards without bounce. **Split command skirt** over **compression breeches** for high-knee rail surges; **knee-high traction boots** with micro-tread; **half-gloves** etched with drill runes. A **short storm-capelet** pins flat so her stance reads clearly to crowds.
+
+**Palette:** storm blue / charcoal / steel / jade thread
+
+**Weapons & Gear:**
+
+* **Command Spear “Drill-Stitch”** (versatile; rail-balanced haft with cadence notches)
+* **Shield** (glass-inset boss, captain chevron)
+* **Longsword** (sidearm), **dagger**
+* **Silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**, **calligrapher’s kit** (marks lanes)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **26 HP** (3d10 + CON +2 ×3)
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Insight +3, Perception +3, Persuasion +3, History +3 (drill lore)
+* **Languages:** Common, Auran, Thalassaran Cant
+
+**Fighter 3 — Battle Master (PHB)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Superiority Dice:** **4d8**, **DC = 8 + PB 2 + STR 3 = 13**
+* **Maneuvers (3):**
+
+  * **Trip Attack:** knock prone to stall a rush at the seam
+  * **Menacing Attack:** impose **WIS save** or **frightened**, making space for civilians
+  * **Brace (TCoE):** when a foe enters reach, **reaction** attack to halt the surge
+* **Student of War:** **Calligrapher’s supplies** (lane, breath, and shove-diagram marks)
+
+**Attacks**
+
+* **Spear (1h + shield):** +5 to hit, **1d6+3** piercing (maneuvers add d8 + rider)
+* **Spear (2h):** +5 to hit, **1d8+3** piercing
+* **Longsword (1h):** +5 to hit, **1d8+3** slashing
+
+---
+
+## 🎯 Combat Tactics (Drill Anchor / Crowd Controller)
+
+* **Role:** **frontline defender / control via maneuvers**
+* **Opener:** chalks a seam, steps in **spear+shield**; first heavy target gets **Menacing** to slow push; **Brace** holds the next surge at reach.
+* **Flow:** **Trip Attack** to seat bullies on wet glass; calls breath counts and rotates allies through advantage spots; **Action Surge** opens a timed pass window.
+* **Finisher:** two-hand spear thrust along the chalk line; rain beads into tidy arrows pointing “go.”
+
+**Damage Flavor:** each maneuver clicks her bangle; droplets arrange into calligraphy strokes that fade as the lane clears.
+
+---
+
+## 💬 Personality
+
+* **Traits:** patient teacher, precise corrections, quiet praise when rhythm is right.
+* **Ideal:** Stewardship — “Position is kindness; the drill is how we keep it.”
+* **Bond:** carries a strip of parchment from her mentor’s last lane-map.
+* **Flaw:** refuses to retreat while anyone still crosses; absorbs too much blame.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock-stair aprons, roof-rails**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort seam hold**, **riot peel via maneuvers**, **apex duel in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+Dockside scribe turned formation coach; she learned to **draw** lanes before she held them. On Echo nights her brush became a spear, and her lines became promises.
+
+* **Lifestyle:** spare loft of charts, chalk strings, and neatly folded capes.
+* **Income:** city stipend, hazard pay, private formation clinics.
+
+---
+
+## 🧩 Morals & Ethics
+
+Victory is **quiet footsteps behind her**. A clean lane is a kept promise.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** spans where chalk won’t “take” (Severance stillness).
+* **Weaknesses:** modest damage without maneuvers; limited superiority dice.
+* **Strengths:** **AC 19**, **Brace/Trip/Menacing** control, **Action Surge** tempo, crisp spear+shield fundamentals.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ — calm & caring, faintly teasing**
+
+> “Back strap—tighter. Two breaths. Eyes on the seam, not the neckline… good. Step when I say ‘pass.’”
+
+เธอแตะข้อมือให้จังหวะจนใจนิ่ง แล้วคุณจะก้าวทันโดยไม่รู้ตัว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her jade pendant warms near **forged rails** and chills on **Severance-stilled** spans.
+* **Hooks:**
+
+  1. **Drill Under Fire:** teach two rookies mid-riot—success unlocks a safer market route.
+  2. **Stolen Strokes:** counterfeit lane-calligraphy spreads; track the forger through rain-blurred glyphs.
+  3. **Silent Diagram:** chalk won’t mark one bridge; find the anchor eating sound.
+
+---
+
+## Tags: #Female #HalfBeast #Crane #Fighter3 #BattleMaster #Spear #Shield #SenpaiType #VeryLargeCup #CR1 #Controller
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Yuri **sets the spear crosswise and guides your hand to the strap:**
+
+> “Half-step shadow. If I click twice, pass. If I plant, breathe.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, shield, longsword, dagger, silk rope 50 ft, chalk-line, echo-salt, salve ×2, calligrapher’s kit, jade pendant
+* **Level-Up (to 4):** **+2 STR (to 18)** หรือ **Feat: Sentinel / Shield Master** (lane lock & shove control)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock-stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort seam hold**, **riot peel**, **apex duel in rain**
+* **Affiliation:** **Drill Thread — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Korean female half-beast crane fighter battle master 172cm wavy bob medium-high exposure cutaway cuirass spear shield G-cup rain bridge poised senpai

@@ -1,0 +1,180 @@
+# #381 — **Sarin “Line-Needle” An** — *Small Steps, Sharp Control*
+
+> “I’m little so the crowd fits. The spear makes the space.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 381
+* **Gender:** **Female (Type: รุ่นเพื่อน — playful, team-first, steady under pressure)**
+* **Age:** 21
+* **Race:** **Half-Beast (mammal — antelope lineage; ~88% human, tiny swept horn-buds, amber iris ring)**
+* **Class & Level:** **Fighter (Battle Master) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane stabilizer / spear-shield escort / formation tutor**
+* **Organization:** **Valeronnes Rail Wardens — Needle Line**
+* **Symbol:** a fine stitch crossing a glass seam, tipped with a spearpoint
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese petite athlete** — bright eyes, compact strength, friendly grin that steadies nerves.
+
+**Height:** **153 cm** **Weight:** **46 kg**
+**Body Type:** **petite hourglass**, springy calves, compact shoulders; stance-trained.
+
+**Hair (equal-weight random):** **Sleek single bun**, **straight**, with long face-framing tendrils.
+**Color:** **raven black** with **warm amber lowlights** that catch in rainlight.
+**Eyes:** **hazel-amber** with a subtle golden ring; pupils narrow slightly under stress.
+**Skin:** fair with a faint sun-warm glow at collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** slim steel ear-cuff, tiny horn-cap rings, braided wrist cord with stitch charms.
+
+### FEMALE BODY METRICS
+
+```
+CUP: A   CATEGORY: Small
+THREE_SIZES (B–W–H, cm): 78 – 56 – 90
+VALIDATION: • W/B = 0.72 → OK   • H/W = 1.61 → OK
+```
+
+A **small-bust, tiny waist** silhouette built for quick pivots; support harness routes force through hips and core.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium (functional reveal at shoulders and midriff)**
+
+A **cutaway breastplate** (charcoal) over a **supportive battle halter**, **open back** with cross-elastic anchor straps for scabbard stability; **short split skirt** over **compression shorts** for lunge depth. **Knee-high traction boots** with antelope-pad tread, **half-gloves** etched with grip runes, and a **short storm-capelet** pinned flat for crowd readability.
+
+**Palette:** charcoal / indigo / amber / steel
+
+**Weapons & Gear:**
+
+* **Spear “Needle-Line”** (versatile, rail-balanced haft)
+* **Shield** (glass-inset boss)
+* **Dagger**, **silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **21 HP** (3d10 average + CON +1 ×3)
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 15 (+2)** **DEX 16 (+3)** **CON 12 (+1)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +3
+* **Skills:** Athletics +4, Acrobatics +5, Insight +3, Perception +3, Persuasion +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Battle Master (PHB)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3)** • **Action Surge (1/rest)**
+* **Superiority Dice:** **4d8**, **DC 13** (8 + PB2 + STR2 +1? RAW uses 8 + PB + STR/DEX; here **13**)
+* **Maneuvers:**
+
+  * **Trip Attack** — drop brutes off the safe line
+  * **Goading Attack** — pull aggro away from civilians
+  * **Brace** (TCoE) — reaction stab when foes enter reach (control seams)
+
+**Attacks**
+
+* **Spear (1h + shield):** +5 to hit, **1d6+3** piercing
+* **Spear (2h):** +5 to hit, **1d8+3** piercing
+* **Dagger:** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Pin & Herd)
+
+* **Role:** **frontline controller / escort defender**
+* **Opener:** plant shield, **Goading Attack** on the loudest brute to force swings her way.
+* **Flow:** **Trip Attack** to tip threats off the seam; **Brace** punishes oversteps; **Action Surge** converts a safe hold into a decisive shove-and-pass window.
+* **Finisher:** two-handed thrust along the chalk seam—rain beads align like a stitched thread.
+
+**Damage Flavor:** droplets gather on her spear and leap off in tidy arcs when a maneuver lands.
+
+---
+
+## 💬 Personality
+
+* **Traits:** playful banter, steady hand, checks teammates’ footing mid-fight.
+* **Ideal:** “Make space, not mess.”
+* **Bond:** keeps a scrap of her first seam-chalk tied to her wrist.
+* **Flaw:** chases stylish solutions; needs a nudge to choose the boring safe play.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, lock-stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort hold**, **riot peel**, **apex duel in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+A tailor’s runner who learned real stitches before rail stitches. When Echo nights began, she sewed lanes in rain with steel and calm breath.
+
+* **Lifestyle:** neat loft above a seamshop; racks of straps, chalk, and spare boots.
+* **Income:** city stipend, hazard pay, seam-fitting side jobs.
+
+---
+
+## 🧩 Morals & Ethics
+
+Success = **how smoothly people pass behind her**, not how loudly enemies fall.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a seam that won’t hold; silence where rain should tap.
+* **Weaknesses:** small frame; burst damage requires dice management.
+* **Strengths:** **AC 19**, **maneuver control**, **Action Surge** tempo shifts, reliable spear+shield line.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน — teasing, practical**
+
+> “Back strap—yep, tighter. If I wobble, you tug once… hey, eyes on the seam, not the *bun*.”
+
+เธอชอบยิ้มมุมปากแล้วเคาะโล่ให้จังหวะหายใจพร้อมกัน
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her horn-buds warm near **forged rails**—they “itch” at counterfeits.
+* **Hooks:**
+
+  1. **Needle Map:** her chalk lines rearrange at midnight into a route under the city.
+  2. **Borrowed Seam:** a rival squad copies her stitch-marks to frame her team.
+  3. **Brace Debt:** the maneuver rune on her spear belongs to a missing tutor.
+
+---
+
+## Tags: #Female #HalfBeast #Antelope #Fighter3 #BattleMaster #Spear #Shield #SmallCup #CR1 #Controller
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Sarin **guides your hand to the back strap, grinning:**
+
+> “Half-step shadow. If I pin, you pass. Easy math.”
+
+---
+
+## 🎨 Image Gen Key (≤20 words)
+
+Petite Korean-Chinese female, antelope horn-buds, sleek bun, cutaway breastplate, spear+shield, rain bridge, A-cup, agile controller

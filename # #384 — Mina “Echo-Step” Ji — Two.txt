@@ -1,0 +1,196 @@
+# #384 — **Mina “Echo-Step” Ji** — *Two Footprints, One Cut*
+
+> “I’ll stand where you can’t—then we switch.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 384
+* **Gender:** **Female (Type: รุ่นเพื่อน — playful, steady, team-first)**
+* **Age:** 22
+* **Race:** **Human (Valeronnes — subtle silver ring in pupils)**
+* **Class & Level:** **Fighter (Echo Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane stabilizer / echo-decoy duelist / escort pivot**
+* **Organization:** **Valeronnes Rail Wardens — Echo Line**
+* **Symbol:** a slim spear mirrored by a faint second outline over a glass seam
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean — street-athletic classmate vibe**, compact power and bright eyes that calm a crowd.
+
+**Height:** **158 cm** **Weight:** **48 kg**
+**Body Type:** **petite, fit**, quick hips and calves; stance-trained for sharp pivots.
+
+**Hair (equal-weight random):** **Twin tails**, **straight**, tied high; rain beads fly in arcs when she whirls.
+**Color:** **raven black** with **cool gunmetal lowlights**.
+**Eyes:** **deep tea-brown** with a thin **silver resonance ring**.
+**Skin:** fair with a soft rain-glow across collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** slim steel ear-cuff, knotted wrist cord, tiny mirror-charm at one hair tie.
+
+### **FEMALE BODY METRICS**
+
+```
+CUP: B   CATEGORY: Small
+THREE_SIZES (B–W–H, cm): 84 – 61 – 90
+VALIDATION: • W/B = 0.726 → OK   • H/W = 1.48 → OK
+```
+
+A **small-bust, small-waist** silhouette tuned for nimble spear-shield footwork; harness routes impact through her hips.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium** (functional reveal at shoulders and midriff)
+
+A **cutaway breastplate** with **open shoulders** over a **supportive battle halter**; **open-back cross harness** anchors the scabbard. **Short split skirt** over **compression shorts** for deep lunges on slick glass. **Knee-high traction boots** and **half-gloves** etched with echo sigils. A **short storm-capelet** pins flat so her outline reads clean to crowds.
+
+**Palette:** charcoal / steel / indigo / pale silver
+
+**Weapons & Gear:**
+
+* **Spear “Mirror-Stitch”** (versatile; rail-balanced; echo glyphs along the haft)
+* **Shield** (glass-inset boss)
+* **Dagger**, **silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **26 HP** (3d10 + CON +2 ×3)
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Acrobatics +4, Athletics +4, Perception +3, Insight +3, Persuasion +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Echo Knight (EGtW)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Manifest Echo (Bonus Action):** create an echo within **15 ft** (AC equal to yours; 1 HP; occupies its space)
+* **Unleash Incarnation (3/LR):** when you take the Attack action, make **one extra attack** from the echo’s space
+* **Swap & Step:** you can **teleport** to swap places with your echo (RAW): **15 ft** as a bonus action (EGtW feature text)
+* **Flavor:** her shadow traces a second clean line on wet glass
+
+**Attacks**
+
+* **Spear (1h + shield):** +4 to hit, **1d6+2** piercing
+* **Spear (2h):** +4 to hit, **1d8+2** piercing
+* **Dagger:** +4 to hit, **1d4+2** piercing
+
+---
+
+## 🎯 Combat Tactics (Echo Pin & Pass)
+
+* **Role:** **frontline defender / decoy shifter**
+* **Opener:** **Manifest Echo** on the far side of the choke to “hold space,” then tag the brute with a spear from either body; civilians flow through the gap.
+* **Flow:** uses **Unleash Incarnation** for tempo pops; **swap** with echo to escape flanks or plug sudden leaks; **Action Surge** converts a safe hold into a quick shove-and-secure window.
+* **Finisher:** echo draws aggro with a shield feint; real Mina lunges two-handed along the chalk seam—rain splits like mirrored glass.
+
+**Damage Flavor:** every echo hit sheds a silver ring on the bridge that vanishes as the crowd passes.
+
+---
+
+## 💬 Personality
+
+* **Traits:** upbeat, practical teasing, checks on teammates’ breath rhythm.
+* **Ideal:** “Make room, make calm.”
+* **Bond:** tiny mirror-charm from her kid sister—she taps it twice before patrols.
+* **Flaw:** chases clever echo swaps even when a boring hold would do.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, lock-stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort seam hold**, **riot peel by echo**, **apex duel in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former street courier; learned to pass crowds by becoming their rhythm. On Echo nights she found a second rhythm—her own silhouette stepping where she could not. The Wardens called it a **useful miracle** and gave her a rail.
+
+* **Lifestyle:** tiny loft with boot racks, chalk strings, and mirror shards for drills.
+* **Income:** city stipend, hazard pay, courier side runs.
+
+---
+
+## 🧩 Morals & Ethics
+
+She measures success by **how smoothly people pass behind her**, not the tally in front.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a silent span that refuses to reflect (Echo eats the sound).
+* **Weaknesses:** split-focus mistakes if she swaps too fancy; modest damage without Action Surge.
+* **Strengths:** **AC 19**, **zone control via echo**, **extra attacks** with Unleash Incarnation, excellent **lane geometry**.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน — teasing & supportive**
+
+> “Back strap—yeah, tighter. If I vanish, I’m the other me. Don’t panic; just follow the seam.”
+
+เธอชอบเคาะโล่ให้จังหวะหายใจพร้อมกัน ทำให้คนข้าง ๆ เผลอยิ้มแล้วเดินตามได้พอดี
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** rare nights, her echo reflects **someone else’s** stance—an old Warden’s ghost?
+* **Hooks:**
+
+  1. **Mirror Span:** echoes linger as footprints toward a sealed under-bridge.
+  2. **Borrowed Shadow:** a thief learns to fake her echo flicker to bypass guards.
+  3. **Double Bind:** Echo mimics an attack Mina never learned—who’s teaching through the rain?
+
+---
+
+## Tags: #Female #Human #Fighter3 #EchoKnight #Spear #Shield #FriendType #SmallCup #CR1 #Controller
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mina **sets your hand on the harness ring, grinning:**
+
+> “Half-step shadow. If I split, follow the one with the smile. That’s me.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, shield, dagger, silk rope 50 ft, chalk-line, echo-salt, salve ×2, mirror-charm
+* **Level-Up (to 4):** **+2 DEX (to 16)** หรือ **Feat: Sentinel / Shield Master** (lock lanes, safer swaps)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock-stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort seam hold**, **riot peel by echo**, **duel in rain**
+* **Affiliation:** **Echo Line — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean female fighter echo knight 158cm twin tails straight charcoal cutaway breastplate shield spear B-cup rain bridge silver eye ring playful teammate fantasy

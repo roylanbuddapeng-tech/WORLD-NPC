@@ -1,0 +1,194 @@
+# #380 — **Yui “Otter-Line” Nam** — *Small Wake, Strong Current*
+
+> “I’m little so you can fit behind me. The spear does the heavy part.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 380
+* **Gender:** **Female (Type: รุ่นน้อง — earnest, shy-brave, eager-to-please)**
+* **Age:** 19
+* **Race:** **Half-Beast (mammal — river otter lineage; ~88% human, soft ear tufts, faint sleek sheen at forearms)**
+* **Class & Level:** **Barbarian (Path of the Totem Warrior — Eagle) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane opener / reach herder / slick-rail sprinter**
+* **Organization:** **Valeronnes Rail Wardens — Wake Squad**
+* **Symbol:** a slim spear skimming water, leaving a tiny wake that splits a crowd safely
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese petite athlete** — bright, wholesome energy; a dock-sprinter who learned to plant a spear like a mooring post.
+
+**Height:** **154 cm** **Weight:** **46 kg**
+**Body Type:** **petite, fit**, springy legs, compact shoulders, otter-quick balance.
+
+**Hair (equal-weight random):** **Bob cut**, **straight**, chin-length with tucked-behind-one-ear neatness.
+**Color:** **espresso brown** with **wet-sand lowlights** that glimmer when she rages.
+**Eyes:** **river-amber**, wide and earnest; pupils sharpen when she focuses.
+**Skin:** fair with a soft water-sheen along collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** **river-stone pendant**, **braided cord wristlet**, and a **small silver ear-cuff** shaped like a wave.
+
+### FEMALE BODY METRICS
+
+```
+CUP: B   CATEGORY: Small
+THREE_SIZES (B–W–H, cm): 82 – 58 – 89
+VALIDATION: • W/B = 0.71 → OK   • H/W = 1.53 → OK
+```
+
+A **small-bust, small-waist** frame tuned for fast footwork; her harness keeps the spear line steady without bulk.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium** (functional reveal at midriff/shoulders; secure support)
+
+A **cutaway river-blue cuirass** over a **supportive battle halter**, **open back** with cross-elastic straps anchoring the spear scabbard; a **short split skirt** over **compression shorts** for deep lunges on slick glass. **Knee-high traction boots** with otter-pad tread; **half-gloves** for pole control. A **short rain-capelet** pins close, keeping her outline readable to crowds.
+
+**Palette:** river blue / charcoal / steel / pale sand
+
+**Weapons & Gear:**
+
+* **Spear “Wake-Stitch”** (versatile; rail-balanced haft etched with water-lines)
+* **Handaxe ×2** (utility throws)
+* **Silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**, **grip resin**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +2)×3 = **27 HP**
+* **AC:** **15** (Unarmored Defense 10 + DEX +2 + CON +2 → 14; dock-harness wards +1 flavor; RAW baseline 14)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Acrobatics +4, Perception +3, Survival +3, Persuasion +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Totem Warrior (Eagle) (RAW PHB + SCAG option)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning, piercing, slashing**
+* **Unarmored Defense**, **Reckless Attack**, **Danger Sense**
+* **Totem Spirit — Eagle:** while raging, **Dash** as a bonus action; opportunity attacks vs. you are made with **disadvantage** (you slip past like a darting bird)
+* **Aspect of the Beast — Eagle:** keen eyesight; advantage on **Perception** checks that rely on sight (GM-adj.)
+
+**Attacks**
+
+* **Spear (1h):** +5 to hit, **1d6+3** piercing (**+2** while raging)
+* **Spear (2h):** +5 to hit, **1d8+3** piercing (**+2** while raging)
+* **Handaxe (melee or 20/60):** +5 to hit, **1d6+3** slashing (**+2** rage)
+
+---
+
+## 🎯 Combat Tactics (Wake Runner / Lane Herder)
+
+* **Role:** **skirmisher–protector / reach control**
+* **Opener:** **Rage** → **bonus-action Dash** to thread the choke; quick spear tag to claim aggro and pull threats off the safe rail.
+* **Flow:** **disadvantage on opportunity attacks** lets her buzz-saw through enemy lines, herding them sideways while allies and civilians pass.
+* **Finisher:** short-hop pivot; two-handed thrust that makes rain **split like a wake** along the haft.
+
+**Damage Flavor:** droplets stream off her spear in tidy lines; when she grins, water beads chase her boots like playful otters.
+
+---
+
+## 💬 Personality
+
+* **Traits:** shy smile, bright “I’ll do it!” energy; apologizes when she bumps a shield.
+* **Ideal:** Help First — “If I’m fast, fear gets less time to grow.”
+* **Bond:** carries the rusty fishhook of the dockhand who taught her to run wet planks.
+* **Flaw:** will overextend to save stragglers; needs someone to call her back.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort dash**, **riot peel by thread-run**, **duel at a slick apex**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised on river ramps, she learned to skim boards with a crate on each shoulder. On the first Echo night she “stitched” a safe wake for a trapped choir—so the Wardens gave her a spear and a rail-line to call home.
+
+* **Lifestyle:** tiny quay loft, rack of drying straps and boots.
+* **Income:** city stipend, hazard pay, dock tips.
+
+---
+
+## 🧩 Morals & Ethics
+
+She measures success by **the number of people who get to keep walking**. Every breath behind her is a vote of confidence.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** **dead-water** silences where ripples won’t form.
+* **Weaknesses:** **AC 14–15**, susceptible to focused ranged fire; light damage if not raging.
+* **Strengths:** **Rage** resistances, **bonus-action Dash while raging**, **OA disadvantage on enemies**, superb lane-threading.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง — shy-brave, softly flirty by accident**
+
+> “C-can you hold the back strap? If I wobble, squeeze once… mm—thank you! Okay, fast now.”
+
+เธอหน้าแดงง่ายเมื่อถูกชม แล้วจะวิ่งได้เร็วกว่าปกติครึ่งก้าว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her river-stone pendant warms near **counterfeit rails**—it “remembers” honest water.
+* **Hooks:**
+
+  1. **Wake Map:** her chalk wakes form an arrow at midnight toward a sealed under-bridge.
+  2. **Otter Debt:** smugglers she once outran send a “thank-you” crate with strings attached.
+  3. **Silent Current:** Echo drains the bridge’s ripple—Yui must make a lane with no water signs.
+
+---
+
+## Tags: #Female #HalfBeast #Otter #Barbarian3 #TotemEagle #Spear #Skirmisher #SmallCup #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Yui **places your hand on the harness ring, cheeks pink:**
+
+> “Half-step behind me. When I dart, you breathe and follow—promise?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, 2× handaxes, silk rope 50 ft, chalk-line, echo-salt, salve ×2, river-stone charm, grip resin
+* **Level-Up (to 4):** **+2 STR (to 18)** or **Feat: Mobile** (pairs with Eagle totem dashes)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort dash**, **riot peel run**, **slick-apex duel**
+* **Affiliation:** **Wake Squad — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female half-beast otter barbarian totem eagle 154cm petite fit straight bob espresso brown hair wet-sand lowlights medium exposure cutaway cuirass split skirt compression shorts knee boots spear small B-cup B82 W58 H89 rain-slick bridge water wake shy kohai fantasy

@@ -1,0 +1,198 @@
+# #394 — **Ha-Neul “Seam-Fang” Yoon** — *Soft Voice, Hard Stop*
+
+> “Half-step behind me. When I bare the claws, you pass.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 394
+* **Gender:** **Female (Type: รุ่นพี่ — calm, protective, quietly strict)**
+* **Age:** 27
+* **Race:** **Half-Beast (mammal — bat lineage; ~88% human, subtle auricle points, faint wing-membrane veining at flanks, moon-silver iris ring)**
+* **Class & Level:** **Barbarian (Path of the Beast) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane bulwark / crowd shepherd / shock-stopper**
+* **Organization:** **Valeronnes Rail Wardens — Night Seam**
+* **Symbol:** a stitched rail line ending in a small fang sigil
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese** — composed senior aura; a “let me fix your stance” kind of elegance with predator calm.
+
+**Height:** **164 cm** **Weight:** **55 kg**
+**Body Type:** **compact hourglass**, strong lats, steady hips; posture efficient and grounded.
+
+**Hair (equal-weight random):** **Long braid**, **straight**, heavy single plait down the back; strands bead in rain and flick neatly on pivots.
+**Color:** **raven black** with **moon-silver lowlights**.
+**Eyes:** **cool smoke-brown** with a thin **silver ring** that brightens when she rages.
+**Skin:** light ivory with a faint dusk sheen across the collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** matte-silver circlet-pin holding the braid, tiny fang-studs, slim echo-bangle that clicks once per breath count.
+
+### FEMALE BODY METRICS
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B–W–H, cm): 96 – 60 – 98
+VALIDATION: • W/B = 0.625 → OK   • H/W = 1.63 → OK
+```
+
+A **large bust on a tight waist**; her harness is load-bearing and motion-stable, built for sudden stops and explosive surges without spillage.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High** (functional reveal, harness visible)
+
+A **cutaway cuirass** with a **deep V panel** laced to a **support battle halter**; **open back** with crossed elastic anchors that seat a scabbard without bounce. **High-slit tactical skirt** over **compression shorts** for lunges on slick glass; **knee greaves** with micro-tread; **half-gloves** with claw caps that lock into place when she rages. A **short storm-capelet** pins flat so crowds can read her stance.
+
+**Palette:** charcoal / moon-silver / steel / dusk indigo
+
+**Weapons & Gear:**
+
+* **Spear “Night-Stitch”** (versatile; rail-balanced)
+* **Handaxe** (utility), **dagger**
+* **Silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**, **grip resin**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **27 HP** (3d12 + CON +2 ×3)
+* **AC:** **15** (Unarmored Defense 10 + DEX +2 + CON +3)
+* **Speed:** 30 ft
+* **STR 17 (+3)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Acrobatics +4, Perception +3, Insight +3, Intimidation +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Beast (TCoE)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning/piercing/slashing**
+* **Unarmored Defense**, **Reckless Attack**, **Danger Sense**
+* **Form of the Beast (on entering Rage):** choose one natural weapon until rage ends:
+
+  * **Claws:** each Attack action can make **one extra claw attack** (1d6 slashing, STR mod to dmg)
+  * **Bite:** **1d8 piercing**; if **below half HP** when you hit, **heal** for **PROF (2)** HP once/turn
+  * **Tail:** **1d8 piercing**, **Reaction** to add **1d8** to AC vs a hit (potentially turning it into a miss)
+
+**Attacks**
+
+* **Spear (1h):** +5 to hit, **1d6+3** piercing (**+2** while raging)
+* **Spear (2h):** +5 to hit, **1d8+3** piercing (**+2** while raging)
+* **Claw/Bite/Tail (Rage):** as above (choose per situation)
+* **Handaxe (melee or 20/60):** +5 to hit, **1d6+3** slashing (**+2** rage)
+
+---
+
+## 🎯 Combat Tactics (Shock-Stop Senpai)
+
+* **Role:** **frontline controller / aggro sink / emergency stopper**
+* **Opener:** steps onto the seam, **Rage**; usually chooses **Tail** to spike AC on the first surge, then swaps in later fights to **Claws** for multi-hits or **Bite** for sustain.
+* **Flow:** plants with **spear+tail** to absorb a charge, then transitions to **claw flurries** to carve a pass window; uses **Reckless** only when carving **now** matters more than safety.
+* **Finisher:** two-hand spear thrust along the chalk seam; rain draws a clean pale line through her wake.
+
+**Damage Flavor:** when claws extend, moon-silver glints along her glove caps; droplets skitter like tiny bats across the glass.
+
+---
+
+## 💬 Personality
+
+* **Traits:** gentle voice, exacting corrections, praises breath rhythm; teasing when easing panic.
+* **Ideal:** Stewardship — “Position is kindness. Pain is a down payment.”
+* **Bond:** keeps a worn choir token from a night she held a bridge alone.
+* **Flaw:** refuses to back off while anyone still crossing; takes risks to shield stragglers.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock-stairs, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort wall**, **riot peel by shock-stop**, **apex duel in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+Night tally-clerk on the quays who learned where crowds *want* to flow. The first time Echo roared, she stepped forward, bared new claws, and the stampede forgot how to run.
+
+* **Lifestyle:** spare loft with braided straps, drying boots, and tea that never quite cools.
+* **Income:** city stipend, hazard pay, quiet gifts from shop rows she shields.
+
+---
+
+## 🧩 Morals & Ethics
+
+She measures victory by **how quietly people breathe behind her**. A lane is a promise you keep with your body.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a span where even her tail-parries don’t catch the rain (Severance stillness).
+* **Weaknesses:** **AC 15**; focus fire hurts; must manage Reckless.
+* **Strengths:** **mode-swapping** via Form of the Beast (AC spike / flurry / sustain), **Rage resistances**, precise lane control.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ — calm & caring, lightly teasing**
+
+> “Back strap—tighter. Two breaths with me. Eyes on the seam, not the neckline… good girl/boy.”
+
+เธอแตะข้อมือให้จังหวะ ทำให้ใจนิ่งและก้าวตามได้โดยไม่รู้ตัว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her braid-pin warms near **forged rails**, chills on **Severance-stilled** spans.
+* **Hooks:**
+
+  1. **Seam-Fang Trial:** hold a choke alone through a full Echo rotation—rookies watching.
+  2. **Counter-Claw:** a gang copies her glove caps; find their smith and the buyer.
+  3. **Silent Echo:** a bridge refuses to reflect her tail parry—trace the anchor eating sound.
+
+---
+
+## Tags: #Female #HalfBeast #Bat #Barbarian3 #PathOfTheBeast #Spear #Claws #SenpaiType #LargeCup #CR1 #Frontline
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ha-Neul **sets her spear crosswise and guides your hand to the strap:**
+
+> “Half-step shadow. If I say ‘stop,’ you stop. I’ll make the hit mean something.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, handaxe, dagger, silk rope 50 ft, chalk-line, echo-salt, salve ×2, claw caps, braid-pin
+* **Level-Up (to 4):** **+2 STR (to 19)** or **Feat: Sentinel / Mobile** (lane lock vs pursuit)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock-stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort wall**, **riot peel**, **apex duel in rain**
+* **Affiliation:** **Night Seam — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female half-beast bat barbarian path of the beast 164cm long straight braid moon-silver lowlights high exposure cutaway cuirass open back high-slit skirt claw caps spear E-cup B96 W60 H98 rain bridge poised senpai

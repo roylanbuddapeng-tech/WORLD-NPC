@@ -1,0 +1,199 @@
+# #386 — **Ara “Falcon-Thread” Kim** — *One Breath, One Arrow Lane*
+
+> “I’ll stitch the gap from here. You just follow the line.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 386
+* **Gender:** **Female (Type: รุ่นเพื่อน — playful, steady, team-first)**
+* **Age:** 21
+* **Race:** **Half-Beast (avian — falcon lineage; ~88% human, faint down at temples, keen iris ring)**
+* **Class & Level:** **Fighter (Arcane Archer) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane-stitch archer / overwatch escort / decoy marker**
+* **Organization:** **Valeronnes Rail Wardens — Sky Seam**
+* **Symbol:** a slim arrow threading a rail seam into a neat, safe line
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese petite athlete** — brisk confidence, bright eyes, a “we’ve got this” grin that calms crowds.
+
+**Height:** **157 cm** **Weight:** **47 kg**
+**Body Type:** **petite, fit**, strong calves and forearms; compact shoulders tuned for draw control.
+
+**Hair (equal-weight random):** **Short feminine — pixie crop**, softly **wavy**, wind-kissed edges.
+**Color:** **smoky black** with **ashen-gold lowlights** that glint in rain.
+**Eyes:** **falcon-amber** with a razor-thin golden ring; pupils narrow with focus.
+**Skin:** fair with a faint wind-burnished glow at the cheekbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** small falcon-feather earring (single), thin cord bracelet with knotted wind-charms, matte-steel thumb ring for draw.
+
+### FEMALE BODY METRICS
+
+```
+CUP: A   CATEGORY: Small
+THREE_SIZES (B–W–H, cm): 79 – 57 – 90
+VALIDATION: • W/B = 0.72 → OK   • H/W = 1.58 → OK
+```
+
+A **small-bust, tiny waist** silhouette built for agile shifts and perfect bow alignment; the harness routes tension through the back and hips.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium–High** (functional reveal for mobility)
+
+A **cutaway archer’s cuirass** with **open shoulders** and a **cropped support halter** beneath; **open-back cross harness** anchors the quiver without bounce. **High-slit tactical skirt** over **compression shorts** for kneel-and-release on slick glass. **Knee-high traction boots** with “falcon-pad” tread; **finger tabs** and **half-gloves** etched with wind runes. A **short storm-capelet** clasps flat so the silhouette reads clean to crowds.
+
+**Palette:** charcoal / steel / ashen gold / indigo accents
+
+**Weapons & Gear:**
+
+* **Longbow “Sky Stitch”** (+1 thematic polish; RAW standard longbow)
+* **20 arrows** (10 standard, 6 weighted, 4 arcane-marked)
+* **Shortsword** (sidearm), **dagger**
+* **Silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **22 HP** (3d10 + CON +1 ×3)
+* **AC:** **16** (studded leather 12 + DEX +4)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, CON +3
+* **Skills:** Acrobatics +6, Perception +3, Stealth +6, Insight +3, Persuasion +3
+* **Languages:** Common, Auran, Thalassaran Cant
+
+**Fighter 3 — Arcane Archer (XGtE)**
+
+* **Fighting Style:** **Archery** (+2 to hit with ranged weapons)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Arcane Archer Lore:** Arcana proficiency (flavor incorporated)
+* **Arcane Shot (2/short rest), Save DC = 8 + PB(2) + INT(1) = **11****
+
+  * **Grasping Arrow:** +2d6 poison on hit and restraining bramble (speed −10, damage on move; STR check to end)
+  * **Seeking Arrow:** ignore cover, auto-hits a target you’ve seen within 60 ft (save to reduce), reveals its position
+* **Arcane Shot Choices expand later; damage rises at 18th (not relevant now)**
+
+**Attacks**
+
+* **Longbow:** +8 to hit (DEX +4 + Prof +2 + Archery +2), **1d8+4** piercing; Arcane Shot adds effects on hit (2/short rest)
+* **Shortsword:** +6 to hit, **1d6+4** piercing
+* **Dagger (20/60):** +6 to hit, **1d4+4** piercing
+
+---
+
+## 🎯 Combat Tactics (Overwatch Lane-Stitcher)
+
+* **Role:** **controller / pick & pin from range**
+* **Opener:** marks the choke with chalk; first arrow is **Grasping Arrow** to root the loudest brute off the safe seam.
+* **Flow:** uses **Seeking Arrow** to flush skulkers or shooters, calling lanes for the team; **Action Surge** to double-tap a window for civilians to pass.
+* **Finisher:** slides to a knee, breath steady; a single line through rain—seam stitched, crowd flows.
+
+**Damage Flavor:** when an Arcane Shot lands, thin wind-threads unfurl from the shaft, tugging rain into tidy arrows that point “safe way.”
+
+---
+
+## 💬 Personality
+
+* **Traits:** cheerful, practical teasing, checks teammates’ breath rhythm after each volley.
+* **Ideal:** “Accuracy is kindness.”
+* **Bond:** keeps a silk knot from her instructor’s bowstring—rubs it before shots.
+* **Flaw:** will attempt “thread-the-needle” shots for style when a simple pin would do.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rail parapets, lock-stair overlooks**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **overwatch escort**, **riot peel via pinning shots**, **apex duel at range**
+
+---
+
+## 📜 Background & Lifestyle
+
+Harbor runner turned message archer; she learned to read wind over flooded quays. On Echo nights, she found that wind loved her arrows—and the city loved the lanes she stitched.
+
+* **Lifestyle:** tidy loft with fletching bench and chalk strings on the wall.
+* **Income:** city stipend, hazard pay, fletching side work.
+
+---
+
+## 🧩 Morals & Ethics
+
+She measures victory by **how many people walk past smiling**—not by how many enemies fall.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** dead air where wind should guide (Echo-stilled spans).
+* **Weaknesses:** **22 HP**, melee vulnerability if swarmed; Arcane Shot uses are limited.
+* **Strengths:** **+8 longbow accuracy**, **Grasping/Seeking control**, **Action Surge** tempo.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน — playful & supportive**
+
+> “Hook your fingers on my back strap—yeah, there. If I say ‘thread,’ duck; if I say ‘pin,’ pass.”
+
+เธอชอบยิ้มขำ ๆ แล้วแตะไหล่ให้จังหวะหายใจก่อนปล่อยศรถัดไป
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her wind-charms jingle only when a **forged rail** is near—then fall eerily silent on Severance spans.
+* **Hooks:**
+
+  1. **Thread Map:** her bramble trails form arrows at midnight pointing to a sealed under-bridge.
+  2. **Borrowed Fletch:** a gang copies her fletch pattern to fake Warden authority.
+  3. **Falcon’s Debt:** an Auran spirit demands a favor—carry a message across a soundless storm.
+
+---
+
+## Tags: #Female #HalfBeast #Falcon #Fighter3 #ArcaneArcher #Longbow #Controller #FriendType #SmallCup #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ara **sets your hand on the harness ring, grin quick and warm:**
+
+> “Half-step shadow. When the wind taps, we move—easy.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** longbow, 20 arrows (10/6/4), shortsword, dagger, silk rope 50 ft, chalk-line, echo-salt, salve ×2, wind charms
+* **Level-Up (to 4):** **+2 DEX (to 20)** or **Feat: Sharpshooter** (pairs perfectly with Arcane Shot)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & parapets**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **overwatch escort**, **pinning riots**, **rain-duel at range**
+* **Affiliation:** **Sky Seam — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean-Chinese female half-beast falcon fighter arcane archer 157cm pixie wavy smoky black ashen lowlights medium-high exposure cutaway archer cuirass high-slit skirt longbow petite A-cup rain bridge

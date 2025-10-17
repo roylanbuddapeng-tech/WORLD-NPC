@@ -1,0 +1,184 @@
+# #389 — **Min “Sea-Spark” Dae** — *Soft Smile, Storm Steps*
+
+> “Hold my strap and breathe. The little lightning is friendly—mostly.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 389
+* **Gender:** **Male — Femboy (Subtype: ใสซื่อ / innocent)**
+* **Age:** 19
+* **Race:** **Half-Beast (aquatic — manta ray lineage; ~88% human, soft fin-like ear frills, faint pearly back-mark)**
+* **Class & Level:** **Barbarian (Path of the Storm Herald — Sea) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **lane-spark skirmisher / wet-rail crowd herder**
+* **Organization:** **Thalassara Canal Ward — Storm Thread**
+* **Symbol:** a tiny lightning glyph stitched over a wave along a rail seam
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean idol-soft** — cherubic face, glimmering eyes, politely brave.
+
+**Height:** **158 cm** (femboy ≤160) **Weight:** **47 kg**
+**Body Build:** **slender, graceful**, swimmer’s back, narrow waist; light, dancey steps.
+
+**Hair (equal-weight random):** **Twin buns (space buns)**, **straight** with wispy curtain bangs; damp strands sparkle in rain.
+**Color:** **inky black** with **sea-teal lowlights** that glow when his aura thrums.
+**Eyes:** **soft aquamarine**, silver ring brightens at the first rumble.
+**Skin:** porcelain-fair with a watery pearl sheen over collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** tiny shell-pendant, silver ear chain (single), slim wrist charm with a raindrop bead.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Very High** (per femboy rule; functional, supportive)
+
+A **cropped deep-V cuirass** over a **lace-up underbust harness**, **open back** with X-elastic straps that anchor the spear sheath. **High-cut split shorts** over **sheer tights**, **thigh-high traction boots** with ripple treads. A **short aqua rain-capelet** clips at the collar, fluttering like a mini fin when he dashes.
+
+**Palette:** sea-teal / pearl / charcoal / silver accents
+
+**Weapons & Gear:**
+
+* **Spear “Surge-Thread”** (versatile, rail-balanced)
+* **Dagger**, **silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**, **grip resin**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **27 HP** (3d12 + CON +2 ×3)
+* **AC:** **15** (Unarmored Defense 10 + DEX +2 + CON +3)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Acrobatics +4, Athletics +5, Performance +4, Persuasion +4, Perception +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Storm Herald (Sea)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning/piercing/slashing**
+* **Unarmored Defense**, **Reckless Attack**, **Danger Sense**
+* **Storm Aura (Sea):** while raging, aura **10 ft**; as a **bonus action each turn**, choose one creature in aura to take **1d6 lightning** (save none; RAW)
+
+  * *(Storm Soul swim/breathe lightning res comes at 6th; not yet)*
+
+**Attacks**
+
+* **Spear (1h):** +5 to hit, **1d6+3** piercing (**+2** while raging)
+* **Spear (2h):** +5 to hit, **1d8+3** piercing (**+2** while raging)
+* **Dagger:** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Spark-Herd Skirmisher)
+
+* **Role:** **frontline skirmisher / soft control**
+* **Opener:** shy smile → **Rage**; steps to the choke and taps the lead brute with **Storm Aura (Sea)** lightning as a **bonus action**; spear tag to pin the lane.
+* **Flow:** dances just inside **10 ft aura**, zapping one target per turn to discourage rushers; uses **Reckless** only to drag eyes off civilians; converts a safe hold into a burst with quick two-handed thrust.
+* **Finisher:** heel pivot, spear lunge; rain splits, and a blue ring pops where the lightning kisses the haft.
+
+**Damage Flavor:** aura crackles in soft pearl-blue arcs around his thighs and boots, leaving tiny strobing ripples on wet glass.
+
+---
+
+## 💬 Personality
+
+* **Traits:** gentle, apologizes mid-fight (“s-sorry, little zap!”), earnest praise for teammates.
+* **Ideal:** Comfort as Tactic — “If they smile at me, they stop looking at fear.”
+* **Bond:** keeps a folded note from a rescued choir kid: “You’re brave like rain.”
+* **Flaw:** lingers to reassure stragglers; needs someone to call him forward.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — moon canals, echo stairwells, under-amphitheater arches**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort choke**, **riot peel with aura zaps**, **quiet duel in rainlight**
+
+---
+
+## 📜 Background & Lifestyle
+
+Canal messenger who practiced rail-balancing with tea trays; during an Echo surge he hugged a panicked child and felt the storm purr to protect them. The Wardens handed him a spear and told him to keep being “that smile.”
+
+* **Lifestyle:** garret above a boathouse; neatly hung capes and too many towels.
+* **Income:** city stipend, hazard pay, grateful canal tips.
+
+---
+
+## 🧩 Morals & Ethics
+
+He measures victory by **how calmly people slip behind him**. Lightning is just manners with sparkle.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a canal where rain won’t answer (Severance quiet).
+* **Weaknesses:** **AC 15**, can be focus-fired; aura affects **one** target/turn.
+* **Strengths:** **Rage resistances**, safe-zone **lightning aura**, nimble spear control, high **CHA** in crowds.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy — ใสซื่อ (innocent, still flirty by accident):**
+
+> “C-can you hold my back strap? Tighter is… o-okay—oh! That was a *good* squeeze. Now breathe with me.”
+
+เขาชอบเผลอชมแบบไร้เดียงสา ทำคนข้าง ๆ หน้าแดงแล้วก้าวตามจังหวะได้พอดี
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his shell-pendant tingles before **counterfeit rails**—the aura static crawls toward fakes.
+* **Hooks:**
+
+  1. **Blue Wake:** his aura rings leave a midnight map to a sealed under-canal.
+  2. **Storm Debt:** a sea-spirit wants repayment—escort a song-stone across a silent span.
+  3. **Quiet Spark:** someone is siphoning his lightning into traps; trace the stolen charge.
+
+---
+
+## Tags: #Femboy #Male #HalfBeast #MantaRay #Barbarian3 #StormHeraldSea #Spear #VeryHighExposure #CR1 #Skirmisher
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Min **guides your hands to his strap, cheeks pink:**
+
+> “Half-step behind me. If I say ‘zap,’ duck. Then we pass—easy.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, dagger, silk rope 50 ft, chalk-line, echo-salt, salve ×2, shell pendant, grip resin
+* **Level-Up (to 4):** **+2 STR (to 18)** หรือ **Feat: Mobile** (pairs well with aura kiting)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Moon canals & echo stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort choke**, **riot peel via aura**, **duel in rainlight**
+* **Affiliation:** **Storm Thread — Thalassara Canal Ward**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean femboy barbarian storm herald sea 158cm twin buns teal lowlights very high exposure cropped cuirass open back high-cut shorts sheer tights spear pearl-blue lightning rain bridge

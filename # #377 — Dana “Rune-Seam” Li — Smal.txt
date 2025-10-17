@@ -1,0 +1,196 @@
+# #377 — **Dana “Rune-Seam” Li** — *Small Shoulders, Giant’s Line*
+
+> “I don’t need to be big—only the promise does.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 377
+* **Gender:** **Female (Type: รุ่นพี่ — calm, mentoring, quietly protective)**
+* **Age:** 28
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Rune Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **formation tutor / halberd reach anchor / runic safety engineer**
+* **Organization:** **Valeronnes Rail Wardens — Seamwrights**
+* **Symbol:** a halberd tracing a neat stitch across a glass rail, two runes glowing at the bite
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Chinese–Korean** elegance — mentor aura, soft voice, steel posture.
+
+**Height:** **158 cm** **Weight:** **51 kg**
+**Body Type:** **petite hourglass**; slim shoulders, strong hips and thighs from stance drills; moves with measured grace.
+
+**Hair (equal-weight random):** **Twin buns (space buns)** with sleek **straight** strands and long face-framing tendrils.
+**Color:** **midnight black** with subtle **platinum ash lowlights** that catch rainlight.
+**Eyes:** deep **tea-brown**; steady and reassuring.
+**Skin:** fair with a faint porcelain glow along the collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** matte steel crescent ear-cuff, simple jade pendant, and a thin runic bangle for pulse counting.
+
+### FEMALE BODY METRICS
+
+```
+CUP: J   CATEGORY: Huge
+THREE_SIZES (B–W–H, cm): 106 – 60 – 98
+VALIDATION: • W/B = 0.57 → OK   • H/W = 1.63 → OK
+```
+
+A striking **petite-but-busty** frame; her support harness is quietly architectural, designed to keep her posture stacked during long holds.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High** (battle-functional reveal)
+
+A **cutaway cuirass** with a **deep V** laced into a **support halter harness**; **open back** with cross-elastic anchor straps; **high-slit tactical skirt** over compression shorts for lunges on slick glass. **Knee greaves** with micro-tread, **half-gloves** for haft control, and a **short storm-capelet** pinned flat so her reach line stays readable to crowds.
+
+**Palette:** ink black / steel / jade / pale silver
+
+**Weapons & Gear:**
+
+* **Halberd “Seamcutter”** (reach 10 ft; matte beak; haft etched with two giant runes)
+* **Longsword** (sidearm)
+* **Artisan’s kit (carver)**, **chalk-line**, **silk rope 50 ft**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **26 HP**
+* **AC:** **17** (breastplate 14 + DEX +2 + **Defense** +1; two-handed halberd, no shield)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Insight +3, Perception +3, History +3, Intimidation +3
+* **Languages:** Common, Giant, Thalassaran Cant
+
+**Fighter 3 — Rune Knight (TCoE)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Giant’s Might (2/LR):** **Bonus Action** enlarge (1 minute) — grow to Medium-plus, **+1d6** damage on one attack each turn, **advantage** on STR checks/saves
+* **Runes (carved on halberd):**
+
+  * **Cloud Rune:** **Reaction** to redirect a creature’s hit to another creature within 30 ft (illusionary displacement)
+  * **Fire Rune:** when you hit, **restrain** the target with fiery shackles (STR save) and deal **2d6 fire** now and again at your start (RAW), plus tool expertise (smith’s/carver’s flavor → she uses carver kit)
+
+**Attacks**
+
+* **Halberd (reach 10 ft, 2h):** +5 to hit, **1d10+3** slashing (**+1d6** on one hit/turn while Giant’s Might)
+* **Longsword (1h):** +5 to hit, **1d8+3** slashing
+
+---
+
+## 🎯 Combat Tactics (Runic Reach Anchor)
+
+* **Role:** **frontline controller / safety stitcher**
+* **Opener:** chalks a **seam line**, calls **Giant’s Might** to meet tall threats at eye level; first **Fire Rune** hit **restrains** the wedge-brute.
+* **Flow:** uses **Cloud Rune** to **redirect** dangerous hits away from civilians; halberd tip herds foes off the safe lane, **Action Surge** to seal the gap.
+* **Finisher:** calm half-step pivot; one precise sweep and a giant’s hum through the haft—rain follows the cut like thread.
+
+**Damage Flavor:** runes glow jade-silver; droplets string along the halberd’s path, then snap like stitches completing.
+
+---
+
+## 💬 Personality
+
+* **Traits:** serene mentor, crisp instructions, praises effort before results.
+* **Ideal:** Stewardship — “Power is for holding space, not filling it.”
+* **Bond:** keeps a chipped halberd lug from her teacher; uses it as a chalk weight.
+* **Flaw:** will tank risk personally rather than assign it to juniors.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock-stairs aprons, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort seam hold**, **riot peel by redirect**, **quiet duel in rainlight**
+
+---
+
+## 📜 Background & Lifestyle
+
+Carver’s apprentice who etched flood marks on quay posts; she learned where water wants to go. When Echo nights began, she carved runes into steel instead—so crowds could pass where water says “safe.”
+
+* **Lifestyle:** neat studio over a rail—racks of hafts and chalk strings.
+* **Income:** city stipend, hazard pay, private lane-safety consults.
+
+---
+
+## 🧩 Morals & Ethics
+
+She measures victory by **the quiet of the people behind her**, not the noise she makes in front.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a strike she can’t redirect; a seam that won’t hold.
+* **Weaknesses:** no shield while using halberd; vulnerable to focused ranged fire.
+* **Strengths:** **runic control (Cloud/Fire)**, **Giant’s Might** reach pressure, **Action Surge** to seal breaks.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ — calm & caring**
+
+> “Thumb here, along the seam. Breathe with me—two counts in, two out. Good. Now we hold.”
+
+Touches lightly at the wrist to set grip; a half-smile steadies nerves embarrassingly fast.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her jade pendant glows when a **false rail** is present—an old carver’s ward reacting to counterfeits.
+* **Hooks:**
+
+  1. **Thread the False Span:** a counterfeit bridge siphons crowds into a trap; Dana must mark the real seam mid-riot.
+  2. **Rune Debt:** the rune-smith who taught her **Fire Rune** is missing; only Cloud patterns remain in his shop.
+  3. **Giant’s Whisper:** her Giant’s Might starts humming a **new rune** in rain—who’s trying to write through her?
+
+---
+
+## Tags: #Female #Human #Fighter3 #RuneKnight #Halberd #Runes #Mentor #CR1 #HighExposure #BigCupSmallFrame
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Dana **guides your hand onto the halberd’s balance point, voice low:**
+
+> “If the lane shakes, lean on me. I’ll be bigger when it matters.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** halberd, longsword, breastplate kit, carver’s tools, chalk-line, silk rope, echo-salt, salve ×2, jade pendant
+* **Level-Up (to 4):** **+2 STR (to 18)** or **Feat: Polearm Master** (bonus haft strike; pairs with Fire Rune restraint)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock-stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort seam hold**, **riot peel with redirects**, **duel in rainlight**
+* **Affiliation:** **Seamwrights — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Chinese Korean female human fighter rune knight 158cm petite hourglass twin buns straight midnight black hair platinum lowlights high to very high exposure deep-V cutaway cuirass open back high-slit skirt halberd runes jade glow J-cup B106 W60 H98 rain-slick bridge calm mentor fantasy

@@ -1,0 +1,179 @@
+# #407 — **Min-jun “Glass-Whisper” Rook** — *Pretty Lies, Ugly Ends*
+
+> “Your secret is safe with me. Your heartbeat… less so.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 407
+* **Gender:** **Male (Subtype: วัยกลางคน)**
+* **Age:** 34
+* **Race:** **Half-Beast (corvid — raven lineage; ~88% human, subtle black sheen at temples, faint feather-grain along the shoulder blades, ink-ring in pupils)**
+* **Class & Level:** **Bard (College of Whispers) 3** — **Level 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Evil**
+* **Profession:** rumor-broker, blackmail arranger, “quiet removal” dramaturge
+* **Organization:** **Valeronnes Under-Stage** (back-channel couriers & hush-actors)
+* **Symbol:** a thin quill crossed over a cracked comedy mask
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean noir-cabaret** — a velvet-voiced emcee with a predator’s patience hiding behind a courteous bow.
+
+**Height:** **178 cm** **Weight:** **67 kg**
+**Body Build:** **lean–elegant**, long fingers, posture like a dancer about to bow.
+
+**Hair (randomized with twin bun half-rate vs bun):** **Low single bun**, **straight**, razor center part; the bun pins with a black feather quill.
+**Color:** **blue-black** with **ink-purple lowlights**.
+**Eyes:** dark brown with a **black-ink iris ring** that brightens when he lies.
+**Skin:** pale ivory with a rain-gloss at the collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** obsidian stud, thin chain choker with a tiny broken-mask charm, onyx bead wrist-cord.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Low–Medium** (tailored, suggestive lines without bare skin)
+
+A **charcoal velvet tailcoat** with **cutaway panels** that taper his waist, over a **black silk waistcoat** stitched with feather motifs. **Slim trousers** with side vents for stride on slick rails; **ankle boots** with quiet rubber soles. **Half-gloves** of kid leather for grip; a **short storm-capelet** that reads like a stage curtain in the rain.
+
+**Palette:** charcoal / ink purple / raven black / cold silver
+
+**Weapons & Gear:**
+
+* **Rapier “Quiet Line”** (needle-thin blade)
+* **Dagger** (boot-sheathed)
+* **Hand crossbow** (glass-bolt quarrels)
+* **Lute** (hollow body hides paper & picks), **disguise kit**, **forgery kit**, silk rope 50 ft, chalk-line, echo-salt, waxed notes
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **22 HP** (3d8 + CON +2 ×3)
+* **AC:** **16** (studded leather 12 under the coat + DEX +4)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, CHA +5
+* **Skills (with Expertise):** **Deception +7**, **Persuasion +7**, Performance +5, Insight +3, Stealth +6, Sleight of Hand +6, Perception +3
+* **Languages:** Common, Thalassaran Cant, Elvish, **Thieves’ Cant** (learned on the job)
+
+**Bard 3 — College of Whispers (XGtE)**
+
+* **Bardic Inspiration (d6):** **3/rest** (uses = CHA mod)
+* **Psychic Blades:** when you hit a creature with a weapon attack, expend a Bardic Inspiration to deal **+2d6 psychic** (no save)
+* **Words of Terror:** spend **1 minute** speaking to a creature alone to seed a paranoia fright (WIS save vs spell DC)
+* **Spellcasting (CHA, DC **13**, +5 to hit)** — **Slots:** 1st×4, 2nd×2
+
+  * **Cantrips:** *Vicious Mockery, Minor Illusion, Mage Hand*
+  * **Known Spells (6):** *Dissonant Whispers, Charm Person, Disguise Self, Tasha’s Hideous Laughter, Hold Person (2nd), Phantasmal Force (2nd)*
+
+**Attacks**
+
+* **Rapier:** +6 to hit, **1d8+4** piercing (**+2d6 psychic** via Psychic Blades when needed)
+* **Dagger:** +6 to hit, **1d4+4** piercing (20/60)
+* **Hand Crossbow:** +6 to hit, **1d6+4** piercing (30/120)
+
+---
+
+## 🎯 Combat Tactics (Whisper-Cull)
+
+* **Role:** **controller / single-target delete via fear+psychic burst**
+* **Opener:** **Disguise Self** to get close; **Hold Person** or **Dissonant Whispers** to isolate; step in with **Rapier + Psychic Blades** for the kill.
+* **Flow:** keeps the scrum unstable with **Phantasmal Force** (fake hazards on glass rails), threads **Vicious Mockery** to blunt alpha hitters, retreats behind **Minor Illusion** corners.
+* **Finisher:** bows, then a needle-thrust as the rain draws a hairline arrow along the seam.
+
+**Damage Flavor:** Psychic Blades leave a brief feathered shadow in the rain where the blade wasn’t—like a second cut that only nerves feel.
+
+---
+
+## 💬 Personality (สุดโต่ง + มุมน่ารัก & ที่มา)
+
+* **Extremist Trait:** **ฆาตกรเชิงสังคม** — เขา “กำจัด” คนดัง/นักปั่นที่ทำให้เมืองเสียงสกปรก; มองการฆ่าเป็น **งานกำกับเวที**
+* **Cute Quirk (unexpectedly sweet):** ให้อาหารอีกาดำทุกเช้า–เย็น, ตั้งชื่อให้ทุกตัว (แอบคุยกับพวกมันเหมือนผู้ชมตัวน้อย)
+* **Origin of Extremes:** เคยเป็นพิธีกรโรงละครที่โดนหัวหน้าวงบูลลี่จนโชว์พัง ซ้ำร้ายฝูงชนเชียร์ความน่าอับอาย คืนฝนตกหนึ่งเขา “ขอเสียงเงียบ” แล้วปล่อยผ้าม่านทับคนคนนั้น—เรตติ้งขึ้น เงียบงดงามติดใจ นับแต่นั้นเขากำกับ “ความเงียบ” ด้วยมีด
+* **Flaw:** หมกมุ่นกับ **ฉากจบสวย**; จะเสี่ยงภารกิจเพื่อจัดไฟเงา-มุมเลือดให้ “งามเวที”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes** — backstage catwalks, glass bridges, hush corridors
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **blackmail meet → baited execution**, **riot peel via terror monologue**, **rain-duel on a narrow span**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once the velvet voice of a midnight revue; now a rumor-broker who files gossip like blades. His room is a miniature stage: moveable lamps, black curtains, chalked blocking marks.
+
+* **Lifestyle:** tidy garret with birdseed tins and perfectly folded tailcoats.
+* **Income:** hush retainers, “noise abatement” contracts, cut of forged playbills.
+
+---
+
+## 🧩 Morals & Ethics
+
+Applause is vulgar; **silence** is honest. If a person can’t hold a quiet beat, they don’t deserve the stage of the city.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Severance spans where even illusions don’t echo—no audience, no scene.
+* **Weaknesses:** modest raw damage without Psychic Blades; fragile if cornered.
+* **Strengths:** **hard control (Hold Person/Phantasmal Force)**, **social infiltration**, **burst finish** with Psychic Blades, elite lying.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+He adjusts your collar and murmurs like a director:
+
+> “Stand in my light. When I count to three, breathe on two—let the city miss the last note.”
+
+ทำให้คนเขินด้วยการชม “เสียงฝีเท้าคุณนิ่งดี—ผู้ชมชอบคนที่รู้จังหวะ” แล้วกุมข้อมือจัดท่าอย่างสุภาพเกินเหตุ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+1. **Raven Cues:** his birds pin ribbons where the next “noise” will die—follow the flock to stop the show.
+2. **Black Script:** a forged playbill schedules an assassination during a festival hush; find the stagehand with the real script.
+3. **Silent Ovation:** a cult offers him a stage that eats sound (Severance tech); if he accepts, his kills become untraceable.
+
+---
+
+## Tags
+
+#Male #HalfBeast #Raven #Bard3 #CollegeOfWhispers #Controller #AssassinTheatrics #NeutralEvil #CR1
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** rapier, dagger, hand crossbow (20 bolts), studded leather, lute (hollow), disguise kit, forgery kit, silk rope 50 ft, chalk-line, echo-salt, birdseed
+* **Level-Up (to 4):** **+2 CHA (to 18)** หรือ **Feat: Actor / Skulker** (social edge or vanish in gloom)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** backstage catwalks, glass bridges, hush corridors
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **blackmail→execution**, **terror monologue peel**, **rain-span duel**
+* **Affiliation:** **Valeronnes Under-Stage**
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Korean male bard whispers 178cm low single bun straight blue-black hair ink-purple highlights velvet tailcoat rapier hand crossbow rain backstage raven motif

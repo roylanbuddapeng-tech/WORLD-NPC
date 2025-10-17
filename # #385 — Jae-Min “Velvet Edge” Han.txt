@@ -1,0 +1,184 @@
+# #385 — **Jae-Min “Velvet Edge” Han** — *Smile First, Strike True*
+
+> “If you blush, that’s fine—just stand behind me while I make space.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 385
+* **Gender:** **Male — Femboy (Subtype: เย้ายวน)**
+* **Age:** 20
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Samurai) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **lane-duelist / spear-form demonstrator / morale spark**
+* **Organization:** **Valeronnes Rail Wardens — Velvet Line**
+* **Symbol:** a silk ribbon knotted around a spearpoint, trailing a neat rain-line
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean idol-grace** — delicate jawline, glossy lips, soft-and-dangerous gaze.
+
+**Height:** **159 cm** (femboy rule ≤160) **Weight:** **48 kg**
+**Body Build:** **slender, willowy**, dancer calves, narrow waist; poised like a stage lead.
+
+**Hair (equal-weight random):** **Long, straight hime cut** — blunt fringe with cheek-length sidelocks; the rest falls sleek to mid-back.
+**Color:** **ink-black** with **plum-wine lowlights** that shimmer in rain.
+**Eyes:** **smoky honey-brown**, coy tilt; lashes absurdly pretty.
+**Skin:** porcelain with a faint rain-glow at the collarbones.
+
+**Jewelry & Accessories (glasses 40% → success):** **round rose-gold glasses** (anti-fog runes), **silk ribbon choker** with a dew-pearl, **single chain earring**, and a **slim wrist bell-bangle** (near-silent).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Very High** (allowed for femboy)
+
+A **cropped deep-V vest cuirass** laced to a **velvet underbust harness**, **open back** with cross-elastic straps that anchor the scabbard. **High-cut split shorts** over **sheer black tights**, and **thigh-high traction boots** with ripple treads for glass. A **short storm-capelet** clips at the collar; when he spins, it flares like a teasing fan.
+
+**Palette:** plum / black / pearl white / rose-gold accents
+
+**Weapons & Gear:**
+
+* **Yari “Velvet Edge”** (long spear; rail-balanced haft with rain-rune inlays)
+* **Wakizashi** (side blade for tight lanes)
+* **Silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**, **powder fan** (signal/crowd focus)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +1)×3 = **22 HP**
+* **AC:** **17** (breastplate 14 + DEX +2 + **Dueling** style doesn’t add AC; no shield)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 12 (+1)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +3
+* **Skills:** Acrobatics +4, Athletics +5, Performance +5, Persuasion +5, Insight +3, History +2
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Samurai (XGtE)**
+
+* **Fighting Style:** **Dueling** (+2 damage while wielding a one-handed melee weapon and no other weapon)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Bonus Proficiency:** **History**
+* **Fighting Spirit (3/LR):** **Bonus Action** to gain **advantage on weapon attacks** until end of current turn and **5 temp HP**
+
+**Attacks**
+
+* **Yari (spear, 1h):** +5 to hit, **1d6+5** piercing (includes **Dueling +2**)
+* **Yari (2h):** +5 to hit, **1d8+3** piercing (no Dueling)
+* **Wakizashi (shortsword):** +5 to hit, **1d6+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Velvet Spear-Duelist)
+
+* **Role:** **skirmisher / burst duelist / lane opener**
+* **Opener:** coy smile → **Fighting Spirit** for advantage and temp HP → **1h spear** pokes with Dueling damage to claim aggro.
+* **Flow:** rotates between **precise thrusts** and showy footwork to pull eyes off the crowd; **Action Surge** turns a safe hold into an immediate clear window.
+* **Finisher:** pivot to two-handed stance and lunge; rain beads chase the haft in a single, clean line.
+
+**Damage Flavor:** every advantage burst flings plum-tinted droplets that pop into tiny hearts before vanishing on the glass.
+
+---
+
+## 💬 Personality
+
+* **Traits:** playful, shameless flirt; compliments footwork mid-fight to rattle foes.
+* **Ideal:** Joy as Control — “If they look at me, they’re not hurting anyone else.”
+* **Bond:** keeps a ribbon from the first fan who tossed flowers after a rescue.
+* **Flaw:** loves applause; risks one extra flourish when he should just thrust.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort choke**, **duel for space**, **riot peel with spear fan-signals**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former theater extra; learned stage presence before steel. On his first Echo night, he stepped out to distract a charging brute—and discovered the crowd would follow his smile anywhere. The Wardens gave him a spear and a lane.
+
+* **Lifestyle:** tiny garret with capes, powders, and folded fans.
+* **Income:** city stipend, tips, private “lane-dance” lessons.
+
+---
+
+## 🧩 Morals & Ethics
+
+He treats **charm as a shield** and **precision as mercy**. Scars are just signatures the rain forgets.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** dead-quiet spans (Echo devours applause); losing his nerve on a packed bridge.
+* **Weaknesses:** **22 HP** and **AC 17** without a shield; needs tempo control.
+* **Strengths:** **Fighting Spirit** advantage + temp HP, **Dueling** damage, **Action Surge** burst turns.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy — เย้ายวน:**
+
+> “Hands on my waist… lower—mm, tactical, I swear. Now breathe with me and don’t look down… unless you want to.”
+
+เขาชอบกระซิบใกล้หู ใช้คำสองแง่สามง่ามให้คนเสียอาการแล้วเดินตามจังหวะเขาอย่างว่าง่าย
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his rose-gold lenses sometimes mist with **arrow-runes** pointing the safest thrust line.
+* **Hooks:**
+
+  1. **Velvet Duel:** a rival samurai challenges his “improper” lane theatrics—public exhibition match.
+  2. **Ribbon Debt:** the fan who gifted the ribbon is tied to a smuggling ring seeking his help.
+  3. **Plum Mirage:** a Severance cell copies his outfit to mislead crowds; he must reclaim his “brand.”
+
+---
+
+## Tags: #Femboy #Male #Human #Fighter3 #Samurai #Spear #Wakizashi #VeryHighExposure #CR1 #Skirmisher
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Jae-Min **guides your hands to his harness, smiling wickedly:**
+
+> “When I say ‘now,’ squeeze. I’ll make the lane… you enjoy the view.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** yari spear, wakizashi, silk rope 50 ft, chalk-line, echo-salt, salve ×2, rose-gold glasses, powder fan
+* **Level-Up (to 4):** **+2 STR (to 18)** or **Feat: Piercer / Mobile** (lane surfing, advantage bursts)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort choke**, **flashy duel for space**, **riot peel with signals**
+* **Affiliation:** **Velvet Line — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean femboy fighter samurai 159cm long straight hime cut plum lowlights round rose-gold glasses very high exposure deep-V cropped vest open back high-cut shorts sheer tights thigh boots yari spear seductive smile rain-slick bridge fantasy

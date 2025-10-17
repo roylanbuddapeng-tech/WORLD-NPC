@@ -1,0 +1,180 @@
+# #374 — **Mai “Glass-Palm” Kato** — *Small Storm, Big Stillness*
+
+> “If the rail shakes, hold my hand. I’ll make it stop.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 374
+* **Gender:** **Female (Type: MILF)**
+* **Age:** 30
+* **Race:** **Half-Beast (mammal — snow leopard lineage; ~88% human, faint pearl rosettes at hips/shoulders, catlike iris ring)**
+* **Class & Level:** **Barbarian (Path of the Beast) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **bridge bulwark / crowd-safety breaker / lane herder**
+* **Organization:** **Valeronnes Rail Wardens — Quiet Claw**
+* **Symbol:** a cat’s paw overlaying a glass rail seam, three dots for three breaths
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean elegant mom-fighter** — gentle eyes, calm smile, and that unshakeable “I’ve got you” poise.
+
+**Height:** **160 cm** **Weight:** **55 kg**
+**Body Type:** **petite hourglass, gym-toned legs/arms; soft, maternal aura with combat spine**
+
+**Hair (equal-weight random):** **High ponytail** with sleek straight texture; a few face-framing strands fall when she fights.
+**Color:** **onyx black** with **frost-silver lowlights** that shimmer when she rages.
+**Eyes:** warm **smoky-brown** with a pale cat-ring; pupils narrow subtly under stress.
+**Skin:** fair-ivory, faint **pearl rosette** markings along flanks and collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** matte steel torque etched with three-breath sigils; soft leather wrist wraps; a tiny bell charm on her ponytail band (nearly silent).
+
+### FEMALE BODY METRICS
+
+```
+CUP: J   CATEGORY: Huge
+THREE_SIZES (B–W–H, cm): 106 – 64 – 104
+VALIDATION: • W/B = 0.60 → OK   • H/W = 1.63 → OK
+```
+
+A striking **petite-but-busty** frame; tailored support harness keeps motion efficient, not showy.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High (functional reveal for mobility/support)**
+A **cutaway cuirass** with a **deep V panel** laced to a supportive **battle-halter harness**, **open back** crossed by elastic straps; **high-slit tactical skirt** over compression shorts for lunges on slick glass. **Knee greaves** with cat-pad tread; **half-gloves** for claw forms. A **short rain-capelet** pins tight so lines read clean.
+
+**Palette:** pearl white / charcoal / frost-silver / soft blush accents
+
+**Weapons & Gear:**
+
+* **Rail-glaive “Quiet Paw”** (reach 10 ft, matte beak; etched with hush runes)
+* **Handaxe ×2** (utility throws)
+* **Chalk-line, silk rope 50 ft, echo-salt, salve ×2, grip resin**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 = **29 HP**
+* **AC:** **15** (Unarmored Defense 10 + DEX +2 + CON +3)
+* **Speed:** 30 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Intimidation +4, Perception +3, Medicine +3, Insight +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Beast (TCoE)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning/piercing/slashing**
+* **Unarmored Defense** (DEX + CON)
+* **Reckless Attack**, **Danger Sense**
+* **Form of the Beast** (choose each rage):
+
+  * **Claws:** each Attack action grants **one extra claw attack** (1d6 slashing)
+  * **Tail:** **1d8** tail reaction to add to AC vs a hit (deflect)
+  * **Bite:** **1d8 piercing**; heal **PB(=2)** HP once per turn on hit while raging
+* **Bestial Soul (flavor at 6th; not yet):** subtle spoor-sense along wet rails
+
+**Attacks**
+
+* **Glaive (reach 10 ft, 2h):** +6 to hit, **1d10+4** slashing (**+2** while raging)
+* **Claw (rage only):** +6 to hit, **1d6+4** slashing (extra attack via feature)
+* **Handaxe (melee or 20/60):** +6 to hit, **1d6+4** slashing (**+2** rage)
+
+---
+
+## 🎯 Combat Tactics (Lane Mom / Reach & Rescue)
+
+* **Role:** **frontline protector / reach controller**
+* **Opener:** **Tail form** on first rage to **deflect** a key hit and hold the line at the choke.
+* **Flow:** tag the brute with **glaive**, then step in with **Claws** for the extra swipe that herds foes off the safe seam; **Bite** only to self-stabilize if allies need her planted.
+* **Finisher:** hip pivot, half-moon sweep; rain beads trail the blade as civilians slip past.
+
+**Damage Flavor:** frost-silver lowlights brighten; a whisper of paw-prints appears briefly on wet glass where she anchors.
+
+---
+
+## 💬 Personality
+
+* **Traits:** soft-spoken, reassuring, lightly teasing; battlefield tone turns mother-calm.
+* **Ideal:** Shelter — “My line is a promise, not a dare.”
+* **Bond:** keeps a cloth square scented with her child’s lavender—presses it to her wrist before patrols.
+* **Flaw:** refuses to withdraw while anyone still crossing behind her.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, lock-stair aprons**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort wall**, **riot peel**, **quiet duel under heavy rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+A seamstress turned porter who learned balance on wet boards; when Echo nights began, she stood with nothing but work gloves and a mother’s patience—and the city handed her a glaive.
+
+* **Lifestyle:** tidy riverside room; cooks big pots for the squad.
+* **Income:** city stipend, hazard pay, community donations from shop rows she shields.
+
+---
+
+## 🧩 Morals & Ethics
+
+She measures victory by **breaths saved behind her**, not the bodies in front.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a span too wide to cover with one promise.
+* **Weaknesses:** **AC 15**; vulnerable to focused ranged fire without cover.
+* **Strengths:** **Rage resistances**, flexible **Beast forms** (deflect/heal/extra attack), **reach control** with glaive.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF — protective, gently flirty**
+
+> “Hands here on my belt—small steps. See? The rail is quieter already.”
+
+If someone blushes, she chuckles: “Eyes on the line, love. The neckline is under control.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her bell charm warms near **forged-echo rails**—it “purrs” at counterfeits.
+* **Hooks:**
+
+  1. **Three Breaths Oath:** keep a bridge open for three breaths per traveler during a mass exodus.
+  2. **Claw on Glass:** someone copies her fighting marks to frame her unit.
+  3. **Lavender Night:** a kid goes missing; her scent square is found on a silent span.
+
+---
+
+## Tags: #Female #HalfBeast #SnowLeopard #Barbarian3 #PathOfTheBeast #MILF #Glaive #CR1 #Protector
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mai **guides your hand to the back strap, voice low:**
+
+> “When I step, you breathe. When you breathe, they pass.”
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean female half-beast snow leopard barbarian path of the beast 160cm high ponytail onyx hair frost lowlights petite hourglass J-cup deep-V cutaway cuirass open back high-slit skirt glaive rain bridge gentle protector fantasy

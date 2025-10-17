@@ -1,0 +1,180 @@
+# #410 — **Daewon “Quiet Scythe” Hwang** — *Count the Heartbeats, Then Remove the Loud Ones*
+
+> “Mercy is subtraction. I take away the parts that won’t stop screaming.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 410
+* **Gender:** **Male (Subtype: วัยกลางคน — calm, methodical)**
+* **Age:** **32**
+* **Race:** **Other — Dhampir (near-human ~88%; faint pallor, subtle fang points, crimson gray ring around pupils)**
+* **Class & Level:** **Cleric (Death Domain) 3** — **Level 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Evil**
+* **Profession:** **hush undertaker / plague chaplain / “silence auditor”**
+* **Organization:** **Valeronnes Silent Vestry** (under-bridge mortuary fellowship)
+* **Symbol:** a thin scythe crossing a hollow circle (a “mute” glyph)
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean funeral minimalism** — neat, surgical calm; every motion pre-measured like a ruler sliding on glass.
+
+**Height:** **179 cm** **Weight:** **68 kg**
+**Body Build:** **lean–elegant**, long reach, surgeon’s steadiness in hands.
+
+**Hair (styles equal; twin bun chance is half of single bun → not rolled):** **Low ponytail**, **straight**, razor center part; rain slicks it into an ink line.
+**Color:** **blue-black** with **ashen lowlights**.
+**Eyes:** dark brown with a **smoky crimson ring**; flare when he tastes panic.
+**Skin:** porcelain with a cool funeral sheen at the collarbones.
+
+**Jewelry & Accessories (glasses 40% → success):** **thin rectangular steel glasses** (anti-fog ward), black prayer-cord bracelet, bone-white rosary tucked in sleeve.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Low** (ritual layers, immaculate lines)
+
+A **charcoal mourning coat** with **cutaway tails** over a **black scale-hauberk**, collars stitched with mute sigils. **Slim funeral trousers** tuck into **silent ankle boots**; **half-gloves** of waxed kid leather for wet stone. A **short storm-capelet** pins flat, reading like a velvet stage-shadow in the rain.
+
+**Palette:** charcoal / bone white / iron black / dull crimson
+
+**Weapons & Gear:**
+
+* **Reaper’s Scythe** *(counts as glaive, RAW)* with bone-white crescent blade
+* **Mace** (chaplain’s baton)
+* **Shield** (matte black, mute-glyph boss)
+* **Component pouch**, embalmer’s salts, silk rope 50 ft, chalk-line, echo-salt, consecration cloths
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **24 HP** (1st 8 + CON2; lv2–3: 5+2 each)
+* **AC:** **18** (scale mail 14 + DEX +2 + shield +2)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +3
+* **Skills:** Medicine +5, Religion +5, Insight +5, Intimidation +3, Perception +5
+* **Languages:** Common, Thalassaran Cant, Undercommon
+
+**Cleric 3 — Death Domain (DMG)**
+
+* **Bonus Proficiency:** **martial weapons**
+* **Reaper:** learn **one necromancy cantrip**; when you cast a necromancy cantrip that targets one creature, you can target **two adjacent** creatures within 5 ft of each other.
+* **Channel Divinity (1/rest):** **Touch of Death** — when you hit a creature with a **melee attack**, deal extra **necrotic = 5 + 2×cleric level (11)**
+* **Spellcasting (WIS; DC **13**, +5 to hit)**
+
+  * **Cantrips (4):** *Toll the Dead, Chill Touch* (Reaper pick), *Spare the Dying, Thaumaturgy*
+  * **Domain Spells (always prepared):** 1st — *False Life, Ray of Sickness*; 2nd — *Blindness/Deafness, Ray of Enfeeblement*
+  * **Prepared (WIS 3 + level 3 = 6 more):** *Inflict Wounds, Shield of Faith, Command, Detect Evil and Good, Hold Person, Spiritual Weapon*
+* **Spell Slots:** **1st ×4, 2nd ×2**
+
+**Attacks**
+
+* **Scythe (glaive, 2h):** +4 to hit, **1d10+2** slashing (reach 10 ft); add **+11 necrotic** once via **Touch of Death**
+* **Mace (1h + shield):** +4 to hit, **1d6+2** bludgeoning
+
+---
+
+## 🎯 Combat Tactics (Quiet Cull & Crowd Unravel)
+
+* **Role:** **frontline controller / single-target eraser**
+* **Opener:** **Blindness/Deafness** to cut a leader from the fight; step in with **scythe + Touch of Death** for a sudden, surgical drop.
+* **Flow:** herd with **reach 10 ft**; **Toll the Dead** pings wounded, **Chill Touch** shuts down healing on two adjacent foes (Reaper). **Spiritual Weapon** pins flanks while shield holds lanes.
+* **Finisher:** **Command: “Kneel.”** Then the scythe. Rain draws a bone-white line toward safety for bystanders—everyone else is red arithmetic.
+
+**Damage Flavor:** every kill pulls rain into a hollow circle at the throat before it shatters into silent mist.
+
+---
+
+## 💬 Personality (สุดโต่ง + มุมน่ารัก & ที่มา)
+
+* **Extremist Trait:** **เคร่งพิธีแบบเลือดเย็น** — เห็นการฆ่าเป็น “บัญชีเงียบ” ของเมือง; ถ้าเสียงดังเกิน เขาจะตัดออก
+* **Cute Quirk (unexpected):** เก็บ **ลูกแก้วแมวหิน** น่ารัก ๆ ตั้งชื่อทุกก้อน; ชอบพับ **นกกระเรียนกระดาษ** วางบนศพ “ให้พวกเขามีปีก”
+* **Origin of Extremes:** เคยเป็นอาสากลางโรคระบาด—หมอหัวหน้าบังคับให้ “เลือก” คนรักษา เขานับลมหายใจผิดเพียงหนึ่งครั้ง เด็กคนหนึ่งตาย… ตั้งแต่นั้นเขาศรัทธาว่าความเมตตาคือ **การตัดสินใจให้ไวและเงียบ**
+* **Flaw:** ยอมเสี่ยงภารกิจเพื่อ “ปิดบัญชี” เสียงที่เขามองว่าเกินพอดี แม้ไม่ใช่เป้าหมายงาน
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, hush corridors, drain-stairs**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **ritual purge in rain**, **escort turned triage-cull**, **rail duel under funeral lamps**
+
+---
+
+## 📜 Background & Lifestyle
+
+Undertaker-chaplain for flood nights; writes eulogies in columns of numbers (breaths, beats, paused seconds). His room is immaculate: coat on a bone-white hanger, scythe wrapped like an instrument.
+
+* **Lifestyle:** austere cell over a mortuary; tea set, origami box, ledger of silent debts.
+* **Income:** mortuary fees, “noise abatement” donations, anonymous tithes.
+
+---
+
+## 🧩 Morals & Ethics
+
+Mercy is **minimization**. If suffering is a sum, he subtracts until the total is quiet.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** **Severance spans** where rain makes **no sound**—his rites feel false.
+* **Weaknesses:** average damage without **Touch of Death**; limited slots; radiant counters his dhampir resilience flavor.
+* **Strengths:** **AC 18 + shield control**, reach weapon, **hard disables (Blind/Deaf, Hold Person)**, **burst necrotic** on demand.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+He adjusts your collar like a careful tailor and murmurs:
+
+> “Four breaths together. If I tap twice, step behind me; I’ll keep the numbers low.”
+
+ทำให้คนเขินด้วยความสุภาพเกินจำเป็น—ยื่นชาอุ่น ๆ ก่อนจะอธิบายอย่างอ่อนโยนว่าใคร “ควรถูกลบออก”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+1. **Mute Ledger:** a list of “noisy names” includes a PC contact; discover who’s feeding him the list.
+2. **Paper Wings:** his cranes start appearing at fresh murders he didn’t commit—someone is forging his ritual to frame him.
+3. **Hollow Circle:** one bridge swallows his **Toll the Dead** entirely; a Severance anchor lives beneath—cut it free or he’ll switch to bodies.
+
+---
+
+## Tags
+
+#Male #Dhampir #Cleric3 #DeathDomain #LawfulEvil #ScytheGlaive #Controller #CR1
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** scythe (glaive), mace, shield, scale mail, component pouch, embalmer’s salts, silk rope, echo-salt, consecration cloths, steel glasses
+* **Level-Up (to 4):** **+2 WIS (to 18)** หรือ **Feat: War Caster / Polearm Master** (better concentration, OA control with reach)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** hush corridors & glass bridges
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **ritual purge**, **escort triage-cull**, **reach duel in rain**
+* **Affiliation:** **Silent Vestry**
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Korean male dhampir cleric death domain 179cm low ponytail rectangular glasses mourning coat shield scythe glaive rain charcoal palette

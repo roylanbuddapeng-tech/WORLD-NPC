@@ -1,0 +1,183 @@
+# #405 — **Jia “Glass-Hush” Lin** — *The Smile You Notice After the Throat Goes Quiet*
+
+> “Shh. I only collect the seconds nobody wanted.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 405
+* **Gender:** **Female** *(Type flavor: รุ่นเพื่อน — friendly, dead-calm)*
+* **Age:** 24
+* **Race:** **Human (Valeronnes — ~90% human; distinctive: faint smoke-gray ring in the irises)**
+* **Class & Level:** **Rogue (Assassin) 3** — **Level 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Evil**
+* **Profession:** night courier, contract killer, “echo-scene hygienist”
+* **Organization:** freelance; quiet ties to under-bridges “Glasshands” circle
+* **Symbol:** a thin chalk seam ending in a tiny teardrop blade
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Chinese–Japanese sleek street shadow** — tidy posture, soft smile, eyes that weigh your timing rather than your worth.
+
+**Height:** **165 cm** **Weight:** **52 kg**
+**Body Type:** **lean, dancer-fit**, long lines, compact hips; hands steady as a metronome.
+
+**Hair (equal-weight randomized; twin bun chance halved vs bun):** **Single low bun**, **straight**, center-parted; rain slicks it like an ink brushstroke.
+**Color:** **blue-black** with **steel-gray lowlights** that catch lantern rain.
+**Eyes:** dark brown with a smoke-gray ring; sharpen a shade before she moves.
+**Skin:** pale ivory with a low glassy sheen at the collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** matte black ear-cuff, slim jade bead pendant, tendon-wrap data-cord.
+
+### FEMALE BODY METRICS
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B–W–H, cm): 86 – 60 – 92
+VALIDATION: • W/B = 0.70 → OK   • H/W = 1.53 → OK
+```
+
+Clean, mobile silhouette; her harness routes force through hips so slashes don’t twist her shoulder line.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium** (lean lines, serviceable reveal)
+
+A **charcoal cutaway stealth cuirass** over **matte studded leather**, **open back** cross-harness for scabbards. **Split utility skirt** over **compression tights** for glass-rail lunges. **Knee-high traction boots** with siped soles; **half-gloves** with grip pads. A **short storm-capelet** snaps to the collar; in rain it reads like a moving seam mark.
+
+**Palette:** charcoal / steel / smoke-gray / faint jade
+
+**Weapons & Gear:**
+
+* **Rapier “Quiet Thread”** (needle-narrow blade)
+* **Dagger ×2** (one hooked for catching tendons)
+* **Light crossbow** (glass-fletched bolts)
+* **Thieves’ tools**, **poisoner’s kit**, silk rope 50 ft, chalk-line, echo-salt, waxed cord
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **21 HP** (1st-level max 8 + Con +1; + two levels avg 5 each + Con +1 each)
+* **AC:** **16** (studded leather 12 + DEX +4)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 14 (+2)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** **Stealth +8** (Expertise), **Investigation +6** (Expertise), Acrobatics +6, Perception +3, Sleight of Hand +6, Deception +4
+* **Languages:** Common, Elvish, Thalassaran Cant, **Thieves’ Cant**
+
+**Rogue 3 — Assassin (PHB)**
+
+* **Sneak Attack 2d6**, **Thieves’ Cant**
+* **Cunning Action:** Dash/Disengage/Hide as Bonus Action
+* **Assassinate:** advantage vs creatures that haven’t acted; hits vs surprised creatures **crit**
+* **Expertise:** Stealth, Investigation
+
+**Attacks**
+
+* **Rapier:** +6 to hit, **1d8+4** piercing (add **2d6** Sneak Attack when applicable)
+* **Dagger:** +6 to hit, **1d4+4** piercing (thrown 20/60)
+* **Light Crossbow:** +6 to hit, **1d8+4** piercing (80/320)
+
+---
+
+## 🎯 Combat Tactics (Silk-Quiet Execution)
+
+* **Role:** **assassin / opener breaker**
+* **Opener:** stalk in rain noise; **Assassinate** strike into the loudest bully at initiative flip.
+* **Flow:** **Cunning Action** to vanish between glass reflections; uses **poisoner’s kit** pre-fight (basic injury poison RAW).
+* **Finisher:** rapier draw-cut along the chalk seam; the rain line tightens into an arrow that civilians follow.
+
+**Damage Flavor:** impact leaves a thin vitreous ring on wet stone; the ring “clinks” like a dropped teacup when the body halts.
+
+---
+
+## 💬 Personality (สุดโต่ง + มุมน่ารัก)
+
+* **Traits (Extremist):** **บ้าเลือดแบบระเบียบจัด** — เกลียดของเลอะเทอะ; ฆ่าเพื่อ “ทำความสะอาดเสียง” ของเมือง
+* **Cute Quirk:** พก **ซองชา** หลายรส—ชงชาให้เหยื่อที่สั่นกลัวก่อนลงมือ “จะได้อุ่นขึ้น”; เก็บ **ใบเสร็จชา** เป็นไดอารี่
+* **Origin of Extremes:** โตมากับครอบครัวร้านชาใกล้สะพานที่เกิดเหตุกระทืบตาย—เสียงกรีดร้องกับถ้วยแตกผสมกันคืนนั้น เธอปักใจว่า “เสียงสกปรก” ดึงดูดหายนะ จึงเริ่ม **ลบเสียงสกปรก** (คนเสียงดัง) ออกจากเมือง
+* **Flaw:** เสพติด “ฉากสะอาด” — เสี่ยงภารกิจเพื่อจัดท่าศพ/ล้างเลือดให้เรียบร้อย
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes** — glass bridges, hush corridors, drain stairs
+* **Threat Gradient:** **Deep Echo** (เธอชอบที่เสียงรอบข้างกลืนหลักฐาน)
+* **Encounter Framing:** **assassination under rain**, **heist-escort turned cull**, **duel on a narrow seam**
+
+---
+
+## 📜 Background & Lifestyle
+
+Tea-house orphan; memorized footfall tempos delivering kettles on slick rails. When the Echo taught her how rain masks a cut, she became the city’s most polite disaster.
+
+* **Lifestyle:** a broom-clean garret; teacups labeled by rainfall pattern, blades wrapped in linen.
+* **Income:** contract kills, hush deliveries, “sanitation” fees from terrified shop rows.
+
+---
+
+## 🧩 Morals & Ethics
+
+“Noise is a stain; stains must be lifted.” Mercy exists if silence can be kept without a corpse.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Severance spans where **rain makes no sound**—no cover, no rhythm.
+* **Weaknesses:** low sustained damage vs armored squads; relies on surprise and position.
+* **Strengths:** **alpha-strike crits**, world-class stealth/mobility, surgical removal of leaders.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+* **Making others blush:** pours you hot tea mid-stakeout, adjusts your grip like a partner’s waltz, whispers “good posture.”
+* **How she teases:** taps your wrist with a teabag string for timing; smiles when your pulse matches the rain.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+1. **Teacup Ledger:** each cup mark equals a death; the pattern maps a future route—decode it before the next “cleaning.”
+2. **Glass Saint:** a rival claims she leaves “holy” stillness; cultists start hiring her—cut the chain.
+3. **Silent Spill:** on one bridge, her blade leaves **no ring**; find the anchor swallowing sound.
+
+---
+
+## Tags
+
+#Female #Human #Rogue3 #Assassin #StealthKiller #DeepEcho #TeaKiller #CR1
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** rapier, 2× daggers, light crossbow (20 bolts), studded leather, thieves’ tools, poisoner’s kit, silk rope 50 ft, chalk-line, echo-salt, assorted teas
+* **Level-Up (to 4):** **+2 DEX (to 20)** or **Feat: Alert / Skulker** (initiative edge, vanish in rain)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** glass bridges & hush corridors
+* **Threat Gradient:** **Deep Echo**
+* **Encounter Type:** **surprise execution**, **escort turned purge**, **rain-seam duel**
+* **Affiliation:** tenuous — “Glasshands” contractors
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Chinese Japanese female rogue assassin 165cm single low bun blue-black hair smoke ring eyes charcoal stealth cuirass rapier daggers rain bridge

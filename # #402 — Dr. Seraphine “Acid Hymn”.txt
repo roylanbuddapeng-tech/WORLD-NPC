@@ -1,0 +1,181 @@
+# #402 — **Dr. Seraphine “Acid Hymn” Vale** — *The Laugh Behind the Fume Hood*
+
+> “If it screams, it’s still useful. If it sings, we bottle it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 402
+* **Gender:** **Female (สุ่ม)**
+* **Age:** 26
+* **Race:** **Half-Beast (mantis lineage — human-like ~86%: slender mantis-green ring in pupils, faint forearm carinae, micro–wing-vein shimmer at shoulder blades)**
+* **Class & Level:** **Artificer (Alchemist) 3** — **Level 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Evil**
+* **Profession:** นักปรุงกรด–ศัลยวิปลาส, นักทดลอง Echo-chem, จัดหา “ชิ้นงาน” ให้ตลาดมืด
+* **Organization:** เครือข่ายห้องทดลองเถื่อน “Glass Mortar”; คลุมเครือกับผู้ซื้อฝั่ง Severance
+* **Symbol:** ครกแก้วมีหยดกรดสองหยดที่กระทบเป็นวงเสียง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean laboratory siren** — neat as a scalpel, eyes gleaming with predatory curiosity.
+
+**Height:** **158 cm** **Weight:** **54 kg**
+**Body Type:** **petite but curvy**, deceptively delicate wrists, surgical steadiness.
+
+**Hair (equal-weight random):** **Twin buns**, **straight**, needle-clean part with thin escape wisps; when rain beads, the buns glitter like glass knobs.
+**Color:** **jet black** with **toxic-lime lowlights** that glow against lab glass.
+**Eyes:** **hazel** with a thin **mantis-green ring**; pupils sharpen when she spots “material.”
+**Skin:** porcelain with a cool lab-pale cast; faint vein-shimmer along the upper back.
+
+**Jewelry & Accessories (glasses 40% → success):** **clear-lens safety glasses** (alchemical wards), thin silver choker with a droplet ampoule, rune-stamped data-bangle, and a single helix ear-cuff.
+
+### FEMALE BODY METRICS
+
+```
+CUP: H   CATEGORY: Very Large
+THREE_SIZES (B–W–H, cm): 103 – 58 – 95
+VALIDATION: • W/B = 0.56 → OK   • H/W = 1.64 → OK
+```
+
+A **very large bust on a tiny waist**; her harness is industrial—load-bearing straps vanish under the coat so motion stays precise.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium–High** (laboratory-functional but provocatively cut)
+
+A **cropped chem-coat** with **open sides** and sealed seams, worn over a **black support halter**; **open back** crossed with elastic anchors that seat vial racks. **High-slit pencil skirt** over **compression shorts** for stride on wet glass. **Thigh-high rubberized boots** etched with hazard sigils; **acid-proof half-gloves** with reinforced fingertips. When hunting, she adds a **clear hood** that beads rain like trapped pearls.
+
+**Palette:** bone-white / toxic lime / charcoal / steel
+
+**Weapons & Gear:** ritual scalpel (**dagger**), **hand crossbow** (glass-bolt ampoules), alchemist’s supplies, poisoner’s kit, silk cord 50 ft, 6× labeled vials, echo-salt, smelling salts
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **20 HP** (3d8 + CON +2 ×3)
+* **AC:** **18** (breastplate 14 + DEX +2 + **shield** +2)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 16 (+3)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Arcana +5, Investigation +5, Medicine +5, Sleight of Hand +4, Intimidation +4
+* **Tools:** **Alchemist’s supplies**, **Poisoner’s kit**, Tinker’s tools
+* **Languages:** Common, Thalassaran Cant, Undercommon
+
+**Artificer 3 — Alchemist (TCoE)**
+
+* **Magical Tinkering**, **Infuse Item** (Infusions Known **4**; Infused Items **2** active — e.g., **Enhanced Defense** on breastplate, **Repeating Shot** on hand crossbow)
+* **Alchemist Spells (always prepared):** *Healing Word, Ray of Sickness*
+* **Spellcasting (INT; DC **13**, +5 to hit)** — **1st-level slots: 3**
+
+  * **Cantrips (2):** *Acid Splash, Mage Hand*
+  * **Prepared Spells (6):** *Cure Wounds, Healing Word, Ray of Sickness, Grease, Faerie Fire, Tasha’s Caustic Brew (TCoE)*
+* **Experimental Elixir (1/long rest, more by slot):** roll/choose: **Healing, Swiftness, Resilience, Boldness, Flight, Transformation** (TCoE)
+
+**Attacks**
+
+* **Hand Crossbow (Repeating Shot):** +5 to hit, **1d6+2** piercing (no ammo expended; ignores loading)
+* **Dagger (ritual scalpel):** +4 to hit, **1d4+2** piercing
+* **Tasha’s Caustic Brew (spell):** 30-ft line, ongoing **acid** dmg if target fails Dex save until it’s scraped off (action)
+
+---
+
+## 🎯 Combat Tactics (Acid Control & Specimen Harvest)
+
+* **Role:** **controller / debuffer / pick-off finisher**
+* **Opener:** snaps **Tasha’s Caustic Brew** through the densest line; tags a runner with **Ray of Sickness** to poison and chase down.
+* **Flow:** **Grease** for hilarious, humiliating falls; **Faerie Fire** to outline “specimens”; **Repeating Shot** peppers knees. Keeps **Healing Word** for minions she wants alive longer.
+* **Finisher:** surgical step-in, **scalpel** across hamstrings while whispering notes; vials ready.
+
+**Damage Flavor:** acid fizz leaves neon-lime staves in rain; victims “sing” as drops pattern into notation only she understands.
+
+---
+
+## 💬 Personality (สุดโต่ง)
+
+* **Traits:** คลาดเลือด, อารมณ์ขันสีดำ, บันทึกสถิติความดังของกรีดร้องเป็นกราฟ
+* **Ideal (Extremist):** **“การทดลองต้องมาก่อนศีลธรรม”** — ผลลัพธ์สำคัญกว่าเหยื่อ
+* **Bond:** สมุด “Hymnbook” รวมสูตรกรดคู่เสียงกรีดร้องของเหยื่อ
+* **Flaw:** เสพติดการ “ปรับแต่ง” เหยื่อหน้างาน; พังภารกิจเพราะอยากเก็บข้อมูลเพิ่ม
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara ท่อล่าง–คลังน้ำยา**, **Valeronnes ห้องทดลองรั่วไหล**
+* **Threat Gradient:** **Deep Echo**
+* **Encounter Framing:** **ลักพาตัวเพื่อชันสูตร**, **ไล่ล่าในอุโมงค์แก้วลื่น**, **เผชิญหน้าในห้องทดลองที่เดือดพล่าน**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกศิษย์สายปรุงยาในโรงละครเสียงสะท้อน—วันหนึ่งเธอค้นพบว่า **เสียงเจ็บปวด** ทำให้สารบางชนิดตกผลึกได้ “สมบูรณ์กว่า” เธอจึงเริ่ม “กำกับ” สารและเหยื่อให้ร้องตามคีย์
+
+* **Lifestyle:** ห้องแคบสะอาดจัด, ชั้นวางขวดเรียงตามระดับเสียง, เตียงเหล็กหนึ่งเตียง
+* **Income:** ขายผลงานให้พ่อค้าคนกลาง, รับงานสกปรก, จำนำ “ชิ้นส่วน”
+
+---
+
+## 🧩 Morals & Ethics
+
+คนเป็น **วัตถุดิบ**; ความกลัวคือสารเร่งปฏิกิริยา; ความเมตตาคือสารปนเปื้อน
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** พื้นที่ที่เสียงหายไปหมด (Severance) — ทุกสมการพัง
+* **Weaknesses:** HP ต่ำ, พึ่งสกิล–สลอต, ถ้าถูกประชิดยาวนานจะเริ่มรวน
+* **Strengths:** คุมพื้นที่ดี (**Grease/Faerie Fire/Caustic Brew**), **Infusions** อัปเกราะ–ยิงรัว, **Elixir** ปรับสถานการณ์
+
+---
+
+## 💞 Interactions (พฤติกรรมต่อคนอื่น)
+
+* **ทำให้คนเขิน:** เอียงศีรษะชม “รูปทรงกล้ามเนื้อ” หรือ “ความถี่เสียง” ของคุณราวกับสารในขวด
+* **เวลาเธอเขิน (แทบไม่เกิด):** มีเพียงเมื่อเจอเสียงที่ “เพอร์เฟกต์” จนมือสั่นเล็กน้อย
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+1. **Hymnbook** — หนังสือสูตรกรดที่ต้อง “ขับร้อง” เพื่อสกัดยา; ใครสักคนกำลังลอกเลียนและแรงขึ้นทุกคืน
+2. **Silent Trial** — เธอล่า “สะพานเงียบ” เพื่อพิสูจน์ว่าความเงียบกะเทาะจิตได้ยิ่งกว่าเสียง
+3. **Buyer’s Choir** — นายจ้างต้องการ “วงประสาน” จากผู้รอดชีวิต 5 ราย—เธอต้องการพวกเขา “ทั้งยังร้องได้”
+
+---
+
+## Tags
+
+#Female #HalfBeast #Mantis #Artificer3 #Alchemist #ChaoticEvil #Grease #CausticBrew #ExperimentalElixir #GlassLabs #CR1
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** breastplate (+ Enhanced Defense), shield, hand crossbow (+ Repeating Shot), dagger (ritual scalpel), alchemist’s supplies, poisoner’s kit, 6× vials, silk cord 50 ft, echo-salt
+* **Level-Up (to 4):** **+2 INT (to 18)** หรือ **Feat: Alchemist Savant?** *(RAW ไม่มี)* → เลือก **Feat: Keen Mind / Poisoner (UA ไม่ใช้)**; ใช้ **Observant** หรือ **Skilled** แทน
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** ท่อล่าง Thalassara, ห้องทดลองรั่วไหลใน Valeronnes
+* **Threat Gradient:** **Deep Echo**
+* **Encounter Type:** **raid ห้องทดลอง**, **ไล่ล่าในอุโมงค์ลื่น**, **ดวลน้ำยากรด**
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Japanese Korean female alchemist mantis-trait twin buns toxic-lime streaks glasses cropped chem-coat slit skirt thigh boots vials acid glow

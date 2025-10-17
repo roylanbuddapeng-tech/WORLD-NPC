@@ -1,0 +1,184 @@
+# #379 — **Byul “Glass-Heart” Seong** — *Kind Hands, Sharp Point*
+
+> “I’ll go first so you don’t have to. Please hold the strap and breathe with me.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 379
+* **Gender:** **Male — Femboy (Subtype: ใสซื่อ)**
+* **Age:** 19
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Champion) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane escort / spear-shield guardian / gentle decoy**
+* **Organization:** **Valeronnes Rail Wardens — Gentle Line**
+* **Symbol:** หัวใจใสวาดบนเส้นราง บนสุดเป็นปลายหอกเล็ก ๆ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean idol-soft** — delicate features, doe-eyed kindness, quiet courage.
+
+**Height:** **157 cm** (femboy rule ≤160) **Weight:** **47 kg**
+**Body Build:** **slender, graceful**, dancer legs, narrow shoulders; moves with careful, courteous steps.
+
+**Hair (equal-weight random):** **Short feminine bob**, softly **wavy**, tucked behind one ear.
+**Color:** **pastel blue** with **silver frost tips**, shimmering in rainlight.
+**Eyes:** **mist-brown**, wide, lashes long; a shy sparkle when praised.
+**Skin:** porcelain-fair; faint rain-glow along collarbones.
+
+**Jewelry & Accessories (glasses 40% → success):** **oval silver glasses** (anti-fog runes), **pearl drop earring** (single), **slim ribbon choker**, and a **tiny charm-bell** on the left wrist.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High** (allowed for femboy)
+
+A **cropped cuirass** with a **deep sweetheart V** over a **lace-up underbust harness**, **open back** with crossed elastic straps anchoring the scabbard. **High-cut split shorts** over **sheer tights**, and **thigh-high traction boots** with micro-tread. A **short rain-capelet** clips at the collar and flutters like a heart-beat when he runs.
+
+**Palette:** ice blue / pearl white / silver / blush accents
+
+**Weapons & Gear:**
+
+* **Spear “Heartline”** (one-handed versatile; rail-balanced haft)
+* **Shield** (glass-inset boss; heart motif)
+* **Dagger**, **silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +1)×3 = **22 HP**
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 14 (+2)** **CON 12 (+1)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +3
+* **Skills:** Acrobatics +4, Athletics +4, Persuasion +5, Insight +3, Perception +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Champion**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Improved Critical:** weapon attacks crit on **19–20**
+
+**Attacks**
+
+* **Spear (1h + shield):** +4 to hit, **1d6+2** piercing (crit 19–20)
+* **Spear (2h):** +4 to hit, **1d8+2** piercing (crit 19–20)
+* **Dagger:** +4 to hit, **1d4+2** piercing
+
+---
+
+## 🎯 Combat Tactics (Gentle-Line Guardian)
+
+* **Role:** **frontline defender / aggro decoy with kindness**
+* **Opener:** steps in first with a soft smile, **shield** raised; tags the lead brute with a precise **spear** poke to claim the lane.
+* **Flow:** holds a steady pace; **Action Surge** to convert defense into a brief two-poke press so civilians slip past; aims for **19–20 crits** by staying calm and accurate.
+* **Finisher:** half-step pivot, two-handed spear thrust; rain beads align like tiny hearts along the haft.
+
+**Damage Flavor:** when he lands a telling hit, droplets flare in a pale blue ring, as if the bridge itself sighed in relief.
+
+---
+
+## 💬 Personality
+
+* **Traits:** shy-sweet, earnest, apologizes when he bumps someone even in a riot.
+* **Ideal:** Care Before Glory — “If you’re safe, that’s my win.”
+* **Bond:** keeps a folded paper heart from a rescued child; checks it before every patrol.
+* **Flaw:** too trusting; will let a taunting foe talk too long.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort choke**, **riot peel**, **quiet duel in rainlight**
+
+---
+
+## 📜 Background & Lifestyle
+
+A tea-stall helper who learned to carry scalding kettles across slick planks without spilling. The Wardens noticed his balance and his knack for calming people with a single, sincere smile—and put a spear in those careful hands.
+
+* **Lifestyle:** tidy garret with neatly folded capes, extra towels, and ribbon spools.
+* **Income:** city stipend, small tips tucked into his glove after safe crossings.
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes **gentleness is a tactic**: kindness draws eyes, and eyes on him means fewer eyes on panic.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** sudden silence where rain should fall (Echo); letting someone fall behind him.
+* **Weaknesses:** **22 HP** and modest STR; needs formation to avoid being swarmed.
+* **Strengths:** **AC 19**, **Action Surge** tempo shift, **Improved Critical** reliability, high **CHA** for crowd calming.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy — ใสซื่อ (innocent, still flirty by accident):**
+
+> “Please hold my back strap… tighter is okay—o-oh! Good. Now we breathe together, okay?”
+
+เผลอชมกลับแบบไร้เดียงสา “คุณจับเก่งจัง… หมายถึง *สายรัด* น่ะ!” ทำคนหน้าแดงแล้วเดินเป็นจังหวะเดียวกันได้
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** sometimes his glasses mist into **heart-shaped runes** pointing to the safest micro-path through a crowd.
+* **Hooks:**
+
+  1. **Heartline Map:** the heart-runes start drawing a route to a sealed span under the city.
+  2. **Kindness Debt:** a rescued gang-runner owes him and repays with dangerous “help.”
+  3. **Quiet Duel:** a cruel lancer mocks his softness—Byul must win without hardening.
+
+---
+
+## Tags: #Femboy #Male #Human #Fighter3 #Champion #Spear #Shield #HighExposure #CR1 #GentleGuardian
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Byul **guides your hand to the strap, cheeks pink behind the glasses:**
+
+> “Half-step, then smile. If I wobble, squeeze once—then I’ll make space for you.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, shield, dagger, silk rope 50 ft, chalk-line, echo-salt, salve ×2, oval glasses, ribbon choker
+* **Level-Up (to 4):** **+2 DEX (to 16)** หรือ **Feat: Shield Master / Sentinel** เพื่อคุมเลนให้แน่นขึ้น
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort choke**, **riot peel**, **calm-duel demonstration**
+* **Affiliation:** **Gentle Line — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean femboy human fighter champion 157cm short wavy bob pastel blue hair silver tips oval silver glasses high to very high exposure cropped cuirass deep sweetheart V open back high-cut shorts sheer tights thigh boots spear shield innocent shy gentle fantasy

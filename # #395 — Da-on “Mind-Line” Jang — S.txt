@@ -1,0 +1,187 @@
+# #395 — **Da-on “Mind-Line” Jang** — *Soft Steps, Hard Thoughts*
+
+> “I’ll hold their eyes with mine. You slip through.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 395
+* **Gender:** **Male — Femboy (Subtype: เย้ายวน)**
+* **Age:** 20
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Psi Warrior) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane duelist / telekinetic guard / crowd focus**
+* **Organization:** **Valeronnes Rail Wardens — Quiet Mind Line**
+* **Symbol:** a thin rail seam under a small psionic eye, three dots for breath counts
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean idol-soft** — elegant jaw, plush lips, dangerous-in-silk kind of pretty.
+
+**Height:** **160 cm** (femboy rule) **Weight:** **49 kg**
+**Body Build:** **slender, graceful**, dancer calves, narrow waist; moves like a stage lead.
+
+**Hair (equal-weight random):** **Bob cut**, **straight**, chin-length with blunt fringe; sleek even in rain.
+**Color:** **inky black** with **violet lowlights** that glimmer when his mind flares.
+**Eyes:** **smoky amethyst-brown**; a pale violet ring brightens as psionics surge.
+**Skin:** porcelain with a faint rain-glow at the collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** silver choker with a dew-pearl, single chain earring, slim bell-bangle (near-silent).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High** (allowed for femboy; supportive, mobile)
+
+A **cropped deep-V vest cuirass** laced to a **velvet underbust harness**, **open back** with X-elastic anchors for the spear sling. **High-cut split shorts** over **sheer tights**, **thigh-high traction boots** with ripple treads. **Half-gloves** engraved with tiny mind-sigils. A **short storm-capelet** clips at the collar and flares like a teasing fan when he spins.
+
+**Palette:** violet / charcoal / pearl / silver accents
+
+**Weapons & Gear:**
+
+* **Spear “Quiet Thread”** (rail-balanced; haft etched with lattice sigils)
+* **Shortsword** (tight-lane sidearm)
+* **Silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **24 HP** (3d10 + CON +1 ×3)
+* **AC:** **18** (breastplate 14 + DEX +2 + **Defense** +1 + psionic bracing flavor; RAW 17 if you prefer no flavor bonus—use 17)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 12 (+1)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +3
+* **Skills:** Acrobatics +5, Athletics +4, Insight +3, Performance +5, Persuasion +5
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Psi Warrior (TCoE)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Psionic Power (d6 Psionic Energy Dice; 4 dice = 2 × PB):**
+
+  * **Protective Field (Reaction):** reduce damage to a creature within 30 ft by **1d6 + INT (1)**
+  * **Psionic Strike:** when you hit with a weapon, deal extra **1d6 psychic** damage (no save)
+  * **Telekinetic Movement:** as an action, move a willing creature/object **30 ft** (no OA for objects/loose gear; creative escort!)
+
+**Attacks**
+
+* **Spear (1h):** +5 to hit, **1d6+3** piercing (add **+1d6 psychic** via Psionic Strike when needed)
+* **Spear (2h):** +5 to hit, **1d8+3** piercing
+* **Shortsword:** +5 to hit, **1d6+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Mind-Thread Skirmisher)
+
+* **Role:** **controller / bodyguard skirmisher**
+* **Opener:** soft smile → steps to the seam; first poke with **Psionic Strike** to claim attention, **Protective Field** ready for bystanders.
+* **Flow:** **Telekinetic Movement** tugs allies or civilians **30 ft** through a gap; **Action Surge** converts a safe hold into a clean pass window.
+* **Finisher:** two-handed lunge as violet motes string along the haft; rain draws a razor-clean arrow through the crowd.
+
+**Damage Flavor:** every strike pops a tiny violet ring on wet glass; the rings fade as people pass safely.
+
+---
+
+## 💬 Personality
+
+* **Traits:** shameless flirt, precise footwork coach, whispers compliments mid-fight to rattle foes.
+* **Ideal:** **Elegance as Tactic** — “If they watch me, they forget to panic.”
+* **Bond:** keeps a ribbon from the first choir kid he escorted; kisses it before patrols.
+* **Flaw:** loves flourish; risks one extra twirl when a simple stab would do.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, hush corridors, roof-rails**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort choke with telekinesis**, **riot peel**, **duel in rainlight**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former stage extra turned runner; learned crowd physics from balcony spotlights. On his first Echo night he “pulled” a stumbling elder with a thought and never stopped.
+
+* **Lifestyle:** tidy garret of capes, chalk strings, and mirror shards.
+* **Income:** city stipend, hazard pay, private “lane-dance” lessons.
+
+---
+
+## 🧩 Morals & Ethics
+
+He measures victory by **how smoothly people slip behind him**. Pretty is just the paint on discipline.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** dead-quiet spans that swallow his mind-rings (Severance).
+* **Weaknesses:** **24 HP**; limited psionic dice—must pace resources.
+* **Strengths:** **telekinetic reposition**, **on-demand damage reduction**, **Action Surge** tempo, accurate spear work.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy — เย้ายวน:**
+
+> “Hands on my waist… mm, lower—tactical, I promise. When I say ‘float,’ you glide with me.”
+
+เขากระซิบใกล้หู ใช้คำกำกวมจนคนข้าง ๆ หน้าแดง แล้วพาเดินตามจังหวะได้อย่างว่าง่าย
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his bell-bangle rings only near **forged rails**; on Severance spans it goes dead.
+* **Hooks:**
+
+  1. **Mind-Map:** violet rings appear at midnight, pointing to a sealed under-bridge.
+  2. **Borrowed Thought:** someone mimics his Protective Field to shield criminals—trace the thief.
+  3. **Quiet Pull:** Telekinetic Movement fails on one bridge; discover who’s eating the rain’s voice.
+
+---
+
+## Tags: #Femboy #Male #Human #Fighter3 #PsiWarrior #Spear #VeryHighExposure #CR1 #Controller
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Da-on **guides your hands to his harness, lips by your ear:**
+
+> “Half-step shadow. If I lift my hand, float. If I smile, pass.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, shortsword, silk rope 50 ft, chalk-line, echo-salt, salve ×2, bell-bangle, ribbon charm
+* **Level-Up (to 4):** **+2 DEX (to 18)** or **Feat: Mobile / Piercer** (lane surfing & cleaner thrusts)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort choke**, **telekinetic peel**, **reach duel in rain**
+* **Affiliation:** **Quiet Mind Line — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Korean femboy fighter psi warrior 160cm straight bob violet lowlights very high exposure cropped cuirass open back sheer tights spear rain bridge

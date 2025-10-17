@@ -1,0 +1,195 @@
+# #399 — **Sun-Young “Seam-Heart” Ryu** — *Hold the Line, Hold Your Nerve*
+
+> “Two breaths. I take the hit; you take the step.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 399
+* **Gender:** **Female (Type: MILF — protective, warm, teasing-but-firm)**
+* **Age:** 31
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Champion) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **lane anchor / shield captain / formation coach**
+* **Organization:** **Valeronnes Rail Wardens — Heart Thread**
+* **Symbol:** a stitched rail seam beneath a small heart-glyph and spearpoint
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean — maternal poise with athlete lines**, the kind of senior who adjusts your stance, then smiles until you stop shaking.
+
+**Height:** **166 cm** **Weight:** **56 kg**
+**Body Type:** strong hourglass; firm back/shoulders, powerful thighs; posture calm and commanding.
+
+**Hair (equal-weight random):** **Twin buns** (space buns), **wavy** wisps framing the cheeks.
+**Color:** **raven black** with **rose-gold lowlights** that spark in rainlight.
+**Eyes:** **cool smoke-brown**; a pale silver ring tightens when she commits.
+**Skin:** warm ivory with a faint rain-sheen across collarbones.
+
+**Jewelry & Accessories (glasses 40% → success):** **rectangular steel glasses** (anti-fog wards), slim jade pendant, signal bangle with two tiny chime beads, and a matte-silver ring for breath-count cues.
+
+### FEMALE BODY METRICS
+
+```
+CUP: J   CATEGORY: Huge
+THREE_SIZES (B–W–H, cm): 108 – 60 – 104
+VALIDATION: • W/B = 0.56 → OK   • H/W = 1.73 → OK
+```
+
+A **huge J-cup** anchored by a **load-bearing combat halter**; despite the dramatic silhouette, her lines stay compact and efficient under force.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High** (functional reveal with supportive architecture)
+
+A **cutaway captain’s cuirass** with a **deep cathedral V** over a **reinforced battle halter**; **open-back cross harness** anchors her shield sling without bounce. **High-slit command skirt** over **compression shorts** for seamless lunges on slick glass. **Knee-high traction boots** with micro-tread; **half-gloves** etched with breath marks; a **short storm-capelet** pins flat so crowds can read her stance and follow.
+
+**Palette:** charcoal / rose-gold / steel / jade stitch
+
+**Weapons & Gear:**
+
+* **Spear “Heart-Stitch”** (versatile; rail-balanced; breath notches along the haft)
+* **Shield** (glass-inset boss with heart-glyph)
+* **Trident** (backup for lever-control on rails), **dagger**
+* **Silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **26 HP** (3d10 + CON +2 ×3)
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 17 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Persuasion +4, Insight +3, Perception +3, Medicine +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Champion (PHB)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Improved Critical:** your weapon attacks **crit on a 19–20** (excellent for spear control and trident pins)
+
+**Attacks**
+
+* **Spear (1h + shield):** +5 to hit, **1d6+3** piercing
+* **Spear (2h):** +5 to hit, **1d8+3** piercing
+* **Trident (1h + shield):** +5 to hit, **1d6+3** piercing (flavor: hook-and-turn on rails)
+* **Dagger:** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Promise Anchor / Crit Pressure)
+
+* **Role:** **frontline defender / lane keeper**
+* **Opener:** steps onto the seam, sets **shield**, tags the lead brute with **spear**; **Improved Critical** punishes overreach and forces respect.
+* **Flow:** uses **trident** to hook ankles or lever bodies off the seam; **Action Surge** converts a calm hold into a decisive pass window.
+* **Finisher:** two-handed spear thrust along the chalk line; rain pulls into a rose-gold arrow that says **go**.
+
+**Damage Flavor:** every clean hit draws a thin rose-gold line in the rain that lingers for a heartbeat—just long enough for the crowd to step.
+
+---
+
+## 💬 Personality
+
+* **Traits:** maternal warmth, crisp instructions, deadpan teasing to melt panic.
+* **Ideal:** Shelter — “Position is kindness; I’ll pay the price.”
+* **Bond:** carries a child’s ribbon in her bangle; kisses it before patrols.
+* **Flaw:** refuses to disengage while anyone still crosses; takes extra hits to keep promises.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock-stairs, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort seam hold**, **riot peel with lever-control**, **apex duel in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former quay medic and dock forewoman; she learned where weight lives and how to move it. On an Echo night, she stepped forward, smiled, and the stampede learned to breathe.
+
+* **Lifestyle:** tidy room over a soup kitchen; big stews for rookies after shift.
+* **Income:** city stipend, hazard pay, small donations from market rows she shields.
+
+---
+
+## 🧩 Morals & Ethics
+
+She counts success in **quiet, steady footsteps**. Mercy is pressure applied with care.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a span too wide for one promise; Severance-stilled rails where rain won’t answer.
+* **Weaknesses:** damage modest without crits; ranged focus fire can peel her from the seam.
+* **Strengths:** **AC 19**, **crit range 19–20**, **Action Surge** tempo, reliable spear+shield fundamentals, trident levers.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF — protective, softly teasing**
+
+> “Hand on my back strap—tighter. Eyes on the seam, not the neckline. When I say ‘pass,’ you pass.”
+
+เธอแตะข้อมือให้จังหวะหายใจจนใจนิ่ง แล้วบังตัวให้เองโดยไม่ลังเล
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her glasses fog in neat **breath bars** that predict shove timing; they go blank on Severance spans.
+* **Hooks:**
+
+  1. **Heart on the Rail:** hold one seam through a full Echo rotation with two rookies in tow.
+  2. **Counter-Lever:** a gang copies her trident hooks—find the smith and shut the ring.
+  3. **Silent Arrow:** the rose-gold rain-line fails on one bridge; track the anchor eating sound.
+
+---
+
+## Tags: #Female #Human #Fighter3 #Champion #Spear #Shield #Trident #MILF #HugeCup #CR1 #Frontline
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Sun-Young **sets the spear crosswise and nudges you behind it, glasses beading rain:**
+
+> “Two breaths with me. If I plant, you breathe; if I wave, you pass.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, shield, trident, dagger, silk rope 50 ft, chalk-line, echo-salt, salve ×2, rectangular glasses, jade pendant
+* **Level-Up (to 4):** **+2 STR (to 19)** หรือ **Feat: Sentinel / Shield Master** (lane lock, shoves, protection)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock-stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort seam hold**, **lever-control peel**, **apex duel in rain**
+* **Affiliation:** **Heart Thread — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Korean female fighter champion 166cm twin buns wavy rose-gold lowlights very high exposure deep-V cutaway cuirass shield spear trident J-cup rain bridge

@@ -1,0 +1,189 @@
+# #398 — **Hwi “Ribbon-Lance” Park** — *Blush, Breathe, Break Through*
+
+> “I’ll ride the line. When the ribbon points, we go.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 398
+* **Gender:** **Male — Femboy (Subtype: ใสซื่อ / innocent)**
+* **Age:** 19
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Cavalier) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **mounted lane-opener / crowd shepherd / point-man**
+* **Organization:** **Valeronnes Rail Wardens — Ribbon Line**
+* **Symbol:** a slim rail seam with a fluttering ribbon curling into a spearpoint
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean idol-soft** — tender smile, bright eyes, and a dancer’s neat posture.
+
+**Height:** **160 cm** (femboy rule) **Weight:** **49 kg**
+**Body Build:** **slender, graceful**, narrow waist, rider’s thighs; moves like he’s always keeping time.
+
+**Hair (equal-weight random):** **High ponytail**, **straight**, ribbon-tied; when he turns, the tail flicks in a teasing arc.
+**Color:** **inky black** with **rose-gold lowlights** that glint under rain.
+**Eyes:** **soft honey-brown** with a pale silver ring; go wide when praised.
+**Skin:** porcelain-fair with a rainlit sheen along collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** silk ribbon choker with a dew-pearl, single chain earring, slim bell-bangle (near-silent chime).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High** (allowed for femboy; supportive + mobile)
+
+A **cropped deep-V half-plate** laced to a **velvet underbust harness**, **open back** with crossed elastic anchors to seat the **lance sling** while mounted. **High-cut split shorts** over **sheer tights**, **thigh-high traction boots** with ripple treads for glass rails. **Half-gloves** in rose-gold filigree. A **short storm-capelet** clips at the collar like a ribbon flag when he rides.
+
+**Palette:** rose-gold / charcoal / pearl / soft black
+
+**Mount (RAW):** **Riding Horse** (“glass-shod” shoes; normal horse stats)
+
+**Weapons & Gear:**
+
+* **Lance “Ribbon-Lance”** (reach 10 ft; one-handed while mounted)
+* **Spear** (on-foot lanes)
+* **Dagger**, **silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**, **hoof resin**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **26 HP** (3d10 + CON +2 ×3)
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1) *(when using lance on foot, may stow shield)*
+* **Speed:** 30 ft (horse 60 ft)
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Animal Handling +3, Athletics +5, Acrobatics +4, Persuasion +4, Perception +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Cavalier (XGtE)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Bonus Proficiency:** **Animal Handling**
+* **Born to the Saddle:** advantage on checks to avoid falling from your mount; mounting or dismounting costs only **5 ft** of movement
+* **Unwavering Mark:** when you hit a creature with a melee attack, you **mark** it (disadvantage on attacks vs not-you while within 5 ft of you). If it still hits someone else, you can **bonus action** make a **special attack** against it on your next turn with **advantage** and **+level (3)** bonus damage.
+
+**Attacks**
+
+* **Lance (mounted, 1h):** +5 to hit, **1d12+3** piercing; **disadvantage** if target **within 5 ft** while on foot
+* **Spear (1h + shield):** +5 to hit, **1d6+3** piercing
+* **Spear (2h):** +5 to hit, **1d8+3** piercing
+* **Dagger:** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Ribbon Ride & Mark)
+
+* **Role:** **frontline controller / mounted lane-opener**
+* **Opener:** gentle smile → mounts the **glass-shod horse**, threads the choke, **marks** the lead brute with a lance tag; the brute now has **disadvantage** attacking civilians/allies near Hwi.
+* **Flow:** wheels to keep the marked foe near his stirrup; if the brute hits someone else anyway, Hwi’s next turn adds the **Unwavering Mark** **bonus attack** with **advantage** and **+3** damage. **Action Surge** converts a hold into a clear pass.
+* **Finisher:** dismount-hop → **spear+shield** two-handed thrust along the chalk seam; rain braids into a rosy ribbon arrow.
+
+**Damage Flavor:** each lance impact sheds rose-gold droplets that twist into a fluttering ribbon pointing “through.”
+
+---
+
+## 💬 Personality
+
+* **Traits:** sweetly earnest, apologizes mid-charge (“s-sorry—coming through!”), beams when praised.
+* **Ideal:** **Care in Motion** — “A gentle hand can drive a hard line.”
+* **Bond:** keeps a child’s thank-you ribbon tied to his choker.
+* **Flaw:** lingers to reassure stragglers; needs firm calls to press on.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock-stair aprons, roof-rails wide enough for mounts**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **mounted escort**, **riot peel with lance marks**, **apex duel in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+Stable hand turned messenger; he learned to set a horse’s rhythm to the city’s breath. On his first Echo night he tied a pink ribbon to his spear so a panicked crowd could **follow the color**—and it worked.
+
+* **Lifestyle:** tiny loft above the stables; ribbon box, saddle soaps, neatly folded capes.
+* **Income:** city stipend, hazard pay, grateful shop-row tips.
+
+---
+
+## 🧩 Morals & Ethics
+
+He measures success by **how smoothly people float behind his mount**. Courtesy first, courage second—speed ties it all together.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a span too narrow for a mount; rails that refuse to ring.
+* **Weaknesses:** lance is awkward on foot (disadvantage at 5 ft); can be focus-fired when isolated.
+* **Strengths:** **AC 19**, **mounted mobility**, **Unwavering Mark** control, **Action Surge** tempo, high crowd presence.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy — ใสซื่อ (innocent, still teasing by accident):**
+
+> “Um—can you hold my back strap? Tighter is… o-okay! When the ribbon flutters, we run—together.”
+
+เขาเผลอชมแบบไร้เดียงสา ทำคนข้าง ๆ หน้าแดง แล้วก้าวตามจังหวะได้พอดี
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his bell-bangle rings softly near **forged rails** but goes dead on **Severance-stilled** spans.
+* **Hooks:**
+
+  1. **Ribbon Trail:** rose-gold drips at midnight trace a route to a sealed under-bridge.
+  2. **Borrowed Mount:** a smuggler uses a lookalike horse and ribbon to mislead crowds—unmask the fake.
+  3. **Quiet Stirrup:** something dampens Unwavering Mark on one bridge; find the anchor eating the lane.
+
+---
+
+## Tags: #Femboy #Male #Human #Fighter3 #Cavalier #Lance #Mounted #VeryHighExposure #CR1 #Controller
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Hwi **sets your hand on the harness ring, cheeks pink:**
+
+> “Half-step shadow. If I lift the lance, pass. If I laugh, we’re safe.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** lance, spear, dagger, shield, silk rope 50 ft, chalk-line, echo-salt, salve ×2, hoof resin, ribbon choker
+* **Mount:** **Riding Horse** (RAW stat block), glass-shod shoes
+* **Level-Up (to 4):** **+2 STR (to 18)** or **Feat: Mounted Combatant / Shield Master** (safer lanes, cleaner peels)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock-stair aprons**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **mounted escort**, **mark-and-peel**, **duel in rain**
+* **Affiliation:** **Ribbon Line — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Korean femboy fighter cavalier 160cm straight high ponytail rose-gold lowlights very high exposure cropped half-plate lance riding horse rain bridge

@@ -1,0 +1,187 @@
+# #393 — **Jun-ho “Rune-Line” Kwan** — *Small Frame, Giant Promise*
+
+> “Grip my strap. When the sigils flare, we walk through.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 393
+* **Gender:** **Male — Femboy (Subtype: เย้ายวน)**
+* **Age:** 20
+* **Race:** **Human (Skarnov lineage — 90% human; faint bronze runic freckles at temples)**
+* **Class & Level:** **Fighter (Rune Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane duelist / rune-redirector / formation decoy**
+* **Organization:** **Valeronnes Rail Wardens — Sigil Thread**
+* **Symbol:** a thin rail seam with three tiny runes forming an arrowhead
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean idol-lithe** — soft features, sly smile, eyes that dare you to keep up.
+
+**Height:** **159 cm** (femboy rule) **Weight:** **48 kg**
+**Body Build:** **slender, elegant**, dancer calves, narrow waist; poised and teasing.
+
+**Hair (equal-weight random):** **Twin buns (space buns)**, **straight** with long curtain bangs; spin-flicks when he pivots.
+**Color:** **raven black** with **bronze-gold lowlights** that glow where runes spark.
+**Eyes:** **smoky honey-brown**, coy tilt; pupils rimmed with pale bronze.
+**Skin:** porcelain-fair; scatter of **runic freckles** across collarbones.
+
+**Jewelry & Accessories (glasses 40% → success):** **slim round bronze glasses** (anti-fog wards), **rune-charm choker**, **single chain earring**, **bell-bangle** (near-silent).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High → Very High** (permitted for femboy)
+
+A **cropped deep-V half-plate** over a **lace-up underbust harness**, **open back** with X-elastic anchors that seat the glaive sling. **High-cut split shorts** over **sheer tights**, **thigh-high traction boots** with rune-tread. A **short storm-capelet** pins at the collar; when he whirls, it flares like a taunting fan.
+
+**Palette:** bronze / charcoal / pearl / black
+
+**Weapons & Gear:**
+
+* **Glaive “Line-Giant”** (reach 10 ft; haft etched with cloud & stone runes)
+* **Shortspear** (backup for tight alleys)
+* **Dagger**, **silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **26 HP** (3d10 + CON +2 ×3)
+* **AC:** **18** (half plate 15 + DEX +2 cap + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Acrobatics +4, Insight +3, Performance +5, Persuasion +5
+* **Languages:** Common, Dwarvish (runes), Thalassaran Cant
+
+**Fighter 3 — Rune Knight (TCoE)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Rune Carver:**
+
+  * **Cloud Rune (illusion/redirect):** **Reaction** to make a creature within 30 ft **redirect** an attack it hits to another target (once/short rest); adv. on Sleight/Deception checks
+  * **Stone Rune (insight/charm):** adv. on **Insight**; **Reaction** to **charm** a creature within 30 ft for up to 1 min (WIS save ends; ends if it takes damage) (1/short rest)
+* **Giant’s Might (PB=+2 uses/long rest):** **Bonus Action** to become **Large** for **1 minute** (or proportional—El-Vendas vibe); gain **1d6 extra damage** once per turn on a weapon attack and adv. on STR checks/saves
+
+**Attacks**
+
+* **Glaive (reach, 2h):** +5 to hit, **1d10+3** slashing (**+1d6** once/turn while Giant’s Might)
+* **Shortspear (1h):** +5 to hit, **1d6+3** piercing
+* **Dagger:** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Rune Redirector / Lane Opener)
+
+* **Role:** **controller–skirmisher / aggro misdirection**
+* **Opener:** coy smile → **Giant’s Might** to “loom” without losing grace; **Cloud Rune** ready to **redirect** the first dangerous hit into a thug blocking the seam.
+* **Flow:** plays at reach with **glaive**; uses **Stone Rune** to charm a charger for a breath-count, turning a riot into choreography; **Action Surge** when a clean pass window appears.
+* **Finisher:** spin-slice along the chalk seam; bronze runes flare and the rain threads into an arrow that says **go**.
+
+**Damage Flavor:** bronze sigils blink in sequence down the haft; droplets bead into tiny runic letters that evaporate as crowds slip past.
+
+---
+
+## 💬 Personality
+
+* **Traits:** flirtatious, theatrical, wickedly encouraging under pressure.
+* **Ideal:** **Spectacle as Shield** — “If they’re staring at me, they’re not hurting anyone.”
+* **Bond:** keeps a bronze rune-disc from his mother’s forge; kisses it before patrol.
+* **Flaw:** loves showy redirects; risks a flourish when a plain block would work.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort choke with redirects**, **riot peel via charm**, **duel in rainlight**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born over a Skarnov anvilstage; he learned that lines—of steel or people—move where you mark them. On his first Echo night, his freckles lit like tiny brands, and the mob tripped over its own anger trying to follow his dance.
+
+* **Lifestyle:** tidy garret with folded capes, rune shavings, and too many mirrors.
+* **Income:** city stipend, hazard pay, private “lane-dance” lessons.
+
+---
+
+## 🧩 Morals & Ethics
+
+He counts success in **smiles behind him**. Runes are manners that shine.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** spans where runes won’t “take” (Severance static).
+* **Weaknesses:** two-handed reach means no shield; **focus fire** hurts; limited rune uses.
+* **Strengths:** **Giant’s Might** burst, **Cloud redirect**, **Stone charm**, **Action Surge** tempo, strong crowd presence.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy — เย้ายวน:**
+
+> “Hands on my waist… lower—tactical, darling. When the bronze lights up, squeeze and glide with me.”
+
+เขากระซิบสองแง่สามง่าม ใส่จังหวะหายใจให้ตามอย่างว่าง่าย แล้วเปิดช่องทางเหมือนปาฏิหาริย์
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** the rune-freckles sometimes sketch a **map** toward under-rails at midnight.
+* **Hooks:**
+
+  1. **Borrowed Sigil:** a forger copies his Cloud rune on riot shields—unravel the counterfeit.
+  2. **Giant’s Debt:** a hill-spirit demands he carry a vow along a silent span.
+  3. **Mirror Line:** assassins study his redirects to strike allies; teach them to chase ghosts.
+
+---
+
+## Tags: #Femboy #Male #Human #Fighter3 #RuneKnight #Glaive #VeryHighExposure #CR1 #Controller #Giant’sMight
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Jun-ho **sets your hands to the back strap, lips close to your ear:**
+
+> “Half-step shadow. If I spin, you flow. If I glow, you pass.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** glaive, shortspear, dagger, silk rope 50 ft, chalk-line, echo-salt, salve ×2, bronze glasses, rune-disc
+* **Level-Up (to 4):** **+2 STR (to 18)** or **Feat: Polearm Master / Sentinel** (lane lock + OA control)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **redirect escort**, **riot peel by charm**, **reach-duel in rain**
+* **Affiliation:** **Sigil Thread — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Korean femboy fighter rune knight 159cm twin buns bronze lowlights round glasses very high exposure cropped half-plate glaive runic freckles rain bridge

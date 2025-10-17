@@ -1,0 +1,196 @@
+# #387 — **So-Ra “Glass Banner” Choi** — *A Calm Voice, A Held Line*
+
+> “Thumb on the seam. Breathe with me—then we pass them through.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 387
+* **Gender:** **Female (Type: รุ่นพี่ — calm, mentoring, quietly strict)**
+* **Age:** 26
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Banneret / Purple Dragon Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **escort captain / spear-shield anchor / formation caller**
+* **Organization:** **Valeronnes Rail Wardens — Glass Banner Line**
+* **Symbol:** a slim spear crossing a stitched rain-line with three tiny breath-dots
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean — poised senior vibe**, the dependable upperclassman who corrects grip with two fingers and a soft “again.”
+
+**Height:** **168 cm** **Weight:** **57 kg**
+**Body Type:** tall elegant-athletic, strong seat and back; narrow waist with confident posture.
+
+**Hair (equal-weight random):** **High ponytail**, **straight**, taut and sleek; two longer tendrils frame the cheeks.
+**Color:** **inky black** with **cool steel lowlights** that shimmer in rainlight.
+**Eyes:** **smoke-brown** with steady focus; soften when reassuring civilians.
+**Skin:** light ivory with a faint porcelain glow across the collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** matte steel ear-cuff, slim jade pendant, thin signal-bangle with tiny chime beads.
+
+### FEMALE BODY METRICS
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B–W–H, cm): 100 – 63 – 102
+VALIDATION: • W/B = 0.63 → OK   • H/W = 1.62 → OK
+```
+
+A **very-large bust on a tight waist**, harnessed for shock absorption; lines clean and composed rather than showy.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium → High** (functional reveal; command presence)
+
+A **cutaway captain’s cuirass** with a **deep V panel** laced into a **supportive battle halter**; **open-back cross harness** anchors scabbards without bulk. **Split command skirt** over **compression breeches** for saddle and rail lunges; **knee-high traction boots** with micro-tread; **half-gloves** etched with command runes. A **short storm-capelet** pins flat so her stance reads clearly to crowds.
+
+**Palette:** storm blue / charcoal / steel / jade thread
+
+**Weapons & Gear:**
+
+* **Command Spear “Banner-Stitch”** (versatile, rail-balanced haft with breath-notch marks)
+* **Shield** (glass-inset boss; captain’s chevron)
+* **Longsword** (sidearm), **dagger**
+* **Silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**, **signal whistle**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **26 HP** (3d10 + CON +2 ×3)
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Persuasion +4, Insight +3, Perception +3, History +2
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Banneret / Purple Dragon Knight (SCAG)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Rallying Cry:** when you use **Second Wind**, choose up to **3 creatures** within **60 ft** who can see/hear you; each regains **HP equal to your fighter level (3)**
+* *(Royal Envoy at 7th not yet)*
+
+**Attacks**
+
+* **Spear (1h + shield):** +5 to hit, **1d6+3** piercing
+* **Spear (2h):** +5 to hit, **1d8+3** piercing
+* **Longsword (1h):** +5 to hit, **1d8+3** slashing
+* **Dagger:** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Command Anchor / Rally Line)
+
+* **Role:** **frontline defender / party buffer / aggro keeper**
+* **Opener:** sets **chalk seam**, steps in with **spear+shield**, claims aggro on the loudest brute; calls cadence for civilians.
+* **Flow:** when allies wobble, triggers **Rallying Cry** (Second Wind) to **heal the team at range** while staying planted; **Action Surge** converts a safe hold into a decisive pass window.
+* **Finisher:** dismount pivot into a two-handed thrust along the seam; rain beads line the haft like stitched jade thread.
+
+**Damage Flavor:** each ordered thrust pulls rain into tidy arrows pointing “through,” while her bangle beads chime once when the lane is safe.
+
+---
+
+## 💬 Personality
+
+* **Traits:** patient teacher, crisp commands, praises effort before results.
+* **Ideal:** Stewardship — “Position is kindness; discipline is how it shows.”
+* **Bond:** keeps her mentor’s broken whistle on the bangle; touches it before every shift.
+* **Flaw:** shoulders blame for any slip; refuses to fall back while someone still crosses.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock-stair aprons, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort seam hold**, **riot peel with rally**, **apex duel in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former drill assistant at the rider stables; learned cadence before combat. On her first Echo night, she didn’t charge—she **counted breaths** and made a lane with orders that felt like a lullaby. The Wardens made her a captain the next week.
+
+* **Lifestyle:** spare captain’s loft with charts, chalk strings, and neatly folded capes.
+* **Income:** city stipend, hazard pay, private formation clinics.
+
+---
+
+## 🧩 Morals & Ethics
+
+She measures victory by **how quietly people pass behind her**, not how loudly foes fall.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a silence where rain won’t answer cadence.
+* **Weaknesses:** damage is modest without Action Surge; can be focused by ranged fire.
+* **Strengths:** **AC 19**, **Rally healing at range**, **Action Surge** tempo, **reliable spear+shield control**.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ — calm, caring, faintly teasing**
+
+> “Back strap—tighter. Good. Now two breaths with me… and eyes on the seam, not the neckline.”
+
+เธอชอบแตะข้อมือคุณให้จังหวะ ทำให้ใจนิ่งและก้าวทันโดยไม่รู้ตัว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her jade pendant warms near **forged rails** and chills on **Severance-stilled** spans.
+* **Hooks:**
+
+  1. **Banner Under Fire:** hold a bridge while training two rookies—success unlocks a new route.
+  2. **Whistle Debt:** her mentor’s lost whistle appears engraved with a **counter-cadence**.
+  3. **Silent Parade:** an enemy plans a “quiet march” to nullify Rallying Cry; break the silence.
+
+---
+
+## Tags: #Female #Human #Fighter3 #Banneret #Spear #Shield #SenpaiType #VeryLargeCup #CR1 #SupportLeader
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+So-Ra **sets the spear crosswise, voice even:**
+
+> “Half-step shadow. If I say ‘pass,’ you pass. I’ll take the hit.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, shield, longsword, dagger, silk rope 50 ft, chalk-line, echo-salt, salve ×2, signal whistle, jade pendant
+* **Level-Up (to 4):** **+2 STR (to 18)** หรือ **Feat: Sentinel / Shield Master** (lane lock & shove control)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort seam hold**, **riot peel with rally**, **apex duel**
+* **Affiliation:** **Glass Banner Line — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean female fighter banneret 168cm high ponytail straight ink-black hair steel lowlights medium-high exposure captain cutaway cuirass split skirt spear shield jade accents G-cup B100 W63 H102 rain bridge poised senpai

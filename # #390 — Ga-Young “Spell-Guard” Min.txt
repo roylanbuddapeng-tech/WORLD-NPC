@@ -1,0 +1,198 @@
+# #390 — **Ga-Young “Spell-Guard” Min** — *Steel First, Sparks After*
+
+> “Grip the strap; I’ll hold the seam. When the light swells, we pass.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 390
+* **Gender:** **Female (Type: รุ่นพี่ — calm, mentoring, quietly strict)**
+* **Age:** 28
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Eldritch Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **lane anchor / ward-spearmage / formation tutor**
+* **Organization:** **Valeronnes Rail Wardens — Seam Ward**
+* **Symbol:** a spearpoint stitched across a glass seam with three tiny arcane motes
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean — poised senior aura** with a teacher’s eyes and a battlefield hush.
+
+**Height:** **163 cm** **Weight:** **54 kg**
+**Body Type:** **compact hourglass**, strong back, steady hips; movement economical and assured.
+
+**Hair (equal-weight random):** **Twin tails** (mid-height), **straight**, tied with slim silver cords; strands stay crisp even in rain.
+**Color:** **raven black** with **cool steel lowlights**.
+**Eyes:** **smoke-brown** with pale silver ring that brightens when she casts.
+**Skin:** light ivory; faint rain-glow across the collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** matte steel ear-cuff, a thin jade pendant, and a rune-bangle that clicks once per breath count.
+
+### FEMALE BODY METRICS
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B–W–H, cm): 98 – 62 – 99
+VALIDATION: • W/B = 0.63 → OK   • H/W = 1.60 → OK
+```
+
+A **large bust on a tight waist**, tailored support harness keeps the silhouette clean and stable for casting and spear-thrusts.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High** (functional reveal; support harness visible)
+
+A **cutaway captain’s cuirass** with a **deep V panel** over a **supportive battle halter**, **open back** crossed by elastic anchors to seat the scabbard and ward-plates. **High-slit tactical skirt** over **compression shorts** for deep lunges on slick glass. **Knee-high traction boots** with micro-tread; **half-gloves** engraved with sigils; a **short storm-capelet** pinned flat so her stance reads clearly to crowds.
+
+**Palette:** charcoal / storm blue / steel / jade thread
+
+**Weapons & Gear:**
+
+* **Spear “Seam-Arc”** (versatile; rail-balanced; inlaid ward-glyphs)
+* **Shield** (glass-inset boss with sigil lattice)
+* **Longsword** (sidearm)
+* **Component pouch**, **silk rope 50 ft**, **chalk-line**, **echo-salt**, **salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **26 HP** (3d10 + CON +2 ×3)
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Arcana +3, Perception +3, Insight +3, Persuasion +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Eldritch Knight (PHB)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Spellcasting (INT 13; DC 11, +3 to hit):**
+
+  * **Cantrips:** *Blade Ward, Green-Flame Blade (TCoE wording), Mage Hand*
+  * **1st-level (3 slots):** *Shield, Absorb Elements (XGtE), Protection from Evil and Good*
+* **Weapon Bond:** bonded to **spear** and **longsword** (cannot be disarmed while wielding; summon as bonus action if within 60 ft)
+
+**Attacks**
+
+* **Spear (1h + shield):** +5 to hit, **1d6+3** piercing
+* **Spear (2h):** +5 to hit, **1d8+3** piercing
+* **Longsword (1h):** +5 to hit, **1d8+3** slashing
+
+---
+
+## 🎯 Combat Tactics (Ward-Spear Anchor)
+
+* **Role:** **frontline defender / reactive tank / micro-buffer**
+* **Opener:** chalks a seam, steps forward **spear+shield**; on the first heavy swing incoming, snaps **Shield** for +5 AC to hold the lane.
+* **Flow:** **Green-Flame Blade** for controlled cleaves when foes cluster; **Absorb Elements** to tame burst damage and empower the next strike; **Action Surge** opens a pass window on command.
+* **Finisher:** two-handed thrust along the chalk seam; jade sparks stitch the rain into a clean “go” arrow.
+
+**Damage Flavor:** ward sigils glow jade-silver; every parry leaves a thin hex pattern in falling droplets.
+
+---
+
+## 💬 Personality
+
+* **Traits:** patient, precise instructions; praises breathing rhythm and footwork.
+* **Ideal:** Stewardship — “Discipline is just careful kindness.”
+* **Bond:** keeps a chipped ward-plate from her mentor; taps it before castings.
+* **Flaw:** overprotective; will stay planted too long to shield rookies.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock-stair aprons, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort seam hold**, **riot peel with wards**, **apex duel in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+A dock-ward scribe who etched flood marks on quay posts; she learned where water wants to go. When Echo nights came, she put sigils on steel, not slate—and found the city would stand still if she did.
+
+* **Lifestyle:** tidy loft of rune-plates, chalk strings, and folded capes.
+* **Income:** city stipend, hazard pay, private ward lessons.
+
+---
+
+## 🧩 Morals & Ethics
+
+Success is **quiet behind her**. Magic is a promise, not a flourish.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a span where wards won’t “take” (Severance static).
+* **Weaknesses:** spell DC modest (**11**); limited slots—must time *Shield/Absorb Elements*.
+* **Strengths:** **AC 19**, **reactive defenses**, **Action Surge** tempo, **weapon bond** security.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ — calm, caring, faintly teasing**
+
+> “Back strap—tighter. Two breaths with me… and eyes on the seam, not the neckline.”
+
+เธอแตะข้อมือคุณให้จังหวะ ทำให้เงียบใจและก้าวตามได้พอดี
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her jade pendant warms near **forged rails**, chills near **Severance-stilled** spans.
+* **Hooks:**
+
+  1. **Hex Stitch:** a counterfeit ward pattern spreads through the bridges; she must unpick it mid-riot.
+  2. **Borrowed Plate:** her mentor’s broken plate whispers a **new glyph** in the rain.
+  3. **Hold to Dawn:** maintain a single seam through an entire Echo surge rotation.
+
+---
+
+## Tags: #Female #Human #Fighter3 #EldritchKnight #Spear #Shield #SenpaiType #LargeCup #CR1 #WardTank
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ga-Young **sets your hand on the harness ring, voice low:**
+
+> “If I lift the shield, you pass. If I say ‘hold,’ you breathe with me. Deal?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear (bonded), longsword (bonded), shield, component pouch, silk rope 50 ft, chalk-line, echo-salt, salve ×2, jade pendant
+* **Level-Up (to 4):** **+2 STR (to 18)** หรือ **Feat: War Caster / Sentinel** (better concentration & lane lock)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort seam hold**, **riot peel via wards**, **duel in rainlight**
+* **Affiliation:** **Seam Ward — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean female human fighter eldritch knight 163cm twin tails straight raven hair steel lowlights high exposure cutaway cuirass open back high-slit skirt spear shield jade runes F-cup B98 W62 H99 rain-slick bridge poised senpai fantasy

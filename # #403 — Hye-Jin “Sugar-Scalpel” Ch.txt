@@ -1,0 +1,191 @@
+# #403 — **Hye-Jin “Sugar-Scalpel” Cho** — *Sweet Lullaby, Sharp Silence*
+
+> “Hush now. If the note holds steady, the pain will crystallize.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 403
+* **Gender:** Female
+* **Age:** 23
+* **Race:** Human (Thalassaran—90% human, eyes carry a faint teal resonance ring)
+* **Class & Level:** Warlock (The Great Old One) 3
+* **Challenge Rating:** CR 1
+* **Alignment:** Chaotic Evil
+* **Profession:** นักทำเครื่องดนตรีกายภาพ (ฆ่าเก็บชิ้นส่วน), นักทดลองเสียงสะท้อนใต้ดิน
+* **Organization:** เครือข่าย “Quiet Atelier” (เวิร์กช็อปใต้โรงละครน้ำ)
+* **Symbol:** มีดผ่าตัดวาดคีย์ดนตรีครึ่งดวงจันทร์
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese dollcore** — sugary-soft face, predator’s focus hidden behind a schoolgirl neatness.
+
+**Height:** **152 cm** **Weight:** **45 kg**
+**Body Type:** **tiny hourglass**, deceptively delicate wrists; movements measured like metronome clicks.
+
+**Hair (equal-weight random):** **Twin buns (space buns)**, **straight** fringe; when rain beads, each bun glitters like a sugar pearl.
+**Color:** **inky black** with **teal-silver lowlights** that glimmer at certain angles.
+**Eyes:** warm brown with a thin **teal resonance ring**; dilate when she hears a “perfect” cry.
+**Skin:** porcelain with a moonlit sheen across the clavicles.
+
+**Jewelry & Accessories (glasses 40% → success):** round **red-lacquer glasses** (anti-fog ward), a tiny **black-pearl locket** (echo ampoule), a **slim data-bangle**, and a single **chime earring** that ticks like a metronome.
+
+### FEMALE BODY METRICS
+
+```
+CUP: H   CATEGORY: Very Large
+THREE_SIZES (B–W–H, cm): 103 – 56 – 92
+VALIDATION: • W/B = 0.54 → OK   • H/W = 1.64 → OK
+```
+
+A very large bust on a miniature frame; industrial support harness hides under lace, keeping lines sharp during sudden motions.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **High** (functional yet provocatively engineered)
+
+A **cropped velvet bolero** with **deep heart-cut neckline** over a **structural battle halter**; **open back** crossed with elastic anchors for blade sheath and ampoule rack. **Short pleated skirt** with **side slits** over **opaque tights**; **thigh-high traction boots** stitched with teal runes. **Half-gloves** with fingertip grips; a **short storm-capelet** that flares like a sugar wrapper when she spins.
+
+**Palette:** black velvet / teal-silver / cherry red accents / moon-pearl
+
+**Weapons & Gear:** ritual scalpel (**dagger**), hand crossbow (glass bolts), component pouch, 6× echo vials (flavor), silk rope 50 ft, chalk-line, echo-salt, smelling salts
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **19 HP** (3d8 + CON +2 ×3)
+* **AC:** **15** (studded leather 12 + DEX +3)
+* **Speed:** 30 ft
+* **STR 8 (–1)** **DEX 16 (+3)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Deception +5, Intimidation +5, Investigation +3, Medicine +3, Performance +5, Stealth +5
+* **Languages:** Common, Elvish, Thalassaran Cant, Deep Speech
+
+**Warlock 3 — The Great Old One (PHB)**
+
+* **Awakened Mind:** telepathy 30 ft
+* **Eldritch Invocations (2):**
+
+  * **Agonizing Blast** (CHA to Eldritch Blast damage)
+  * **Devil’s Sight** (see normally in magical & nonmagical darkness 120 ft)
+* **Pact Magic:** **Spell save DC 13**, **+5 to hit**; **2 spell slots (2nd level)**
+* **Cantrips:** *Eldritch Blast, Mage Hand*
+* **Spells Known (4):** *Hex, Dissonant Whispers* (GOO), *Tasha’s Hideous Laughter* (GOO), *Detect Thoughts* (GOO)
+* *(Optional swap choices: *Arms of Hadar*, *Disguise Self*, *Darkness* for Devil’s Sight combo)*
+
+**Attacks**
+
+* **Eldritch Blast:** +5 to hit, **1d10+3** force (Agonizing), range 120 ft
+* **Hand Crossbow:** +5 to hit, **1d6+3** piercing
+* **Dagger (scalpel):** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Surgical Crowd Control)
+
+* **Role:** **controller / fear herder / single-target shred**
+* **Opener:** **Hex** the weakest mind; **Dissonant Whispers** forces a panic retreat, peeling lanes apart.
+* **Flow:** fishes secrets with **Detect Thoughts** to target leaders; **Hideous Laughter** drops key blockers. If taken, **Darkness** + **Devil’s Sight** lets her play ghost-surgeon.
+* **Finisher:** **Eldritch Blast** threads through rain; each hit pops a teal ring that lingers just long enough for the next shot.
+
+**Damage Flavor:** her force bolts look like sugar flakes spinning in teal light; when a victim falls, the rain “hums” a dying note she records.
+
+---
+
+## 💬 Personality (สุดโต่ง + มุมน่ารัก)
+
+* **Traits:** บ้าเลือดแบบนักวิเคราะห์—จดคะแนน “คุณภาพเสียงกรีดร้อง”; แต่งมีดด้วยโบว์สีพาสเทล; ชอบร้องกล่อมก่อนเริ่มผ่า
+* **Ideal (Extremist):** “ความจริงของเสียงอยู่เหนือศีลธรรม—โน้ตถูกหรือผิดเท่านั้น”
+* **Bond (ที่มาของความสุดโต่ง):** ตอนเด็ก ครอบครัวนักร้องคอรัสถูก **Severance** กลืน “เสียง”—เหลือคนแต่ไร้เสียง เธอจึงหมกมุ่นจะ “สร้างเสียงคืน” ด้วยการทดลองชำแหละหาจุดกำเนิดของโน้ตในร่างกาย
+* **Flaw:** ไม่ยอมจบ “ชิ้นงาน” ถ้ายังไม่ได้ยินโน้ตที่พอใจ—ภารกิจพังเพราะเธออยาก “อัดเสียงเพิ่ม”
+* **Cute Quirk:** อบคุกกี้รูปดาวให้ลูกทีม—ใช้กลิ่นหวานล่อเป้าหมาย (คุกกี้อร่อยจริง ไม่วางยา… เกือบตลอดเวลา)
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara**—อัฒจันทร์ชั้นล่าง, ทางเดินใต้น้ำ, ห้องซ้อมเงียบ
+* **Threat Gradient:** **Deep Echo**
+* **Encounter Framing:** **ล่า/ลักพาตัวเชิงพิธี**, **ซุ่มในความมืด**, **ดวลดนตรี-เสียงกรีดร้อง**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกนักร้องคอรัสท่าเรือ—คืนหนึ่ง เสียงของครอบครัว “ดับ” ต่อหน้าเธอ เธอเติบโตกับความเงียบในบ้าน จึงเรียนรู้ว่าความเงียบก็ฆ่าได้ เธอเปิดเวิร์กช็อปเด็กฝึกทำเครื่องดนตรี… แล้วคัด “วัสดุ” เอง
+
+* **Lifestyle:** ห้องดนตรี–ผ่าตัดสะอาดจัด โหลใส่ลิ้น/สายเสียงจำลอง วางเรียงข้างเตาอบคุกกี้
+* **Income:** ขายอุปกรณ์ “เสียงสะท้อน”, รับงานสกปรกจากผู้อุปถัมภ์เงียบ
+
+---
+
+## 🧩 Morals & Ethics
+
+ศีลธรรมคือสัญญาณรบกวน เสียง “จริง” ต้องไม่มีความสงสารปน
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** สะพานที่เงียบจน **Detect Thoughts** สะท้อนกลับ—เธอกลัว “ไม่เหลือเสียงให้ศึกษา”
+* **Weaknesses:** HP ต่ำ, พึ่งสลอต, ถ้าถูกประชิดหนักจะหลุดโฟกัส
+* **Strengths:** **ควบคุมจิตใจ/ทำแตกกระเจิง**, ผสาน **Devil’s Sight + Darkness**, ยิงคุมระยะด้วย **Agonizing Blast**
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+* **ทำให้คนเขิน:** ยื่นคุกกี้รูปหัวใจให้ พร้อมชม “จังหวะลมหายใจคุณน่ารักดีนะ—ขออัดเสียงไว้ได้ไหม”
+* **เวลาถูกแซวกลับ:** หน้าแดงเล็กน้อย ปรับแว่น แล้วเปลี่ยนเรื่องเป็นสูตรน้ำตาลทันที
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+1. **The Lullaby Ampoule:** โลเก็ตไข่มุกเก็บ “โน้ตสมบูรณ์” หนึ่งวินาที—สามารถดับเสียงเวทในรัศมีเล็ก ๆ ชั่วคราว
+2. **Quiet Chorus:** เป้าหมาย 4 คนที่ “ไม่มีเสียง” ถูกเรียงไว้ในพาร์ทิเชอร์—หยุดพิธี “เติมเสียง” ก่อนวันขึ้นคอนเสิร์ตเงา
+3. **Black Baker:** มีผู้ว่าจ้างอยากได้ “ชุดเสียงร้อง” จากผู้รอดชีวิตที่กินคุกกี้ของเธอ—ติดตามเครือข่ายสายส่ง
+
+---
+
+## Tags
+
+#Female #Human #Warlock3 #GreatOldOne #Controller #DarknessDevilsSight #DissonantWhispers #ChaoticEvil #CuteButHorrific #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Hye-Jin **ยื่นคุกกี้ดาวให้คุณ ยิ้มหวาน**:
+
+> “ชิมก่อนสิ… ถ้าหัวใจเต้นเร็วขึ้น ฉันจะเริ่มนับจังหวะ—เพื่อวิจัยนะคะ”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** studded leather, ritual scalpel (dagger), hand crossbow, component pouch, 6× vials, silk rope 50 ft, black-pearl locket, data-bangle
+* **Level-Up (to 4):** **+2 CHA (to 18)** หรือ **Feat: Eldritch Adept (Devil’s Sight/Mask of Many Faces)** *(ถ้า DM อนุญาต)* / **Actor**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** ใต้อัฒจันทร์ Thalassara, ห้องซ้อมเงียบ, สะพานเสียงดับ
+* **Threat Gradient:** **Deep Echo**
+* **Encounter Type:** **ลอบจับ–สะกดจิต**, **คุมฝูงชนด้วยความหวาดกลัว**, **ดวลในความมืด**
+
+---
+
+## 🎨 Image Gen Key (≤20 words, EN)
+
+Korean Japanese female warlock GOO 152cm twin buns red round glasses high exposure velvet bolero pleated skirt teal glow dagger rain

@@ -1,0 +1,186 @@
+# #375 — **Ren “Blush-Lance” Haneul** — *Smile First, Shatter Second*
+
+> “If you stare, I’ll blush… then I’ll move the whole line for you.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 375
+* **Gender:** **Male — Femboy (Subtype: เย้ายวน)**
+* **Age:** 19
+* **Race:** **Half-Beast (mammal — fox lineage; ~88% human, auric eye-ring, subtle tail nub)**
+* **Class & Level:** **Barbarian (Zealot) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **lane-break sprinter / spear-dancer / morale spark**
+* **Organization:** **Valeronnes Glass Court — Blush Line**
+* **Symbol:** a tiny fox-tail bow tied around a radiant spear-tip
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean idol-soft** — delicate jawline, glossy lips, and a velvet gaze that flips from coy to fearless.
+
+**Height:** **159 cm** (femboy rule ≤160) **Weight:** **48 kg**
+**Body Build:** **slender, willowy**, dancer’s calves, elegant wrists; foxy sway in the hips.
+
+**Hair (equal-weight random):** **Short feminine bob**, **straight with blunt micro-bangs**; light wisps hug the cheeks when he spins.
+**Color:** **pastel lavender** with **midnight-navy lowlights**, shimmering under rainlight.
+**Eyes:** warm **honey-brown** with a glowing **golden fox ring** when raging.
+**Skin:** porcelain-fair with a soft moonlit sheen along the collarbones.
+
+**Jewelry & Accessories (glasses 40% → fail):** **silver chain earring** (single), **thin choker** with a sun-charm, **wrist bell-bangle** (near-silent).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Very High** (allowed for femboy)
+
+A **cropped halter cuirass** with a **plunging V** that meets a **lace-up underbust harness**; **open back** crisscrossed by elastic straps to anchor the spear sheath. **High-cut shorts** with **hip-slit panels** over **sheer black tights**; **thigh-high boots** with ripple-tread soles for rail traction. A **short rain-capelet** clips to the collar, fluttering like a fox tail when he dashes.
+
+**Palette:** lilac / pearl white / midnight navy / gold accents
+
+**Weapons & Gear:**
+
+* **Spear “Haneul-Lance”** (versatile; rail-balanced; tiny radiant sigils on the haft)
+* **Whip** (reach 10 ft; finesse) — for sleeve snags and safe pulls
+* **Dagger**, **silk rope 50 ft**, **chalk-line**, **echo-salt**, **smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +2)×3 = **27 HP**
+* **AC:** **15** (Unarmored Defense 10 + DEX +3 + CON +2)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Acrobatics +5, Performance +5, Persuasion +5, Athletics +5, Insight +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Zealot (XGtE)**
+
+* **Rage (3/LR):** +2 damage; resistance to **bludgeoning/piercing/slashing**
+* **Unarmored Defense** (DEX + CON)
+* **Reckless Attack**, **Danger Sense**
+* **Divine Fury:** while raging, the **first** creature you hit on **each of your turns** takes **+1d6 + 1** **radiant** damage (half barb level = 1)
+* **Warrior of the Gods:** magic to revive you needs **no material components** (flavor boon from the city’s “light on rain”)
+
+**Attacks**
+
+* **Spear (1h):** +5 to hit, **1d6+3** piercing (**+2** while raging) + **Divine Fury** radiant on first hit/turn
+* **Spear (2h):** +5 to hit, **1d8+3** piercing (**+2** rage) + **Divine Fury**
+* **Whip (reach 10 ft):** +5 to hit, **1d4+3** slashing (control, sleeve-snag flavor)
+* **Dagger:** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Radiant Spear-Dancer)
+
+* **Role:** **skirmisher / aggro-tempo spark**
+* **Opener:** coy smile → **Rage** surges; **whip** tugs a sleeve or weapon-hand to open the seam; **spear** darts in to **proc Divine Fury** radiant pop.
+* **Flow:** **Reckless** only to steal aggro off civilians; dances sideways along rail seams, teasing steps to bait swings into slick footing.
+* **Finisher:** spear feint low → heel pivot → radiant thrust; rain scatters like gold dust.
+
+**Damage Flavor:** tiny sunbursts bead on the spearhead each time he giggles—then burst on impact like warm sparks.
+
+---
+
+## 💬 Personality
+
+* **Traits:** flirtatious, adorable bravado; compliments while fighting (“That parry was cute—again?”).
+* **Ideal:** Joy as Tactic — “If they look at me, they’re not looking at the crowd.”
+* **Bond:** a sun-charm from a healer who once revived him; he kisses it before patrols.
+* **Flaw:** plays to the crowd; risks one extra spin for applause.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort sparkle-charge**, **riot peel by whip snag**, **quiet duel in rainlight**
+
+---
+
+## 📜 Background & Lifestyle
+
+A street performer who learned footwork before footwork saved lives. When an Echo night went bad, he stepped onto the bridge with only a prop spear—and the rain answered with light.
+
+* **Lifestyle:** garret room of capes, powders, and too many tights.
+* **Income:** city stipend, tips, private “lane-dance” lessons.
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes **charm is crowd-control**—a shield made of eyes following him, not the panicking exits.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a silence where applause should be—Echo eating sound.
+* **Weaknesses:** **AC 15**; if cornered by archers, needs cover or a fast flank.
+* **Strengths:** **Divine Fury radiant burst**, **Rage resistances**, **whip reach control**, **high CHA** for tense crowds.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy (เย้ายวน):**
+
+> “Grip my waist when I spin—purely tactical… unless you’re blushing.”
+
+เขาชอบกระซิบใกล้หู แล้วลากนิ้วที่หลังมือให้คนโฟกัสกับจังหวะก้าว—หัวใจคนดูเต้นตามเขาแทนจะเต้นตามความกลัว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** the sun-charm glows when he’s about to land a lethal thrust—if it dims, someone nearby is lying about their wounds.
+* **Hooks:**
+
+  1. **Blush on the Bridge:** a cult tries to bait his showmanship; PCs must keep him from overcommitting.
+  2. **Foxlight Debt:** a revival miracle demands a favor—escort a relic across a silent span.
+  3. **Whip of Vows:** his whip once bound a vow between lovers; it now tugs disarmed blades like “broken promises.”
+
+---
+
+## Tags: #Femboy #Male #HalfBeast #Fox #Barbarian3 #Zealot #Spear #Whip #HighExposure #CR1 #Skirmisher
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ren **guides your hands to his hip-straps, eyes shining:**
+
+> “When I say ‘spin,’ hold me tighter. We’ll move the whole lane—together.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, whip, dagger, silk rope 50 ft, chalk-line, echo-salt ×1, smoke bead ×1, choker charm
+* **Level-Up (to 4):** **+2 STR (to 18)** or **Feat: Polearm Master** (bonus butt-end poke pairs well with Divine Fury)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & roof-rails**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort sparkle-charge**, **riot peel**, **duel in rainlight**
+* **Affiliation:** **Blush Line — Glass Court**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean femboy fox half-beast barbarian zealot 159cm short bob blunt bangs pastel lavender hair navy lowlights very high exposure cropped halter cuirass open back high-cut shorts sheer tights thigh boots spear whip radiant sparks coy seductive fantasy

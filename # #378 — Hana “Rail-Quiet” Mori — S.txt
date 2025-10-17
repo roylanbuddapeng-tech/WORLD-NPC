@@ -1,0 +1,199 @@
+# #378 — **Hana “Rail-Quiet” Mori** — *Soft Steps, Hard Lines*
+
+> “I’m small so you can fit behind me. The rest is leverage.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 378
+* **Gender:** **Female (Type: รุ่นเพื่อน — playful, supportive, team-first)**
+* **Age:** 20
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Psi Warrior) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane stabilizer / spear-shield escort / telekinetic spotter**
+* **Organization:** **Valeronnes Rail Wardens — Quiet Line**
+* **Symbol:** เส้นรางแก้วหนึ่งเส้น มีจุดแรงเทสีเงินสามจุดเรียงเป็นสามหายใจ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean petite athlete** — bright eyes, understated confidence, the vibe of a classmate who can and will catch you if you slip.
+
+**Height:** **152 cm** **Weight:** **45 kg**
+**Body Type:** **petite, fit**, springy legs and compact shoulders; small but sturdy posture.
+
+**Hair (equal-weight random):** **Classic ponytail**, **straight**, tied high; loose wisps frame the cheeks when she sprints.
+**Color:** **soft raven** with **cool steel lowlights** that glint under rain.
+**Eyes:** **tea-brown** with a thin silver ring when psionics hum.
+**Skin:** fair with a faint dewy glow along collarbones.
+
+**Jewelry & Accessories (glasses 40% → success):** **thin round glasses** (anti-fog wards), **silver rail-charm pendant**, **braided wrist cord** with two slip-knots.
+
+### FEMALE BODY METRICS
+
+```
+CUP: B   CATEGORY: Small
+THREE_SIZES (B–W–H, cm): 82 – 60 – 92
+VALIDATION: • W/B = 0.73 → OK   • H/W = 1.53 → OK
+```
+
+A **small-bust, small-waist** silhouette optimized for nimble shield pivots; the harness distributes weight so the spear line stays steady.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium** (functional reveal at midriff and shoulders)
+
+A **cutaway breastplate** over a **supportive battle halter**, **open shoulder panels** for reach rotation, and a **short split skirt** layered over **compression shorts** for lunges on slick glass. **Knee-high traction boots** with micro-tread and **half-gloves** etched with psionic sigils. A **short storm-capelet** pins tight so crowds can read her outline.
+
+**Palette:** charcoal / steel / indigo / soft silver
+
+**Weapons & Gear:**
+
+* **Spear “Quiet Thread”** (versatile, rail-balanced; haft inlaid with faint psi-lines)
+* **Shield** (glass-inset boss)
+* **Light crossbow** + 20 bolts
+* **Silk rope 50 ft, chalk-line, echo-salt, salve ×2**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **26 HP**
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Athletics +4, Acrobatics +4, Insight +3, Perception +3, Persuasion +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Psi Warrior (TCoE)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3)** • **Action Surge (1/rest)**
+* **Psionic Power:** **Psionic Energy Dice** = **4d6** (PB×2)
+
+  * **Protective Field (Reaction):** reduce ally’s damage by **1d6 + INT(=+1)** within 30 ft
+  * **Psionic Strike:** on weapon hit, deal extra **1d6** force to the target (after seeing the roll)
+  * **Telekinetic Movement (Action):** move an object/creature **30 ft** (ally willing) once per long rest or spend a die
+* **Flavor:** thin silver lines appear under her boots and along her spear where force “threads” the lane
+
+**Attacks**
+
+* **Spear (1h + shield):** +4 to hit, **1d6+2** piercing (+**1d6** force via Psionic Strike as needed)
+* **Spear (2h):** +4 to hit, **1d8+2** piercing
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+
+---
+
+## 🎯 Combat Tactics (Telekinetic Lane-Pin)
+
+* **Role:** **frontline defender / micro-control**
+* **Opener:** chalks a seam → **Protective Field** on first ally hit to settle nerves; **spear+shield** tag to hold aggro.
+* **Flow:** nudge foes off safe lines with **Psionic Strike** force pops; **Telekinetic Movement** yoinks a stumbling civilian behind her shield; **Action Surge** to convert defense into a quick shove-and-secure turn.
+* **Finisher:** short pivot, two-handed spear thrust; rain ripples follow her line like stitched thread.
+
+**Damage Flavor:** every **Psionic Strike** sheds a silver bead that shoots along the spear and bursts in a quiet ring.
+
+---
+
+## 💬 Personality
+
+* **Traits:** เพื่อนสายคอยเช็คหลัง—ขี้แซวนิด ๆ แต่จริงใจ, ใจดี, คุมเสียงหัวใจตัวเองได้ดีเวลาเครียด
+* **Ideal:** Team Rhythm — “เสียงฝนกับลมหายใจเราต้องไปด้วยกัน”
+* **Bond:** สะสมชอล์กที่ใช้เปิดเลนครั้งแรกของแต่ละคืนในซองเล็ก ๆ
+* **Flaw:** ไม่ค่อยร้องขอความช่วยเหลือ—ชอบกันให้เพื่อนก่อนจนโดนรุม
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, lock-stairs aprons**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **escort seam hold**, **riot peel**, **quiet duel under rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกสาวร้านซ่อมรองเท้า เธอเคยช่วยติดพื้นยางให้คนแก่เดินบนสะพานลื่น—วันหนึ่งแรง “ดันเงียบ” ติดที่ฝ่ามือของเธอ และเธอก็กลายเป็น **Quiet Line** ที่ทุกคนไว้ใจ
+
+* **Lifestyle:** ห้องเล็กที่เต็มไปด้วยรองเท้าทดลองและสันชอล์ก
+* **Income:** city stipend, hazard pay, ทิปจากแถวร้านที่ผ่านเลนของเธอ
+
+---
+
+## 🧩 Morals & Ethics
+
+ตัดสินชัยชนะด้วย **จำนวนคนที่เดินผ่านได้อย่างสงบ** มากกว่าจำนวนศัตรูที่ล้มลง
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** ช่วงเวลาที่ฝน “หยุดกระทบ” (สัญญาณ Echo)
+* **Weaknesses:** ดาเมจไม่สูงถ้าไม่ลง **Psionic Strike**; เสี่ยงโดนรุมถ้าขาดกำบัง
+* **Strengths:** **AC 19**, **Protective Field** ป้องกันเพื่อน, **telekinetic rescue**, ความนิ่งในการคุมเลน
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน — อบอุ่น ขี้แซว ใช้งานได้จริง**
+
+> “จับสายรัดหลังฉันไว้… ไม่ใช่แบบนั้นสิ—อ่ะ ใช่ แบบนั้นแหละ ไปด้วยกัน!”
+
+เธอชอบเคาะโล่เบา ๆ ให้จังหวะหายใจ แล้วดึงมือคุณเข้ามาในเส้นพอดี
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** เส้นเงินใต้รองเท้าปรากฏก่อนที่พื้นจะลื่นจริงเสี้ยววินาที—เหมือนอนาคตแว๊บมาเตือน
+* **Hooks:**
+
+  1. **Thread Before Fall:** ลายเส้นเงินพาไปยังสะพานลวงที่กำลังจะ “ตัดเสียง” ทั้งเส้น
+  2. **Borrowed Push:** เด็กฝึกใหม่ใช้แรงดันของเธอโดยไม่ได้ตั้งใจ—ใครแชร์ได้?
+  3. **Quiet IOU:** มีคนส่งชอล์กคืนอันหนึ่งที่เธอไม่เคยทำหาย—บนมันเขียนเส้นทางลับ
+
+---
+
+## Tags: #Female #Human #Fighter3 #PsiWarrior #Spear #Shield #FriendType #SmallCup #CR1 #LaneControl
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Hana **sets her shield edge for you to shadow, glasses misting lightly:**
+
+> “Half-step behind me. If I nudge left, you smile and breathe—then we’re safe.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory:** spear, shield, light crossbow +20, silk rope 50 ft, chalk-line, echo-salt, salve ×2, glasses, wrist cord
+* **Level-Up (to 4):** **+2 DEX (to 16)** หรือ **Feat: Shield Master** (ผลัก–ป้องกันดีขึ้น), **หรือ** **Telekinetic (feat)** เพื่อเพิ่ม shove/control
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock-stairs aprons**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **escort seam hold**, **riot peel with TK pulls**, **duel in rainlight**
+* **Affiliation:** **Quiet Line — Valeronnes Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean female human fighter psi warrior 152cm petite fit classic high ponytail straight soft raven hair steel lowlights round glasses medium exposure cutaway breastplate battle halter split skirt compression shorts spear shield B-cup B82 W60 H92 rain-slick bridge silver psionic lines supportive friend tone fantasy
