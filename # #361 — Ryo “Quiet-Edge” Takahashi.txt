@@ -1,0 +1,194 @@
+# #361 — **Ryo “Quiet-Edge” Takahashi** — *One Breath, One Cut*
+
+> “Hold steady. Your fear is louder than their steel.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 361
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น สงบแบบครูดาบ
+* **Age:** 33
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Samurai) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **escort duelist / choke-point finisher / discipline coach**
+* **Organization:** **Valeronnes Rail Wardens — Quiet Line Dojo**
+* **Symbol:** เส้นคัตสั้นหนึ่งเส้นตัดผ่านหยดฝน
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean disciplined swordsman** — still gaze, measured breath, posture like a drawn bow.
+
+**Height:** **180 cm** **Weight:** **79 kg**
+**Body Build:** **athletic–muscular**, sword shoulders, stable hips.
+
+**Hair (Male Randomizer):** **Medium**, **straight curtain with tapered sides**; kept tidy behind ears when it rains.
+**Color:** **raven black with cold steel-gray lowlights**.
+**Eyes:** deep umber; a narrow focus line kindles when he commits.
+**Skin:** fair-olive with faint rain sheen along collarbones.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **matte iron menuki charm** on a cord, **braided wrist wrap**, and a **rail token** tucked under the collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional rail-duelist kit**
+
+A **brushed-steel breastplate** over a **storm-indigo padded jacket**, **quiet-weave bracers**, and **tapered guard-trousers** for deep lunges on slick glass. **Soft-sole boots** grip rails. A **short rain-cloak** pins flat, slit for clean sword draw.
+
+**Palette:** steel / storm indigo / charcoal / muted silver
+
+**Weapons & Gear:**
+
+* **Longsword “Quiet-Edge”** (katana profile; versatile; matte fuller for water-shed)
+* **Wakizashi (shortsword)** for tight press
+* **Light crossbow** + 20 bolts
+* **Silk rope 50 ft**, **manacles**, **chalk-line**, **echo-salt**, **smoke bead ×1**, **whetstone**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **17** (breastplate 14 + DEX +2 + **Defense** +1; two-handed stance, no shield)
+* **Speed:** 30 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +4
+* **Skills:** Athletics +6, History +2, Insight +3, Perception +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Samurai (XGtE/TCoE)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Bonus Proficiency:** **History**
+* **Fighting Spirit (3/long rest):** **Bonus Action** ให้ **advantage** บน **weapon attacks** จนจบเทิร์นนี้ และได้ **temp HP = 5** (เลเวล Fighter × 5? *RAW: 5 temp HP at 3rd level*)
+* **Elegant Courtier:** *(เลเวล 7; ยังไม่ถึง)*
+
+**Attacks**
+
+* **Longsword (2h):** +6 to hit, **1d10+4** slashing *(หรือ 1h **1d8+4**)*
+* **Shortsword:** +6 to hit, **1d6+4** slashing
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+
+---
+
+## 🎯 Combat Tactics (Advantage Burst / Clean Collapse)
+
+* **Role:** **frontline duelist–finisher / discipline anchor**
+* **Opener:** step to mid-span; chalk **breath line**; pop **Fighting Spirit** → **advantage** on the decisive swing, **temp HP** to tank the counter.
+* **Flow:** wait for a half-beat of silence; **Action Surge** to chain finishers while advantage holds; swap to **wakizashi** in cramped press.
+* **Finisher:** one cut along the rail seam; rain hesitates, then runs straight.
+
+**Damage Flavor:** when Fighting Spirit flares, the drizzle threads into a straight line toward his blade before breaking.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุขุม ตัดสินใจสั้นและชัด; สอนด้วยจังหวะหายใจ
+* **Ideal:** Discipline — “คมเร็วไม่สำคัญเท่าคมถูกเวลา”
+* **Bond:** สมุด “เส้นหายใจ” บนสะพาน—จุดที่คนสามารถตั้งสมาธิได้ครึ่งเต้น
+* **Flaw:** ดื้อกับระเบียบ—บางครั้งช้าไปครึ่งก้าวเมื่อทีมอยากเสี่ยง
+* **Quirk:** เคาะสันดาบกับฝักหนึ่งครั้งเป็นสัญญาณ “พร้อมตัด”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, hush corridors, lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **escort duel**, **riot choke discipline**, **quiet challenge in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+อดีตครูสอน “ก้าวบนพื้นลื่น” ของศูนย์ฝึก เขาช่วยผู้โดยสารผ่านชุลมุนด้วยหนึ่งคัตที่ถูกจังหวะ จนถูกดึงเข้า **Quiet Line Dojo** ให้ไปสอนแนวคมสั้น เงียบ และปลอดภัย
+
+* **Lifestyle:** ห้องเวรเงียบ ๆ เต็มด้วยผ้าซับน้ำ, ชอล์ก, และแผนจังหวะฝน
+* **Income:** เงินเดือน Wardens, โบนัสคุ้มกัน, ค่าฝึกวินัยแนวหน้าฝน
+
+---
+
+## 🧩 Morals & Ethics
+
+“ชนะโดยไม่ทำให้ฝูงชนแตก” — เขาเลือก **คุมจังหวะ** เหนือ **คุมเลือด**
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่ฝน “ไม่ยอมเงียบครึ่งเต้น” — ลาง Echo ตัดความนิ่งของเมือง
+* **Weaknesses:** ไม่มีเวท; ถ้าถูกล้อมหลายทิศจำเป็นต้องถอยตั้งเส้นใหม่
+* **Strengths:** **advantage on demand (Fighting Spirit)**, **temp HP burst**, **Action Surge** ปิดงาน, ฟุตเวิร์กนิ่งบนรางลื่น
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — สุขุมทำให้อุ่นใจ:**
+
+> “ยืนในเส้นหายใจของผม—เมื่อเงียบ เราจะตัด.”
+
+ตอนซ้อม เขาจะวางมือบนศอก จัดแกน แล้วนับ “หนึ่ง… เงียบ… ตัด”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** เมื่อเขาสูดหายใจลึก เสียงฝนรอบ ๆ **แผ่วลงครึ่งวินาที** — เหมือนเมืองเคารพวินัยของเขา
+* **Hooks:**
+
+  1. **Borrowed Breath:** ผู้ร้ายขโมย “ครึ่งเต้นแห่งความนิ่ง” จากสะพาน—ต้องคืนจังหวะให้เมือง
+  2. **Duel Without Shout:** การท้าดวลที่ต้องจบ “เงียบ” — ห้ามมีเสียงกรีดร้องให้ฝูงชนแตก
+  3. **Line of Three Cuts:** ภารกิจให้ตัดสามจุดพร้อมกัน—แบ่งทีมใช้ **Fighting Spirit** สลับหน้าต่าง
+
+---
+
+## Tags: #Male #Human #Fighter3 #Samurai #Duelist #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ryo **ยกชายคลุมให้เป็นเงาแล้วเคาะฝักดาบหนึ่งที**
+
+> “พร้อมนะ—เมื่อเงียบ เราตัด.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword (katana), shortsword (wakizashi), light crossbow
+  * **Armor:** breastplate set
+  * **Tools:** chalk-line, whetstone, silk rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** menuki charm, wrist wrap, rail token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Great Weapon Master / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **escort duel**, **riot choke**, **quiet challenge**
+* **Affiliation:** **Quiet Line Dojo — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean male human fighter samurai 180cm medium straight curtain hair raven with steel-gray lowlights athletic muscular steel breastplate katana wakizashi low exposure rain-slick bridge disciplined duelist calm stance fantasy

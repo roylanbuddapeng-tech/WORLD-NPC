@@ -1,0 +1,197 @@
+# #283 — **Kaelen Vireth** — *The Shadow Under Candlelight*
+
+> “If they can’t see the knife, they won’t know to fear it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 283
+* **Gender:** **Male (Type: เมะ)** — สุขุม ท่าทีเยือกเย็น เสียงต่ำ มีออร่ากดดันโดยไม่ต้องพูดเยอะ
+* **Age:** 29
+* **Race:** **Human**
+* **Class & Level:** **Monk (Way of Shadow)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **Temple Enforcer / Silent Hand of the Ebony Shrine**
+* **Organization:** **Order of the Ebony Shrine**
+* **Symbol:** a candle guttering in its own wax
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Chinese** blend; pale tan skin, long jawline, and calm gaze that cuts sharper than blades.
+
+**Eyes:** dark amber, narrow focus, almost feline under candlelight.
+**Skin:** olive-tan with faint ash burn marks over knuckles.
+
+**Hair (Male-set Randomizer):** 🎲 **Medium length, tied low bun (loose)**
+**Texture:** straight, faint wave near the ends.
+**Color:** **black with faint bronze undertone.**
+
+**Height:** **180 cm**
+**Weight:** **74 kg**
+**Body Build:** **lean athletic**, wiry muscle, almost monk-sculpted silhouette.
+
+**Jewelry & Accessories:** plain prayer cord around wrist; string of obsidian beads with one missing; hidden steel needle woven in sash.
+**Glasses:** none.
+
+---
+
+## 👗 Outfit (in English)
+
+A **black wrap robe** with **side-slit for mobility**, reinforced inner weave, and a **hooded shoulder cowl** that shadows his face.
+Underneath: fitted arm-guards of smoke-dyed silk; bare feet wrapped in grey linen.
+The robe is **open at the chest slightly**, revealing faint scar lines — not vanity, just proof of survival.
+
+**Palette:** black / ash grey / muted bronze accents
+
+**Weapons & Gear:**
+
+* *Shadow staff* (treated oak with black resin core)
+* *3x throwing needles*, *smoke pouch*, *silken rope*
+* *Monastic focus charm*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 = **27 HP**
+* **AC:** **17** (Unarmored Defense: DEX + WIS)
+* **Speed:** 40 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Stealth +6, Acrobatics +6, Perception +5, Insight +5, Athletics +3
+* **Languages:** Common, Celestial
+
+**Monk (Way of Shadow) 3**
+
+* **Martial Arts (1d4)**, **Ki (3 points)**, **Unarmored Movement +10 ft**
+* **Shadow Step:** teleport between dim light/darkness 60 ft.
+* **Ki Abilities:** Flurry of Blows, Patient Defense, Step of the Wind
+* **Shadow Arts:** can spend 2 Ki to cast *Darkness, Pass Without Trace, Silence*
+
+**Attacks**
+
+* **Unarmed Strike:** +6 to hit, 1d4+4 bludgeoning
+* **Shadow Staff:** +6 to hit, 1d8+4 bludgeoning (versatile)
+* **Flurry of Blows:** 2× 1d4+4 bonus hits
+
+---
+
+## 🎯 Combat Tactics (Stealth / Close Combat)
+
+* **Role:** **shadow skirmisher / assassin monk**
+* **Opener:** enter darkness → **Shadow Step** behind target → **Flurry of Blows** to disable.
+* **Flow:** use *Silence* to isolate; *Pass Without Trace* to vanish again.
+* **Finisher:** staff strike at pressure point → drop before victim even gasps.
+
+**Damage Flavor:** movement like candle flicker; enemy collapses before flame steadies again.
+
+---
+
+## 💬 Personality
+
+* **Traits:** stoic, quietly protective, prefers discipline over anger.
+* **Ideal:** Order — “The shadow exists to define the light.”
+* **Bond:** loyal to his temple’s lost abbot, believed dead.
+* **Flaw:** guilt—his mercy once let a traitor live.
+* **Quirk:** extinguishes every candle before sleep, even in inns.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Obsidian Monastery, Candle Court**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **silent duel**, **ritual interruption**, **infiltration under vow of silence**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised as an orphan monk trained in the Ebony Shrine’s doctrine of “Still Violence.”
+He now hunts their missing relics stolen by Severance cells, killing only those who break sacred vows.
+
+* **Lifestyle:** minimalist; meditation, silence, nightly rooftop jogs.
+* **Income:** temple commissions, relic retrievals.
+* **Relationships:** rivalry with an unseen assassin he once spared; trust of sister-temple’s priestess (#259).
+
+---
+
+## 🧩 Morals & Ethics
+
+Never kills for pay. Only ends lives when balance is shattered. For Kaelen, mercy is not weakness — it’s weight.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of his Ki and becoming what he hunts.
+* **Weaknesses:** overly strict self-denial; limited ranged capacity.
+* **Strengths:** perfect mobility, silent killing, combat under darkness.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — เยือกเย็นแต่ชอบหยอกเชิงวินัยแบบครูฝึก:**
+
+> “If you can hear my footsteps, I failed… or you did.”
+
+บางครั้งจะจงใจเดินเข้าใกล้คนเพื่อให้รู้ว่าเขา "เลือกจะให้เห็น" — แล้วหายไปในแสงเทียน
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** the abbot’s ghost whispers through his staff; he denies it, but listens.
+* **Hooks:**
+
+  1. **The Candle Trial:** a relic candle burns black—Kaelen seeks one who can relight it.
+  2. **Shadow Debt:** he spared an assassin who now stalks his students.
+  3. **Echo Silence:** the Severance stole a Ki-scroll that creates perfect void.
+
+---
+
+## Tags: #Male #MehType #Human #Monk3 #WayOfShadow #Stealth #CloseCombat #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaelen **ไม่ชอบให้ใครมาใกล้เกินระยะก้าวเดียว แต่จะก้าวเข้าหาเองเวลาอยากทดสอบใจใครสักคน**
+
+> “Still your breath. I’ll show you how close silence can cut.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** shadow staff, needles
+  * **Armor:** none (Unarmored Defense)
+  * **Tools:** monastic focus, rope, smoke pouch
+  * **Consumables:** incense, focus charm
+  * **Misc:** prayer beads, relic fragment
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Mobile / Shadow Touched**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Candle Court**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **ritual duel**, **temple infiltration**, **silent meditation ambush**
+* **Affiliation:** **Order of the Ebony Shrine**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Chinese male monk way of shadow 180cm medium black hair low bun amber eyes lean athletic black wrap robe bare feet shadow staff candlelight temple silence

@@ -1,0 +1,202 @@
+# #277 — **Darian Volcrest** — *The Raven’s Pyre*
+
+> “Fire purifies. Memory devours. I am the bridge between the two.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 277
+* **Gender:** **Male (Type: เมะ)** — charming, deliberate, and composed. Speaks like someone used to command but never raises his voice unnecessarily.
+* **Age:** 32
+* **Race:** **Half-Beast (Avian — Ravenkin)** — mostly human in appearance (≈90%), though his pupils are slit like a bird’s, and dark iridescent feathers line his shoulders and upper arms.
+* **Class & Level:** **Warlock (The Raven Queen)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **Funeral Warlock / Memory Collector / Shadow Scout**
+* **Organization:** **The Pale Choir of Nevermore Spire**
+* **Symbol:** a black feather burning white at its tip.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–British hybrid**, refined with an enigmatic allure, half scholar and half hunter.
+
+**Eyes:** pale silver with a faint ring of obsidian at the edge of the iris.
+**Skin:** fair, slightly cool-toned with a faint bluish undertone under candlelight.
+
+**Hair (Male Hair Randomizer):** 🎲 **Medium — slightly wavy**
+**Style:** layered waves brushing his jaw, one side tucked behind a feathered ear.
+**Color:** **jet black with faint purple sheen.**
+
+**Height:** 181 cm
+**Weight:** 73 kg
+**Body Build:** **athletic lean**, posture perfect, fingers long and calloused from quill and blade alike.
+
+**Sub-Theme:** 🎲 **Nerd (raven archivist)** — obsessed with recording last words of the dead; keeps their memories like a living library.
+
+**Glasses Rule (Nerd = Always):** ✅ **Yes** — silver half-moon spectacles with dark chain guards that loop behind the neck.
+
+**Jewelry & Accessories:** black feather brooch, steel chain bracelet, charm of bone shaped like a quill.
+
+---
+
+## 👔 Outfit (in English)
+
+**Exposure Roll:** *Not applicable for male characters*
+
+Darian wears a **raven-black coat** layered with soft feathers along the collar and cuffs.
+Underneath, a **dark silk vest** over a white high-collar shirt with faint silver runes down the sleeve edges.
+His boots are knee-high, polished, and almost silent on stone floors.
+The coat’s inside holds folded notes, feathers, and scrolls.
+
+**Palette:** black / silver / violet / white accents
+**Style:** noble scholar–hunter aesthetic
+
+**Weapons & Gear:**
+
+* *Memory Blade (rapier, +1)*
+* *Raven Sigil (arcane focus)*
+* *Codex of Echoed Names*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **20 HP**
+* **AC:** **14** (mage armor via invocation)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 16 (+3)** **CON 12 (+1)** **INT 13 (+1)** **WIS 13 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Perception +3, Arcana +3, Investigation +3, Persuasion +5, Stealth +5
+* **Languages:** Common, Elvish, Auran
+
+**Warlock (The Raven Queen)**
+
+* **Pact Boon:** Pact of the Blade (Memory Blade)
+* **Invocations:** *Devil’s Sight, Agonizing Blast*
+* **Expanded Spells:** *Sanctuary, Inflict Wounds, Silence, Spiritual Weapon*
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Cantrips:* *Eldritch Blast, Minor Illusion*
+  * *1st–2nd:* *Hex, Armor of Agathys, Misty Step, Darkness*
+
+**Attacks**
+
+* **Memory Blade:** +5 to hit, 1d8+3 piercing (counts as magical).
+* **Eldritch Blast:** +5 to hit, 1d10+3 force (visual: spectral feathers).
+
+---
+
+## 🎯 Combat Tactics (Hybrid Scout / Caster)
+
+* **Role:** **Mobile duelist / precision caster / information gatherer**
+* **Opener:** *Hex* + *Eldritch Blast* from elevated ground or shadow.
+* **Flow:** manipulates battlefield with *Darkness* while using *Devil’s Sight* to move freely.
+* **Finisher:** *Inflict Wounds* followed by *Memory Blade* channel strike.
+
+**Flavor:** feathers burst and scatter when his spells hit — each a fragment of memory reclaimed from a lost soul.
+
+---
+
+## 💬 Personality
+
+* **Traits:** articulate, dryly humorous, a perfectionist in recordkeeping.
+* **Ideal:** Remembrance — “A forgotten death is the second death.”
+* **Bond:** guards the library of souls bound to the Raven Queen.
+* **Flaw:** struggles to feel joy without melancholy nearby.
+* **Quirk:** murmurs dead people’s names when focusing.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Nevermore Spire**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **soul retrieval mission**, **ghost tracking**, **memory duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Darian was once a royal archivist sentenced to death for burning forbidden histories. The Raven Queen saved him, binding his soul to carry memories instead of words.
+Now he roams ruins, writing epitaphs for those who died unseen.
+
+* **Lifestyle:** elegant, solitary; drinks tea while writing obituaries.
+* **Income:** bounties for lost souls, contract ghost retrievals.
+* **Relationships:** mutual respect with Rheon (#276); rival scholar to Kael (#275).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes forgetting is worse than death. He’ll kill to preserve remembrance.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing his own memories; his notebooks are warded against theft.
+* **Weaknesses:** emotionally withdrawn, avoids attachment.
+* **Strengths:** exceptional precision, stealth, and charisma under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — สุภาพ คม แต่เจ้าเล่ห์ในสายตา พูดเสียงเรียบแฝงเสน่ห์ มักโน้มตัวเข้ามาใกล้เวลาอธิบายบางอย่างให้คู่สนทนา**
+
+> “Close enough to hear the truth? Good. Lies sound different when whispered.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** part of his soul is trapped inside the Raven Queen’s feather — if it burns, he dies.
+* **Hooks:**
+
+  1. **The Lost Memory:** one of his soul-records begins speaking on its own.
+  2. **The Feather War:** a rival warlock seeks to steal his patron’s fragment.
+  3. **The Burned Library:** Darian’s forbidden past resurfaces in fire.
+
+## Tags: #Male #MehType #HalfBeast #Avian #Warlock3 #RavenQueen #HybridCaster #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Darian **ชอบทำให้คู่สนทนาเขินโดยพูดใกล้หูและปล่อยให้เสียงทุ้มสะท้อนเบาๆ**
+
+> “You flinch at every whisper. Tell me, does truth frighten you that much?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** Memory Blade
+  * **Armor:** feathered coat
+  * **Tools:** Raven Sigil, quill of bone
+  * **Consumables:** black ink (enchanted)
+  * **Misc:** Codex of Echoed Names
+* **Level-Up Suggestion:** **+2 CHA (to 19)** or **Feat: War Caster / Observant**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Nevermore Spire — Thalassaran Heights**
+* **Threat Gradient:** **Stable → Echo**
+* **Encounter Type:** **memory duel**, **forbidden archive recovery**, **ghost contract**
+* **Affiliation:** **The Pale Choir of Nevermore**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean British male half-beast avian warlock raven queen 181cm medium wavy black purple hair silver eyes glasses feathered coat noble scholar hunter aesthetic lean athletic calm stoic handsome fantasy

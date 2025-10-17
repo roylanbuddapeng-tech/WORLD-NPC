@@ -1,0 +1,192 @@
+# #323 — **Dagan Stonewake** — *Shield-Howl of the Old Blood*
+
+> “I don’t fight alone. My dead refuse to let me.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 323
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น พูดน้อยต่อยหนัก
+* **Age:** 34
+* **Race:** **Half-Beast (mammal — bear lineage)** — มนุษย์ ~87%; เส้นขนหนาทาบไหล่-ต้นคอ, เล็บหนา, ดวงตาน้ำผึ้งเข้ม
+* **Class & Level:** **Barbarian (Path of the Ancestral Guardian) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **แนวหน้าคุ้มกันคาราวาน / ผู้เรียกวิญญาณบรรพชน / นักล่าเอคโค่**
+* **Organization:** **Thalassara Moon-Caravan Wardens**
+* **Symbol:** โล่หินสลักรอยกรงเล็บหมีซ้อนวงคลื่น
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Nordic–Japanese rugged** — stoic jawline, deep-set eyes, quiet strength.
+
+**Eyes:** dark honey with a faint ursine glint when anger rises.
+**Skin:** wind-browned with pale scar-web over ribs and forearms.
+
+**Hair (Male Randomizer):** **Medium length**, **undercut with swept-back top**, slightly messy after travel.
+**Color:** **iron-black with ash-brown streaks** at the temples.
+
+**Height:** **186 cm**
+**Weight:** **88 kg**
+**Body Build:** **power-athletic**, thick shoulders, corded forearms, steady gait.
+
+**Accessories (roll):** glasses 30% → **fail** (no glasses). Wears a **bone-bead torque** (ancestral tokens), **rawhide wrist wraps**, and a **bear-claw charm** at the belt.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll (male rule):** **Low**
+
+A **stone-gray brigandine vest** over **dark travel leathers**, reinforced at shoulders with stitched bear-fur pads. **Slate cloak** with bone toggles breaks his outline in wind.
+Boots are **hobnailed** for cliff roads; belt loops carry **throwing hatchets** and **ward totems**.
+
+**Palette:** slate gray / stone brown / coal black / bone ivory
+**Weapons & Gear:**
+
+* **Greataxe “Hearthsplitter”** (broad-bearded, rune-scratched)
+* **2× Handaxes** (throwing)
+* **Totem bundle** (3 carved stones), **hempen rope 50 ft**, **hunting kit**, **echo-salt** (to mark zones; flavor)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 = **33 HP**
+* **AC:** **16** (Unarmored Defense: 10 + DEX 2 + CON 3 + cloak ward +1 flavor)
+* **Speed:** 40 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Survival +5, Perception +3, Intimidation +2, Animal Handling +3
+* **Languages:** Common, Giant, Thalassaran Cant
+
+**Barbarian 3 (Path of the Ancestral Guardian)**
+
+* **Rage (2/long rest):** +2 damage; resistance to B/P/S
+* **Unarmored Defense** (uses DEX+CON)
+* **Reckless Attack**, **Danger Sense**
+* **Ancestral Protectors:** เมื่อโจมตีครั้งแรกของเทิร์นโดน เป้าหมายถูกบรรพชนตามหลอก—**ทำดาเมจใส่เป้าหมายอื่นเสียเปรียบ** และเพื่อนถูกดาเมจน้อยลง **2** (PB) (RAW: ลดดาเมจเท่ากับ PB) จนจบเทิร์นถัดไปของเขา
+
+**Attacks**
+
+* **Greataxe:** +6 to hit, **1d12+4** slashing (**+2** while Raging)
+* **Handaxe (melee or thrown 20/60):** +6 to hit, **1d6+4** slashing (**+2** Rage)
+
+---
+
+## 🎯 Combat Tactics (Guardian Frontliner)
+
+* **Role:** **tank/guardian / aggro anchor**
+* **Opener:** **Rage** → lock alpha target with **Ancestral Protectors** to debuff outgoing damage.
+* **Flow:** **Reckless Attack** when needed to hold attention; **handaxe throws** to tag slipaways; body-block for casters.
+* **Finisher:** shoulder-check into greataxe upswing—ancestors roar like wind through bones.
+
+**Damage Flavor:** when he marks a foe, translucent **bear-paw sigils** clutch the enemy’s shoulders; each ally hit leaves a ripple of stone-dust.
+
+---
+
+## 💬 Personality
+
+* **Traits:** พูดน้อยจริงใจ อบอุ่นกับเด็กและคนอ่อนแอ
+* **Ideal:** Duty — “บรรพชนเฝ้ามอง; เราต้องยืนตรง”
+* **Bond:** พกหินสามก้อนจากหลุมฝังศพบรรพบุรุษ—หนึ่งก้อนต่อคำสาบาน
+* **Flaw:** ยอมรับบาดเจ็บแทนผู้อื่นจนเกินเหตุ
+* **Quirk:** ลูบขอบขวานก่อนนอนเหมือนลับฟันสัตว์สงบ ๆ
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Caravans, cliff passes, breaker locks**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **คุ้มกันขบวนกลางพายุ**, **ดวลล็อคคอริมหน้าผา**, **กันทางให้พิธีเวท**
+
+---
+
+## 📜 Background & Lifestyle
+
+เกิดในเผ่าคาราวานเชิงหน้าผา—คนรุ่นก่อนตายจาก Echo surge เขาเลยสาบานจะ “ยืนระหว่างครอบครัวกับพายุเสมอ” วิญญาณบรรพชนตอบรับเสียงคำรามของเขาตั้งแต่วัยหนุ่ม
+
+* **Lifestyle:** กระท่อมหินริมหุบผา เตาผิงใหญ่ หนังสัตว์พาดผนัง
+* **Income:** ค่าคุ้มกัน, ล่าค่าหัวมอนสเตอร์ริมผา, โบนัสพิทักษ์ทางยุทธศาสตร์
+
+---
+
+## 🧩 Morals & Ethics
+
+เขาเชื่อว่า “เลือดเก่าคือรากที่ยึดเราไว้” จะไม่ทิ้งหลังให้เพื่อน; ถอยได้เมื่อทุกคนถอยพร้อมกันเท่านั้น
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** เสียงเงียบผิดธรรมชาติก่อน Echo ระเบิด—เหมือนโลกกลั้นหายใจ
+* **Weaknesses:** ขาดเครื่องมือไล่ตามตัวบิน/ลื่น; ถ้าศัตรูเมินเขาไปยิงหลังบ้านจะหงุดหงิดมาก
+* **Strengths:** ดึงไฟต์ใส่ตัว, ลดดาเมจที่เพื่อนได้รับ, ยืนได้นานในพื้นที่แคบ
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — สุภาพ นิ่ง แต่ทำให้เขินด้วยความอบอุ่น:**
+
+> “ยืนหลังฉันไว้… ถ้ากลัวก็คว้ามือเสื้อได้ ไม่หาว่าแน่น.”
+
+มักวางมือใหญ่ ๆ บนไหล่ให้ความมั่นคง และพูดสั้น ๆ ว่า “อยู่กับเสียงผมหายใจ—พอ”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** ก้อนหินก้อนที่สามเริ่มอุ่นเอง—บรรพชนอยากพูดบางอย่างในภาษาที่เขาไม่จำ
+* **Hooks:**
+
+  1. **Cliff Choir:** เสียงร้องของวิญญาณตกผาเรียกเขาไปยังสะพานพังเก่า—ต้องส่งวิญญาณกลับบ้าน
+  2. **Broken Totem:** โทเท็มเคยพังในภารกิจ—ทำให้บัฟหลุด ทีมเก่าเกือบตาย เขายังตามหาคนทำลาย
+  3. **Bear Without Winter:** ฤดูกาลเพี้ยน วิญญาณหมีหิวจัดขอ “ล่าแทน” มนุษย์บางคน
+
+---
+
+## Tags: #Male #HalfBeast #Bear #Barbarian3 #AncestralGuardian #Frontline #Tank #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Dagan **ยื่นโล่มนุษย์ให้**
+
+> “ถ้าลมแรง… หลบหลังฉันก่อน แล้วค่อยคุยกัน.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** greataxe, 2× handaxes
+  * **Armor:** travel leathers (uses Unarmored Defense)
+  * **Tools:** hunting kit, rope
+  * **Consumables:** echo-salt ×1, poultice ×2
+  * **Misc:** totem stones ×3
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Sentinel / Tough**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Moon-Caravan cliff roads & breaker locks**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **hold-the-line**, **caravan defense**, **ritual guard vs surge**
+* **Affiliation:** **Moon-Caravan Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Nordic Japanese male half-beast bear barbarian ancestral guardian 186cm medium undercut iron-black hair ash streaks rugged power-athletic slate cloak greataxe bone beads cliff road fantasy

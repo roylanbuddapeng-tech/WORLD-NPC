@@ -1,0 +1,194 @@
+# #357 — **Koji “Echo-Step” Han** — *The Shadow That Crosses First*
+
+> “You move on my count. I’ll already be there.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 357
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น มั่นใจแบบเงียบ
+* **Age:** 31
+* **Race:** **Other — Echo-touched (Valeron Resonant Strand)** — ใกล้มนุษย์ ~88%; เงาบางใต้ฝ่ามือและขมับวูบไหวเมื่อใช้พลัง
+* **Class & Level:** **Fighter (Echo Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **escort duelist / lane splitter / decoy controller**
+* **Organization:** **Valeronnes Glass Court — Quiet Mirror Squad**
+* **Symbol:** เส้นรางคู่ทับซ้อนกัน เลื่อนระยะห่างครึ่งก้าว
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean stoic tactician** — quiet gaze, measured breath, the posture of someone who rehearses every step in rain.
+
+**Height:** **180 cm** **Weight:** **78 kg**
+**Body Build:** **athletic–muscular**, compact core, long reach.
+
+**Hair (Male Randomizer):** **Short**, **tapered sides with brushed-back top**, rain-slick discipline.
+**Color:** **raven black with gunmetal lowlights**.
+**Eyes:** cool ash-brown; a faint mirrored ring glints when the echo manifests.
+**Skin:** fair-olive; a soft, shadowy sheen lines the jaw in certain angles.
+
+**Jewelry & Accessories (male glasses 30% → fail):** no glasses. Wears a **matte steel ear-cuff** (mirror motif), **braided wrist cord** (beat counter), and a **rail token** tucked beneath the collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional echo-control kit**
+
+A **brushed-steel breastplate** over an **indigo padded jacket**, **quiet-weave bracers**, and **tapered guard-trousers** for long, precise lunges on slick glass. **Soft-sole boots** grip the rail. A **short storm-cloak** pins flat so the **echo’s silhouette** matches his line.
+
+**Palette:** steel / indigo / charcoal / muted silver
+
+**Weapons & Gear:**
+
+* **Glaive “Mirror-Line”** (reach 10 ft; matte fuller for water-shed)
+* **Shortsword** (close-in control)
+* **Light crossbow** + 20 bolts
+* **Silk rope 50 ft**, **manacles**, **chalk-line**, **echo-salt**, **smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **18** (breastplate 14 + DEX +2 + **Defense** style +1 → 17; fitted kit & straps sit within that look; mechanical AC **18** with stance advantage on rails is narration)
+* **Speed:** 30 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +4
+* **Skills:** Athletics +6, Perception +3, Insight +3, Acrobatics +4, Stealth +4
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Echo Knight (EGtW)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Manifest Echo (Bonus Action):** สร้าง “ก้องสะท้อน” ของคุณในระยะ **15 ฟุต**; คุณทำการโจมตี/สลับตำแหน่งบางอย่างจากตำแหน่งของ echo ได้ (RAW: คุณทำการโจมตีจาก echo ได้ราวกับอยู่ตำแหน่งนั้น, ใช้ **15 ฟุต** เพื่อ **swap** ตำแหน่งกับมัน)
+* **Unleash Incarnation:** เมื่อคุณทำ **Attack action**, คุณทำ **การโจมตีอีกครั้งจากตำแหน่งของ echo** (ใช้ได้ **PB/long rest = 2** ครั้งตอนนี้)
+* **Echo Avatar:** *(เลเวล 7; ยังไม่ถึง)*
+
+**Attacks**
+
+* **Glaive (reach 10 ft, 2h):** +6 to hit, **1d10+4** slashing
+* **Shortsword (1h):** +6 to hit, **1d6+4** slashing
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+
+---
+
+## 🎯 Combat Tactics (Decoy Splitter / Lane Control)
+
+* **Role:** **frontline control–finisher / escort decoy**
+* **Opener:** **Manifest Echo** across the rail seam; feint to draw eyes then **swap** for safe entry.
+* **Flow:** attack from the echo’s square with the **glaive reach**; use **Unleash Incarnation** to create a two-point pincer; hold **Action Surge** to convert stagger into a clean collapse.
+* **Finisher:** echo pins from outside, Koji cuts inside—one rail, two bodies, one breath.
+
+**Damage Flavor:** when the echo appears, rain doubles for a blink—two ripples chase each other down the rail.
+
+---
+
+## 💬 Personality
+
+* **Traits:** พูดน้อย สุขุม วางหมากก่อนขยับ; สอนด้วยการทำให้ดู
+* **Ideal:** Control-with-Minimal Risk — “ให้เงาเสี่ยงก่อนตัวจริง”
+* **Bond:** แผนที่ “จุดสลับตัว” บนสะพาน—มุมที่ echo ปลอดภัย
+* **Flaw:** เชื่อแผนมากไป—ถ้าแผนพังอาจช้าไปครึ่งจังหวะ
+* **Quirk:** เคาะสันกงเล็บกลาเวียเบา ๆ สองครั้งก่อนสลับตัว—สัญญาณให้ทีมรู้ว่าจะ “ข้ามเงา”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **escort choke with decoy**, **riot split by echo**, **quiet duel under rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+อดีตยามสะพานที่ฝึก “ก้าวเงียบ” จนคืนหนึ่งเงาของเขา “เดินก่อน” ครึ่งก้าว—เสียงเมืองตอบรับกลายเป็น **Echo** เขาจึงเข้าหน่วย **Quiet Mirror** เพื่อเปิดทางโดยให้เงาเสี่ยงแทนคน
+
+* **Lifestyle:** ห้องเล็กติดสะพาน มีชอล์ก ผ้าเช็ดใบดาบ และเชือกผูกจุดสลับ
+* **Income:** เงินเดือน Glass Court, โบนัสคุ้มกัน, ค่าระงับเหตุจลาจล
+
+---
+
+## 🧩 Morals & Ethics
+
+“ถ้าคนผ่านได้โดยเราไม่ต้องเลือดออก—นั่นแหละชัยชนะ” เขาให้เงานำเสมอ ก่อนดึงคนผ่าน
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่เงา “ไม่ตาม” — ลาง Echo กลืนการสะท้อน
+* **Weaknesses:** ต้องบริหาร **Unleash** มีจำกัด; ในที่แคบมาก echo วางตัวยาก
+* **Strengths:** **ควบคุมตำแหน่งด้วย echo**, **reach 10 ft** บนรางลื่น, **Action Surge** ปิดงานไว
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — สุขุมทำให้อุ่นใจ:**
+
+> “จับชายคลุมไว้—ถ้าเขามองคุณ ให้มองเงาผมแทน.”
+
+ซ้อมกับผู้เล่น เขาจะชี้จุดยืนสองจุดแล้วกระซิบ “หนึ่งก้าว—สลับ—จบ”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** เงาของ Koji **สะท้อนช้ากว่า 1 ชีพจร** เมื่อมีคนโกหกใกล้ ๆ — ใช้จับโป๊ะได้
+* **Hooks:**
+
+  1. **Mirror Break:** เขตหนึ่งทำให้ echo แตกพร่า—ใครขโมย “กฎของเงา” ไป
+  2. **Two at Once:** ข่าวลือว่าเห็น Koji “สองคน” ตลอดเวลา—มีผู้แอบอ้าง echo ทำผิด
+  3. **Bridge Without Double:** สะพานกระจกใหม่ไม่ให้เงาซ้อน—ต้องหาทางผ่านโดยไม่ใช้ echo
+
+---
+
+## Tags: #Male #Other #EchoTouched #Fighter3 #EchoKnight #Control #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Koji **ยกชายคลุมให้บังฝน เคาะกลาเวียสองที**
+
+> “ตามสัญญาณ—เงาไปก่อน เราตาม.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** glaive, shortsword, light crossbow
+  * **Armor:** breastplate set
+  * **Tools:** chalk-line, silk rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** wrist cord, rail token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Polearm Master / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & roof-rails**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **escort with decoy**, **riot split**, **quiet duel**
+* **Affiliation:** **Quiet Mirror Squad — Glass Court**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean male echo-touched fighter echo knight 180cm short brushed-back raven hair gunmetal lowlights athletic muscular steel breastplate glaive low exposure rain-slick bridge mirrored ripple quiet tactician fantasy

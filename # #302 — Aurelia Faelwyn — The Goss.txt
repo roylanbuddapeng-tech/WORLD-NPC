@@ -1,0 +1,210 @@
+# #302 — **Aurelia Faelwyn** — *The Gossamer Thorn*
+
+> “If you mistake desire for consent, my illusions will teach you the difference.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 302
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — ยิ้มง่าย คุยสนุก แต่แอบยั่วเกินพอดีด้วยสายตาและถ้อยคำสองแง่สามง่าม
+* **Age:** 23
+* **Race:** **Other — Aasimar (Fey-touched)** — human-like (~88%); soft auric halo at temples, irises with tiny leaf-like motes
+* **Class & Level:** **Warlock (The Archfey)** 3 — *Pact of the Chain (Sprite)*
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **court illusion-escort / rumor-lure / charm operative**
+* **Organization:** **Thalassara Masque Circle — “Mirror Envoys”**
+* **Symbol:** a thorned vine curling through a crescent mask
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese idol elegance** — delicate V-line, plush lips, a gaze that lingers like perfume.
+
+**Eyes:** pale jade with drifting fey motes; pupils tighten when she lies.
+**Skin:** luminous porcelain with a cool moon-kissed sheen along shoulders.
+
+**Hair (Female Hair Randomizer):** 🎲 **Straight (top frequency)**
+**Style:** **very long, waterfall-straight** with **side-swept bangs**; a thin braid threads tiny leaf-charms down one side.
+**Color:** **black to mint-silver gradient** that shimmers under lamplight.
+
+**Height:** **169 cm**
+**Weight:** **57 kg**
+**Body Type:** **curvy-athletic**, dancer’s lines with soft fullness.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 110 – 74 – 116
+VALIDATION: • W/B = 0.673 → OK   • H/W = 1.57 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Aristocrat (35%) → success**
+**Glasses Roll (non-nerd female 50%)** 🎲 **success → wears glasses** — delicate half-moon spectacles with vine-etched rims.
+
+**Jewelry & Accessories:** thin silver circlet under hairline, opal leaf pendant (focus), chain earring with chime-leaf, ankle bell silenced by fey runes.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Very High — fey couture (artistic, non-explicit)**
+
+A **near-backless gossamer gown** of **enchanted sheer** that turns opaque where sigils bloom, with a **deep V neckline** and **bare side cutouts** laced by floating silver thorns.
+A **petal-slit overskirt** reveals one thigh above **lace runic stockings**; soft heeled boots mute steps.
+
+**Palette:** mint-silver / moon white / black thorn accents
+**Weapons & Gear:**
+
+* *Opal Thorn Focus* (rod)
+* *Sprite familiar* **“Pip”** (invisible scout)
+* *Mirror-petal veil* (flash of faerie fire 1/day, flavor tool)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **19 HP**
+* **AC:** **15** (Mage Armor theme via warded gown + DEX)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +6
+* **Skills:** Deception +6, Persuasion +6, Stealth +4, Arcana +3, Insight +3, Performance +6
+* **Languages:** Common, Sylvan, Elvish, Thalassaran Cant
+
+**Warlock (The Archfey) 3**
+
+* **Fey Presence (1/rest):** 10-ft cube charm or frighten (WIS save)
+* **Expanded Spells:** *Faerie Fire, Sleep; Calm Emotions, Phantasmal Force*
+* **Pact of the Chain:** **Sprite familiar (Pip)** — invisibility, Heart Sight
+* **Invocations (2):** **Agonizing Blast**, **Mask of Many Faces (At-will *Disguise Self*)**
+
+**Spellcasting (CHA DC 14, +6 atk; 2 slots, 2nd level)**
+
+* **Cantrips:** *Eldritch Blast, Minor Illusion, Friends*
+* **Known:** *Hex, Faerie Fire, Sleep, Suggestion, Phantasmal Force, Mirror Image*
+
+**Attacks**
+
+* **Eldritch Blast:** +6 to hit, 1d10+4 force (Agonizing)
+* **Sprite’s Shortbow (ally):** +6 to hit, 1 piercing + DC 10 CON vs poison/sleep (per statblock)
+
+---
+
+## 🎯 Combat Tactics (Illusion Control / Social Disable)
+
+* **Role:** **controller / opener / charm split**
+* **Opener:** **Mask of Many Faces** to insert → **Fey Presence** to stagger → **Faerie Fire** for party advantage.
+* **Flow:** **Suggestion** to peel a guard; **Phantasmal Force** to terror-lock a captain.
+* **Finisher:** Pip marks the weak-willed with Heart Sight, Aurelia **Eldritch Blast** from cover.
+
+**Damage Flavor:** blasts bloom like falling petals that cut as they drift.
+
+---
+
+## 💬 Personality
+
+* **Traits:** playful sophisticate, dangerously empathetic; flirts as a diagnostic tool.
+* **Ideal:** Consent — “Real magic is the yes you meant to say.”
+* **Bond:** her Sprite, Pip, who judges suitors mercilessly.
+* **Flaw:** addicted to roles; forgets who she is after long cons.
+* **Quirk:** taps spectacles twice before telling a beautiful lie.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Masque Courts, Moon Canal balconies**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **gala infiltration**, **mask duel**, **honey-trap parley**
+
+---
+
+## 📜 Background & Lifestyle
+
+A minor glass-noble’s ward, she learned etiquette as misdirection. A fey crossing answered her envy with a pact: beauty that edits attention. Now she steers feasts, politics, and tragedies with equal grace.
+
+* **Lifestyle:** perfume, quiet balconies, letters sealed with pressed flowers.
+* **Income:** noble “consults,” backstage rescues, rumor choreography.
+* **Relationships:** professional rivalry with Iselra (#293); fond of Melisara (#301)’s pranks.
+
+---
+
+## 🧩 Morals & Ethics
+
+Won’t force minds—she engineers choices. If you fall for the mask, she says you wanted to.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Pip seeing a darkness in her heart and leaving.
+* **Weaknesses:** fragile if cornered; relies on soft control.
+* **Strengths:** social penetration, battlefield advantage setup, identity fluidity.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**กฎมายา/เย้ายวน (บังคับ):** คำพูดกำกวม ชวนคิดไกล ยั่วแบบนุ่มลึก
+
+> “If I’m the dream, darling, do you really want to wake?”
+
+ชอบทำให้เขินด้วยการเลื่อนแว่นลงปลายนิดแล้วกระซิบชิดใบหูจนกลิ่นดอกไม้จาง ๆ แตะปลายลิ้น
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her opal focus sometimes answers in a stranger’s voice—an Archfey who may not be her patron.
+* **Hooks:**
+
+  1. **The Borrowed Mask:** someone else uses **Mask of Many Faces** with her exact scent.
+  2. **Heart Sight Debt:** Pip reads a lover as “empty” — a Severance echo inside a human.
+  3. **Petals of Glass:** her **Faerie Fire** begins carving sigils into stone after each cast.
+
+---
+
+## Tags: #Female #Aasimar #Warlock3 #Archfey #PactOfTheChain #Illusion #Seductive #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Aurelia **หัวเราะเบา ๆ แล้วตั้งคำถามกำกวม**
+
+> “Which part of me is real enough to kiss—mind, mouth, or the lie you like?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** opal thorn focus
+  * **Armor:** warded gossamer gown (Mage Armor flavor)
+  * **Tools:** disguise kit, perfume seals
+  * **Consumables:** mirror-petal veil ×1, fey leaf tea ×2
+  * **Misc:** **Sprite familiar Pip**, mask pins
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Actor / Telepathic**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Masque Courts**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **gala con, charm duel, rumor heist**
+* **Affiliation:** **Mirror Envoys**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese female aasimar warlock archfey 169cm very long straight black-to-mint hair jade eyes glasses I-cup near-backless gossamer gown deep V sheer runic petals seductive fey court fantasy

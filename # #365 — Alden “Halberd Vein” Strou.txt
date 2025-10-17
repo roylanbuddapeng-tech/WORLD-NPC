@@ -1,0 +1,169 @@
+# #365 — **Alden “Halberd Vein” Stroud** — *The Line Holds Where Blood Stays Calm*
+
+> “If I move first, the wall dies. If I wait, the world steadies.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 365
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม เสียงทุ้ม มีแววตาของผู้คุมแถว
+* **Age:** 38
+* **Race:** **Human (Western lineage)**
+* **Class & Level:** **Fighter (Purple Dragon Knight / Banneret) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **Cohort Warden / Halberd line leader / formation caller**
+* **Organization:** **Order of the Quiet Banner**
+* **Symbol:** โล่ที่มีเส้นเลือดสีแดงวาดเป็นรูปหอก
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** English–Western commander archetype — built like a veteran who still trains before dawn.
+
+**Height:** **183 cm** **Weight:** **86 kg**
+**Body Build:** **muscular but proportionate**, shoulders like pillars, steady posture.
+
+**Hair (Male Randomizer):** **Medium-short**, **undercut swept back** with loose crown strands.
+**Color:** **ashen blond** with **pale silver streaks** around temples.
+**Eyes:** **grey-blue**, focused but kind.
+**Skin:** fair, weather-tanned along the neck and arms.
+
+**Accessories (male glasses 30% → fail):** none. Carries a **red-thread badge**, **tactical ring**, and a **steel vambrace** engraved with his old cohort’s names.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male rule):** **Low — standard field plate**
+
+**Armor:** *Half-plate* with reinforced pauldrons and open armpits for pike rotation. A **red capelet** hangs over one shoulder; **polearm harness** across the back. **Knee-high greaves** for pushing lines.
+
+**Palette:** iron grey / crimson / black / silver
+**Weapons & Gear:**
+
+* **Halberd “Calm Vein”** (reach 10 ft, slashing/piercing versatility)
+* **Longsword**, **Dagger**
+* **Tower shield (ceremonial)** — used to protect civilians in formation
+* **Command horn**, **chalk lines**, **tactical banner**, **healer’s kit ×2**, **ration pack ×3**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **18** (half-plate 15 + DEX +1 + Defense style +2 shield)
+* **Speed:** 30 ft
+* **STR 18 (+4)** **DEX 12 (+1)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +4
+* **Skills:** Athletics +6, Persuasion +3, Insight +3, Perception +3, Intimidation +3
+* **Languages:** Common, Dwarvish
+
+**Fighter 3 — Purple Dragon Knight (Banneret)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Rallying Cry:** when you use Second Wind, **3 allies** within **30 ft** regain **3 HP** each
+* **Royal Envoy:** **Persuasion proficiency + double proficiency bonus**
+* **Bonus Proficiency:** one language (Dwarvish)
+
+**Attacks**
+
+* **Halberd:** +6 to hit, **1d10+4** slashing
+* **Longsword (1h + shield):** +6 to hit, **1d8+4** slashing
+* **Dagger:** +6 to hit, **1d4+4** piercing
+
+---
+
+## 🎯 Combat Tactics (Formation Anchor)
+
+* **Role:** **Frontline commander / defensive support**
+* **Opener:** Holds halberd vertical, **Rallying Cry** early to boost morale; forms the front hinge for a wall pivot.
+* **Flow:** **Action Surge** to shift between halberd reach and shield stance, controlling choke points.
+* **Finisher:** **Precision halberd sweep** to cut enemy charge momentum, stabilizing allies.
+
+**Damage Flavor:** every strike rings like a heartbeat; red threads flicker faintly from his halberd’s veins when an ally’s courage stirs.
+
+---
+
+## 💬 Personality
+
+* **Traits:** พูดตรงแต่ไม่เสียงดัง, ปกป้องลูกทีมเหมือนครูฝึก
+* **Ideal:** “A wall is only strong if it never forgets it’s protecting lives.”
+* **Bond:** still writes letters to old squadmates, even those dead for years.
+* **Flaw:** refuses to retreat while someone’s behind him.
+* **Quirk:** counts every halberd strike aloud — “One vein. Two veins. Three veins—hold.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Iron March — Bastion of the Quiet Banner**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **Siege defense**, **civilian escort**, **training drills turned ambush**
+
+---
+
+## 📜 Background & Lifestyle
+
+อดีตหัวหน้าหน่วยพิทักษ์พรมแดน เขาปลดประจำการหลังเจ็บจากสงครามเมืองเหล็ก แต่เมื่อเมืองเริ่มสั่นอีกครั้ง เขากลับมาพร้อมหอกยาวในมือ
+
+* **Lifestyle:** modest barracks room; eats early, sleeps late.
+* **Income:** city stipend, training pay, small donations from grateful villagers.
+
+---
+
+## 🧩 Morals & Ethics
+
+เชื่อว่าความแข็งแกร่งต้องเงียบ—ไม่ใช่คำราม แต่เป็นเสียงโลหะกระทบโล่ของเพื่อนข้างๆ
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of his line; seeing subordinates die in formation.
+* **Weaknesses:** stubborn in defense, underestimates ranged enemies.
+* **Strengths:** high AC, crowd control via halberd, morale buffer through **Rallying Cry**.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — สุภาพแต่มั่นใจ:**
+
+> “Behind my line, you live. Simple math.”
+
+เวลาเจอคนลังเล เขาจะยื่นมือมาวางบนบ่า แล้วพูดแผ่ว “ใจเต้นดีแล้ว ไปเถอะ”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** one of his old squad’s banners still “breathes” when near him—it whispers commands.
+* **Hooks:**
+
+  1. **The Banner’s Pulse:** investigate why his old unit’s flag moves on its own during battle.
+  2. **Halberd’s Red Vein:** a smith claims his weapon drinks courage itself.
+  3. **The Line that Never Broke:** a reenactment drill turns real as enemies crash the formation.
+
+---
+
+## Tags: #Male #Human #Fighter3 #Banneret #Halberd #Commander #CR1 #LawfulNeutral
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Alden **rests the halberd butt on stone, eyes soft but resolute:**
+
+> “If you falter, just breathe. I’ll draw the line for you.”
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Western male human fighter banneret 183cm muscular ashen blond hair silver streaks halberd half plate red cape low exposure commander veteran disciplined fantasy

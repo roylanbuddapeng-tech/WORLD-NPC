@@ -1,0 +1,203 @@
+# #284 — **Vynessa Kaelir** — *The Veiled Bloom of Thalassara*
+
+> “Every lie is just perfume—how close you stand decides if you choke or swoon.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 284
+* **Gender:** **Female (Type: รุ่นพี่)** — สุภาพอ่อนโยนแต่คุมสถานการณ์ได้ทุกจังหวะ ยิ้มอบอุ่นแฝงอำนาจ
+* **Age:** 28
+* **Race:** **Half-Elf (Thalassaran Lineage)** — human-like (≈88%), faint teal shimmer under eyes, subtle ear taper
+* **Class & Level:** **Wizard (School of Enchantment)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good (manipulative by necessity)**
+* **Profession:** **Court Enchanter / Political Liaison / Illusion Consultant**
+* **Organization:** **Thalassaran Council of Mirrors**
+* **Symbol:** a mirrored rose petal dripping light
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Western hybrid**, gentle oval face, delicate nose bridge, eyes that seem to smile before her lips do.
+
+**Eyes:** ocean teal with faint silver ripple patterns when casting.
+**Skin:** soft pearl tone, faint luminescence on temples.
+
+**Hair (Female-set Randomizer):** 🎲 **Ponytail (highest frequency)**
+**Style:** long, silky ponytail wrapped by a silver lace tie; front bangs swept diagonally across one eye.
+**Color:** **white-gold with teal undertones.**
+
+**Height:** **172 cm**
+**Weight:** **60 kg**
+**Body Type:** **graceful hourglass**, balanced curves, gentle motion.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 98 – 69 – 102  
+VALIDATION: W/B = 0.704 → OK   H/W = 1.47 → OK  
+```
+
+**Sub-Theme Roll:** 🎲 **Aristocrat**
+**Glasses Rule:** Nerd/Aristocrat females auto-wear glasses → ✅ **yes**
+
+**Jewelry & Accessories:** delicate silver spectacles with moonlight frames; layered pearl earrings; aquamarine pendant; silver anklet charm shaped like a rose.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Moderate (professional but alluring)**
+
+She wears a **silken high-slit gown** of deep teal and ivory gradient, embroidered with **arcane sigil lace** that flickers under light.
+**Backline open** slightly below shoulder, showing the shimmer of enchantment glyphs along her spine.
+**Arm-length gloves** with silver-thread runes and **sheer side panels** revealing faint skin glow when she casts.
+
+**Palette:** teal / white-gold / silver accents
+**Weapons & Gear:**
+
+* *Silvered wand of resonance* (focus)
+* *Mirror shard spellbook* (self-folding glass leaves)
+* *Perfume of subtle compulsion* (+1 CHA checks once/day flavor)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 = **16 HP**
+* **AC:** **14** (mage armor active)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Persuasion +5, Insight +3, Deception +5, Arcana +5, History +5
+* **Languages:** Common, Elvish, Thalassaran Cant, Celestial
+
+**Wizard (School of Enchantment) 3**
+
+* **Enchantment Savant** (half time/cost to copy)
+* **Hypnotic Gaze** (charm lock within 5 ft)
+* **Instinctive Charm** (reaction to redirect attacks)
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Minor Illusion, Friends, Mage Hand*
+  * *1st–2nd:* *Charm Person, Sleep, Suggestion, Mirror Image, Calm Emotions, Hold Person*
+
+---
+
+## 🎯 Combat Tactics (Enchantment Control)
+
+* **Role:** **Crowd Controller / Manipulator / Soft-Disable Caster**
+* **Opener:** *Mirror Image* → *Charm Person* to redirect enemies.
+* **Flow:** *Hold Person* to lock high-value target → *Calm Emotions* when allies break.
+* **Finisher:** *Suggestion* whispered gently with her own name hidden inside the phrase.
+
+**Damage Flavor:** never direct — always emotional; enemies stop fighting mid-motion, mesmerized by tone.
+
+---
+
+## 💬 Personality
+
+* **Traits:** composed, motherly humor, deliberate word choice.
+* **Ideal:** Guidance — “True control is giving someone a better idea they think was theirs.”
+* **Bond:** bound by oath to protect Thalassaran children from psychic echoes.
+* **Flaw:** manipulates for peace even when honesty would suffice.
+* **Quirk:** unconsciously hums lullabies as she casts enchantments.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Mirror Courts, Songspire Halls**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **diplomatic heist**, **mirror duel**, **corrupted noble negotiation**
+
+---
+
+## 📜 Background & Lifestyle
+
+Daughter of a mirror artisan family; gifted with synesthetic empathy—she sees emotion as color.
+Joined the Council to mediate disputes, but discovered how easily she could “paint peace” with suggestion.
+
+* **Lifestyle:** refined, quiet chamber with scented glass lanterns.
+* **Income:** official retainer of Council + “private persuasion consults.”
+* **Relationships:** mentor to Aevius (#282); rumored to have “saved” Selyra (#281) once using Hypnotic Gaze.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes lies are tools like any spell—morality lies in intention, not the weave.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of her charm; turning allies into puppets.
+* **Weaknesses:** fragile defense; guilt sensitivity.
+* **Strengths:** social mastery, crowd disable, psychic restraint.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — นุ่มนวลแต่เจ้าเล่ห์:**
+
+> “If your heart skips, that means the spell’s working. Don’t resist—it’ll just tangle the threads.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her *Perfume of Compulsion* contains her own tears; it amplifies emotions tied to longing.
+* **Hooks:**
+
+  1. **Echo of Consent:** someone weaponizes her charm formula into mass subjugation.
+  2. **Broken Mirror:** her reflection starts whispering different spells.
+  3. **The Silent Waltz:** nobles under her enchantment begin speaking in rhyme—and plotting murder.
+
+---
+
+## Tags: #Female #HalfElf #Wizard3 #SchoolOfEnchantment #Aristocrat #Seductive #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Vynessa **ชอบทำให้คนเขินโดยเอียงหน้าเข้ามาใกล้จนแว่นกระทบอีกฝ่ายเบา ๆ แล้วพูดเสียงต่ำ**
+
+> “Tell me again that you’re immune… I want to watch you fail.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** wand
+  * **Armor:** mage armor
+  * **Tools:** mirror spellbook
+  * **Consumables:** perfume vial, 1 potion of rest
+  * **Misc:** council seal pendant
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Telepathic / Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Mirror Courts**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **negotiation duel**, **mind control mystery**, **court seduction intrigue**
+* **Affiliation:** **Council of Mirrors**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean western half-elf female wizard enchantment 172cm white-gold ponytail teal eyes large bust F-cup silver glasses teal gown high-slit backless gloves elegant seductive

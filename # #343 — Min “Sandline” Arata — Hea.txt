@@ -1,0 +1,193 @@
+# #343 — **Min “Sandline” Arata** — *Heat Hush of the Narrow Rail*
+
+> “Breathe with me. The next step is cooler.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 343
+* **Gender:** **Male (Type: เคะ)** — สุภาพ อ่อนโยน แต่อ่านสนามไวและตัดสินใจเด็ดขาด
+* **Age:** 23
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Barbarian (Path of the Storm Herald — Desert) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane breaker / surge escort runner / hazard splitter**
+* **Organization:** **Valeronnes Rail Wardens — Heat Hush Detachment**
+* **Symbol:** ลายทรายสามเส้นคดดุจคลื่นใต้รางแก้ว
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese clean grace** — soft eyes, light smile, careful steps that waste no motion.
+
+**Eyes:** warm umber; when aura stirs, a thin heat-shimmer rings the iris.
+**Skin:** fair-olive with sun-kissed bridge of the nose.
+
+**Hair (Male Randomizer):** **Medium**, **low ponytail with soft layered fringe**, strands pinned behind one ear when working.
+**Color:** **raven black with subtle sand-gold lowlights**.
+
+**Height:** **177 cm**
+**Weight:** **70 kg**
+**Body Build:** **lean-athletic**, wiry forearms, runner calves.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **matte brass ear cuff**, **woven sand-cord bracelet**, and a **rail token** on a thin chain.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional hot-rail kit**
+
+A **charcoal leather brigandine** over a **dune-tan padded shirt**, **quiet-weave bracers**, and **split guard-trousers** for long lunges on slick glass. **Soft-sole boots** grip rails. A **short sand-cloak** pins tight so wind won’t yank it in a sprint.
+
+**Palette:** charcoal / dune tan / muted brass / smoke black
+
+**Weapons & Gear:**
+
+* **Scimitar “Heat Hush”** (broad curve, matte fuller)
+* **Spear** (brace or throw)
+* **Dagger**
+* **Hook-rope 30 ft**, **caltrops**, **smoke bead ×1**, **echo-salt marker**, **silk rope 50 ft**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +2)×3 = **31 HP**
+* **AC:** **15** (Unarmored Defense: 10 + DEX 2 + CON 3)
+* **Speed:** **40 ft**
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Acrobatics +4, Perception +3, Insight +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Storm Herald (Desert)**
+
+* **Rage (2/long rest):** +2 damage; resistance to **bludgeoning/piercing/slashing**
+* **Reckless Attack**, **Danger Sense**, **Unarmored Defense**
+* **Storm Aura (Desert):** while raging, as a **bonus action** each turn, **one creature** in your **10-ft aura** takes **1d6 fire** (no save).
+
+**Attacks**
+
+* **Scimitar (1h):** +5 to hit, **1d6+3** slashing (**+2** while Raging)
+* **Spear (1h/2h, thrown 20/60):** +5 to hit, **1d6/1d8+3** piercing (**+2** Rage)
+* **Dagger:** +5 to hit, **1d4+3** piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Lane Striker / Heat Zoner)
+
+* **Role:** **frontline striker / space control**
+* **Opener:** **Rage** → slide in with **scimitar**; **Storm Aura (Desert)** pings a priority target for **1d6 fire** each round.
+* **Flow:** herd foes along the rail with spear feints; go **Reckless** only to draw eyes while allies pass.
+* **Finisher:** heel-pivot to the inside line, short cut under guard—heat haze snaps, fight ends.
+
+**Damage Flavor:** heat shimmer beads along his blade; aura makes rain hiss to steam in tiny puffs around his ankles.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ ชวนคุยเบา ๆ ใจเย็น; ยิ้มปลอบก่อนบุก
+* **Ideal:** Careful Courage — “ความกล้าแบบประหยัดชีวิตคน”
+* **Bond:** เขียน “แผนที่รางร้อน” จุดที่ลมแรง/อุณหภูมิสูงช่วยพรางรอยเท้า
+* **Flaw:** รับงานลุยเดี่ยวบ่อยเกิน; ไม่ค่อยขอโล่คุ้มกัน
+* **Quirk:** เป่าลมหายใจสั้น ๆ บนสันดาบก่อนวิ่ง—ทดสอบทิศลมร้อน
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, hot vents, hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **bridge split**, **riot peel with heat aura**, **surge escort over slick rails**
+
+---
+
+## 📜 Background & Lifestyle
+
+เด็กเวรยามชั้นล่างที่ชอบวิ่งเส้นร้อนบนรางแก้ว วันหนึ่งความร้อน “เชื่อฟัง” จังหวะเท้าเขา กลายเป็นออร่าที่เผาโอกาสบุกของศัตรู เขาจึงเข้าหน่วย Heat Hush เพื่อเปิดทางให้คนผ่านพายุอย่างปลอดภัย
+
+* **Lifestyle:** ห้องเล็กติดช่องระบายอากาศ อุ่นสบายแม้ฝน
+* **Income:** เงินเดือนยาม, โบนัสคุมฝูง, เบี้ยเสี่ยง Echo
+
+---
+
+## 🧩 Morals & Ethics
+
+“ทำให้ไฟต์แคบและสั้น” — เขาเชื่อว่าการควบคุมพื้นที่คือวิธีช่วยชีวิตมากที่สุด
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่ไอร้อน “ไม่ขึ้น” — แปลว่า Echo กลืนแรงสั่นของอากาศ
+* **Weaknesses:** ไม่มีเครื่องมือหยุดฝูงมากนักนอกจาก aura; ถ้าถูก kite ระยะไกลต้องบังคับเข้าที่แคบ
+* **Strengths:** **สปีด 40**, **ping ดาเมจคงที่จากออร่า**, ฟุตเวิร์กบนพื้นลื่น
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ — สุภาพดูแลใกล้ ๆ ทำให้เขินแบบนุ่มนวล**
+
+> “จับปลายเสื้อผมไว้นะ… ผมจะทำให้ร้อนแค่พอที่เขาไม่กล้าเข้าใกล้.”
+
+ตอนสอน เขาจะยืนซ้อนหลัง จับข้อมือจัดไลน์คัตแล้วกระซิบ “หายใจ—ปล่อยตอนคมลง”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** สายรัดข้อมือทรายของเขาเก็บ “ไอร้อนหนึ่งใจเต้น” — เปิดใช้แล้วกันความกลัวของเพื่อนได้ชั่วขณะ
+* **Hooks:**
+
+  1. **Vent That Whispers:** ช่องลมใต้สะพานส่งเสียงเหมือนหายใจ—ร้อนขึ้นตามจังหวะหัวใจของบางสิ่ง
+  2. **Hush the Crowd:** ต้องพาเด็กผ่านสะพานด้วย **heat aura** ตัดไฟโกลาหล—โดยไม่เผาใคร
+  3. **Sandline Map:** แผนที่รางร้อนถูกขโมย—ผู้ร้ายจะใช้จุดอุ่นล่อทีมให้เสียจังหวะ
+
+---
+
+## Tags: #Male #Human #Barbarian3 #StormHeraldDesert #Striker #Control #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Min **ยื่นมือให้เกาะ ขณะไอร้อนจาง ๆ ลอยรอบข้อเท้า**
+
+> “ไปด้วยกัน—ผมทำให้ทางอุ่นพอที่เราจะไม่ลื่น.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** scimitar, spear, dagger
+  * **Armor:** Unarmored Defense (brigandine outer)
+  * **Tools:** hook-rope, silk rope, caltrops
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** sand-cord bracelet, rail token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 18)** หรือ **Feat: Mobile / Savage Attacker**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hot vents**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **riot peel with heat aura**, **split lane**, **surge escort**
+* **Affiliation:** **Heat Hush Detachment — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese male human barbarian storm herald desert 177cm medium low ponytail raven hair sand-gold lowlights lean athletic charcoal brigandine dune shirt scimitar spear low exposure rain-slick bridge heat shimmer fantasy

@@ -1,0 +1,195 @@
+# #287 — **Kael Thornreach** — *The Mistblade Revenant*
+
+> “The art of vanishing isn’t escape. It’s patience made visible.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 287
+* **Gender:** **Male (Type: เมะ)** — สุภาพ เงียบขรึม ดูเป็นผู้นำโดยธรรมชาติ สายตาคมสงบแต่เต็มไปด้วยแรงกดดัน
+* **Age:** 33
+* **Race:** **Human**
+* **Class & Level:** **Rogue (Phantom)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **Assassin-for-hire / Spirit courier / Echo hunter**
+* **Organization:** **Order of the Gray Veil**
+* **Symbol:** a fading dagger wrapped in mist
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Chinese–Western** — high cheekbones, sharp jawline, eyes dark as smoke and just as unreadable.
+
+**Eyes:** steel gray, faint ghostly wisps around iris in dim light.
+**Skin:** pale olive, scar line on right cheek.
+
+**Hair (Male-set Randomizer):** 🎲 **Medium length**, wavy texture, loosely tied back.
+**Color:** **ash-black with faint silver streaks near the tips.**
+
+**Height:** **182 cm**
+**Weight:** **76 kg**
+**Body Build:** **lean muscular**, wiry but strong, built for agility not bulk.
+
+**Accessories:** no jewelry except a gray cloth charm on his wrist; wears a half-face scarf that covers his mouth during missions.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Rule:** (Male → non-exposure)
+
+A **dark charcoal combat coat**, knee-length, with **smoke-patterned etching** on its hem that flickers faintly when he moves.
+Underneath: **tactical leather shirt** reinforced with ghost-thread fibers, soft greaves, and fingerless gloves.
+Boots have runed soles that muffle sound completely.
+
+**Palette:** black / gray / pale silver
+**Weapons & Gear:**
+
+* *Specter’s Fang* (phantom dagger, returns after throw)
+* *Shortsword (silvered)*
+* *Ghost vial (3x)* — can turn invisible for 1 round after dealing sneak dmg
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 = **27 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 18 (+4)** **CON 14 (+2)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Stealth +6, Perception +3, Investigation +3, Acrobatics +6, Insight +3
+* **Languages:** Common, Infernal
+
+**Rogue (Phantom) 3**
+
+* **Sneak Attack (2d6)**
+* **Whispers of the Dead:** gain random skill proficiency after resting.
+* **Wails from the Grave:** deal extra necrotic dmg 1d6 to another creature (PB/day).
+* **Tokens of the Departed:** capture soul fragments (3 max) to empower Sneak Attacks.
+
+**Attacks**
+
+* **Specter’s Fang:** +6 to hit, 1d4+4 piercing + 2d6 sneak + 1d6 necrotic (Wails trigger).
+* **Shortsword:** +6 to hit, 1d6+4 slashing.
+
+---
+
+## 🎯 Combat Tactics (Stealth Striker / Spirit Manipulator)
+
+* **Role:** **single-target eliminator / ghost-field manipulator**
+* **Opener:** from stealth — *Sneak Attack + Wails from the Grave* on nearby target.
+* **Flow:** use *Cunning Action* to vanish behind cover, re-engage next turn.
+* **Finisher:** throw *Specter’s Fang* into dying foe → retrieve with whisper, storing fragment.
+
+**Damage Flavor:** faint echoing scream trails his blade swing like wind through bone chimes.
+
+---
+
+## 💬 Personality
+
+* **Traits:** quiet, calculating, surprisingly gentle off-duty.
+* **Ideal:** Balance — “Every soul deserves to be remembered, even the ones I silence.”
+* **Bond:** bound to spirits he’s slain; they whisper advice in his dreams.
+* **Flaw:** haunted by names he can’t forget.
+* **Quirk:** always leaves a white flower where a target falls.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov Frontier — The Hollow Valleys**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **ambush escort**, **haunting exorcism**, **shadow retrieval**
+
+---
+
+## 📜 Background & Lifestyle
+
+A former undertaker turned assassin after hearing the dead whisper their killers’ names.
+He believes he’s not murdering—but balancing the scales.
+
+* **Lifestyle:** solitary, lives above a mausoleum he tends himself.
+* **Income:** paid in relics and oaths, rarely in coin.
+* **Relationships:** occasional silent companion to Neriel (#286); rumored to have once spared a Severance priest.
+
+---
+
+## 🧩 Morals & Ethics
+
+Strict sense of karmic balance. Refuses contracts on innocents or the desperate. Sees assassination as release.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** spirits turning on him.
+* **Weaknesses:** emotionless façade makes trust difficult.
+* **Strengths:** near-perfect stealth, precision strikes, anti-ghost expertise.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — สุภาพแต่มีพลังในความเงียบ:**
+
+> “If I move close enough to whisper, it’s already too late.”
+
+มีนิสัยเผลอยกมือจัดผมให้คนอื่นเวลาพูดด้วย — เป็น gesture อ่อนโยนที่ขัดกับความเย็นของเขา.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his “Specter’s Fang” contains the trapped soul of his twin brother.
+* **Hooks:**
+
+  1. **Echo Debt:** one spirit refuses to leave and starts killing in his name.
+  2. **The Gray Ledger:** the Order’s client list is stolen—his is the first name on it.
+  3. **Severed Oath:** the souls he carries begin whispering *different truths* about his missions.
+
+---
+
+## Tags: #Male #Human #Rogue3 #Phantom #CR1 #Stealth #Assassin #Spirit
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kael **ไม่พยายามทำให้คนเขิน แต่กลับทำได้โดยไม่รู้ตัว**
+
+> “You’re trembling. If you’re scared of dying, stay behind me… I’ll handle it.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** dagger, shortsword
+  * **Armor:** leather
+  * **Tools:** thieves’ tools
+  * **Consumables:** ghost vials ×3
+  * **Misc:** white lilies bundle
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Shadow Touched / Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov Frontier — Hollow Valleys**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **assassination contract**, **spirit rescue**, **undead infiltration**
+* **Affiliation:** **Order of the Gray Veil**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Chinese western male human rogue phantom 182cm ash-black medium hair silver streaks gray eyes lean muscular long coat mist motif dagger assassin silent

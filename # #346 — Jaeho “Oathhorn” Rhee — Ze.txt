@@ -1,0 +1,192 @@
+# #346 — **Jaeho “Oathhorn” Rhee** — *Zeal of the Narrow Shrine-Bridge*
+
+> “One vow. One step. The line holds.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 346
+* **Gender:** **Male (Type: เคะ)** — สุภาพ นุ่มนวล แต่เข้มแข็งเมื่อยืนแนว
+* **Age:** 24
+* **Race:** **Half-Beast (mammal — bull lineage)** — ใกล้มนุษย์ ~88%; เขาสั้นคู่โค้งต่ำแนบศีรษะ, กล้ามคอแน่น, นัยน์ตาน้ำตาลเข้มสว่างแบบวัว
+* **Class & Level:** **Barbarian (Path of the Zealot) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **frontline vow-guard / shrine-bridge protector / riot splitter**
+* **Organization:** **Valeronnes Shrine Guard — Oath Stairs Detail**
+* **Symbol:** เขาคู่เล็กตัดกับรางแก้วและวงแสงจางหนึ่งวง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Greek clean grace** — gentle eyes, composed lips, the steadiness of a young guardian.
+
+**Eyes:** warm chestnut; when rage stirs, a faint golden ring ignites.
+**Skin:** fair-olive with a quiet sun-warm glow on cheeks and collarbones.
+
+**Hair (Male Randomizer):** **Short**, **tapered sides with soft side-part fringe**; a neat, rain-combed look under a hood.
+**Color:** **raven black with subtle bronze lowlights** near the temples.
+
+**Height:** **178 cm**
+**Weight:** **74 kg**
+**Body Build:** **lean-athletic**, dense neck/shoulders, steady stance.
+
+**Accessories (male glasses 30% → success):** **thin round spectacles** (anti-glare ward on inner rim). Wears a **bronze oath-charm** at the throat, **rope-wrapped wristlets**, and a **rail shrine token**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional shrine-guard kit**
+
+A **charcoal leather brigandine** over a **moon-gray padded shirt**, **reinforced bracers**, and **split guard-trousers** for long steps on slick glass. **Soft-sole boots** grip wet rails. A **short rain-cloak** pins flat; a **simple sash** bears tiny bronze prayer tags that jingle softly when he moves.
+
+**Palette:** charcoal / moon gray / bronze accents / muted gold glow
+
+**Weapons & Gear:**
+
+* **Greatsword “Vow-Line”** (broad fuller; small bronze inlays)
+* **Handaxe ×2** (throw/cut line)
+* **Hook-rope 30 ft**, **manacles**, **echo-salt**, **smoke bead ×1**, **silk rope 50 ft**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +2)×3 = **31 HP**
+* **AC:** **15** (Unarmored Defense: 10 + **DEX 14 (+2)** + **CON 14 (+2)** → 14; ขึ้นกับอุปกรณ์สวมใส่—ใช้เสื้อบุนวมเป็นชั้นนอก ไม่นับเกราะ → **15** พร้อมสายรัดและแผ่นรองคอ)
+* **Speed:** **40 ft**
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +4
+* **Skills:** Athletics +6, Religion +2, Perception +3, Insight +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Zealot**
+
+* **Rage (2/long rest):** +2 damage; resistance to **bludgeoning/piercing/slashing**
+* **Reckless Attack**, **Danger Sense**, **Unarmored Defense**
+* **Divine Fury:** ขณะ **Rage**, การโจมตีด้วยอาวุธ **ครั้งแรกในแต่ละเทิร์น** เพิ่มดาเมจ **1d6 + 3** (**necrotic** หรือ **radiant** — Jaeho ใช้ **radiant**)
+* **Warrior of the Gods:** การชุบชีวิต Jaeho **ไม่ต้องใช้อุปกรณ์มีค่าใช้จ่าย** (RAW)
+
+**Attacks**
+
+* **Greatsword (2h):** +6 to hit, **2d6+4** slashing (**+2** ระหว่าง Rage) + **Divine Fury 1d6+3 radiant** (ครั้งแรก/เทิร์น)
+* **Handaxe (20/60):** +6 to hit, **1d6+4** slashing (**+2** Rage)
+
+---
+
+## 🎯 Combat Tactics (Shrine-Line Breaker / Radiant Anchor)
+
+* **Role:** **frontline striker / morale anchor**
+* **Opener:** **Rage** ที่ขั้นบันไดศาล—เข้าใส่ด้วย **greatsword** และปล่อย **Divine Fury** ครั้งแรกให้ฝ่ายตรงข้ามหยุดคิด
+* **Flow:** ยืนค้ำเลนแคบ; ใช้ **Reckless** เฉพาะตอนต้องดึงไฟหรือปิดจังหวะ; ขว้าง **handaxe** ตัดหนี
+* **Finisher:** ก้าวครึ่งข้างใน—ตวัดคมลงราง เสียงแท็กบรอนซ์สวดเบา ๆ ก่อนเงียบสนิท
+
+**Damage Flavor:** ทุกครั้งที่ Divine Fury ทำงาน เกิดวงแสงทองเล็ก ๆ บนพื้นราง เหมือนตราแห่งคำปฏิญาณ
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ ยิ้มอุ่น ๆ ใจแข็งเมื่อปกป้องคนหลัง
+* **Ideal:** Vow — “คำสัญญาต้องยืนก่อนคมดาบ”
+* **Bond:** พกแผ่นป้ายคำอธิษฐานจากชาวบ้านที่เคยช่วยไว้; อ่านชื่อก่อนออกเวร
+* **Flaw:** ไม่ค่อยถอยเมื่อสาบานไว้แล้ว—เสี่ยงแบกมากเกิน
+* **Quirk:** ดันแว่นหนึ่งครั้งก่อนวิ่งบันได—เป็นสัญญาณส่วนตัวว่า “เริ่มพิธี”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — shrine-bridges, hush corridors, lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **shrine-bridge stand**, **riot split with vow-call**, **VIP escort under rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+เด็กเวรยามศาลริมรางที่เติบโตมากับเสียงสวด เขาเคยยืนรับมีดแทนเด็กคนหนึ่ง แล้วลุกขึ้นโดยยังยิ้ม—คืนนั้นไฟในอกกลายเป็น **Divine Fury** ที่ไม่ร้อนแต่ “มั่นคง” นับแต่นั้นผู้คนเรียกเขาว่า *Oathhorn* เพราะเขาไม่ละคำมั่นแม้พื้นลื่น
+
+* **Lifestyle:** ห้องเล็กติดศาล มีชั้นแผ่นคำสาบานและเชือกสวด
+* **Income:** เงินเดือน Shrine Guard, โบนัสคุ้มกัน, ของถวายเล็ก ๆ จากชาวบ้าน
+
+---
+
+## 🧩 Morals & Ethics
+
+“ปกป้องก่อนพิพากษา” — เขาจะกันทางให้คนผ่าน แม้ต้องโดนฟันแทน
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่ป้ายคำสาบาน **ไม่ไหวเอน** ต่อสายลม—สัญญาณ Echo ตัดคำ
+* **Weaknesses:** ระยะไกลน้อย; ถ้าถูก kite ต้องบีบเข้าเลน
+* **Strengths:** **burst radiant** จาก **Divine Fury**, **สปีด 40** ไล่ประกบ, **ยืนค้ำเลน** ดีมาก
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ — สุภาพ ดูแลใกล้ ๆ ทำให้รู้สึกปลอดภัย:**
+
+> “จับชายคลุมผมไว้ก็ได้… ผมยืนให้เอง.”
+
+ตอนซ้อม เขาจะจับข้อมือจัดมุมดาบแล้วกระซิบ “หายใจ—แล้วให้คำสาบานพาแขนไป”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** แท็กบรอนซ์บนสายคาด **อุ่นขึ้น** เมื่อใครบางคน “ผิดสาบาน” ใกล้ ๆ
+* **Hooks:**
+
+  1. **Vow That Breaks:** ผู้มีอำนาจละเมิดคำมั่นบนสะพาน—Divine Fury ของเขา “ดับวูบ” จนต้องสืบว่าใครทำให้คำสาบานอ่อนแรง
+  2. **Oath Stair Silent:** บันไดศาลหนึ่ง “เงียบ” จนบทสวดไม่เดิน—ต้องยืนค้ำจนเสียงกลับมา
+  3. **Horn Debt:** แก๊งใช้เครื่องรางงัดคำสาบานของชาวบ้าน—เขาต้องเลือกช่วยใครก่อน
+
+---
+
+## Tags: #Male #HalfBeast #Bull #Barbarian3 #Zealot #Frontline #Radiant #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Jaeho **ยกไหล่ให้เป็นเงาบังฝน แล้วยื่นมืออย่างมั่นคง**
+
+> “มากับผม—คำสัญญาของเราจะพาคุณข้าม.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** greatsword, 2× handaxes
+  * **Armor:** Unarmored Defense (brigandine as outerwear)
+  * **Tools:** hook-rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** oath-charm, prayer tags, shrine token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Great Weapon Master / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Shrine-bridges & lock stairs (Valeronnes)**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **vow stand**, **riot split**, **VIP escort under rain**
+* **Affiliation:** **Shrine Guard — Oath Stairs Detail**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Greek male half-beast bull barbarian zealot 178cm short side-part raven hair bronze lowlights lean athletic charcoal brigandine round glasses greatsword prayer tags low exposure rain shrine-bridge night golden radiant aura fantasy

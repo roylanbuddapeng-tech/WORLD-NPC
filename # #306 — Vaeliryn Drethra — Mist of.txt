@@ -1,0 +1,202 @@
+# #306 — **Vaeliryn Drethra** — *Mist of the Forgotten Kiss*
+
+> “The sweetest lie is the one you want to remember.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 306
+* **Gender:** **Femboy (Male)** — พูดจาอ่อนโยน รอยยิ้มละมุน มีความเย้ายวนโดยธรรมชาติ แต่ออกจะซุกซน
+* **Age:** 22
+* **Race:** **Elf (Dark Elf Lineage)** — slender, 90% humanlike; faint violet undertones under pale skin, long pointed ears tipped silver
+* **Class & Level:** **Wizard (School of Enchantment)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** **courtesan illusionist / psychological manipulator / emotional alchemist**
+* **Organization:** **The Velvet Loom** — Thalassaran guild of emotion weavers
+* **Symbol:** an open eye within a kiss-mark sigil
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean effeminate beauty idol** — flawless jawline, full pink lips, eyelashes long enough to cast shadow on cheek.
+
+**Eyes:** soft lavender, slightly luminescent under dim light.
+**Skin:** snow-fair with lilac hue across shoulders.
+
+**Hair (Feminine Hair Rule for Femboy):** 🎲 **Ponytail (highest frequency)**
+**Style:** long ponytail tied with silver ribbons; loose bangs curtain one eye.
+**Color:** **pale lilac fading into pearl-white tips.**
+
+**Height:** **158 cm (rule cap)**
+**Weight:** **49 kg**
+**Body Type:** **slender feminine**, small waist, narrow shoulders, soft curves (no muscle tone visible).
+
+**Sub-Theme Roll:** 🎲 **Aristocrat (35%) → success**
+**Glasses Rule:** 🎲 **fail** (no glasses).
+
+**Jewelry & Accessories:** thin velvet choker with a sapphire charm, dangling silver earrings, toe ring hidden under sheer stockings, perfumed anklet.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Very High (artistic sensual fantasy)**
+
+Vaeliryn wears a **sheer enchanted bodysuit of moon-silk**, clinging to his slight frame, translucent at his sides but covered in swirling illusion sigils that shimmer when viewed head-on.
+Over it, a **half-cape of violet velvet** cut diagonally, leaving one shoulder and collarbone completely bare.
+He wears **high boots with faint shimmer runes** that hum when he moves, and a **thin belt** hung with crystal vials glowing faintly pink.
+
+**Palette:** lilac / pearl white / black velvet / sapphire blue highlights
+**Weapons & Gear:**
+
+* *Charm Focus*: crystal wand tipped with heart-shaped gem
+* *Spellbook*: compact, silver-locked
+* *Perfume bombs*: (flavor — small enchanted scent clouds that charm)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +0)×3 → **10 HP**
+* **AC:** **14** (Mage Armor)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 10 (+0)** **INT 16 (+3)** **WIS 12 (+1)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Deception +6, Persuasion +6, Insight +3, Arcana +5, Performance +6, Stealth +4
+* **Languages:** Common, Elvish, Undercommon, Thalassaran Cant
+
+**Wizard (School of Enchantment) 3**
+
+* **Enchanter’s Touch:** charm immunity bypass once/day.
+* **Hypnotic Gaze:** action to charm/freeze within 5 ft (WIS save DC 15).
+* **Instinctive Charm:** reaction redirect attack (WIS save DC 15).
+* **Spellcasting (INT DC 13 / CHA-flavored for flavor text)**
+
+  * **Cantrips:** *Prestidigitation, Minor Illusion, Mage Hand, Message*
+  * **Spells Known (6):** *Charm Person, Sleep, Disguise Self, Mirror Image, Suggestion, Calm Emotions*
+  * **Slots:** 4/2 (1st/2nd-level)
+
+**Attacks (rarely used)**
+
+* **Dagger (flavor):** +4 to hit, 1d4+2 piercing.
+
+---
+
+## 🎯 Combat Tactics (Enchanter / Illusion Seducer)
+
+* **Role:** **controller / crowd manipulator / battlefield distraction**
+* **Opener:** *Charm Person* or *Hypnotic Gaze* to remove first attacker.
+* **Flow:** uses *Mirror Image* and *Calm Emotions* to disarm tension.
+* **Finisher:** *Suggestion* whispered like a promise — “You don’t want to hurt me, darling… you want to stay.”
+
+**Damage Flavor:** magic appears as lilac petals dissolving into scented mist.
+
+---
+
+## 💬 Personality
+
+* **Traits:** teasing, kind but manipulative; switches from sultry to sincere mid-sentence.
+* **Ideal:** Emotion — “Feeling is the only proof of life.”
+* **Bond:** bound to the Velvet Loom, a guild weaving emotions into spells.
+* **Flaw:** easily addicted to affection—needs admiration like breath.
+* **Quirk:** whispers people’s names as spells; each tone slightly different.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moonlight Courts, Velvet Loom halls**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **pleasure ritual**, **mind duel**, **dream illusion seduction**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born among Drow exiles who sought redemption through art; Vaeliryn’s empathy made him dangerous. He joined the Loom to master the art of desire’s balance—making others feel too much before realizing it.
+
+* **Lifestyle:** luxury suite filled with incense and satin.
+* **Income:** noble entertainment, charm consultations, enchantment commission.
+* **Relationships:** linked emotionally to Aurelia (#302); rivals in seduction.
+
+---
+
+## 🧩 Morals & Ethics
+
+He doesn’t see manipulation as wrong—only poor craft if it leaves scars. “A perfect charm heals what it touches.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** true rejection; losing control mid-charm.
+* **Weaknesses:** physically fragile; emotional dependency.
+* **Strengths:** enchantment focus, battlefield pacification, crowd control.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy Rule:** พูดกำกวม นุ่มนวล แต่ยั่วแบบตั้งใจให้คนหน้าแดง
+
+> “You’re trembling again… don’t worry, I like it when they do.”
+
+เขามักเดินเข้ามาใกล้เกินระยะส่วนตัว แล้วแกล้งลากปลายนิ้วบนคางเบา ๆ
+เสียงกระซิบเหมือนลมหอม — “Careful… your heart’s getting louder than your words.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his emotional aura feeds the Loom’s magical web—every charm he casts strengthens a hive-mind of enchantresses.
+* **Hooks:**
+
+  1. **Velvet Collapse:** his aura begins corrupting—turning affection into obsession.
+  2. **Broken Suggestion:** he accidentally enthralls a noble heir who won’t wake from love.
+  3. **Echo of Desire:** an Echo manifests as his perfect admirer—deadly and devoted.
+
+---
+
+## Tags: #Femboy #Elf #Wizard3 #Enchantment #Seductive #Illusion #CR1 #VelvetLoom #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Vaeliryn **ชอบแกล้งให้เขินโดยเข้าใกล้ช้า ๆ แล้วพูดข้างหูเบา ๆ ว่า**
+
+> “Don’t flinch… I only enchant what wants to be enchanted.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** dagger
+  * **Armor:** enchanted bodysuit (Mage Armor)
+  * **Tools:** spellbook, perfume vials
+  * **Consumables:** “scent bombs” ×2
+  * **Misc:** charm focus, silver locket (unknown aura)
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Actor / Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Velvet Loom**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **dream duel**, **emotional manipulation**, **seductive infiltration**
+* **Affiliation:** **Velvet Loom**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean femboy elf wizard enchantment 158cm long lilac ponytail lavender eyes very high exposure sheer bodysuit velvet cape seductive magical fantasy

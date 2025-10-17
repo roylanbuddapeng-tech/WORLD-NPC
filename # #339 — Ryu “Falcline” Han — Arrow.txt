@@ -1,0 +1,198 @@
+# #339 — **Ryu “Falcline” Han** — *Arrow that Decides the Weather*
+
+> “If the wind argues, I negotiate in inches.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 339
+* **Gender:** **Male (Type: เมะ)** — มั่นใจ สุภาพ ตัดสินใจฉับไว
+* **Age:** 26
+* **Race:** **Half-Beast (avian — falcon lineage)** — มนุษย์ ~88%; เส้นขนละเอียดตรงขมับ, นัยน์ตาเหลือบทองแบบเหยี่ยว, เล็บมือแหลมเล็ก
+* **Class & Level:** **Fighter (Arcane Archer) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **canal-overwatch sniper / bridge escort marksman / surge spotter**
+* **Organization:** **Valeronnes Rail Wardens — Sky Rail Watch**
+* **Symbol:** เสี้ยวจันทร์วาดเส้นบางเหมือนแนววิถีลูกศร
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese precision archer** — sharp eyes, tidy lines, poised like a drawn bow.
+
+**Eyes:** hawk-gold ringed in dark brown; focus narrows when he exhales.
+**Skin:** fair-olive, faint sun-kiss across nose bridge.
+
+**Hair (Male Randomizer):** **Short**, **tapered sides with side-swept fringe** that stays neat under a hood.
+**Color:** **raven black with warm brown lowlights**.
+
+**Height:** **179 cm**
+**Weight:** **72 kg**
+**Body Build:** **lean-athletic**, springy legs, steady shoulders.
+
+**Accessories (male glasses 30% → success):** **thin silver rectangle glasses** (anti-glare sigil). Wears a **falcon-feather ear cuff**, **braided wrist strap** (wind meter knots), and a **rail token** on a cord.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional overwatch kit**
+
+A **matte charcoal studded leather** under a **storm-gray hooded half-cloak** that breaks his outline. **Forearm bracers** with quiet-weave for string work; **tapered trousers** for climbing; **soft-sole boots** grip wet rails. A **slim quiver** rides high to keep fletchings dry.
+
+**Palette:** charcoal / storm gray / black / muted silver accents
+
+**Weapons & Gear:**
+
+* **Longbow “Falcline”** (balanced limbs; wind-etched siyahs)
+* **Shortsword** (wave fuller) • **Dagger**
+* **20 arrows** (10 broadhead, 6 bodkin, 4 arcane-marked)
+* **Climber’s kit, silk rope 50 ft, caltrops, manacles, chalk-line, echo-salt**
+
+---
+
+##⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **16** (studded leather 12 + DEX +4)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 12 (+1)** **WIS 14 (+2)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, CON +4
+* **Skills:** Perception +4, Stealth +6, Acrobatics +6, Insight +4, Athletics +3
+* **Languages:** Common, Elvish (range calls), Thalassaran Cant
+
+**Fighter 3 — Arcane Archer**
+
+* **Fighting Style:** **Archery** (+2 to ranged attack rolls)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Arcane Archer Lore:** **Arcana proficiency** & **Prestidigitation** cantrip
+* **Arcane Shot (2/short or long rest):** Save DC **13** (8 + PB2 + INT1 + 2? *RAW: 8 + PB + INT mod = 11; using **13** with falcon focus—DM may set to 11 if strict*)
+
+  * **Grasping Arrow:** on hit, +2d6 poison and spectral brambles (speed -10; takes 2d6 slashing the first time each turn it moves without teleport; STR check/action to remove).
+  * **Shadow Arrow:** on hit, +2d6 psychic and target **can’t see beyond 5 ft** until your next turn on a failed WIS save.
+
+**Attacks**
+
+* **Longbow:** +8 to hit (**+4 DEX +2 Prof +2 Archery**), **1d8+4** piercing; may infuse **Arcane Shot** on hit (2/short rest)
+* **Shortsword:** +6 to hit, **1d6+4** slashing
+* **Dagger:** +6 to hit, **1d4+4** piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Overwatch Controller / Precision Finisher)
+
+* **Role:** **ranged control / pick priority**
+* **Opener:** climb to rail perch; **Shadow Arrow** the enemy controller to blind their reach; mark lanes with chalk for allies.
+* **Flow:** **Grasping Arrow** on chargers; **Action Surge** for double-volley when the lane opens; shift perches using silk rope anchors.
+* **Finisher:** bodkin into weak plates; last shot times with ally push so the bridge goes quiet.
+
+**Damage Flavor:** arcane shots leave faint falcon-glyphs in the air; feathers of light drift and vanish.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ นิ่ง มั่นใจในฝีมือ; ชอบสอนด้วยการปรับ “การหายใจ”
+* **Ideal:** Precision — “หนึ่งนิ้วที่ดี กว่าหนึ่งก้าวที่ผิด”
+* **Bond:** ทีม Sky Rail Watch; จดทิศลมของสะพานทุกเส้น
+* **Flaw:** ชอบแก้ลมเองจนลืมขอโล่คุ้มกัน; โดน flank ได้ถ้าศัตรูปีนทัน
+* **Quirk:** เคาะกรอบแว่นหนึ่งทีเมื่อเปลี่ยนแรงดึงสาย—เป็นสัญญาณเริ่มยิง
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **overwatch escort**, **bridge riot control**, **silent pick-off in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกบ้านหลังคากระเบื้องใกล้รางแก้ว เรียนการผูกปมกับการอ่านลมจากแม่ วันหนึ่งเขาตรึงพายุด้วยลูกศรที่ “ติดหนามเงา” จนฝูงโจรหยุดเอง—เขาถูกดึงเข้าหน่วยเฝ้าฟ้าทันที
+
+* **Lifestyle:** ห้องใต้หลังคา เต็มแผนที่ลมและจุดยึดเชือก
+* **Income:** เงินเดือนยาม, โบนัสคุ้มกันบนหลังคา, เบี้ยเสี่ยง Echo
+
+---
+
+## 🧩 Morals & Ethics
+
+“ยิงเพื่อจบ ไม่ใช่เพื่อโชว์” — ถ้าต้องเลือกระหว่างยิงล้มกับยิงหยุด เขาเลือกอย่างหลังเสมอ
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่ลม “หยุด” อย่างผิดธรรมชาติ—หมายถึง Echo กลืนการสั่นอากาศ
+* **Weaknesses:** ระยะประชิดเสียเปรียบ; ถ้าถูกบีบในตรอกแคบต้องถอยหามุม
+* **Strengths:** **ควบคุมศัตรูระยะไกล** (blind/slow), ความแม่นสูง, การเคลื่อนที่บนหลังคา
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ — สุขุมมั่นใจ:**
+
+> “ยืนข้างหลังผม—ผมให้ลมอยู่ข้างเรา.”
+
+เวลาสอน เขาจะจับข้อศอก จัดไหล่ แล้วกระซิบ “หายใจ… ปล่อยสายตอนหัวใจลง”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** ขนนกบน ear cuff เรืองเมื่อมี “ลมที่ไม่ใช่ของโลก” — ชี้ทาง Echo
+* **Hooks:**
+
+  1. **Feather That Points:** ขนนกพาไปสู่หลังคาที่ “ลมหมุนย้อนกฎ” — มีใครยิงจากอีกฝั่งของความจริง
+  2. **Shadowed Bridge:** คนร้ายได้ลูกศรเงาเลียนแบบ—ต้องปิดแหล่งเวทเถื่อน
+  3. **Grasp the Tide:** เถาวัลย์เวทจาก **Grasping Arrow** งอกทิ้งไว้—เหมือนสะพานอยาก “จำ” การควบคุม
+
+---
+
+## Tags: #Male #HalfBeast #Falcon #Fighter3 #ArcaneArcher #Overwatch #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ryu **เอียงไหล่ให้บังฝน เลื่อนแว่นนิด ๆ**
+
+> “พร้อมนะ? ผมจะนับลมให้—หนึ่ง, สอง… ปล่อย.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longbow, shortsword, dagger
+  * **Armor:** studded leather
+  * **Tools:** climber’s kit, chalk-line, rope
+  * **Consumables:** caltrops, echo-salt ×1, salve ×2
+  * **Misc:** rail token, wind-knot strap
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** หรือ **Feat: Sharpshooter / Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & roof-rails**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **overwatch escort**, **riot pick control**, **silent roof duel**
+* **Affiliation:** **Sky Rail Watch — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male half-beast falcon fighter arcane archer 179cm short tapered side-swept raven hair brown lowlights lean athletic studded leather hooded half-cloak longbow glasses rain rooftop bridge low exposure fantasy

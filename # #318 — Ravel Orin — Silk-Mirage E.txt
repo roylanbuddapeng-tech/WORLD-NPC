@@ -1,0 +1,202 @@
+# #318 — **Ravel Orin** — *Silk-Mirage Enchanter of the Whisper Veil*
+
+> “Sometimes, a secret only blooms when you whisper it too close.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 318
+* **Gender:** **Male (Type: Femboy — Subtype: Innocent Tease)**
+* **Age:** 20
+* **Race:** **Human (Thalassaran-born)** — soft-featured, faint teal resonance in pupils typical of canal-born.
+* **Class & Level:** **Bard (College of Whispers)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** **traveling storyteller / mind courier / shadow-ball performer**
+* **Organization:** **Thalassara Echo Troupe — House of Veiled Lullabies**
+* **Symbol:** a half-mask carved with closed lips, set within a spiral of whisper runes.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–Korean mix** — soft jawline, delicate smile, gentle amber eyes. Every motion looks rehearsed, as if part of a dance.
+
+**Eyes:** amber-teal, faint shimmer when he speaks.
+**Skin:** warm ivory with moonlit undertone.
+
+**Hair (Feminine Hair Randomizer for Femboy):** 🎲 **Twin Bun (weighted higher than twin tail)**
+**Style:** **high twin buns tied with thin teal ribbons**, leaving a long curtain fringe on each side.
+**Color:** **honey blond fading to sea-green tips.**
+
+**Height:** **157 cm**
+**Weight:** **47 kg**
+**Body Build:** **slender, soft curves**, expressive hands, natural grace in posture.
+
+**Jewelry & Accessories:** dangling rune earrings (sound suppression sigils), silver choker etched with lullaby glyphs, wrist bells that tinkle faintly when he gestures.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Very High (aesthetic, dreamlike stage couture)**
+
+A **short halter top of translucent teal silk**, open at the sides and tied with small cords across his ribs.
+Flowing **semi-transparent trousers** with shimmering scales embroidered along the hem, shifting color under candlelight.
+A **half-cape** drapes from one shoulder, fastened by a pearl clasp shaped like a whispering face.
+
+**Palette:** sea-green / silver / moon-teal / soft ivory
+
+**Weapons & Gear:**
+
+* **Rapier “Echoedge”** (ornate, +1; hums faintly with psychic tone)
+* **Lute (silver strings)** used as focus and performance tool
+* **Perfumed ink bottle** (used to write secret messages visible only under moonlight)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **19 HP**
+* **AC:** **14** (light silks + DEX)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 16 (+3)** **CON 12 (+1)** **INT 12 (+1)** **WIS 13 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, CHA +5
+* **Skills:** Deception +5, Performance +7, Persuasion +5, Insight +3, Stealth +5
+* **Languages:** Common, Elvish, Thalassaran Cant, Deep Speech (whisper-taught)
+
+**Bard (College of Whispers) 3**
+
+* **Psychic Blades:** expend Bardic Inspiration to deal +2d6 psychic damage.
+* **Words of Terror:** after 1 minute conversation, instill fear (WIS save DC 13).
+* **Bardic Inspiration (d6)** — bonus action to inspire or manipulate.
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Cantrips:* Vicious Mockery, Minor Illusion
+  * *1st level:* Charm Person, Dissonant Whispers, Healing Word
+  * *2nd level:* Calm Emotions, Suggestion
+
+**Attacks**
+
+* **Rapier +1:** +6 to hit, 1d8+4 piercing (+2d6 psychic once/turn).
+* **Vicious Mockery:** range 60 ft, WIS save 13 or 1d4 psychic + disadvantage next attack.
+
+---
+
+## 🎯 Combat Tactics (Psychic Support / Charm Manipulator)
+
+* **Role:** **illusion support / debuff manipulator**
+* **Opener:** Charm Person → position → Dissonant Whispers to drive separation.
+* **Flow:** uses *Suggestion* mid-battle to cause confusion.
+* **Finisher:** whispers a secret that freezes an enemy in regret, then lunges with **Echoedge**.
+
+**Damage Flavor:** when he speaks, his words shimmer visibly, like threads of sound wrapping around the mind.
+
+---
+
+## 💬 Personality
+
+* **Traits:** naïve curiosity, playful but unaware of how provocative he sounds.
+* **Ideal:** Truth through beauty — “People only reveal truth when their hearts skip.”
+* **Bond:** loves his troupe dearly; believes every emotion has a song.
+* **Flaw:** too trusting, forgets that words can hurt.
+* **Quirk:** hums lullabies even during battle, unaware that they sound seductive.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Echo Amphitheater, Moonlit Pavilion**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **stage performance infiltration**, **ambush under melody**, **mind duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Ravel grew up backstage, raised by performers who whispered spells instead of singing. His naive charm masks the fact that he can peel secrets from your tone.
+
+* **Lifestyle:** lives in troupe dormitories filled with silk and mirrors.
+* **Income:** song commissions, coded performances, private mind-message gigs.
+
+---
+
+## 🧩 Morals & Ethics
+
+He sees manipulation as art — every lie a lyric, every truth a confession in disguise.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being silenced — literally losing his voice.
+* **Weaknesses:** emotionally soft; easily manipulated by affection.
+* **Strengths:** charm magic, crowd control, battlefield deception.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Subtype: Innocent Tease**
+พูดจาอ่อนโยนแต่แฝงความน่ารักยั่วใจโดยไม่รู้ตัว เช่น—
+
+> “Your heartbeat’s louder than my song… am I singing wrong?”
+> หรือ
+> “My lips are trembling again… can you hold them still?”
+
+เขามักจะพูดขณะมองตาใกล้ ๆ โดยไม่รู้ตัวว่าทำให้คนตรงหน้าใจเต้นแรง
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Ravel’s lullaby contains a Severance frequency — it can calm or corrupt Echo zones.
+* **Hooks:**
+
+  1. **Song of Silence:** his performance accidentally stills an entire square — no sound remains.
+  2. **Whisper Contract:** nobles fight to own his voice via magical contract.
+  3. **The Tear in the Tune:** his lullaby might open a gate instead of closing one.
+
+---
+
+## Tags: #Male #Femboy #Human #Bard3 #WhispersCollege #Illusion #Charm #Thalassara #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ravel laughs softly and leans close.
+
+> “Ah, you’re turning red again… is my voice too close?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** Echoedge rapier
+  * **Armor:** light silks
+  * **Tools:** lute, disguise kit, perfume ink
+  * **Consumables:** scent oil x2
+  * **Misc:** whisper choker, troupe pin
+* **Level-Up Suggestion (to 4):** +2 CHA (to 19) or **Feat: Actor**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Echo Amphitheater, Veil Market**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **stage duel**, **echo chase**, **whisper infiltration**
+* **Affiliation:** **Echo Troupe — House of Veiled Lullabies**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese Korean femboy male human bard whispers college 157cm twin buns blond green hair amber eyes very high exposure halter top silk trousers whisper magic innocent tease stage fantasy

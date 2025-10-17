@@ -1,0 +1,199 @@
+# #282 — **Aevius Lysandar** — *Whisper-Gilt Nightingale*
+
+> “Truth tastes sweeter when whispered against skin.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 282
+* **Gender:** **Male (Type: เฟมบอย)** — ท่าทีอ้อนแอ้น นุ่มนวล แววตาขี้เล่น เจตนาชัดว่าชอบยั่วให้คนเสียสมาธิ
+* **Age:** 21
+* **Race:** **Half-Elf — Elf Sector** (≈90% human; slender tapered ears, faint silver ring in irises)
+* **Class & Level:** **Bard (College of Whispers)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** **infiltration chanteur / rumor-broker / soft-blackmailer**
+* **Organization:** **Thalassaran Masque Guild (whisper-cell)**
+* **Symbol:** a velvet mask pierced by a silver feather
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese idol vibe**, porcelain-smooth skin, heart-shaped face, lips with gentle gloss.
+
+**Eyes:** soft silver with lilac halo; lashes naturally long.
+**Skin:** pale, cool undertone; blush rises easily when he teases.
+
+**Hair (Female-set Randomizer for Femboy):** 🎲 **Straight (top frequency)**
+**Style:** glass-straight bob with feathered bangs, tucked behind one ear; ends flip slightly when he laughs.
+**Color:** **ink-black with moon-silver gradient tips.**
+
+**Height:** **158 cm** (Femboy rule ≤160 cm)
+**Weight:** 49 kg
+**Body Build:** **slender, androgynous elegance**; graceful wrists, dancer’s calves.
+
+**Jewelry & Accessories:** thin choker with teardrop gem, chain earring on the left, silver anklet with tiny bell; perfume vial charm at the waist.
+**Glasses:** none.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High — stage-provocative stealthwear**
+
+A **sheer cropped blouse** with **deep V neckline** beneath a **velvet half-jacket** that breaks shoulder silhouette.
+**High-slit satin shorts** with garter ribbons, thigh-high stockings, and soft-soled heeled boots for silent steps.
+A **micro-veil mask** folds into a ribbon at his wrist for instant disguise.
+
+**Palette:** black / silver / soft lilac
+**Accents:** pearlescent sheen, tiny bells that can be muted with a twist
+
+**Weapons & Gear:**
+
+* *Slip-dirk* (slim dagger), *wire fan* (concealed steel rib)
+* *Disguise & forgery kit*, *perfume-laced soporific* (ingest/inhaled; DM poison DC 12)
+* *Whisper token* (sending-stone pair, short range)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **19 HP**
+* **AC:** **15** (studded leather + DEX)
+* **Speed:** 30 ft; **Darkvision** 60 ft
+* **STR 8 (-1)** **DEX 16 (+3)** **CON 12 (+1)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, CHA +5
+* **Skills:** Deception +7, Performance +7, Persuasion +5, Stealth +5, Insight +3, Sleight of Hand +5
+* **Tools:** Disguise Kit, Forgery Kit, Poisoner’s Kit
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Bard (College of Whispers) 3**
+
+* **Bardic Inspiration (d6)**, **Jack of All Trades**, **Expertise** (Deception, Performance)
+* **Psychic Blades:** expend BI to add 2d6 psychic on hit
+* **Words of Terror:** terrify a creature after 1-min chat (WIS save)
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Cantrips:* *Vicious Mockery, Minor Illusion*
+  * *1st–2nd:* *Charm Person, Dissonant Whispers, Disguise Self, Silence, Suggestion*
+
+**Attacks**
+
+* **Slip-dirk:** +5 to hit, 1d4+3 piercing (+2d6 psychic with BI)
+* **Vicious Mockery:** DC 13 WIS, 2d4 psychic & disadv. next attack
+
+---
+
+## 🎯 Combat Tactics (Infiltration / Control)
+
+* **Role:** **social infiltrator / soft-control striker**
+* **Opener:** **Disguise Self** → mingle → **Words of Terror** seed panic.
+* **Flow:** **Silence** to isolate target → dirk with **Psychic Blades** → **Dissonant Whispers** to split formation.
+* **Finisher:** whispers at the ear; if they run, trip line with wire fan, then vanish.
+
+**Flavor:** his perfume sweetens, then turns cold—like night air over stone water—when he cuts.
+
+---
+
+## 💬 Personality
+
+* **Traits:** honeyed voice, playful cruelty tempered by real empathy.
+* **Ideal:** Agency — “Consent makes sin into art.”
+* **Bond:** supports a masked troupe who hides dissidents among props.
+* **Flaw:** flirts into danger; underestimates jealous lovers.
+* **Quirk:** punctuates lies with honest blushes to confuse readers.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Masque District, Moon Canal theaters**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **masquerade extraction**, **blackmail swap**, **backstage ambush**
+
+---
+
+## 📜 Background & Lifestyle
+
+Runaway choirboy who learned survival in dressing rooms and shadowed balconies.
+He sells secrets to pay musicians’ debts and keeps the cruel rich entertained—until it’s time to ruin them.
+
+* **Lifestyle:** silk sheets; sleeps by day behind sound curtains.
+* **Income:** rumor brokerage, hush gigs, selective seductions.
+* **Relationships:** friendly rivalry with Selyra (#281); rumored patronage by Seraphine (#270).
+
+---
+
+## 🧩 Morals & Ethics
+
+He won’t break the poor; he’ll bankrupt the bored wicked and make them thank him for the lesson.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing his voice; being unmasked without a plan.
+* **Weaknesses:** fragile in melee; overconfident in charm.
+* **Strengths:** social penetration, psychic burst, crowd control via fear.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**กฎมายา/เย้ายวน (บังคับ):** เขาพูดสองแง่สามง่ามตลอดเวลา — เจตนายั่วชัด
+
+> “Careful. I only bite when invited… thrice.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his perfume vial is a soul-phial; it “tastes” emotions and remembers them.
+* **Hooks:**
+
+  1. **The Third Invite:** three nobles receive identical love letters—signed by Aevius.
+  2. **Velvet Debt:** Masque Guild demands a life for a life he saved.
+  3. **The Soul Scent:** a killer uses his perfume to frame him at every scene.
+
+## Tags: #Femboy #HalfElf #Bard3 #Whispers #Stealth #Infiltration #Seductive #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Aevius **ชอบทำให้เขินด้วยการกระซิบระยะลมหายใจถึงติ่งหู แล้วหัวเราะคิกนุ่ม ๆ**
+
+> “Say yes, and I’ll tell you which lie you want to hear.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** slip-dirk, wire fan
+  * **Armor:** studded stealthwear
+  * **Tools:** disguise, forgery, poisoner’s kits
+  * **Consumables:** soporific perfume, 2 smoke petals
+  * **Misc:** whisper token pair
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 19)** or **Feat: Actor / Skulker**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Masque District**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **gala heist**, **blackmail ambush**, **backstage disappearance**
+* **Affiliation:** **Masque Guild (whisper-cell)**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Androgynous femboy half-elf idol look 158cm straight bob black-silver tips lilac eyes sheer cropped blouse velvet jacket high-slit shorts seductive stealth

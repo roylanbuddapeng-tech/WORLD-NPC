@@ -1,0 +1,209 @@
+# #273 — **Liora Vensaire** — *The Grave’s Lightkeeper*
+
+> “Even in darkness, something must tend the lantern.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 273
+* **Gender:** **Female (Type: รุ่นน้อง)** — cheerful but oddly serene; smiles easily, yet her words carry strange wisdom. She looks young, but her eyes seem older than her years.
+* **Age:** 22
+* **Race:** **Half-Beast (Mothkin)** — humanlike 85%; small soft antennae peek from her hairline, and her pupils reflect faint moonlight.
+* **Class & Level:** **Cleric (Grave Domain)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **Gravekeeper / Soul Lantern Bearer / Ritual Acolyte**
+* **Organization:** **Order of the Last Lumen**
+* **Symbol:** a lantern wrapped in white silk, burning with blue flame.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–French**, pure, ethereal softness with gentle features.
+
+**Eyes:** luminous silver-blue, faintly glowing in the dark.
+**Skin:** moon-pale with a delicate pink hue at the cheeks.
+
+**Hair (Female Hair Randomizer):** 🎲 **Twin Bun (higher weight)**
+**Style:** loose twin buns with soft wavy strands framing her face, faintly glowing tips like dusk light.
+**Color:** **lavender-white with silver sheen.**
+
+**Height:** 165 cm
+**Weight:** 54 kg
+**Body Type:** **soft hourglass, slender arms, smooth complexion, graceful motions.**
+
+**FEMALE BODY METRICS (รุ่นน้อง type — flexible cup)**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 96 – 69 – 100
+VALIDATION: • W/B = 0.718 → OK   • H/W = 1.45 → OK
+```
+
+**Sub-Theme:** 🎲 **Nerd (ritual scholar)** — obsessed with documenting funerary rites and post-death soul luminosity.
+
+**Glasses Rule (Nerd = Always):** **Yes.**
+**Glasses:** thin oval lenses with silver rims, always slightly fogged from incense smoke.
+
+**Jewelry & Accessories:** crystal rosary with moth-wing pendants, glowing chime earring, silver anklet of small bells used in rituals.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Low–Medium — modest mystic attire**
+
+Liora wears a **soft silk cleric robe** split at the sides for ease of movement, **sleeves wide and translucent**, patterned with faint lunar runes.
+A **corset belt** of pale gold cinches her waist, highlighting her delicate figure.
+Her **lantern focus** hangs from her hip, emitting soft blue light that flickers like fireflies.
+
+**Palette:** white / lavender / pale gold / blue glow
+**Accents:** moonlight shimmer, faint embroidery of moth wings
+
+**Weapons & Gear:**
+
+* *Soul Lantern* (holy focus, radiant + necrotic source)
+* *Moonprayer Mace*
+* *Book of Silent Nights*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **16** (chain shirt + shield)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 13 (+1)** **CON 12 (+1)** **INT 12 (+1)** **WIS 17 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Religion +3, Insight +5, Medicine +5, Arcana +3
+* **Languages:** Common, Celestial, Sylvan
+
+**Cleric (Grave Domain)**
+
+* **Circle of Mortality:** heals for max value on dying creatures.
+* **Eyes of the Grave:** sense undead within 60 ft.
+* **Channel Divinity: Path to the Grave:** curse foe, make next hit double dmg.
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Guidance, Toll the Dead, Spare the Dying*
+  * *1st–2nd:* *Healing Word, Bane, Gentle Repose, Spiritual Weapon, Lesser Restoration*
+
+**Attacks**
+
+* **Toll the Dead:** DC 13 WIS, 1d12 necrotic (vs damaged).
+* **Moonprayer Mace:** +3, 1d6+1 radiant.
+
+---
+
+## 🎯 Combat Tactics (Support / Necro-Healer)
+
+* **Role:** **Healer & undead suppressor / light in darkness**
+* **Opener:** *Eyes of the Grave* to sense undead → *Path to the Grave* → *Toll the Dead*.
+* **Flow:** switches between healing and debuffing undead hordes.
+* **Finisher:** *Spiritual Weapon* (lantern manifests spectral wings).
+
+**Flavor:** her blue flame never goes out; the closer she is to death, the brighter it burns.
+
+---
+
+## 💬 Personality
+
+* **Traits:** shy but determined, curious about death in a non-morbid way.
+* **Ideal:** Peace — “To remember is to keep them alive.”
+* **Bond:** guards a cemetery of children who died during the Echo Plague.
+* **Flaw:** freezes when others die near her — it reminds her of her own rebirth.
+* **Quirk:** whispers small goodbyes to insects before stepping on grass.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Gravemere — Last Lumen Chapel / Cemetery District**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **ghost cleansing**, **ritual escort**, **mourning rite**
+
+---
+
+## 📜 Background & Lifestyle
+
+Liora was once a plague orphan resurrected by a cleric’s dying spell. Since then, she sees faint lights over the dead—souls waiting to be remembered.
+
+* **Lifestyle:** simple, clean, organized; often hums when cleaning graves.
+* **Income:** donations, guiding travelers through haunted paths.
+* **Relationships:** student of Kaien (#269); admired by Seraphine (#270).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes all life and death deserve kindness; killing without remembrance is the true sin.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** total darkness; losing her light means reliving death.
+* **Weaknesses:** fragile, emotionally attached to spirits.
+* **Strengths:** potent against undead; her healing glows with necrotic inversion.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — ขี้อาย แต่พยายามพูดให้เข้มแข็งเวลาช่วยคนอื่น ชอบหน้าแดงเมื่อโดนชมเรื่องสายตาเวลาจ้องตอนร่ายเวท**
+
+> “Y-you can hold my hand if it helps. Just… don’t let go until the light fades, okay?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her soul flame is a fragment of a lost celestial spirit.
+* **Hooks:**
+
+  1. **The Dimming Flame:** her lantern’s light begins to fade without reason.
+  2. **Echo of Mercy:** spirits whisper her true name—one that isn’t human.
+  3. **The Plague Returns:** her childhood village’s graves crack open.
+
+## Tags: #Female #JuniorType #HalfBeast #Mothkin #Cleric3 #GraveDomain #Support #Necromancer #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Liora **ชอบเขินเมื่อถูกชมว่า “แสงของเธอสวย” หรือเมื่ออีกฝ่ายจับมือในพิธีทางศาสนา**
+
+> “D-don’t stare so much… I might forget which prayer comes next.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** Moonprayer Mace
+  * **Armor:** chain shirt
+  * **Tools:** Soul Lantern, Book of Silent Nights
+  * **Consumables:** blessed incense
+  * **Misc:** moth-wing charm
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 19)** or **Feat: Healer / Observant**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Gravemere — Last Lumen Chapel**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **ritual escort**, **grave defense**, **spirit appeasement**
+* **Affiliation:** **Order of the Last Lumen**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese French female half-beast mothkin cleric grave domain 165cm twin bun lavender white hair silver eyes pale skin F-cup glasses holy lantern blue flame silk robe modest gentle shy soft light fantasy

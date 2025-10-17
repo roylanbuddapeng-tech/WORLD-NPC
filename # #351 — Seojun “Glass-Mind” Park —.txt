@@ -1,0 +1,200 @@
+# #351 — **Seojun “Glass-Mind” Park** — *Psi Anchor of the Narrow Span*
+
+> “Hold the breath between raindrops. I’ll move the piece, not the board.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 351
+* **Gender:** **Male (Type: เมะ)** — มั่นใจ สุขุม คมกริบในจังหวะตัดสินใจ
+* **Age:** 27
+* **Race:** **Other — Mind-touched (Valeron Resonant Strand)** — ใกล้มนุษย์ ~88%; เส้นแสงเงินบาง ๆ วูบผ่านตาดำเมื่อใช้พลัง
+* **Class & Level:** **Fighter (Psi Warrior) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **line controller / escort duelist / object displacement specialist**
+* **Organization:** **Valeronnes Glass Court — Quiet Vector Squad**
+* **Symbol:** เส้นตรงบางหนึ่งเส้นตัดวงคลื่นจิตเล็ก ๆ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese cerebral poise** — sharp gaze, measured posture, the quiet of a chess player in the rain.
+
+**Eyes:** dark slate; a thin **silver ring** kindles when he channels psi.
+**Skin:** fair-olive, faint rain sheen over collarbones.
+
+**Hair (Male Randomizer):** **Short**, **clean side-part with tapered sides**, precise and helmet-friendly.
+**Color:** **raven black with cool gunmetal lowlights**.
+
+**Height:** **178 cm**
+**Weight:** **72 kg**
+**Body Build:** **lean-athletic**, long reach, balanced core.
+
+**Accessories (male glasses 30% → success):** **thin rectangular steel-frame glasses** (anti-glare sigils). Wears a **silver vector pendant**, **braided wrist-cord** (count beats), and a **rail token** tucked inside the collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional psi-control kit**
+
+A **brushed-steel breastplate** over an **indigo padded jacket**, **quiet-weave bracers**, and **tapered guard-trousers** for precise footwork on slick glass. **Soft-sole boots** grip rail edges. A **short storm-cloak** pins flat to keep silhouette clean for telekinetic reads.
+
+**Palette:** steel / indigo / charcoal / pale silver
+
+**Weapons & Gear:**
+
+* **Longsword “Quiet Vector”** (matte fuller; inlaid with thin silver line)
+* **Shield** (glass-inset boss)
+* **Dagger** (utility)
+* **Light crossbow** + 20 bolts
+* **Silk rope 50 ft**, **manacles**, **chalk-line**, **echo-salt**, **smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Insight +3, Perception +3, Investigation +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Psi Warrior (TCoE)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Psionic Power (Psi dice = d6; uses = PB + INT = 3/day; regain one on short rest):**
+
+  * **Protective Field (Reaction):** ลดดาเมจที่เพื่อนใน 30 ฟุตได้รับ เท่ากับผล **Psi die + INT (1)**
+  * **Psionic Strike:** เมื่อโจมตีโดน ใช้ **Psi die** เพิ่ม **force damage** = ผลทอย + INT (1)
+  * **Telekinetic Movement (Bonus Action):** ย้ายวัตถุ/สิ่งมีชีวิตที่ยินยอม น้ำหนัก ≤ **30 ปอนด์ (วัตถุ)** หรือเลื่อนเพื่อน **5 ฟุต** ไปยังตำแหน่งปลอดภัย (RAW: move a creature or object up to 30 ft if it’s not worn/carried; I rule for DM use on rails)
+* *(DM ปรับตาม RAW ของ TCoE สำหรับขอบเขตการย้ายวัตถุ)*
+
+**Attacks**
+
+* **Longsword (1h):** +5 to hit, **1d8+3** slashing; เติม **Psionic Strike** เพื่อปิดงาน
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+* **Dagger:** +5 to hit, **1d4+3** piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Lane Control / Psi Utility)
+
+* **Role:** **frontline protector–controller / escort duelist**
+* **Opener:** mark lanes with chalk; step to mid-span; **Protective Field** catches the first stray hit on allies.
+* **Flow:** hold **Action Surge** for a decisive break; use **Telekinetic Movement** to slide civilians past gaps or peel allies out of grapples; inject **Psionic Strike** when advantage or a stun/ prone window appears.
+* **Finisher:** bind blade to guard, brief shove with unseen hand, and a single quiet cut.
+
+**Damage Flavor:** when psionics flare, silver lines sketch vectors in the rain, then vanish like breath on glass.
+
+---
+
+## 💬 Personality
+
+* **Traits:** มั่นคง สุภาพ พูดน้อยแต่ชัด; ชอบจัดพื้นที่ก่อนสู้
+* **Ideal:** Precision-with-Care — “ขยับน้อยที่สุดที่ช่วยคนได้มากที่สุด”
+* **Bond:** สมุด “ทางออกฉุกเฉิน” ของทุกสะพานที่เขาลงเวร
+* **Flaw:** วางแผนบนกระดานมากเกินไป—บางครั้งช้าครึ่งจังหวะ
+* **Quirk:** ดันกรอบแว่นหนึ่งครั้งก่อนขยับเพื่อนด้วยจิต—สัญญาณว่า “อย่าตกใจ”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, hush corridors, lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **escort through choke**, **riot peel by telekinesis**, **quiet duel under rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+เติบโตใน **Glass Court** เรียนโครงแรงและเวคเตอร์ เขาค้นพบว่ามือที่สองของเขาคือ “เส้นแรง” ในอากาศ—คืนหนึ่งเขายกเด็กออกจากกระแสคนด้วยการ “เลื่อนโลกนิดเดียว” ตั้งแต่นั้นเขาเป็นหัวใจคุมเลนของหน่วย **Quiet Vector**
+
+* **Lifestyle:** ห้องเล็กติดสะพาน เต็มด้วยเส้นชอล์ก แผนเวคเตอร์ และผ้าเช็ดใบดาบ
+* **Income:** เงินเดือน Glass Court, โบนัสคุ้มกัน, ค่าปราบจลาจลแบบ “ไม่แตกแถว”
+
+---
+
+## 🧩 Morals & Ethics
+
+“ช่วยก่อน ชนะทีหลัง” — ถ้าการขยับน้อย ๆ ทำให้คนผ่าน เขาจะเลือกเส้นนั้นก่อนเสมอ
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** ช่วงที่ฝน “หยุดบนกระจก” — ลาง Echo ตัดแรงเส้น
+* **Weaknesses:** ทรัพยากร **Psi dice** จำกัด; ดาเมจไม่สุดถ้าไม่เลือกจังหวะ
+* **Strengths:** **AC 19 ยืนแนว**, **Protective Field** ลดเจ็บเพื่อน, **Telekinetic Movement** แก้สถานการณ์, **Action Surge** ปิดงาน
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ — สุขุมมั่นใจ ทำให้รู้สึกปลอดภัย:**
+
+> “ยืนหลังผม—ผมจะเลื่อนคุณผ่านช่องว่างเอง.”
+
+ตอนซ้อม เขาจะวางมือเบาบนศอกแล้วกระซิบ “หนึ่งก้าวซ้าย… ดี—ตอนนี้ปล่อยให้เส้นแรงพาไป”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** เส้นเงินในตาเขา “ชี้” ไปยังรอยแตกของสะพานก่อนมันเกิดจริงครึ่งวินาที
+* **Hooks:**
+
+  1. **Vector Theft:** ผู้ร้ายปลอม **เส้นแรง** ทำให้คนหลงทางในจลาจล—ต้องหาต้นทางและตัดเวคเตอร์ปลอม
+  2. **Glass That Won’t Move:** สะพานหนึ่ง “ดื้อแรงจิต” — มีบางอย่างล็อกเวคเตอร์ของเมืองไว้
+  3. **Three Lines Oath:** งาน護ส่งเด็กผ่านเลนแคบสามตอน—ห้ามปล่อยให้ใคร “ขยับผิดเส้น” มิฉะนั้นฝูงชนล้มทับกัน
+
+---
+
+## Tags: #Male #Other #PsiWarrior #Fighter3 #Controller #Protector #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Seojun **ยกโล่ให้เป็นเงา แล้วดันกรอบแว่นเบา ๆ**
+
+> “พร้อมนะ—ผมจะขยับโลกให้นิดเดียว พอให้เราเดินต่อ.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, shield, dagger, light crossbow
+  * **Armor:** breastplate set
+  * **Tools:** chalk-line, silk rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** vector pendant, wrist-cord, rail token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 18)** หรือ **Feat: Shield Master / Telekinetic (theme)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **escort choke**, **riot peel by TK**, **quiet duel**
+* **Affiliation:** **Quiet Vector Squad — Glass Court**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male other mind-touched fighter psi warrior 178cm short side-part raven hair gunmetal lowlights lean athletic steel breastplate shield glasses low exposure rain-slick bridge telekinetic silver lines night fantasy

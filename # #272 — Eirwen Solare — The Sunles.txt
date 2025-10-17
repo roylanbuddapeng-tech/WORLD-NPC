@@ -1,0 +1,208 @@
+# #272 — **Eirwen Solare** — *The Sunless Flame*
+
+> “Light is not mercy. It burns the same, no matter what you worship.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 272
+* **Gender:** **Female (Type: รุ่นพี่)** — calm, composed, confident like a teacher who’s seen too many students die in battle but never lost her compassion.
+* **Age:** 31
+* **Race:** **Human**
+* **Class & Level:** **Wizard (Evocation — Necroflame specialization)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **Battle Mage / Crematory Evoker / Pyro-Necromancer**
+* **Organization:** **Solaris Arcanum of Gravemere**
+* **Symbol:** a twin flame—one golden, one black—twisting in harmony.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Greek**, classical beauty with a commanding gaze; looks more like a noble general than an academic.
+
+**Eyes:** gold with faint gray flecks, pupils ringed in orange light when she casts.
+**Skin:** olive with pale undertones that shimmer like firelit bronze.
+
+**Hair (Female Hair Randomizer):** 🎲 **Straight long (25%)**
+**Style:** glossy straight hair reaching her lower back, with thin braids woven in the front, often tied behind one ear.
+**Color:** **platinum-blond with faint copper gradient.**
+
+**Height:** 174 cm
+**Weight:** 61 kg
+**Body Type:** **fit, well-proportioned with elegant posture.**
+
+**FEMALE BODY METRICS (รุ่นพี่ rule – ≥ D cup)**
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 102 – 73 – 108
+VALIDATION: • W/B = 0.715 → OK   • H/W = 1.48 → OK
+```
+
+**Sub-Theme:** 🎲 **Nerd (Arcane researcher)** — fire and necrotic energy fusion specialist, obsessive about balance equations of decay and light.
+
+**Glasses Rule (Nerd = Always):** **Yes.**
+**Glasses:** gold-framed rectangular spectacles, etched with heat-resistant runes that flash when near strong magic.
+
+**Jewelry & Accessories:** flame sigil earring (always warm), copper pendant with crystal flame core, utility belt filled with spell reagent capsules.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium — tactical elegance**
+
+Eirwen wears a **white magecoat** fitted at the waist, cut diagonally with slits revealing one thigh-high boot for freedom of motion.
+Underneath, she wears a **black arcane corset top** reinforced with light plates that glow faintly orange when channeling evocation spells.
+A **long asymmetrical cloak** trails behind her, embroidered with burnt sigils that flare briefly after each cast.
+
+**Palette:** white / black / copper / gold
+**Accents:** molten embroidery, glowing seams
+
+**Weapons & Gear:**
+
+* *Ashflare Staff* (arcane focus)
+* *Tome of Resonant Flames*
+* *Portable urn of ritual ashes*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **14** (mage armor)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 13 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, History +5, Investigation +5, Insight +3
+* **Languages:** Common, Draconic, Celestial
+
+**Wizard (Evocation)**
+
+* **Sculpt Spells:** allies take no dmg from her fire spells.
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Fire Bolt, Chill Touch, Prestidigitation*
+  * *1st–2nd:* *Magic Missile, Burning Hands, Flaming Sphere, Scorching Ray, Gentle Repose, Misty Step*
+
+**Attacks**
+
+* **Fire Bolt:** +5 to hit, 1d10 fire (ignites flammable objects).
+* **Chill Touch:** +5 to hit, 1d8 necrotic (prevents healing).
+
+---
+
+## 🎯 Combat Tactics (Evoker / Necrotic Hybrid)
+
+* **Role:** **Ranged AoE blaster / controlled field caster**
+* **Opener:** *Misty Step* into vantage → *Flaming Sphere* + *Chill Touch* alternating.
+* **Flow:** burns terrain for control, reanimates ashes as fiery skeletons (flavored Gentle Repose + illusion).
+* **Finisher:** *Scorching Ray* volley focused by Ashflare Staff.
+
+**Flavor:** her flames burn black in their core, turning bodies into glowing skeletons before they crumble into ash.
+
+---
+
+## 💬 Personality
+
+* **Traits:** logical, quietly caring, subtle sense of humor that hides behind dry tone.
+* **Ideal:** Duality — “Creation and destruction are lovers, not enemies.”
+* **Bond:** protects a graveyard where she tests her fusion spells.
+* **Flaw:** obsesses over perfecting balance between fire and decay.
+* **Quirk:** adjusts her glasses whenever emotions rise.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Gravemere — Ashen Spire Laboratories**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **magical experiment**, **funeral firestorm**, **undead incineration**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once the youngest lecturer at Solaris Arcanum, Eirwen’s theories on “necrotic ignition” (death magic through thermal equilibrium) were banned as heretical.
+She now travels, burning corrupted dead before they rise again.
+
+* **Lifestyle:** minimalist scholar; sleeps amid open books and burnt scrolls.
+* **Income:** sells cremation services for cursed corpses.
+* **Relationships:** rival academic to Velna (#268); occasional ally to Kaien (#269).
+
+---
+
+## 🧩 Morals & Ethics
+
+She sees mercy in destruction — better to burn a soul cleanly than let it rot in false resurrection.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being remembered as a destroyer instead of a protector.
+* **Weaknesses:** burns through spell slots too quickly due to overcasting.
+* **Strengths:** extreme precision; can sustain mixed elemental damage safely.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — สุขุม มีเสน่ห์จากความมั่นใจแต่แฝงความอบอุ่น ยิ้มบาง ๆ ก่อนพูดประโยคเฉียบ**
+
+> “Don’t flinch at the heat. It only burns if you lie to it.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her staff contains ashes of her former mentor—his soul still guides her.
+* **Hooks:**
+
+  1. **Ash Unbound:** her mentor’s spirit takes corporeal form, demanding release.
+  2. **Cremator’s Oath:** a cult wants her black flames to ignite their god.
+  3. **The Fire that Heals:** rumors spread that her necrofire can resurrect.
+
+## Tags: #Female #SeniorType #Human #Wizard3 #Evocation #NecromancerHybrid #FireMage #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Eirwen **ชอบทำให้คนเขินโดยการพูดชมอย่างเยือกเย็น แต่ขยับเข้าใกล้ขณะอธิบายเวทในระยะที่รู้สึกถึงความร้อนจากร่างเธอได้**
+
+> “You’re trembling. Good… it means you’re alive enough to learn.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** Ashflare Staff
+  * **Armor:** enchanted corset coat
+  * **Tools:** ritual urn, focus crystals
+  * **Consumables:** soot balm
+  * **Misc:** notes on necrothermal resonance
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Elemental Adept (Fire)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Gravemere — Ashen Spire Laboratories**
+* **Threat Gradient:** **Echo → Deep Echo**
+* **Encounter Type:** **fire outbreak**, **spiritual combustion**, **forbidden research duel**
+* **Affiliation:** **Solaris Arcanum**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Greek female human wizard evocation necromancer hybrid 174cm long platinum-blonde straight hair gold eyes olive skin G-cup elegant glasses white coat black corset gold runes asymmetrical cloak mage staff confident beautiful composed fantasy

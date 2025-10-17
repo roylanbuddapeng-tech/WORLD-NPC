@@ -1,0 +1,200 @@
+# #280 — **Vareth Corlan** — *The Iron Psalm of the Drowned Bell*
+
+> “Every prayer that sinks is just another secret the sea keeps for me.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 280
+* **Gender:** **Male (Type: วัยกลางคน)** — deliberate, articulate, and unsettlingly calm; speaks with the rhythm of waves against stone.
+* **Age:** 41
+* **Race:** **Human**
+* **Class & Level:** **Cleric (Tempest Domain)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral**
+* **Profession:** **Mariner-Priest / Storm Exorcist / Drowned Bellkeeper**
+* **Organization:** **Thalassaran Tidewardens**
+* **Symbol:** a rusted bell half-submerged in silver tidewater.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Nordic**, stoic face, quiet strength with an undercurrent of melancholy.
+
+**Eyes:** pale sea-green, luminous when he calls upon his god.
+**Skin:** fair, with faint freckling from salt exposure and a permanent scent of sea breeze and iron.
+
+**Hair (Male Hair Randomizer):** 🎲 **Long — tied back into a low bun**
+**Style:** neatly bound with silver cord, a few loose strands falling near the temples.
+**Color:** **steel gray with faint ocean-blue gradient at the tips.**
+
+**Height:** 188 cm
+**Weight:** 84 kg
+**Body Build:** **strong and wiry; the frame of a man used to both prayer and heavy chains.**
+
+**Sub-Theme:** 🎲 **None (wandering ascetic)** — forsook all temple ranks to live among wreckage and sailors.
+
+**Glasses Rule (None Theme = 50%)** 🎲 Roll: **No.**
+
+**Jewelry & Accessories:** tide-silver earrings, stormchime pendant, copper rosary wrapped around his left forearm.
+
+---
+
+## 👔 Outfit (in English)
+
+**Exposure Roll:** *Not applicable for male characters*
+
+Vareth wears a **sea-gray cassock**, sleeves rolled up past his elbows, its edges frayed and salt-stiffened.
+Across his shoulders drapes a **stormcloak of blue-black oilskin**, clasped with a bronze bell fragment.
+He carries a **tideforged warhammer**, etched with runes that hum when lightning nears.
+
+**Palette:** slate blue / storm gray / rusted bronze / silver
+**Style:** seafarer priest — practical and ruggedly sacred
+
+**Weapons & Gear:**
+
+* *Tideforged Warhammer (+1)*
+* *Bell of the Drowned (holy focus)*
+* *Vial of Blessed Saltwater*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **18** (chain shirt + shield)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 10 (+0)** **CON 14 (+2)** **INT 12 (+1)** **WIS 16 (+3)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +2
+* **Skills:** Athletics +5, Religion +3, Perception +5, Survival +3
+* **Languages:** Common, Aquan, Celestial
+
+**Cleric (Tempest Domain)**
+
+* **Wrath of the Storm (2d8 lightning/thunder reaction)**
+* **Channel Divinity: Destructive Wrath** (maximize lightning/thunder damage)
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Thaumaturgy, Shape Water, Toll the Dead*
+  * *1st–2nd:* *Fog Cloud, Thunderwave, Gust of Wind, Shatter*
+
+**Attacks**
+
+* **Tideforged Warhammer:** +5 to hit, 1d8+3 bludgeoning (1d10+3 two-handed).
+* **Wrath of the Storm Reaction:** 16 thunder or lightning (once per short rest).
+
+---
+
+## 🎯 Combat Tactics (Midline Control / Storm Punisher)
+
+* **Role:** **controller / melee support / reaction blaster.**
+* **Opener:** *Fog Cloud* to obscure approach, *Thunderwave* point-blank.
+* **Flow:** stays near allies to punish melee attackers with Wrath of the Storm.
+* **Finisher:** *Shatter* + maximized *Channel Divinity* → booming echo like a tolling bell underwater.
+
+**Flavor:** every spell he casts carries the faint chime of a submerged bell, resonating through water and bone.
+
+---
+
+## 💬 Personality
+
+* **Traits:** measured, ritualistic, quietly compassionate to the poor.
+* **Ideal:** Equilibrium — “The sea gives and takes; we must learn to do both.”
+* **Bond:** prays daily for those lost to the storm.
+* **Flaw:** fatalistic — sees death as inevitable, sometimes acts too late.
+* **Quirk:** always hums the same three-note psalm before sleep.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Southern Coast, Bellbreaker Wharf**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **shipwreck rescue**, **storm-exorcism ritual**, **coastal siege defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a monk of the Tidewardens, Vareth turned to solitary wandering after surviving a shipwreck that killed his entire crew. He now tends to drowned souls and sunken shrines.
+
+* **Lifestyle:** minimalist; sleeps in lighthouses and ruins.
+* **Income:** offerings, storm rites, coastal bounties.
+* **Relationships:** mentor to seafarers; mutual respect with Lyra Thalassara (#1).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes life and death are two tides in the same sea — one should not fear the ebb, only live the flow.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** calm seas — the silence before disaster.
+* **Weaknesses:** fatalism dulls his urgency.
+* **Strengths:** unmatched composure under chaos; mastery of aquatic combat.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — สุขุม สุภาพ พูดช้าแต่แน่น ฟังแล้วรู้สึกปลอดภัย มีออร่าของคนที่พร้อมปกป้องแม้ต้องจมน้ำตายไปด้วยกัน**
+
+> “You’re trembling. Don’t worry — the sea accepts everything, even fear.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** he drowned once; the sea gave him back with a fragment of an ancient god’s voice still inside him.
+* **Hooks:**
+
+  1. **The Drowned Bell Calls:** a sunken relic begins tolling every midnight.
+  2. **Voice of the Deep:** Vareth’s prayers start answering themselves.
+  3. **The Saltless Tide:** an unnatural storm rises — and no water tastes of salt.
+
+## Tags: #Male #MiddleAged #Human #Cleric3 #TempestDomain #SeaPriest #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Vareth doesn’t tease; instead, his calm gaze and quiet words draw others closer by instinct.
+He **likes to calm others physically**, resting a heavy, warm hand on their shoulder while speaking softly.
+
+> “Easy… breathe with the tide. Even storms rest between waves.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** Tideforged Warhammer
+  * **Armor:** chain shirt
+  * **Tools:** Bell of the Drowned
+  * **Consumables:** saltwater vials (2), oil lantern
+  * **Misc:** coral prayer beads
+* **Level-Up Suggestion:** **+2 WIS (to 18)** or **Feat: War Caster / Tough**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Bellbreaker Wharf**
+* **Threat Gradient:** **Wavering**
+* **Encounter Type:** **storm exorcism**, **shipwreck defense**, **seaside haunting**
+* **Affiliation:** **Thalassaran Tidewardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Nordic male human cleric tempest domain 41yo long steel gray hair ocean blue tips tied bun green eyes sea priest warhammer storm cloak rugged tall calm handsome fantasy

@@ -1,0 +1,183 @@
+# #368 — **Lyria Wensvale** — *The Whisper Between Arrows and Air*
+
+> “If you heard my bowstring, you’re already too close.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 368
+* **Gender:** **Female (Type: รุ่นพี่ — calm, confident, protective)**
+* **Age:** 29
+* **Race:** **Half-Elf (Human/High Elf)**
+* **Class & Level:** **Fighter (Arcane Archer) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **Scout–Arcanist / Royal Ranger Instructor**
+* **Organization:** **Verdant Regiment of El-Vendas**
+* **Symbol:** crescent moon bound by a bowstring
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** Japanese–Elven hybrid, dignified beauty wrapped in discipline and serenity.
+
+**Height:** 170 cm **Weight:** 58 kg
+**Body Type:** balanced, toned legs and smooth waist; long-necked grace of a dancer.
+
+**Hair:** **Long**, **straight** with a **side braid** tucked behind one ear.
+**Hair Color:** **Silver-blonde**, glinting pale blue under moonlight.
+**Eyes:** **Pale green**, faint shimmer of arcane light around iris.
+**Skin:** fair porcelain with a faint olive undertone.
+
+**Accessories:** silver circlet with moonstone center; fine-frame glasses (rolled via 50% nerd overlap → success).
+
+---
+
+### **FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Above Average  
+THREE_SIZES (B–W–H, cm): 93 – 68 – 99  
+VALIDATION: W/B = 0.73 → OK   H/W = 1.45 → OK
+```
+
+Her figure carries quiet sensuality — elegant rather than overt, her E-cup balanced by long, archer’s shoulders.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium (functional yet subtly alluring)**
+
+She wears a **half-sleeved archer tunic** split at the sides for mobility, tied with an **emerald sash**. Beneath it, fitted **dark green leather pants** and **archer’s boots** that rise above the knee. A **silver-thread cloak** trails lightly behind her, occasionally glowing faintly when she channels arcane shots.
+
+**Palette:** forest green / silver / black
+
+**Weapons & Gear:**
+
+* **Longbow “Moonwhisper”** — carved yew, silver-etched limbs, channels spell arrows.
+* **Quiver (20 arrows)** — several enchanted: seeking, grasping, and bursting.
+* **Shortsword** (ceremonial).
+* **Traveler’s satchel, spell foci crystals, monocle for sight correction.**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **26 HP**
+* **AC:** 16 (leather 11 + DEX +3 + Defensive Style +2)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 16 (+3)** **CON 14 (+2)** **INT 14 (+2)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, CON +4
+* **Skills:** Perception +3, Arcana +4, Stealth +5, Insight +3, Nature +4
+* **Languages:** Common, Elvish, Sylvan
+
+**Fighter 3 — Arcane Archer**
+
+* **Fighting Style:** **Archery (+2 to hit)**
+* **Arcane Shot (2/rest):**
+
+  * *Grasping Arrow:* thorned vines entangle target.
+  * *Seeking Arrow:* ignores cover and homes on magic users.
+* **Magic Arrow:** attacks count as magical.
+* **Arcane Shot Save DC:** 12 + INT = **14**
+* **Action Surge, Second Wind**
+
+**Attacks:**
+
+* **Longbow:** +7 to hit, **1d8+3** piercing (+2 magical with Arcane Shot)
+* **Shortsword:** +5 to hit, **1d6+3** slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Precision Striker / Control Archer**
+* **Opener:** hides, pre-channels *Grasping Arrow* to pin fast enemies.
+* **Flow:** coordinates with frontliners — aims to disable, not kill first.
+* **Finisher:** *Seeking Arrow* through smoke or illusion.
+
+**Damage Flavor:** silver runes trail her shots, fading like moonlight ripples.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, wise, affectionate in subtle ways — the “gentle upperclassman” type.
+* **Ideal:** Harmony — “One arrow for the heart, one for mercy.”
+* **Bond:** mentor to younger recruits; secretly taught the prince of El-Vendas archery.
+* **Flaw:** sentimental; hesitates when aiming at familiar faces.
+* **Quirk:** hums old lullabies when fletching arrows.
+
+---
+
+## 🧭 Common Locations
+
+* **Region:** **El-Vendas — Silvergrove Barracks, Moonwatch Forest**
+* **Threat Gradient:** **Moderate → High (if magic storms)**
+* **Encounter Type:** **ambush ally**, **night patrol**, or **archery lesson turned rescue.**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born from an elven mother and human knight, Lyria grew up straddling two worlds. Her precision earned her a post as arcane instructor, though she’d rather be in the woods than court halls.
+
+* **Lifestyle:** minimalist elegance.
+* **Income:** teaching contract, royal stipend.
+
+---
+
+## 🧩 Morals & Ethics
+
+She fights only when necessary, believing arrows are extensions of intent — not anger.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her sight; misjudging wind and killing an innocent.
+* **Weaknesses:** emotionally guarded, sometimes lonely.
+* **Strengths:** accuracy, battlefield awareness, leadership under quiet pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ — Calm & Caring**
+
+> “Your grip’s too tight. Breathe... let the bow do the work.”
+
+มักแตะหลังมือคนที่สอนด้วยน้ำเสียงอ่อนโยนจนคนฟังหน้าแดงโดยไม่รู้ตัว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her enchanted arrows are bound to her heartbeat — she’s aging faster each year she uses them.
+* **Hooks:**
+
+  1. **The Arrow’s Echo:** PCs find an arrow still glowing weeks after a battle.
+  2. **The Forgotten Student:** someone uses her lost technique for assassination.
+  3. **Moonlight Pact:** her bow is sentient and losing patience with mercy.
+
+---
+
+## Tags: #Female #HalfElf #Fighter3 #ArcaneArcher #Ecup #Ranger #Mentor #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Lyria **adjusts the player’s stance, fingertips brushing skin:**
+
+> “If your heart shakes, your shot will too. So… steady it for me.”
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+female half-elf fighter arcane archer 170cm elegant build silver blonde hair long straight side braid glasses green eyes fair skin E cup medium exposure archer tunic split sides emerald sash silver cloak longbow moonlight fantasy

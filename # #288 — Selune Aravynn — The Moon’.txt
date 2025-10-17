@@ -1,0 +1,208 @@
+# #288 — **Selune Aravynn** — *The Moon’s Quiet Thorn*
+
+> “Assassination isn’t about death. It’s about precision… the music between heartbeats.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 288
+* **Gender:** **Female (Type: รุ่นน้อง)** — ร่าเริงแต่คม มีอารมณ์ขันแปลก ๆ แบบเด็กที่รู้ว่าตัวเองอันตราย
+* **Age:** 21
+* **Race:** **Half-Beast (avian — owl lineage)** — humanlike (≈90%) with faint silver feather trim near temples and pupils shaped like crescents
+* **Class & Level:** **Rogue (Assassin)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** **Freelance infiltrator / covert elimination specialist / nocturnal scout**
+* **Organization:** **None (uses the alias “Little Wing”)**
+* **Symbol:** a white feather dipped in ink
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese** — gentle facial lines, fair skin, quick expressive eyes.
+
+**Eyes:** silver-gray, pupils narrow in bright light.
+**Skin:** porcelain pale with a faint cool glow.
+
+**Hair (Female-set Randomizer):** 🎲 **Ponytail (highest slot)**
+**Style:** loose side ponytail with layered bangs, slightly uneven tips giving a fluttering look when she moves.
+**Color:** **ashen silver with faint lavender tint.**
+
+**Height:** **162 cm**
+**Weight:** **52 kg**
+**Body Type:** **slim athletic**, soft outline but balanced tone.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 94 – 66 – 98  
+VALIDATION: W/B = 0.70 → OK   H/W = 1.48 → OK  
+```
+
+**Sub-Theme Roll:** 🎲 **Nerd / Aristocrat / None = 35/35/30 → None**
+**Glasses Roll (non-theme 50%) → fail**
+
+**Jewelry & Accessories:** silver chain anklet (soundless step charm), earring in the shape of a crescent, small obsidian choker with feather clasp.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium–High (mobility focused)**
+
+Wears a **charcoal-gray combat bodysuit** of soft leather with **midriff exposure**, reinforced at joints with black silk wrappings.
+A **hooded half-cape** drapes across her left shoulder like a wing.
+Short gloves with open fingertips, and **thigh-high boots** laced tight for balance.
+
+**Palette:** black / silver-gray / lilac
+**Weapons & Gear:**
+
+* *Silent Talon daggers* (twin +1 daggers, critical on surprise 19–20)
+* *Throwing feathers* (3/short rest — act as darts, deal psychic 1d4+DEX)
+* *Smoke veil bottle*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **20 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft, *Glide* 15 ft (racial trait)
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 14 (+2)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Stealth +6, Acrobatics +6, Perception +4, Sleight of Hand +6, Investigation +3
+* **Languages:** Common, Auran
+
+**Rogue (Assassin) 3**
+
+* **Sneak Attack (2d6)**
+* **Assassinate:** advantage on creatures that haven’t acted; crit on surprised.
+* **Cunning Action (Bonus):** Dash, Disengage, Hide.
+* **Tool Proficiencies:** poisoner’s kit, disguise kit.
+
+**Attacks**
+
+* **Twin Silent Talons:** +6 to hit, 1d4+4 piercing (2d6 sneak).
+* **Throwing Feather:** +6 to hit, 1d4+4 psychic (ranged 30 ft).
+
+---
+
+## 🎯 Combat Tactics (Surprise Striker / Agile Finisher)
+
+* **Role:** **close-range elimination / ambush opener**
+* **Opener:** *Glide* above target → *Assassinate (Adv+Crit)* → *Cunning Action (Hide)*
+* **Flow:** dart between shadows using short vertical bursts.
+* **Finisher:** twin dagger spin; wings flick dust creating microblind.
+
+**Damage Flavor:** her strikes produce faint whooshing sounds like wings flapping in the dark.
+
+---
+
+## 💬 Personality
+
+* **Traits:** teasing, quick-witted, occasionally childishly smug.
+* **Ideal:** Freedom — “I fly because the ground feels like a cage.”
+* **Bond:** owes her life to a ranger captain who taught her silence.
+* **Flaw:** flirts with danger just to see if she can.
+* **Quirk:** whistles softly every time before stabbing.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Upper Arches / Canal Spires**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **balcony assassination**, **aerial infiltration**, **duel across rooftops**
+
+---
+
+## 📜 Background & Lifestyle
+
+An orphan from the floating temples, trained by spies who used songbirds as message carriers.
+She developed her stealth around rhythm—each strike like a beat.
+
+* **Lifestyle:** roams between jobs, sleeps wherever there’s height and wind.
+* **Income:** assassination contracts, courier missions.
+* **Relationships:** admires Vynessa (#284), friendly rivalry with Kael (#287).
+
+---
+
+## 🧩 Morals & Ethics
+
+Doesn’t kill for morality; kills for artistry.
+She claims “ugly deaths make the air heavy.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** confined spaces.
+* **Weaknesses:** arrogance when praised.
+* **Strengths:** aerial ambushes, precision strikes, emotional detachment under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — playful, teasing flirt:**
+
+> “You’re slower than I thought. Want me to show you how to breathe quieter?”
+
+ชอบล้อให้คนหน้าแดงโดยเฉพาะเวลาตัวเองอยู่ใกล้เกินไป — มักยื่นหน้าเข้ามาใกล้จนนิ้วจับคางอีกฝ่ายเบา ๆ แล้วหัวเราะ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** one of her kills still sings in her dreams—a bard she accidentally assassinated.
+* **Hooks:**
+
+  1. **Echo in the Wind:** her feathers begin whispering when she glides.
+  2. **The White Ledger:** a list of Thalassaran nobles marked for “cleansing” has her name on it.
+  3. **Murder in Moonlight:** a copycat uses her style to frame her.
+
+---
+
+## Tags: #Female #HalfBeast #Owl #Rogue3 #Assassin #CR1 #Stealth #Rooftop
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Selune **ชอบทำให้คนเขินโดยกระซิบข้างหูพร้อมเอาปลายผมแตะแก้มอีกฝ่าย**
+
+> “Don’t tense up, or I might miss your heartbeat.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** twin daggers
+  * **Armor:** leather suit
+  * **Tools:** poisoner’s kit, disguise kit
+  * **Consumables:** smoke bottle ×1
+  * **Misc:** white feather token
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Mobile / Skulker**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Upper Arches**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **aerial duel**, **silent hit**, **espionage relay**
+* **Affiliation:** **Independent Mercenary**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese female half-beast owl rogue assassin 162cm silver-lavender ponytail silver eyes pale skin athletic F-cup black bodysuit midriff hooded cape thigh boots stealth moonlight rooftop

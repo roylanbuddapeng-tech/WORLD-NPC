@@ -1,0 +1,200 @@
+# #276 — **Rheon Valtierre** — *The Pale Flame Tactician*
+
+> “Order is not the opposite of death — it’s how we manage it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 276
+* **Gender:** **Male (Type: วัยกลางคน)** — commanding presence, deep steady voice that fills the air with assurance rather than volume.
+* **Age:** 42
+* **Race:** **Human**
+* **Class & Level:** **Cleric (Death Domain)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **Battle Chaplain / Necrotic Strategist / Death-Tide Commander**
+* **Organization:** **The Sepulchral Vanguard**
+* **Symbol:** a skeletal flame enclosed in a circle of iron thorns.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Nordic–French**, sharply defined face, slightly sunken eyes that look both wise and tired.
+
+**Eyes:** pale gray-blue, glowing faintly under torchlight.
+**Skin:** light tan, weathered from battlefield winds, a long scar across the left jaw.
+
+**Hair (Male Hair Randomizer):** 🎲 **Short — slightly tousled**
+**Style:** short, combed back roughly, one white streak on the left temple.
+**Color:** **ashen blond**.
+
+**Height:** 186 cm
+**Weight:** 82 kg
+**Body Build:** **broad-shouldered, disciplined musculature — ex-military bearing.**
+
+**Sub-Theme:** 🎲 **Aristocrat (fallen noble general)** — precise diction, posture straight as a sword.
+
+**Glasses Rule (Aristocrat = 50%)** 🎲 Roll: **Yes** — small rectangular steel frames, cracked once, repaired with silver wire.
+
+**Jewelry & Accessories:** iron rosary wound around his wrist, a platinum badge from his old regiment, bone ring on his thumb.
+
+---
+
+## 👔 Outfit (in English)
+
+**Exposure Roll:** *Not applicable for male characters*
+
+Rheon wears a **dark gray clerical coat reinforced with chainmail**, the lower hem split into panels for riding.
+Across his back runs a **white mantle of bonesilk**, embroidered with a silver spiral pattern — the insignia of his order.
+A **half-cape** rests on his left shoulder, clasped by an emblem resembling a skeletal sun.
+
+**Palette:** iron gray / bone white / deep navy / faint silver glow
+**Style:** stoic military priest aesthetic
+
+**Weapons & Gear:**
+
+* *Halberd of Mourning Light* (+1, holy focus)
+* *Steel rosary focus*
+* *Manual of War Prayers (Grimoire)*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **17** (chain mail + shield)
+* **Speed:** 30 ft
+* **STR 15 (+2)** **DEX 12 (+1)** **CON 14 (+2)** **INT 12 (+1)** **WIS 16 (+3)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +3
+* **Skills:** Intimidation +3, Religion +3, Insight +5, Athletics +4
+* **Languages:** Common, Infernal, Celestial
+
+**Cleric (Death Domain)**
+
+* **Reaper:** can cast necrotic cantrips at two targets.
+* **Channel Divinity: Touch of Death:** add +10 necrotic dmg on melee hit.
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Toll the Dead, Sacred Flame, Thaumaturgy*
+  * *1st–2nd:* *Inflict Wounds, Bless, Spiritual Weapon, Hold Person, Blindness/Deafness*
+
+**Attacks**
+
+* **Halberd of Mourning Light:** +5 to hit, 1d10+2 slashing + 1d6 radiant (vs undead).
+* **Toll the Dead:** DC 13 WIS, 1d12 necrotic.
+
+---
+
+## 🎯 Combat Tactics (Frontline Necro-Cleric)
+
+* **Role:** **Tanky support / area denial / battlefield finisher.**
+* **Opener:** *Bless* → *Hold Person* → *Halberd strike* empowered by *Touch of Death*.
+* **Flow:** alternates *Spiritual Weapon* and *Toll the Dead* while maintaining front-line control.
+* **Finisher:** invokes the “Last Benediction,” wreathing his halberd in black flame.
+
+**Flavor:** his presence quiets screams — enemies die in silence, as if their souls accept the end.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, strategic, quietly sarcastic when annoyed.
+* **Ideal:** Order — “Death is not chaos; it is structure. Only fools defy the schedule.”
+* **Bond:** sworn to guide fallen soldiers to the afterlife.
+* **Flaw:** suppresses compassion; views mercy as inefficiency.
+* **Quirk:** sharpens his weapon while humming funeral hymns.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeron — War Remnants Monastery**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **battle aftermath**, **mass funeral**, **siege defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a decorated general of Valeron, Rheon resigned after seeing too many soldiers reanimated as enemies. He now commands a smaller, devout militia that cleans battlefields and buries the dead with dignity.
+
+* **Lifestyle:** ascetic; sleeps on folded cloak and iron floor.
+* **Income:** donations from bereaved families, warlord commissions.
+* **Relationships:** respected by Kael (#275) as mentor; distrusted by living commanders.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes killing is not sin if done cleanly and remembered. Refuses to let the dead be desecrated.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** dying nameless in battle — forgotten before buried.
+* **Weaknesses:** poor with civilians and diplomacy.
+* **Strengths:** disciplined, unbreakable morale, anti-undead mastery.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — สุภาพ เคร่งขรึม แต่มีเสน่ห์ของคนที่ควบคุมสถานการณ์ได้ทุกอย่าง เสียงทุ้มต่ำเรียบ ชอบสบตาเวลาพูด และมีนิสัยเอื้อมมือแตะแขนคู่สนทนาเบาๆเพื่อให้แน่ใจว่าฟังอยู่**
+
+> “If you fear death, stand closer. I’ll make sure it’s gentle when it comes.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his halberd contains the soul of his former lover, a soldier he was forced to execute.
+* **Hooks:**
+
+  1. **The Silent Regiment:** fallen soldiers under his command begin rising unbidden.
+  2. **Death’s Accord:** an angel offers him true immortality — at a moral cost.
+  3. **The General’s Grave:** his own tombstone appears before he dies.
+
+## Tags: #Male #MiddleAged #Human #Cleric3 #DeathDomain #FrontlineSupport #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rheon rarely flusters; instead, he disarms others with quiet poise.
+He **likes to see others blush**, occasionally leaning close with deadpan precision.
+
+> “Your pulse is fast. You’re not dying, are you?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** Halberd of Mourning Light
+  * **Armor:** chain mail & mantle
+  * **Tools:** rosary, funeral candles
+  * **Consumables:** sanctified oil
+  * **Misc:** battle reports from the Valeron front
+* **Level-Up Suggestion:** **+2 WIS (to 18)** or **Feat: Sentinel / War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeron — War Remnants Monastery**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **funeral defense**, **battlefield purge**, **moral confrontation**
+* **Affiliation:** **The Sepulchral Vanguard**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Nordic French male human cleric death domain 42yo short ashen blond hair gray blue eyes scar jaw chainmail coat white mantle glasses halberd stoic handsome mature commander fantasy

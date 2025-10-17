@@ -1,0 +1,198 @@
+# #321 — **Ori “Quietwing” Lysan** — *Midnight Letter in a Silent Beak*
+
+> “I only keep secrets because they look lonely.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 321
+* **Gender:** **Male (Femboy — Subtype: Melancholic Charmer)** — อ่อนหวาน สุขุมปนเศร้า ยั่วด้วยความนุ่มนวลและช่องว่างทางอารมณ์
+* **Age:** 20
+* **Race:** **Half-Beast (avian — owl lineage)** — ~88% human; faint downy feather fringe along shoulder blades, wide irises with crescent catchlight, soft ear-tuft hints under hair
+* **Class & Level:** **Rogue (Soulknife)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **psionic courier / night infiltrator / whisper-runner**
+* **Organization:** **Valeronnes Glass-Archive — Quiet Hands**
+* **Symbol:** a crescent feather over a thin violet blade-glyph
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean soft idol** — luminous eyes, gentle mouth, porcelain calm. He moves like a hush.
+
+**Eyes:** moon-gray with faint opaline ring when manifesting psionics.
+**Skin:** cool ivory with a soft glow along collarbones.
+
+**Hair (Feminine Hair Randomizer for Femboy):** 🎲 **Bun/Twin Bun pool (bun slightly > twin bun)** → **single high bun**
+**Style:** **high sleek bun** with loose face-framing wisps; a thin silver pin (actually a tool) pierces the knot.
+**Color:** **smoky ash-brown with pale silver tips.**
+
+**Height:** **159 cm** (femboy cap)
+**Weight:** **48 kg**
+**Body Build:** **slim, elegant**, narrow shoulders, long lashes, quiet posture.
+
+**Jewelry & Accessories:** moon-feather ear cuff (left), silver choker with tiny opal, ankle cord with two mute beads (tempo count).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High (artistic, non-explicit stealth couture)**
+
+A **backless shadow-silk top** with a **deep soft V** veiled by gauze panels; **side slits** lace across his ribs.
+**High-waist tapered pants** with hidden holster seams, and **split-sole boots** for silent landings.
+A **short translucent capelet** blurs his shoulderline in moonlight.
+
+**Palette:** moon-gray / charcoal / soft silver-violet accents
+
+**Weapons & Gear:**
+
+* **Psychic Blades** (manifested)
+* silver hairpin (lockpick + improvised needle)
+* thieves’ tools, cipher kit, smoke bead ×2
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **19 HP**
+* **AC:** **16** (studded underlayer + DEX)
+* **Speed:** 30 ft; **Darkvision** 60 ft (owl lineage flavor)
+* **STR 8 (-1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 13 (+1)** **WIS 14 (+2)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Stealth +8, Perception +4, Insight +4, Acrobatics +6, Investigation +5, Sleight of Hand +6, Deception +4
+* **Languages:** Common, Elvish, Thalassaran Cant, Thieves’ Cant
+
+**Rogue (Soulknife) 3**
+
+* **Psionic Power (3d6):** *Psi-Bolstered Knack*, *Psychic Whispers* (telepathy 30 ft; 1–8 hr)
+* **Psychic Blades:** main 1d6 psychic (finesse/thrown 60 ft), off-hand 1d4 psychic
+* **Sneak Attack:** +2d6 (once/turn)
+* **Cunning Action:** Dash/Disengage/Hide (bonus)
+
+**Attacks**
+
+* **Psychic Blade (main):** +6 to hit, **1d6+4 psychic** (+2d6 Sneak)
+* **Psychic Blade (off):** +6 to hit, **1d4+4 psychic**
+
+---
+
+## 🎯 Combat Tactics (Silent Skirmisher / Telepathic Support)
+
+* **Role:** **infiltrator / comms hub / precise striker**
+* **Opener:** **Psychic Whispers** to link team → **Hide** → silent thrown blade to drop sentry.
+* **Flow:** kite between cover; bolster tricky checks with **Psi-Bolstered Knack**; maintain telepathic callouts.
+* **Finisher:** step-in cross of twin psychic shards to the solar plexus; leaves only a sigh of cold air.
+
+**Damage Flavor:** blades appear as thin violet feathers of light; each hit sounds like a page turning.
+
+---
+
+## 💬 Personality
+
+* **Traits:** gentle, introspective, smiles with his eyes; compliments come out like lullabies.
+* **Ideal:** Solace — “If a secret hurts, carry it softer.”
+* **Bond:** keeps night letters from rescued couriers, tied with silver thread.
+* **Flaw:** avoids burdening others; will shoulder too much risk alone.
+* **Quirk:** hums a three-note motif before difficult locks—his “open, please.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glass-Archive roofs, moon bridges, hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **silent escort**, **cipher heist**, **double-agent unveil**
+
+---
+
+## 📜 Background & Lifestyle
+
+Archive orphan taught to read footfalls before letters. A psionic spark gave him words without sound; the Quiet Hands shaped that into duty. He delivers truths people can’t afford to say out loud.
+
+* **Lifestyle:** attic nook above scriptorium; window plants, folded letters, one teacup.
+* **Income:** courier retainers, hazard pay on Echo nights, cipher commissions.
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes secrecy is care when used to shield the vulnerable—and cruelty when used to hide harm.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing his voice to Echo-silence (no telepathy through the hush).
+* **Weaknesses:** light frame; if cornered without cover, fragile.
+* **Strengths:** flawless quiet strikes, team telepathy, clutch-skill reliability.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy — Melancholic Charmer:**
+พูดนุ่มและชิดนิด ๆ แบบไม่เร่งเร้า—
+
+> “If holding my hand helps you breathe, I… don’t mind.”
+
+เขาชอบทำให้เขินโดยยื่นมือให้อีกฝ่ายแตะชีพจร แล้วกระซิบเบา ๆ ว่า
+
+> “There. Now your heartbeat has company.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** one letter he carries is addressed to himself—from a future he doesn’t remember.
+* **Hooks:**
+
+  1. **Feather Cipher:** his three-note motif appears carved into Echo stone—who taught the walls his song?
+  2. **Moon Beak:** an assassin steals his telepathic link, speaking through it to frame the party.
+  3. **The Letter That Won’t Open:** a sealed missive burns cold unless opened where “the city forgets its name.”
+
+---
+
+## Tags: #Male #Femboy #HalfBeast #Owl #Rogue3 #Soulknife #Stealth #Telepathy #Valeronnes #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ori **ให้ปลายนิ้วสัมผัสหลังมือเบา ๆ ก่อนกระซิบ**
+
+> “If you need me closer to hear… I can be closer.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** psychic blades (innate), silver hairpin
+  * **Armor:** shadow-silk outfit (light)
+  * **Tools:** thieves’ tools, cipher kit
+  * **Consumables:** smoke beads ×2
+  * **Misc:** letter bundle, mute-bead anklet
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** หรือ **Feat: Telekinetic / Skulker**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass-Archive rooftops & hush corridors**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **silent escort**, **cipher heist**, **telepathic relay**
+* **Affiliation:** **Quiet Hands — Valeronnes**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean femboy male half-beast owl rogue soulknife 159cm high sleek bun ash-brown silver tips slim elegant high exposure backless deep V shadow silk capelet violet psychic feathers moonlit rooftop fantasy

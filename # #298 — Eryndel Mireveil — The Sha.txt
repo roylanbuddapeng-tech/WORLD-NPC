@@ -1,0 +1,210 @@
+# #298 — **Eryndel Mireveil** — *The Shadow Veil of Mirrors*
+
+> “Illusion is just truth that’s been folded neatly and tied with a lie.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 298
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — ร่าเริง มีเสน่ห์แบบเพื่อนที่รู้ทันทุกอย่างแต่ก็ไม่เคยพูดตรง ๆ น้ำเสียงอบอุ่นแต่เจือด้วยแววล้อเลียนตลอดเวลา
+* **Age:** 24
+* **Race:** **Half-Elf (Velandrian lineage)** — 80% human-like, faint golden glow on her irises, soft tapering ears.
+* **Class & Level:** **Bard (College of Whispers)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** **spy-performer / secret-keeper / echo manipulator**
+* **Organization:** **The Moonstage Circle — Thalassara’s Whisper Theater**
+* **Symbol:** a stylized mask split by a silver line.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–European blend** — heart-shaped face, slightly upturned eyes that seem to see every lie, lips always curved into a knowing smirk.
+
+**Eyes:** golden-brown with flecks of silver; shimmer faintly when she whispers.
+**Skin:** soft pale beige, faint blush under cheeks.
+
+**Hair (Female Hair Randomizer):** 🎲 **Bob (15%) — layered sleek bob, chin-length with longer side strands.**
+**Color:** **ash blonde with streaks of violet silver.**
+
+**Height:** **165 cm**
+**Weight:** **55 kg**
+**Body Type:** **fit-curvy**, flexible, light-toned muscles under dancer’s frame.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 100 – 71 – 102
+VALIDATION: • W/B = 0.71 → OK   • H/W = 1.44 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Nerd (30%) → Fail → Aristocrat (35%) → Success.**
+**Glasses Rule:** ❌ (Aristocrat override).
+Instead, wears elegant eye-chain accessory in silver lace pattern.
+
+**Accessories:** silver chime earrings, a half-mask hanging from belt, and a choker with embedded whisperstone (records sound fragments).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High — stage allure meets practicality.**
+
+She wears a **sleeveless corset jacket** with **deep v-cut neckline**, paired with **short layered skirt** and **high lace-up boots**.
+A **semi-sheer coat** with glowing runic hem drapes behind her when she moves, always flowing like mist.
+Black silk gloves reach up to her biceps, inscribed with whisper runes that glow faintly when she speaks secrets aloud.
+
+**Palette:** violet-gray / silver / gold accents
+**Weapons & Gear:**
+
+* *Silver Tongue Dagger* (focus & blade, +1 finesse)
+* *Echo Lute* (stringed focus with stored whispers)
+* *Charm Perfume* (used for bardic inspiration flavor).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **19 HP**
+* **AC:** **15** (light armor + DEX +1)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 13 (+1)** **WIS 11 (+0)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +4, CHA +6
+* **Skills:** Performance +6, Deception +6, Insight +2, Persuasion +6, Stealth +4, Sleight of Hand +4
+* **Languages:** Common, Elvish, Celestial, Thalassaran Cant
+
+**Bard (College of Whispers) 3**
+
+* **Bardic Inspiration (d6)** — whispered form instead of sound.
+* **Mantle of Whispers:** steal identity of dead humanoid (24 hrs).
+* **Words of Terror:** plant fear with 1-minute conversation.
+* **Spellcasting (CHA DC 14, +6 atk)**
+
+  * *Cantrips:* *Vicious Mockery, Message, Minor Illusion*
+  * *1st–2nd Level:* *Charm Person, Dissonant Whispers, Detect Thoughts, Suggestion, Mirror Image*
+
+**Attacks**
+
+* **Silver Tongue Dagger:** +5 to hit, 1d4+3 piercing
+* **Vicious Mockery:** 1d4 psychic + disadvantage (verbal illusion flavor).
+
+---
+
+## 🎯 Combat Tactics (Mental Manipulation / Psychological Control)
+
+* **Role:** **support / crowd control / deception specialist**
+* **Opener:** uses *Dissonant Whispers* from invisibility or disguise.
+* **Flow:** manipulates enemy morale through charm and fear interplay.
+* **Finisher:** *Mantle of Whispers* to replace fallen enemy and infiltrate further.
+
+**Damage Flavor:** enemies hear their own secrets whispered back at them before pain strikes.
+
+---
+
+## 💬 Personality
+
+* **Traits:** playful, perceptive, unpredictable in both kindness and cruelty.
+* **Ideal:** Freedom — “Truth is boring. Lies make people interesting.”
+* **Bond:** her troupe of masked performers — her only “real” friends.
+* **Flaw:** trusts no one; assumes all affection hides intent.
+* **Quirk:** when lying, she traces invisible shapes in the air with one finger.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Whisper Theater & Echo Amphitheater**
+* **Threat Gradient:** **Wavering → Echo Distortion**
+* **Encounter Framing:** **spy performance**, **identity switch**, **mind duel on stage**
+
+---
+
+## 📜 Background & Lifestyle
+
+Eryndel grew up backstage — learning secrets of illusion and human nature from watching nobles pretend on stage.
+Now she weaponizes those secrets, turning whispers into tools sharper than any knife.
+
+* **Lifestyle:** artistic luxury, apartment above a masked tavern.
+* **Income:** theater performances, spy trade, noble gossip sales.
+* **Relationships:** informant for Selune (#295), old rival of Nerathine (#296).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes lies are more revealing than truth. She values expression over honesty.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her sense of self after too many false identities.
+* **Weaknesses:** emotionally disconnected; self-sabotages intimacy.
+* **Strengths:** adaptive charm, deadly eloquence, psychic manipulation.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — teasing and sly:**
+
+> “Don’t look at me like that, you’ll make me forget which face I’m wearing.”
+
+เธอชอบทำให้คนเขินด้วยการพูดเสียงเบาใกล้หู แล้วพ่นคำโกหกที่ทำให้หน้าอีกฝ่ายร้อน ทั้งที่มันไม่จริงเลยแม้แต่น้อย
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** one of her stolen identities refuses to fade — and now lives inside her.
+* **Hooks:**
+
+  1. **The Double Mask:** an NPC claims to *be* Eryndel, with proof.
+  2. **The Whisper Debt:** someone recognizes her stolen voice.
+  3. **Echo of Lies:** Severance distortion begins mimicking her words mid-performance.
+
+---
+
+## Tags: #Female #HalfElf #Bard3 #CollegeOfWhispers #CR1 #Illusion #Seductive #Spy
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Eryndel **มักพูดในระยะใกล้จนลมหายใจแตะใบหู แล้วหัวเราะเบาๆ ก่อนถอยห่าง เหมือนตั้งใจให้คิดต่อเอง**
+
+> “You blushed. That means I win.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** Silver Tongue dagger
+  * **Armor:** stage corset armor
+  * **Tools:** disguise kit, musical instrument (lute)
+  * **Consumables:** charm perfume ×2, whisperstone
+  * **Misc:** half-mask, silver chime token
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Actor / Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Whisper Theater**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **performance infiltration**, **psychic duel**, **gossip heist**
+* **Affiliation:** **Moonstage Circle**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese European female half-elf bard whispers 165cm bob ash blonde violet silver eyes E-cup corset jacket sheer coat boots elegant stage spy seductive fantasy

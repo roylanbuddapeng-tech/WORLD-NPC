@@ -1,0 +1,208 @@
+# #293 — **Iselra Vaelion** — *The Velvet Afterimage*
+
+> “If you can’t tell where my hands end and your breath begins, we’re ready to start.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 293
+* **Gender:** **Female (Type: รุ่นน้อง)** — ขี้เล่น แววตามีเลศนัย ยั่วเก่งโดยไม่ขอโทษ
+* **Age:** 20
+* **Race:** **High Elf — Elf Sector** (≈88% human; elegant tapered ears, faint opaline shimmer in the iris)
+* **Class & Level:** **Wizard (School of Illusion)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **illusion infiltrator / glam-escapist / stage decoy**
+* **Organization:** **Thalassaran Council of Mirrors — covert atelier**
+* **Symbol:** a fingertip tracing a mirror’s ripple
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese idol elegance**, soft heart-shaped face, sly smile that arrives before the truth does.
+
+**Eyes:** opal-lilac with a thin silver ring; pupils dilate when casting.
+**Skin:** porcelain with a cool, lamp-lit glow along collarbones.
+
+**Hair (Female Hair Randomizer):** 🎲 **Twin Bun (weighted > twin tail)**
+**Style:** glossy twin buns high on the crown with two ribboned locks framing cheeks; wispy strands at nape.
+**Color:** **moonlight silver with rosy undertone**.
+
+**Height:** 166 cm
+**Weight:** 54 kg
+**Body Type:** **curvy-slender**, dancer’s waist with soft, teasing silhouette.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 101 – 70 – 106
+VALIDATION: • W/B = 0.693 → OK   • H/W = 1.51 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Nerd (30%) → success** — theory-obsessed illusion coder; writes “light-scripts.”
+**Glasses Rule (Nerd = always):** ✅ **Yes** — slim half-moon lenses with anti-glare runes.
+
+**Jewelry & Accessories:** silver crescent choker (focus), asymmetric pearl-drop earring, slim echo-sensor bracelet, and an ankle charm that faintly chimes when she steps.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High — coy stage-mage elegance**
+
+She wears a **sheer mesh bolero** over a **deep-plunge corset top** with **side cutouts** and a **short mirrored skirt** split high on the left thigh.
+A **backless veil-cape** drapes from the shoulders, scattering light into false footfalls.
+Thigh-high boots with soft soles complete the hush of her misdirection.
+
+**Palette:** moon-silver / blush pink / black accents
+**Weapons & Gear:**
+
+* *Prism Wand* (arcane focus)
+* *Pocket hall-of-mirrors* (folding frame that projects 10×10 ft illusory corridor)
+* *Silk smoke petals* (one-use, light obscurement)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **15** (Mage Armor 13 + DEX +2)
+* **Speed:** 30 ft; **Darkvision** 60 ft; **Fey Ancestry** (adv. vs charm)
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Deception +5, Performance +5, Arcana +5, Stealth +4, Insight +3
+* **Languages:** Common, Elvish, Sylvan, Thalassaran Cant
+
+**Wizard (Illusion) 3**
+
+* **Illusion Savant** (copy cheaper/faster)
+* **Improved Minor Illusion** (create sound + image together)
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Minor Illusion, Prestidigitation, Mage Hand, Dancing Lights*
+  * *1st:* *Disguise Self, Silent Image, Shield, Mage Armor*
+  * *2nd:* *Invisibility, Mirror Image, Phantasmal Force*
+
+**Attacks**
+
+* **Prism Wand (bonk only, flavor)**: +4, 1d6 bludgeoning
+* Tactics rely on spells; carries a backup **stiletto** (+4, 1d4+2 piercing)
+
+---
+
+## 🎯 Combat Tactics (Illusion Control / Seduction Feint)
+
+* **Role:** **controller / misdirection opener**
+* **Opener:** *Silent Image* clone walks into view while real Iselra circles under *Invisibility*.
+* **Flow:** *Mirror Image* to layer defense → *Phantasmal Force* to “paint” pain into a single high-value target.
+* **Finisher:** whispers at the ear from invisibility, then retreats behind a folding hall-of-mirrors corridor.
+
+**Damage Flavor:** enemies feel heat and breath that aren’t there; her illusions taste like mint and static.
+
+---
+
+## 💬 Personality
+
+* **Traits:** coquettish brainiac, giggles mid-equation; flirtation is her punctuation.
+* **Ideal:** Consent — “A good illusion is an invitation, not a theft.”
+* **Bond:** devoted to a troupe of street magicians she funds in secret.
+* **Flaw:** can’t resist “improving” others’ plans with risky flourishes.
+* **Quirk:** taps her glasses twice to “compile” a light-script before casting.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Mirror Courts & Masque District**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **masquerade heist**, **decoy escort**, **double-body alibi trial**
+
+---
+
+## 📜 Background & Lifestyle
+
+Prodigy from a glassweaver family; she reverse-engineered court illusions into portable “light-script” packets.
+Now the Council hires her when a scandal needs a prettier truth.
+
+* **Lifestyle:** luxe little loft stacked with prisms and tea tins.
+* **Income:** council retainers, private “alibi theater” commissions.
+* **Relationships:** trading tricks with Kaelia (#291); mentored (reluctantly) by Vynessa (#284).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes truth is a spectrum—her job is to tune it to a kinder frequency.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** mirrors that reflect someone else moving.
+* **Weaknesses:** fragile if cornered; relies on prep.
+* **Strengths:** layered deception, crowd misdirection, surgical mind-games.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**กฎมายา/เย้ายวน (บังคับ):** พูดกำกวมยั่วตลอดเวลา — ชวนหลงแล้วหาย
+
+> “If I take your hand, will you follow the real me… or the one you want?”
+
+ชอบทำให้เขินด้วยการขยับแว่นปลายนิ้วแล้วกระซิบชิดติ่งหูให้รู้สึกลมหายใจ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her folding “hall-of-mirrors” sometimes opens to rooms that don’t exist.
+* **Hooks:**
+
+  1. **The Third Iselra:** two illusions keep acting after the spell ends.
+  2. **Glass Debt:** the Council’s mirror ledger lists an “Iselra” born before her.
+  3. **Masque Heist:** a noble hires her to fake a murder—then dies for real.
+
+## Tags: #Female #HighElf #Wizard3 #SchoolOfIllusion #Seductive #Stealth #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Iselra **ชอบหลอกถามคำตอบส่วนตัวด้วยประโยคกำกวม**
+
+> “Tell me where you want my hands—so my illusions don’t have to guess.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** stiletto, prism wand
+  * **Armor:** enchanted corset (Mage Armor)
+  * **Tools:** pocket hall-of-mirrors, smoke petals
+  * **Consumables:** prism tea (focus), chalk lenses
+  * **Misc:** mirror tokens ×3
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Telekinetic / Actor**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Mirror Courts / Masque District**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **double-body alibi**, **illusion duel**, **court scandal escape**
+* **Affiliation:** **Council of Mirrors**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female high elf wizard illusion 166cm twin bun silver hair lilac opal eyes glasses G-cup deep plunge corset backless veil cape mirrored skirt seductive stage mage silver pink palette fantasy

@@ -1,0 +1,197 @@
+# #349 — **Soren “Black-Paw” Ilyas** — *Claw Mark on the Rain Rail*
+
+> “Count three scratches on the rail. The fourth is our way through.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 349
+* **Gender:** **Male (Type: เมะ)** — มั่นใจ สุภาพ ตัดสินใจไว หน้างานพึ่งพาได้
+* **Age:** 25
+* **Race:** **Half-Beast (mammal — panther lineage)** — ใกล้มนุษย์ ~88%; หูเล็กแนบศีรษะ, ตาแมวเรืองในเงา, เล็บมือคม
+* **Class & Level:** **Barbarian (Path of the Beast) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **lane breaker / ambush counter on slick rails / riot claw-guard**
+* **Organization:** **Valeronnes Rail Wardens — Black-Paw Detail**
+* **Symbol:** รอยเล็บสี่ขีดกรีดข้ามรางแก้วหนึ่งเส้น
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese feline poise** — quiet, intent gaze; smooth, predatory economy of movement.
+
+**Eyes:** panther-gold ringed with dark umber; pupils tighten in rainlight.
+**Skin:** warm olive; faint shadowy patterning on shoulders under close light.
+
+**Hair (Male Randomizer):** **Short**, **tousled textured crop with side-swept fringe**, easy to flatten under a hood.
+**Color:** **blue-black with midnight violet sheen**.
+
+**Height:** **179 cm**
+**Weight:** **75 kg**
+**Body Build:** **lean-athletic**, spring-loaded legs, corded back.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **black cord pendant** with a claw charm, **matte ring** on thumb, and a **rail token** tucked at the belt.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional claw-run kit**
+
+A **charcoal studded leather** under a **storm-black hooded half-cloak** that breaks the silhouette; **quiet-weave bracers** with climbing pads; **tapered guard-trousers** for long strides; **soft-sole boots** with micro-claws for grip.
+
+**Palette:** charcoal / storm black / muted steel / panther-gold accents
+
+**Weapons & Gear:**
+
+* **Claws / Bite / Tail (Form of the Beast)** — natural weapons during Rage
+* **Handaxe ×2** (throw/cut)
+* **Climber’s kit**, **silk rope 50 ft**, **caltrops**, **manacles**, **echo-salt**, **smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 = **33 HP**
+* **AC:** **15** (Unarmored Defense: 10 + **DEX 14 (+2)** + **CON 16 (+3)**)
+* **Speed:** **40 ft**
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Stealth +4, Perception +3, Survival +3, Acrobatics +4
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Beast**
+
+* **Rage (2/long rest):** +2 damage; resistance to **bludgeoning/piercing/slashing**
+* **Reckless Attack**, **Danger Sense**, **Unarmored Defense**
+* **Form of the Beast (choose each time you Rage):**
+
+  * **Claws:** your hands sprout claws (each Attack action can make **one extra claw attack** as part of the same action; **1d6 slashing** + STR)
+  * **Bite:** **1d8 piercing** + STR; once/turn on hit, gain **HP = PB (2)** if you have **≤ half HP**
+  * **Tail:** grow a spined tail (**1d8 bludgeoning** + STR, **reach 10 ft**); **Reaction** to add **+1d8** to AC vs a hit (possibly causing it to miss)
+* **Bestial Soul:** *(gained at 6th; not yet)*
+
+**Attacks**
+
+* **Claw (Rage; primary):** +6 to hit, **1d6+4** slashing; **extra claw attack** on the same Attack action (RAW) **(+2 damage while Raging)**
+* **Bite / Tail:** as above; switch to match the lane (bite to self-sustain, tail to control reach)
+* **Handaxe (20/60):** +6 to hit, **1d6+4** slashing (**+2** Rage)
+
+---
+
+## 🎯 Combat Tactics (Skirmish Breaker / Adaptive Predator)
+
+* **Role:** **frontline striker / lane control**
+* **Opener:** **Rage → Claws** for double-swipe when pushing a lane; or **Tail** to control a narrow edge with **reach + AC reaction**.
+* **Flow:** scale rails with climber’s kit; **Reckless** when team needs aggro pulled; swap to **Bite** if bloodied to sustain.
+* **Finisher:** heel-pivot through the seam, double rake across guard—bridge goes quiet.
+
+**Damage Flavor:** rain beads race along his claws; tail snaps leave rippling circles on wet glass.
+
+---
+
+## 💬 Personality
+
+* **Traits:** เงียบ สุภาพ ชอบยิ้มมุมปาก; โหมดล่าเมื่อถึงคิวทำทาง
+* **Ideal:** Efficiency — “หนึ่งช่องเปิดที่พอดี ดีกว่าสิบคมที่ฟุ่มเฟือย”
+* **Bond:** ทำ “แผนที่รางปีน” จุดไต่ปลอดภัยและทางหนีของพลเรือน
+* **Flaw:** มักลุยคนเดียวไปไกลเพราะเชื่อฟุตเวิร์กตัวเอง
+* **Quirk:** เคาะปลายเล็บกับราวสองทีเป็นสัญญาณเริ่มวิ่ง
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **ambush counter on the rail**, **riot peel with claw lines**, **VIP escort across roof-rails**
+
+---
+
+## 📜 Background & Lifestyle
+
+โตบนหลังคาที่ฝนตีชิด เขาเรียนรู้จังหวะพื้นลื่นกับการไต่ราง—คืนหนึ่งกรงเล็บ “ตอบสนอง” ใต้ผิวหนังเมื่อเขาปกป้องเด็กจากโจร เขาจึงเข้าหน่วย *Black-Paw* เพื่อเป็นมีดคมเงียบที่เปิดทางบนสะพาน
+
+* **Lifestyle:** ห้องใต้หลังคา เต็มเชือก สมอ และชอล์กทำเครื่องหมาย
+* **Income:** เงินเดือนยาม, โบนัสคุ้มกันหลังคา, ค่าตอบแทนงานปีนกู้ภัย
+
+---
+
+## 🧩 Morals & Ethics
+
+“เปิดทางแล้วหายไปก่อนใครรู้ตัว” — เขาเลือกทำให้ไฟต์สั้นและสะอาดที่สุด
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่พื้น “ไม่สะท้อนเล็บ” — ลาง Echo กลืนเงา
+* **Weaknesses:** ไม่มีระยะไกลจริงจัง; ถ้าถูกตรึงพื้นที่โล่งต้องรีบเข้าร่อง
+* **Strengths:** **ปรับร่างสู้ตามสถานการณ์ (claw/bite/tail)**, ความเร็วสูง, คุมเลนแคบยอดเยี่ยม
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ — สุขุมมั่นใจ ทำให้รู้สึกปลอดภัย:**
+
+> “เดินในรอยเล็บผม—ผมกรีดทางให้แล้ว.”
+
+ตอนซ้อม เขาจะจับข้อมือจัดศูนย์ถ่วง แล้วกระซิบ “อย่าฝืน—ให้พื้นส่งตัวคุณเหมือนแมว”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** ตะขอปีนของเขาบันทึก “รอยเล็บ” ที่ไม่ใช่ของมนุษย์—บางรอยลากข้ามรางไปอีกโลก
+* **Hooks:**
+
+  1. **Claw in the Glass:** รอยขีดบนรางเพิ่มเองตอนกลางคืน—ตามรอยไปยังแก๊งลอบฆ่าที่ “เรียนรู้ฟุตเวิร์กของเขา”
+  2. **Tail on the Wind:** ลมบนหลังคาเงียบลงเวลาเขาใช้หาง—มีบางอย่างเลียนแบบจังหวะเพื่อขโมยข้อได้เปรียบ
+  3. **Bite the Echo:** ต้องใช้ **Bite** เพื่อคงสติโดยไม่หยุดบุกในภารกิจยาว—ทดสอบขีดจำกัดออราเมือง
+
+---
+
+## Tags: #Male #HalfBeast #Panther #Barbarian3 #PathOfTheBeast #Striker #Control #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Soren **ยกชายคลุมให้บังฝน แล้วแตะราวเบา ๆ สองครั้ง**
+
+> “พร้อมนะ—หนึ่ง… สอง… ไป.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** natural (claw/bite/tail), 2× handaxes
+  * **Armor:** Unarmored Defense (studded leather as outerwear)
+  * **Tools:** climber’s kit, silk rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** claw charm, rail token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Mobile / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Roof-rails & narrow glass bridges**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **ambush counter**, **riot peel**, **VIP roof escort**
+* **Affiliation:** **Black-Paw Detail — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male half-beast panther barbarian path of the beast 179cm short tousled blue-black hair violet sheen lean athletic studded leather hooded half-cloak claws tail bite low exposure rain rooftop rail night stealthy striker fantasy

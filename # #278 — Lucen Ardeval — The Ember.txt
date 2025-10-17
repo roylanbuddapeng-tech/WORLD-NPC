@@ -1,0 +1,202 @@
+# #278 — **Lucen Ardeval** — *The Ember Crown Archivist*
+
+> “Every empire leaves behind ashes. My duty is to catalogue their warmth.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 278
+* **Gender:** **Male (Type: วัยกลางคน)** — quietly intense, with the bearing of a professor who’s seen too much war. Speaks softly, but his words carry the finality of scripture.
+* **Age:** 44
+* **Race:** **Human**
+* **Class & Level:** **Wizard (Conjuration)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **Arcane Historian / Battlefield Conjurist / Relic Custodian**
+* **Organization:** **Valeron Arcanum of Ember Archives**
+* **Symbol:** an open book surrounded by a burning crown.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **European (French–Italian)** — rugged elegance, soft-spoken but imposing when focused.
+
+**Eyes:** deep amber with red undertones that glimmer like live coals.
+**Skin:** olive-tan, faintly scarred around his hands and neck from summoning burns.
+
+**Hair (Male Hair Randomizer):** 🎲 **Short, straight, slightly tousled**
+**Style:** brushed back loosely, a single lock often falls across his temple.
+**Color:** **dark auburn with streaks of gray near the sides.**
+
+**Height:** 185 cm
+**Weight:** 80 kg
+**Body Build:** **broad-chested and toned, the physique of a man used to carrying armor and books alike.**
+
+**Sub-Theme:** 🎲 **Nerd (arcane archivist)** — collector of magical relics; keeps a detailed catalogue of every spell’s emotional resonance.
+
+**Glasses Rule (Nerd = Always):** ✅ **Yes.**
+**Glasses:** narrow rectangular spectacles with golden frames, inscribed with sigils for heat resistance.
+
+**Jewelry & Accessories:** silver ring etched with flame glyphs, old watch that ticks only when he casts, leather gloves lined with crimson thread.
+
+---
+
+## 👔 Outfit (in English)
+
+**Exposure Roll:** *Not applicable for male characters*
+
+Lucen wears a **dark crimson scholar’s coat** with golden seams running along his sleeves like fire veins.
+His **vest** is a soot-gray weave, clasped with a single red gemstone brooch symbolizing the Ember Crown.
+He carries a **folding grimoire holster** at his hip, from which pages float mid-air when he summons.
+
+**Palette:** crimson / gold / ash gray / black leather
+**Style:** scholar–soldier hybrid aesthetic
+
+**Weapons & Gear:**
+
+* *Flame-Etched Staff* (arcane focus)
+* *Grimoire of Living Embers*
+* *Runic Compass of the Old Crown*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **13** (mage armor)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, History +5, Investigation +5, Insight +3
+* **Languages:** Common, Infernal, Draconic
+
+**Wizard (Conjuration)**
+
+* **Minor Conjuration:** can create small, temporary non-magical objects.
+* **Benign Transposition:** swap places with allies via teleport.
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Fire Bolt, Mage Hand, Prestidigitation*
+  * *1st–2nd:* *Fog Cloud, Flaming Sphere, Misty Step, Mirror Image, Scorching Ray, Web*
+
+**Attacks**
+
+* **Fire Bolt:** +5 to hit, 1d10 fire.
+* **Quarterstaff:** +3 to hit, 1d6+1 bludgeoning.
+
+---
+
+## 🎯 Combat Tactics (Support / Battlefield Control)
+
+* **Role:** **mid-range summoner / controller**
+* **Opener:** *Web* or *Fog Cloud* → reposition with *Misty Step*.
+* **Flow:** controls space with conjurations while allies advance.
+* **Finisher:** *Scorching Ray* + *Benign Transposition* to ambush casters.
+
+**Flavor:** when he conjures, burning pages materialize midair, each spell written as a verse from forgotten history.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, analytical, quietly compassionate.
+* **Ideal:** Knowledge — “What we summon is never just magic; it’s history given shape.”
+* **Bond:** maintains a vault of sealed relics from fallen kingdoms.
+* **Flaw:** obsessive note-taker; sometimes stops mid-battle to write.
+* **Quirk:** hums under his breath while flipping pages — always the same tune.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeron — Ember Archives & Warfront Ruins**
+* **Threat Gradient:** **Stable → Echo Zone**
+* **Encounter Framing:** **arcane investigation**, **siege ruins research**, **summoning gone wrong**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a historian for the Valeron Empire, Lucen turned war-mage when the Severance tore his archives apart.
+He now safeguards what remains of magical history — and the memories that come with it.
+
+* **Lifestyle:** lives inside the archive; sleeps at his desk.
+* **Income:** relic restoration, spell transcription commissions.
+* **Relationships:** teacher to Kael (#275); close friend to Rheon (#276).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes all power is borrowed; the wise return it with gratitude.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** seeing his archives burn again.
+* **Weaknesses:** overprotective of knowledge — hoards truths too long.
+* **Strengths:** adaptable tactician, capable of quick spell synthesis.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — สุภาพ อบอุ่น มีแววเหนื่อยในแววตา แต่ยังอ่อนโยนเวลาสอนหรือพูดปลอบ ชอบใช้เสียงต่ำในระยะใกล้ให้คนฟังสงบลงโดยไม่รู้ตัว**
+
+> “Steady your hands… Magic listens best to a calm pulse.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his “Ember Crown” is a sealed relic that whispers in his dreams — possibly sentient.
+* **Hooks:**
+
+  1. **Ashes of Empire:** a long-dead emperor’s memory manifests to claim his grimoire.
+  2. **The Broken Seal:** one of his conjured entities refuses to disappear.
+  3. **Crown of Smoke:** Valeron’s ruins burn again — from within the archive itself.
+
+## Tags: #Male #MiddleAged #Human #Wizard3 #Conjuration #BattlefieldControl #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Lucen rarely flirts, but his composure and deep tone make others self-conscious.
+He **softens his tone when giving advice, unconsciously leaning closer**.
+
+> “If you fear mistakes, write them down first — then you’ll never repeat them.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** Flame-Etched Staff
+  * **Armor:** crimson scholar’s coat
+  * **Tools:** Runic Compass, grimoire
+  * **Consumables:** mana tonic (3), sealing scrolls (2)
+  * **Misc:** Ember Crown sigil fragment
+* **Level-Up Suggestion:** **+2 INT (to 19)** or **Feat: Keen Mind / Elemental Adept (Fire)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeron — Ember Archives**
+* **Threat Gradient:** **Stable → Echo Zone**
+* **Encounter Type:** **summoning ritual**, **ruined library defense**, **memory corruption**
+* **Affiliation:** **Valeron Arcanum of the Ember Archives**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Italian male human wizard conjuration 44yo short dark auburn hair gray streaks amber eyes glasses crimson scholar coat golden seams broad build intelligent calm mature fantasy

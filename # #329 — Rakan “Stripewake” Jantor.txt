@@ -1,0 +1,196 @@
+# #329 — **Rakan “Stripewake” Jantor** — *Claw of the Moon Sluices*
+
+> “Pick the fight you can finish. I finish mine.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 329
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น ตรงประเด็น
+* **Age:** 31
+* **Race:** **Half-Beast (mammal — tiger lineage)** — มนุษย์ ~86%; ลายเส้นจางๆ ตามไหล่และสะบัก, เขี้ยวบนเล็ก, นัยน์ตาอำพัน
+* **Class & Level:** **Barbarian (Path of the Beast) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **ช่องระบายน้ำยามคืนพายุ / ผู้ปราบจลาจลริมคูคลอง / นักล่า Echo ระยะประชิด**
+* **Organization:** **Thalassara Moon-Canal Warders**
+* **Symbol:** กรงเล็บสามเส้นกรีดผ่านสัญลักษณ์คลื่นจันทร์
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Japanese rugged** — calm, watchful eyes; a patient fighter’s posture.
+
+**Eyes:** deep amber with a narrow feline glint when his temper rises.
+**Skin:** sun-warmed tan; faint tiger stripe mottling across shoulders and upper back.
+
+**Hair (Male Randomizer):** **Short textured crop with hard part; undercut sides** for helm-fit.
+**Color:** **ink black with subtle amber streaks** that catch lantern light.
+
+**Height:** **182 cm**
+**Weight:** **81 kg**
+**Body Build:** **athletic-muscular**, springy legs, dense forearms; moves like a coiled spring.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **tiger-tooth charm** on leather cord, **rope-wrapped wrist guards**, and a **canal key-tag** at his belt.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional kit**
+
+A **charcoal leather brigandine** over **storm-gray gambeson**, **elbowed bracers** stitched with grip cord, and **split river-trousers** for wide lunges. **Cleat-soled boots** bite wet stone. A **short rain-cloak** snaps tight to avoid grabs in alleys.
+
+**Palette:** charcoal / storm gray / black / muted brass
+**Weapons & Gear:**
+
+* **Spear “Floodline”** (can brace in narrow lanes)
+* **2× Handaxes** (throw/cut line)
+* **Hook-rope 30 ft**, smoke bead ×1, echo-salt marker, climbing spikes
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 = **33 HP**
+* **AC:** **15** (Unarmored Defense: 10 + DEX 2 + CON 3)
+* **Speed:** **40 ft**
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Perception +3, Survival +3, Intimidation +2
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Beast**
+
+* **Rage (2/long rest):** +2 damage; resistance to B/P/S
+* **Reckless Attack**, **Danger Sense**, **Unarmored Defense**
+* **Form of the Beast (choose each Rage):**
+
+  * **Claws:** **1d6 slashing**; when you **take the Attack action** and hit with a claw, you can make **one additional claw attack** (once per turn).
+  * **Bite:** **1d8 piercing**; if you’re below half HP, on hit you **regain HP = PB (2)** once per turn.
+  * **Tail:** **1d8 piercing**, **reach 10 ft** (whip-like tail).
+
+**Attacks**
+
+* **Claw (Rage):** +6 to hit, **1d6+4** slashing (**+2** Rage); may **add one extra claw attack** as part of the same Attack action (once/turn).
+* **Bite (Rage):** +6 to hit, **1d8+4** piercing (**+2** Rage; heal PB on hit if <½ HP)
+* **Spear (1h/2h, thrown 20/60):** +6 to hit, **1d6/1d8+4** piercing (**+2** Rage)
+* **Handaxe (melee or thrown 20/60):** +6 to hit, **1d6+4** slashing (**+2** Rage)
+
+---
+
+## 🎯 Combat Tactics (Lane-Breaking Striker)
+
+* **Role:** **frontline striker / chase control**
+* **Opener:** **Rage** → **Claws** for extra swing; pin target in a narrow lane with spear butt.
+* **Flow:** swap to **Bite** when bloodied to self-sustain; use **Tail** to threaten 10-ft gaps or stop retreats.
+* **Finisher:** wall-bounce shoulder slam → double-claw rip; echo-salt marks drain.
+
+**Damage Flavor:** claw strikes leave teal-ring ripples on stone; his growl resonates like low thunder in canal arches.
+
+---
+
+## 💬 Personality
+
+* **Traits:** ตรงไปตรงมา ใจเย็น แซวสั้นๆ แบบแห้ง ๆ
+* **Ideal:** Responsibility — “คนแข็งแรงต้องยืนตรงเวลาพายุมา”
+* **Bond:** จำชื่อชาวเรือที่เคยช่วยทุกคน—พกเหรียญท่าเรือของพวกเขา
+* **Flaw:** ไม่ขอความช่วยเหลือง่าย ๆ ชอบรับงานลุยเดี่ยว
+* **Quirk:** กระดิกนิ้วเป็นจังหวะ “ทึ่ม—ทึ่ม—เฉาะ” ก่อนบุก
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Sluices, lock stairs, flood tunnels**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **canal riot control**, **narrow-lane hunt**, **floodgate stand**
+
+---
+
+## 📜 Background & Lifestyle
+
+โตในตรอกท่าน้ำ แม่เป็นคนถักเชือก เขาเรียนรู้การอ่านน้ำเชี่ยวและกระโดดจากกำแพงสู่กำแพง—คืนหนึ่งพายุกลืนตรอก เขาจึงพังแนวโจรเพื่อเปิดทางหนีให้เด็ก ๆ และไม่หยุดตั้งแต่นั้น
+
+* **Lifestyle:** ห้องใต้หลังคาแคบ ๆ เหนือเวิร์กช็อปเชือก
+* **Income:** สัญญาคุมตรอก, พิทักษ์ประตูน้ำ, โบนัสคืน Echo
+
+---
+
+## 🧩 Morals & Ethics
+
+“ล้มเร็วเพื่อจบเร็ว”—เขาเชื่อว่าความรุนแรงที่ถูกจังหวะคือการคุ้มครอง
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** ความเงียบก่อนน้ำซัด—สัญญาณ Echo
+* **Weaknesses:** AC ปานกลาง; ถ้าถูก kite ระยะไกลจะหัวเสีย
+* **Strengths:** burst สั้น ๆ แรง, ยืดไฟต์ด้วย **Bite heal**, คุมพื้นที่แคบด้วย **Tail reach**
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — นิ่งแต่ทำให้รู้สึกปลอดภัย:**
+
+> “เดินชิดผนัง—ถ้าลื่น ผมดึง.”
+
+เวลาอีกฝ่ายตื่นตระหนก เขาจะวางมือบนบ่าหนึ่งครั้งแล้วพูดเพียง “หายใจ”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** เชือก “Floodline” ที่ห้อยข้างหอกทำจากเส้นใยสะท้อนเสียง—ดึงวิญญาณ Echo ให้ชะงักเสี้ยววินาที
+* **Hooks:**
+
+  1. **Stripe in the Water:** ลายเสือบนไหล่เริ่มชัดเหมือนจะ “ตื่น” เมื่ออยู่ใกล้ Echo บางชนิด
+  2. **Sluice War:** แก๊งท้องถิ่นจะยึดประตูน้ำ—ต้องชนะโดยไม่ให้เมืองจมน้ำ
+  3. **Tiger Debt:** คนเก่ากลับมาขอให้ช่วยเด็กโจรที่เคยเป็นศัตรู—เขาต้องเลือกระหว่างหน้าที่กับหนี้บุญคุณ
+
+---
+
+## Tags: #Male #HalfBeast #Tiger #Barbarian3 #PathOfTheBeast #Striker #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rakan **ยื่นข้อมือหุ้มสายเชือกให้จับ**
+
+> “จับให้แน่น—ผมไม่ปล่อยก่อนคุณถึงฝั่ง.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** spear, 2× handaxes
+  * **Armor:** uses Unarmored Defense (brigandine is cover garment)
+  * **Tools:** hook-rope, climbing spikes
+  * **Consumables:** smoke bead ×1, echo-salt ×1
+  * **Misc:** canal key-tag, tiger-tooth charm
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Mobile / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Moon Sluices & flood tunnels**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **riot control**, **narrow-lane hunt**, **floodgate stand**
+* **Affiliation:** **Moon-Canal Warders**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Japanese male half-beast tiger barbarian path of the beast 182cm short undercut amber streaks brigandine spear canal night fantasy

@@ -1,0 +1,190 @@
+# #334 — **Garran “Redcut” Vale** — *Frenzy of the Narrow Bridge*
+
+> “Hold the line. I’ll break what won’t bend.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 334
+* **Gender:** **Male (Type: เมะ)** — มั่นใจ ดุดัน แต่คุมไฟในอกได้ดี
+* **Age:** 28
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Barbarian (Path of the Berserker) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **แนวหน้าทะลวงแนว / ผู้ยืนค้ำสะพานแคบ / นักปราบจลาจลบนรางแก้ว**
+* **Organization:** **Valeronnes Rail Wardens — Redline Detachment**
+* **Symbol:** รอยกรีดแนวยาวหนึ่งเส้นตัดวงกลมเล็ก (ช่องทาง)
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Greek–Arabic rugged** — heavy brows, sea-cut cheekbones, a fighter’s calm fire behind the eyes.
+
+**Eyes:** iron-brown; when anger rises, a faint red ring rims the iris.
+**Skin:** sun-warmed olive with pale old scars across forearms and ribs.
+
+**Hair (Male Randomizer):** **Short**, **tight fade with textured crop**; kept low for helm-fit.
+**Color:** **raven black** with a **dark red undertone** in sunlight.
+
+**Height:** **181 cm**
+**Weight:** **80 kg**
+**Body Build:** **athletic-muscular**, thick torso, whip-quick shoulders.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **red cord wrist-wrap** (team token), **iron ring** on thumb, and a **bridge-mark tag** at his belt.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — full battle kit**
+
+A **charcoal brigandine vest** over **stone-gray padded shirt**, **reinforced bracers**, and **split guard-trousers** for lunges. **Cleated boots** bite wet glass. A **short storm-cloak** buckles tight to keep profile small when charging.
+
+**Palette:** charcoal / stone gray / red accents / dull brass
+**Weapons & Gear:**
+
+* **Greataxe “Redcut”** (broad beard, scarlet cord at the grip)
+* **Handaxe ×2** (throw or close-in)
+* **Hook-rope 30 ft**, **caltrops**, **echo-salt**, **smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 = **33 HP**
+* **AC:** **15** (Unarmored Defense: 10 + DEX 2 + CON 3)
+* **Speed:** **40 ft**
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Intimidation +2, Perception +3, Survival +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Berserker**
+
+* **Rage (2/long rest):** +2 damage; resistance to B/P/S
+* **Reckless Attack**, **Danger Sense**, **Unarmored Defense**
+* **Frenzy:** while raging, you can enter **Frenzy** (bonus action weapon attack each turn); when the rage ends, you suffer **one level of exhaustion** (RAW).
+
+**Attacks**
+
+* **Greataxe (2h):** +6 to hit, **1d12+4** slashing (**+2** while Raging)
+* **Handaxe (melee or thrown 20/60):** +6 to hit, **1d6+4** slashing (**+2** Rage)
+
+---
+
+## 🎯 Combat Tactics (Bridge Breaker / Aggro Anchor)
+
+* **Role:** **frontline striker / pressure anchor**
+* **Opener:** **Rage** → **Reckless Attack** to draw eyes → plant feet mid-bridge.
+* **Flow:** trigger **Frenzy** when the team commits; **bonus attack** each turn to chew through shields; handaxes punish kites trying to peel away.
+* **Finisher:** shoulder-check into rail; the **greataxe** comes down like a gate, ending the lane.
+
+**Damage Flavor:** each hit leaves a quick red shimmer in the air, as if the cut draws a line only he can see.
+
+---
+
+## 💬 Personality
+
+* **Traits:** หนักแน่น ตรงคำ ไม่โอ้อวด; สายตาเคร่งแต่ใจดี
+* **Ideal:** Resolve — “ยืนก่อนพูด แล้วค่อยพูดสั้น ๆ ”
+* **Bond:** รายชื่อ “สะพานที่เคยยืนตายตัว” ของทีม—เขาจำทุกชื่อ
+* **Flaw:** ลุยเกินเพื่อกันหลังเพื่อน; ยอมรับ **exhaustion** แลกชัยชนะบ่อยไป
+* **Quirk:** เคาะส้นเท้าสองทีบนพื้นสะพานก่อนพ突—“ล็อกทาง”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock stairs, narrow rails**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **bridge hold**, **riot split in lanes**, **rush the chokepoint**
+
+---
+
+## 📜 Background & Lifestyle
+
+เติบโตในตรอกใกล้สะพานเส้นรอง เห็นคนล้มเพราะไม่มีใคร “ยืนรับแรก” เขาจึงฝึกการชน รับแรง และกรีดแนวให้ทีมผ่าน—จนได้ฉายา *Redcut* จากรอยกรีดสะพานที่เขา “ทำเครื่องหมายชัยชนะ” หลังเคลียร์ทาง
+
+* **Lifestyle:** ห้องแคบเหนือโรงตีหมุดสะพาน; ตะขอ เชือก รองเท้าเกาะเต็มผนัง
+* **Income:** เงินเดือนยาม, โบนัสยืนแนว, งานเก็บกวาด Echo บนสะพาน
+
+---
+
+## 🧩 Morals & Ethics
+
+“ทำให้การสู้สั้นและตรง” — เลือกเป้าหมายที่จะจบไฟต์เร็วเพื่อให้คนด้านหลังปลอดภัย
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** ความเงียบก่อนสะพานสั่น—ลาง Echo
+* **Weaknesses:** **Exhaustion** หลัง **Frenzy** ทำให้ภารกิจถัดไปเสี่ยง; ระยะไกลสู้ยาก
+* **Strengths:** burst สูงต่อเนื่อง (bonus attack), คุมเลนแคบ, ยืนดึงไฟได้ดี
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ — สุขุมมั่นใจ ทำให้รู้สึกปลอดภัย:**
+
+> “หลังฉันไว้ ทางนี้จบเร็ว.”
+
+เวลาอีกฝ่ายหวาด เขาจะจับศอกตั้งสมดุลแล้วบอกสั้น ๆ “สองก้าว—พร้อมบุก”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** รอยกรีดเก่าบนสะพานหนึ่ง “เรืองแดง” เมื่อเขาเข้าใกล้—เหมือนสะพานจำเขาได้
+* **Hooks:**
+
+  1. **Exhausted Bridge:** ศัตรูวางแผนยืดไฟต์ให้เขาเหนื่อยจาก Frenzy แล้วสวน—ต้องเปลี่ยนสไตล์ให้ทีม
+  2. **Red Line Debt:** ผู้ก่อจลาจลใช้สีแดงวาดเส้นท้าทายบนสะพานของเขาเอง
+  3. **Cut That Echoes:** รอยบากของเขาเริ่ม “ส่งเสียง” เรียกบางสิ่งใต้รางแก้ว
+
+---
+
+## Tags: #Male #Human #Barbarian3 #PathOfTheBerserker #Frontline #Striker #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Garran **เอียงไหล่ให้กำบังฝน แล้วยิ้มมุมปาก**
+
+> “พร้อมหรือยัง—ผมตัดให้แคบพอที่คุณจะผ่าน.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** greataxe, 2× handaxes
+  * **Armor:** uses Unarmored Defense (brigandine as outerwear)
+  * **Tools:** hook-rope, caltrops
+  * **Consumables:** smoke bead ×1, echo-salt ×1
+  * **Misc:** red cord wrap, bridge-mark tag
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Great Weapon Master / Durable**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **chokepoint rush**, **bridge hold**, **riot split**
+* **Affiliation:** **Rail Wardens — Redline Detachment**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Greek Arabic male human barbarian berserker 181cm short tight fade textured crop raven hair red undertone athletic muscular charcoal brigandine greataxe narrow bridge rain night low exposure fantasy

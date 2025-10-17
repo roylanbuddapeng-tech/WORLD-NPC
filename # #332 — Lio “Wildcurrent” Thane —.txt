@@ -1,0 +1,191 @@
+# #332 — **Lio “Wildcurrent” Thane** — *The Laugh Between Lightning*
+
+> “If the world rolls the dice, I’ll make it land on us.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 332
+* **Gender:** **Male (Type: เคะ)** — สุภาพ อ่อนโยน ยิ้มง่าย แต่พอเข้าไฟต์สายตาคมขึ้นทันที
+* **Age:** 24
+* **Race:** **Human (Thalassaran-born)**
+* **Class & Level:** **Barbarian (Path of Wild Magic) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **frontline breaker / echo-storm scout / hazard runner**
+* **Organization:** **Thalassara Tidewatch — Wild Surge Team**
+* **Symbol:** ลูกเต๋าสองลูกเหนือคลื่นฟ้าผ่าหนึ่งเส้น
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Chinese–Vietnamese soft-rugged** — gentle cheek lines, bright dark eyes, playful smile that turns focused when danger hits.
+
+**Eyes:** deep brown with faint teal sparks when rage surges.
+**Skin:** warm tan with tiny star-freckles across the shoulders.
+
+**Hair (Male Randomizer):** **Medium**, **messy layered mop with side-parted fringe**; wind-tossed, finger-combed.
+**Color:** **ink-black with teal micro-sheens** at the tips.
+
+**Height:** **178 cm**
+**Weight:** **73 kg**
+**Body Build:** **lean-athletic**, springy legs, quick wrists.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **plaited cord charm** threaded with colored shards, **storm-shell ear cuff**, and a **small prism die** tied at his belt.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional storm-runner kit**
+
+A **charcoal leather brigandine** over a **moon-gray padded shirt**, **quiet-weave bracers**, and **split travel trousers** for long strides. **Cleated boots** grip wet stone. A **short storm capelet** clasps tight to keep profile small during surges.
+
+**Palette:** charcoal / moon-gray / teal glints / dull brass
+**Weapons & Gear:**
+
+* **Greatsword “Surge-Laugh”** (broad blade etched with tiny dot constellations)
+* **Handaxe ×2** (throw/cut)
+* **Hook-rope 30 ft**, **smoke bead ×1**, **echo-salt marker**, **storm whistle**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 = **33 HP**
+* **AC:** **15** (Unarmored Defense: 10 + DEX 2 + CON 3)
+* **Speed:** **40 ft**
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Acrobatics +4, Perception +3, Survival +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of Wild Magic**
+
+* **Rage (2/long rest):** +2 damage; resistance to B/P/S
+* **Reckless Attack**, **Danger Sense**, **Unarmored Defense**
+* **Magic Awareness (1/long rest):** action → for **10 minutes** sense spells/magic items within 60 ft (know the school).
+* **Wild Surge:** **when you Rage**, roll on the Wild Magic table (d8) to produce effects (e.g., **teleport flashes, force lashes, spectral vines, lightning bursts, protective motes**, etc.) lasting while you rage (RAW).
+
+**Attacks**
+
+* **Greatsword (2h):** +6 to hit, **2d6+4** slashing (**+2** while Raging)
+* **Handaxe (20/60):** +6 to hit, **1d6+4** slashing (**+2** Rage)
+
+---
+
+## 🎯 Combat Tactics (Unpredictable Striker / Surge Controller)
+
+* **Role:** **frontline striker / chaos utility**
+* **Opener:** **Magic Awareness** if scouting; otherwise **Rage** and embrace the **Wild Surge** result to shape the approach (teleport pops for flanks, vines to pin, motes for defense).
+* **Flow:** **Reckless** only when the surge favors defense/soft control; kite via 40 ft speed, throw axes to keep pressure.
+* **Finisher:** time the greatsword swing with a surge pulse—one clean arc, a laugh, and quiet after.
+
+**Damage Flavor:** teal sparks spin off his blade like tiny fireflies; surge effects hum like a choir of dice hitting stone.
+
+---
+
+## 💬 Personality
+
+* **Traits:** ใจดี ขี้เล่น ยิ้มเก่ง แต่โฟกัสเร็วเมื่ออันตรายมา
+* **Ideal:** Joy-in-Danger — “เสียงหัวเราะทำให้ใจไม่ตกหลุมพายุ”
+* **Bond:** ดูแลทีม Wild Surge ที่อาสาเข้าพื้นที่สุ่ม Echo ก่อนใคร
+* **Flaw:** ชอบเสี่ยงเพื่อ “ผลลัพธ์สวย” เกินจำเป็น
+* **Quirk:** เขย่าปริซึมไดส์หนึ่งครั้งก่อนรันอิน—“ขอหน้าที่ใช่”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — storm ladders, moon sluices, echo-slick bridges**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **surge-scout run**, **narrow bridge break**, **riot peel under stormlight**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกเรือฉุกเฉินที่ชอบวิ่งเข้าไปก่อนแผน ความบ้ากล้ากลายเป็นพรเมื่อ Echo ตอบรับ—ครั้งแรกที่หัวเราะขณะหลบคลื่น เสียงฟ้าผ่าก็หัวเราะตาม เขาจึงถูกดึงเข้าสู่หน่วย “หัวเราะกลางพายุ”
+
+* **Lifestyle:** ห้องบนดาดฟ้าท่าเรือ เต็มด้วยเชือก แผนที่ลม และลูกเต๋าหลายสี
+* **Income:** สัญญาคุ้มกัน, เบี้ยเสี่ยง Echo, โบนัสเปิดทางในคืนพายุ
+
+---
+
+## 🧩 Morals & Ethics
+
+“ใช้ความสุ่มเพื่อปกป้อง ไม่ใช่เพื่อทำลาย” — เขาเชื่อว่าความคาดเดาไม่ได้ของตนควรตกใส่ศัตรู ไม่ใช่ชาวบ้าน
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่ฟ้าผ่า “เงียบ” — หมายถึง Echo กลืนเสียงไปแล้ว
+* **Weaknesses:** พึ่งดวงบางช่วง; ถ้า surge ออกแนว utility ต้องอ่านเกมไว
+* **Strengths:** ปรับตัวกลางไฟต์, ความเร็วสูง, burst หนักเมื่อ surge เข้าทาง
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ — สุภาพ ดูแลด้วยรอยยิ้ม:**
+
+> “จับชายเสื้อผมแน่น ๆ นะ—ถ้าโชคกระเซ็น ผมจะดึงคุณไว้.”
+
+ชอบทำให้เขินแบบใส ๆ ด้วยการยิ้มแล้วว่า “ถ้าคุณกลัว ผมหัวเราะให้ก่อน… แบ่งกันใช้”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** ปริซึมไดส์ของเขาบันทึกหน้าที่ออกบ่อยผิดปกติ—เหมือน “ใคร” จากอีกฝั่งกำลังช่วยเลือก
+* **Hooks:**
+
+  1. **Dice That Chooses Back:** ผล surge เดิมซ้ำถี่—ตามสืบว่าใครกำลัง “โกงลูกเต๋า” ของโลก
+  2. **Silent Thunder:** โจรใช้เครื่องมือดูดเสียงฟ้าผ่าให้หาย—ต้องปะทะกลางสะพานเงียบ
+  3. **Laughline:** ชาวบ้านเริ่มเลียนเสียงหัวเราะของเขาแล้วใจนิ่ง—เขากลายเป็นเครื่องหมายทางจิตใจของเมือง
+
+---
+
+## Tags: #Male #Human #Barbarian3 #PathOfWildMagic #Frontline #Striker #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Lio **ยื่นมือมารับแรงกระชากของลม**
+
+> “พร้อมไหม? งั้น—โยนลูกเต๋า แล้ววิ่งไปด้วยกัน.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** greatsword, 2× handaxes
+  * **Armor:** uses Unarmored Defense (brigandine is outerwear)
+  * **Tools:** hook-rope, storm whistle
+  * **Consumables:** smoke bead ×1, echo-salt ×1
+  * **Misc:** prism die charm, cord talisman
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Great Weapon Master / Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Storm ladders & echo-slick bridges**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **surge-scout run**, **bridge break**, **riot peel**
+* **Affiliation:** **Tidewatch — Wild Surge Team**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Chinese Vietnamese male human barbarian wild magic 178cm medium messy fringe ink-black hair teal sheen lean athletic charcoal brigandine greatsword teal sparks storm bridge rain fantasy

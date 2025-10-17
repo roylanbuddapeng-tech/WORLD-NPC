@@ -1,0 +1,201 @@
+# #317 — **Nilo Crestveil** — *The Perfumed Shadow of Midnight Silk*
+
+> “You’re staring again… is it the scent, or the sound of my heartbeat?”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 317
+* **Gender:** **Male (Type: Femboy — Subtype: Innocent Tease)**
+* **Age:** 19
+* **Race:** **Half-Beast (feline lineage — panther)** — ~88% human; faint catlike pupils, soft black down at nape and tailbone, ears slightly pointed with short velvety fur.
+* **Class & Level:** **Rogue (Mastermind)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **spy courier / ballroom informant / perfume alchemist’s assistant**
+* **Organization:** **Thalassara Whisper Guild — Midnight Silk Branch**
+* **Symbol:** a stylized cat’s eye drawn in violet ink over a scent vial.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Japanese blend**, delicate features, radiant fair skin with peach-pink warmth, soft voice that trembles when nervous.
+
+**Eyes:** silver-amber, like champagne catching moonlight.
+**Skin:** smooth, pale honey with faint silver undertone near the neck.
+
+**Hair (Feminine Hair Randomizer for Femboy):** 🎲 **Bun (boosted over twin tail)**
+**Style:** **low loose bun with soft stray locks**, thin bangs curving near the eyes.
+**Color:** **midnight blue fading to silver ends.**
+
+**Height:** **159 cm**
+**Weight:** **49 kg**
+**Body Build:** **slender and graceful**, narrow shoulders, long eyelashes, gentle expression.
+
+**Jewelry & Accessories:** thin silver choker with lavender gem, charm anklet with silent bells, delicate bracelet with a scent capsule.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Very High (aesthetic, sensual but non-explicit)**
+
+A **sheer silk vest** that leaves his sides open, held by thin violet ribbons; underneath, a **short halter** with a silver clasp at the collar.
+Loose **translucent pants** slit to the thigh reveal glimpses of smooth skin when he walks.
+**Barefoot**, with silver anklets that chime faintly when he turns.
+
+**Palette:** lavender / silver / midnight blue / pale ivory
+
+**Weapons & Gear:**
+
+* **Poisoned Dagger “Nightwhisper” (+1)**
+* **Perfume kit** (used for poisons and distractions)
+* **Fan of Veiled Air** (flavored as distraction tool; counts as improvised weapon)
+* **Signal coin (used to call allies)**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **19 HP**
+* **AC:** **15** (light armor + DEX)
+* **Speed:** **30 ft**
+* **STR 9 (-1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 14 (+2)** **WIS 13 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** Deception +5, Persuasion +5, Stealth +8, Insight +3, Acrobatics +6, Sleight of Hand +6, Perception +3
+* **Languages:** Common, Elvish, Thalassaran Cant, Feline Sign (hand motion code)
+
+**Rogue (Mastermind) 3**
+
+* **Master of Intrigue:** mimic speech, accent, and writing of others.
+* **Master of Tactics:** use **Help** as a **bonus action** (30 ft range).
+* **Sneak Attack:** 2d6 (once/turn).
+* **Cunning Action:** Dash, Disengage, or Hide as bonus action.
+
+**Attacks**
+
+* **Nightwhisper Dagger:** +6 to hit, 1d4+4 piercing + **poison (DC 13 CON or poisoned 1 round)**
+* **Fan (improvised):** +6 to hit, 1d4+4 bludgeoning (distraction, optional blinding flourish).
+
+---
+
+## 🎯 Combat Tactics (Deceptive Support / Poison Enabler)
+
+* **Role:** **disruptor / support / distraction focus**
+* **Opener:** throws perfume bomb to blur vision or scent, helps ally with bonus Help action.
+* **Flow:** poisons from distance, hides behind allies, gives advantage to frontliners.
+* **Finisher:** slits a throat in silence, then murmurs, “Sweet dreams…”
+
+**Damage Flavor:** faint lavender mist follows each strike; scent lingers as memory.
+
+---
+
+## 💬 Personality
+
+* **Traits:** soft-spoken, curious, smiles often, accidentally flirty.
+* **Ideal:** Compassion — “Even spies can love the truth they hide.”
+* **Bond:** adores his mentor (an older female Mastermind) and imitates her elegance.
+* **Flaw:** apologizes while deceiving; guilt slows his hand.
+* **Quirk:** says “sorry” right before striking, like a habit he can’t break.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Velvet Spire, Midnight Silk Market**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **masked ball infiltration**, **poisoned trade meet**, **spy relay handoff**
+
+---
+
+## 📜 Background & Lifestyle
+
+Nilo was raised among perfumers who served as couriers for the Whisper Guild. He learned to blend poisons with scents so faint that only their victims ever smelled them.
+
+* **Lifestyle:** sleeps in a perfumed loft above an alchemy shop.
+* **Income:** courier commissions, perfume testing, information selling.
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes kindness is stronger than fear — he kills only those who cause suffering.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** accidentally hurting someone innocent.
+* **Weaknesses:** overtrusts; hesitates before killing.
+* **Strengths:** support tactics, distraction play, infiltration.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Subtype: Innocent Tease**
+เขาไม่ได้ตั้งใจยั่ว แต่คำพูดกลับฟังดูอย่างนั้นเสมอ เช่น—
+
+> “Eh? You’re blushing again… is it too warm? I can take this off if it helps…”
+
+หรือเมื่อโดนชมเรื่องกลิ่น เขาจะตอบเสียงเบา
+
+> “Really? You like it? That’s just my skin oil… maybe you should smell closer?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** keeps a secret vial containing his real scent — one drop makes anyone recall their most intimate memory.
+* **Hooks:**
+
+  1. **The Violet Coin:** someone stole his scent vial — it’s now used in assassinations.
+  2. **Mirror Market:** a rival spy has the same face; one is illusion, one real.
+  3. **The Scent of Sin:** an alchemical batch gone wrong starts causing hallucinations of love.
+
+---
+
+## Tags: #Male #Femboy #HalfBeast #Cat #Rogue3 #Mastermind #Spy #Poison #Thalassara #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nilo tilts his head, a faint smile tugging his lips.
+
+> “Did I say something strange? You keep… staring.”
+
+แล้วขยับเข้ามาใกล้โดยไม่รู้ตัวจนปลายผมแตะปลายคางของอีกฝ่าย
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** Nightwhisper dagger, fan
+  * **Armor:** light silk vest
+  * **Tools:** disguise kit, perfume alchemy kit
+  * **Consumables:** lavender bombs ×2
+  * **Misc:** scent charm, signal coin
+* **Level-Up Suggestion (to 4):** +2 DEX (to 20) or **Feat: Actor**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Midnight Silk Market — Thalassara**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **infiltration, tradeball, spy chase**
+* **Affiliation:** **Whisper Guild — Midnight Silk**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Japanese femboy male half-beast cat rogue mastermind 159cm loose low bun silver-blue hair silver eyes sheer silk vest high slit pants barefoot innocent tease perfume poison fantasy

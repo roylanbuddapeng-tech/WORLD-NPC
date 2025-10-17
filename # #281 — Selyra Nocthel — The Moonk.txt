@@ -1,0 +1,209 @@
+# #281 — **Selyra Nocthel** — *The Moonknife of Ash Arches*
+
+> “A whisper is just a blade that chose silence.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 281
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — คมแต่เป็นกันเอง อารมณ์ขันเสียดสี แสดงน้ำใจแบบไม่ให้ใครจับได้
+* **Age:** 24
+* **Race:** **Dark Elf (Drow) — Elf Sector** (≈85–90% human; dusk-violet eyes, slim tapered ears, faint starlit sheen on skin)
+* **Class & Level:** **Rogue (Assassin)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral**
+* **Profession:** **contract infiltrator / poison courier / echo-scout**
+* **Organization:** **Gravemere Black Stair Syndicate (freelance cell)**
+* **Symbol:** a crescent blade crossing a mute bell
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–European** blend; porcelain-smooth midnight skin, sharp cheekbones, and cool, assessing gaze.
+
+**Eyes:** dusk-violet with a thin silver ring.
+**Skin:** deep ash-gray with faint blue reflex on collarbone.
+
+**Hair (Female Hair Randomizer):** 🎲 **Ponytail (highest freq)**
+**Style:** sleek high ponytail with razor-straight bangs; underlayer micro-braids for grip.
+**Color:** **smoky black with indigo tips**.
+
+**Height:** 170 cm
+**Weight:** 57 kg
+**Body Type:** **athletic hourglass**, lithe core, springy steps.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 95 – 68 – 98
+VALIDATION: • W/B = 0.716 → OK   • H/W = 1.44 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **None** (street-raised professional; hates titles)
+
+**Glasses Roll (non-Nerd female 50%):** 🎲 Fail → **No glasses**
+
+**Jewelry & Accessories:** matte obsidian ear-cuff (signal click), thin silver choker with hollow capsule (antidote), silent-step anklet, and a ceramic ring holding micro-blade.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium–High (functional reveal)**
+
+A **charcoal stealth catsuit** with **backless lattice** for climbing grip and a **cropped midnight vest** that breaks outline under moonlight.
+**Thigh-rig holsters** carry needles and vials; a **split skirt-panel** masks movement when running.
+Boots are ripple-soled for canal stone.
+
+**Palette:** charcoal / indigo / muted silver
+**Accents:** matte fittings, non-reflective buckles, blackened stitching
+
+**Weapons & Gear:**
+
+* *Moonshard* (stiletto), *garrote wire*, *silenced hand crossbow* (10 poisoned bolts)
+* Poisoner’s kit (drow sleep, carrion crawler mucus, custom “Echo-Mute”)
+* Climber’s kit, smoke beads, collapsible mirror
+
+---
+
+##⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **21 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft; **Darkvision** 120 ft; **Sunlight Sensitivity** (Drow)
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 14 (+2)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Stealth +8, Acrobatics +6, Perception +4, Insight +4, Sleight of Hand +6, Deception +4, Investigation +3
+* **Tools:** Poisoner’s Kit, Disguise Kit, Thieves’ Tools (+6)
+* **Languages:** Common, Elvish, Undercommon
+
+**Rogue (Assassin) 3**
+
+* **Sneak Attack 2d6**, **Cunning Action** (Dash/Disengage/Hide)
+* **Assassinate:** adv. vs. creatures that haven’t acted; crit vs. surprised targets
+* **Expertise:** Stealth, Thieves’ Tools
+
+**Drow Magic:** *Dancing Lights*; at higher levels: *Faerie Fire*, *Darkness* (flavor only noted)
+
+**Attacks**
+
+* **Stiletto (finesse):** +6 to hit, 1d4+4 piercing (+2d6 Sneak on hit)
+* **Hand Crossbow (silenced):** +6 to hit, 1d6+4 piercing; poisoned bolt (DC 13 varies)
+* **Garrote (special):** contested checks to restrain/silence (DM adjudication)
+
+---
+
+## 🎯 Combat Tactics (Assassination / Poison)
+
+* **Role:** **alpha-strike eliminator / control via poison**
+* **Opener:** vantage scout → **Assassinate** with poisoned crossbow; second shot on guard captain.
+* **Flow:** **Cunning Action: Hide**, rotate angles, use **Echo-Mute** (home-mixed poison that muffles voice; RAW use as Drow poison DC 13 sleep or silence-flavor).
+* **Finisher:** close-in stiletto to carotid; vanish via smoke bead and rooftop route.
+
+**Damage Flavor:** indigo ripple across skin; victims’ voices drop to a hush before collapse.
+
+---
+
+## 💬 Personality
+
+* **Traits:** dry humor, keeps promises like contracts, meticulous about footprints.
+* **Ideal:** Precision — “Mercy is mess. Clean cuts, clean ends.”
+* **Bond:** pays a quiet tithe to a nameless orphanage.
+* **Flaw:** refuses to kill singers or children; jobs get complicated.
+* **Quirk:** counts steps in prime numbers; taps three times before any door.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Gravemere** — Ash Arches, Black Stair, fogged canal roofs
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **roofline pursuit**, **masquerade infiltration**, **canal-bridge ambush**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised in the echo-markets beneath Gravemere’s amphitheater, Selyra learned to move between applause and silence.
+She left the syndicate once; they kept her ledger anyway. Now she “buys it back” a name at a time.
+
+* **Lifestyle:** sparse rooftop loft; sleeps with earplugs, one eye to the moon.
+* **Income:** contracts, hush-deliveries, “problem-solving.”
+* **Relationships:** wary respect with Velna (#268); mutual non-aggression with Kaelrin (#279).
+
+---
+
+## 🧩 Morals & Ethics
+
+She won’t start wars, just end conversations. Targeted violence over spectacle; zero collateral if she can help it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** bright stages (crowds + sunlight); tight deadlines fray her control.
+* **Weaknesses:** Sunlight Sensitivity; won’t harm protected classes (self-imposed rule).
+* **Strengths:** first-round lethality; infiltration; poison craft.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — ยิ้มมุมปาก ท่าทีขำขันเย็น ๆ ชอบกระซิบใกล้หูให้คนฟังเสียสมาธิ**
+
+> “Breathe through your nose… good. Now hold that thought while I take his.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her “Echo-Mute” formula is keyed to her heartbeat—anyone else risks death on brewing.
+* **Hooks:**
+
+  1. **Bell Without Sound:** a guildmaster’s voice vanishes mid-speech; only Selyra’s poison can restore it.
+  2. **Ledger of Names:** the syndicate sells her real name to a rival house.
+  3. **Moonknife Debt:** an old partner returns as a witness—who can’t be allowed to speak.
+
+## Tags: #Female #FriendType #ElfSector #Drow #Rogue3 #Assassin #Poison #Stealth #CR1 #Gravemere
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Selyra **ทำให้เขินด้วยการจงใจยืนในมุมมืดแล้วเอียงคอถามใกล้ ๆ เหมือนจะจูบ แต่จริง ๆ ตรวจชีพจร**
+
+> “Relax. If I wanted your breath, you’d already have given it to me.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** stiletto, silenced hand crossbow, garrote
+  * **Armor:** studded stealth suit
+  * **Tools:** thieves’ tools, poisoner’s kit, disguise kit
+  * **Consumables:** 4× poisoned bolts, 2× smoke beads, 1× antidote capsule
+  * **Misc:** fold-mirror, grapnel line
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Poisoner / Skulker**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Gravemere — Ash Arches / Black Stair**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **assassination run**, **mask infiltration**, **canal-roof chase**
+* **Affiliation:** **Black Stair Syndicate (loose ties)**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese European female drow rogue assassin 170cm high ponytail smoky black hair indigo tips violet eyes E-cup stealth catsuit backless split skirt stiletto hand crossbow rooftop moonlight indigo poison

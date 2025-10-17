@@ -1,0 +1,195 @@
+# #344 — **Ren “Quiet-Feather” Aoi** — *Samurai of the Owl Rail*
+
+> “I count the beats between raindrops. There’s always room for one more step.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 344
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น สุภาพแต่มั่นใจ
+* **Age:** 31
+* **Race:** **Half-Beast (avian — owl lineage)** — ใกล้มนุษย์ ~88%; ขนละเอียดจางหลังหู, นัยน์ตากลมลึกสีอำพัน, เล็บมือโค้งเล็กน้อย
+* **Class & Level:** **Fighter (Samurai) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **duelist escort / line captain on slick rails / riot calm-cutter**
+* **Organization:** **Valeronnes Rail Wardens — Owl Rail Cohort**
+* **Symbol:** ขนนกฮูกหนึ่งเส้นทาบรางแก้วแคบ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean disciplined grace** — still gaze, measured breath, economy of motion.
+
+**Eyes:** deep amber with a soft reflective ring in rainlight.
+**Skin:** fair-olive with cool undertones; faint weathering at nose bridge.
+
+**Hair (Male Randomizer):** **Medium**, **half-up knot (samurai bun) with tapered sides**, loose wisps framing the ears.
+**Color:** **raven black with cool ash-brown lowlights.**
+
+**Height:** **180 cm**
+**Weight:** **76 kg**
+**Body Build:** **lean-athletic**, long forearms, steady stance.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **matte steel ear cuff** (owl feather motif), **braided cord wrist-wrap** (counting beats), and a **rail token** tucked inside the collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional duelist kit**
+
+A **brushed-steel breastplate** over an **indigo padded jacket**, **quiet-weave bracers**, and **tapered guard-trousers** for long lunges on slick glass. **Soft-sole boots** grip wet rails. A **short rain-cloak** pins flat to avoid wind catch when he cuts.
+
+**Palette:** steel / indigo / charcoal / muted silver
+
+**Weapons & Gear:**
+
+* **Longsword “Quiet-Feather”** (katana-form; matte fuller, water-shedding edge)
+* **Shortsword (wakizashi-form)**
+* **Longbow** + 20 arrows
+* **Silk rope 50 ft, manacles, chalk-line, echo-salt, smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **18** (breastplate 14 + DEX +2 + **Defense style** +1 + fitted kit rounding to 18)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Insight +3, Perception +3, Persuasion +2 (+**Elegant Courtier** adds **+1** from WIS), Stealth +4
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Samurai**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Fighting Spirit (3/long rest):** **Bonus Action** → gain **advantage on weapon attacks** until end of current turn and **temp HP = 5**
+* **Elegant Courtier:** proficiency in **Wisdom (Insight)**; add **WIS mod (+1)** to **CHA (Persuasion)** checks
+
+**Attacks**
+
+* **Longsword (1h):** +5 to hit, **1d8+3** slashing (versatile **1d10+3** two-handed)
+* **Shortsword:** +5 to hit, **1d6+3** piercing/slashing
+* **Longbow:** +4 to hit, **1d8+2** piercing (150/600)
+
+---
+
+## 🎯 Combat Tactics (Calm Finisher / Line Anchor)
+
+* **Role:** **frontline striker / escort duelist**
+* **Opener:** **Fighting Spirit** to secure advantage and temp HP; step inside with longsword.
+* **Flow:** hold **Action Surge** for the decisive beat (after ally control or when the lane opens). Longbow picks priority targets if approach is unsafe.
+* **Finisher:** bind weapon with shortsword, cut through guard with the long blade—bridge returns to rain and breath.
+
+**Damage Flavor:** each cut sheds water in a clean ribbon; when Fighting Spirit ignites, owl-feather motes drift and vanish.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ เงียบ อ่านสนามไว; ไม่ชอบตะโกน—ชอบสะกิดให้ทำตามจังหวะ
+* **Ideal:** Poise — “ความนิ่งคืออาวุธแรก”
+* **Bond:** จด “ช่องพักหายใจ” บนสะพานสำหรับพลเรือนที่ตื่นกลัว
+* **Flaw:** แบกรับเองมากไป ถอยช้าเมื่อต้องเปลี่ยนแผน
+* **Quirk:** นับสามจังหวะเบา ๆ ก่อนเข้าฟัน—ตรงกับเสียงฝนที่ราง
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, hush corridors, roof-rails**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **escort duel**, **riot calm-and-cut**, **narrow-rail stand**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกบ้านหลังคาเงียบที่ฝึกหายใจควบจังหวะฝน เขาคุ้มกันผู้คุมสะพานด้วยดาบที่ไม่แกว่งเกินจำเป็น จนคนเรียกว่า *Quiet-Feather*—ขนนกที่ตัดพายุโดยไม่ทำให้ใครตื่น
+
+* **Lifestyle:** ห้องเล็กใกล้รางแก้ว มีเชือก ผ้าเช็ดใบดาบ และสมุดจังหวะฝน
+* **Income:** เงินเดือน Rail Wardens, โบนัสคุ้มกัน, งานดวลเงียบตามสัญญา
+
+---
+
+## 🧩 Morals & Ethics
+
+**“จบให้สั้น ช่วยให้มาก”** — เขาเลือกแผลที่ยุติการสู้แทนการไล่ฆ่า
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** ช่วงที่เสียงฝน “หยุด” — ลาง Echo ตัดจังหวะ
+* **Weaknesses:** ไม่มีเวท; ถ้าโดน crowd control ยืดไฟต์ยาก
+* **Strengths:** **advantage on demand + temp HP (Fighting Spirit)**, **burst ด้วย Action Surge**, ฟุตเวิร์กนิ่งบนพื้นลื่น
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — อุ่นใจ เงียบแต่ชัด:**
+
+> “ตามจังหวะผม… หนึ่ง สอง—ตัด.”
+
+เวลาซ้อม เขาจับข้อมือปรับองศาดาบอย่างนุ่มนวลแล้วพยักหน้า “ดี—ปล่อยลมตอนคมลง”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** ข้อมือที่พันเชือกมี **เม็ดลูกปัดนับจังหวะ** ที่อุ่นขึ้นเองเมื่อสะพาน “พร้อมจะเงียบ”
+* **Hooks:**
+
+  1. **Feather on the Rail:** มีผู้ท้าดวลพยายาม “ตัดจังหวะฝน” ให้หยุด—ต้องชนะโดยไม่ให้ฝูงชนตื่น
+  2. **Three Beats Door:** ทางลับเปิดเฉพาะตอนฝนลงสามจังหวะ—เขาคือกุญแจ
+  3. **Owl Without Echo:** สะพานหนึ่งไม่สะท้อนเสียงดาบ—หาเหตุว่ามีใครขโมย “เสียง” ไป
+
+---
+
+## Tags: #Male #HalfBeast #Owl #Fighter3 #Samurai #Duelist #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ren **เอียงไหล่ให้เป็นเงาบังฝน แล้วยิ้มบาง ๆ**
+
+> “เดินข้างผม—ผมทำให้ทางเงียบพอที่คุณจะคิด.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, shortsword, longbow
+  * **Armor:** breastplate set
+  * **Tools:** rope, manacles, chalk-line
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** wrist bead counter, rail token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 18)** หรือ **Feat: Great Weapon Master / Defensive Duelist**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **escort duel**, **riot calm-and-cut**, **narrow-rail stand**
+* **Affiliation:** **Owl Rail Cohort — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean male half-beast owl fighter samurai 180cm medium half-up knot raven hair ash lowlights lean athletic steel breastplate longsword shortsword longbow low exposure rain-slick bridge night quiet duelist fantasy

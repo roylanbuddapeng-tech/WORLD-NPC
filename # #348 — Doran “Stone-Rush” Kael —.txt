@@ -1,0 +1,197 @@
+# #348 — **Doran “Stone-Rush” Kael** — *Braced Charge of the Spike-Line*
+
+> “If the rail won’t move, I will make space in it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 348
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น เสียงต่ำที่เชื่อถือได้
+* **Age:** 34
+* **Race:** **Other — Stone-blood (dwarven lineage)** — ใกล้มนุษย์ ~88%; โครงหน้าคม หนวดเคราบางตามแนวกราม ผิวมีประกายแกรนิตจาง ๆ
+* **Class & Level:** **Barbarian (Path of the Battlerager) 3** *(RAW: ต้องใส่ **spiked armor** และโดยเนื้อหาเดิมจำกัดกับ **dwarf**—เชื้อสาย Stone-blood นี้นับผ่านข้อกำหนด*)*
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **แนวหน้าพุ่งทะลวง / ผู้เปิดช่องทางบนสะพานแคบ / คุมจลาจลด้วยร่างชน**
+* **Organization:** **Valeronnes Rail Wardens — Spike-Line Detail**
+* **Symbol:** สามหมุดเหล็กเรียงเป็นสามเหลี่ยมทับรางแก้ว
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Nordic–Japanese stonemason-warrior** — square jaw, steady brow, the look of someone who trusts weight and leverage.
+
+**Eyes:** slate-gray with tiny mica flecks that catch rainlight.
+**Skin:** weathered olive with faint granite sheen across shoulders and forearms.
+
+**Hair (Male Randomizer):** **Short**, **undercut with braided top strip**; tight and practical under helm.
+**Color:** **iron-black with cold ash streaks** at the temples.
+
+**Height:** **178 cm**
+**Weight:** **86 kg**
+**Body Build:** **athletic–muscular**, compact power, low center of gravity.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **stone-bead torque**, **leather knuckle-wraps**, and a **rail rivet charm** at his belt.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional spike harness kit**
+
+A **dark steel spiked armor** (medium) tailored for rail grapples over a **charcoal gambeson**; **reinforced bracers** with short bar spikes; **split trousers** for lunges; **cleated boots** bite slick glass. A **short storm-cloak** buckles tight so the spikes don’t snag.
+
+**Palette:** gunmetal / charcoal / slate / dull brass rivets
+
+**Weapons & Gear:**
+
+* **Spiked Armor** (primary “weapon” for Battlerager)
+* **War pick “Rivet-Kiss”**
+* **Handaxe ×2** (throw/cut line)
+* **Hook-rope 30 ft**, **caltrops**, **echo-salt**, **smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 = **33 HP**
+* **AC:** **16** (Spiked Armor **AC 14** + DEX +2; Stealth disadvantage)
+* **Speed:** 40 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Perception +3, Intimidation +2, Survival +3
+* **Languages:** Common, Dwarvish (runic terms), Thalassaran Cant
+
+**Barbarian 3 — Path of the Battlerager**
+
+* **Rage (2/long rest):** +2 damage; resistance to **B/P/S**
+* **Reckless Attack**, **Danger Sense**
+* **Battlerager Armor (Spiked Armor required):**
+
+  * **Bonus Action:** while **Raging**, make **one melee weapon attack** with your **armor spikes** (uses STR; **1d4 + STR** piercing)
+  * When you **Grapple** a creature while raging, it takes **3 piercing damage** from your spikes at the start of your turns (RAW).
+* **Unarmored Defense:** *not used while wearing armor*
+
+**Attacks**
+
+* **War Pick (1h):** +6 to hit, **1d8+4** piercing (**+2** while Raging)
+* **Armor Spikes (bonus, while Raging):** **1d4+4** piercing
+* **Handaxe (20/60):** +6 to hit, **1d6+4** slashing (**+2** Rage)
+
+---
+
+## 🎯 Combat Tactics (Grapple Bruiser / Lane Opener)
+
+* **Role:** **frontline breaker / control by body**
+* **Opener:** **Rage** → drive in with **war pick**; **Grapple** key target on the rail seam.
+* **Flow:** maintain **grapple** so spikes tick each round; use **Bonus Action spike attack** every turn; **Reckless** when you must glue aggro to yourself.
+* **Finisher:** shoulder-ram into rail, twist pick to lever the foe off balance—lane opens in one brutal breath.
+
+**Damage Flavor:** rain hisses off his spikes; each slam leaves three neat rivet-dents on wet stone.
+
+---
+
+## 💬 Personality
+
+* **Traits:** พูดสั้น ทำยาว; ใจดีแบบคนงาน—ช่วยยกของก่อนคุย
+* **Ideal:** Craft in Combat — “แรงที่ดีต้องมีจุดรับ”
+* **Bond:** รายชื่อ “เสาร้าว” ที่เขาช่วยค้ำไว้; พกหมุดรางเก่าเป็นของโชคดี
+* **Flaw:** ชอบ “ชนให้จบ” จนบางครั้งลืมเผื่อช่องถอย
+* **Quirk:** เคาะหมุดรางในมือสามครั้งก่อนบุก—ตั้งจังหวะน้ำหนัก
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock stairs, brace pylons**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **rail grapple brawl**, **riot peel by body check**, **VIP push through choke**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกช่างค้ำสะพานที่ค้นพบว่า “คานที่ดีที่สุดคือร่างกายที่มั่นคง” เขาแปลงงานช่างเป็นสไตล์ต่อสู้—หมุนแรง, หา “จุดรับ”, แล้วกดให้แน่น จนถูกดึงเข้าหน่วย Spike-Line เป็น “คานมีชีวิต” ของเลนแคบ
+
+* **Lifestyle:** ห้องพักติดเสารองสะพาน เต็มด้วยหมุดรางเก่า ผังแรง และค้อนเล็ก
+* **Income:** เงินเดือนยาม, โบนัสคุมจลาจล, งานกู้รางเร่งด่วน
+
+---
+
+## 🧩 Morals & Ethics
+
+“ใช้แรงพอดี—ทำให้ไฟต์สั้นและปลอดภัยกับพลเรือนที่สุด” เขาจะชนเพื่อเปิดทางเสมอ ก่อนยกคม
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** สะพานที่ “ไม่รับแรง” — สัญญาณ Echo ทำให้พื้นทรยศ
+* **Weaknesses:** พึ่งใกล้ชิด; ถ้าถูก kite ระยะไกลต้องบีบเข้าช่องแคบ
+* **Strengths:** **คุมตัวด้วย Grapple + spike tick**, **bonus attack ทุกเทิร์นระหว่าง Rage**, ศักยภาพเปิดเลนยอดเยี่ยม
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — สุขุม ทำให้รู้สึกปลอดภัย:**
+
+> “หลบหลังผม—ผมจะสอดตัวเป็นคานให้เอง.”
+
+เวลาซ้อม เขาจะวางมือบนไหล่ จัดจุดรับน้ำหนัก แล้วพยักหน้า “ดี—ตอนนี้ชนให้มันยอมเรา”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** หมุดรางนำโชคของเขาบางคืน **สั่นนิด ๆ** เมื่อพื้นกำลังจะทรุด—เหมือนเตือนล่วงหน้า
+* **Hooks:**
+
+  1. **Rivet Whisper:** ผู้ร้ายใช้หมุดปลอมทำพื้น “ลื่นเกินจริง” — ต้องจับไทม์ชนให้หลุดกลศึก
+  2. **Bridge That Bites:** รางบางช่วง “ทิ่ม” กลับใส่ผู้คุม—หาสาเหตุว่ามีใครกดแรงสะท้อน
+  3. **Borrowed Spikes:** แก๊งหนึ่งลอกเกราะหนามผิดแบบ—ทำชาวบ้านเจ็บ ต้องยึดของกลางโดยไม่ทำให้สะพานพัง
+
+---
+
+## Tags: #Male #Other #StoneBlood #Barbarian3 #Battlerager #Grapple #Control #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Doran **เอียงไหล่เป็นกำแพงมนุษย์ด้านหน้า**
+
+> “ยืนชิดผม—ผมรับแรง คุณผ่าน.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** war pick, 2× handaxes
+  * **Armor:** **Spiked Armor (medium, AC 14, Stealth disadvantage)**
+  * **Tools:** hook-rope, small hammer & rivets (flavor)
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** stone-bead torque, rail rivet charm
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Grappler / Tavern Brawler**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges, brace pylons, lock stairs**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **grapple brawl**, **riot peel**, **VIP push**
+* **Affiliation:** **Spike-Line Detail — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Nordic Japanese male stone-blood dwarven lineage barbarian battlerager 178cm short undercut braided strip iron-black hair ash streaks muscular spiked armor war pick cleated boots low exposure rain-slick glass bridge night gritty control fantasy

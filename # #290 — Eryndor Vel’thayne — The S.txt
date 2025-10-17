@@ -1,0 +1,196 @@
+# #290 — **Eryndor Vel’thayne** — *The Silent Dirge*
+
+> “When the blade sings, silence is only reverence.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 290
+* **Gender:** **Male (Type: วัยกลางคน)** — เคร่งขรึม นุ่มนวลแต่เข้มเหมือนเสียงไวโอลินในห้องโถงมืด
+* **Age:** 41
+* **Race:** **Dark Elf (Drow)**
+* **Class & Level:** **Rogue (Soulknife)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **True Neutral**
+* **Profession:** **Echo assassin / psionic tracker / musician–executioner**
+* **Organization:** **House of Hollow Notes (Skarnov’s undercourt)**
+* **Symbol:** a dagger piercing through a musical note
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **European–Japanese hybrid** — agelessly handsome, calm demeanor, voice deep and smooth.
+
+**Eyes:** silver-white, faint psionic light flickering when he focuses.
+**Skin:** pale slate-gray with cool undertones.
+
+**Hair (Male-set Randomizer):** 🎲 **Long (20%)** — straight, layered.
+**Style:** tied loosely at the back, a few strands curtain one side of his face.
+**Color:** **black-blue gradient with faint silver shimmer.**
+
+**Height:** **184 cm**
+**Weight:** **77 kg**
+**Body Build:** **elegant muscular**, strong but proportioned for grace rather than intimidation.
+
+**Accessories:** single silver earcuff shaped like a crescent blade, black velvet gloves (cut at knuckles), and a faint psionic rune burned into his throat.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Rule:** (Male → functional, non-exposure)
+
+He wears a **high-collared assassin’s coat**, woven from psionic-thread silk that dulls sound.
+Overlapping plates of midnight blue hide flexible armor beneath.
+A **hooded mantle** drapes asymmetrically over his right arm, etched with glowing sigil lines.
+
+**Palette:** black / indigo / silver highlights
+**Weapons & Gear:**
+
+* *Mind Blades* (manifested, psychic finesse weapons)
+* *Shadowstep Brooch* (teleport 10 ft as bonus action 2/day)
+* *Psionic focus ring* (stores 1d6 psi energy)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **21 HP**
+* **AC:** **16** (psionic ward)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 13 (+1)** **WIS 14 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, WIS +4
+* **Skills:** Stealth +6, Insight +4, Acrobatics +6, Perception +4, Performance +3
+* **Languages:** Common, Elvish, Undercommon
+
+**Rogue (Soulknife) 3**
+
+* **Sneak Attack (2d6)**
+* **Psionic Power (Psi Energy Dice d6)** — augment attacks / boosts stealth.
+* **Psychic Blades:** bonus-action off-hand attack without weapon.
+* **Soul Blades:** teleport 10 ft as reaction (when you attack).
+
+**Attacks**
+
+* **Mind Blade:** +6 to hit, 1d6+4 psychic (2d6 sneak on hit).
+* **Dual Blades:** off-hand 1d6+2 psychic.
+
+---
+
+## 🎯 Combat Tactics (Psionic Assassin)
+
+* **Role:** **precision striker / stealth controller**
+* **Opener:** *Psychic Blade throw* → teleport adjacent → *Sneak Attack*.
+* **Flow:** deflect melee, counter with teleport reposition.
+* **Finisher:** dual strike with psychic resonance, enemies die in silence.
+
+**Damage Flavor:** the sound of a faint chord resonates with each stab, like a note played on invisible strings.
+
+---
+
+## 💬 Personality
+
+* **Traits:** patient, introspective, values quiet more than safety.
+* **Ideal:** Discipline — “Emotion clouds the blade, but art hones it.”
+* **Bond:** haunted by the melody of a lover he accidentally killed.
+* **Flaw:** suppresses emotion until it erupts violently.
+* **Quirk:** hums a requiem every time he cleans his weapon.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Catacomb Halls of the Hollow Notes**
+* **Threat Gradient:** **Deep Echo → Severance-corrupted**
+* **Encounter Framing:** **silent duel**, **psychic infiltration**, **spirit cleansing**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a court musician of a Drow noble, he discovered his psychic talent when his song killed a man who insulted his mistress.
+He turned to assassination to “compose through endings.”
+
+* **Lifestyle:** lives beneath an abandoned amphitheater.
+* **Income:** assassin’s guild commission, rare psionic contracts.
+* **Relationships:** respects Kael (#287); distrusts Neriel (#286); trained Selune (#288) in silence.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes death can be graceful if delivered without hate. He calls it “the art of ending well.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** forgetting his lover’s melody.
+* **Weaknesses:** hesitates to kill musicians or bards.
+* **Strengths:** silent mobility, psychic stealth, elegance in execution.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — low voice, calm allure:**
+
+> “Silence isn’t awkward. It’s just what truth sounds like when it breathes.”
+
+ชอบพูดใกล้ ๆ หู โดยเฉพาะเวลาสอนใครเรื่องการเคลื่อนไหว ทำให้คนที่ไม่ชินหน้าแดงโดยไม่รู้ตัว.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his mind blades sing his dead lover’s voice in harmonic overtones.
+* **Hooks:**
+
+  1. **Dirge of the Hollow:** the song he wrote begins killing without him.
+  2. **Echo Strings:** a Severance agent wants his psionic melody for mass control.
+  3. **The Final Note:** his lover’s ghost returns—asking him to play one last time.
+
+---
+
+## Tags: #Male #Drow #Rogue3 #Soulknife #CR1 #Stealth #Psionic #Assassin
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Eryndor **ไม่ตั้งใจทำให้คนเขิน แต่ทุกคำพูดมีน้ำหนักจนใจเต้น**
+
+> “If I teach you to move quietly, don’t speak until you feel my breath stop.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** psychic blades
+  * **Armor:** psionic coat
+  * **Tools:** musical instrument (lute), thieves’ tools
+  * **Consumables:** psi focus ring
+  * **Misc:** silver earcuff
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Telepathic / Observant**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov — Catacomb Halls**
+* **Threat Gradient:** **Deep Echo → Severance-corrupted**
+* **Encounter Type:** **silent duel**, **assassination rescue**, **psionic ritual**
+* **Affiliation:** **House of Hollow Notes**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+European Japanese male dark elf rogue soulknife 184cm black-blue long hair silver eyes gray skin lean muscular assassin coat hooded mantle indigo silver psionic aura

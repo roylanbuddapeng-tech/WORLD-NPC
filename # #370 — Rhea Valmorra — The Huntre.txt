@@ -1,0 +1,183 @@
+# #370 — **Rhea Valmorra** — *The Huntress of the Golden Pike*
+
+> “The spear doesn’t wait for courage — it *teaches* it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 370
+* **Gender:** **Female (Type: Tomboy – athletic, confident)**
+* **Age:** 25
+* **Race:** **Half-Beast (Avian — harpy-descendant, 85% human)**
+* **Class & Level:** **Fighter (Battle Master) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **Arena Duelist / Freelance Spear Instructor**
+* **Organization:** **Independent (Formerly of the Suncrest Pike Guild)**
+* **Symbol:** a golden feather crossing a spearhead
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** Latin-American tone — vibrant, warm energy with an athletic dancer’s poise.
+
+**Height:** 172 cm **Weight:** 62 kg
+**Body Type:** toned and wiry, strong legs, muscular shoulders; moves with avian precision.
+**Hair:** **Medium length**, **ponytail**, windswept strands.
+**Color:** **Copper-blonde** with streaks of sun-gold.
+**Eyes:** **Amber** with slit pupils — faintly glowing when excited.
+**Skin:** tanned bronze, scattered with faint downy feathers on shoulders and collarbone.
+**Accessories:** leather wristbands with small charm-feathers, a single hawk-feather earring on the left ear.
+
+---
+
+### **FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Balanced Athletic  
+THREE_SIZES (B–W–H, cm): 92 – 70 – 97  
+VALIDATION: W/B = 0.76 → OK   H/W = 1.39 → OK
+```
+
+Her physique is firm and powerful; despite her bust, her stance and movement project focus over allure.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure:** **Medium–High (practical, but revealing midriff and shoulders)**
+
+She wears a **short battle jacket**, sleeveless, fastened only at the midsection, leaving toned abs visible. **Dark reinforced shorts** with slitted sides for full leg movement. Her **boots** reach the knee with metallic trimming, and her **belt** carries spare throwing spears and daggers.
+
+A **light feathered capelet** hangs from one shoulder, catching the wind when she spins her spear.
+
+**Palette:** bronze / gold / brown leather / crimson accents
+
+**Weapons & Gear:**
+
+* **Gleaming Pike “Raptor’s Fang”** — double-tipped spear, can separate into twin short-spears.
+* **Throwing knives (3)**
+* **Harness pouch**, **sharpening kit**, **chalk powder (for grip)**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **26 HP**
+* **AC:** 17 (studded leather 12 + DEX +3 + Defense Style +2)
+* **Speed:** 35 ft (light avian physiology)
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Acrobatics +5, Athletics +4, Perception +3, Performance +3
+* **Languages:** Common, Auran
+
+**Fighter 3 — Battle Master**
+
+* **Fighting Style:** Defense
+* **Superiority Dice:** 4d8
+* **Maneuvers:**
+
+  * *Trip Attack* — sweeps opponents low.
+  * *Precision Attack* — perfect spear thrusts.
+  * *Riposte* — counterattacks after dodging.
+* **Student of War:** proficiency with Artisan’s tools (Weapon Smith).
+
+**Attacks:**
+
+* **Pike:** +5 to hit, **1d10+3** piercing (reach, two-handed)
+* **Thrown spear (20/60):** +5 to hit, **1d6+3** piercing
+* **Unarmed kick (flavor):** +5 to hit, **1d4+3** bludgeoning
+
+---
+
+## 🎯 Combat Tactics (Tactical Dervish)
+
+* **Role:** **Frontline Duelist / Counter-Fighter**
+* **Opener:** spins her spear in *trip stance* to break the opponent’s footing.
+* **Flow:** mixes feints and leaps; uses *Riposte* for punishing missed strikes.
+* **Finisher:** leaps high, *Precision Attack* thrust straight down with “Raptor’s Fang.”
+
+**Damage Flavor:** the spear glows gold mid-spin, leaving behind brief streaks like hawk feathers.
+
+---
+
+## 💬 Personality
+
+* **Traits:** playful, competitive, fiercely loyal; grins in danger.
+* **Ideal:** Freedom — “Cages rust. Wings don’t.”
+* **Bond:** her mentor, an ex-gladiator who vanished mid-tournament.
+* **Flaw:** too reckless; underestimates exhaustion.
+* **Quirk:** always whistles before striking.
+
+---
+
+## 🧭 Common Locations
+
+* **Region:** **Suncrest Arena, Skybluff Ridge**
+* **Threat Gradient:** **Moderate → High**
+* **Encounter Type:** sparring challenge, sky-road ambush, or festival duel.
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised among winged mercenaries, Rhea learned agility and showmanship from the arenas before joining the Pike Guild. She left after refusing to fix matches.
+
+* **Lifestyle:** nomadic, loves festivals.
+* **Income:** prize money, hunting contracts, teaching self-defense to travelers.
+
+---
+
+## 🧩 Morals & Ethics
+
+Strength is joy, not cruelty. She fights to remind people of what living *feels* like.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** confinement, losing her agility.
+* **Weaknesses:** rash decisions, bad at coordination with archers.
+* **Strengths:** reach combat mastery, mobility, improvisation.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy — teasing and direct:**
+
+> “Come on, don’t flinch! I’m not gonna hit *that* hard— unless you ask nicely.”
+
+ชอบแตะหัวหรือดึงแขนเล่นในระยะใกล้ ทำให้คู่สนทนามักหน้าแดงโดยไม่รู้ตัว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her pike is crafted from her ancestor’s wing-bones — sacred among her kin.
+* **Hooks:**
+
+  1. **The Sky Duel:** Rhea challenges a wyvern rider for the title “Hawk of the Heights.”
+  2. **Caged Feather:** she’s captured and must escape a noble’s menagerie.
+  3. **The Lost Mentor:** her teacher’s spear reappears, bloodstained.
+
+---
+
+## Tags: #Female #HalfBeast #Avian #Fighter3 #BattleMaster #Spear #Pike #Tomboy #Athletic #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rhea **twirls her spear and smirks:**
+
+> “Wanna learn how to spin it right? I’ll hold your hands— just try not to stare.”
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+female half-beast avian fighter battlemaster tomboy athletic body tan skin amber eyes copper blonde ponytail feathers shoulders sleeveless cropped jacket shorts knee boots spear high mobility dynamic fantasy

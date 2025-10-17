@@ -1,0 +1,195 @@
+# #338 — **Corin “Bannerline” Hale** — *Standard on the Rain-Slick Rail*
+
+> “If you can still hear me, you’re not finished.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 338
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น น้ำเสียงมั่นคง
+* **Age:** 35
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Banneret / Purple Dragon Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **standard bearer / bridge-line captain / riot peacemaker**
+* **Organization:** **Valeronnes Rail Wardens — Banner Cohort**
+* **Symbol:** ธงสามเหลี่ยมเล็กทาบรางแก้วหนึ่งเส้น
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–English rugged** — calm, fatherly eyes; a steady jaw; posture like a flagstaff in a gale.
+
+**Eyes:** iron-gray with a tired kindness; sharpen to steel on command.
+**Skin:** fair-olive weathered by rain and salt.
+
+**Hair (Male Randomizer):** **Medium length**, **low warrior ponytail** with neat tapered sides; rain-slick when on duty.
+**Color:** **dark chestnut with cool ash threads** at the temples.
+
+**Height:** **183 cm**
+**Weight:** **82 kg**
+**Body Build:** **athletic-muscular**, broad back, steady core.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **rail-standard torque**, **braided wrist wrap** (unit colors), and a **whistle-lanyard** tucked inside the collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional command kit**
+
+A **brushed-steel breastplate** over **indigo gambeson**, **quiet-weave bracers**, and **split guard-trousers** for long strides on wet glass. **Soft-sole boots** grip the bridge. A **short rain-cloak** clips tight; a **collapsible pennon** (squad banner) is socketed to his shield boss.
+
+**Palette:** steel / indigo / charcoal / muted gold trim
+
+**Weapons & Gear:**
+
+* **Longsword “Bannerline”** (broad fuller, etched rally runes)
+* **Shield** (glass-inset boss, pennon mount)
+* **Spear** (formation calls)
+* **Light crossbow** + 20 bolts
+* **Manacles, silk rope 50 ft, chalk & signal pennons (3 colors), echo-salt**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **18** (breastplate 14 + DEX +2 + shield +2)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Perception +3, Persuasion +3, Insight +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Banneret (Purple Dragon Knight)**
+
+* **Fighting Style:** **Protection** (reaction to impose **disadvantage** on an attack vs ally within 5 ft while you wield a shield)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Rallying Cry (Banneret 3):** เมื่อใช้ **Second Wind**, เลือกสิ่งมีชีวิต **สูงสุด 3 ตนภายใน 60 ฟุต** ที่มองเห็น/ได้ยินคุณ ให้พวกมัน **ฟื้น HP เท่ากับระดับ Fighter ของคุณ (3)**
+
+**Attacks**
+
+* **Longsword (1h):** +5 to hit, **1d8+3** slashing
+* **Spear (1h/2h, thrown 20/60):** +5 to hit, **1d6/1d8+3** piercing
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+
+---
+
+## 🎯 Combat Tactics (Line Captain / Protective Support)
+
+* **Role:** **frontline anchor / guard support**
+* **Opener:** plant shield and **Protection**-cover squishies; call formations with the pennon.
+* **Flow:** trade space with spear/longsword; pop **Rallying Cry** with **Second Wind** when the team dips, then **Action Surge** to flip momentum.
+* **Finisher:** shield bind → short thrust to rail seam; calm order, not chaos.
+
+**Damage Flavor:** when he calls a rally, the glass-inset on the shield pulses soft gold; the team’s breath syncs to his.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ หนักแน่น ใจเย็นแบบผู้คุมแนว; ชอบพูดสั้น ๆ แต่ชัด
+* **Ideal:** Duty — “ธงไม่ได้ชี้ไปที่ชัยชนะ มันชี้ไปที่กันและกัน”
+* **Bond:** จำชื่อทุกคนในพลาธง; อัปเดตสมุด “ทางปลอดภัย” บนสะพานทุกสัปดาห์
+* **Flaw:** แบกหน้าที่มากเกินไป; ไม่ยอมถอนแม้ควรถอยเพื่อรักษากำลัง
+* **Quirk:** เคาะโล่สองครั้งแล้วชู pennon เงียบ ๆ เป็นสัญญาณเริ่มบุก
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock stairs, hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **bridge hold with civilians**, **riot peel under rain**, **escort while calling formations**
+
+---
+
+## 📜 Background & Lifestyle
+
+อดีตลูกยามสะพานที่เห็น “ธงเงียบ” ช่วยคนมากกว่าดาบ เขาฝึกการให้สัญญาณจนคนทั้งเลน “หายใจพร้อมกัน” — นั่นคือจุดเปลี่ยนจากฝูงชนสู่แนวระเบียบ
+
+* **Lifestyle:** ห้องเวรเล็กติดคลัง pennon และบันทึกเวรผลัด
+* **Income:** เงินเดือน Rail Wardens, โบนัสคุ้มกัน, ค่าระงับเหตุจลาจล
+
+---
+
+## 🧩 Morals & Ethics
+
+เขาเชื่อว่าแนวหน้าที่ดีคือแนวที่คนด้านหลัง **รู้วิธีถอยอย่างเป็นระเบียบ**—พอถอยได้ เราก็บุกได้ใหม่
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** สะพานที่ “เงียบเกินไป” — ลาง Echo ที่ทำให้สัญญาณไม่เดิน
+* **Weaknesses:** ดาเมจไม่สุด; ต้องพึ่งทีมเพื่อปิดงาน
+* **Strengths:** **ปกป้องเพื่อนด้วย Protection**, **ฮีลหมู่เล็ก ๆ ด้วย Rallying Cry**, **กลับเกมด้วย Action Surge**
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — อุ่นใจแบบผู้คุมแนว:**
+
+> “ยืนตามผม—หนึ่งซ้าย หนึ่งขวา หายใจพร้อมกัน… ใช่ แบบนั้น.”
+
+เวลาซ้อม เขาจะวางมือบนไหล่ จับจังหวะหายใจให้เข้ากับสัญญาณบนโล่
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** pennon ของเขาบันทึก “จังหวะลมหายใจ” ของหน่วย—คืนหนึ่งธงสั่นเองตามจังหวะ **ที่ไม่ใช่ของมนุษย์**
+* **Hooks:**
+
+  1. **Silent Pennon:** มีผู้ก่อเหตุขโมยธงรอง—ตามรอยธงที่ “อัมพาตสัญญาณ” สะพานทั้งเส้น
+  2. **Bridge Without Beat:** ทางหนึ่งทำให้ Rallying Cry ไม่ทำงาน—ต้องหาว่ามีใคร “ตัดลมหายใจ” ของเมือง
+  3. **Names on the Rail:** ชื่อหนึ่งบนสมุดปลอดภัยเริ่ม “ลบตัวเอง” — คนคนนั้นอาจถูก Echo กลืนตัวตน
+
+---
+
+## Tags: #Male #Human #Fighter3 #Banneret #Support #Protection #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Corin **ยกโล่ให้เป็นกำแพงมนุษย์แล้วพยักหน้าเบา ๆ**
+
+> “ตามธง—ผมพากลับบ้าน.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, shield, spear, light crossbow
+  * **Armor:** breastplate set
+  * **Tools:** pennon set, manacles, rope, chalk
+  * **Consumables:** echo-salt ×1, salve ×2
+  * **Misc:** whistle-lanyard, unit torque
+* **Level-Up Suggestions (to 4):** **+2 STR (to 18)** หรือ **Feat: Shield Master / Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **civilian-forward hold**, **riot peel**, **formation escort**
+* **Affiliation:** **Rail Wardens — Banner Cohort**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean English male human fighter banneret 183cm medium low ponytail dark chestnut hair ash temples athletic muscular steel breastplate shield pennon spear rain-slick bridge low exposure night fantasy

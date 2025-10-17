@@ -1,0 +1,198 @@
+# #275 — **Kael Dravenmoor** — *The Bonefire Apostle*
+
+> “Death is the only flame that never dies.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 275
+* **Gender:** **Male (Type: เมะ)** — confident, stoic, low baritone voice that carries both warmth and menace.
+* **Age:** 29
+* **Race:** **Human**
+* **Class & Level:** **Wizard (Necromancy)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good (borderline pragmatic)**
+* **Profession:** **Funeral Mage / Bonefire Priest / Undead Regulator**
+* **Organization:** **Order of the Ash Crown**
+* **Symbol:** a skeletal hand cupping a living flame.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Western hybrid**, lean and sharp-featured with a quiet, magnetic presence.
+
+**Eyes:** deep amber with streaks of gray, like smoke trapped in glass.
+**Skin:** fair with faint ash-like undertone around his arms.
+
+**Hair (Male Hair Randomizer):** 🎲 **Medium-length, wavy**
+**Style:** slightly tousled waves framing his face, one strand always falling over his right eye.
+**Color:** **dark brown with silver tips.**
+
+**Height:** 183 cm
+**Weight:** 74 kg
+**Body Build:** **lean muscular — fighter-scholar type.**
+**Sub-Theme:** 🎲 **Nerd (arcane mortician)** — fascinated by anatomy, bone resonance, and funerary flame rituals.
+
+**Glasses Rule (Nerd = Always):** ✅ **Yes** — thin rectangular frames, black steel, magically reinforced against heat.
+
+**Jewelry & Accessories:** ashwood pendant of skull motif, bronze cuffs engraved with necrotic glyphs, small pouch of white bone dust.
+
+---
+
+## 👔 Outfit (in English)
+
+**Exposure Roll:** *Not applicable for male characters*
+
+Kael wears a **black ritual coat** of layered linen and leather straps, clasped high at the neck and open at the thighs for movement.
+A **charcoal sash** belts several small bone charms and vials of gray oil.
+His gloves are fingerless and charred around the edges from spell testing.
+
+**Palette:** black / gray / brass / faint crimson glow
+**Style Vibe:** scholar-warrior, equal parts grim and elegant
+
+**Weapons & Gear:**
+
+* *Skeletal Wand* (arcane focus)
+* *Short sword (ritual blade)*
+* *Bonefire Urn* (holy reagent)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **13** (mage armor)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, Religion +5, Investigation +5, Insight +3
+* **Languages:** Common, Infernal, Celestial
+
+**Wizard (Necromancy)**
+
+* **Grim Harvest:** regain HP when killing with spells.
+* **Necromancy Savant:** reduced cost for necromantic spells.
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Chill Touch, Fire Bolt, Mage Hand*
+  * *1st–2nd:* *Ray of Sickness, False Life, Animate Dead (ritual), Flaming Sphere, Hold Person*
+
+**Attacks**
+
+* **Chill Touch:** +5 to hit, 1d8 necrotic (no healing).
+* **Short Sword:** +3 to hit, 1d6+1 slashing.
+
+---
+
+## 🎯 Combat Tactics (Necro-Control)
+
+* **Role:** **Mid-range controller / undead stabilizer**
+* **Opener:** *Ray of Sickness* to weaken → *Flaming Sphere* as battlefield anchor.
+* **Flow:** alternates necrotic and fire spells to cleanse or punish undead.
+* **Finisher:** *Animate Dead* or *Chill Touch* while walking through his own fire.
+
+**Flavor:** when Kael raises the dead, they burn with quiet blue flames instead of rotting.
+
+---
+
+## 💬 Personality
+
+* **Traits:** quiet, intellectual, always speaks in complete, deliberate sentences.
+* **Ideal:** Balance — “Fire purifies; decay teaches.”
+* **Bond:** his late mentor, whose ashes he still carries.
+* **Flaw:** struggles to express grief; channels it into his work.
+* **Quirk:** murmurs every spell as if it’s a prayer for the dead.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Gravemere — Bonefire Sanctum**
+* **Threat Gradient:** **Stable → Echo Zone**
+* **Encounter Framing:** **ritual defense**, **undead regulation**, **cremation gone wrong**
+
+---
+
+## 📜 Background & Lifestyle
+
+Kael was a medical student before the Severance turned half his patients into undead. He devoted himself to necromantic study, refusing to let death lose dignity again.
+
+* **Lifestyle:** lives above a crematorium; rarely sleeps.
+* **Income:** sanctified cremations, exorcisms.
+* **Relationships:** former student of Eirwen (#272), colleague to Liora (#273).
+
+---
+
+## 🧩 Morals & Ethics
+
+Kael believes death is sacred, but undeath is sacrilege — unless controlled to end greater chaos.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being burned alive; his nightmares repeat it.
+* **Weaknesses:** avoids unnecessary emotion, causing distrust.
+* **Strengths:** surgical precision in combat and ritual; highly disciplined.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — สุภาพ แต่มีออร่าคุมสถานการณ์ พูดเสียงทุ้มต่ำ มีแววเย็นเฉียบเวลาจ้องตา ชอบเผลอยื่นมือจัดปกเสื้อให้คู่สนทนาโดยไม่รู้ตัว**
+
+> “You tremble too much. Here—breathe. Fire only listens to calm voices.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** he keeps one undead under his command—a woman who once loved him.
+* **Hooks:**
+
+  1. **Ash Bride:** his undead companion begins to speak independently.
+  2. **The Bonefire Dimmed:** his sacred fire starts consuming the living.
+  3. **The Ash Crown’s Edict:** a necromantic order declares him heretic.
+
+## Tags: #Male #MehType #Human #Wizard3 #Necromancer #FireControl #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kael **ไม่ค่อยเขิน แต่เวลามีคนเข้าใกล้จะหลบสายตาเงียบ ๆ ก่อนพูดด้วยน้ำเสียงต่ำ**
+
+> “Don’t stand that close to the urn. It remembers voices.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** short sword, skeletal wand
+  * **Armor:** ritual coat
+  * **Tools:** Bonefire Urn, black salt, runic chalk
+  * **Consumables:** soul ash (5 uses)
+  * **Misc:** necrotic notes, mortician’s band
+* **Level-Up Suggestion:** **+2 INT (to 19)** or **Feat: Ritual Caster / Observant**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Gravemere — Bonefire Sanctum**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **undead suppression**, **ritual protection**, **soul incineration**
+* **Affiliation:** **Order of the Ash Crown**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Western male human wizard necromancer 183cm medium wavy dark brown silver tip hair amber eyes glasses black ritual coat ash flame aesthetic lean muscular handsome stoic fantasy

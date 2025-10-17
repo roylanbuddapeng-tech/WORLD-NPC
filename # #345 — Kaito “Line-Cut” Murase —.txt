@@ -1,0 +1,199 @@
+# #345 — **Kaito “Line-Cut” Murase** — *Bridge Beatdown, Done Neat*
+
+> “Three steps, two beats, one cut. We’re through.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 345
+* **Gender:** **Male (Type: เมะ)** — มั่นใจ สุภาพ ตัดสินใจฉับไว หน้างานนำจริง
+* **Age:** 26
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Battle Master) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **bridge finisher / riot line-splitter / escort duelist**
+* **Organization:** **Valeronnes Rail Wardens — Cutline Squad**
+* **Symbol:** เส้นตรงบาง ๆ ผ่าแนวคลื่นฝนหนึ่งครั้ง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean sharp-calm** — measured stare, clean jawline, the poise of a practiced finisher.
+
+**Eyes:** deep brown with a quiet razor focus when he exhales.
+**Skin:** fair-olive; faint rain-sheen along collarbones.
+
+**Hair (Male Randomizer):** **Short**, **tapered sides with textured side-swept fringe**, kept tidy under a hood.
+**Color:** **raven black with cool steel-blue lowlights**.
+
+**Height:** **180 cm**
+**Weight:** **76 kg**
+**Body Build:** **lean-athletic**, long forearms, balanced stance.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **matte silver ear-cuff**, **braided wrist cord** (beat counter), and a **rail token** tucked on a short chain.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional duelist kit**
+
+A **brushed-steel breastplate** over an **indigo padded jacket**, **quiet-weave bracers**, and **split guard-trousers** for long lunges on slick glass. **Soft-sole boots** grip wet rails. A **short storm-cloak** pins flat to avoid wind catch when he cuts.
+
+**Palette:** steel / indigo / charcoal / muted silver
+**Weapons & Gear:**
+
+* **Longsword “Line-Cut”** (matte fuller; water-shedding edge)
+* **Shield** (glass-inset boss)
+* **Dagger** (utility)
+* **Light crossbow** + 20 bolts
+* **Silk rope 50 ft, manacles, chalk-line, echo-salt, smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Perception +3, Insight +3, Acrobatics +4
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Battle Master**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Combat Superiority:** **4d8** superiority dice; **Save DC 13** (8 + PB2 + STR3? *RAW uses 8 + PB + STR/DEX mod you use for the maneuver*)
+
+  * **Trip Attack:** add **1d8** to damage; STR save or **knock prone**
+  * **Menacing Attack:** add **1d8**; WIS save or **frightened** until end of your next turn
+  * **Precision Attack:** add **1d8** to the attack roll (after seeing the roll)
+* **Student of War:** **Calligrapher’s supplies** (used to chalk clean “cut lines” on rails)
+
+**Attacks**
+
+* **Longsword (1h):** +5 to hit, **1d8+3** slashing (often paired with **Trip/Menacing/Precision**)
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+* **Dagger:** +5 to hit, **1d4+3** piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Control Finisher / Lane Split)
+
+* **Role:** **frontline control / decisive finish**
+* **Opener:** shield forward; **Menacing** the lead bruiser to stall a push.
+* **Flow:** call a “cut line,” then **Trip Attack** the pivot target to make the lane collapse; **Precision** converts swings in the rain.
+* **Finisher:** **Action Surge** once the prone/fear window opens—short, neat, quiet.
+
+**Damage Flavor:** when a maneuver lands, rain briefly runs in straight lines off his blade before scattering.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ มั่นใจ สื่อสารชัดสั้น; หน้างานนิ่งและชี้ทางให้คนอื่นได้ดี
+* **Ideal:** Precision — “ยิ่งคุมแรงได้มาก ยิ่งต้องใช้ให้น้อย”
+* **Bond:** บันทึก “จุดตัดจลาจล” บนสะพาน—มุมที่ Trip แล้วเลนพับ
+* **Flaw:** เชื่อในแผนมากเกินไป—ถ้าแผนพังจะฝืนนานไปนิด
+* **Quirk:** เคาะสันโล่สองครั้งตั้งจังหวะก่อนสั่ง “ตัด”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock stairs, hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **riot split-and-finish**, **VIP escort**, **bridge duel under rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกยามชั้นล่างที่เบื่อเสียงตะโกน เขาฝึก “คัตไลน์” ให้ไฟต์จบไวและสะอาด—ทำให้พลเรือนกลับมาหายใจได้เร็วขึ้น จึงถูกดึงเข้าหน่วย *Cutline* เพื่อเป็นมีดผ่าพายุ
+
+* **Lifestyle:** ห้องเล็กติดสะพาน มีชอล์ก ไม้บันทึกตำแหน่ง และผ้าเช็ดดาบ
+* **Income:** เงินเดือนยาม, โบนัสคุ้มกัน, ค่าดวลสัญญาในเขตเงียบ
+
+---
+
+## 🧩 Morals & Ethics
+
+**“จบสั้นเพื่อช่วยมาก”** — เลือกทำให้ศัตรูหยุดหายใจสู้ ไม่ใช่หยุดหายใจตลอดไป
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** ช่วงที่ฝน “ไม่ไหล” บนคม—ลาง Echo ตัดกฎฟิสิกส์
+* **Weaknesses:** ไม่มีเวท; ถ้าถูกล้อมจากหลายทิศ ต้องถอยไปตั้งไลน์ใหม่
+* **Strengths:** **ควบคุมสนามด้วย Maneuvers**, **AC สูง**, **ปิดเกมด้วย Action Surge**
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ — สุขุมมั่นใจ ทำให้รู้สึกปลอดภัย:**
+
+> “ตามจังหวะผม—หนึ่ง, สอง… ตัด.”
+
+เวลาซ้อม เขาจะจับศอกจัดแกนแล้วบอกเบา ๆ “อย่าใช้แรงเกิน—ให้มุมทำงานแทน”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** เส้นชอล์กของเขาบางคืน **ไหลเอง** ไปหาจุดที่ Echo จะปะทุ—เหมือนสะพานบอกทาง
+* **Hooks:**
+
+  1. **Cut the Crowd:** ต้องแยกฝูงคนโดยไม่ให้เลือดตก—ใช้ Trip/ Menace อย่างศัลยกรรม
+  2. **Line That Moves:** ขีดคัตไลน์แล้วเส้นเคลื่อน—มีใครแทรกแซงแรงฝน
+  3. **Quiet Duel:** ผู้ท้าดวลใช้กลวิธีตัดไลน์แบบเดียวกัน—ใครเป็นครูของอีกฝ่าย
+
+---
+
+## Tags: #Male #Human #Fighter3 #BattleMaster #Control #Finisher #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaito **ยกโล่เป็นเงาให้ยืนหลบฝน**
+
+> “ยืนชิดผม—ผมวางเส้น คุณแค่ก้าว.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, shield, dagger, light crossbow
+  * **Armor:** breastplate set
+  * **Tools:** calligrapher’s kit, chalk-line, rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** beat-cord, rail token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 18)** หรือ **Feat: Shield Master / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **riot split-and-finish**, **escort duel**, **quiet bridge stand**
+* **Affiliation:** **Cutline Squad — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean male human fighter battle master 180cm short textured side-swept raven hair steel-blue lowlights lean athletic steel breastplate shield longsword low exposure rain-slick bridge night precise duelist fantasy

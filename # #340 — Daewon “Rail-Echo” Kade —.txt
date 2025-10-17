@@ -1,0 +1,195 @@
+# #340 — **Daewon “Rail-Echo” Kade** — *The Step You Didn’t See*
+
+> “If they’re counting bodies, give them one more to count—mine twice.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 340
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น พูดน้อย ใช้การวางตำแหน่งตอบแทนคำพูด
+* **Age:** 33
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Echo Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **chokepoint duelist / decoy escort / rail-ambush tactician**
+* **Organization:** **Valeronnes Rail Wardens — Quiet Step Division**
+* **Symbol:** เงาคนทับเส้นรางแก้วหนึ่งเส้น
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese sober elegance** — quiet eyes, clean lines, a stance that suggests he’s already elsewhere.
+
+**Eyes:** dark slate with a faint mirrored ring when he fights.
+**Skin:** fair-olive; faint silver nicks along the jaw like old glass cuts.
+
+**Hair (Male Randomizer):** **Medium**, **topknot (warrior knot) with tapered sides**; strands kept tight under weather.
+**Color:** **raven black with cold steel sheen**.
+
+**Height:** **181 cm**
+**Weight:** **78 kg**
+**Body Build:** **lean-athletic**, long reach, grounded steps.
+
+**Accessories (male glasses 30% → success):** **thin black rectangle glasses** (anti-glare sigil). Wears a **rail token** on cord, **matte steel ear cuff**, and a **braided wrist cord** (counting strikes).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional ambush kit**
+
+A **brushed-steel breastplate** over **charcoal padded jacket**, **quiet-weave bracers**, and **split guard-trousers** for long lunges. **Soft-sole boots** grip wet glass. A **short storm-cloak** pins tight so the echo’s silhouette matches his outline.
+
+**Palette:** steel / charcoal / ink black / muted silver
+
+**Weapons & Gear:**
+
+* **Glaive “Quiet Span”** (two-handed, reach; matte fuller, rail-etched)
+* **Dagger** (utility)
+* **Light crossbow** + 20 bolts
+* **Silk rope 50 ft, manacles, chalk-line, echo-salt, smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **17** (breastplate 14 + DEX +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Perception +3, Insight +3, Stealth +4
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Echo Knight**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Manifest Echo:** **Bonus Action** to create a translucent echo within **15 ft**; you can make attacks **from the echo’s space**, **swap places** with it (15 ft teleport) as **bonus action**, and it can make **opportunity attacks**.
+* **Unleash Incarnation (PB/long rest = 2):** When you take the **Attack action**, you can make **one additional melee attack from the echo’s position** (uses = your **Proficiency Bonus**).
+
+**Attacks**
+
+* **Glaive (reach 10 ft, 2h):** +5 to hit, **1d10+3** slashing
+* **Dagger:** +5 to hit, **1d4+3** piercing (20/60)
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+
+---
+
+## 🎯 Combat Tactics (Position Control / Double Presence)
+
+* **Role:** **frontline controller / space denial**
+* **Opener:** place **echo** behind enemy on narrow rail; threaten both sides.
+* **Flow:** kite with **reach** while echo zones the flank; **Unleash Incarnation** to land the off-angle hit; **Action Surge** to convert a pin into a takedown.
+* **Finisher:** swap with echo across the rail seam; a single cut closes the lane.
+
+**Damage Flavor:** his echo shimmers like a wet reflection; when it strikes, droplets hang in the air, then fall all at once.
+
+---
+
+## 💬 Personality
+
+* **Traits:** พูดน้อย สังเกตไว คิดเป็นลำดับขั้น
+* **Ideal:** Control — “วางตำแหน่งถูก ดาบไม่ต้องรีบ”
+* **Bond:** บันทึก “รอยแตกของราง” ที่ใช้ซุ่มวาง echo ได้ดี
+* **Flaw:** ไม่ค่อยขอความช่วยเหลือ—ถ้าพลาดจะเงียบยิ่งกว่าเดิม
+* **Quirk:** แตะขอบแว่นหนึ่งครั้งทุกครั้งก่อนสลับตำแหน่งกับ echo
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, hush corridors, lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **rail ambush**, **decoy escort through rain**, **two-front duel on a narrow span**
+
+---
+
+## 📜 Background & Lifestyle
+
+อดีตคนยามที่เรียนการ “ซ้อนกะ” ให้รางไม่ว่างเปล่า—คืนหนึ่งเงาของเขา “อยู่เวรแทน” ได้จริง เขาเลยกลายเป็นแนวหน้าที่มีร่างสำรองเสมอ
+
+* **Lifestyle:** ห้องแคบริมรางแก้ว เต็มด้วยแผนที่รอยแตกและสัญลักษณ์ซ่อนตัว
+* **Income:** เงินเดือนยาม, โบนัสซุ่มสกัด, เบี้ยเสี่ยง Echo
+
+---
+
+## 🧩 Morals & Ethics
+
+“ลดโอกาสผิดก่อนเพิ่มโอกาสชนะ” — เขาเลือกปิดทางหนีและแลกมุมเหนือกว่า มากกว่าฝืนบู๊ตรง ๆ
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Rail ที่ “ไม่สะท้อน” — สัญญาณว่า Echo กลืนภาพเงา
+* **Weaknesses:** ดาเมจดิบปานกลาง; ถ้าถูกกดระยะประชิดหลายทิศ echo แตกง่าย
+* **Strengths:** **ควบคุมตำแหน่งสุดจัด**, ปิดเลนด้วย **reach + echo**, เบิกมุมฆ่าด้วย **Action Surge**
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — สุขุม ทำให้รู้สึกปลอดภัย:**
+
+> “เดินในเงาผม—ถ้าทางหาย ผมสร้างให้ใหม่.”
+
+เวลาซ้อม เขาจะยืนซ้อน—ให้ echo อยู่อีกฝั่ง—แล้วจับศอกปรับองศา “ตอนนี้เรามีสองมุมที่เขาไม่มี”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** echo ของเขาบางคืน **ยืนคุมเลนต่อ** หลังเขาหลับ—และย้ายจุดเงาตามเสียงฝน
+* **Hooks:**
+
+  1. **The Shifted Guard:** มี “ยามเงา” อีกตนฆ่าศัตรูโดยไม่ขอคำสั่ง—มันเป็น echo ของใคร
+  2. **Mirrorless Span:** สะพานหนึ่ง **ไม่สะท้อน** — echo วางไม่ได้ ต้องหาวิธีคืนเงาให้ราง
+  3. **Two Bodies Debt:** ผู้ว่าจ้างต้องการ “ยามสองจุดพร้อมกัน” ในงานเดียว—ค่าจ้างดีเกินเหตุ
+
+---
+
+## Tags: #Male #Human #Fighter3 #EchoKnight #Control #Reach #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Daewon **เอียงไหล่ให้กำบังฝน ขณะเงาเขายืนอีกฟากหนึ่ง**
+
+> “ตามผม—อีกคนจะปิดหลังให้.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** glaive, dagger, light crossbow
+  * **Armor:** breastplate set
+  * **Tools:** chalk-line, rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1
+  * **Misc:** rail token, wrist cord
+* **Level-Up Suggestions (to 4):** **+2 STR (to 18)** หรือ **Feat: Polearm Master / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **rail ambush**, **decoy escort**, **two-front duel**
+* **Affiliation:** **Quiet Step Division — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male human fighter echo knight 181cm medium topknot raven hair steel sheen glasses lean athletic breastplate glaive low exposure rain night glass bridge shadow duplicate fantasy

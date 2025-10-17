@@ -1,0 +1,208 @@
+# #305 — **Ilyra Glasslock** — *The Smile That Solves You*
+
+> “Truth is a costume. I just pick better fabrics.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 305
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — คุยง่าย มีไหวพริบ ยั่วขำ ๆ แบบเพื่อนสนิทที่อ่านใจเก่งเกินไป
+* **Age:** 24
+* **Race:** **Other — Changeling** (≈88% human; pearl-sheen irises, faint marbling at temples when focused)
+* **Class & Level:** **Rogue (Inquisitive)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **disguise detective / spy-auditor / lie anatomist**
+* **Organization:** **The Moonstage Circle — “Backstage Inquiry” cell**
+* **Symbol:** a half-mask over a keyhole eye
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese drama vibe** — clean jawline, soft nose bridge, playful eyes that sharpen like a scalpel when she reads you.
+
+**Eyes:** pale gray with pearly swirl; focus-lines appear like hairline cracks when using insight.
+**Skin:** porcelain-ivory with faint opal sheen across collarbones.
+
+**Hair (Female-set Randomizer):** 🎲 **Straight (top frequency)**
+**Style:** **long straight twin-tails**, tied low with silk cords; curtain bangs frame her cheeks.
+**Color:** **black-ink fading to silver tips** under light.
+
+**Height:** **168 cm**
+**Weight:** **57 kg**
+**Body Type:** **curvy-athletic**, poised core, dancer’s legs.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: H   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 108 – 73 – 112
+VALIDATION: • W/B = 0.676 → OK   • H/W = 1.53 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Nerd (30%) → success**
+**Glasses Rule (Nerd = always):** ✅ **Yes** — slim rectangular silver frames with anti-glare wards.
+
+**Jewelry & Accessories:** thin opal choker (truth-focus), chain earring with tiny magnifier charm, data-bangle for case notes, ankle bell muted by runes.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium–High (sleek investigator glam)**
+
+A **tailored satin vest** with **plunge V-line** over a **sheer mesh underlayer**, paired with **high-slit pencil skirt** for agile footwork.
+A **backless micro-capelet** of mirrored silk blurs her outline when she turns.
+Knee-high heeled boots, soft-soled for silent galleries.
+
+**Palette:** black / opal silver / moon-gray
+**Weapons & Gear:**
+
+* *Pin-dagger* hidden in glasses arm
+* *Opaline rapier* (finesse)
+* *Lens kit* (magnifier, color filters), *disguise kit*, *truth-thread* (thin cord that changes color with stress—flavor tool)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **19 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 13 (+1)** **WIS 16 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Insight +7, Investigation +5, Perception +5, Stealth +6, Deception +4, Persuasion +4, Sleight of Hand +6
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Rogue (Inquisitive) 3**
+
+* **Ear for Deceit:** treat Insight rolls <8 as 8.
+* **Eye for Detail:** bonus action Perception (to spot hidden) or Investigation (to uncover clues).
+* **Insightful Fighting:** bonus action to analyze a target (WIS vs Deception); on success, **Sneak Attack** against it **without advantage** for 1 minute.
+* **Sneak Attack:** 2d6 (once/turn).
+* **Cunning Action:** Dash/Disengage/Hide.
+
+**Attacks**
+
+* **Opaline Rapier:** +6 to hit, 1d8+4 piercing (+2d6 Sneak via Insightful Fighting)
+* **Pin-Dagger (hidden):** +6 to hit, 1d4+4 piercing; advantage to conceal (flavor)
+
+---
+
+## 🎯 Combat Tactics (Analyst Duelist / Control via Read)
+
+* **Role:** **single-target solver / scout-controller**
+* **Opener:** **Eye for Detail** to read the field → **Insightful Fighting** on the boss.
+* **Flow:** maintains engagement from midline, feeds allies callouts (who’s faking, who’s feinting).
+* **Finisher:** quiet thrust when the lie breaks; leaves a silver thread tied around the truth.
+
+**Damage Flavor:** her blade glints like a lie cracking; each hit “clicks” like a lock opening.
+
+---
+
+## 💬 Personality
+
+* **Traits:** playful analyst, teasingly blunt, collects tells like souvenirs.
+* **Ideal:** Honesty-by-choice — “Truth should be earned, not forced.”
+* **Bond:** protects backstage crew who taught her every trick.
+* **Flaw:** curiosity overrides caution; chases the *why* into danger.
+* **Quirk:** taps her glasses twice before calling someone’s bluff.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Masque Courts, Gallery Lanes**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **art-heist interrogation**, **masquerade unmasking**, **silent duel in a hall of mirrors**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised among costume-makers; learned that fabric lies beautifully.
+A Severance scam took her friend—she’s been dissecting cons and killers ever since.
+
+* **Lifestyle:** compact studio with mannequins, wigs, scent-coded files.
+* **Income:** private inquiries, noble vetting, backstage security.
+* **Relationships:** friendly rivalry with Sereth (#304); coffee ally with Melisara (#301).
+
+---
+
+## 🧩 Morals & Ethics
+
+Won’t torture truths; she courts them. Lies are tools, not homes. She dislikes zealots and lazy thinkers.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** failing to read a genuine cry for help.
+* **Weaknesses:** overanalyzes affection; may miss danger in romance.
+* **Strengths:** lie detection, target analysis, precision fencing.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**กฎมายา/เย้ายวน (ถ้าเกี่ยวกับลวงตา/คำพูดยั่วใช้โทนกำกวม):**
+
+> “Blink if you’re lying. …You didn’t blink? Cute.”
+
+เธอมักทำให้เขินด้วยการเลื่อนแว่นลงเล็กน้อย จ้องตรง ๆ แล้วกระซิบใกล้หูว่า “ขอทดสอบหัวใจหน่อยนะ” ก่อนวัดชีพจรที่ข้อมือ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her changeling “base face” is missing; she woke one day wearing a smile she doesn’t remember.
+* **Hooks:**
+
+  1. **The Lost Face:** a corpse appears with Ilyra’s true face.
+  2. **Thread of Lies:** her truth-thread starts tightening on its own around certain names.
+  3. **Echo Tell:** an Echo learns to mimic heartbeats—her best tell—forcing new methods.
+
+---
+
+## Tags: #Female #Changeling #Rogue3 #Inquisitive #CR1 #Detective #Stealth #Masquerade
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ilyra **ชอบอ่านปฏิกิริยาแล้วแกล้งซ้ำ**
+
+> “Your pulse said yes before your mouth argued. Which one should I trust?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** opaline rapier, pin-dagger
+  * **Armor:** leather vest
+  * **Tools:** disguise kit, lens kit, truth-thread
+  * **Consumables:** calming tea ampoule ×2
+  * **Misc:** data-bangle case files
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 18)** หรือ **Feat: Observant / Insightful Investigator (Reskinned Keen Mind)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Masque Courts / Gallery Lanes**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **interrogation duel**, **mirror pursuit**, **heist unmasking**
+* **Affiliation:** **Backstage Inquiry Cell**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese female changeling rogue inquisitive 168cm long straight twin-tails silver tips glasses H-cup sleek vest slit skirt opal rapier

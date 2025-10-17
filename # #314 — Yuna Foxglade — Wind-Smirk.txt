@@ -1,0 +1,205 @@
+# #314 — **Yuna Foxglade** — *Wind-Smirk Scout of the Moon Rails*
+
+> “If you heard my steps, that was on purpose.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 314
+* **Gender:** **Female (Type: รุ่นน้อง)** — สดใส ขี้เล่น ยั่วเก่งแบบไม่ตั้งใจ แต่ฉลาดล้ำในการอ่านทางหนีทีไล่
+* **Age:** 20
+* **Race:** **Half-Beast (fox lineage)** — ~88% human; subtle russet ear-tips peeking through hair, faint fox-tail tuft motif at lower back (ornamental fur crest), amber slit-hint eyes
+* **Class & Level:** **Rogue (Scout) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **pathfinder / outrider / rooftop courier**
+* **Organization:** **Thalassara Moon Canal Rangers — Outrider Detachment**
+* **Symbol:** a fox pawprint cutting through a wind-swish glyph
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese idol-athlete** — bright amber eyes, pert smile, springy motions that feel like a wink in motion.
+
+**Eyes:** amber-honey with a sly vulpine sparkle.
+**Skin:** fair with a warm peach undertone; a faint russet shimmer at the collarbones under moonlight.
+
+**Hair (Female Hair Randomizer):** 🎲 **Straight (top frequency)**
+**Style:** **long straight with hime bangs** and a thin braided strand behind the right ear for hairpins.
+**Color:** **inky black with soft russet-amber tips** that catch lantern light.
+
+**Height:** **166 cm**
+**Weight:** **55 kg**
+**Body Type:** **fit-curvy**, springy legs, nimble waist.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 103 – 71 – 107
+VALIDATION: • W/B = 0.689 → OK   • H/W = 1.51 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Nerd (30%) → success**
+**Glasses Rule (Nerd = always):** ✅ **Yes** — slim round silver specs with anti-glare wards.
+
+**Jewelry & Accessories:** tiny fox-ear cuff, light silver pendant (whistle-reed charm), braided data-bangle, ankle cord with two mute beads (tempo counter).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High (athletic scout couture; artistic, non-explicit)**
+
+A **cropped windbreaker** with **deep V sports halter** beneath, **high-waist stealth shorts** layered under **slit side-skirt panels** for stride freedom, and **split-sole boots** for rail running.
+A **short hooded capelet** breaks her outline; inner hem stitched with echo-dampening runes.
+
+**Palette:** charcoal / moon-gray / russet accents / silver trim
+**Weapons & Gear:**
+
+* **Shortbow “Whipwind”** with 20 fox-fletch arrows
+* **Shortsword** (light, wave-spine)
+* **Climber’s kit, chalk line, smoke bead ×2, whistle-reed charm (signal)**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **19 HP**
+* **AC:** **16** (studded light kit + DEX)
+* **Speed:** 30 ft; **Darkvision** 60 ft (lineage flavor)
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 14 (+2)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** **Nature +5**, **Survival +6**, Stealth +8, Perception +4, Acrobatics +6, Investigation +3, Sleight of Hand +6
+* **Languages:** Common, Sylvan, Thalassaran Cant, Thieves’ Cant
+
+**Rogue (Scout) 3**
+
+* **Skirmisher:** Reaction move **half speed** when a foe ends within 5 ft (no OA).
+* **Survivalist:** gain proficiency & expertise in **Nature** and **Survival**.
+* **Cunning Action:** Dash/Disengage/Hide (bonus).
+* **Sneak Attack:** **2d6** (once/turn).
+
+**Attacks**
+
+* **Shortbow:** +6 to hit, 1d6+4 piercing (80/320)
+* **Shortsword:** +6 to hit, 1d6+4 slashing
+* **Sneak Attack:** +2d6 on a hit with advantage or ally within 5 ft (or Insightful play).
+
+---
+
+## 🎯 Combat Tactics (Mobile Harrier / Screen & Peel)
+
+* **Role:** **outrider striker / skirmish screen**
+* **Opener:** mark lanes, draw first shot to bait pursuit → **Skirmisher** out of reach.
+* **Flow:** kites targets across bad footing; relays ranges to allies; smoke bead to split aggro.
+* **Finisher:** drop from rail, **shortbow→shortsword** swap, disengage with Cunning Action.
+
+**Damage Flavor:** arrows hiss like a sly laugh; her cape snaps wind into the enemy’s eyes.
+
+---
+
+## 💬 Personality
+
+* **Traits:** แซวเก่ง ขี้เล่น ฉลาดหัวไวแบบเนิร์ดแอบซน
+* **Ideal:** Freedom — “ถนนบนหลังคาเป็นของคนวิ่งเร็วสุด”
+* **Bond:** เธอจด “ทางปลอดภัยของเด็กๆ” ในสมุดแผนที่ส่วนตัว
+* **Flaw:** มั่นใจเกินเหตุ ชอบท้าความเร็วแม้สภาพแย่
+* **Quirk:** แตะกรอบแว่นสองครั้งก่อนคำนวณทางลัด—แล้วยิ้มมุมปาก
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Rails, roof-bridges, echo-markets**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **rooftop relay**, **canal ambush screen**, **decoy courier run**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกช่างซ่อมราวทาง (roof rails) ที่โตมากับผังเมืองบนหลังคา—เธออ่านลม อ่านสะพาน และจังหวะก้าวได้แม่นยำ กลายเป็นสคาวต์หน้าใหม่ที่รุ่นพี่ต้องยอมรับ
+
+* **Lifestyle:** ห้องเล็กบนดาดฟ้า เต็มด้วยแผนที่พับและเชือก
+* **Income:** ค่าจ้างคุ้มกัน, งานวิ่งเอกสาร, โบนัสในคืน Echo
+
+---
+
+## 🧩 Morals & Ethics
+
+ปกป้องเส้นทางเด็กและคนชราเป็นอันดับแรก—คนวิ่งเร็วต้องกันลมให้คนวิ่งช้า
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** สะพานที่ “เงียบเกินไป” ก่อน Echo ระเบิด
+* **Weaknesses:** ดื้อเรื่องความเร็ว; เกราะบางถ้าถูกล็อกระยะ
+* **Strengths:** เคลื่อนที่ป้องกันแนวหน้า, อ่านภูมิประเทศ, หนี-ล่อศัตรูขั้นสูง
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — แกล้งยั่วนิด ๆ:**
+
+> “ตามให้ทันสิคะ—ถ้าตามทัน หนูมีรางวัลให้… เป็นทางลัดลับ ๆ ไงล่ะ”
+
+ชอบทำให้เขินโดยวิ่งย้อนกลับมาประกบไหล่ กระซิบเร็ว ๆ ใกล้หู แล้วดึงมือพาวิ่งต่อ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** แผนที่ส่วนตัวของยูนามี “ทางที่ไม่มีในเมือง”—บางรางพาไปยัง Echo fold
+* **Hooks:**
+
+  1. **Foxline:** ทางลัดของเธอเริ่ม “ย้ายที่เอง” เหมือนเมืองตอบโต้
+  2. **Rail Runner Duel:** มือวิ่งเงาออกล่าเธอบนหลังคา—ผู้แพ้ตกสู่ Echo
+  3. **Courier Zero:** เอกสารที่เธอถืออยู่เป็นชื่อปลอมของสมาชิก Moon Council
+
+---
+
+## Tags: #Female #HalfBeast #Fox #Rogue3 #Scout #Skirmisher #Outrider #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Yuna **จะเอาปลายนิ้วแตะแว่น แล้วยิ้ม**
+
+> “Heartbeat check… faster already? Cute.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** shortbow, shortsword
+  * **Armor:** studded scout kit
+  * **Tools:** climber’s kit, thieves’ tools
+  * **Consumables:** smoke beads ×2
+  * **Misc:** whistle-reed, rooftop mapbook
+* **Level-Up Suggestion (to 4):** **+2 DEX (to 20)** or **Feat: Mobile / Skulker**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Moon Rails & roof-bridges**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **relay chase**, **ambush screen**, **decoy courier**
+* **Affiliation:** **Moon Canal Rangers — Outrider**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female half-beast fox rogue scout 166cm long straight hime bangs glasses G-cup cropped windbreaker deep V halter slit panels shortbow rooftop night fantasy

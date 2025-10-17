@@ -1,0 +1,199 @@
+# #316 — **Jin “Softstep” Arvale** — *Velvet Pulse of the Quiet Death*
+
+> “Shh… let your fear exhale first. Then I’ll take the rest.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 316
+* **Gender:** **Male (Type: Femboy)** — อ้อนแอ้น นุ่มนวล ยั่วยวนด้วยสายตาและคำพูดกำกวม
+* **Age:** 21
+* **Race:** **Human (Valeronnes)** — ~100% humanlike; faint auric mote at pupils from meditation rites
+* **Class & Level:** **Monk (Way of the Long Death) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **quiet enforcer / morgue attendant / “last-breath” interviewer**
+* **Organization:** **Valeronnes Glass-Archive — Mortuary Annex**
+* **Symbol:** a silk knot tied around a still heartbeat mark
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese idol softness** — heart-shaped face, plush lips, luminous doe eyes; movements are feather-light and precise.
+
+**Eyes:** smoky brown with a faint jade ring when he centers his breath.
+**Skin:** milky porcelain with cool glow along collarbones and wrists.
+
+**Hair (Feminine Hair Set for Femboy):** 🎲 **Ponytail (top frequency)**
+**Style:** **sleek low ponytail** with face-framing wisps; a thin ribbon knots at the nape.
+**Color:** **inky black with moss-green undergloss**.
+
+**Height:** **158 cm** (femboy rule)
+**Weight:** **48 kg**
+**Body Build:** **slim, elegant**, soft lines, dancer posture (no bulk).
+
+**Sub-Theme Roll:** 🎲 **Nerd — success**
+**Glasses Rule (Nerd = always):** ✅ **round, clear-lens silver spectacles** (anti-glare sigils).
+
+**Jewelry & Accessories:** jade teardrop earring (left), silk prayer-cord bracelet (counting breaths), anklet with mute bells.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High (artistic, non-explicit)**
+
+A **midriff-baring wrap top** with a **subtle deep V** bordered by funeral-green piping, paired with **high-waist flow pants** slit at the outer thighs for split-kicks.
+A **short shadow-silk shrug** drapes the shoulders, nearly backless, its hem stitched with tiny ward knots. Soft split-sole boots whisper on marble.
+
+**Palette:** obsidian / funeral green / moon-ivory accents
+**Weapons & Gear:**
+
+* **Monk’s shortblade** (wakizashi profile; monk weapon)
+* **Bone-needle hairpin** (concealed)
+* **Silk restraint cord**, **incense vials** (calming, flavor)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **17 HP**
+* **AC:** **17** (Unarmored Defense: 10 + DEX 4 + WIS 3)
+* **Speed:** **40 ft**
+* **STR 8 (-1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 16 (+3)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +1, DEX +6
+* **Skills:** Stealth +6, Insight +5, Medicine +5, Acrobatics +6, Persuasion +5
+* **Languages:** Common, Thalassaran Cant, Celestial (ritual catechism)
+
+**Monk 3 (Way of the Long Death)**
+
+* **Martial Arts (1d4)**, **Ki (3)** — *Flurry of Blows, Patient Defense, Step of the Wind*
+* **Unarmored Movement (+10 ft)**
+* **Deflect Missiles**
+* **Touch of Death:** when Jin reduces a creature to 0 HP, he gains **temp HP = WIS mod (3) + monk level (3) = 6**.
+
+**Attacks**
+
+* **Shortblade (monk weapon):** +6 to hit, **1d6+4 slashing**
+* **Unarmed Strike:** +6 to hit, **1d4+4 bludgeoning** (two extra hits via **Flurry**)
+* **Bone-needle (improvised):** +6 to hit, **1d4+4 piercing** (flavor)
+
+---
+
+## 🎯 Combat Tactics (Attrition Skirmisher / Fear Reader)
+
+* **Role:** **frontline skirmisher / finisher / morale breaker**
+* **Opener:** **Patient Defense** advance; read breath-cadence with Insight.
+* **Flow:** bait a swing, **Deflect Missiles** if ranged; **Flurry of Blows** to stagger; hold for the **finishing tap** to trigger **Touch of Death** temp HP.
+* **Finisher:** whisper-count to three, heel-hook to diaphragm, palm-stop to throat—gentle, final.
+
+**Damage Flavor:** when he drops someone, the air around him stills; his ribbon flutters once, then lies quiet.
+
+---
+
+## 💬 Personality
+
+* **Traits:** gentle, clinical curiosity, playful wordplay that turns suggestive without warning.
+* **Ideal:** Composure — “If I master breath, I master endings.”
+* **Bond:** keeps a memorial list of names he “sent softly.”
+* **Flaw:** fascinated by near-death confessions; lingers too long in danger.
+* **Quirk:** counts out-loud in a whisper (1–2–3) before strikes.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Mortuary Annex, glass canals, midnight cloisters**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **bodyguard vigil**, **last-breath interrogation**, **duel in the columbarium aisles**
+
+---
+
+## 📜 Background & Lifestyle
+
+A quiet apprentice who washed the dead at the Archive, Jin learned that the breath before the last word is the most honest. Monks of the Long Death taught him to respect endings—and to engineer them with mercy.
+
+* **Lifestyle:** tiny cell room above the Annex; tatami mat, incense, ledger of names.
+* **Income:** mortuary stipend, quiet protection contracts, vow offerings.
+
+---
+
+## 🧩 Morals & Ethics
+
+Death is a threshold, not a terror. He delivers it without cruelty, and keeps promises the dying could not keep.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a death with no breath—Severance-stolen endings.
+* **Weaknesses:** thin HP; if swarmed without ki, fragile.
+* **Strengths:** battlefield poise, reliable finisher sustain (**Touch of Death**), superb mobility.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy tone — silky, suggestive:**
+
+> “Relax your jaw… mmh, good. Now let me steal just one more breath.”
+
+เขาชอบทำให้เขินด้วยการจับข้อมือวางทาบหน้าอกตัวเองให้รู้สึกถึงจังหวะหัวใจ แล้วกระซิบใกล้หูว่า
+
+> “There—now we’re in the same rhythm.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his bone-needle was carved from a saint’s rib; whispers echo when it tastes blood.
+* **Hooks:**
+
+  1. **Breath Tax:** an Echo that collects last breaths stalks the Annex—Jin’s ribbons start moving on their own.
+  2. **Three-Count Duel:** a rival monk claims Jin cheats the count; a ritual duel decides whose mercy is true.
+  3. **The Name He Won’t Write:** he refuses to record one name—his own, seen in a glass reflection during rites.
+
+---
+
+## Tags: #Male #Femboy #Human #Monk3 #WayOfTheLongDeath #Skirmisher #Valeronnes #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Jin **leans in until his glasses almost touch your cheek**
+
+> “If you blush on two, I won’t need three.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** monk shortblade, bone-needle
+  * **Armor:** shadow-silk outfit (clothes)
+  * **Tools:** incense kit, silk cord restraints
+  * **Consumables:** calming incense ×2
+  * **Misc:** prayer ledger, breath-count ribbon
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** หรือ **Feat: Mobile / Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Mortuary Annex & Glass Columbaria**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **vigil duel**, **quiet escort**, **last-breath interrogation**
+* **Affiliation:** **Glass-Archive Mortuary**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese femboy male human monk way of long death 158cm sleek low ponytail black hair green undergloss round glasses slim elegant high exposure wrap top midriff high-waist slit pants shadow silk shrug funeral green accents quiet deadly fantasy

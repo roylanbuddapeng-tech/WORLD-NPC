@@ -1,0 +1,210 @@
+# #285 — **Ryn Verrano** — *The Alchemist of Hollow Perfumes*
+
+> “Death is only chemistry—change the ratio, and it becomes desire.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 285
+* **Gender:** **Female (Type: ทอมบอย — athletic type)** — ท่าทางห้าวนิด ๆ ยิ้มเก่งแต่สายตาคม มีเสน่ห์ของคนมั่นใจในแรงแขนตัวเอง
+* **Age:** 25
+* **Race:** **Half-Beast (mammalian — fox lineage)** — humanlike (≈90%), faint orange-gold glow in pupils, subtle fur line at ears
+* **Class & Level:** **Artificer (Alchemist)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **Traveling battle-medic / poison alchemist / freelance potion-thrower**
+* **Organization:** **Independent — “The Fume Run”**
+* **Symbol:** a flask wrapped in nine tails
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–Western hybrid** — tanned smooth skin, foxlike grin, playful eyes.
+
+**Eyes:** amber-orange, pupils slit in low light.
+**Skin:** bronze glow with freckles across nose bridge.
+
+**Hair (Female-set Randomizer):** 🎲 **Bob (15% slot)**
+**Style:** tousled short bob, messy fringe partially hiding one eye.
+**Color:** **fiery copper with cream streaks at temple**
+
+**Height:** **168 cm**
+**Weight:** **59 kg**
+**Body Type:** **fit athletic**, visible abs, lean biceps.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 90 – 66 – 95  
+VALIDATION: W/B = 0.73 → OK   H/W = 1.44 → OK  
+```
+
+**Sub-Theme Roll:** 🎲 **None**
+**Glasses Roll (non-theme 50%) → fail**
+
+**Jewelry & Accessories:** leather strap necklace with tiny flask charms, silver stud earrings, wristband with vial clips.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium (utility-focused, partial reveal)**
+
+A **sleeveless cropped alchemist jacket** of brown leather with reinforced seams and **low collar cut**, showing toned shoulders.
+Under it: **black sports bust-wrap** and **utility pants** with **side holsters** full of potions and throwing flasks.
+**Boots** reinforced with shock-absorbent resin soles for sprinting through explosions.
+
+**Palette:** copper / brown / black / bronze trims
+**Weapons & Gear:**
+
+* *Catalyst Gauntlet* (focus, +1 spell attack)
+* *Throwing flask bandolier* (6× alchemical bombs)
+* *Portable alembic* (foldable glass kit)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **25 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 16 (+3)** **CON 14 (+2)** **INT 16 (+3)** **WIS 10 (+0)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Arcana +5, Investigation +5, Medicine +2, Sleight of Hand +5, Acrobatics +5
+* **Tools:** Alchemist’s Supplies, Tinker’s Tools, Poisoner’s Kit
+* **Languages:** Common, Sylvan
+
+**Artificer (Alchemist) 3**
+
+* **Infuse Item (2)** — choose *Enhanced Defense* and *Repeating Weapon*
+* **Experimental Elixir (2/day):** healing, swiftness, resilience, or custom effect (poison cloud)
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mending, Fire Bolt, Acid Splash*
+  * *1st–2nd:* *Cure Wounds, Grease, Alchemical Fire, Lesser Restoration, Web*
+
+**Attacks**
+
+* **Catalyst Gauntlet (acid flask):** +5 to hit, 2d6 acid (DEX save half)
+* **Flask Toss (alchemical bomb):** 20/60 ft, 1d6+3 fire + ongoing 1d4 (2 rounds, DC 13 END)
+
+---
+
+## 🎯 Combat Tactics (Support / Explosive Control)
+
+* **Role:** **support demolition / battlefield manipulator**
+* **Opener:** toss *Web* → ignite with flask.
+* **Flow:** *Grease* + *Fire Bolt* chain; throw healing elixir to ally (bonus action).
+* **Finisher:** *Acid Splash* line; taunts enemies mid-blast.
+
+**Damage Flavor:** explosions burst in orange light mixed with sweet perfume scent—her signature alchemical mix.
+
+---
+
+## 💬 Personality
+
+* **Traits:** teasing humor, reckless confidence, generous loyalty.
+* **Ideal:** Curiosity — “If it can explode, it’s already interesting.”
+* **Bond:** owes a life-debt to the Thalassaran patrol who saved her lab.
+* **Flaw:** loves adrenaline more than self-preservation.
+* **Quirk:** counts seconds aloud before throwing flasks, “just for rhythm.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Burned Perfume Quarters**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **warehouse sabotage**, **alchemical theft**, **potion race rescue**
+
+---
+
+## 📜 Background & Lifestyle
+
+Street chemist turned medic; learned her art scavenging perfume waste and repurposing it into fuel.
+Rumor says she once blew up a canal bridge to stop an Echo surge—and apologized for “the symmetry.”
+
+* **Lifestyle:** messy workshop-boat full of glowing jars.
+* **Income:** potion sales, merc jobs.
+* **Relationships:** flirts shamelessly with Kaelen (#283); occasionally supplies Selyra (#281) with sleep toxins.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that morality is chemistry—too much of anything poisons. Keeps balance by intuition, not doctrine.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing sense of smell (her craft depends on it).
+* **Weaknesses:** poor stealth; loves flashy results.
+* **Strengths:** field healing, AoE control, crafting flexibility.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย tone (athletic):**
+
+> “Don’t blink, or I might splash the wrong one—healing or burning, fifty-fifty odds.”
+
+ชอบแกล้งจับไหล่คนพูดเล่นระหว่างผสมสาร แล้วปล่อยเสียงหัวเราะจนคนข้าง ๆ ใจเต้นแรงกว่าเสียงระเบิด
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her perfume fire bombs are actually a Severance byproduct; she keeps it secret out of guilt.
+* **Hooks:**
+
+  1. **The Burned Formula:** a missing page causes spontaneous hallucinations.
+  2. **Fume Runner’s Debt:** smugglers want her elixirs back—with interest.
+  3. **Echo Catalyst:** someone stole her old perfume bomb, now resonating uncontrollably in the canals.
+
+---
+
+## Tags: #Female #Tomboy #HalfBeast #Fox #Artificer3 #Alchemist #CR1 #Thalassara #Support #Explosives
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ryn **ชอบทำให้เขินโดยถือขวดระเบิดในมือแล้วก้มกระซิบ**
+
+> “You look better nervous—colors in your eyes mix just right with the fire.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** catalyst gauntlet, throwing flasks
+  * **Armor:** studded vest
+  * **Tools:** alchemist’s, tinker’s, poisoner’s kits
+  * **Consumables:** 6 flasks, 2 healing elixirs
+  * **Misc:** folding alembic, fox-tail charm
+* **Level-Up Suggestions (to 4):** **+2 INT (to 18)** or **Feat: Alchemist Savant / Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Burned Perfume Quarters**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **warehouse fire rescue**, **chemical sabotage**, **canal ambush**
+* **Affiliation:** **Independent “Fume Run” Alchemists**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese western female fox half-beast alchemist artificer 168cm copper bob hair amber eyes athletic D-cup cropped jacket bust-wrap utility pants throwing flasks fire explosion lab

@@ -1,0 +1,198 @@
+# #352 — **Hiro “Blue-Line” Akagi** — *Arc on the Quiet Rail*
+
+> “I draw the line, then the lightning follows.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 352
+* **Gender:** **Male (Type: เคะ)** — สุภาพ นุ่มนวล แต่คมกริบเมื่อถึงจังหวะตัดสินใจ
+* **Age:** 24
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Eldritch Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **escort duelist / arcane rail-guard / anti-caster interceptor**
+* **Organization:** **Valeronnes Rail Wardens — Quiet Arc Cohort**
+* **Symbol:** เส้นตรงสีน้ำเงินบาง ๆ ตัดกับรูปสายฟ้าเล็ก
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean clean scholar-warrior** — soft-spoken, focused eyes, movements trimmed of waste.
+
+**Height:** **176 cm** **Weight:** **68 kg**
+**Body Build:** **lean-athletic**, whip-fast wrists, balanced stance.
+
+**Hair (Male Randomizer):** **Short**, **clean side-part with tapered sides**, precise lines for helm-fit.
+**Color:** **raven black with cool cobalt lowlights** that catch rain.
+**Eyes:** slate-blue that brightens to electric cobalt when he casts.
+**Skin:** fair-olive with a faint moon-sheen along the collarbones.
+
+**Jewelry & Accessories:** **thin rectangular steel-frame glasses** (anti-glare sigils) — *rolled 30%: success*; a **silver arc pendant**, **braided wrist-cord** for counting cuts, and a **rail token** tucked at the collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional arc-duelist kit**
+
+A **brushed-steel breastplate** over an **indigo padded jacket**, **quiet-weave bracers**, and **tapered guard-trousers** for tight lunges on slick glass. **Soft-sole boots** grip rails in rain. A **short storm-cloak** pins flat, trimmed with subtle cobalt piping that glints when spells arc.
+
+**Palette:** steel / indigo / charcoal / cobalt accents
+
+**Weapons & Gear:**
+
+* **Longsword “Blue-Line”** (matte fuller; thin cobalt inlay)
+* **Shield** (glass-inset boss)
+* **Dagger** (utility)
+* **Light crossbow** + 20 bolts
+* **Chalk-line, silk rope 50 ft, manacles, echo-salt, smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Fighting Style: Dueling** does not add AC)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Arcana +3, Perception +3, Investigation +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Eldritch Knight**
+
+* **Fighting Style:** **Dueling** (+2 damage with a one-handed melee weapon you wield alone)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Weapon Bond:** bonded to **longsword** and **dagger** (can’t be disarmed; can **summon** bonded weapon as a **bonus action** to hand)
+* **Spellcasting (INT; 1st-level slots 2):**
+
+  * **Cantrips (2):** *Fire Bolt* (Evocation), *Mage Hand* (Conjuration)
+  * **Spells Known (3):** *Shield* (Abjuration), *Absorb Elements* (Abjuration), *Feather Fall* (Transmutation — the “any school” pick)
+  * **Spell Save DC 11** (8 + PB2 + INT1), **+3** to hit with spell attacks
+
+**Attacks**
+
+* **Longsword (1h, Dueling):** +5 to hit, **1d8+5** slashing (includes +2 from Dueling)
+* **Dagger:** +5 to hit, **1d4+3** piercing (20/60)
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+
+---
+
+## 🎯 Combat Tactics (Anti-Caster Escort / Clean Finisher)
+
+* **Role:** **frontline protector–duelist / spell-interceptor**
+* **Opener:** advance under rain; the instant a hostile cast cues, pop **Shield** or **Absorb Elements** to keep the lane intact.
+* **Flow:** **Action Surge** to convert a stagger into a clean finish; **Weapon Bond** yoinks the sword back if disarmed in a shove.
+* **Finisher:** bind guard with the rim of the shield, slip a short cut; if a fall threatens, **Feather Fall** keeps civilians breathing.
+
+**Damage Flavor:** when he swings, a cobalt line sketches his intent; the rain seems to flow along it before breaking.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ ตั้งใจฟัง พูดสั้นแต่ชัด; ชอบอธิบายด้วยเส้นและจังหวะ
+* **Ideal:** Restraint — “คมที่ใช้ช้า ๆ มักถูกต้องกว่าใช้เร็ว”
+* **Bond:** สมุด “เส้นทางปลอดภัย” ที่ขีดจังหวะฝนและรอยแตกของทุกสะพาน
+* **Flaw:** วางแผนละเอียดเกิน จนพลาดหน้าต่างเร็ว ๆ ได้
+* **Quirk:** ดันกรอบแว่นหนึ่งครั้งก่อนร่าย—เป็นสัญญาณให้คู่หูรู้ว่า “กำลังเปิดคัท”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, hush corridors, lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **escort choke**, **anti-caster intercept**, **quiet duel in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+เด็กฝึกเวรสะพานที่ชอบขีดเส้นทางด้วยชอล์ก—คืนหนึ่งสายฟ้าตามเส้นที่เขาขีดจริง ๆ เขาศึกษาเวทเชิงป้องกันเพื่อให้ “เส้นปลอดภัย” ไม่ขาด และกลายเป็นดาบนำทางของหน่วย **Quiet Arc**
+
+* **Lifestyle:** ห้องเล็กติดสะพาน เต็มด้วยชอล์ก/ผังเส้นและผ้าเช็ดใบดาบ
+* **Income:** เงินเดือน Wardens, โบนัสคุ้มกัน, งานคุมเวทจลาจล
+
+---
+
+## 🧩 Morals & Ethics
+
+“ช่วยคนให้ผ่านก่อน แล้วค่อยชนะไฟต์” — เวทของเขาเอาไว้ **กัน** ก่อน **ฟัน**
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** ช่วงที่ฝน “หยุดบนเส้น” — ลาง Echo ตัดเวกเตอร์ของเมือง
+* **Weaknesses:** spell slots น้อย; ถ้าไฟต์ยืดจะต้องพึ่งดาบล้วน
+* **Strengths:** **AC 19**, **ป้องกันเวททันใจ (Shield/Absorb Elements)**, **Action Surge** จบไว, **Feather Fall** กู้วิกฤตสะพาน
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ — สุภาพ ดูแลใกล้ ๆ:**
+
+> “ยืนตามเส้นนี้… ผมจะให้ฟ้าไหลตามเรา ไม่ใช่สวนเรา.”
+
+เวลาซ้อม เขาจะจับข้อมือจัดมุมดาบแล้วกระซิบ “หนึ่งเสี้ยวองศา—ดี… ตอนนี้ปล่อย”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** เส้นโคบอลต์บนดาบวูบเองเมื่อมีผู้ร่ายเวทในระยะไกลเกินสายตา—เหมือนดาบ “ฟังฝน” ให้
+* **Hooks:**
+
+  1. **Blue Line Theft:** ผู้ร้ายคัดลอกเส้นโคบอลต์ไปติดกับดาบปลอม—ทำให้พลเมืองหลงทางบนสะพาน
+  2. **Rain That Ignores Shield:** มีเขตที่ **Shield** ไม่จุดติด—ใครตัดสายเวทของเมือง
+  3. **Feather of Glass:** ทางลับเปิดเฉพาะคนที่ “ตกอย่างปลอดภัย” — ต้องใช้ *Feather Fall* นำคณะลอดรางล่าง
+
+---
+
+## Tags: #Male #Human #Fighter3 #EldritchKnight #Escort #AntiCaster #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Hiro **ยกโล่ให้เป็นเงาบังฝนแล้วขีดเส้นจาง ๆ ด้วยชอล์ก**
+
+> “ก้าวตามนี้—ถ้าเขายิงเวท ผมจะให้มันไหลหลบเรา.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword (bonded), dagger (bonded), shield, light crossbow
+  * **Armor:** breastplate set
+  * **Tools:** chalk-line, silk rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** arc pendant, wrist-cord, rail token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 18)** หรือ **Feat: War Caster / Shield Master**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **anti-caster intercept**, **escort choke**, **quiet duel**
+* **Affiliation:** **Quiet Arc Cohort — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean male human fighter eldritch knight 176cm short side-part raven hair cobalt lowlights lean athletic steel breastplate shield longsword glasses low exposure rain-slick bridge blue arc line spell defense fantasy

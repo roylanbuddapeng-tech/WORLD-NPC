@@ -1,0 +1,198 @@
+# #353 — **Kazuo “Prism-Fletch” Ren** — *Line That Splits the Rain*
+
+> “I don’t chase openings. I draw them.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 353
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น คำสั้น ๆ แต่เฉียบ
+* **Age:** 32
+* **Race:** **Other — Crystal-blood (Valeron Resonant Strand)** — ใกล้มนุษย์ ~88%; แวว **prismatic ring** บาง ๆ ในม่านตาเมื่อโฟกัส
+* **Class & Level:** **Fighter (Arcane Archer) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **overwatch escort / anti-caster marksman / lane splitter**
+* **Organization:** **Valeronnes Glass Court — Blue Rain Fletch**
+* **Symbol:** เส้นลูกศรบางผ่ากลางหยดฝนแตกเป็นปริซึม
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean precision marksman** — quiet poise, eyes like measuring tools, movements trimmed to purpose.
+
+**Eyes:** dark brown with a faint **prism halo** when aiming.
+**Skin:** fair-olive; rain beads slide cleanly along cheekbones.
+
+**Hair (Male Randomizer):** **Short**, **tapered sides with brushed-back top**, helm-friendly and rain-slick.
+**Color:** **raven black with cool graphite lowlights**.
+
+**Height:** **181 cm**
+**Weight:** **77 kg**
+**Body Build:** **lean–athletic**, steady shoulders, spring legs.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **thin silver ear-cuff** (prism motif), a **braided wrist cord** (wind knots), and a **rail token** tucked under the collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional overwatch kit**
+
+A **matte charcoal studded leather** under a **storm-gray hooded half-cloak** that breaks outline; **quiet-weave bracers** with string guards; **tapered rail-trousers**; **soft-sole boots** with ridge grips for glass. **Slim high quiver** rides under the cloak to keep fletchings dry.
+
+**Palette:** charcoal / storm gray / black / pale silver accents
+
+**Weapons & Gear:**
+
+* **Longbow “Prism-Fletch”** (laminated limbs with faint prism inlay)
+* **Shortsword** • **Dagger**
+* **20 arrows** (10 broadhead, 6 bodkin, 4 arcane-marked)
+* **Climber’s kit, silk rope 50 ft, caltrops, manacles, chalk-line, echo-salt**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **16** (studded leather 12 + DEX 4)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, CON +4
+* **Skills:** Perception +3, Stealth +6, Acrobatics +6, Insight +3, Athletics +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Arcane Archer**
+
+* **Fighting Style:** **Archery** (+2 to ranged attack rolls)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Arcane Archer Lore:** **Arcana proficiency** & **Prestidigitation** cantrip
+* **Arcane Shot (2/short or long rest), Save DC **11** (8 + PB2 + INT1):**
+
+  * **Piercing Arrow:** on hit, the arrow turns into a line that **passes through all** in a straight path (DEX save for half).
+  * **Bursting Arrow:** on hit, the arrow blossoms for **2d6 force** in a small blast (no save for creatures adjacent to target per RAW).
+
+**Attacks**
+
+* **Longbow:** +8 to hit (**+4 DEX +2 Prof +2 Archery**), **1d8+4** piercing; may infuse **Arcane Shot** (2/short rest)
+* **Shortsword:** +6 to hit, **1d6+4** slashing
+* **Dagger:** +6 to hit, **1d4+4** piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Overwatch Splitter / Anti-Caster Pick)
+
+* **Role:** **ranged control / escort finisher**
+* **Opener:** climb to a rail perch; chalk **exit lines**; first volley is usually **Piercing Arrow** through the caster screen.
+* **Flow:** **Bursting Arrow** to scatter a knot on the bridge; **Action Surge** for decisive double-volley when allies push; rotate perches with climber’s kit and silk anchors.
+* **Finisher:** bodkin to a weak plate, then quiet step as the rail goes still.
+
+**Damage Flavor:** arcane shots leave a fleeting rainbow seam in the rain; beads split and rejoin behind the arrow.
+
+---
+
+## 💬 Personality
+
+* **Traits:** พูดน้อย สุภาพ อ่านลมเก่ง; สอนด้วยการจับหายใจร่วม
+* **Ideal:** Economy — “หนึ่งเส้นตรงที่ดี แทนสิบก้าวที่เสีย”
+* **Bond:** สมุด “ทิศลมสะพาน” ที่จดทุกคืบของแนวลม
+* **Flaw:** ชอบแก้เองจนลืมขอโล่คุ้ม; ถ้าถูก flank จะถูกบีบง่าย
+* **Quirk:** แตะขอบหู (ear-cuff) หนึ่งครั้งเป็นสัญญาณ “พร้อมยิง”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, roof-rails, lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **overwatch escort**, **anti-caster pick**, **riot lane split**
+
+---
+
+## 📜 Background & Lifestyle
+
+เด็กเงียบของ Glass Court ที่หลงรักเรขาคณิตของลม เขาเรียนรู้จะ “วาดเส้น” ให้พายุเดินตาม ลูกศรของเขาเลยเหมือนบอกฝนว่า **ช่องไหนควรโล่ง** — จึงถูกดึงเข้า **Blue Rain Fletch** ให้คุมเลนบนสะพาน
+
+* **Lifestyle:** ห้องใต้หลังคา เต็มเชือก สมอ และแผนที่ลม
+* **Income:** เงินเดือนยาม, โบนัสคุมหลังคา, ค่าคุ้มกันผู้โดยสาร
+
+---
+
+## 🧩 Morals & Ethics
+
+“ช่วยคนผ่านก่อน ยิงค่อย ๆ แต่ชัด” — เขาเลือกจบไฟต์แบบสะอาด ไม่ให้ฝูงชนแตกฮือ
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่ลม “ไม่ยอมแบ่ง” — ลาง Echo ตัดรูปทรงของฝน
+* **Weaknesses:** ระยะประชิดเสียเปรียบ; ทรัพยากร **Arcane Shot** จำกัด
+* **Strengths:** **ควบคุมระยะไกล**, **เลนสปลิตด้วย Piercing/Bursting**, **ตำแหน่งยิงยืดหยุ่น**
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — สุขุมทำให้อุ่นใจ:**
+
+> “ยืนหลังผม—ผมวาดเส้นให้ลมหลบเรา.”
+
+ตอนซ้อม เขาจะจับข้อศอก จัดหัวไหล่ แล้วนับหายใจ “หนึ่ง… ปล่อยสาย—ดี”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** prism halo ในตา **แตกเป็นเสี้ยวเล็ก** เมื่อมีมนตร์หลอกลวงใกล้ ๆ — เขาเห็น “รอยต่อปลอม” ในฝูงชน
+* **Hooks:**
+
+  1. **Rainbow Seam:** รอยรุ้งลอยค้างหลังการยิง—ชี้ทางไปโกดังเวทเถื่อน
+  2. **Bridge Without Wind:** สะพานหนึ่งไม่มีลม—Arcane Shot “ด้อยค่า”; ต้องกู้ทิศลมกลับ
+  3. **Four Lines Test:** งานคุ้มกันต้องข้ามสี่เลน—ทุกเลนต้องเจาะด้วย **คนละประเภท** ของเส้น (line, burst, bodkin, feint)
+
+---
+
+## Tags: #Male #Other #CrystalBlood #Fighter3 #ArcaneArcher #Overwatch #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kazuo **ยกชายคลุมบังฝน เล็งผ่านไหล่คุณ**
+
+> “นิ่ง… หายใจ… ปล่อย—ลมจะเปิดทางให้เรา.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longbow, shortsword, dagger
+  * **Armor:** studded leather
+  * **Tools:** climber’s kit, chalk-line, rope, manacles
+  * **Consumables:** caltrops, echo-salt ×1, smoke bead ×1, salve ×2
+  * **Misc:** wind-knot cord, rail token
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** หรือ **Feat: Sharpshooter / Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Roof-rails & glass bridges**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **overwatch escort**, **anti-caster pick**, **lane-splitting volley**
+* **Affiliation:** **Blue Rain Fletch — Glass Court**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean male other crystal-blood fighter arcane archer 181cm short brushed-back raven hair graphite lowlights lean athletic studded leather hooded half-cloak longbow low exposure rain rooftop bridge prism halo precise marksman fantasy

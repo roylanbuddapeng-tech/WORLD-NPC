@@ -1,0 +1,205 @@
+# #300 — **Viora Delthane** — *The Scarlet Mirage of Venshar*
+
+> “A blade can spill blood only once. A whisper can do it forever.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 300
+* **Gender:** **Female (Type: รุ่นพี่)** — บุคลิกสุขุมแต่แฝงเสน่ห์เย้ายวนในจังหวะที่คาดไม่ถึง พูดนุ่มแต่มีแรงกดเหมือนสั่งให้เชื่อฟังโดยไม่รู้ตัว
+* **Age:** 30
+* **Race:** **Human**
+* **Class & Level:** **Rogue (Phantom)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **Ghost-hunter / assassin-for-hire / Severance relic retriever**
+* **Organization:** **Silent Vow — covert guild devoted to cleansing the “Lingering Dead”**
+* **Symbol:** a stylized red veil crossed by a spectral hand.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–European** — mature beauty with catlike eyes and a soft, dangerous smile; she carries herself like a dancer who learned to kill instead.
+
+**Eyes:** warm amber rimmed with faint gray shadow.
+**Skin:** light tan, faint scar near jawline that glimmers slightly when the Veil calls.
+
+**Hair (Female Hair Randomizer):** 🎲 **Very Long (15%) — cascading wavy hair that falls to her hips, usually tied with red silk ribbon.**
+**Color:** **crimson wine with black lowlights.**
+
+**Height:** **170 cm**
+**Weight:** **59 kg**
+**Body Type:** **elegant hourglass**, long legs, firm figure balanced by graceful motion.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 102 – 70 – 104
+VALIDATION: • W/B = 0.68 → OK   • H/W = 1.49 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Nerd (30%) → Fail | Aristocrat (35%) → Fail → None (35%) → Success.**
+**Glasses Rule:** ❌ (no glasses).
+
+**Accessories:** thin spectral earring shaped like a ghost wisp, a black iron ring (anchors her Phantom spirit), faint ankle chain that rattles when unseen spirits approach.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Very High**
+
+Viora’s battle attire is designed for mobility and allure both — a **crimson wrap top with plunging neckline**, **bare shoulders**, and a **waist-cut slit skirt** revealing high boots and one thigh strapped with a spectral dagger sheath.
+A **sheer black veil** drapes behind her, shimmering like mist in moonlight.
+
+**Palette:** crimson / black / gray mist / silver
+**Weapons & Gear:**
+
+* *Phantom’s Kiss* (spectral dagger, returns to hand after each throw)
+* *Veil charm* (focus for summoning bound spirits)
+* *Spirit-thread wire* (restrains incorporeal enemies).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **19 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, CHA +5
+* **Skills:** Stealth +8, Insight +3, Intimidation +5, Acrobatics +6, Perception +3, Arcana +3
+* **Languages:** Common, Infernal, Thalassaran
+
+**Rogue (Phantom) 3**
+
+* **Whispers of the Dead:** gain proficiency temporarily from spirits.
+* **Wails from the Grave:** echo damage to second target (1d6 necrotic).
+* **Tokens of the Departed:** collects ghost fragments from slain foes.
+* **Sneak Attack (2d6)**
+
+**Attacks**
+
+* **Phantom’s Kiss (dagger):** +6 to hit, 1d4+4 piercing + 1d6 necrotic (once/turn).
+* **Thrown spectral strike:** 20/60 ft, returns to hand.
+
+---
+
+## 🎯 Combat Tactics (Spectral Assassin / Control Hybrid)
+
+* **Role:** **ambusher / necrotic controller / vanguard cleaner**
+* **Opener:** throw *Phantom’s Kiss* from shadows, *Wails from the Grave* for chain necrotic.
+* **Flow:** harvest spirit token, use to scout echoes or animate faint illusions.
+* **Finisher:** dual phantom projection stab — “both seen and unseen.”
+
+**Damage Flavor:** pale red spectral afterimages follow every swing, whispering in old tongues.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, teasing, emotionally unreadable but strangely comforting.
+* **Ideal:** Closure — “The dead deserve peace, not pity.”
+* **Bond:** her bound phantom twin, *Velline*, her shadow-self.
+* **Flaw:** haunted by voices of those she kills — and finds them soothing.
+* **Quirk:** absentmindedly hums funeral hymns when bored.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Venshar — Silent Cloister Ruins**
+* **Threat Gradient:** **Deep Echo → Severance-corrupted tombs**
+* **Encounter Framing:** **spirit hunt**, **echo retrieval**, **grave duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former temple mourner turned assassin. She joined Silent Vow after realizing that Severance echoes feed on guilt — and hers could be weaponized.
+
+* **Lifestyle:** quiet monastery quarters near Venshar catacombs.
+* **Income:** retrieval jobs for cursed artifacts, ghost negotiations.
+* **Relationships:** mentor to ghost seer Lucian (unseen NPC).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes death is not an end but a conversation — and she’s fluent in it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** her phantom twin overtaking her consciousness.
+* **Weaknesses:** sometimes paralyzed by empathy toward undead.
+* **Strengths:** stealth, necrotic control, psychological poise.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — mature teasing:**
+
+> “You’re trembling again. Relax — if I wanted your soul, I’d have taken it already.”
+
+เวลามีใครทำให้เขิน เธอจะเลิกคิ้ว ยิ้มมุมปาก แล้วเอานิ้วแตะคางอีกฝ่ายเบา ๆ
+“หน้าร้อนเหรอ หรือฉันใกล้ไป?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her phantom twin *Velline* is actually her murdered sister’s soul.
+* **Hooks:**
+
+  1. **Twin Echo:** the phantom starts appearing even when Viora sleeps.
+  2. **The Veil Fracture:** Severance corruption begins mutating her spirit tokens.
+  3. **Silent Contract:** a noble offers her peace — in exchange for her phantom.
+
+---
+
+## Tags: #Female #Human #Rogue3 #Phantom #CR1 #Necrotic #Seductive #Spectral
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Viora **ใช้สายตาแทนคำพูด ยิ่งอยู่ใกล้ยิ่งเหมือนถูกมองทะลุความคิด**
+
+> “Don’t hide your fear. It makes your pulse sound beautiful.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** spectral dagger “Phantom’s Kiss”
+  * **Armor:** crimson assassin wrap
+  * **Tools:** thieves’ tools, spirit-thread wire
+  * **Consumables:** spirit token ×3
+  * **Misc:** veil charm, wisp earring
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Shadow Touched / Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Venshar — Silent Cloister Ruins**
+* **Threat Gradient:** **Deep Echo → Severance corruption**
+* **Encounter Type:** **ghost retrieval, necrotic ambush, spiritual infiltration**
+* **Affiliation:** **Silent Vow**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai European female human rogue phantom 170cm crimson wavy long hair amber eyes F-cup deep neckline slit skirt red black veil spectral assassin seductive mature

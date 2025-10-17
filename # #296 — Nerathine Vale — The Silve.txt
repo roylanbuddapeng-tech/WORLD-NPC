@@ -1,0 +1,210 @@
+# #296 — **Nerathine Vale** — *The Silver Whisper of Ruin*
+
+> “Pleasure and destruction come from the same spark — you just decide where to aim it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 296
+* **Gender:** **Female (Type: MILF)** — รอยยิ้มอบอุ่นแต่สายตาคมกริบ เธอพูดด้วยน้ำเสียงที่ทำให้รู้สึกปลอดภัย... จนกระทั่งคุณรู้ว่ามันเป็นกับดัก
+* **Age:** 36
+* **Race:** **Human (Thalassaran descent)** — faint teal shimmer around her pupils; resonance echo marks on her collarbone.
+* **Class & Level:** **Warlock (The Fiend)** 3
+* **Patron:** **The Ruby Lord of the Seventh Flame**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** **summoner / charm-warlock / infernal scholar**
+* **Organization:** **Crimson Archive of Thalassara**
+* **Symbol:** flame twisting into a spiral of lips and fangs.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Latin American – Mediterranean fusion** — fiery complexion, sultry gaze, soft curls that frame a predatory smile.
+
+**Eyes:** molten gold with faint red embers that flicker when she’s amused.
+**Skin:** warm bronze with glowing sigil lines along her spine.
+
+**Hair (Female Hair Randomizer):** 🎲 **Very Long, Wavy Ponytail (dominant)**
+**Style:** cascading down her back to her waist, tied with crimson silk ribbon and stray curls falling over her bust.
+**Color:** **deep mahogany with scarlet highlights**
+
+**Height:** **175 cm**
+**Weight:** **67 kg**
+**Body Type:** **hourglass voluptuous**, mature and athletic curves balanced with poise.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: K   CATEGORY: Gigantic
+THREE_SIZES (B-W-H, cm): 115 – 78 – 122
+VALIDATION: • W/B = 0.678 → OK   • H/W = 1.56 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **None (30%)** — confident independence; no noble or nerd archetype applied.
+**Glasses Rule:** ❌ (non-nerd).
+
+**Accessories:** ruby flame pendant, gold armlet shaped like a coiling serpent, dangling crimson-gem earrings, a charm anklet with faint smoke trails when she walks.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Very High — infernal seductress design (fantasy aesthetic, not explicit)**
+
+She wears a **backless crimson bodysuit** laced with gold runic cords that seem to float over her skin, forming patterns that shimmer when she casts.
+Her shoulders are bare, a **half-skirt of translucent fire-silk** clings to one hip, flowing like molten light.
+Her boots rise to mid-thigh, etched with protective sigils — equal parts armor and allure.
+
+**Palette:** crimson / gold / black flame
+**Weapons & Gear:**
+
+* *Infernal Grimoire of the Seventh Flame* (focus)
+* *Ruby wand* tipped with obsidian core (+1 spell focus)
+* *Scroll of Burning Pact* (can ignite once/day for +1d6 fire dmg)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **24 HP**
+* **AC:** **15** (Mage Armor + DEX +1)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 13 (+1)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +6
+* **Skills:** Deception +6, Persuasion +6, Arcana +3, Insight +3, Intimidation +6
+* **Languages:** Common, Infernal, Thalassaran Cant
+
+**Warlock (The Fiend) 3**
+
+* **Expanded Spell List:** *Burning Hands, Scorching Ray, Command, Suggestion*
+* **Dark One’s Blessing:** temp HP when she drops a foe.
+* **Dark One’s Own Luck:** +1d10 to ability/save 1/day.
+* **Pact of the Tome:** access to *Thaumaturgy, Minor Illusion, Guidance*.
+
+**Spellcasting (CHA DC 14, +6 atk)**
+
+* **Cantrips:** *Eldritch Blast, Minor Illusion, Friends*
+* **1st–2nd Spells (2 slots):** *Hex, Scorching Ray, Charm Person, Mirror Image, Suggestion, Burning Hands*
+
+**Attacks**
+
+* **Eldritch Blast:** +6 to hit, 1d10+4 force
+* **Ruby Wand Strike:** +3, 1d6+1 bludgeoning + 1d4 fire (flavor)
+
+---
+
+## 🎯 Combat Tactics (Infernal Support / Seduction Control)
+
+* **Role:** **control / ranged blaster / manipulative buffer**
+* **Opener:** *Hex + Eldritch Blast* combo, followed by *Suggestion* to isolate.
+* **Flow:** uses *Mirror Image* or *Fiendish Vigor* to keep durability.
+* **Finisher:** *Scorching Ray* while closing in with teasing verbal dominance.
+
+**Damage Flavor:** Fire that dances along curves like living silk; burns in rhythm with her words.
+
+---
+
+## 💬 Personality
+
+* **Traits:** confident, teasing, fiercely intelligent; treats fights like foreplay for the mind.
+* **Ideal:** Freedom — “I will burn for no one’s command but my own.”
+* **Bond:** her pact flame spirit — a fragment of her own will.
+* **Flaw:** temptation for control; her charm can turn cruel without meaning to.
+* **Quirk:** blows a kiss before casting; if it lands, flames spiral outwards.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Crimson Archive & Echo Sanctums**
+* **Threat Gradient:** **Wavering → Infernal Echo Zone**
+* **Encounter Framing:** **pact renewal**, **summoning gone wrong**, **seduction duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Nerathine was once a choir scholar whose voice could charm angels. When Severance consumed her city, she struck a pact with flame itself — and it never stopped singing back.
+
+* **Lifestyle:** luxurious lair surrounded by runic mirrors.
+* **Income:** infernal contracts, arcane consultation, charm enchantments.
+* **Relationships:** former mentor to Iselra (#293); rival of Kaelia (#285).
+
+---
+
+## 🧩 Morals & Ethics
+
+Freedom through temptation — she believes pleasure and ruin both lead to truth.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of her infernal voice.
+* **Weaknesses:** drawn to challenge emotional boundaries.
+* **Strengths:** irresistible charisma, powerful ranged destruction, resilient against charm.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — seductive mentor:**
+
+> “You think you can handle power? Darling, I *am* what power looks like when it’s in a good mood.”
+
+เธอชอบทำให้เขินด้วยการเอานิ้วแตะริมฝีปากตัวเอง แล้วแตะที่ริมฝีปากอีกฝ่าย “เงียบก่อนสิ... ฉันอยากฟังหัวใจเธอแทนคำพูด”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her pact’s “flame” is her unborn twin’s soul.
+* **Hooks:**
+
+  1. **The Seventh Whisper:** her flame starts whispering other people’s thoughts.
+  2. **The Pact Reversal:** the Ruby Lord demands her to take a mortal’s heart — literally.
+  3. **Fire Without Heat:** her fire stops burning, only seducing — Severance interference suspected.
+
+---
+
+## Tags: #Female #Human #Warlock3 #TheFiend #MILF #CR1 #Infernal #CharmMagic #Seductive
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nerathine **ชอบทำให้คนเขินด้วยการแหย่เชิงคำพูด เช่น "อย่ามองนานสิ เดี๋ยวไฟฉันจะลามไปถึงเธอ" พร้อมยิ้มบางๆ ที่ทำให้หายใจติดขัด**
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** ruby wand
+  * **Armor:** enchanted bodysuit (Mage Armor)
+  * **Tools:** infernal tome, charm sigils
+  * **Consumables:** ash vial ×1, charm incense ×2
+  * **Misc:** flame spirit crystal
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Inspiring Leader / War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Crimson Archive**
+* **Threat Gradient:** **Infernal Echo**
+* **Encounter Type:** **summoning duel**, **pact renewal**, **flame seduction ambush**
+* **Affiliation:** **Crimson Archive — Pact Scholars**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Latin Mediterranean female human warlock fiend 175cm very long wavy ponytail mahogany hair gold eyes K-cup backless bodysuit crimson fire silk half-skirt gold runes seductive infernal fantasy

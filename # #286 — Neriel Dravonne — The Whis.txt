@@ -1,0 +1,208 @@
+# #286 — **Neriel Dravonne** — *The Whisper in the Veil*
+
+> “A lie whispered in the right ear is more fatal than any dagger.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 286
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — สนิทง่าย เจ้าเล่ห์พอประมาณ แววตาเหมือนจะล้อเล่นแต่ไม่เคยบอกความจริงหมด
+* **Age:** 26
+* **Race:** **Dark Elf (Drow)** — part of the returning Elf sector (20%)
+* **Class & Level:** **Rogue (Mastermind)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral**
+* **Profession:** **Information broker / Shadow courtesan / Spy handler**
+* **Organization:** **The Veiled Market (underground intelligence ring)**
+* **Symbol:** a spiderweb drawn with silver ink
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Western mix** — poised and mysterious, with a dancer’s grace and predator’s patience.
+
+**Eyes:** lilac-pink with elongated pupils.
+**Skin:** moon-gray tone with faint violet glow under lamplight.
+
+**Hair (Female-set Randomizer):** 🎲 **Twin Bun (weighted higher than twin tail)**
+**Style:** twin low buns bound with silk ribbon; loose fringe framing her cheekbones.
+**Color:** **silver-lavender**
+
+**Height:** **170 cm**
+**Weight:** **57 kg**
+**Body Type:** **slender hourglass**, graceful limbs, subtle tone.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 96 – 68 – 99  
+VALIDATION: W/B = 0.708 → OK   H/W = 1.45 → OK  
+```
+
+**Sub-Theme Roll:** 🎲 **Nerd 30% → fail → None**
+**Glasses Roll (non-theme 50%) → fail**
+
+**Jewelry & Accessories:** obsidian choker with dangling teardrop gem, three silver rings, thigh chain under skirt (concealed blade).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High**
+
+A **black velvet bodysuit** with **deep V neckline** lined with lilac silk, layered under a **sheer lace overcoat** split to mid-thigh.
+**Gloves** fingerless; **boots** knee-high, with dagger sheath hidden behind the right heel.
+Back slightly open showing tattooed house crest — a stylized web curling into a rose.
+
+**Palette:** black / violet / silver
+**Weapons & Gear:**
+
+* *Dagger of whispering wind* (+1 finesse weapon, deals psychic 1d4 on sneak)
+* *Smoke veil pellets* (creates 10 ft light obscurity)
+* *Wrist crossbow* (range 30/120)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **21 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 14 (+2)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** Stealth +6, Deception +5, Persuasion +5, Insight +3, Investigation +4
+* **Languages:** Common, Elvish, Undercommon
+
+**Rogue (Mastermind) 3**
+
+* **Sneak Attack (2d6)**
+* **Cunning Action (Dash, Disengage, Hide)**
+* **Master of Intrigue:** mimic speech patterns, learn disguises quickly
+* **Master of Tactics:** use Help as bonus action (30 ft)
+* **Tool Proficiencies:** disguise kit, forgery kit
+
+**Attacks**
+
+* **Dagger (Whispering Wind):** +6 to hit, 1d4+4 piercing + 1d4 psychic (sneak 2d6)
+* **Wrist Crossbow:** +6 to hit, 1d6+4 piercing
+
+---
+
+## 🎯 Combat Tactics (Infiltrator / Controller)
+
+* **Role:** **deception assassin / distraction support**
+* **Opener:** *Smoke pellet* + *Cunning Action (Hide)* → *Sneak Attack*.
+* **Flow:** move around mid-field; *Help* allies via verbal misdirection.
+* **Finisher:** stabs under the rib while whispering the victim’s secret.
+
+**Damage Flavor:** each strike feels like someone breathing behind the ear.
+
+---
+
+## 💬 Personality
+
+* **Traits:** witty, curious, plays both sides of every conversation.
+* **Ideal:** Knowledge — “Every truth has a price, and I always pay in lies.”
+* **Bond:** bound by blackmail to the Veiled Matron.
+* **Flaw:** addicted to hearing secrets—even painful ones.
+* **Quirk:** speaks in double meanings even when alone.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Viretheim — Shadow Bazaars, Mooncell Alleys**
+* **Threat Gradient:** **Unstable → Echo**
+* **Encounter Framing:** **intelligence exchange**, **seduction theft**, **blackmail rescue**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a noble dancer in a Drow court, she escaped when her patron tried to turn her into a living puppet.
+Now she sells information between the surface and the underdark.
+
+* **Lifestyle:** opulent but paranoid—bed always in the middle of the room.
+* **Income:** spy contracts, noble secrets.
+* **Relationships:** flirts with Vynessa (#284) during negotiations; respects Kaelen (#283).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that deception saves more lives than honesty ever did. She lies to spare feelings—and kill enemies.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being forgotten; silence that hides no secret.
+* **Weaknesses:** trusts no one fully.
+* **Strengths:** social infiltration, misdirection, surprise finishers.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — playful, seductive sarcasm:**
+
+> “You’re blushing already? I haven’t even lied to you yet.”
+
+จะโน้มหน้าเข้ามาเวลาคุยให้เสียงกระซิบเฉียดผิวหูจนอีกฝ่ายขนลุก
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** once served as body double to the Drow Matron—some still think she *is* her.
+* **Hooks:**
+
+  1. **Web of Memory:** an artifact can show her past… or erase it.
+  2. **The Violet Contract:** nobles hire her to fake a scandal, but it becomes real.
+  3. **The Severed Whisper:** a Severance agent knows her true name and uses it against her.
+
+---
+
+## Tags: #Female #Drow #Rogue3 #Mastermind #CR1 #Spy #Seductive #Stealth
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Neriel **ชอบทำให้คนเขินโดยค่อย ๆ เอานิ้วแตะริมฝีปากคู่สนทนาเบา ๆ**
+
+> “Shh. Don’t ruin the tension—truth sounds better when it trembles.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** dagger, wrist crossbow
+  * **Armor:** leather suit
+  * **Tools:** disguise kit, forgery kit
+  * **Consumables:** smoke pellets ×3, silencer oil
+  * **Misc:** false letter of noble lineage
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Skulker / Actor**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Viretheim — Shadow Bazaars**
+* **Threat Gradient:** **Unstable → Echo**
+* **Encounter Type:** **blackmail duel**, **spy infiltration**, **court masquerade**
+* **Affiliation:** **The Veiled Market**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese western female dark elf rogue mastermind 170cm silver-lavender twin bun lilac eyes gray skin slender E-cup black bodysuit deep V lace overcoat dagger choker seductive spy

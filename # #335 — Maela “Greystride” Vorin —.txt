@@ -1,0 +1,193 @@
+# #335 — **Maela “Greystride” Vorin** — *Totem Line of the Flood Stairs*
+
+> “I don’t shout over the storm. I walk through it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 335
+* **Gender:** **Female (Type: รุ่นเพื่อน/Peer)** — คุยง่าย ลุยเป็นคู่หู ไม่ทิ้งงานกลางคัน
+* **Age:** 23
+* **Race:** **Half-Beast (mammal — wolf lineage)** — ใกล้มนุษย์ ~88%; หูมนปลายแหลมเล็ก, ขนละเอียดบริเวณท้ายทอย, ดวงตาเหลืองอำพันวาวในเงา
+* **Class & Level:** **Barbarian (Path of the Totem Warrior — Bear)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **frontline breaker / canal-stair guard / Echo rescue hauler**
+* **Organization:** **Thalassara Moon-Canal Warders**
+* **Symbol:** รอยเท้าหมาป่าทับคลื่นจันทร์หนึ่งเส้น
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese athletic** — sharp, friendly gaze; confident stance; wolfish smile that shows a hint of canine.
+
+**Height:** **168 cm** **Weight:** **60 kg**
+**Body Type:** **fit-athletic** (runner legs, corded back, steady core)
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 66 – 103
+VALIDATION: • W/B = 0.673 → OK   • H/W = 1.56 → OK
+```
+
+**Hair (female randomizer):** 🎲 **Ponytail (top frequency)** — **high wolf-tail pony** with loose face strands; **ash-silver** with **charcoal roots**; subtle wild sheen in rainlight.
+**Eyes:** amber-gold with predatory brightness under stress.
+**Skin:** sun-kissed ivory; faint freckles across shoulders.
+
+**Jewelry & Accessories (rolled):** silver **totem pendant** (bear sigil), **rune-stud earrings**, **braided leather wrist-wrap**, and a **thin anklet** with two matte beads for cadence (no glasses).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll (female):** **Medium (functional, agile)**
+
+A **storm-gray leather brigandine** cut for mobility over a **cropped padded top** that bares a sliver of midriff for freer breathing. **High-waist split trousers** allow long stair strides; **grip-soled boots** bite on wet stone. A **short hooded cloak** snaps flat and sheds spray.
+
+**Palette:** storm gray / charcoal / ash-silver / muted brass
+
+**Weapons & Gear:**
+
+* **Greataxe “Floodbite”** (broad beard, wolf-knot grip)
+* **Handaxe ×2** (throw/cut rope)
+* **Hook-rope 30 ft**, **climbing spikes**, **echo-salt marker**, **rescue harness**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 = **33 HP**
+* **AC:** **15** (Unarmored Defense: 10 + DEX 2 + CON 3)
+* **Speed:** **40 ft**
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Perception +3, Survival +3, Intimidation +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Totem Warrior (Bear)**
+
+* **Rage (2/long rest):** +2 damage; resistance to **bludgeoning, piercing, slashing**
+* **Totem Spirit (Bear):** while raging, gain **resistance to all damage except psychic** (RAW)
+* **Reckless Attack**, **Danger Sense**, **Unarmored Defense**
+* **Aspect of the Beast (flavor at 6th; not yet)**
+
+**Attacks**
+
+* **Greataxe (2h):** +6 to hit, **1d12+4** slashing (**+2** while Raging)
+* **Handaxe (20/60):** +6 to hit, **1d6+4** slashing (**+2** Rage)
+
+---
+
+## 🎯 Combat Tactics (Anchor Tank / Stair Breaker)
+
+* **Role:** **frontline tank / space opener**
+* **Opener:** **Rage** then drive **Floodbite** into the rail to hold lane; go **Reckless** only to draw focus from allies.
+* **Flow:** body-block and push up the stair; handaxes cut escape lines; with **Bear totem**, she face-tanks elites while team clears.
+* **Finisher:** shoulder-check to the wall, upward axe snap—clean and final.
+
+**Damage Flavor:** wolfish harmonics thrumm through the haft; impacts leave teal-ring ripples on wet steps.
+
+---
+
+## 💬 Personality
+
+* **Traits:** ใจดี ตรงไปตรงมา พูดสั้น ๆ พร้อมลงมือ
+* **Ideal:** Pack — “คนของฉันต้องกลับบ้านครบ”
+* **Bond:** เก็บเหรียญตราชาวเรือที่เคยช่วยไว้ในกระเป๋าคล้องเอว
+* **Flaw:** ยอมยืนรับแทนมากเกินไป; แบกแผลไว้เงียบ ๆ
+* **Quirk:** เคาะสองจังหวะที่ปลายขวานก่อนวิ่งบันได—เป็นสัญญาณ “ไป”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — flood stairs, moon locks, canal landings**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **stair push**, **rescue haul through surge**, **chokepoint stand by rails**
+
+---
+
+## 📜 Background & Lifestyle
+
+เด็กท่าริมคลองที่โตมากับงานแบกหามช่วยกู้ภัย พอพายุใหญ่ครั้งแรก เธอแบกสองคนวิ่งฝ่าบันไดน้ำ—รู้ตัวอีกทีเสียงในอกก็คำรามตามฝีเท้า *ฝูงคือครอบครัว; เธอคือโล่ของฝูง*
+
+* **Lifestyle:** ห้องเล็กใกล้บันไดน้ำ เชือกและฮาร์เนสแขวนเต็ม
+* **Income:** ค่าเวรยาม, โบนัสกู้ภัย, สัญญาคุมบันไดน้ำคืนพายุ
+
+---
+
+## 🧩 Morals & Ethics
+
+“ยืนรับแทนคนที่ไม่มีเกราะ” — เธอให้โอกาสศัตรูถอนก่อนเสมอ แต่ถ้าขวางคนหนี จะเหยียบให้หยุด
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** ความเงียบผิดธรรมชาติก่อน Echo ปะทุ—ทำให้สัญชาตญาณหมาป่ากระสับกระส่าย
+* **Weaknesses:** ระยะไกลน้อย; ถ้าถูก kite บนสะพานโล่งต้องพึ่งทีม
+* **Strengths:** **ทนดาเมจสุดโหดระหว่าง Rage (Bear)**, กดดันเลนแคบ, ความเร็วสูง 40 ft
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน — ลุยเคียงบ่าเคียงไหล่ ชวนให้มั่นใจ:**
+
+> “ไปด้วยกันนะ—ฉันรับหน้าให้เอง นายแค่มองหลังให้ฉันก็พอ.”
+
+เวลาซ้อม เธอจะจับข้อมือปรับจังหวะแกว่งขวานและยิ้มมุมปาก “ดี—เข้าจังหวะฝีเท้าเราเลย”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** totem pendant ของเธอ “อุ่น” ขึ้นเมื่อมีเด็กหลงทางใกล้ Echo—เหมือนชี้ทางฝูงที่ขาด
+* **Hooks:**
+
+  1. **Stair That Howls:** บันไดน้ำหนึ่งขั้นร้องครางเหมือนหมาป่า—นำทางไปยังช่องลับใต้เมือง
+  2. **Pack Debt:** แก๊งเก่าขอให้ช่วยดึงเด็กออกจากฝูงโจร—เลือกระหว่างหน้าที่กับความผูกพัน
+  3. **Bear in the Flood:** Echo รูปหมีปรากฏ—ต้องใช้สัญชาตญาณหมาป่าปะทะหมีในน้ำเชี่ยว
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Maela **ยื่นมือให้จับก่อนขึ้นบันไดลื่น ๆ**
+
+> “จับแน่น ๆ—ฉันไม่ปล่อยจนกว่าจะถึงขั้นแห้ง.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** greataxe, 2× handaxes
+  * **Armor:** Unarmored Defense (brigandine outerwear)
+  * **Tools:** hook-rope, harness, climbing spikes
+  * **Consumables:** echo-salt ×1, poultice ×2
+  * **Misc:** totem pendant, rescue tag
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Tough / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Flood stairs & moon locks**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **stair push**, **rescue haul**, **rail stand**
+* **Affiliation:** **Moon-Canal Warders**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female half-beast wolf barbarian totem bear 168cm high ponytail ash-silver hair charcoal roots athletic cropped top brigandine split trousers greataxe flood stairs rain teal rings fantasy

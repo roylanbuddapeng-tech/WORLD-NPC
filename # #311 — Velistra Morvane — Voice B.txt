@@ -1,0 +1,197 @@
+# #311 — **Velistra Morvane** — *Voice Behind the Veil*
+
+> “Secrets aren’t whispered—they’re sung softly enough that only guilt can hear them.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 311
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — คุยง่ายแต่มีเสน่ห์แบบชวนหลงเวลาเข้าใกล้
+* **Age:** 25
+* **Race:** **Human**
+* **Class & Level:** **Bard (College of Whispers) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** **Court performer / information broker / undercover mediator**
+* **Organization:** **The Echo Guild — House of Soft Tongues**
+* **Symbol:** silver mask with a rose petal tongue
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Latin European — Spanish–French tone**, warm eyes and dusky golden skin.
+
+**Eyes:** bronze-honey, framed by long black lashes.
+**Skin:** smooth olive-gold with a faint shimmer under candlelight.
+
+**Hair Randomizer:** 🎲 **Twin Bun (bun/twin bun roll)** → **twin bun**
+**Style:** **Loose twin buns** tied with silken threads, some strands spill along her neck.
+**Color:** **deep chestnut brown with amber gloss.**
+
+**Height:** **168 cm**
+**Weight:** **57 kg**
+**Body Type:** **curvy but not heavy; dancer’s build, soft motion and balance.**
+
+**FEMALE BODY METRICS**
+
+```
+CUP: G   CATEGORY: Large+
+THREE_SIZES (B-W-H, cm): 103 – 72 – 106
+VALIDATION: • W/B = 0.699 → OK   • H/W = 1.47 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Aristocrat (success 35%)**
+**Glasses Rule:** 50% for non-nerd → 🎲 fail → none.
+
+**Jewelry & Accessories:** dangling rose-gold earrings, choker with tiny mirrored gem, ribboned wristband inscribed with a line of hidden verse.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High**
+
+Velistra wears a **wine-red sleeveless corset gown**, **low neckline**, **split thigh** showing black lace garter holster (conceals slender dagger).
+A **sheer veil** drapes over her shoulders, etched with faintly glowing runic embroidery.
+When performing, she removes the veil and slips into **black silk gloves** up to the elbows.
+
+**Palette:** wine red / black / gold / translucent pearl
+**Weapons & Gear:**
+
+* **Rapier “Silver Tongue” (+1)**
+* **Hidden dagger** in garter strap
+* **Lute (folding model)**
+* **Perfume of Deception** (casts *Minor Illusion* 1/day)
+* **Scroll case of coded poems**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **20 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 16 (+3)** **CON 12 (+1)** **INT 12 (+1)** **WIS 11 (+0)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, CHA +6
+* **Skills:** Performance +6, Persuasion +6, Deception +6, Insight +4, Sleight of Hand +5, Stealth +5
+* **Languages:** Common, Elvish, Infernal
+
+**Bard (College of Whispers) 3**
+
+* **Bardic Inspiration (d6)**, **Mantle of Whispers** (steal identity for 1 hour)
+* **Psychic Blades:** expend Bardic Inspiration for **+2d6 psychic dmg**
+* **Words of Terror:** instill fear through private conversation (1/rest)
+
+**Spells (CHA DC 14, +6 atk):**
+
+* *Cantrips:* *Vicious Mockery, Friends*
+* *1st:* *Charm Person, Dissonant Whispers, Cure Wounds*
+* *2nd:* *Calm Emotions, Detect Thoughts*
+
+**Attacks:**
+
+* **Rapier +1:** +6 to hit, 1d8+4 piercing (+2d6 psychic once/turn).
+* **Dagger:** +5 to hit, 1d4+3 piercing (thrown 20/60).
+
+---
+
+## 🎯 Combat Tactics (Manipulator / Disruptor)
+
+* **Role:** **Social infiltrator / fear inducer / psychic duelist**
+* **Opener:** **Detect Thoughts** → identify guilt → **Words of Terror**
+* **Flow:** **Rapier** feints, mid-fight whisper *Dissonant Whispers* to force panic reposition.
+* **Finisher:** stab with **Psychic Blades**, steal face with **Mantle of Whispers**.
+
+**Damage Flavor:** echoing whispers crawl from wounds, as though the victim’s secrets scream to escape.
+
+---
+
+## 💬 Personality
+
+* **Traits:** teasing, charming, dangerously intuitive; reads people by heartbeat pauses.
+* **Ideal:** Beauty — “Truth is fragile, but fear is exquisite.”
+* **Bond:** her troupe of underground performers who smuggle information via songs.
+* **Flaw:** cannot keep from manipulating others, even for fun.
+* **Quirk:** tilts head slightly when lying—her tell, though few notice.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Whisper Halls, Velvet Markets, Royal Masquerades**
+* **Threat Gradient:** **Wavering → Dangerous**
+* **Encounter Framing:** **masquerade assassination**, **court intrigue**, **underground concert**
+
+---
+
+## 📜 Background & Lifestyle
+
+A former noble’s daughter who turned her charisma into a blade. She dismantled an entire spy network through stage gossip. Now she “sings for truth”—though only her own version of it.
+
+* **Lifestyle:** luxurious but lonely; gilded balcony apartment full of mirrors.
+* **Income:** noble patronage, espionage contracts, coded poetry sales.
+
+---
+
+## 🧩 Morals & Ethics
+
+She views emotion as both currency and weapon. “A secret told willingly is worth less than one stolen mid-kiss.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** silence; it means no one’s listening.
+* **Weaknesses:** overly reliant on charm; distrusts genuine affection.
+* **Strengths:** psychological manipulation, disguise, social dominance.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — playful flirt:**
+
+> “Oh? You blush easy. Careful—people might think I rehearsed that line just for you.”
+
+Velistra enjoys cornering people emotionally, standing too close, speaking softly near the ear.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her songs feed a hidden entity—each performance is a meal of emotion.
+* **Hooks:**
+
+  1. **The Songless Night:** a rival bard drains her voice magically.
+  2. **Masks of Velvet:** her own doppelgänger begins performing elsewhere.
+  3. **Whisper Debt:** she owes a whisper to a god of secrets; the due date nears.
+
+---
+
+## Tags: #Female #Human #Bard3 #CollegeOfWhispers #Intrigue #Manipulation #Espionage #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Velistra likes making others flustered by whispering half-truths mid-conversation—
+
+> “If I told you what I’m really thinking, you’d never sleep again.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory:** rapier +1, dagger, lute, perfume vial, scroll case, coded letters.
+* **Level-Up Suggestion (to 4):** **Feat: Actor** or **+2 CHA (to 20).**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Latin European female bard college of whispers 168cm twin buns chestnut brown hair G-cup corset gown thigh slit sheer veil wine red black lace gold accents seductive fantasy

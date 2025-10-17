@@ -1,0 +1,197 @@
+# #359 — **Hwan “Quiet-Forged” Ryu** — *Giant Letters on a Narrow Line*
+
+> “I’ll write the word ‘stop’ where he stands.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 359
+* **Gender:** **Male (Type: เมะ)** — มั่นใจ สุภาพ ตัดสินใจไว หน้างานคุมสถานการณ์
+* **Age:** 28
+* **Race:** **Other — Jötun-blood (giant lineage, near-human ~88%)** — ลายรูนจาง ๆ ขึ้นตามกระดูกไหปลาร้าเมื่อโฟกัส
+* **Class & Level:** **Fighter (Rune Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **escort line-guard / restraint duelist / moving barricade**
+* **Organization:** **Valeronnes Rail Wardens — Runeline Squad**
+* **Symbol:** เส้นรูนรูปค้ำยัน “ᛟ” วางทาบรางแก้ว
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese disciplined craftsman** — quiet eyes, measured breath, the air of someone who weighs every cut.
+
+**Height:** **181 cm**
+**Weight:** **82 kg**
+**Body Build:** **athletic–muscular**, smith’s shoulders, steady stance.
+
+**Hair (Male Randomizer):** **Medium**, **half-up knot (samurai bun) with tapered sides**, rain-slick strands kept tidy for helm fit.
+**Color:** **raven black with cool iron-gray lowlights**.
+**Eyes:** deep umber; a pale rune ring glows when runes trigger.
+**Skin:** fair-olive, faint heat-glow along collarbones in rainlight.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **steel rune torque**, **leather wrist wraps**, and a **rail token** tucked inside the collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional rune-guard kit**
+
+A **brushed-steel breastplate** engraved with faint rune seams over an **indigo gambeson**; **quiet-weave bracers**; **tapered guard-trousers** for long set-steps on slick glass; **soft-sole boots** with ridge grips. A **short storm-cloak** pins flat so sigils remain readable.
+
+**Palette:** steel / indigo / charcoal / dull brass rivets
+
+**Weapons & Gear:**
+
+* **Halberd “Quiet-Forged”** (reach 10 ft; rune-inlaid beak)
+* **Shield (buckler)** for close press when swapping to one-hand weapon
+* **War pick** (utility finisher), **Dagger**
+* **Silk rope 50 ft**, **manacles**, **chalk-line**, **echo-salt**, **smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **18** (breastplate 14 + DEX +2 + **Defense** +1; buckler only when swapping — stat block assumes halberd two-handed)
+* **Speed:** 30 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +4
+* **Skills:** Athletics +6, Insight +3, Perception +3, Intimidation +2
+* **Languages:** Common, Giant, Thalassaran Cant
+
+**Fighter 3 — Rune Knight (TCoE)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Rune Carver:** knows **2 runes** (1/short rest per rune)
+
+  * **Fire Rune (gauntlet):** เมื่อโจมตีโดน เพิ่ม **+2d6 fire** และ **restrain** เป้าหมายด้วยโซ่เพลิง (STR save ที่ท้ายเทิร์นเพื่อหลุด); ให้ **+2** กับเช็ค **INT/WIS/CHA** ที่ใช้ **tools**
+  * **Stone Rune (belt):** **Reaction** บังคับ **WIS save** ของศัตรูใน **30 ฟุต**; ล้มเหลวจะถูก **charmed**, **incapacitated**, ความเร็ว 0 จนจบเทิร์นถัดไปของคุณ; ยังให้ **darkvision 120 ft** และ **Insight adv.**
+* **Giant’s Might (PB/long rest = 2):** **Bonus Action** เป็น **Large** 1 นาที: **adv.** บน STR checks/saves และ **+1d6** ดาเมจกับอาวุธ **หนึ่งครั้ง/เทิร์น**
+
+**Attacks**
+
+* **Halberd (2h, reach 10 ft):** +6 to hit, **1d10+4** slashing; เพิ่ม **+1d6** จาก **Giant’s Might** (1/turn); ครั้งหนึ่ง/short restแนบ **Fire Rune**
+* **War Pick (1h):** +6 to hit, **1d8+4** piercing
+* **Dagger:** +6 to hit, **1d4+4** piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Reach Control / Restrain & Push)
+
+* **Role:** **frontline controller–finisher / lane anchor**
+* **Opener:** **Stone Rune (Reaction)** ทำให้ตัวเปิดเกมของศัตรู “ฝันกลางฝน”; **Giant’s Might** เปิด leverage บนรางแคบ
+* **Flow:** ใช้ **halberd reach 10 ft** กดรอยต่อ; เมื่อได้จังหวะ, แทงคมแล้วติด **Fire Rune** เพื่อ **restrain**, ตามด้วย **Action Surge** ให้ทีมพุ่งผ่าน
+* **Finisher:** ปักง่ามลงรอยต่อราง ดันไหล่—เลนเปิดสั้น สะอาด เงียบ
+
+**Damage Flavor:** เมื่อ runes ลั่น เส้นสลักบนเกราะสว่างเป็น **rose-orange** ไล่ไปตามด้ามอาวุธ; เม็ดฝนเหมือนอ่านตัวอักษรแล้วไหลตาม
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ พูดตรงสั้น; ใจเย็นและคิดเป็นระบบ
+* **Ideal:** Restraint-before-Ruin — “หยุดให้ได้ก่อน แล้วค่อยตัดเฉพาะที่ต้องตัด”
+* **Bond:** สมุด “จุดยัน” ของทุกสะพาน—มุมที่คาน/ราวช่วยค้ำแนว
+* **Flaw:** ยึดแบบแผนมากไป—บางครั้งช้าไปครึ่งก้าวกับสถานการณ์พลิกผัน
+* **Quirk:** เคาะสลักรูนที่ข้อมือสองครั้งก่อนเริ่ม—สัญญาณทีมว่า “จะล็อกแล้ว”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, hush corridors, lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **escort choke**, **riot peel by restraint**, **quiet duel at mid-span**
+
+---
+
+## 📜 Background & Lifestyle
+
+เติบโตกับช่างตีเหล็กริมสะพาน เขาเรียนรู้ “ตัวอักษรที่หนักแน่น” บนโลหะ ก่อนพบว่ารูนตอบรับจังหวะหัวใจของเขา—คืนหนึ่งเขาเขียนคำว่า “หยุด” บนรางด้วยโซ่ไฟจนฝูงชนรอดพ้น จึงถูกดึงสู่ **Runeline Squad**
+
+* **Lifestyle:** ห้องเวรติดคลังเหล็ก มีรางทดสอบเล็ก ๆ และชอล์กเขียนรูน
+* **Income:** เงินเดือน Wardens, โบนัสคุ้มกัน, ค่าระงับเหตุจลาจลแบบจับเป็น
+
+---
+
+## 🧩 Morals & Ethics
+
+“คุมเลนเพื่อให้คนผ่าน—ชัยชนะที่ดีที่สุดคือไม่มีใครล้ม” เขาเลือก **คุม** ก่อน **คว่ำ**
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่รูน “ไม่ติด” — ลาง Echo กลืนคำของเมือง
+* **Weaknesses:** ทรัพยากร **runes** และ **Giant’s Might** มีจำกัด; หากยืดเยื้อจะบาง
+* **Strengths:** **reach 10 ft** บนพื้นลื่น, **restrain/control** แรง (Fire/Stone Rune), **Action Surge** ปิดหน้าต่าง
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ — สุขุมมั่นใจ ทำให้รู้สึกปลอดภัย:**
+
+> “ยืนหลังผม—ผมจะเขียนคำว่า ‘ผ่าน’ ให้คุณ.”
+
+เวลาซ้อม เขาจับศอกจัดแกน แล้วบอกสั้น ๆ “ก้าวครึ่ง—ยัน—แทง”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** สลักที่เกราะ **เปลี่ยนคีย์แสง** เมื่อใกล้โกดังเวทเถื่อน—เหมือนรูน “อ่านบาป”
+* **Hooks:**
+
+  1. **Rune That Lies:** มีคนปลอมโซ่ไฟทำให้พลเรือนบาดเจ็บ—ต้องจับผู้ปลอมแปลง
+  2. **Bridge Without Letters:** สะพานใหม่ไม่ยอม “รับข้อความ” — รูนไม่ติด ต้องหาต้นตอ
+  3. **Hold the Word:** ภารกิจให้ยืนค้ำ 3 เลนพร้อมกัน—บริหาร **Stone/Fire** อย่างประหยัดที่สุด
+
+---
+
+## Tags: #Male #Other #JotunBlood #Fighter3 #RuneKnight #Controller #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Hwan **แตะสลักรูนที่ข้อมือสองครั้ง ยกง่ามเงียบ ๆ**
+
+> “หายใจตามผม—คำนี้จะค้ำคุณไว้.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** halberd, war pick, dagger, buckler (swap-in)
+  * **Armor:** breastplate (rune-etched)
+  * **Tools:** chalk-line, manacles, silk rope
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** rune torque, wrist wraps, rail token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Polearm Master / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **escort choke**, **riot peel**, **quiet duel**
+* **Affiliation:** **Runeline Squad — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male jotun-blood fighter rune knight 181cm medium half-up knot raven hair iron-gray lowlights athletic muscular steel breastplate halberd rune glow low exposure rain-slick bridge restraint control fantasy

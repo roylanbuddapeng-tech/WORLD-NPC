@@ -1,0 +1,170 @@
+# #369 — **Garron Hale** — *The Iron Stallion of Blackmere*
+
+> “Armor doesn’t weigh you down — hesitation does.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 369
+* **Gender:** **Male (Subtype: วัยกลางคน)**
+* **Age:** 44
+* **Race:** **Human**
+* **Class & Level:** **Fighter (Banneret / Purple Dragon Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **Veteran Commander / City Guard Captain**
+* **Organization:** **The Blackmere Defenders**
+* **Symbol:** crimson pennant over crossed swords
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** Western-European / English — broad-shouldered and weathered, with the bearing of a soldier who’s survived too many campaigns.
+
+**Height:** **188 cm**
+**Weight:** **94 kg**
+**Build:** Large, thickly muscled, strong neck and hands; a presence that fills the room.
+
+**Hair:** **Short**, **slicked back with silver streaks at the temples**.
+**Color:** **Dark brown graying to steel**.
+**Eyes:** **Deep blue**, stern but not unkind.
+**Skin:** rugged tan with scars along jawline and forearms.
+
+**Accessories (low exposure male rule):** a brass insignia chain, a worn leather belt, and one silver ring engraved with his old regiment’s crest.
+
+---
+
+## 👗 Outfit
+
+**Exposure:** **Low** (as per male standard).
+
+Wears **half-plate armor**, polished but scarred. The **breastplate** bears the red sigil of Blackmere; his **cape**—dark crimson trimmed with black—hangs diagonally to show his rank.
+Off-duty, he dons a **dark vest**, **rolled sleeves**, and **sturdy leather trousers**, still too formal for comfort.
+
+**Palette:** steel grey / crimson / brown leather accents
+
+**Weapons & Gear:**
+
+* **Longsword “Vigil”** — old but perfectly balanced, carved with motto *“For Duty and Memory.”*
+* **Shield**, etched with his regiment’s emblem.
+* **Dagger**, **military satchel**, **rations**, **command whistle**, and **folding spyglass**.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +3)×3 = **30 HP**
+* **AC:** **18** (half-plate 15 + Defense +2 + shield +1)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 16 (+3)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Intimidation +4, Persuasion +4, History +2, Insight +3
+* **Languages:** Common, Dwarvish
+
+**Fighter 3 — Banneret (Purple Dragon Knight)**
+
+* **Fighting Style:** Defense
+* **Rallying Cry (3/rest):** heals allies for 3 HP when using Second Wind.
+* **Action Surge (1/rest)**
+* **Inspiring Surge:** allies gain an extra attack when he uses Action Surge (once/day).
+* **Proficiency Bonus Sharing:** allies nearby add +2 to saves vs fear (flavor).
+
+**Attacks:**
+
+* **Longsword:** +5 to hit, **1d8+3** slashing (1h)
+* **Longsword (2h):** +5 to hit, **1d10+3**
+* **Shield Bash (flavor):** +5 to hit, **1d4+3**, can shove instead.
+
+---
+
+## 🎯 Combat Tactics (Tactical Commander)
+
+* **Role:** **Support Tank / Battlefield Leader**
+* **Opener:** calls formation, then uses **Action Surge + Inspiring Surge** to let allies act immediately.
+* **Flow:** keeps the front solid, absorbing pressure; commands mid-combat using concise hand signs.
+* **Finisher:** “Vigil’s Sweep” — shield bash then vertical cleave, emblem glowing red.
+
+**Damage Flavor:** blows crack with faint echo, as though a second strike follows each swing — memory of his fallen unit guiding him.
+
+---
+
+## 💬 Personality
+
+* **Traits:** disciplined, quietly humorous, protective of younger warriors.
+* **Ideal:** Honor — “A title’s nothing without the men who died for it.”
+* **Bond:** his late commander’s daughter (now a young knight under his care).
+* **Flaw:** haunted by survivor’s guilt; overprotective to a fault.
+* **Quirk:** talks to his sword before battle like an old friend.
+
+---
+
+## 🧭 Common Locations
+
+* **Region:** **Blackmere Keep, Southern Marches**
+* **Threat Gradient:** **Stable → Siege potential**
+* **Encounter Type:** fortress defense, training yard spar, command tent strategy scene.
+
+---
+
+## 📜 Background & Lifestyle
+
+A lifelong soldier of Blackmere, Garron rose from squire to captain by sheer endurance. He refuses noble titles, living in the barracks with his troops.
+
+* **Lifestyle:** modest but structured; wakes before dawn, drills, eats simple meals.
+* **Income:** city stipend, personal savings, and the occasional reward for valor.
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes leadership is service; no man should command who cannot bear the weight of others’ fear.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing subordinates again; becoming obsolete.
+* **Weaknesses:** slow adaptability; emotionally guarded.
+* **Strengths:** morale boosting, resilience, tactical acumen, loyalty.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Subtype: วัยกลางคน — Stoic & protective**
+
+> “Hold your stance… good. Now, again, until it’s instinct.”
+
+มักจะใช้เสียงทุ้มต่ำสั่งอย่างใจเย็น แล้วเผลอเอามือแตะหัวไหล่ผู้ฝึกเหมือนพ่อกับลูกฝึกเสมอ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** hides a sealed letter naming him heir to the title “Lord of Blackmere,” which he’s refused for decades.
+* **Hooks:**
+
+  1. **Siege of Memory:** his old regiment returns as undead to test his leadership.
+  2. **The Lost Banner:** PCs must recover his fallen unit’s standard from a cursed battlefield.
+  3. **A Captain’s Oath:** he’s training a new generation—one of whom may betray him.
+
+---
+
+## Tags: #Male #Human #Fighter3 #Banneret #Commander #MiddleAged #LawfulNeutral #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Garron **rests a heavy hand on your shoulder:**
+
+> “Don’t thank me, just survive. That’s how you repay an old soldier.”
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+male human fighter banneret middle aged tall muscular rugged short dark brown hair graying temples blue eyes tan skin half plate armor red cape longsword shield low exposure commander knight captain fantasy realistic

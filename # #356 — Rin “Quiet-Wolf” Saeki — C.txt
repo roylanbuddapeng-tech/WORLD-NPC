@@ -1,0 +1,192 @@
+# #356 — **Rin “Quiet-Wolf” Saeki** — *Cut Once, Hold Forever*
+
+> “Leave the noise to the rain. We only need one clean step.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 356
+* **Gender:** **Male (Type: เคะ)** — สุภาพ อ่อนโยน พูดน้อยแต่เด็ดขาดเมื่อถึงคิวตัด
+* **Age:** 24
+* **Race:** **Half-Beast (mammal — wolf lineage)** — ใกล้มนุษย์ ~88%; หูเล็กแนบศีรษะ, เขี้ยวคมจาง ๆ, ขนละเอียดที่ท้ายทอย
+* **Class & Level:** **Fighter (Champion) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **escort duelist / line-holder / precision finisher**
+* **Organization:** **Valeronnes Rail Wardens — Quiet Step Line**
+* **Symbol:** รอยเท้าหมาป่าทาบเส้นรางบาง ๆ หนึ่งเส้น
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean soft steel** — gentle eyes, steady smile, and a stance that wastes nothing.
+
+**Height:** **178 cm** **Weight:** **72 kg**
+**Body Build:** **lean-athletic**, corded forearms, quick ankles.
+
+**Hair (Male Randomizer):** **Medium**, **layered wolf cut** with airy texture that tapers at the nape; rain-combed to keep fringe from the eyes.
+**Color:** **dark ash-brown with cool silver tips** catching the drizzle.
+**Eyes:** gray-brown with a quiet predatory ring when he commits.
+**Skin:** fair-olive; faint shadow pattern along the neck under close light.
+
+**Accessories (male glasses 30% → fail):** no glasses. **Matte steel ear-cuff** (wolf motif), **braided wrist cord**, **rail token** tucked under collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional hold-and-finish kit**
+
+A **brushed-steel chain mail shirt** under a **storm-indigo padded jacket**, **quiet-weave bracers**, and **tapered guard-trousers** for long set-steps on slick glass. **Soft-sole boots** grip rails. A **short rain-cloak** pins flat; the hem is weighted to keep it from flaring in wind.
+
+**Palette:** steel / storm indigo / charcoal / muted silver
+
+**Weapons & Gear:**
+
+* **Spear “Quiet-Wolf”** (rail-balanced; matte fuller)
+* **Shield** (glass-inset boss)
+* **Shortsword** • **Dagger**
+* **Silk rope 50 ft**, **manacles**, **chalk-line**, **echo-salt**, **smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **19** (chain mail 16 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +4
+* **Skills:** Athletics +6, Perception +3, Insight +3, Acrobatics +4
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Champion**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Improved Critical:** **critical hit on a roll of 19–20** with weapon attacks
+
+**Attacks**
+
+* **Spear (1h + shield):** +6 to hit, **1d6+4** piercing (versatile **1d8+4** two-handed)
+* **Shortsword:** +6 to hit, **1d6+4** slashing
+* **Dagger:** +6 to hit, **1d4+4** piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Line Holder / Single-Cut Finisher)
+
+* **Role:** **frontline protector / precision finisher**
+* **Opener:** step mid-span, chalk a “stop line,” **spear + shield** to pin the pivot.
+* **Flow:** wait for a heartbeat window; **Action Surge** to chain two clean thrusts, fishing for a **19–20 crit** to collapse the lane.
+* **Finisher:** short feint with shield rim → low spear thrust along rail seam—fight returns to rain.
+
+**Damage Flavor:** when he commits, the drizzle seems to hang for a blink—then slides in one straight bead down his spear.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ ใจเย็น ฟังเก่ง; เวลาออกรบ “สายตาหมาป่า” จะมาแบบเงียบ ๆ
+* **Ideal:** Economy — “หนึ่งคมที่ถูกจังหวะ ดีกว่าสิบคมที่รีบ”
+* **Bond:** สมุด “ทางหายใจ” บนสะพาน—จุดให้พลเรือนพักหนึ่งจังหวะ
+* **Flaw:** รอหน้าต่างที่สวยเกินไป—บางครั้งช้าไปครึ่งก้าว
+* **Quirk:** แตะขอบโล่หนึ่งทีเป็นสัญญาณ “พร้อมตัด”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, hush corridors, lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **escort choke**, **quiet duel**, **riot pin at mid-span**
+
+---
+
+## 📜 Background & Lifestyle
+
+เกิดในครอบครัวคนเฝ้าราง เขาฝึก “ก้าวเงียบ” กับพ่อบนพื้นลื่นตั้งแต่เล็ก คืนหนึ่งเขาหยุดมีดคนร้ายด้วย **หนึ่งคัต** ที่ทำให้ฝูงชนไม่แตก—ตั้งแต่นั้นเขาคือหมาป่าเงียบของแนว *Quiet Step*
+
+* **Lifestyle:** ห้องเล็กติดสะพาน มีเชือก ชอล์ก ผ้าเช็ดเหล็ก และบันทึกจังหวะฝน
+* **Income:** เงินเดือน Wardens, โบนัสคุ้มกัน, ค่าระงับเหตุจลาจล
+
+---
+
+## 🧩 Morals & Ethics
+
+“คุมเส้นให้คนผ่านก่อน” — ถ้าต้องเลือกระหว่างฆ่าเร็วหรือปิดเลน เขาเลือกอย่างหลัง
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่ฝน “ไม่ไหล” ตามรอยคม — ลาง Echo ตัดฟิสิกส์ของเมือง
+* **Weaknesses:** ไม่มีเวท; ถ้าถูกล้อมหลายทิศต้องถอยจัดเส้นใหม่
+* **Strengths:** **AC 19**, **crit บ่อยขึ้น (19–20)**, **Action Surge** ปิดงาน, ฟุตเวิร์กนิ่งบนพื้นลื่น
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ — สุภาพดูแลใกล้ ๆ ทำให้เขินแบบนุ่มนวล:**
+
+> “จับขอบโล่ผมไว้… เดี๋ยวผมตัดให้.”
+
+ซ้อมให้ผู้เล่น เขาจะจับศอกจัดแกนแล้วกระซิบ “หายใจพร้อมฝน—ตอนหยดตกคือจังหวะฟัน”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** โล่ของเขา “อุ่น” เบา ๆ เมื่อฝูงชนกำลังตื่นตระหนก—เหมือนโล่อ่านใจฝน
+* **Hooks:**
+
+  1. **One-Bead Cut:** งานดวลที่ต้องจบด้วยคัตเดียว—ล้มยักษ์โดยไม่ให้ฝูงชนแตกฮือ
+  2. **Rain That Stalls:** เขตที่หยดฝนค้างกลางอากาศ—Action Surge ใช้ผิดจังหวะจะพังทั้งแนว
+  3. **Wolf on the Rail:** มีผู้ลอบเลียนแบบฟุตเวิร์กของเขา—แก๊งสร้าง “หมาป่าปลอม” ป่วนสะพาน
+
+---
+
+## Tags: #Male #HalfBeast #Wolf #Fighter3 #Champion #LineHolder #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rin **ยกโล่ให้เป็นเงาและแตะขอบหนึ่งที**
+
+> “ตามผม—หนึ่งจังหวะก็พอ.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** spear, shield, shortsword, dagger
+  * **Armor:** chain mail shirt set
+  * **Tools:** chalk-line, silk rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** wrist cord, rail token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Piercer / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **escort choke**, **quiet duel**, **riot pin**
+* **Affiliation:** **Quiet Step Line — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean male half-beast wolf fighter champion 178cm medium layered wolf cut dark ash-brown hair silver tips lean athletic chain mail spear shield low exposure rain-slick bridge calm duelist fantasy

@@ -1,0 +1,193 @@
+# #324 — **Katsuro “Rainline” Myung** — *Blade that Bows to No Storm*
+
+> “Stand straight. The wind will do the rest.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 324
+* **Gender:** **Male (Type: เมะ — มั่นใจ หนักแน่น ตรงไปตรงมา)**
+* **Age:** 26
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Samurai) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **duel escort / canal-bodyguard / storm-rite sentinel**
+* **Organization:** **Valeronnes Glass Court — Rail Wardens**
+* **Symbol:** a rain slash drawn through a single vertical eye
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese classic warrior** — clean jawline, steady eyes, posture like a drawn bow.
+
+**Eyes:** iron-gray, unreadable when focused.
+**Skin:** light olive with faint weathering across cheeks.
+
+**Hair (Male Randomizer):** **Short with warrior topknot** — undercut sides, top gathered into a compact knot for helmet fit.
+**Color:** **raven black with a cool steel sheen.**
+
+**Height:** **180 cm**
+**Weight:** **76 kg**
+**Body Build:** **lean-athletic**, coiled strength, sparing movements.
+
+**Accessories:** lacquered cord bracelet (counts breaths), steel ring engraved with a rain glyph, simple prayer tag tied to scabbard. (Glasses roll skipped—male non-nerd baseline.)
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male rule):** **Low — functional armor**
+
+A **dark breastplate** over **indigo travel gi**, layered **arm-guards** stitched with silent-weave, and **split hakama trousers** for long strides. Knee-high leather boots grip wet stone. A **short storm-cloak** snaps tight to avoid catching blades.
+
+**Palette:** iron black / indigo / rain-silver accents
+**Weapons & Gear:**
+
+* **Katana (longsword, finesse-flavor) “Rainline”**
+* **Wakizashi (shortsword) off-hand**
+* **Longbow** with black-feather arrows (20)
+* **Traveler’s kit, whetstone, rope 50 ft, canal-bridge pass token**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **23 HP**
+* **AC:** **16** (breastplate 14 + DEX +2)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Perception +3, Intimidation +3, **Persuasion +3** (Samurai bonus proficiency)
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 (Samurai)**
+
+* **Fighting Style:** **Dueling** (+2 dmg when wielding a single one-handed weapon)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Fighting Spirit (3/long rest):** bonus action → **advantage on weapon attacks this turn** + **3 temp HP** (scales later)
+
+**Attacks**
+
+* **Katana (longsword, 1h):** +5 to hit, **1d8+5** slashing (**+2 from Dueling**)
+* **Wakizashi (shortsword, off-hand if used):** +5 to hit, **1d6+3** slashing
+* **Longbow:** +4 to hit, **1d8+2** piercing (150/600)
+
+---
+
+## 🎯 Combat Tactics (Calm Striker / Advantage Spiker)
+
+* **Role:** **frontline duelist / point defender**
+* **Opener:** **Fighting Spirit** → advance under advantage; choose lanes for allies.
+* **Flow:** **Action Surge** to decide the exchange; swap to bow to punish kites.
+* **Finisher:** shoulder-step past guard, katana cuts with rain-snap; a quiet nod ends it.
+
+**Damage Flavor:** strikes land like clean rain slashes—no wasted motion, only the sound of steel drying.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ ตรง ประหยัดคำ แต่คมเวลาเตือน
+* **Ideal:** Discipline — “ลมหายใจนิ่งกว่ามีด ย่อมชนะ”
+* **Bond:** สาบานคุ้มกันสะพานแก้วสายหลัก—ถ้าใครตก เขาถือว่าตัวเองตกด้วย
+* **Flaw:** เจ็บแล้วไม่ถอย; ไม่ชอบถูกดึงไปเล่นเกมการเมือง
+* **Quirk:** แตะสายคาดดาบหนึ่งครั้งก่อนดึง—ถ้าไม่ได้แตะจะไม่ชัก
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glass Bridges, Moon Rails, court balustrades**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **duel on a narrow bridge**, **VIP escort across storm-night**, **last-stance at canal gate**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกทหารยามสะพาน เติบโตกับกฎสามข้อ: **ยืนให้ตรง, ฟังฝน, อย่าปล่อยมือ** เขากลายเป็นซามูไรของศาลแก้ว ผู้คนเรียก “เส้นฝน” เพราะคมดาบเหมือนรอยฝนบนผิวน้ำ—เห็นชัดแต่จับไม่ได้
+
+* **Lifestyle:** ห้องเล็กริมสะพาน มี rack ขัดดาบและเสื่อทาทามิ
+* **Income:** เงินเดือนศาลยาม, โบนัสคุ้มกัน, ค่าดวลตามสัญญา
+
+---
+
+## 🧩 Morals & Ethics
+
+“เกียรติคือเกราะ” เขาจะไม่ยกดาบใส่ผู้ไม่มีทางสู้ แต่จะยืนขวางระหว่างพวกนั้นกับพายุเสมอ
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Echo-surge ที่ทำให้ฝน “หยุดเสียง”—ลางร้ายบนสะพาน
+* **Weaknesses:** ไม่มีเวท; ถ้าโดน crowd control ยืดไฟต์ลำบาก
+* **Strengths:** burst รอบเดียวแรง (Fighting Spirit + Action Surge), ความนิ่งในพื้นที่แคบ
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ — สุขุมมั่นใจ ทำให้เขินด้วยความนิ่ง**
+
+> “ยืนหลังผม แล้วหายใจตามจังหวะเดียว—ฝนฟังเราอยู่.”
+
+เวลาฝึก เขาจะจับข้อมือปรับองศาดาบอย่างมั่นคงใกล้ ๆ แบบไม่หวั่นไหว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** prayer tag บนฝักดาบ “ร้องเบา ๆ” เมื่อ Echo เข้าใกล้—เหมือนเตือนส่วนตัว
+* **Hooks:**
+
+  1. **Bridge With No Sound:** สะพานหนึ่งเงียบผิดปกติ—มีใครบางคน “ตัดเสียงฝน” เพื่อซุ่มโจมตี
+  2. **Rain Debt:** ศัตรูเก่าเรียกดวลในคืนพายุ—แพ้ต้องสละหน้าที่คุ้มกัน
+  3. **Three Cuts Oath:** พิธีดาบโบราณขอ “สามฟัน” กับสิ่งไม่ใช่มนุษย์—แลกบางอย่างจากตัวเขา
+
+---
+
+## Tags: #Male #Human #Fighter3 #Samurai #Duelist #Valeronnes #CR1 #BridgeGuard
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Katsuro **วางมือบนไหล่ให้หลัก แล้วพูดต่ำ ๆ**
+
+> “นิ่งกว่านี้—ดี… ตอนนี้ดาบจะตัดเอง.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** katana (longsword), wakizashi, longbow
+  * **Armor:** breastplate set
+  * **Tools:** whetstone, rope
+  * **Consumables:** salve ×2
+  * **Misc:** bridge pass token, prayer tag
+* **Level-Up Suggestions (to 4):** **+2 STR (to 18)** หรือ **Feat: Sentinel / Slasher**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass Bridges & Moon Rails**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **duel on narrow ground**, **VIP escort**, **canal gate stand**
+* **Affiliation:** **Rail Wardens — Glass Court**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male human fighter samurai 180cm short undercut topknot raven-black hair lean athletic indigo gi dark breastplate katana wakizashi longbow storm cloak bridge duel rainy night fantasy

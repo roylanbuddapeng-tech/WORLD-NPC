@@ -1,0 +1,194 @@
+# #342 — **Hajun “Undertow” Rhee** — *Ancestral Bite of the Flood Rail*
+
+> “Hold your breath on my count. When you exhale, they fall.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 342
+* **Gender:** **Male (Type: เมะ)** — มั่นใจ สุขุม ตัดสินใจเร็วบนรางลื่น
+* **Age:** 29
+* **Race:** **Half-Beast (aquatic — shark lineage)** — ใกล้มนุษย์ ~87%; ผิวมีลายเกล็ดจาง ๆ บริเวณไหล่, ฟันเขี้ยวขาวคมเล็กน้อย, ดวงตาหินเทา
+* **Class & Level:** **Barbarian (Path of the Ancestral Guardian) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **หน้าชนคุมเลน/ผู้คุ้มกันคาราวานน้ำ/ผู้สกัดหัวหน้าแก๊ง**
+* **Organization:** **Thalassara Tidewatch — Railguard Circle**
+* **Symbol:** ฟันฉลามทับคลื่นครึ่งวงบนรางเรียว
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese rugged calm** — clean lines, a silent stare like deep water before a surge.
+
+**Eyes:** stone-gray with a cool, predatory shine when he commits.
+**Skin:** sun-browned; faint shark-skin grain on shoulders and upper back.
+
+**Hair (Male Randomizer):** **Short**, **textured crop with hard side part**; rain-slick and tidy under a hood.
+**Color:** **coal black with cool steel sheen**.
+
+**Height:** **182 cm**
+**Weight:** **82 kg**
+**Body Build:** **athletic-muscular**, swimmer back, anchored stance.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **tooth-charm pendant**, **rope-wrapped wrist guards**, and a **rail pass tag** tied at his belt.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male, non-femboy rule):** **Low — functional lane-break kit**
+
+A **charcoal leather brigandine** over a **storm-gray padded shirt**, **grip-stitched bracers**, and **split canal trousers** for long strides on wet rails. **Cleated boots** bite stone. A **short rain-cloak** pins tight to keep profile small in a charge.
+
+**Palette:** charcoal / storm gray / black / dull steel
+
+**Weapons & Gear:**
+
+* **Halberd “Undertow”** (reach, hooked beak for rail work)
+* **Handaxe ×2** (throw/cut line)
+* **Hook-rope 30 ft**, **manacles**, **echo-salt marker**, **smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 = **33 HP**
+* **AC:** **15** (Unarmored Defense: 10 + DEX 2 + CON 3)
+* **Speed:** **40 ft**
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Perception +3, Intimidation +2, Survival +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Ancestral Guardian**
+
+* **Rage (2/long rest):** +2 damage; resistance to B/P/S
+* **Reckless Attack**, **Danger Sense**, **Unarmored Defense**
+* **Ancestral Protectors:** **เมื่อคุณโจมตีโดนครั้งแรกขณะ Rage**, วิญญาณบรรพชนจะ “ทำเครื่องหมาย” เป้าหมาย—มัน **มี Disadvantage** เมื่อโจมตีสิ่งมีชีวิตอื่นนอกจากคุณ และถ้าศัตรูนั้นโดนดาเมจจากใครก็ตาม **ดาเมจนั้นถูกลดลง 2 (PB)**
+* **Spirit Shield (Reaction, 2/rounds per turn? RAW: Reaction, PB/round = 2? → RAW: เมื่อเป็นเทิร์นของศัตรูที่อยู่ใน 30 ฟุต โจมตีเพื่อน, คุณใช้ Reaction ลดดาเมจได้ 2d6 – ที่เลเวล 3 = 2d6)**
+
+**Attacks**
+
+* **Halberd (reach 10 ft, 2h):** +6 to hit, **1d10+4** slashing (**+2** while Raging)
+* **Handaxe (melee or thrown 20/60):** +6 to hit, **1d6+4** slashing (**+2** Rage)
+
+*(DM note: **Spirit Shield** at 3rd level reduces damage **2d6** to a creature within 30 ft; scales later.)*
+
+---
+
+## 🎯 Combat Tactics (Bodyguard Anchor / Mark & Maim)
+
+* **Role:** **frontline tank/support**
+* **Opener:** **Rage** → **reach halberd** to tag the biggest threat with **Ancestral Protectors**.
+* **Flow:** stand cross-rail; **Spirit Shield** to shave incoming hits on allies; **Reckless** only to hold eyes.
+* **Finisher:** hook-beak drag to rail edge, step-in heave—lane cleared.
+
+**Damage Flavor:** shark-tooth spirits swirl in pale teal; when he marks a foe, the water hushes as if biting down.
+
+---
+
+## 💬 Personality
+
+* **Traits:** พูดน้อย หนักแน่น รักษาคำ; โฟกัสเวลาเริ่มนับจังหวะหายใจ
+* **Ideal:** Guardianship — “คนที่อยู่หลังเรา ต้องไปถึงฝั่ง”
+* **Bond:** เก็บ “เหรียญท่าน้ำ” ของครอบครัวที่เคยคุ้มกันไว้ในถุงผ้า
+* **Flaw:** ชอบเอาตัวเองรับแทนจนลืมพัก; บางทีดื้อเงียบ
+* **Quirk:** นับ “สามลมหายใจ” ก่อนพ突—ทุกคนที่สนิทจะรู้ว่าจังหวะนั้นคือสัญญาณบุก
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — flood stairs, moon locks, rail chokepoints**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **chokepoint stand**, **riot peel**, **VIP ferry escort in rain**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกช่างลากเรือ เขาเคยเห็นผู้คุมเลนเก่าล้มหน้าตัวเอง คืนต่อมาเขายืนแทน—และได้ยิน “ฟันบรรพชน” กัดน้ำรอบเท้า เขาจึงเป็นโล่ของทีมตั้งแต่นั้น
+
+* **Lifestyle:** ห้องริมคูน้ำ มีเชือก แผงตะขอ และกระเป๋าเหรียญท่าน้ำ
+* **Income:** ค่าเวร Tidewatch, โบนัสคุ้มกันคาราวานน้ำ, เบี้ยเสี่ยง Echo
+
+---
+
+## 🧩 Morals & Ethics
+
+“ยอมรับแรงแทนคนอื่นก่อนเสมอ” — ถ้าต้องเลือกระหว่างไล่ฆ่ากับพาคนข้าม เขาเลือกอย่างหลัง
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** ช่วงที่น้ำ “เงียบผิดธรรมชาติ” — ลาง Echo กลืนเสียงคมหัวใจ
+* **Weaknesses:** ดาเมจดิบกลาง ๆ; ถ้าถูก kite ระยะไกลต้องบังคับให้เข้ารางแคบ
+* **Strengths:** **คุ้มกันทีมอย่างหนักแน่น** (Protectors + Spirit Shield), **reach 10 ฟุต** คุมเลน, **สปีด 40** ไล่ประกบ
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ — สุขุมมั่นใจ ทำให้รู้สึกปลอดภัย**
+
+> “หลังผมไว้—ผมนับให้… หนึ่ง, สอง—ไป.”
+
+เวลาซ้อม เขาจะจับศอกตั้งแกนลำตัวสั้น ๆ แล้วพยักหน้า “หายใจลงส้น เท่านี้ก็ไม่ลื่น”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** ฟันฉลามบนจี้ของเขา **อุ่น** เมื่อวิญญาณบรรพชน “ไม่เห็นด้วย” กับคำสั่ง—เหมือนเตือนให้เลือกใหม่
+* **Hooks:**
+
+  1. **Bite in the Rail:** รางหนึ่งมีรอยกัดลึกที่ไม่ใช่ของโลหะ—บรรพชนเรียกให้ไป “ปิดปาก” อะไรบางอย่าง
+  2. **Three Breaths Oath:** ต้องยืนค้ำจน “สามลมหายใจ” ของเขาไปสัมผัสหัวใจของ Echo—พิธีที่เสี่ยงแต่หยุดคลื่นได้
+  3. **Guard’s Debt:** ครอบครัวที่เคยช่วยไว้ถูกกรรโชกให้ส่งทางเรือเถื่อน—เขาต้องเลือกระหว่างหน้าที่กับหนี้ใจ
+
+---
+
+## Tags: #Male #HalfBeast #Shark #Barbarian3 #AncestralGuardian #TankSupport #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Hajun **ยกไหล่บังฝนแล้วชี้จุดยืนให้แคบลง**
+
+> “ก้าวเข้ามาอีกครึ่งเท้า—ดีมาก. ตอนนี้ปล่อยลมหายใจ.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** halberd, 2× handaxes
+  * **Armor:** Unarmored Defense (brigandine as outerwear)
+  * **Tools:** hook-rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** tooth charm, rail pass tag
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Polearm Master / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Flood stairs & rail chokepoints (Thalassara)**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **chokepoint stand**, **riot peel**, **VIP ferry escort**
+* **Affiliation:** **Tidewatch — Railguard Circle**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male half-beast shark barbarian ancestral guardian 182cm short textured crop coal-black hair steel sheen athletic muscular charcoal brigandine halberd rain cloak low exposure flood stairs canal night fantasy

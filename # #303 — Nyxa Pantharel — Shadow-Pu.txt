@@ -1,0 +1,210 @@
+# #303 — **Nyxa Pantharel** — *Shadow-Pulse Huntress*
+
+> “Footsteps are just confessions you leave behind. I don’t.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 303
+* **Gender:** **Female (Type: ทอมบอย — muscular sporty)** — ห้าว มั่นใจ น้ำเสียงสั้นกระชับ ยิ้มมุมปากเวลาเจองานยาก
+* **Age:** 24
+* **Race:** **Half-Beast (mammalian — black panther lineage)** — humanlike (~88%); faint glossy rosette pattern on shoulders/hips; catlike night-shine in eyes; subtle retractile-claw nails
+* **Class & Level:** **Ranger (Gloom Stalker) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral**
+* **Profession:** **night scout / ambush striker / echo-tracker**
+* **Organization:** **Moon Canal Freehunters (Thalassara)**
+* **Symbol:** a crescent claw print crossing three sound ripples
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Korean street-athlete** — sharp jawline, fierce almond eyes, compact power in every movement.
+
+**Eyes:** deep emerald with vertical catlike contraction under light.
+**Skin:** warm tan with faint panther rosette shimmer along collarbones and hips.
+
+**Hair (Female Hair Randomizer):** 🎲 **Short masculine cut** (tomboy type-2 rule)
+**Style:** cropped **undercut pixie**, tousled top, shaved lines at the temple for grip.
+**Color:** **ink-black with subtle green-blue sheen.**
+
+**Height:** **169 cm**
+**Weight:** **61 kg**
+**Body Type:** **fit muscular (gym-toned)**; defined back, powerful thighs, runner’s core.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 64 – 94
+VALIDATION: • W/B = 0.727 → OK   • H/W = 1.47 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **None**
+**Glasses Roll (non-theme female 50%)** 🎲 **fail → no glasses**
+
+**Jewelry & Accessories:** matte obsidian stud in right ear (whistle clicker), braided leather choker (scent-mask charm), thin ankle chain (silent-step talisman).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium (functional stealth with athletic flair)**
+
+A **matte charcoal stealth vest** over a **black compression crop** (keeps core tight), **low-noise cargo leggings** with ribbed knee panels, and **soft-soled split boots** for canal stone.
+A **hooded half-cape** breaks her outline; inside hem stitched with sound-damping thread.
+
+**Palette:** charcoal / black / panther-green accents
+**Weapons & Gear:**
+
+* *Nightpulse* **longbow** (laminated duskwood) + 20 black-fletch arrows
+* **Shortsword** (wave-spine) & **panther claw knife** (hooked)
+* Climber’s kit, chalk-dust pouches, 2× smoke beads, signal mirror
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **28 HP**
+* **AC:** **17** (studded leather + DEX)
+* **Speed:** 35 ft; **Darkvision** 60 ft (racial), **Umbral Sight** enhances stealth in darkness
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Stealth +8, Perception +5, Survival +5, Athletics +5, Acrobatics +6, Investigation +2
+* **Languages:** Common, Sylvan, Thalassaran Cant
+
+**Ranger (Gloom Stalker) 3**
+
+* **Dread Ambusher:** +10 ft speed first turn; extra weapon attack (+1d8 dmg) on first turn
+* **Umbral Sight:** darkvision; invisible to creatures relying on darkvision in darkness
+* **Gloom Stalker Spells:** *Disguise Self* (always prepared)
+* **Favored Foe** (Tasha’s) & **Deft Explorer** (Canny: Stealth)
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Prepared:* *Hunter’s Mark, Pass without Trace, Absorb Elements, Zephyr Strike*
+
+**Attacks**
+
+* **Nightpulse Longbow:** +6 to hit, 1d8+4 piercing (+1d6 *Hunter’s Mark*; +1d8 on Dread Ambusher volley)
+* **Shortsword:** +6 to hit, 1d6+4 slashing
+* **Panther Claw Knife:** +6 to hit, 1d4+4 piercing; advantage on cutting ropes/nets (flavor)
+
+---
+
+## 🎯 Combat Tactics (Shadow Skirmisher)
+
+* **Role:** **ambush opener / scout controller**
+* **Opener:** **Pass without Trace** on team → rooftop glide → first-turn **Dread Ambusher** triple shot.
+* **Flow:** mark alpha with **Hunter’s Mark**; rotate angles every turn; swap to blade in tight alleys.
+* **Finisher:** **Zephyr Strike** burst to close distance, throat-hook with claw knife, vanish into cape shadow.
+
+**Damage Flavor:** arrows hum a low panther purr; impacts leave a brief emerald ripple in the dark.
+
+---
+
+## 💬 Personality
+
+* **Traits:** laconic, competitive grin, protective of rookies.
+* **Ideal:** Self-Mastery — “Control your breath, control the hunt.”
+* **Bond:** keeps a list of rescued canal kids; visits in secret with food.
+* **Flaw:** pushes too hard when tracking “predators,” risks overextension.
+* **Quirk:** taps two fingers twice on fletching before every first shot.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Canals & Under-Arches**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **rooftop pursuit**, **canal ambush**, **night rescue against Echo-spawn**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised by dock runners; learned the city’s wind and stone like a second language.
+A canal riot taught her that fast feet and quieter hearts save more lives than speeches.
+
+* **Lifestyle:** sparse loft above a boathouse; ritual stretching at dusk.
+* **Income:** bounties, scout retainer, hazard pay during festivals.
+* **Relationships:** professional respect for Lyra’s rangers; rivalry with Sae’ra (#299) in rooftop races.
+
+---
+
+## 🧩 Morals & Ethics
+
+Predators hunt; guardians counterhunt. She won’t kill for sport — only to stop the hunt from the other side.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** sudden silence over busy water (Echo surge).
+* **Weaknesses:** stubborn; avoids asking backup.
+* **Strengths:** first-round burst, darkness mobility, team stealth amplification.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย tone (ห้าว สปอร์ต):**
+
+> “Keep up. If you fall behind, I’m not carrying you… unless you ask nicely.”
+
+เวลาทำให้คนเขิน เธอจะเอานิ้วเกี่ยวคางให้หันมาสบตาแล้วกระซิบสั้น ๆ ใกล้หู “เงียบ… ฟังลมหายใจตัวเอง”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her cape’s lining is stitched from “hushed silk” stolen off a Severance altar.
+* **Hooks:**
+
+  1. **Green Silence:** arrows stop making sound and start *drinking* it.
+  2. **Predator’s Mark:** a rival stalker tags Nyxa with a counter-mark that reverses *Hunter’s Mark*.
+  3. **Canal Phantom:** children whisper about a panther shadow saving them — nobles hire PCs to find the “beast.”
+
+---
+
+## Tags: #Female #Tomboy #HalfBeast #Panther #Ranger3 #GloomStalker #Stealth #Ambush #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nyxa **ทำให้คนเขินด้วยการยืนชิดไหล่ตอนสอนหายใจ แล้วนับจังหวะบนกระดูกไหปลาร้า**
+
+> “In… two… hold… good girl. Now don’t lose that rhythm.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longbow, shortsword, claw knife
+  * **Armor:** studded stealth vest
+  * **Tools:** climber’s kit, chalk, smoke beads ×2
+  * **Consumables:** 2x healing poultice, 1x antivenom
+  * **Misc:** scent-mask charm, signal mirror
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Skulker / Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Moon Canals/Under-Arches**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **night hunt**, **rooftop chase**, **canal-edge ambush**
+* **Affiliation:** **Moon Canal Freehunters**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Korean female half-beast panther ranger gloom stalker 169cm pixie undercut black hair green eyes C-cup stealth vest crop top cargo leggings hooded half-cape longbow night rooftop

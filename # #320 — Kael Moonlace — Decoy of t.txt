@@ -1,0 +1,202 @@
+# #320 — **Kael Moonlace** — *Decoy of the Dew-Slick Chapel*
+
+> “If I’m standing here… who, exactly, is kissing your hand?”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 320
+* **Gender:** **Male (Femboy — Subtype: Experienced Seducer)** — อ้อนแอ้น นุ่มนวล ใช้คำพูดกำกวมอย่างจงใจเพื่อทำให้คนเสียอาการ
+* **Age:** 20
+* **Race:** **Human (Thalassaran-born)** — humanlike 100% with faint teal resonance in the pupils
+* **Class & Level:** **Cleric (Trickery Domain) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **decoy acolyte / heist chaplain / misdirection specialist**
+* **Organization:** **Thalassara Misrule Chapel — Dew-Slick Cell**
+* **Symbol:** a silver key drawn as a smile beneath a half-mask
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese idol softness** — fine V-line jaw, glossy lips, luminous doe eyes; moves with dancer-like economy.
+
+**Eyes:** teal-brown with micro-flecks that shimmer when he lies on purpose.
+**Skin:** fair ivory with a cool moon-sheen across collarbones.
+
+**Hair (Female Hair Randomizer for Femboy):** 🎲 **Ponytail (top frequency)**
+**Style:** **high sleek ponytail** with **side curtain bangs**; a thin ribbon knots the base.
+**Color:** **jet black with teal gradient tips.**
+
+**Height:** **159 cm** (femboy rule ≤160)
+**Weight:** **49 kg**
+**Body Build:** **slim, elegant**, narrow shoulders, long eyelashes, graceful wrists.
+
+**Accessories:** silver half-mask (hangs at his neck), slender rosary-chain bracelet, anklet with two mute bells (signal taps).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High (artistic, non-explicit)**
+
+A **backless shrine-halter** with **deep heart-cut neckline**, bound by silver cords that cross his ribs; **sheer side panels** hint at skin when he turns.
+Layered **high-slit silk trousers** allow silent lunges; soft split-sole boots.
+A **short translucent capelet** blurs his outline under lantern light.
+
+**Palette:** moon-teal / black pearl / silver glints
+
+**Weapons & Gear:**
+
+* **Sanctum dagger** (slender, concealed in halter seam)
+* **Key of Misrule** (holy focus & thieves’ tool)
+* **Incense of Misdirection** (light obscurement & scent cover, 1/day)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **19 HP**
+* **AC:** **16** (studded under-layer + DEX)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 16 (+3)** **CON 12 (+1)** **INT 12 (+1)** **WIS 16 (+3)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +5
+* **Skills:** Stealth +5, Deception +5, Sleight of Hand +5, Insight +5, Persuasion +5, Religion +3
+* **Languages:** Common, Elvish, Thalassaran Cant, Celestial
+* **Tools:** thieves’ tools, disguise kit (theme)
+
+**Cleric (Trickery) 3**
+
+* **Blessing of the Trickster:** give an ally advantage on Stealth (touch).
+* **Channel Divinity (2/rest):** **Invoke Duplicity** (illusory decoy grants advantage in 5 ft), *(RAW)*.
+* **Domain Spells:** *Charm Person, Disguise Self; Mirror Image, Pass without Trace*
+* **Spellcasting (WIS DC 13, +5 atk):**
+
+  * **Cantrips:** *Guidance, Thaumaturgy, Minor Illusion (via theme item)*
+  * **1st:** *Bless, Healing Word, Command, Sanctuary*
+  * **2nd:** *Mirror Image, Hold Person, Pass without Trace*
+
+**Attacks**
+
+* **Sanctum Dagger:** +5 to hit, 1d4+3 piercing
+* **Command:** “Kneel”, “Drop”, or delightfully ambiguous words to reposition foes
+
+---
+
+## 🎯 Combat Tactics (Backline Illusion Support / Advantage Engine)
+
+* **Role:** **advantage battery / stealth enabler / controller**
+* **Opener:** **Blessing of the Trickster** on the party striker → **Invoke Duplicity** to flank via decoy.
+* **Flow:** **Mirror Image** on self; **Pass without Trace** for team vanish; **Hold Person** to pin a priority target.
+* **Finisher:** decoy baits OA while Kael slides a **Command** that forces the enemy to expose a flank.
+
+**Damage Flavor:** silver cords thrumm like harp strings; duplicates giggle quietly from the wrong direction.
+
+---
+
+## 💬 Personality
+
+* **Traits:** silky voice, playful gaze, expert at lingering too close; acts coy but is always three steps ahead.
+* **Ideal:** Freedom — “A locked door teaches better jokes.”
+* **Bond:** the Dew-Slick orphans’ route map; he tests every safe alley himself.
+* **Flaw:** flirts past the line; misreads genuine affection as “banter.”
+* **Quirk:** taps his ribbon once before lying—fans swear it’s a tell, he claims it’s foreplay.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Masque District, Moon Canal bridges, back-altar corridors**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **heist-ritual**, **decoy escort**, **double at dawn (illusory standoff)**
+
+---
+
+## 📜 Background & Lifestyle
+
+Temple-runaway turned chapel trickster; he learned theology to circumvent it. Now he’s the smile that unlatches doors and the hymn that hides a footstep.
+
+* **Lifestyle:** loft over a bell-maker’s shop, racks of masks and ribbons.
+* **Income:** stealth escorts, “clean exits,” and prank-ritual fees.
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes kindness is misdirection’s goal: if someone must be fooled, let it be the cruel.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing his voice during a con; Echo-silence swallowing sound.
+* **Weaknesses:** thin defenses if caught without spells; over-flirts into danger.
+* **Strengths:** team stealth spikes, advantage generation, crowd control via **Hold Person/Command**.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy — Experienced Seducer:**
+
+> “If I lean closer, your answer gets better. Trust me—everyone’s does.”
+
+วิธีทำให้เขิน: วางหน้ากากแตะที่อกอีกฝ่ายเบา ๆ แล้วกระซิบชิดใบหู
+
+> “My duplicate can kiss too… want a demonstration?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his Invoke Duplicity sometimes acts on its own, finishing sentences he never started.
+* **Hooks:**
+
+  1. **Two at Twilight:** the duplicate doesn’t vanish after combat—starts courting someone.
+  2. **Key Without Teeth:** a door opens to an alley that isn’t there on any map.
+  3. **Echo Sermon:** Kael’s prank hymn pacifies an Echo swell—but asks a tithe later.
+
+---
+
+## Tags: #Male #Femboy #Human #Cleric3 #TrickeryDomain #Illusion #Support #Thalassara #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kael **เล่นกับระยะห่าง**—ยื่นหน้าเข้าไปใกล้จนลมหายใจแตะผิว
+
+> “Say ‘please’… the door likes manners.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** sanctum dagger
+  * **Armor:** studded shrine halter (light)
+  * **Tools:** thieves’ tools, disguise kit
+  * **Consumables:** incense of misdirection ×1
+  * **Misc:** half-mask, silver key focus
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 18)** หรือ **Feat: Actor / War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Masque District & Moon Bridges**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **decoy escort**, **heist-ritual**, **illusion standoff**
+* **Affiliation:** **Misrule Chapel — Dew-Slick Cell**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese femboy male human cleric trickery 159cm high ponytail black-to-teal hair doe eyes high exposure backless halter deep heart neckline sheer side panels silk trousers translucent capelet silver cords illusion duplicate seductive fantasy

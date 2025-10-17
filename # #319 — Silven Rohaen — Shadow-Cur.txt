@@ -1,0 +1,200 @@
+# #319 — **Silven Rohaen** — *Shadow-Curve Duelist of the Glass Strings*
+
+> “Don’t chase the shadow too fast. It might start flirting back.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 319
+* **Gender:** **Male (Type: Femboy — Subtype: Innocent Tease)**
+* **Age:** 23
+* **Race:** **Half-Beast (serpentine lineage — silver viper)** — ~85% human; pale scales shimmer faintly along collarbones, pupils narrow slightly under bright light.
+* **Class & Level:** **Fighter (Arcane Trickster)** 3 *(Rogue–Fighter hybrid variant using DM-approved multiclass rules)*
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **dueling instructor / infiltration bodyguard / illusion sparring partner**
+* **Organization:** **Valeronnes Glass Court — Duelist Guild of Strings**
+* **Symbol:** two curved blades crossed beneath a coiled silver serpent.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Japanese mix** — sharp beauty softened by innocence; wide soft eyes that sparkle like dew.
+
+**Eyes:** pale turquoise, slit pupils glint faintly when amused.
+**Skin:** fair porcelain with a light pearly shimmer where the scales catch light.
+
+**Hair (Feminine Hair Randomizer for Femboy):** 🎲 **Ponytail (equal top frequency)**
+**Style:** **medium ponytail with side-swept bangs**, a small silver ring binds the tie.
+**Color:** **ashy silver with pale turquoise highlights.**
+
+**Height:** **160 cm**
+**Weight:** **50 kg**
+**Body Build:** **slim, elegant, dancer-like grace.**
+
+**Jewelry & Accessories:** fine chain earring with sapphire bead, thin choker with blade rune, silver bangle with faint ward sigil.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High (sensual duelist style)**
+
+A **tight sleeveless dueling vest** with deep side cuts revealing lines of pale scales; **open-backed for flexibility**, held by crossed ribbons.
+**Silk trousers** taper to calf-high boots; side slit exposes leg line when he moves.
+A **waist sash** of teal ribbon flutters like a serpent’s tongue when he spins.
+
+**Palette:** silver / turquoise / white / pale teal
+
+**Weapons & Gear:**
+
+* **Rapier “Silverline” (+1)** — blade hums faintly when held still.
+* **Off-hand dagger “Mistkiss.”**
+* **Illusion belt buckle (casts Minor Illusion, 1/short rest)**
+* **Practice ribbon whip (flavor)**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +1)×3 → **24 HP**
+* **AC:** **17** (duelist vest + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, CON +3
+* **Skills:** Acrobatics +6, Performance +5, Persuasion +5, Stealth +6, Insight +3
+* **Languages:** Common, Draconic, Elvish
+
+**Fighter (Dueling Style) 2 / Rogue (Arcane Trickster) 1 Hybrid**
+
+* **Fighting Style:** Dueling (+2 dmg when single-wielding)
+* **Second Wind:** regain 1d10+2 HP (1/rest)
+* **Action Surge:** extra action (1/rest)
+* **Sneak Attack:** +1d6
+* **Spellcasting (INT DC 11)**: *Minor Illusion, Mage Hand, Booming Blade*
+
+**Attacks**
+
+* **Rapier +1:** +7 to hit, 1d8+6 piercing (+1d6 Sneak Attack).
+* **Dagger:** +6 to hit, 1d4+4 piercing (throw 20/60 ft).
+
+---
+
+## 🎯 Combat Tactics (Deceptive Duelist / Counter-Feint Striker)
+
+* **Role:** **frontline duelist / illusion feinter**
+* **Opener:** *Minor Illusion* to mislead, *Booming Blade* into lunge.
+* **Flow:** shifts footing mid-duel to feint using voice and eye contact.
+* **Finisher:** slides behind enemy, whispering *“It’s only fair if you let me touch first.”*
+
+**Damage Flavor:** serpent-light flickers across blade, the air hums faintly after each swing.
+
+---
+
+## 💬 Personality
+
+* **Traits:** shy smile, soft-spoken, often apologizes mid-duel.
+* **Ideal:** “Every fight is a dance, not a wound.”
+* **Bond:** trains children of nobles in defensive grace.
+* **Flaw:** hesitates to hurt even when necessary.
+* **Quirk:** licks his thumb before drawing blade—ritual habit for luck.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glass Courtyard, Serpent Dueling Halls**
+* **Threat Gradient:** **Stable → Dangerous (tournament)**
+* **Encounter Framing:** **duel invitation**, **arena ambush**, **training challenge**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born in the servant quarters of a duelist academy, Silven was raised polishing blades and imitating masters until he became one—though prettier, quieter, and much more distracting.
+
+* **Lifestyle:** clean and minimal; lives behind the training halls.
+* **Income:** noble tuition, private duels, protection contracts.
+
+---
+
+## 🧩 Morals & Ethics
+
+Follows a personal code: *“If you must strike, do it beautifully.”*
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing composure in battle, revealing too much of his serpentine lineage.
+* **Weaknesses:** fragile when overwhelmed; limited magic.
+* **Strengths:** finesse dueling, agility, charm-based feints.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Subtype: Innocent Tease**
+พูดอย่างไม่รู้ตัวว่ายั่ว เช่น—
+
+> “You’re staring again… did I swing wrong? Or do you like my form?”
+
+หรือเวลาเข้าใกล้คู่ซ้อม เขาจะหันมากระซิบเบา ๆ ด้วยสายตาซื่อ
+
+> “Your pulse jumped. Are you nervous… or excited?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his family’s crest once belonged to a noble serpent house tied to Severance rites.
+* **Hooks:**
+
+  1. **The Silent Tournament:** assassins enter a duel under guise of sport.
+  2. **Glass Scales:** his serpentine shimmer begins spreading — a sign of latent magic.
+  3. **Dancer’s Blade:** rumor says he never actually kills — but those he defeats dream of him every night.
+
+---
+
+## Tags: #Male #Femboy #HalfBeast #Snake #RogueFighter #ArcaneTrickster #Duelist #Valeronnes #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Silven laughs softly, then tilts his head with guileless curiosity.
+
+> “Did I say something wrong? You’re red again…”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** Silverline rapier, Mistkiss dagger
+  * **Armor:** duelist vest
+  * **Tools:** dueling kit, practice ribbon
+  * **Consumables:** oil of sharpness (small vial)
+  * **Misc:** serpent sash, illusion buckle
+* **Level-Up Suggestion (to 4):** +2 DEX (to 20) or **Feat: Duelist Initiate**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes Glass Courtyard — Serpent Arena**
+* **Threat Gradient:** **Stable → Dangerous**
+* **Encounter Type:** **duel invitation**, **training spar**, **arena ambush**
+* **Affiliation:** **Glass Court — Duelist Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Japanese femboy male half-beast snake fighter rogue arcane trickster 160cm silver turquoise hair ponytail turquoise eyes silver scales high exposure duelist vest open back silk trousers serpent sash elegant innocent tease fantasy

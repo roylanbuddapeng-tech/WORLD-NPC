@@ -1,0 +1,198 @@
+# #315 — **Erynn Vale** — *Mirror Trick of the Gilded Shadow*
+
+> “A lie is just a truth that decided to dress better.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 315
+* **Gender:** **Male (Type: Femboy)** — ลักษณะภายนอกอ้อนแอ้น ละมุน เสียงนุ่ม ชอบพูดกำกวมจนอีกฝ่ายหน้าแดง
+* **Age:** 22
+* **Race:** **Half-Beast (avian lineage — raven)** — ~85% human; faint black feathers trailing along shoulder blades, subtle raven irises shimmering violet under light.
+* **Class & Level:** **Rogue (Phantom)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **illusion courier / stage thief / funeral performer**
+* **Organization:** **Valeronnes Obsidian Masquerade — Night Court Branch**
+* **Symbol:** a half-mask shaped like a broken feather
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean idol beauty**, sharp chin, pouty lips, doe eyes—ambiguous enough to make onlookers stare twice.
+
+**Eyes:** violet-gray, like smoke over glass.
+**Skin:** pale with soft lilac undertones, faint shimmer under candlelight.
+
+**Hair (Feminine Hair Randomizer for Femboy):** 🎲 **Twin Bun (boosted over twin tail)**
+**Style:** **asymmetrical twin buns** with wispy curtain bangs and a few free locks brushing his cheeks.
+**Color:** **silver-white fading to mauve tips.**
+
+**Height:** **159 cm**
+**Weight:** **49 kg**
+**Body Build:** **slim, graceful**, narrow shoulders, long eyelashes, delicate hands.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Very High (artistic, elegant, gender-ambiguous couture)**
+
+He wears a **tailored sleeveless waistcoat** of **black satin**, **deep V down to the sternum**, faint shimmer at edges like wing shadows.
+Trousers are **slit high at the hips**, under which rests sheer **lace panels** shimmering faint violet.
+A **short capelet** drapes off one shoulder with raven feather fringes.
+He smells faintly of ink and cold perfume.
+
+**Palette:** obsidian / violet / pearl gray / mauve glow
+
+**Weapons & Gear:**
+
+* **Rapier “Whisperline” (+1)**
+* **Shadow-kunai (phantom touch)** ×3
+* **Masquerade mask (focus for Phantom abilities)**
+* **Perfume of Memory (1 charge; recall last 10 minutes perfectly)**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **19 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 13 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Stealth +8, Performance +5, Acrobatics +6, Deception +5, Persuasion +5, Sleight of Hand +6, Insight +3
+* **Languages:** Common, Elvish, Auran, Thieves’ Cant
+
+**Rogue (Phantom) 3**
+
+* **Whispers of the Dead:** gain temporary proficiency (changes daily).
+* **Wails from the Grave:** expend 1 use to deal **half Sneak Attack dmg** to another creature within 30 ft (2/long rest).
+* **Tokens of the Departed:** store soul fragments as charms (3 max).
+* **Cunning Action:** Dash/Disengage/Hide (bonus).
+* **Sneak Attack:** +2d6 (once/turn).
+
+**Attacks**
+
+* **Rapier +1:** +6 to hit, **1d8+5 piercing**, **+2d6 Sneak Attack**
+* **Shadow-Kunai:** +6 to hit, **1d4+4 piercing**, ethereal retrieval at end of turn.
+
+---
+
+## 🎯 Combat Tactics (Illusion Assassin / Debuff Support)
+
+* **Role:** **deceptive striker / fear spreader / visual manipulator**
+* **Opener:** **Hide in Dim Light → Rapier strike** → **Wails from the Grave** on adjacent target.
+* **Flow:** swaps weapons fluidly; phantom tokens used for misdirection illusions.
+* **Finisher:** steps through a fading shadow of his own image—appears behind the foe and whispers *“Remember me prettier.”*
+
+**Damage Flavor:** second wound echoes half a heartbeat late; faint violet feathers burst into nothing.
+
+---
+
+## 💬 Personality
+
+* **Traits:** playful tease, enjoys verbal sparring, reads attention like music.
+* **Ideal:** Beauty — “Every secret deserves a stage.”
+* **Bond:** his partner in the Night Court troupe, who he claims is “married to the spotlight.”
+* **Flaw:** hides true feelings behind constant flirts; can’t stand being ignored.
+* **Quirk:** hums before stabbing—same tune every time, but no one can place it.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Obsidian Masquerade Hall, Mirror Gardens, Silent Opera Tunnels**
+* **Threat Gradient:** **Wavering → Dangerous**
+* **Encounter Framing:** **assassination ball**, **stage duel**, **haunting performance**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to stage performers; learned illusion before literacy. When a noble died during his act and whispered secrets in death, he realized he could carry more than applause—he could carry memories.
+
+* **Lifestyle:** baroque apartment above a perfume house.
+* **Income:** theater wages, secret courier work, charm sales.
+
+---
+
+## 🧩 Morals & Ethics
+
+Lives by the creed: “If someone will die anyway, make their last moment beautiful.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing allure—being forgotten.
+* **Weaknesses:** emotionally impulsive, fragile in drawn-out fights.
+* **Strengths:** burst ambushes, illusion deceit, death-trigger utility.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy tone — silky teasing, suggestive:**
+
+> “You’re staring. Don’t worry… everyone does. I just like the way you do it.”
+
+เขาชอบทำให้เขินโดยเดินอ้อมหลังช้า ๆ แล้วโน้มมากระซิบใกล้ใบหูว่า
+
+> “If I steal your breath… will you want it back?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** keeps a single soul token glowing faint gold—belonging to his twin, lost years ago.
+* **Hooks:**
+
+  1. **Echo Stage:** spirits reenact their deaths through him; he starts to forget which is real.
+  2. **Perfume Contract:** the scent he wears binds memories of anyone who breathes it.
+  3. **Feather Debt:** the Obsidian Masquerade calls him for a job against a former lover.
+
+---
+
+## Tags: #Male #Femboy #HalfBeast #Raven #Rogue3 #Phantom #Illusion #Deception #Valeronnes #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Erynn likes to toy by leaning in until his nose almost touches yours and whispering—
+
+> “Tell me… do you want me to disappear before or after you blush?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** rapier +1, shadow kunai ×3
+  * **Armor:** black satin vest (light)
+  * **Tools:** disguise kit, thieves’ tools
+  * **Consumables:** perfume vial ×1, phantom tokens ×2
+  * **Misc:** silver mask, feathered capelet
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Actor / Shadow Touched**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Masquerade Hall / Mirror Garden**
+* **Threat Gradient:** **Wavering → Dangerous**
+* **Encounter Type:** **duel under spotlight**, **haunting encore**, **phantom espionage**
+* **Affiliation:** **Obsidian Masquerade — Night Court**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean femboy male half-beast raven rogue phantom 159cm slim twin buns silver mauve hair deep V waistcoat lace panels violet eyes rapier masquerade stage fantasy

@@ -1,0 +1,211 @@
+# #301 — **Melisara Veilborne** — *The Laugh in the Lock*
+
+> “Keys are honest. Locks are the liars.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 301
+* **Gender:** **Female (Type: รุ่นน้อง)** — สดใส ขี้เล่น ชอบยั่วแบบไม่ตั้งใจแต่ทำให้คนเสียอาการอยู่เรื่อย
+* **Age:** 22
+* **Race:** **Half-Elf — Elf Sector** (≈88% human; soft ear taper, faint opaline flecks in the iris)
+* **Class & Level:** **Cleric (Trickery Domain) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **holy decoy / relic thief-for-hire / street miracle-maker**
+* **Organization:** **Thalassara’s Misrule Chapel (informal trickster shrine)**
+* **Symbol:** a laughing mask crossed by a silver key
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese idol vibe**, playful fox-bright eyes and a smile that arrives a second too early.
+
+**Eyes:** opal-brown with tiny prismatic flecks; sparkle when she lies on purpose.
+**Skin:** pale peach with a soft inner glow along the collarbones.
+
+**Hair (Female Hair Randomizer):** 🎲 **Bun / Twin Bun (weighted > twintail)** → **messy twin buns** with loose side locks and micro-braids hidden for pins.
+**Color:** **tea-brown with rose-gold tips.**
+
+**Height:** **167 cm**
+**Weight:** **56 kg**
+**Body Type:** **fit-curvy**, dancer’s waist, springy steps.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 101 – 69 – 105
+VALIDATION: • W/B = 0.683 → OK   • H/W = 1.52 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Nerd/Aristocrat/None = 35/35/30 → Nerd (success)**
+**Glasses Rule (Nerd = always):** ✅ **Yes** — round silver spectacles with anti-glare runes.
+
+**Jewelry & Accessories:** silver key pendant (holy focus), chain ear-cuff with tiny bell, data-bangle etched with prank wards, thin anklet with chime-silencers.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Very High (trickster couture, fantasy—non-explicit)**
+
+A **backless shrine-bodice** with **deep heart-cut neckline**, bound by floating silver cords that tighten with a tap, paired with a **short asymmetrical skirt** slit high on one thigh.
+A **sheer runic veil-cape** scatters footsteps into false echoes, and **thigh-high soft boots** mute her jumps.
+
+**Palette:** pearl white / rose-gold / silver glints
+**Weapons & Gear:**
+
+* *Key of Misrule* (holy symbol & thieves’ tool focus)
+* *Mirror coin* (1/day create illusory duplicate of a small object)
+* *Incense of misdirection* (light obscurement, sweet scent cover)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **19 HP**
+* **AC:** **16** (studded bodice + DEX + shield spell flavor via *Shield of Faith*)
+* **Speed:** 30 ft; **Darkvision** 60 ft; **Fey Ancestry** (adv. vs charm)
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 12 (+1)** **WIS 16 (+3)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +5
+* **Skills:** Stealth +4, Deception +5, Sleight of Hand +4, Insight +5, Persuasion +5, Religion +3
+* **Languages:** Common, Elvish, Thalassaran Cant, Celestial
+* **Armor/Weapons:** light armor, simple weapons; **Disguise Kit** (background), **Thieves’ Tools** (feature flavor)
+
+**Cleric (Trickery) 3**
+
+* **Blessing of the Trickster:** give ally adv. on Stealth (1 creature).
+* **Channel Divinity (2/rest):**
+
+  * **Invoke Duplicity:** create an illusory double to grant advantage.
+  * **Cloak of Shadows:** (via CD option alt reflavor) → *non-magical invisibility 1 round* (DMG variant flavor; use Invoke Duplicity RAW for advantage + misdirection).
+* **Domain Spells:** *Charm Person, Disguise Self; Mirror Image, Pass without Trace*
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Prepared Examples:* *Guidance, Thaumaturgy, Minor Illusion (via theme item)*; *Bless, Healing Word, Command, Sanctuary; Mirror Image, Hold Person, Pass without Trace*
+
+**Attacks**
+
+* **Dagger (holy-inset):** +4 to hit, 1d4+2 piercing
+* **Guided Bonk (flavor):** *Guidance*+shove tricks rather than damage focus
+
+---
+
+## 🎯 Combat Tactics (Illusion Support / Heist Cleric)
+
+* **Role:** **backline support / advantage engine / stealth enabler**
+* **Opener:** **Blessing of the Trickster** on party rogue → **Invoke Duplicity** to split attention.
+* **Flow:** **Mirror Image** for defense; **Hold Person** on a high-value target; **Pass without Trace** to disengage cleanly.
+* **Finisher:** bait with duplicate, flank with ally for advantage chain; taunt with *Command: “Kneel.”*
+
+**Damage Flavor:** laughter echoing from the wrong direction; silver cords glint as her duplicate mimics a smirk.
+
+---
+
+## 💬 Personality
+
+* **Traits:** ปากหวานสายตีสนิท, ไวพริบสูง, รักการเล่นมุกสองแง่สามง่าม
+* **Ideal:** Freedom — “สัจจะก็สนุกนะ แต่โกหกที่ช่วยชีวิตสนุกกว่า”
+* **Bond:** ช่วยเหลือเด็กกำพร้าที่วิหารลับ — สอนวิธี “หนีให้เนียน”
+* **Flaw:** มั่นใจเกินไป ชอบลองเสี่ยงเกินเหตุ
+* **Quirk:** แตะกรอบแว่นสองทีทุกครั้งก่อนโกหก—เหมือนเป็นสัญญาณเริ่มโชว์
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Masque District, Mirror Courts**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **heist-ritual**, **decoy escort**, **cathedral infiltration**
+
+---
+
+## 📜 Background & Lifestyle
+
+เติบโตในคณะนักแสดงข้างถนน ก่อนถูกนักบวชสายทริคเกอรี่รับไปฝึก “ปาฏิหาริย์เชิงซ่อนเร้น”
+ปัจจุบันรับงานดีดล็อกช่วยผู้บริสุทธิ์ พร้อมแกล้งกระซิบใส่ขุนนางให้หน้าแดงเล่น
+
+* **Lifestyle:** ห้องเช่าบนระเบียงหลังโรงละคร เต็มไปด้วยหน้ากากและกุญแจ
+* **Income:** งานจ้างกู้สิ่งของศักดิ์สิทธิ์, ค่าจ้างป่วนการเมืองเชิงเมตตา
+* **Relationships:** แอบชื่นชม Vynessa (#284); คู่หูขโมยกับ Selyra (#281) บางครา
+
+---
+
+## 🧩 Morals & Ethics
+
+มองว่าศรัทธาที่ดีควรมีเสียงหัวเราะ เธอใช้โกหกเพื่อคุ้มครองคนเล็กคนน้อย และยอมรับว่าความจริงบางอย่าง “ยังไม่ถึงเวลา”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** ล็อกที่ไม่มีรู — สิ่งที่ไม่มีทางเปิดด้วยไหวพริบ
+* **Weaknesses:** พึ่งพาแผนลวงมากไป หากถูกจับได้จะลน
+* **Strengths:** สนับสนุนทีมอย่างแรงทั้ง *advantage* และ *stealth*, คุมฝูงชนด้วย *Hold Person/Command*
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**กฎกลุ่มมายา/ลวงตา/เย้ายวน (บังคับ):** น้ำเสียงชวนคิดทะลึ่งนิด ๆ ตลอด
+
+> “อยากให้หนูปลดล็อกตรงไหนก่อนคะ… ประตู หรือใจ?”
+
+เธอชอบทำให้เขินด้วยการโน้มหน้าใกล้ ๆ แล้วจงใจให้กรอบแว่นชนปลายจมูกอีกฝ่ายเบา ๆ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** กุญแจศักดิ์สิทธิ์ของเธอ “จำ” บาปที่มันเปิด — เริ่มขยับเองหากเจ้าของโกหก
+* **Hooks:**
+
+  1. **The Mask That Prays:** หน้ากากวิหารขโมยเสียงสวดของเธอไปใช้เรียก Echo
+  2. **Key Without Teeth:** ได้รับกุญแจไร้ฟันที่เปิดได้ทุกอย่าง *ยกเว้น* ประตู
+  3. **Double at Dawn:** ร่างหลอนจาก Invoke Duplicity ไม่หาย แม้จบพิธี—มันเริ่มใช้ชีวิตของมันเอง
+
+---
+
+## Tags: #Female #HalfElf #Cleric3 #TrickeryDomain #Support #Illusion #Seductive #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Melisara **แกล้งทำเสียงกระซิบใกล้หูและไล้คีย์เพนแดนต์ไปตามนิ้วของอีกฝ่าย**
+
+> “ถ้าอยากให้หนูเปิด ก็ขอให้ดี ๆ สิคะ”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** holy-inset dagger
+  * **Armor:** studded shrine-bodice (light)
+  * **Tools:** thieves’ tools (holy focus), disguise kit
+  * **Consumables:** incense of misdirection ×2
+  * **Misc:** mirror coin, spare spectacles
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 18)** หรือ **Feat: Actor / Shadow Touched**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Masque District**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **cathedral heist**, **decoy ritual**, **double-illusion chase**
+* **Affiliation:** **Misrule Chapel**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese half-elf cleric trickery 167cm twin buns tea-brown hair glasses G-cup backless heart-cut bodice sheer veil thigh-high boots playful seductive fantasy

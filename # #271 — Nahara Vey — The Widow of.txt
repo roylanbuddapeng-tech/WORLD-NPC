@@ -1,0 +1,208 @@
+# #271 — **Nahara Vey** — *The Widow of the Withered Grove*
+
+> “Roots drink from the dead, and I… make sure they never run dry.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 271
+* **Gender:** **Female (Type: Tomboy — muscular style)** — confident, blunt, strong-bodied; voice low and husky, with the habit of smirking before she says something morbidly funny.
+* **Age:** 29
+* **Race:** **Other — Tiefling (Necrotic Lineage)** — humanlike 85%; black curved horns, dull silver veins glow faintly beneath skin when she casts, eyes coal-red.
+* **Class & Level:** **Druid (Circle of Spores)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** **Fungal Summoner / Grave Tender / Toxic Herbalist**
+* **Organization:** **Circle of the Withered Grove**
+* **Symbol:** a decaying leaf intertwined with a rib bone.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–Nordic**, striking blend of pale silver skin and sharp dark features.
+
+**Eyes:** deep red with faint glowing edges.
+**Skin:** grayish alabaster with black veins visible on temples.
+
+**Hair (Female Hair Randomizer):** 🎲 **Bob cut (15%) — layered and uneven, shoulder length.**
+**Texture:** wavy and slightly messy.
+**Color:** **black-green gradient**, darker near roots, glowing emerald in dim light.
+
+**Height:** 176 cm
+**Weight:** 69 kg
+**Body Type:** **fit muscular**, broad back, visible abs, and strong thighs.
+
+**FEMALE BODY METRICS (Tomboy muscular style)**
+
+```
+CUP: D   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 92 – 69 – 96
+VALIDATION: • W/B = 0.75 → OK   • H/W = 1.39 → OK
+```
+
+**Sub-Theme:** 🎲 **None (feral drifter)** — self-taught necro-druid, no noble or scholar upbringing.
+
+**Glasses Rule:** none (not nerd/aristocrat).
+
+**Jewelry & Accessories:** bone-tooth necklace, copper bracelets engraved with runic fungus patterns, fungal earrings resembling tiny mushrooms.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium — rugged practical with accent**
+
+Nahara wears a **dark green cropped leather vest**, **open back** exposing the top of her spine where mycelium lines pulse faintly with life.
+Her **pants are blackened hide**, tight and tucked into boots, cut low at the hips for freedom of movement.
+She also wears a **belt of vials and dried fungi**, her tools of summoning rot and rebirth.
+
+**Palette:** moss green / black / bone / muted bronze
+**Accents:** fungus glow, dirt stains, vine embroidery
+
+**Weapons & Gear:**
+
+* *Sickle of Rot (ironbone)*
+* *Mycelium Totem* (focus)
+* *Bag of Spores* (summoning reagent)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **23 HP**
+* **AC:** **15** (leather + DEX + fungal carapace)
+* **Speed:** 30 ft
+* **STR 13 (+1)** **DEX 14 (+2)** **CON 14 (+2)** **INT 11 (+0)** **WIS 16 (+3)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +2, WIS +5
+* **Skills:** Nature +2, Survival +5, Athletics +3, Medicine +5
+* **Languages:** Common, Druidic, Infernal
+
+**Druid (Circle of Spores)**
+
+* **Halo of Spores:** 1d4 necrotic dmg (reaction).
+* **Symbiotic Entity:** expend Wild Shape for fungal armor (8 temp HP + 1d6 dmg bonus).
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Poison Spray, Chill Touch*
+  * *1st–2nd:* *Entangle, Healing Word, Blindness/Deafness, Animate Dead (flavored as fungal animation)*
+
+**Attacks**
+
+* **Sickle of Rot:** +5, 1d6+3 slashing + 1d4 necrotic.
+* **Halo of Spores:** +5, 1d4 necrotic (reaction).
+
+---
+
+## 🎯 Combat Tactics (Summoner / Controller)
+
+* **Role:** **Close-range summoner / battlefield infection**
+* **Opener:** activates **Symbiotic Entity**, charges frontline while scattering spores.
+* **Flow:** uses **Entangle** for control, then animates corpses into fungal thralls.
+* **Finisher:** spreads **Halo of Spores** to infect survivors.
+
+**Flavor:** mushrooms bloom where her enemies fall, growing eyes that blink once before fading.
+
+---
+
+## 💬 Personality
+
+* **Traits:** brash, teasing, sometimes darkly humorous; confident in her strength.
+* **Ideal:** Renewal — “Rot feeds life; death’s the best fertilizer.”
+* **Bond:** a decayed forest that still hums with her druidic touch.
+* **Flaw:** too reckless; tends to test toxins on herself first.
+* **Quirk:** chews dried mushrooms while talking; smirks often.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Veymar Woods — The Withered Grove**
+* **Threat Gradient:** **Deep Echo**
+* **Encounter Framing:** **ritual hunt**, **plague outbreak**, **fungal infestation defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Nahara once worked as a grave tender for an abandoned village, learning that fungus could carry memory as well as decay.
+When she sang to the soil, voices began to answer.
+
+* **Lifestyle:** nomadic, sleeps in root hollows.
+* **Income:** sells antidotes, toxins, and ritual reagents.
+* **Relationships:** occasional ally to Kaien (#269); rival of Velna (#268).
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes morality is irrelevant to the cycle — death is just digestion in a larger body.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** fire; the idea of pure cleansing terrifies her.
+* **Weaknesses:** impulsive, has trouble following orders.
+* **Strengths:** exceptional battlefield endurance and self-sustaining magic.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy tone — แข็งแรงแต่ยั่วแบบตรงไปตรงมา ชอบแหย่ให้คนหน้าแดงโดยไม่รู้ตัว แล้วหัวเราะเบา ๆ หลังจากนั้น**
+
+> “Careful, sweetling—stand too close and you’ll breathe me in.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her fungal colony carries a fragment of an ancient god’s mind.
+* **Hooks:**
+
+  1. **The Blooming Corpse:** a dead hero rises as her unwilling thrall.
+  2. **Plague of Memory:** villagers begin sharing her dreams.
+  3. **Ashfall War:** she must face a paladin who burned her grove.
+
+## Tags: #Female #Tomboy #Tiefling #Druid3 #CircleOfSpores #Summoner #NecromanticNature #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nahara **ชอบทำให้คนเขินด้วยการโน้มตัวเข้าหาเวลาพูด ใกล้จนได้กลิ่นเห็ดป่ากับดินเปียก**
+
+> “Relax. If I wanted to eat you, I’d start from the heart.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** sickle of rot
+  * **Armor:** leather vest
+  * **Tools:** fungus vials
+  * **Consumables:** spore elixirs
+  * **Misc:** mycelium totem
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 18)** or **Feat: Resilient (CON)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Veymar Woods — Withered Grove**
+* **Threat Gradient:** **Deep Echo**
+* **Encounter Type:** **spore storm**, **reanimation surge**, **toxic bloom**
+* **Affiliation:** **Circle of the Withered Grove**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese Nordic female tiefling druid circle of spores tomboy muscular 176cm bob black-green hair red eyes gray skin D-cup athletic leather cropped vest open back fungal tattoos confident smirk necrotic forest fantasy

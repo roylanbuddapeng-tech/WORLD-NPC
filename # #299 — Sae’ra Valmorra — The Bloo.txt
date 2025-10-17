@@ -1,0 +1,206 @@
+# #299 — **Sae’ra Valmorra** — *The Blooming Dagger of the Twilight Court*
+
+> “Perfume or poison — the difference is how long I let you breathe.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 299
+* **Gender:** **Female (Type: ทอมบอย — ห้าวแต่สวย)**
+* **Age:** 26
+* **Race:** **Half-Beast (Corvidan – raven lineage)** — 85% human-like; feathered pattern across shoulders and forearms; eyes reflect faint violet-black sheen.
+* **Class & Level:** **Rogue (Mastermind)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **information broker / infiltration tactician / decoy commander**
+* **Organization:** **The Twilight Court — Thalassara’s covert diplomacy ring**
+* **Symbol:** silver feather split by an eye motif.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Western hybrid** — sharp jawline, cool smoky gaze, posture of a street duelist but movement of a dancer.
+
+**Eyes:** dark violet with bluish shimmer.
+**Skin:** light olive with black feather pattern near clavicles and shoulders.
+
+**Hair (Female Hair Randomizer):** 🎲 **Ponytail (dominant 30%) — high tied, loose strands at temples, slightly messy but stylish.**
+**Color:** **charcoal black fading to metallic blue tips.**
+
+**Height:** **172 cm**
+**Weight:** **63 kg**
+**Body Type:** **athletic feminine**, visible abs, strong legs, moderate bust.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium-Large
+THREE_SIZES (B-W-H, cm): 93 – 67 – 96
+VALIDATION: • W/B = 0.72 → OK   • H/W = 1.43 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **None (30%) — Success.**
+**Glasses Rule:** ❌
+
+**Accessories:** small raven feather earring, dark choker with tiny sapphire gem, black-leather wrist strap with hidden lockpick, utility belt with mirror shards.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Moderate (functional but alluring)**
+
+Sae’ra wears a **short black military vest** open at the collar to reveal faint collarbone tattoo lines, and **tight dark trousers** with silver buckles along the thigh.
+A **half-cape of crow feathers** drapes one shoulder, paired with fingerless gloves.
+When undercover, she swaps to a fitted tuxedo-style blouse that somehow still makes heads turn.
+
+**Palette:** black / gunmetal / blue-silver
+**Weapons & Gear:**
+
+* *Twin daggers “Wing” and “Whisper”*
+* *Mirror smoke bomb ×2*
+* *Disguise kit, Forgery tools, Whisper communicator earpiece.*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **19 HP**
+* **AC:** **16** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 14 (+2)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** Stealth +8, Deception +4, Insight +3, Persuasion +4, Sleight of Hand +6, Investigation +4
+* **Languages:** Common, Auran, Thalassaran Cant
+
+**Rogue (Mastermind) 3**
+
+* **Master of Intrigue:** mimic speech patterns, accents.
+* **Master of Tactics:** *Help* as bonus action (30 ft).
+* **Cunning Action:** dash/disengage/hide bonus.
+* **Sneak Attack (2d6)**.
+
+**Attacks**
+
+* **Dagger (Wing):** +6 to hit, 1d4+4 piercing.
+* **Dagger (Whisper):** +6 to hit, 1d4+4 piercing (bonus off-hand).
+
+---
+
+## 🎯 Combat Tactics (Stealth & Coordination)
+
+* **Role:** **tactical support / infiltrator / commander from shadows**
+* **Opener:** infiltrate disguised; uses *Help* to boost ally’s first strike.
+* **Flow:** read opponent’s habits, counter with feints and dagger throws.
+* **Finisher:** lure target into mirrored alley — strike from reflection angle.
+
+**Damage Flavor:** her daggers slice with a faint shimmer, like slicing through light instead of flesh.
+
+---
+
+## 💬 Personality
+
+* **Traits:** confident, witty, protective toward allies but never admits it.
+* **Ideal:** Loyalty — “A good lie saves more lives than an honest fool.”
+* **Bond:** owes life to the Twilight Court’s matriarch.
+* **Flaw:** underestimates her own emotional depth; hides care behind sarcasm.
+* **Quirk:** taps the hilt of her dagger twice before lying — a subtle tell.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Upper Spire & Whisper Courts**
+* **Threat Gradient:** **Subtle → Political Echo**
+* **Encounter Framing:** **noble infiltration**, **intel exchange**, **mirror duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former street thief turned secret agent, Sae’ra climbed through shadows and politics equally well.
+She commands small rogue cells from rooftops, sometimes sending orders through crows that mimic her voice.
+
+* **Lifestyle:** spartan but with expensive taste in boots.
+* **Income:** guild assignments, infiltration contracts, intelligence trade.
+* **Relationships:** mentor to rookie spy Eryndel (#298).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that every truth can kill someone — so lies are acts of mercy.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** failure leading to betrayal of her crew.
+* **Weaknesses:** easily provoked when friends are mocked.
+* **Strengths:** adaptability, tactical instinct, infiltration mastery.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย tone — cool and teasing:**
+
+> “Don’t follow too close. Unless you like getting caught staring at my back.”
+
+เวลาเขินจะยกมือมาขยี้ผมตัวเองเบา ๆ แล้วพูดประชดกลบเกลื่อน “อย่ามองแบบนั้นสิ ฉันไม่ได้ทำอะไรน่ารักขนาดนั้นหรอก…”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** she once assassinated a noble who later turned out to be her half-brother.
+* **Hooks:**
+
+  1. **Mirror Signal:** her reflection begins acting independently.
+  2. **Crow Whisper:** a Severance entity mimics her voice to issue false orders.
+  3. **The Black Feather Debt:** someone claims to own her “second life.”
+
+---
+
+## Tags: #Female #HalfBeast #Corvidan #Rogue3 #Mastermind #CR1 #Tomboy #Spy #Deception
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Sae’ra **ไม่ชอบให้ใครเข้ามาใกล้โดยไม่ตั้งใจ แต่ถ้าชอบใครจะตั้งใจยั่วแบบตรงไปตรงมา**
+
+> “You’re blushing again. Guess the dagger isn’t the only thing sharp tonight.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** twin daggers
+  * **Armor:** tactical leather vest
+  * **Tools:** disguise kit, forgery tools
+  * **Consumables:** mirror smoke ×2
+  * **Misc:** raven charm, whisper earpiece
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Skulker / Observant**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Twilight Court**
+* **Threat Gradient:** **Subtle → Political Echo**
+* **Encounter Type:** **espionage, disguise infiltration, tactical duel**
+* **Affiliation:** **Twilight Court**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Western female half-beast raven rogue mastermind 172cm high ponytail black blue hair violet eyes D-cup leather vest trousers feather half-cape tomboy athletic stealth fantasy

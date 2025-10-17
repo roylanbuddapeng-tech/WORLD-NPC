@@ -1,0 +1,202 @@
+# #322 — **Faelan “Glassveil” Seraye** — *Lantern-Lie of the Moonstage*
+
+> “If I’m an illusion, darling, why do you still feel warm?”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 322
+* **Gender:** **Male (Femboy — Subtype: Experienced Seducer)** — อ้อนแอ้น ละมุน รู้ตัวและตั้งใจยั่วด้วยคำพูดกำกวมและระยะสายตา
+* **Age:** 21
+* **Race:** **Other — Tiefling (silver-blood)** — ~88% humanlike; small **silver horn nubs** at hairline, faint moon-sheen along clavicles, eyes with mirrored pupils
+* **Class & Level:** **Wizard (School of Illusion) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **stage illusionist / decoy infiltrator / gala misdirectionist**
+* **Organization:** **Thalassara Moonstage Circle — “Glassveil Cabal”**
+* **Symbol:** a hand mirror cracked into a smile
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese idol sleekness** — glossy lips, dewy skin, soft V-line jaw; he moves like choreography.
+
+**Eyes:** mercury-silver with shifting reflections; pupils look like tiny mirrors.
+**Skin:** cool ivory with moonlit sheen at shoulders and throat.
+
+**Hair (Feminine Hair Randomizer for Femboy):** 🎲 **Straight (top frequency)**
+**Style:** **long straight hair with hime bangs**, silky fall to mid-back; a thin silver ribbon threads one side.
+**Color:** **black-ink fading to silver tips.**
+
+**Height:** **160 cm** (femboy cap ≤160)
+**Weight:** **50 kg**
+**Body Build:** **slim, elegant**, swan neck, delicate wrists.
+
+**Glasses Roll (30% for non-nerd female-rule-analog)** 🎲 **success → yes** — **thin half-moon spectacles** with anti-glare sigils that shimmer during spells.
+
+**Jewelry & Accessories:** tiny horn cuffs of silver filigree, crescent choker, ankle chain with two mute bells (cue timing), mirror-lacquer nail gloss.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Very High (artistic, stage couture; non-explicit)**
+
+A **sheer backless illusion-vest** that turns opaque where runic petals drift, **deep-V front** laced by floating silver threads.
+**High-slit silk trousers** reveal slender thigh lines when he spins; a **translucent capelet** halos his shoulders like spilled moonlight.
+Barefoot onstage (anklet bells muted), soft split-soles for streets.
+
+**Palette:** moon-silver / black pearl / soft lilac gleam
+
+**Weapons & Gear:**
+
+* **Crystal wand “Mirrorline”** (arcane focus)
+* **Stiletto hairpin** (concealed)
+* **Pocket prism** (bends light; advantage on one Deception (visual) check/day, DMG flavor)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **13 HP**
+* **AC:** **15** (Mage Armor)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 16 (+3)** **CON 12 (+1)** **INT 16 (+3)** **WIS 12 (+1)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Deception +6, Performance +6, Persuasion +6, Stealth +5, Arcana +5, Insight +3
+* **Languages:** Common, Infernal, Elvish, Thalassaran Cant
+
+**Wizard (School of Illusion) 3**
+
+* **Illusion Savant, Improved Minor Illusion** (image + sound)
+* *(Malleable Illusions at 6th — not yet)*
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * **Cantrips:** *Minor Illusion, Prestidigitation, Mage Hand, Friends*
+  * **1st (4 slots):** *Disguise Self, Silent Image, Charm Person, Mage Armor*
+  * **2nd (2 slots):** *Mirror Image, Invisibility, Phantasmal Force*
+* **Tactics Notes:** combines *Silent Image* + lighting to fabricate bodies/edges; *Phantasmal Force* for single-target lock.
+
+**Attacks (rarely used)**
+
+* **Stiletto Hairpin:** +5 to hit, 1d4+3 piercing (concealed draw)
+
+---
+
+## 🎯 Combat Tactics (Illusion Control / Seductive Misdirection)
+
+* **Role:** **controller / decoy engine / pick-splitter**
+* **Opener:** **Disguise Self** or **Silent Image** to seed false lanes → **Invisibility** reposition.
+* **Flow:** **Mirror Image** to frustrate focus fire; whisper **Phantasmal Force** into the toughest mind.
+* **Finisher:** lure into a “door” that isn’t there; ally ambush while Faelan distracts with a kiss of light.
+
+**Damage Flavor:** illusions shimmer like flakes of mirror; when they break, light rains in silver dust.
+
+---
+
+## 💬 Personality
+
+* **Traits:** confident tease, surgical timing, flirts as a tool and a treat.
+* **Ideal:** Freedom of Perception — “Reality is just shy; I help it dress up.”
+* **Bond:** loyal to the Moonstage crew who taught him light and lies.
+* **Flaw:** addicted to applause; overextends to keep the crowd gasping.
+* **Quirk:** taps his spectacles, then asks “Real enough?” before every big trick.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moonstage, Veil Markets, canal balcony catwalks**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **gala infiltration**, **spotlight duel**, **mirror-maze heist**
+
+---
+
+## 📜 Background & Lifestyle
+
+Runaway shrine boy who learned that kindness and lies can be the same act when used to protect. The Cabal polished him into a weaponized encore.
+
+* **Lifestyle:** narrow loft of mirrors and costume racks; sleeps under stage lamps.
+* **Income:** stage contracts, decoy jobs, “vanish the noble” engagements.
+
+---
+
+## 🧩 Morals & Ethics
+
+He lies to shield, not to steal—unless the target is cruel; then he steals their certainty first.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Echo-silence that swallows light; mirrors that reflect someone else.
+* **Weaknesses:** fragile if caught; concentration break ends the show.
+* **Strengths:** multi-target misdirection, single-target mind lock, escape artistry.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy — Experienced Seducer:**
+
+> “If I stand closer, the trick works better. Breathe with me… yes, like that.”
+
+วิธีทำให้เขิน: เลื่อนแว่นลงนิด แตะริมฝีปากใกล้หูแล้วกระซิบ—
+
+> “Touch to verify, pretty thing. I won’t disappear… yet.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** one of his mirrors shows future applause—without him on stage.
+* **Hooks:**
+
+  1. **The Vanishing Noble:** his decoy job leaves a real noble missing; illusions may have grown teeth.
+  2. **Silver Dust:** Echo zones start copying his **Silent Image** constructs.
+  3. **Kiss of Glass:** a cursed admirer’s kiss turns his duplicates tangible—briefly murderous.
+
+---
+
+## Tags: #Male #Femboy #Tiefling #Wizard3 #SchoolOfIllusion #Illusion #Seduction #Thalassara #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Faelan **steps into personal space, spectacles glinting**
+
+> “Say when… and I’ll stop being a fantasy.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** stiletto hairpin
+  * **Armor:** mage-warded illusion vest (counts as clothes)
+  * **Tools:** pocket prism, disguise kit
+  * **Consumables:** silver dust capsule ×1
+  * **Misc:** crystal wand, mirror compact
+* **Level-Up Suggestions (to 4):** **+2 INT (to 18)** หรือ **Feat: War Caster / Actor**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Moonstage & Veil Markets (Thalassara)**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **mirror-maze heist**, **spotlight duel**, **decoy extraction**
+* **Affiliation:** **Moonstage Circle — Glassveil Cabal**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese femboy male tiefling tiny silver horns wizard illusion 160cm long straight hime bangs black to silver hair glasses very high exposure backless deep V sheer runic threads moon-silver palette mirror magic seductive stage fantasy

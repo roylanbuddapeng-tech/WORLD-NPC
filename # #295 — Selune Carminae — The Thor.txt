@@ -1,0 +1,207 @@
+# #295 — **Selune Carminae** — *The Thorned Masquerade*
+
+> “Every smile is a mask. Mine just fits better than most.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 295
+* **Gender:** **Female (Type: รุ่นพี่)** — ท่าทางมั่นใจ เสียงนุ่มแต่มีอำนาจ เจนโลก และรู้ดีว่าใครกำลังหลงเธอ
+* **Age:** 28
+* **Race:** **Half-Beast (Ravenkin)** — 85% human; faint black feather shimmer along neck and arms, glossy black eyes with violet tint.
+* **Class & Level:** **Rogue (Mastermind)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **spy tactician / masquerade infiltrator / social puppeteer**
+* **Organization:** **The Masque Court of Velandria**
+* **Symbol:** black raven feather tied to a silver mask.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Korean mix** — sharp jawline softened by natural grace, lips that curl like they’re keeping secrets.
+
+**Eyes:** deep violet-black, glossy as obsidian, reflecting candlelight like oil on water.
+**Skin:** pale ivory with feathery undertones of blue-black shimmer on collarbones.
+
+**Hair (Female Hair Randomizer):** 🎲 **Ponytail (weighted top)**
+**Style:** long raven-black ponytail with a loose forelock brushing one cheek.
+**Color:** **midnight black with faint indigo sheen.**
+
+**Height:** **172 cm**
+**Weight:** **61 kg**
+**Body Type:** **slender-athletic**, supple and dancer-like, posture confident and predatory.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 70 – 100
+VALIDATION: • W/B = 0.714 → OK   • H/W = 1.43 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Aristocrat (35%) → Success**
+**Glasses Rule:** ❌ (Aristocrat → optional → not selected).
+Wears instead a delicate half-mask with fine feather filigree.
+
+**Accessories:** silver ear chain, ornate wrist feather ring, gemstone clasp holding her ponytail, a black ribbon choker with tiny sapphire teardrop.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium-High — aristocratic elegance, dangerous grace.**
+
+She wears a **velvet corset dress** with **deep neckline**, and a **slitted side skirt** revealing long toned legs clad in dark stockings.
+A **half-cape of black feathers** cascades from one shoulder.
+Hidden within her garter is a retractable dagger — her “dance partner.”
+
+**Palette:** black / silver / deep violet
+**Weapons & Gear:**
+
+* *Hidden Dagger (“The Whisper-Talon”)* +1, coated in paralytic resin.
+* *Fan of Feathers* (distraction and focus item).
+* *Mask of Mirrors* (adv. on Deception 1/day).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **20 HP**
+* **AC:** **15** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 17 (+3)** **CON 12 (+1)** **INT 14 (+2)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, INT +4
+* **Skills:** Deception +5, Insight +3, Persuasion +5, Stealth +5, Sleight of Hand +5, Perception +3
+* **Languages:** Common, Elvish, Avian Cant
+
+**Rogue (Mastermind) 3**
+
+* **Cunning Action (Bonus Dash/Disengage/Hide)**
+* **Master of Intrigue:** mimic speech, accents, handwriting.
+* **Master of Tactics:** help as bonus action (range 30 ft).
+* **Sneak Attack (2d6)**
+* **Thieves’ Cant:** stylized feather signs and coded speech.
+
+**Attacks**
+
+* **Dagger:** +5 to hit, 1d4+3 piercing + 2d6 sneak
+* **Fan (Improvised):** +5 to hit, 1d4+3 bludgeoning (can deliver poison).
+
+---
+
+## 🎯 Combat Tactics (Tactical Manipulator / Deception Specialist)
+
+* **Role:** **support striker / battlefield tactician / social infiltrator**
+* **Opener:** *Feign weakness → Help ally → Sneak Attack* through distraction.
+* **Flow:** rotates around the battlefield, commanding allies mid-combat.
+* **Finisher:** whispers final instructions to a foe before cutting their throat — “Dance ended.”
+
+**Damage Flavor:** thin feathers slice through the air when she strikes, vanishing like illusions.
+
+---
+
+## 💬 Personality
+
+* **Traits:** refined, teasing, eloquent — weaponized charm.
+* **Ideal:** Control — “Grace is just dominance made beautiful.”
+* **Bond:** loyal to her masquerade troupe; protects them as family.
+* **Flaw:** can’t resist manipulating a conversation to test control.
+* **Quirk:** calls enemies “dear” before delivering a finishing blow.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Velandria — Masque Courts & Sky Opera Hall**
+* **Threat Gradient:** **Stable → Hidden Intrigue**
+* **Encounter Framing:** **masquerade infiltration**, **aristocrat assassination**, **midnight diplomacy**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised in the Ravenkin aristocracy, Selune learned politics and poison before adulthood.
+She now works undercover to dismantle Severance spies within noble ranks.
+
+* **Lifestyle:** luxurious but paranoid.
+* **Income:** noble patronages, black-market information trade.
+* **Relationships:** known associate of Iselra (#293); subtle rivalry with Kaen (#287).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes deception is mercy — truth is too sharp for fragile hearts.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her composure in public.
+* **Weaknesses:** pride; underestimates raw honesty.
+* **Strengths:** social control, rapid reading of emotion, silent coordination.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — confident tease:**
+
+> “Sweetheart, if you want to learn how to survive the Court… start by not blinking when I smile.”
+
+ชอบทำให้คนเขินด้วยการพูดใกล้ ๆ พร้อมลากปลายนิ้วจากคางลงถึงกระดูกไหปลาร้า แล้วแกล้งหัวเราะเบา ๆ อย่างเหนือกว่า
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her noble bloodline descends from a fallen archspy of the Severance.
+* **Hooks:**
+
+  1. **The Mask Broker:** her own disguise appears at a crime scene.
+  2. **Velandrian Waltz:** an assassin copies her every move mid-duel.
+  3. **Feather Pact:** her ravenkin traits begin to spread uncontrollably.
+
+---
+
+## Tags: #Female #HalfBeast #Ravenkin #Rogue3 #Mastermind #CR1 #Spy #Masquerade
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Selune **ชอบทำให้เขินด้วยการแกล้งออกคำสั่งเบา ๆ ระหว่างเข้าใกล้เกินระยะปกติ เช่น “อย่าหายใจแรงสิ มันร้อนขึ้นนะ”**
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** whisper-talon dagger, feather fan
+  * **Armor:** corset dress (treated as studded leather)
+  * **Tools:** disguise kit, poisoner’s kit
+  * **Consumables:** paralytic resin ×2, smoke vial ×1
+  * **Misc:** masquerade pass, hidden coin charm
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 19)** or **Feat: Skulker / Observant**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Velandria — Masque Courts & Sky Opera Hall**
+* **Threat Gradient:** **Stable → Hidden Intrigue**
+* **Encounter Type:** **royal infiltration**, **spy unmasking**, **masquerade ambush**
+* **Affiliation:** **Masque Court Intelligence**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Korean female half-raven rogue mastermind 172cm ponytail black hair violet eyes F-cup deep neckline velvet corset slit dress black feathers stockings elegant dangerous masquerade fantasy

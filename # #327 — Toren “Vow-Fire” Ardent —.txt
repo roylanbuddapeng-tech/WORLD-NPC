@@ -1,0 +1,191 @@
+# #327 — **Toren “Vow-Fire” Ardent** — *Hammer Psalm of the Night Steps*
+
+> “I don’t pray for victory. I promise it—then keep the promise.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 327
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น พูดสั้นแต่ศรัทธาแรง
+* **Age:** 32
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Barbarian (Path of the Zealot) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **frontline vow-keeper / shrine guardian / Echo smite hunter**
+* **Organization:** **Valeronnes Dawnward Order**
+* **Symbol:** ค้อนทับเปลวไฟเล็กสามดวงล้อมด้วยวงแสง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Greek rugged** — straight nose, deep calm eyes, sun-cut cheekbones; presence like a lit brazier in rain.
+
+**Eyes:** iron-blue with a faint ember ring when Rage stirs.
+**Skin:** olive-tan, ritual scar over left clavicle (sigil of promise).
+
+**Hair (Male Randomizer):** **Short, swept-back** with tight sides; practical and disciplined.
+**Color:** **charcoal black** with **ember-brown** flecks near the temples.
+
+**Height:** **183 cm**
+**Weight:** **82 kg**
+**Body Build:** **athletic-muscular**, broad shoulders, tempered core.
+
+**Accessories (glasses roll 30% → fail):** no glasses. Wears a **braided leather vow-band** on the right wrist, **iron rosary-ring** on thumb, and a small **sun-steel pendant** tucked under shirt.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male rule):** **Low — functional battle wear**
+
+A **smoke-steel breastplate** engraved with fine hymn lines over a **sand-gray gambeson**, **leather pauldrons** stitched with sun motifs, and **split riding trousers** for lunges. **Boots** have hobnails for wet stone. A **short dusk cloak** pins flat to avoid grabs.
+
+**Palette:** smoke steel / sand gray / dusk blue / sun-gold trim
+**Weapons & Gear:**
+
+* **Maul “Promise-Breaker”** (two-handed hammer with sun-sigil head)
+* **Javelin ×3** (etched fletch lines)
+* **Ritual salts**, **shrinestring**, **rope 50 ft**, **field kit**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 = **33 HP**
+* **AC:** **16** (breastplate 14 + DEX +2)
+* **Speed:** **40 ft**
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Intimidation +2, Religion +2, Perception +3
+* **Languages:** Common, Celestial, Thalassaran Cant
+
+**Barbarian 3 — Path of the Zealot**
+
+* **Rage (2/long rest):** +2 damage; resistance to B/P/S
+* **Divine Fury:** first creature you hit on each of your turns while raging takes **+1d6 + 2** **(necrotic or radiant)**
+* **Warrior of the Gods:** being raised from the dead is cheaper/easier (no expensive components)
+* **Reckless Attack**, **Danger Sense**, **Unarmored Defense** (not used; armored build)
+
+**Attacks**
+
+* **Maul (2h):** +6 to hit, **2d6+4** bludgeoning (**+2** Rage; **+1d6+2** radiant/necrotic once/turn via Divine Fury)
+* **Javelin (20/60):** +6 to hit, **1d6+4** piercing (**+2** Rage)
+
+---
+
+## 🎯 Combat Tactics (Holy Bruiser / Anchor)
+
+* **Role:** **front-line beater / anchor vs. big targets**
+* **Opener:** **Rage** → **Reckless Attack** on priority threat; **Divine Fury** smites through resistances.
+* **Flow:** body-block lanes; javelin tag runners; keep pressure so casters work safely.
+* **Finisher:** hammer head drops like a bell toll; radiant sparks arc across wet stone.
+
+**Damage Flavor:** when Divine Fury procs, pale sun-runes flare along the maul’s haft, ringing like a distant hymn.
+
+---
+
+## 💬 Personality
+
+* **Traits:** เงียบ สุภาพ แน่วแน่; ให้เกียรติศัตรูที่กล้าหาญ
+* **Ideal:** Vow — “คำสาบานคือเหล็กที่ตีในไฟใจ”
+* **Bond:** ปกป้องศาลเล็กริมรางแก้วที่ชุมชนพึ่งพา
+* **Flaw:** ดื้อกับคำสาบานของตน—ไม่ยอมถอนแม้สถานการณ์เปลี่ยน
+* **Quirk:** เคาะหัวค้อนหนึ่งครั้งก่อนสู้เหมือน “เคาะระฆัง”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, shrine steps, canal gates**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **gate hold vs. surge**, **duel before shrine**, **escort through Echo-hushed lanes**
+
+---
+
+## 📜 Background & Lifestyle
+
+อดีตเด็กศาลบากเหล็ก เขาผูกคำสาบาน “ยืนก่อนคนอื่นล้ม” คืนหนึ่งเขาอุ้มผู้บวชหนุ่มฝ่ากระแส Echo ได้สำเร็จ—ตั้งแต่นั้นค้อนของเขาจึงร้องเพลง
+
+* **Lifestyle:** ห้องเล็กใกล้บันไดศาล; โคมไฟ น้ำมนต์ เหล็กบูชา
+* **Income:** เงินเดือนยามศาล, ค่าคุ้มกัน, สัญญาล่าที่เกี่ยวกับ Echo
+
+---
+
+## 🧩 Morals & Ethics
+
+ช่วยก่อนถามเสมอ ถ้าผิดค่อยชดใช้—แต่ห้ามผิดซ้ำ
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่ Echo “ตัดเสียงระฆัง” — หมายถึงศาลขาดการคุ้มครอง
+* **Weaknesses:** ไม่มีเครื่องมือคุมฝูงมาก; เสี่ยงโดน focus fire เมื่อใช้ Reckless
+* **Strengths:** ดาเมจต่อเทิร์นสูงสม่ำเสมอ, ทะลุแนวด้วยแรงล้วน, ใจไม่แกว่ง
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — สุภาพนิ่ง แต่ทำให้เขินด้วยความอุ่นใจ:**
+
+> “ยืนหลังผมไว้ ต่อให้โลกเงียบ ค้อนผมยังดังให้คุณได้ยิน.”
+
+มือใหญ่ประคองหัวไหล่แน่นพอดีแล้วพยักหน้า “พร้อมแล้วไปด้วยกัน”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** vow-band ของเขาเรืองแสงเมื่อเขา “คิดโกหก” แม้แค่อยากปลอบ—แปลว่ามีใครคอยตรวจคำสาบานเขาอยู่
+* **Hooks:**
+
+  1. **Bell Without Sound:** ระฆังศาลหยุดดัง—เขาต้องหาคนที่ “ขโมยเสียง” คืน
+  2. **Promise Debt:** คนที่เขาเคยสาบานปกป้องกลับกลายเป็นภัย—จะหักคำสาบานหรือยื้อทางอื่น
+  3. **Sun-Salt Rite:** เกลือศักดิ์สิทธิ์เริ่มละลายเองในมือเขา—สัญญาณของพิธีที่ใหญ่เกินตัว
+
+---
+
+## Tags: #Male #Human #Barbarian3 #Zealot #Frontline #SmiteRage #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Toren **ยื่นมือให้จับก่อนบุก**
+
+> “กำให้แน่น—ผมปล่อยเมื่อคุณปลอดภัยเท่านั้น.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** maul, 3× javelins
+  * **Armor:** breastplate
+  * **Tools:** shrine kit, rope
+  * **Consumables:** ritual salts ×1, poultice ×2
+  * **Misc:** vow-band, sun-steel pendant
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Great Weapon Master / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Shrine steps & canal gates (Valeronnes)**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **gate hold**, **shrine duel**, **surge escort**
+* **Affiliation:** **Dawnward Order**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Greek male human barbarian zealot 183cm short swept-back charcoal hair athletic muscular smoke-steel breastplate maul sun-sigils dusk cloak shrine steps rain night fantasy

@@ -1,0 +1,190 @@
+# #341 — **Nyx “Frost-Tide” Valeo** — *Sugar-Tease of the Tundra Surge*
+
+> “Want to warm up? Stand closer… closer—there. Feel the hush?”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 341
+* **Gender:** **Male (Type: เฟมบอย — innocent-tease subtype)** — อ้อนแอ้น เย้ายวน พูดกำกวม ทำให้คนหน้าแดงเป็นงานอดิเรก
+* **Age:** 20
+* **Race:** **Half-Beast (mammal — river otter lineage)** — มนุษย์ ~88%; เยื่อบาง ๆ ระหว่างนิ้ว, เงาผมลื่นน้ำ, แววตาขี้เล่น
+* **Class & Level:** **Barbarian (Path of the Storm Herald — Tundra) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **canal-rescue runner / surge support skirmisher / crowd-calmer**
+* **Organization:** **Thalassara Tidewatch — Frost Relay**
+* **Symbol:** เกล็ดหิมะเล็กบนคลื่นจันทร์
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese soft glam** — delicate features, glossy lips, wide innocent gaze that turns sly when he smiles.
+
+**Height:** **158 cm** (femboy rule ≤160) **Weight:** **49 kg**
+**Body Build:** **slender-elegant (no chubby)** — dancer lines, smooth shoulders, tight waist.
+
+**Hair (feminine set for femboy — randomized):** **Twin buns (odango) with trailing ribbons**, silky **espresso-brown with cool ash tips**; wispy bangs frame soft cheeks.
+**Eyes:** deep mocha with lilac frost rings when his aura stirs.
+**Skin:** porcelain with a cool dew sheen; fingertips a shade rosy-pink.
+
+**Jewelry & Accessories (femboy uses feminine pool):** **silver tear-drop earrings**, **crystal choker** (tuned to aura), **slender bangles**, and a **charm anklet** with tiny bells. **Glasses roll (non-nerd male baseline 30%) → success:** **round, clear spectacles** that make his eyes look even bigger.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (femboy exception):** **High** — cut for mobility and tease
+
+A **frost-white cropped bolero** with **open back** and fur-trim collar, over a **sheer indigo mesh top** that hints at clavicle lines. **High-cut split skirt-shorts** (skort) reveal toned thighs when he darts along rails, paired with **opaque thigh-highs** and **soft-sole calf boots** for wet stone. A **short moon-silk half-cloak** drapes asymmetrically to break silhouette.
+
+**Palette:** frost white / indigo / lilac sheen / silver crystal
+
+**Weapons & Gear:**
+
+* **Shortspear “Otterbite”** (river-etched ferrule)
+* **Scimitar** (sleek, river-curve)
+* **Dagger** (boot)
+* **Rescue coil rope 50 ft**, **grapnel**, **echo-salt**, **smoke bead ×1**, **warming salve**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +2)×3 = **31 HP**
+* **AC:** **15** (Unarmored Defense: 10 + **DEX 16 (+3)** + **CON 14 (+2)**)
+* **Speed:** **40 ft**
+* **STR 16 (+3)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Acrobatics +5, Athletics +5, Performance +4, Persuasion +4, Perception +3
+* **Languages:** Common, Thalassaran Cant
+
+**Barbarian 3 — Path of the Storm Herald (Tundra)**
+
+* **Rage (2/long rest):** +2 damage; resistance to B/P/S
+* **Reckless Attack**, **Danger Sense**, **Unarmored Defense**
+* **Storm Aura (Tundra):** while raging, as a **bonus action**, each turn **choose creatures in your 10-ft aura** (including allies) to gain **temp HP = 2 + your barb level (5)** — frosty hush spreads from his steps.
+
+**Attacks**
+
+* **Shortspear (1h/2h, thrown 20/60):** +5 to hit, **1d6/1d8+3** piercing (**+2** while Raging)
+* **Scimitar (finesse; using STR for Rage bonus):** +5 to hit, **1d6+3** slashing (**+2** Rage)
+* **Dagger:** +5 to hit, **1d4+3** piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Support Skirmisher / Temp-HP Battery)
+
+* **Role:** **mobile support / peel & tease**
+* **Opener:** **Rage** → pop **Tundra Aura** to hand out **temp HP 5**; flit to the edge of melee with **shortspear** pokes.
+* **Flow:** **Reckless** only when drawing eyes off allies; keep aura pulsing each round; use **scimitar** for fast feints on tight rails.
+* **Finisher:** ankle-hook with spear butt → breathy “hush”—then clean slash to end the surge.
+
+**Damage Flavor:** frost-petals swirl at his ankles; when aura blooms, breath clouds in cute puffs as wounds numb.
+
+---
+
+## 💬 Personality
+
+* **Traits:** ขี้เล่น อ้อน อิงแขน • ใจดีและกล้าช่วยบนรางลื่น
+* **Ideal:** Comfort — “ทำให้ไฟต์นุ่มเหมือนผ้าห่ม”
+* **Bond:** ทีมกู้ภัย Tidewatch; ติดนิสัยผูกริบบิ้นสีให้เด็ก ๆ ที่ช่วยไว้
+* **Flaw:** ชอบยั่วเกินเหตุ ทำให้ศัตรูหัวร้อนมุ่งมาใส่ตัวเอง
+* **Quirk:** สะบัดข้อเท้าให้กระดิ่งที่ข้อเท้าดังเบา ๆ ก่อนสปรินต์—เป็นสัญญาณ “ตามฉันมา~”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — moon canals, frost-slick lock stairs, rescue rails**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **surge rescue escort**, **narrow-rail skirmish**, **riot calm with chilling aura**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกช่างประมงคลองน้ำเย็น—เขาวิ่งส่งน้ำอุ่นให้คนล้มป่วยยามพายุ จนคืนหนึ่ง “ลมหายใจเย็น” ของเมืองตอบรับเท้าเบา ๆ ของเขา กลายเป็นออร่าหนาวที่ปลอบสติผู้คน เขาถูกดึงเข้าหน่วย **Frost Relay** เพื่อทำให้ไฟต์ “อุ่นใจแม้อยู่ท่ามกลางหิมะ”
+
+* **Lifestyle:** ห้องน้อยบนสะพานไม้ มีผ้าคลุมฟู ๆ และริบบิ้นกองโต
+* **Income:** ค่าเวรกู้ภัย, โบนัสคืน Echo, ทิปจากชาวบ้านที่เขาโอบผ้าห่มให้
+
+---
+
+## 🧩 Morals & Ethics
+
+**“เย็นเพื่อลดเลือดร้อน”** — เขาเลือกทำให้เจ็บน้อยและจบไว พูดกลั้วหัวเราะเพื่อลดความกลัวของทุกคน
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่ “ไอเย็น” ไม่เกิด—หมายถึง Echo กินความอบอุ่นไปแล้ว
+* **Weaknesses:** ตัวบาง ถ้าถูก focus โดยไม่แจก temp HP จะบอบบาง
+* **Strengths:** **แจก temp HP ทุกเทิร์นขณะ Rage**, ความเร็วสูง 40 ft, ล่อไฟอย่างชำนาญ
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy — innocent tease:**
+
+> “มือคุณเย็นจัง… ให้ผมจับไว้ให้อุ่นดีไหม? อ๊ะ—อย่าปล่อยนะ เดี๋ยวลื่น~”
+
+เวลาพูดจะกระซิบใกล้หู ใช้คำกำกวมจนอีกฝ่ายหน้าแดง แล้วหัวเราะแผ่ว ๆ ก่อนลากมือพาข้ามราง
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** คริสตัลช็อคเกอร์ของเขาเก็บ “ไออุ่นหนึ่งนาที” จากวงนักร้องเด็ก—เปิดใช้แล้วกันความกลัวเป็นศูนย์
+* **Hooks:**
+
+  1. **Hush the Riot:** ต้องพาเด็ก ๆ ผ่านสะพานเงียบด้วยออร่าหนาว—ศัตรูจะหัวร้อนและไล่เขาแทนทีม
+  2. **Ribbon Debt:** ริบบิ้นที่ผูกไว้บนราวเริ่ม “ขึ้นน้ำแข็งเอง”—ชี้เส้นลับไปยังคลังของผู้ร้าย
+  3. **Cold That Cares:** มีผู้ทดลองแย่งออร่าหนาวจากตัวเขา—ถ้าสำเร็จ เมืองจะไม่มี “ไอเย็นปลอบใจ” อีก
+
+---
+
+## Tags: #Male #Femboy #HalfBeast #Otter #Barbarian3 #StormHeraldTundra #SupportSkirmisher #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nyx **สอดแขนเกี่ยวข้อมือแล้วดึงให้วิ่งตาม**
+
+> “วิ่งข้าง ๆ ผมนะ—จะได้อุ่นกันทั้งคู่ ♥”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** shortspear, scimitar, dagger
+  * **Armor:** Unarmored Defense (fashion layers only)
+  * **Tools:** rescue rope & grapnel
+  * **Consumables:** smoke bead ×1, warming salve ×1, echo-salt ×1
+  * **Misc:** crystal choker, ankle bells, ribbon kit
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 18)** หรือ **Feat: Mobile / Defensive Duelist**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Frost-slick lock stairs & moon canals**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **rescue escort**, **rail skirmish**, **riot calm with aura**
+* **Affiliation:** **Tidewatch — Frost Relay**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male femboy half-beast otter barbarian storm herald tundra 158cm twin buns ash-tipped brown hair round glasses high exposure cropped bolero mesh top thigh-highs shortspear scimitar frosty aura moon canal night fantasy

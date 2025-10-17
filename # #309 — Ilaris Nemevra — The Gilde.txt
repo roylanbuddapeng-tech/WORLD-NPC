@@ -1,0 +1,193 @@
+# #309 — **Ilaris Nemevra** — *The Gilded Eye*
+
+> “Truth is a luxury I sell to those who can afford it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 309
+* **Gender:** **Female (Type: รุ่นพี่)** — สุขุม แต่มีเสน่ห์แบบคนที่ผ่านโลกมาเยอะ รู้ทันแต่ไม่พูดหมด
+* **Age:** 29
+* **Race:** **Half-Beast (avian — raven lineage)** — ~87% humanlike; sleek black feathers line her shoulders, faint wing marks shimmer when sunlight hits her back.
+* **Class & Level:** **Rogue (Inquisitive)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **Investigator / Court Interrogator / Espionage Analyst**
+* **Organization:** **Thalassara Intelligence Bureau (TIB)**
+* **Symbol:** an open raven eye circled by a whispering ribbon
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **European–Asian hybrid (French–Japanese influence)** — refined, poised, subtly intimidating beauty.
+
+**Eyes:** obsidian black with faint gold rings.
+**Skin:** ivory with soft shimmer along cheekbones.
+
+**Hair (Female Hair Randomizer):** 🎲 **Bob cut (15%) → result: yes**
+**Style:** **sleek short bob**, sharp at jawline, slightly curved inward; one strand always tucked behind her ear.
+**Color:** **dark violet-black with faint gold streaks under light.**
+
+**Height:** **172 cm**
+**Weight:** **60 kg**
+**Body Type:** **fit and elegant**, not overly muscular, sculpted curves visible under light armor.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 102 – 70 – 104
+VALIDATION: • W/B = 0.686 → OK   • H/W = 1.48 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Nerd (success 35%)**
+**Glasses Rule:** automatic yes (nerd theme) — thin silver frame lenses with arcane glint when focusing.
+
+**Jewelry & Accessories:** lapis ear cuff, data monocle charm on chain, engraved raven feather pendant.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium (fitted elegance)**
+
+Wears a **dark indigo longcoat** over a **tight silk vest** with **v-neck and fitted waist**, tailored for both beauty and concealment. **Leather leggings** tucked into heeled tactical boots, belt carrying hidden blade cases.
+A **short capelet** rests on her shoulders, lined with runic stitching.
+
+**Palette:** indigo / gunmetal / gold trim / white glint
+**Weapons & Gear:**
+
+* **Hidden rapier “Whisper’s Edge” (+1)**
+* **Dagger x2 (concealed under coat)**
+* **Lens of Insight (advantage on Investigation once/day)**
+* **Thieves’ tools, disguise kit, coded dossiers**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **20 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 14 (+2)** **WIS 15 (+2)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** Investigation +6, Insight +6, Perception +4, Stealth +6, Persuasion +4, Sleight of Hand +6
+* **Languages:** Common, Auran, Thalassaran Cant
+
+**Rogue (Inquisitive) 3**
+
+* **Ear for Deceit:** treat Insight rolls <8 as 8.
+* **Eye for Detail:** bonus action to spot hidden or analyze clues.
+* **Insightful Fighting:** use Insight vs. target’s Deception for **Sneak Attack** without advantage.
+* **Sneak Attack (2d6)**, **Cunning Action**, **Thieves’ Cant**
+
+**Attacks:**
+
+* **Rapier (+1):** +7 to hit, 1d8+5 piercing (+2d6 Sneak Attack)
+* **Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics (Analytical Rogue)
+
+* **Role:** **Investigator / counter-rogue / deception killer**
+* **Opener:** use Insightful Fighting on hidden threats; calls out weaknesses.
+* **Flow:** attacks from calculated vantage, flanks only when certain.
+* **Finisher:** feint + riposte with rapier through exposed armor joint.
+
+**Damage Flavor:** precision strikes guided by flashes of intuition, feather shadows flare briefly at each motion.
+
+---
+
+## 💬 Personality
+
+* **Traits:** articulate, curious, quietly seductive; questions pierce deeper than they sound.
+* **Ideal:** Truth — “Lies are beautiful traps. I prefer ugly honesty.”
+* **Bond:** loyal to her TIB partner, code-named *Crow Nine*.
+* **Flaw:** can’t resist probing people’s secrets.
+* **Quirk:** hums while solving puzzles — same melody each time.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Court Archives / Glass Vault**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **espionage investigation**, **trial cross-examination**, **interrogation gone wrong**
+
+---
+
+## 📜 Background & Lifestyle
+
+A scholar turned intelligence agent; she exposed three Severance spies within the court by analyzing music notations that carried coded messages.
+
+* **Lifestyle:** penthouse apartment stacked with files and rare books.
+* **Income:** noble stipend + espionage bonuses.
+* **Relationships:** close with Dr. Cassia (consultant); rumored past with one of the Seven’s aides.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes truth is the sharpest weapon — and that wielding it properly is an art.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her ability to discern lies.
+* **Weaknesses:** emotionally distant; self-isolates.
+* **Strengths:** logic under pressure, lie detection, combat through analysis.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — คมแต่ใจดี:**
+
+> “You can stop pretending. Your eyes gave it away three questions ago.”
+
+เธอชอบให้คนเขินโดยขยับแว่นช้า ๆ แล้วมองตรง
+
+> “You’re lying… and I can tell you enjoyed it.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** keeps an enchanted record of every lie she’s ever told—each replay costs her a memory.
+* **Hooks:**
+
+  1. **Feathered Cipher:** a coded ledger reveals corruption in the Bureau.
+  2. **The Fourth Question:** a truth she cannot ask without killing someone.
+  3. **Silent Partner:** her ex-partner returns… but as a Severance Echo.
+
+---
+
+## Tags: #Female #HalfBeast #Raven #Rogue3 #Inquisitive #CR1 #Investigation #IntelligenceBureau #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ilaris **ชอบกดดันคนด้วยคำถามต่อเนื่องจนหน้าแดง ก่อนค่อยยิ้มให้นิด ๆ**
+
+> “You’re adorable when cornered.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory:** rapier +1, daggers x2, thieves’ tools, disguise kit, lens of insight
+* **Level-Up Suggestion (to 4):** **+2 DEX (to 20)** or **Feat: Observant**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Japanese female half-beast raven rogue inquisitive 172cm bob dark violet black hair gold streaks F-cup indigo longcoat glasses elegant investigator stylish fantasy

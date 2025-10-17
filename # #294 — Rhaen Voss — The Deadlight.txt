@@ -1,0 +1,196 @@
+# #294 — **Rhaen Voss** — *The Deadlight Caller*
+
+> “The dead aren’t silent. They’re just waiting for someone who listens.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 294
+* **Gender:** **Male (Type: วัยกลางคน)** — น้ำเสียงทุ้มต่ำ เยือกเย็นแต่ชวนฟัง เหมือนเสียงคลื่นที่ซัดเข้าฝั่งยามดึก
+* **Age:** 39
+* **Race:** **Human (Skarnov descent)** — faint metallic hue in iris; symbol of his forgeborn bloodline.
+* **Class & Level:** **Monk (Way of the Long Death)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **death monk / grave watcher / Severance warden**
+* **Organization:** **The Mortis Aerie — Skarnov’s Silent Monastery**
+* **Symbol:** a black spiral curling inward to a still point.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Arabic–Greek hybrid** — deep olive skin, refined bone structure, long-lashed calm eyes.
+
+**Eyes:** iron gray, reflective like tempered metal.
+**Skin:** sun-warmed bronze, faint silver tattoos tracing vital lines along his arms.
+
+**Hair (Male-set Randomizer):** 🎲 **Medium (35%)**
+**Style:** loose layers brushed back, a few strands fall over forehead.
+**Color:** **iron-black with faint bronze shine.**
+
+**Height:** **183 cm**
+**Weight:** **82 kg**
+**Body Build:** **athletic-monk**, compact muscle, elegant posture.
+
+**Accessories:** simple steel prayer beads wrapped around the left wrist, bone ring carved with his monastery’s spiral sigil, faint incense scent that never fades.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Rule:** (Male → non-exposure functional)
+
+He wears **ashen monk wraps**—a sleeveless tunic with layered black sashes and a deep hood.
+A **long coat of woven burial cloth** serves as both robe and shroud.
+Barefoot, toes bandaged; each step nearly soundless.
+
+**Palette:** charcoal / sand / silver-gray
+**Weapons & Gear:**
+
+* *Monk fists* (unarmed strike focus)
+* *Iron prayer beads* (monastic implement, doubles as flail 1d6 dmg)
+* *Vial of Severance ash* (ritual reagent, single use).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 = **24 HP**
+* **AC:** **16** (DEX + WIS + monk defense)
+* **Speed:** **40 ft**
+* **STR 12 (+1)** **DEX 17 (+3)** **CON 14 (+2)** **INT 11 (+0)** **WIS 16 (+3)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +5
+* **Skills:** Insight +5, Religion +2, Medicine +5, Stealth +5, Acrobatics +5
+* **Languages:** Common, Celestial, Skarnov Cant
+
+**Monk (Way of the Long Death) 3**
+
+* **Martial Arts (1d4)**, **Ki Points (3)**
+* **Deflect Missiles**, **Slow Fall**, **Unarmored Movement**
+* **Touch of Death:** gain temp HP when killing; aura of mortality (fear vs dying).
+
+**Attacks**
+
+* **Unarmed Strike:** +5 to hit, 1d4+3 bludgeoning
+* **Beads Flail:** +5 to hit, 1d6+3 bludgeoning
+* **Flurry of Blows:** 2 bonus strikes per Ki; each adds necrotic resonance (flavor).
+
+---
+
+## 🎯 Combat Tactics (Necrotic Control / Silent Striker)
+
+* **Role:** **melee controller / fear debuffer**
+* **Opener:** *Flurry of Blows* on the weakest; gains temp HP via **Touch of Death**.
+* **Flow:** alternates strikes and disengage; channels stillness to intimidate.
+* **Finisher:** grapples a dying foe, whispering their final word to still their heart.
+
+**Damage Flavor:** with each hit, gray motes of ash drift out as if souls were sighing free.
+
+---
+
+## 💬 Personality
+
+* **Traits:** quiet, reverent, philosophical about mortality.
+* **Ideal:** Acceptance — “Death is not defeat; it is the last breath of balance.”
+* **Bond:** his monastery’s vow to contain Severance spirits.
+* **Flaw:** compassion delays his killing strike; believes everyone deserves a calm death.
+* **Quirk:** murmurs the name of every life he ends.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — The Mortis Aerie**
+* **Threat Gradient:** **Deep Echo → Severance-corrupted**
+* **Encounter Framing:** **grave purification**, **duel in silence**, **death ritual defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Rhaen once served as a Skarnov soldier; he turned monk after watching an entire battalion consumed by Severance.
+He now guards the boundary between life and the dead rivers.
+
+* **Lifestyle:** ascetic, lives in solitude above salt flats.
+* **Income:** monastery stipend, offerings for peaceful funerals.
+* **Relationships:** mentor to young monks; quietly respects Lyra (#1).
+
+---
+
+## 🧩 Morals & Ethics
+
+He sees death not as punishment, but release. Killing cruelly is blasphemy; killing cleanly is mercy.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing emotional detachment and striking in anger.
+* **Weaknesses:** cannot harm the dying easily.
+* **Strengths:** unyielding calm, immense self-control, mastery of necrotic resonance.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — serene, grounding presence:**
+
+> “You tremble because you still live. That’s good—life should resist me.”
+
+มักทำให้คนเขินโดยการพูดใกล้ ๆ แล้วแตะไหล่เบา ๆ อย่างสงบ แต่สายตาเข้มจนใจเต้นแรงโดยไม่รู้ตัว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his monastery secretly channels Severance energy to preserve their immortality.
+* **Hooks:**
+
+  1. **The Silent Mass:** a town stops dying entirely; he investigates.
+  2. **Ash Covenant:** his master’s spirit whispers to end all life in the valley.
+  3. **A Breath Unbroken:** a Severance phantom mimics his movements at night.
+
+---
+
+## Tags: #Male #Human #Monk3 #WayOfTheLongDeath #CR1 #Necrotic #SilentMonk #Skarnov
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rhaen **ทำให้คนเขินโดยไม่ตั้งใจ ด้วยความสงบที่หนักแน่นและน้ำเสียงทุ้มลึกที่ชวนรู้สึกปลอดภัยผิดที่ผิดเวลา**
+
+> “Calm your pulse. Death listens best when the heart slows.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** iron prayer beads, unarmed focus
+  * **Armor:** monk wraps
+  * **Tools:** incense set, funerary knife
+  * **Consumables:** Severance ash vial ×1
+  * **Misc:** record of fallen names
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 18)** or **Feat: Sentinel / Observant**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov — Mortis Aerie Monastery**
+* **Threat Gradient:** **Deep Echo → Severance-corrupted**
+* **Encounter Type:** **grave defense**, **spirit purge**, **Severance ritual duel**
+* **Affiliation:** **Monks of the Long Death**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Arabic Greek male human monk way of long death 183cm medium iron-black hair bronze skin gray eyes athletic robe charcoal silver prayer beads necrotic aura serene expression

@@ -1,0 +1,198 @@
+# #364 — **Taejin “Rail-Lancer” Rhee** — *Curve the Charge, Hold the Line*
+
+> “Angles win fights. I’ll draw you the safe one.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 364
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น สั่งการหน้างานนิ่ง ๆ แต่มั่นใจ
+* **Age:** 31
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Cavalier) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **mounted escort captain / lance pivot / pike-line anchor**
+* **Organization:** **Valeronnes Rail Wardens — Spur Cohort (Blue Shift)**
+* **Symbol:** เสี้ยวสเปอร์บนรางแก้ว พร้อมเส้นโค้งเวกเตอร์ชี้เข้าช่องปลอดภัย
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese cavalry discipline** — still eyes, rider’s posture, a quiet authority that settles skittish crowds.
+
+**Height:** **181 cm** **Weight:** **80 kg**
+**Body Build:** **athletic–muscular** (rider’s thighs, strong core).
+
+**Hair (Male Randomizer):** **Short**, **high fade with a clean hard side part**; rain-slick, helm-friendly.
+**Color:** **raven black with cool gunmetal lowlights**.
+**Eyes:** dark umber; narrow when he sets a charge line.
+**Skin:** fair-olive, wind-browned along cheekbones.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **steel bit-pendant**, **rein-wrapped wristlets**, and a **rail token** hidden under the collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional mounted spear kit**
+
+A **brushed-steel breastplate** over an **indigo gambeson**, **reinforced bracers**, and **split guard-trousers** for saddle work and sliding dismounts on glass. **Soft-sole cavalry boots** bite the rail. A **short storm-cloak** pins tight so it never blinds the mount. A **sling scabbard** carries the pike when dismounted.
+
+**Palette:** steel / indigo / charcoal / dull brass
+
+**Weapons & Gear:**
+
+* **Lance “Rail-Lancer”** (etched charge geometry, rain-wicking fuller)
+* **Pike** (reach 10 ft; dismounted lane-hold)
+* **Shield** (glass-inset boss)
+* **Longsword**, **Dagger**, **Light crossbow** + 20 bolts
+* **Silk rope 50 ft**, **manacles**, **chalk anchors**, **echo-salt**, **smoke bead ×1**
+* **Mount:** **Warhorse** (shoed for glass; RAW *Warhorse* stat)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** **30 ft** (foot) • **Warhorse 60 ft** (mounted)
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +4
+* **Skills:** Athletics +6, Animal Handling +3, Perception +3, Insight +3, Persuasion +2
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Cavalier**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Bonus Proficiency:** **Animal Handling**
+* **Born to the Saddle:** advantage vs. being dismounted; mount/dismount uses **5 ft** move
+* **Unwavering Mark:** เมื่อคุณโจมตีติด **melee**, คุณ **ทำเครื่องหมาย** เป้าหมาย; หากมันตีคนอื่นจะ **disadvantage** จนจบเทิร์นถัดไปของคุณ และคุณทำ **bonus-action melee attack** เพิ่มใส่มันได้ (**+2** dmg ครั้งนั้น)
+
+**Attacks**
+
+* **Lance (mounted, reach 10 ft):** +6 to hit, **1d12+4** piercing (*disadvantage if target ≤5 ft*)
+* **Pike (2h, reach 10 ft):** +6 to hit, **1d10+4** piercing
+* **Longsword (1h + shield):** +6 to hit, **1d8+4** slashing
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+
+**Warhorse:** RAW *Warhorse* stat (Trampling Charge; Hooves +6 to hit, **2d6+4**).
+
+---
+
+## 🎯 Combat Tactics (Mounted Pivot / Pike Wall)
+
+* **Role:** **frontline protector / aggro anchor / lane shaper**
+* **Opener:** **Mounted** shallow charge along a chalked curve; **Unwavering Mark** the lead brute with **lance** to pull aggro off civilians.
+* **Flow:** **Dismount (5 ft)** as the span narrows; swap to **pike + shield** to form a **reach wall**; **Action Surge** for the decisive shove when allies push.
+* **Finisher:** shoulder bind on the seam, half-step pivot—three clean paces open for the column.
+
+**Damage Flavor:** rain streams along the lance’s etched lines; when he braces the pike, beads split on the tip like they were told to.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุขุม พูดสั้นแต่ชัด; จัดลมหายใจทีมก่อนคำสั่ง
+* **Ideal:** Duty-through-Geometry — “เส้นที่ถูกต้องทำให้แรงน้อยลงและปลอดภัยขึ้น”
+* **Bond:** สมุด “จุดหมุนม้า & พื้นยืนพัยค์” ของทุกสะพาน
+* **Flaw:** ดื้อกับเส้นสวย—บางครั้งช้ากว่าที่สถานการณ์ต้องการ
+* **Quirk:** เคาะบิตจี้สองครั้งเป็นสัญญาณ “เข้าเส้น”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock-stairs aprons, hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **mounted escort on rails**, **pike-wall split**, **riot peel pivot**
+
+---
+
+## 📜 Background & Lifestyle
+
+เติบโตในโรงฝึกม้าริมสะพาน เขาเรียนรู้มุมที่ทำให้กีบ “ไว้อย่างสงบ” คืนหนึ่งเขาวาดโค้งด้วยชอล์กพาม้าลอดฝูงชนโดยไม่มีศอกชนสักครั้ง—จึงถูกดึงเข้า **Blue Shift** ให้เป็นเข็มเย็บเลนของเมือง
+
+* **Lifestyle:** ช่องพักม้าติดสะพาน เต็มสายรัด แผงบังตา และแผนที่ลม
+* **Income:** เงินเดือน Wardens, โบนัสคุ้มกัน, ค่าปราบจลาจลแบบ “ไม่แตกแถว”
+
+---
+
+## 🧩 Morals & Ethics
+
+“ช่วยคนผ่านก่อน แล้วค่อยชนะไฟต์” — ถ้าต้องเลือก เขาเลือก **ผลัก** มากกว่า **ฟาด**
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** เขตที่ม้า “ไม่อ่านราง” — ลาง Echo ตัดแรงเสียดทาน
+* **Weaknesses:** **lance** แพ้ระยะประชิด ≤5 ฟุต; ต้องสลับ **pike/longsword** ให้ไว
+* **Strengths:** **AC 19**, **aggro control (Unwavering Mark)**, **mounted mobility**, **Action Surge** ปิดจังหวะ, **pike reach wall** สุดนิ่ง
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — สุขุมทำให้อุ่นใจ:**
+
+> “ยืนในเส้นของผม—ผมจะหมุนโลกให้นิดเดียว.”
+
+ซ้อม เขาจะวางมือจัดมุมพัยค์แล้วพยักหน้า “ครึ่งก้าว… หมุน… ดัน”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** บิตจี้ของเขา **อุ่น** เมื่อใกล้รอยรางปลอม—ช่วยอ่านสะพานที่ถูกแทรกแซง
+* **Hooks:**
+
+  1. **Curve Theft:** มีคนวาดเส้นโค้งลวงบนพื้น—ต้องลบก่อนฝูงชนไหลผิดทาง
+  2. **Glass That Skids:** พื้นรางบางช่วงลื่นผิดฟิสิกส์—ทดสอบรองเท้ากีบชุดใหม่กลางภารกิจ
+  3. **Three-Pivot Run:** งานเปิดเลนด้วย **สามจุดหมุน** ต่อเนื่อง—ต้องสั่ง dismount/mount อย่างแม่นยำภายใต้ฝนหนัก
+
+---
+
+## Tags: #Male #Human #Fighter3 #Cavalier #Mounted #Pike #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Taejin **แตะบิตจี้สองครั้ง แล้วยกโล่เชื้อเชิญเข้าช่อง**
+
+> “ตามโค้งนี้—ผมพาคุณผ่านอย่างสะอาด.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** lance, pike, longsword, shield, dagger, light crossbow
+  * **Armor:** breastplate set
+  * **Tools:** chalk anchors, silk rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** bit-pendant, rein wraps, rail token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Mounted Combatant / Polearm Master**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock-stairs aprons**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **mounted escort**, **pike-wall split**, **pivot hold**
+* **Affiliation:** **Spur Cohort — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male human fighter cavalier 181cm short high fade hard part raven hair gunmetal lowlights athletic muscular steel breastplate lance pike shield warhorse low exposure rain-slick bridge cavalry pivot disciplined stance fantasy

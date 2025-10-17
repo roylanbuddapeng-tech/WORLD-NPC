@@ -1,0 +1,200 @@
+# #279 — **Kaelrin Dothane** — *The Oathless Flame of Veyra*
+
+> “Faith burned away first. The fire that remains is mine alone.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 279
+* **Gender:** **Male (Type: เมะ)** — confident, quietly predatory charisma; the kind of man whose silence feels intentional.
+* **Age:** 35
+* **Race:** **Half-Beast (Feline — Panthera)** — 85% human, faintly sharp canines, smooth black ears that twitch when focused, and short fur shadowing his forearms.
+* **Class & Level:** **Paladin (Oathbreaker)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** **Wandering Ex-Paladin / Monster Hunter / Oathless Blade**
+* **Organization:** formerly **Order of the Golden Veil**, now unaffiliated.
+* **Symbol:** a broken sun crest carved into black steel.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Latin hybrid**, exotic warmth mixed with sharp masculine edges.
+
+**Eyes:** gold with catlike pupils that narrow under sunlight.
+**Skin:** deep tan with faint silvery undertones.
+
+**Hair (Male Hair Randomizer):** 🎲 **Medium — swept back and slightly messy**
+**Style:** wild yet refined; a single loose strand crosses his cheek when he smiles.
+**Color:** **dark silver with subtle midnight blue sheen.**
+
+**Height:** 183 cm
+**Weight:** 79 kg
+**Body Build:** **lean-muscled, sinewy strength like a predator ready to spring.**
+
+**Sub-Theme:** 🎲 **Aristocrat (fallen knight)** — moves with the elegance of nobility despite his self-imposed exile.
+
+**Glasses Rule (Aristocrat = 50%)** 🎲 Roll: **No.**
+
+**Jewelry & Accessories:** thin chain bearing his shattered holy sigil, clawed finger ring, and a single sapphire earring symbolizing regret.
+
+---
+
+## 👔 Outfit (in English)
+
+**Exposure Roll:** *Not applicable for male characters*
+
+Kaelrin wears a **sleeveless black battle-coat** open at the chest, trimmed with torn gold thread — once a paladin’s mantle, now scorched.
+Underneath, **chainmail vest** embedded with faint runes that shimmer under moonlight.
+His **boots** and **bracers** are jagged obsidian leather, designed for both stealth and striking.
+A **tattered crimson sash** wraps his waist — half trophy, half curse.
+
+**Palette:** black / silver / crimson / gold fragments
+**Style:** elegant yet feral, rogue-knight aesthetic
+
+**Weapons & Gear:**
+
+* *Blackfang Greatsword (+1)* — forged from melted holy sigils
+* *Hunter’s Cross* (focus for Channel Divinity)
+* *Potion of Clarity*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **29 HP**
+* **AC:** **17** (chain vest + DEX + defense style)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +4
+* **Skills:** Intimidation +4, Athletics +5, Perception +3, Insight +3
+* **Languages:** Common, Celestial, Infernal
+
+**Paladin (Oathbreaker)**
+
+* **Channel Divinity:** Control Undead / Dreadful Aspect
+* **Divine Sense / Lay on Hands**
+* **Spellcasting (CHA DC 12, +4 atk)**
+
+  * *Prepared:* *Wrathful Smite, Inflict Wounds, Protection from Good and Evil*
+
+**Attacks**
+
+* **Blackfang Greatsword:** +5 to hit, 2d6+3 slashing (+1d8 necrotic on smite).
+* **Unarmed Strike:** +5 to hit, 1d4+3 (treated as magical when enraged).
+
+---
+
+## 🎯 Combat Tactics (Bruiser / Fear Controller)
+
+* **Role:** **frontline enforcer / morale breaker.**
+* **Opener:** *Wrathful Smite* → *Charge* → *Greatsword cleave* with Dreadful Aspect aura.
+* **Flow:** sustains through intimidation; strikes harder when allies are threatened.
+* **Finisher:** necrotic smite leaving glowing feline claw-marks of energy across the target’s armor.
+
+**Flavor:** when he kills, the air hums — like metal remembering pain.
+
+---
+
+## 💬 Personality
+
+* **Traits:** brooding, magnetic, protective in a reckless way.
+* **Ideal:** Freedom — “Faith should never be a chain.”
+* **Bond:** hunts the beasts that once served his order’s god.
+* **Flaw:** hates showing weakness; denies kindness even when craving it.
+* **Quirk:** his tail (hidden under coat) flicks when annoyed.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Shattered Cathedrals of the Western Pass**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **beast hunt**, **fallen temple duel**, **village defense at dusk**
+
+---
+
+## 📜 Background & Lifestyle
+
+A prodigy knight who defied divine command, Kaelrin was excommunicated for saving an enemy child from execution. His divine gifts curdled into necrotic fire — a mark of rebellion and guilt.
+
+* **Lifestyle:** nomadic; sleeps near battlefields to “listen to the silence afterward.”
+* **Income:** monster bounties, relic recovery.
+* **Relationships:** begrudging ally of Lucen (#278); often crosses paths with Darian (#277).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that morality is judged by the weak, not the divine.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** seeing another innocent die for “holy cause.”
+* **Weaknesses:** impulsive when emotionally cornered.
+* **Strengths:** formidable stamina, aura of dread, loyalty beyond logic.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — ท่าทางสุขุม แต่เวลาสบตาจะจ้องตรงๆโดยไม่หลบ ริมฝีปากมีรอยยิ้มมุมเดียว บางทีชอบพูดด้วยเสียงต่ำจนเหมือนคำขู่แต่จริงๆแค่ชอบดูอีกฝ่ายสั่นไหว**
+
+> “Relax. If I wanted to hurt you, I’d have done it already.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** the sword *Blackfang* houses his old divine guardian, now bound in hatred.
+* **Hooks:**
+
+  1. **The Dead God’s Echo:** Kaelrin’s former deity begins whispering through dreams.
+  2. **Beast of the Golden Veil:** one of his old comrades returns as an undead champion.
+  3. **The Child of Fire:** the child he saved is grown — and hunting him.
+
+## Tags: #Male #MehType #HalfBeast #Panthera #Paladin3 #Oathbreaker #FrontlineBruiser #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaelrin rarely initiates touch but reacts intensely when others do — eyes narrowing, smile faintly dangerous.
+He enjoys **making others flustered** by stepping too close, voice soft as velvet.
+
+> “Don’t look at me like that. You’ll make me remember I was human once.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** Blackfang Greatsword
+  * **Armor:** chain vest
+  * **Tools:** hunter’s charm, minor relic key
+  * **Consumables:** necrotic salve (2), wine flask
+  * **Misc:** tattered oathscroll
+* **Level-Up Suggestion:** **+2 STR (to 18)** or **Feat: Great Weapon Master / Menacing Aura**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov — Western Pass Ruins**
+* **Threat Gradient:** **Deep Echo**
+* **Encounter Type:** **fallen order crusade**, **night hunt**, **moral standoff**
+* **Affiliation:** *formerly* **Order of the Golden Veil**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Latin male half-beast panther paladin oathbreaker 35yo medium messy silver blue hair gold eyes lean muscular black coat chainmail crimson sash handsome stoic dark charisma fantasy

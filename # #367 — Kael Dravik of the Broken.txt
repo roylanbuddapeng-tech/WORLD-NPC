@@ -1,0 +1,170 @@
+# #367 — **Kael Dravik of the Broken Lance** — *He Who Charges First, Buries Regret Later*
+
+> “A man on a horse is half god, half target. The trick is deciding which half you want to be.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 367
+* **Gender:** **Male (Subtype: เมะ)**
+* **Age:** 31
+* **Race:** **Human**
+* **Class & Level:** **Fighter (Cavalier) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **Knight-Errant / Mounted Vanguard**
+* **Organization:** **Order of the Silver Spur**
+* **Symbol:** a broken silver lance bound with black ribbon
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** Central-European knight, sun-browned from travel, with eyes that never stop scanning the horizon.
+
+**Height:** **185 cm** **Weight:** **82 kg**
+**Build:** **Lean-muscled** — athletic without bulk; posture straight and regal even when dismounted.
+
+**Hair:** **Medium length, slightly tousled**, parted loosely to the side.
+**Color:** **Dark chestnut brown** with light streaks where sun bleached the edges.
+**Eyes:** **Steel grey**, alert and disciplined.
+**Skin:** Olive tone, sun-tanned along arms and neck.
+
+**Accessories (30% glasses roll → fail):** none. Keeps a silver chain on his right wrist, once part of his horse’s reins.
+
+---
+
+## 👗 Outfit
+
+**Exposure:** **Low** (per male rule).
+
+Standard **field plate armor** — modest but functional, with etched horse motifs along the cuirass. **Reinforced vambraces**, **open-face helm**, and a **weathered blue half-cloak** trailing from his left shoulder. When off-duty, he wears a simple linen shirt, sleeveless gambeson, and riding trousers.
+
+**Palette:** steel grey / blue / brown leather
+
+**Weapons & Gear:**
+
+* **Lance “Silver Regret”** — splintered haft bound with silver thread, magical balance enchantment
+* **Longsword** (backup)
+* **Shield** (cavalry pattern, curved edge)
+* **Dagger**, **saddlebag**, **whetstone**, **waterskin**, **riding gear**, **warhorse “Asterion”**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **18** (chainmail 16 + Defense style +2 shield)
+* **Speed:** 30 ft (mounted 60 ft)
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Animal Handling +5, Athletics +5, Persuasion +3, History +2, Perception +3
+* **Languages:** Common, Elvish
+
+**Fighter 3 — Cavalier**
+
+* **Fighting Style:** **Defense**
+* **Second Wind (1d10+3)**
+* **Action Surge (1/rest)**
+* **Unwavering Mark:** mark foes when hitting them in melee; disadvantage on attacks not targeting him; retaliate for +5 damage.
+* **Born to the Saddle:** advantage on saves vs falling off, mount costs 5 ft less to mount/dismount.
+* **Bonus Proficiency:** +Animal Handling
+
+**Attacks:**
+
+* **Lance (mounted):** +5 to hit, **1d12+3** piercing
+* **Longsword:** +5 to hit, **1d8+3** slashing (1h)
+* **Dagger:** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Mounted Linebreaker)
+
+* **Role:** **Frontline Charger / Aggro Keeper**
+* **Opener:** mounts fast, uses **Unwavering Mark** to draw enemy fire while allies reposition.
+* **Flow:** alternates between **Lance charge + Action Surge** combo and tactical dismount defense.
+* **Finisher:** full gallop pierce through enemy rank using **Asterion’s Trample Assist (flavor only)**.
+
+**Damage Flavor:** his lance splinters in light upon impact; silver shrapnel glows briefly before fading like ash.
+
+---
+
+## 💬 Personality
+
+* **Traits:** disciplined, dry sense of humor, unwavering loyalty to comrades.
+* **Ideal:** Duty — “A promise is just a command you give yourself.”
+* **Bond:** his warhorse Asterion — refuses to ride another.
+* **Flaw:** guilt-ridden about a failed rescue mission; avoids emotional talk.
+* **Quirk:** greets everyone with “How’s your footing?” even indoors.
+
+---
+
+## 🧭 Common Locations
+
+* **Region:** **The Ashen Plains**, old cavalry training grounds.
+* **Threat Gradient:** **Stable → Moderate**
+* **Encounter Type:** mounted patrol, ambush defense, or escort mission.
+
+---
+
+## 📜 Background & Lifestyle
+
+Kael was once the youngest commander of the Silver Spur, but lost half his unit to a collapsing bridge during a cavalry pursuit. Since then, he rides alone — guarding travelers and training new lancers quietly.
+
+* **Lifestyle:** frugal, lives in stables or campgrounds.
+* **Income:** escort contracts, bounties, and riding lessons for nobles’ heirs.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes order doesn’t mean control; it means **trust under pressure**. If he charges first, it’s to give others time to think.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of his mount; letting others take the hit for him.
+* **Weaknesses:** predictable in open charges, hates dishonorable tactics.
+* **Strengths:** mount synergy, mobility, discipline under fire.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ (Dominant, calm tone):**
+
+> “Stay behind me, or stay out of my way. Either works.”
+
+น้ำเสียงนุ่มแต่ชัด ควบคุมสถานการณ์ได้โดยไม่ต้องตะโกน; เขามักจะวางมือเบาๆ บนบ่าคนที่หวาดกลัว แล้วพูดว่า “เราจะไม่พลาดอีก”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his lance once pierced a dragon’s scale — he still carries the shard embedded near the hilt.
+* **Hooks:**
+
+  1. **Echo of Silver:** Kael’s old order seeks him to reclaim the broken lance.
+  2. **The Riderless Warhorse:** Asterion’s spirit might be older than it seems.
+  3. **Duty’s Ghost:** visions of the soldiers he failed haunt his dreams before battle.
+
+---
+
+## Tags: #Male #Human #Fighter3 #Cavalier #MountedCombat #Lance #LawfulGood #CR1
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kael **rests his lance against his shoulder, gaze steady:**
+
+> “You ride beside me, you live beside me. That’s how it works.”
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+male human fighter cavalier 185cm lean muscular dark chestnut hair steel eyes blue cape chainmail low exposure mounted knight broken lance silver motif fantasy realistic

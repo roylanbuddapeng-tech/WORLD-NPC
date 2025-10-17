@@ -1,0 +1,186 @@
+# #366 — **Rheia Vonn Aster** — *The Spear Dances Where Reason Ends*
+
+> “You think the wind is random? Try catching it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 366
+* **Gender:** **Female (Tomboy Type 2 — athletic, confident, outgoing)**
+* **Age:** 25
+* **Race:** **Half-Beast (Avian, 85% human — faint feather pattern along arms and temples)**
+* **Class & Level:** **Fighter (Samurai) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **Freelance lancer / arena duelist / border scout**
+* **Organization:** **Free Feathers Vanguard**
+* **Symbol:** stylized feather wrapping a spear tip
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Greek–Asian fusion — athletic, sun-bronzed, and radiant like a cliffside dancer.
+
+Rheia carries herself like a storm paused mid-motion; her frame is compact yet powerful, every movement defined by precision and rhythm.
+
+**Height:** 173 cm
+**Weight:** 64 kg
+**Body Type:** Athletic-feminine with visible abs and strong legs — healthy, powerful grace.
+
+**Hair (randomized):** **Medium length**, **messy high ponytail** with free side locks.
+**Hair Color:** **Dark copper** with **golden highlights**.
+**Eye Color:** **Golden-hazel**, sharp and playful.
+**Skin Tone:** **Sun-bronzed with warm undertones**, faint shimmer of feathers along her shoulders and forearms.
+
+**Jewelry & Accessories (randomized):**
+One **silver feather earring** on left ear, a **black leather choker**, and a **thin bronze wristband** engraved with duel marks.
+
+---
+
+### **FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large  
+THREE_SIZES (B–W–H, cm): 96 – 71 – 102  
+VALIDATION: • W/B = 0.739 → OK   • H/W = 1.44 → OK  
+```
+
+Her bust is firm and athletic — **F-cup (Large)** — supported by a sculpted core and lean waist, with defined hips that emphasize balance and agility rather than softness.
+
+---
+
+## 👗 **Outfit (in English)**
+
+**Exposure:** **Medium–High** (functional but revealing for motion).
+
+Her gear blends freedom with fighter elegance: a **half-armor cuirass** with open side panels, exposing her toned obliques; **tight leather shorts** beneath a **split skirt**, both layered for movement.
+**Thigh-straps** hold throwing knives, and a **short wind-cloak** flutters behind like wings.
+Boots end just below the knee, laced in bronze cord.
+
+**Palette:** copper / bronze / white / black leather accents
+
+**Weapons & Gear:**
+
+* **Spear “Asterwind”** — slim windsteel shaft with balanced mid-weight, can channel her wind-step.
+* **Shortsword (sidearm)**
+* **Throwing knives ×4**
+* **Traveler’s kit, 30 ft rope, salve, flint, and oil for feather polish**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **26 HP**
+* **AC:** **17** (studded leather 12 + DEX +3 + Fighting Style +2)
+* **Speed:** **35 ft**
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Acrobatics +5, Athletics +4, Perception +3, Survival +3, Intimidation +3
+* **Languages:** Common, Auran
+
+**Fighter 3 — Samurai**
+
+* **Fighting Style:** **Dueling (+2 dmg)**
+* **Second Wind (1d10+3)**
+* **Action Surge (1/rest)**
+* **Fighting Spirit (3/long rest)** — gain 5 temp HP and advantage on attacks until end of turn
+* **Proficiency:** +Persuasion
+
+**Attacks**
+
+* **Spear (1h):** +5 to hit, **1d6+5** piercing (dueling bonus)
+* **Spear (2h):** +5 to hit, **1d8+3** piercing
+* **Throwing Knife:** +5 to hit, **1d4+3** piercing
+
+---
+
+## 🎯 Combat Tactics (Aerial Lancer Style)
+
+* **Role:** **Mobile Duelist / Windline Skirmisher**
+* **Opening Move:** leaps from height, throws knife mid-air, follows with **Fighting Spirit spear thrust**.
+* **Flow:** circle, pivot, never trade blows — movement is rhythm.
+* **Finisher:** **Action Surge tornado lunge**, double-hit spear flourish.
+  **Damage Flavor:** wind swirls with golden motes; every strike leaves a shimmering afterimage like a feather swirl.
+
+---
+
+## 💬 Personality
+
+* **Traits:** bold, confident, affectionate in her teasing.
+* **Ideal:** Freedom — “The wind listens only to those who trust it.”
+* **Bond:** keeps her mentor’s broken spear tip, worn as pendant.
+* **Flaw:** rushes in before thinking.
+* **Quirk:** whistles before landing the killing blow — a superstition from her tribe.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Soltra — Sky Ridge & Feather Arenas**
+* **Threat Gradient:** **Wavering → Storm-tier**
+* **Encounter Framing:** **Arena duel**, **ridge ambush**, or **training accident that turns lethal.**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born of the Aerie clans, Rheia’s people believe that combat is music and motion. She fights for the joy of feeling wind push back — the rhythm of life.
+
+* **Lifestyle:** adventurous, camps under cliffs.
+* **Income:** tournament winnings, mercenary work.
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes strength is a kind of dance — it should look effortless, even if it’s hard.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being grounded, literally and emotionally.
+* **Weaknesses:** low endurance, distracted by “boring” fights.
+* **Strengths:** agility, reach, mid-range dueling, natural leader aura.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy Type 2 — Athletic playful**
+
+> “Whoa, you caught that spin? Didn’t think you were watching *that* closely.”
+
+เธอมักจะยื่นมือมาขยี้หัวคนที่ชมเธอ แล้วหัวเราะกลั้นไม่อยู่
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her spear’s “wind song” actually harmonizes with approaching storms — she can predict weather 12 hours in advance.
+* **Hooks:**
+
+  1. **The Sky Duel:** Rheia challenges PCs to spar midair.
+  2. **The Wind’s Debt:** her clan is hunted for forging weather-bound weapons.
+  3. **Echo of Feathers:** her spear starts calling storms without her will.
+
+---
+
+## Tags: #Female #HalfBeast #Avian #Fighter3 #Samurai #Spear #Tomboy #Athletic #CR1 #ChaoticGood
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rheia **leans on her spear with a grin:**
+
+> “If you want to learn balance, start with trusting me not to drop you.”
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+female half-beast avian fighter samurai 173cm athletic build bronze skin copper hair golden highlights messy ponytail feather pattern on arms F cup large body medium high exposure half armor split skirt spear confident tomboy fantasy

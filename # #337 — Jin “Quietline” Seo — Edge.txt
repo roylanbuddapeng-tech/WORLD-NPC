@@ -1,0 +1,193 @@
+# #337 — **Jin “Quietline” Seo** — *Edge that Ends the Argument*
+
+> “Two cuts. One is for noise. The other is for silence.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 337
+* **Gender:** **Male (Type: เคะ)** — สุภาพ นุ่มนวล แต่วางมุมโจมตีเด็ดขาด
+* **Age:** 22
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Champion) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **duelist escort / bridge finisher / riot line-splitter**
+* **Organization:** **Valeronnes Rail Wardens — Quietline Cadre**
+* **Symbol:** เส้นตรงสั้นสองเส้นตัดกันเป็นกากบาทเล็กบนรางแก้ว
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese clean-cut** — soft eyes, calm lips, a patient stance that says “measure first.”
+
+**Eyes:** cool dark-brown, sharpening to a razor focus when he exhales.
+**Skin:** fair-olive with a faint moon-sheen along the collarbones.
+
+**Hair (Male Randomizer):** **Short**, **clean side-part with tapered sides**; neat and helmet-friendly.
+**Color:** **raven black with a steel-blue sheen**.
+
+**Height:** **176 cm**
+**Weight:** **69 kg**
+**Body Build:** **lean-athletic**, long forearms, economical footwork.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **thin silver ear cuff**, **woven wrist cord** (beat counter), and a **glass-rail token** on a short chain.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional duelist kit**
+
+A **brushed-steel breastplate** over an **indigo padded shirt**, **quiet-weave bracers**, and **split guard-trousers** for lunges. **Soft-sole boots** grip wet glass. A **short storm-cloak** pins tight to avoid catching wind during cuts.
+
+**Palette:** steel / indigo / charcoal / silver accents
+**Weapons & Gear:**
+
+* **Greatsword “Quietline”** (matte fuller, rain-shedding edge)
+* **Dagger** (utility)
+* **Light crossbow** + 20 bolts
+* **Silk rope 50 ft, manacles, chalk-line, echo-salt**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **16** (breastplate 14 + DEX +2)
+* **Speed:** 30 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +4
+* **Skills:** Athletics +6, Perception +3, Acrobatics +4, Persuasion +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Champion**
+
+* **Fighting Style:** **Great Weapon Fighting** (reroll 1–2 on damage dice; keep new roll)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Improved Critical:** **crit on 19–20** with weapon attacks
+
+**Attacks**
+
+* **Greatsword (2h):** +6 to hit, **2d6+4** slashing (reroll 1–2s; crit on 19–20)
+* **Dagger:** +6 to hit, **1d4+4** piercing (20/60)
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+
+---
+
+## 🎯 Combat Tactics (Clean Finisher / Lane Split)
+
+* **Role:** **frontline striker / execution control**
+* **Opener:** steady advance; **read footing** then commit to a two-cut line across the guard.
+* **Flow:** hold **Action Surge** for the moment a **19–20** appears or when an ally’s control lands; convert control to kill.
+* **Finisher:** angle step past the hip, blade arcs low-to-high—argument over.
+
+**Damage Flavor:** his blade sheds rain in straight lines; crits ring like a glass chime snapping shut.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ สุขุม ฟังมากกว่าพูด; เวลาสอนนุ่มนวลแต่เฉียบ
+* **Ideal:** Precision — “การเคลื่อนไหวน้อยที่สุดคือความเคารพต่อชีวิต”
+* **Bond:** รายการ “เส้นทางปลอดภัย” บนสะพาน—เขาเพิ่มจุดพักใหม่ทุกสัปดาห์
+* **Flaw:** กดแรงตัวเองไว้จนลืมขอความช่วยเหลือ
+* **Quirk:** เคาะสันดาบเบา ๆ กับราวสะพานสองครั้งก่อนขึ้นท่า—ตั้งจังหวะหัวใจ
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock stairs, hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **duelist escort**, **bridge split-and-finish**, **riot decapitation strike**
+
+---
+
+## 📜 Background & Lifestyle
+
+เด็กฝึกยามที่ชนะดวลด้วยการ “ตัดเสียง” มากกว่าตัดคน—เขาถนอมแรงและเวลาของทีม จนได้ฉายา *Quietline* เพราะหลังจบไฟต์จะกลับมามีแต่เสียงฝน
+
+* **Lifestyle:** ห้องเล็กใกล้สะพาน มีชั้นเก็บเชือก/ตรวน และสมุดจุดพัก
+* **Income:** เงินเดือนยาม, โบนัสคุ้มกัน, ค่าดวลสัญญา
+
+---
+
+## 🧩 Morals & Ethics
+
+ถ้าเลือกได้ เขาจะ “จบอย่างสะอาด” โดยเล็งเจ็บพอให้ยุติการสู้ มากกว่าฆ่า—เว้นแต่ฝ่ายตรงข้ามทำให้สะพานไม่ปลอดภัย
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** สะพานที่ “เงียบผิดปกติ” ก่อน Echo ระเบิด
+* **Weaknesses:** ไม่มีเวท; ถ้าโดน crowd control ยืดไฟต์ยาก
+* **Strengths:** **crit range กว้าง (19–20)**, burst สูงด้วย **Action Surge**, ฟุตเวิร์กประหยัดบนพื้นลื่น
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ — สุภาพ ดูแลใกล้ ๆ ให้มั่นใจ:**
+
+> “จับเสื้อผมไว้ก็ได้… ผมตัดให้แคบพอที่เราจะผ่านด้วยกัน.”
+
+เวลาซ้อม เขาจะยืนซ้อนหลัง จับข้อมือจัดมุมมีด แล้วกระซิบ “หายใจ—ตอนนี้”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** ดาบของเขา “เงียบเสียงฝน” เสี้ยววินาทีเมื่อคริติคัล—เหมือนขีดกฎใหม่ให้โลก
+* **Hooks:**
+
+  1. **Line That Ends:** มีผู้ก่อเหตุท้าดวลกลางสะพาน—ต้องจบเร็วโดยไม่ให้พลเมืองตื่น
+  2. **Silent Rail:** รางหนึ่งกลืนทุกเสียง—คริติคัลของเขาอาจเป็นกุญแจเปิดเสียงกลับ
+  3. **Two Cuts Oath:** ครูเก่าขอให้เขาทำ “สองคมพิธี” ใส่อสูร Echo ที่เรียนรู้จะเลี่ยงการฟันแรก
+
+---
+
+## Tags: #Male #Human #Fighter3 #Champion #Duelist #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Jin **ยกชายคลุมให้เป็นเงา**
+
+> “เดินข้างผม—ผมจะทำให้ทางเงียบพอที่คุณหายใจได้.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** greatsword, dagger, light crossbow
+  * **Armor:** breastplate set
+  * **Tools:** manacles, chalk-line, rope
+  * **Consumables:** echo-salt ×1, salve ×2
+  * **Misc:** rail token, wrist cord
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Great Weapon Master / Slasher**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **escort duel**, **lane split**, **decapitation strike**
+* **Affiliation:** **Rail Wardens — Quietline Cadre**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male human fighter champion 176cm short side-part raven hair steel-blue sheen lean athletic steel breastplate greatsword low exposure rain-slick bridge night calm duelist fantasy

@@ -1,0 +1,210 @@
+# #313 — **Marisella Veyne** — *The Velvet Enduring*
+
+> “Death is only the pause between verses. I sing the next line.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 313
+* **Gender:** **Female (Type: MILF)** — สุขุม อบอุ่น แตะคำพูดสองแง่สามง่ามอย่างแนบเนียน
+* **Age:** 35
+* **Race:** **Other — Dhampir** (≈88% human; faintly elongated canines, cool pallor, crimson ring around irises)
+* **Class & Level:** **Warlock (The Undying)** 3 — *Pact of the Chain (Sprite)*
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral**
+* **Profession:** **undying envoy / grave-liaison / charm necromancer**
+* **Organization:** **Morrowsong Conclave (Thalassara)**
+* **Symbol:** a velvet ribbon looping a funerary bell
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Chinese–Korean elegant star** — serene cheekbones, calm fox-smile, gaze that holds too steadily.
+
+**Eyes:** wine-red with thin silver limbal ring; pupils tighten when hungry or spellbound.
+**Skin:** cool porcelain with a faint moon-sheen at shoulders and throat.
+
+**Hair (Female Hair Randomizer):** 🎲 **Bun/Twin Bun (boosted)** → **single low bun**
+**Style:** sleek **low bun** with stray wisps at temples; a thin braided strand rings the bun like a halo.
+**Color:** **inky black with burgundy undertones.**
+
+**Height:** **171 cm**
+**Weight:** **60 kg**
+**Body Type:** **voluptuous-elegant**, poised posture, languid movement.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 110 – 74 – 116
+VALIDATION: • W/B = 0.673 → OK   • H/W = 1.57 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Aristocrat (35%) → success**
+**Glasses Rule (non-nerd female 50%)** 🎲 **success → wears glasses** — slim oval wireframes, anti-glare runes.
+
+**Jewelry & Accessories:** matte silver funerary bell pendant (focus), black pearl drop earrings, memory-coil bracelet (records last words), silk anklet with two muted chimes.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Very High — funerary couture (artistic, non-explicit)**
+
+She wears a **near-backless mourning gown** of **sheer shadow-silk** that turns opaque where ward-sigils blossom, a **deep neckline** veiled by floating runes, and **side cutouts** laced by silver thread.
+A **split overskirt** reveals one thigh strapped with a slender scroll-case; velvet gloves to mid-forearm complete the elegy.
+
+**Palette:** black velvet / wine-red / moon-silver
+**Weapons & Gear:**
+
+* *Bell of Last Breath* (arcane focus)
+* *Sprite familiar “Vell”* (pale-winged, heart-sight; invisible scout)
+* *Obsidian bodkin* (concealed stiletto)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **19 HP**
+* **AC:** **15** (studded under-bodice 12 + DEX +2 + ward +1)
+* **Speed:** 30 ft; **Spider Climb (dhampir bite climb flavor)**
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +6
+* **Skills:** Persuasion +6, Deception +6, Insight +3, Arcana +3, Religion +3, Stealth +4
+* **Languages:** Common, Elvish, Sylvan, Thalassaran Cant
+
+**Warlock (The Undying) 3**
+
+* **Expanded Spells:** *Spare the Dying* (cantrip), *False Life, Ray of Sickness; Blindness/Deafness, Silence*
+* **Defy Death (theme flavor)**: advantage vs disease/being stabilized (RP note)
+* **Pact of the Chain:** **Sprite (Vell)** — invisibility, Heart Sight (RAW)
+* **Invocations (2):** **Agonizing Blast**, **Eldritch Mind** (adv. on concentration)
+
+**Spellcasting (CHA DC 14, +6 atk; 2 slots @2nd)**
+
+* **Cantrips:** *Eldritch Blast, Spare the Dying, Minor Illusion, Mage Hand*
+* **Known:** *Hex, Armor of Agathys, False Life, Ray of Sickness, Blindness/Deafness, Silence*
+
+**Attacks**
+
+* **Eldritch Blast:** +6 to hit, **1d10+4 force** (Agonizing)
+* **Bite (Dhampir, flavor use DMG options):** +4, 1d4+2 piercing (once/short rest for sustenance; DM adjudication)
+
+---
+
+## 🎯 Combat Tactics (Control / Attrition Support)
+
+* **Role:** **controller / debuffer / attrition buffer**
+* **Opener:** **Silence** to suffocate casters or **Blindness/Deafness** on the boss, then **Hex + Eldritch Blast** from cover.
+* **Flow:** **Armor of Agathys** for deterrence; **False Life** pre-load; send **Vell** to mark the weak-willed via Heart Sight.
+* **Finisher:** lull a dying foe with *Spare the Dying*—only to question them later through contacts (RP flavor).
+
+**Damage Flavor:** force bolts sound like a dampened bell-toll; frost of Agathys rims her veil in moon crystals.
+
+---
+
+## 💬 Personality
+
+* **Traits:** maternal poise, velvet voice, playful double meanings; never raises her tone.
+* **Ideal:** Endurance — “Love and grief both outlast breath.”
+* **Bond:** tends a hidden ledger of last wishes promised to the dying.
+* **Flaw:** collects farewells like treasures; won’t leave a scene until she hears one.
+* **Quirk:** taps her bell once before every spell, barely audible.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Mourner’s Quay, Echo Catacombs**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **funerary negotiation**, **silence-duel**, **grave-escort infiltration**
+
+---
+
+## 📜 Background & Lifestyle
+
+A minor house widow who refused to let grief become an end; the Conclave taught her to treat death as a conversation. She brokers peace between the living and those who won’t stop speaking.
+
+* **Lifestyle:** quiet waterside suite with blackout curtains and bell shelves.
+* **Income:** grave mediation fees, noble retainers, vow-broker commissions.
+* **Relationships:** professional respect for Viora (#300); wary fascination with Rhaen (#294).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes comfort is sacred. If a beautiful lie lets the dying rest, she’ll tell it—then carry the truth for them.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** true silence in the catacombs.
+* **Weaknesses:** relies on concentration; sunlight lethargy (flavor dhampir).
+* **Strengths:** relentless sustain (*False Life/Agathys*), anti-caster shutdown (*Silence/Blindness*), social leverage.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — nurturing, dangerously soft:**
+
+> “Shh… breathe with me. If you behave, I’ll let you misbehave later.”
+
+ชอบทำให้เขินด้วยการค่อย ๆ จัดแว่นให้ตรง จับคางนิด ๆ แล้วกระซิบใกล้หู: “ใจเต้นแรงจัง… ให้ฉันนับให้ไหม”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her bell sometimes tolls on its own—the moment before someone nearby dies.
+* **Hooks:**
+
+  1. **The Bell That Won’t Stop:** the bell keeps ringing for a week; no one dies… yet.
+  2. **Last Wish Broker:** a noble’s final request binds the party to a living enemy.
+  3. **Undying Favor:** an ancient undead calls in a debt Marisella swore as a girl.
+
+---
+
+## Tags: #Female #Dhampir #Warlock3 #TheUndying #PactOfTheChain #Controller #MILF #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Marisella **วางปลายนิ้วบนริมฝีปากอีกฝ่ายแล้วบอกเบา ๆ**
+
+> “Quiet first… then we decide what to say with our hands.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** obsidian bodkin
+  * **Armor:** warded mourning gown (light)
+  * **Tools:** memory-coil bracelet, funerary bell focus
+  * **Consumables:** black-tea tonic ×2, funerary salts ×1
+  * **Misc:** familiar Vell (sprite), vow ledger
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** หรือ **Feat: War Caster / Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Mourner’s Quay / Echo Catacombs**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **silence duel**, **funeral parley**, **grave escort**
+* **Affiliation:** **Morrowsong Conclave**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Chinese Korean female dhampir warlock undying 171cm low bun black burgundy hair glasses I-cup near-backless sheer gown deep V silver runes sprite familiar black velvet moonlit catacombs fantasy

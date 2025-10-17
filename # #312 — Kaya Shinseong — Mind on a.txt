@@ -1,0 +1,207 @@
+	# #312 — **Kaya Shinseong** — *Mind on a Razor*
+
+> “I don’t carry secrets. I cut them free.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 312
+* **Gender:** **Female (Type: รุ่นน้อง)** — สดใส ฉลาดไว แซวเก่งแบบน้องที่รู้ตัวว่าทำคนหน้าแดงได้
+* **Age:** 21
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Rogue (Soulknife)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **psionic infiltrator / silent courier / counter-spy**
+* **Organization:** **Valeronnes Glass-Archive, Subsection: Quiet Hands**
+* **Symbol:** two overlapping triangles forming a psychic blade glyph
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese** — bright idol-like eyes, playful smile, movements that snap from cute to deadly in a heartbeat.
+
+**Eyes:** smoky brown with faint violet sheen when manifesting blades.
+**Skin:** fair porcelain with a cool highlight along the collarbones.
+
+**Hair (Female Hair Randomizer):** 🎲 **Ponytail (top-weight)**
+**Style:** **straight high ponytail** with a micro-braid wrapping the base; wispy curtain bangs.
+**Color:** **inky black with amethyst tips.**
+
+**Height:** **165 cm**
+**Weight:** **54 kg**
+**Body Type:** **fit-curvy**, agile waist, toned legs from rooftop runs.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 99 – 70 – 102
+VALIDATION: • W/B = 0.707 → OK   • H/W = 1.46 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Nerd (success 30%)** — cryptography & psionics theory geek.
+**Glasses Rule (Nerd = always):** ✅ **Yes** — slim, round matte-black frames with anti-glare wards.
+
+**Jewelry & Accessories:** simple silver ear-cuff, data-bangle filled with cipher wheels, ankle cord with two mute beads for tempo counting.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High (artistic, non-explicit; stealth couture)**
+
+A **charcoal cropped tactical vest** over a **deep V, side-cut performance top**, paired with **high-waist stealth leggings** slit at outer thighs for holster access.
+A **short hooded half-cloak** of shadow-weave breaks her outline mid-leap; split-sole boots whisper on stone.
+
+**Palette:** charcoal / black / violet-glow accents
+**Weapons & Gear:**
+
+* **Psychic Blades** (manifested)
+* slim throwing spikes (backup), thieves’ tools, cipher kit, smoke beads ×2
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **20 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 13 (+1)** **WIS 14 (+2)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Stealth +8, Acrobatics +6, Insight +4, Investigation +5, Perception +4, Sleight of Hand +6, Deception +4
+* **Languages:** Common, Elvish, Thalassaran Cant, Thieves’ Cant
+
+**Rogue (Soulknife) 3**
+
+* **Psionic Power (3 dice d6):**
+
+  * **Psi-Bolstered Knack:** add psionic die to failed skilled checks.
+  * **Psychic Whispers:** telepathy (range 30 ft; 1–8 hours).
+* **Psychic Blades:** manifest **main hand 1d6 psychic**, **off-hand 1d4 psychic** (finesse, thrown 60 ft); vanish after hit/throw.
+* **Sneak Attack:** +2d6 (once/turn).
+* **Cunning Action:** Dash/Disengage/Hide.
+
+**Attacks**
+
+* **Psychic Blade (main):** +6 to hit, **1d6+4 psychic** (+2d6 Sneak)
+* **Psychic Blade (off-hand):** +6 to hit, **1d4+4 psychic**
+
+---
+
+## 🎯 Combat Tactics (Psionic Skirmisher)
+
+* **Role:** **infiltrator / silent striker / comms support**
+* **Opener:** **Psychic Whispers** to squad → **Hide** → thrown psychic blade to tag sentry.
+* **Flow:** vaults between cover, **Psi-Bolstered Knack** to stick landing or pick locks mid-chase.
+* **Finisher:** double-blade cross strike at the temple; no blood, only a violet ripple of pain.
+
+**Damage Flavor:** blades appear as thin violet glass splinters that hum with a musical note no one else hears.
+
+---
+
+## 💬 Personality
+
+* **Traits:** ขี้เล่น ฉลาดช่างสังเกต รักการทดลองกับรหัสและเกมสติปัญญา
+* **Ideal:** Freedom of Thought — “เสียงในหัวคือพื้นที่ปลอดภัยสุดท้าย”
+* **Bond:** ดูแล “น้องฝึกงาน” ในแผนกข่าวกรองอย่างจริงจัง
+* **Flaw:** หัวไวเกินไป บางทีเล่นมุกตอนคนอื่นยังตื่นตระหนก
+* **Quirk:** แตะกรอบแว่นสองครั้งก่อนบอก “คำตอบ”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glass-Archive rooftops, cipher rooms, canal bridges**
+* **Threat Gradient:** **Wavering → Echo spill**
+* **Encounter Framing:** **rooftop heist**, **silent escort**, **double-agent unmasking**
+
+---
+
+## 📜 Background & Lifestyle
+
+เด็กฝึกหัดห้องสมุดที่เก่งไขรหัสจนถูกดึงเข้าสายลับ เธอค้นพบว่าความคิดของตัวเองสามารถ “กรีด” ความลับออกมาจากเป้าหมายได้เหมือนมีด
+
+* **Lifestyle:** ห้องสตูดิโอแคบ ๆ เต็มไปด้วยบอร์ดรหัส/เชือกโยง
+* **Income:** เงินเดือนข่าวกรอง + โบนัสจากภารกิจลับ
+* **Relationships:** คู่หูสื่อสารทางจิตกับ Ilaris (#309); ไล่จับคำโกหกกับ Ilyra (#305) เล่น ๆ
+
+---
+
+## 🧩 Morals & Ethics
+
+จะไม่ล้วงความลับที่ปกป้องผู้บริสุทธิ์ แต่จะหั่นทิ้งทันทีถ้ามันทำร้ายคนอื่น
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** เสียงในหัวเงียบลง—กลัวสูญเสียพลัง
+* **Weaknesses:** เกราะบาง ถ้าถูก cornered ยื้อไม่ดี
+* **Strengths:** การสื่อสารเงียบระดับทีม, การแทรกซึม, การโจมตีไร้เสียง/ไร้รอย
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — แซวสนุก ขี้เล่น:**
+
+> “อย่ามองนานสิ เดี๋ยวหนูอ่านความคิดจริง ๆ นะ… หรือให้หนูลอง?”
+
+ชอบทำให้เขินด้วยการยืนชิดแล้วจ้องตาเป็นจังหวะที่พอดี ก่อนยิ้มและกระซิบผ่าน **Psychic Whispers** ว่า “หัวใจเธอดังไปนิดนะ”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** บางครั้งมี “ใบมีด” โผล่มาเองโดยไม่ตั้งใจ—เหมือนอีกความคิดกำลังช่วย
+* **Hooks:**
+
+  1. **Second Voice:** จิตอีกเสียงเริ่มสั่งงานเธอ—ดีหรือร้ายยังไม่รู้
+  2. **Cipher Heist:** ต้องขโมย “รหัสเงียบ” ที่อ่านได้เฉพาะด้วยความคิด
+  3. **Glass Killer:** มีฆาตกรใช้ใบมีดจิตเหมือนเธอเป๊ะ ๆ วางกรอบเป็นฝีมือเธอ
+
+---
+
+## Tags: #Female #Human #Rogue3 #Soulknife #Psionic #Stealth #Nerd #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaya **ชอบยื่นหน้าเข้ามาใกล้ ๆ แล้วนับชีพจรเบา ๆ ด้วยปลายนิ้ว**
+
+> “สาม…สอง…หนึ่ง… เธอเขินแล้วนะ”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** psychic blades (innate), throwing spikes (backup)
+  * **Armor:** studded stealth vest
+  * **Tools:** thieves’ tools, cipher kit
+  * **Consumables:** smoke beads ×2
+  * **Misc:** data-bangle, mute-bead anklet
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** หรือ **Feat: Telekinetic / Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Glass-Archive & Canal Bridges**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **rooftop infiltration**, **silent strike**, **double-agent reveal**
+* **Affiliation:** **Quiet Hands — Glass-Archive**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female human rogue soulknife 165cm straight high ponytail black hair amethyst tips glasses F-cup cropped tactical vest deep V side cuts stealth leggings hooded half-cloak violet psychic blades rooftop night fantasy

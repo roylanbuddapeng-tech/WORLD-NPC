@@ -1,0 +1,202 @@
+# #304 — **Sereth Vale** — *The Silver Venin*
+
+> “A smile is the cleanest delivery system for poison.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 304
+* **Gender:** **Male (Type: เมะ)** — สุขุม นิ่ง แต่อันตรายแบบเสน่ห์ร้ายในรอยยิ้ม
+* **Age:** 28
+* **Race:** **Human (Thalassaran)** — warm olive skin, slightly exotic amber eyes, faint toxin-burn scars near veins (disguised with shimmer ink).
+* **Class & Level:** **Rogue (Assassin) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Evil (professional discipline)**
+* **Profession:** **contract assassin / poison alchemist / masquerade performer**
+* **Organization:** **“The Lattice” — covert order within Thalassara’s masquerade network**
+* **Symbol:** a silver dagger wrapped by two interlocking masks
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Italian hybrid** — sharp cheekbones, deep amber eyes that don’t blink when he lies.
+
+**Eyes:** liquid amber, pupils narrow like a cat’s under bright light.
+**Skin:** olive tone with silver vein tattoos that shift faintly with pulse.
+
+**Hair (Male Hair Randomizer):** 🎲 **Medium length, swept back with loose fringe**
+**Color:** **ash-silver with darker roots.**
+
+**Height:** **182 cm**
+**Weight:** **75 kg**
+**Body Type:** **lean athletic**, wiry muscle from precise control rather than brute force.
+
+**Facial Hair:** none; jawline smooth, sometimes painted faintly for disguise.
+
+**Accessories:** thin black choker with hidden needle compartment, thumb ring concealing a blade, alchemist’s bracer with toxin vials.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Low (male rule)**
+
+A **tailored black alchemist coat** with **silken inner lining** for silent motion; **fingerless gloves** hiding small blades. Underneath, a **dark vest** and **crossed belts** holding tools and poison vials. Boots soft-soled, coated for grip on marble.
+
+**Palette:** matte black / mercury silver / muted wine-red lining
+**Weapons & Gear:**
+
+* *Venin Dagger* (coated weapon; channels poison evenly)
+* *Garrote wire* (silken steel)
+* *Hand crossbow* with micro-needle bolts (15 bolts)
+* *Poisoner’s Kit* (specialized)
+* *Masque vials* — colorless mist causing short amnesia (homebrew within flavor bounds)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 14 (+2)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** Stealth +8, Deception +4, Sleight of Hand +6, Insight +3, Perception +3, Investigation +4, Poison Kit +4
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Rogue (Assassin) 3**
+
+* **Assassinate:** adv. on attack vs unacted creatures; crit on surprised targets.
+* **Cunning Action:** Dash, Disengage, Hide as bonus action.
+* **Sneak Attack:** +2d6 damage (once/turn).
+* **Thieves’ Cant / Expertise (Stealth & Poisoner’s Kit)**
+
+**Attacks**
+
+* **Venin Dagger:** +6 to hit, 1d4+4 piercing + poison (DC 13 CON → 2d6 poison dmg on fail)
+* **Crossbow:** +6 to hit, 1d6+4 piercing; 3 poisoned bolts/day
+
+**Poison Recipes (flavor):**
+
+* *Whisper’s Bite* (sleep toxin, 10 min prep)
+* *Lattice Kiss* (hallucinogenic truth serum)
+* *Echo Bane* (muted vocal cords 1 hr)
+
+---
+
+## 🎯 Combat Tactics (Assassin / Poison Striker)
+
+* **Role:** **alpha eliminator / infiltration specialist**
+* **Opener:** strike from disguise → *Assassinate* with poisoned dagger.
+* **Flow:** vanish to shadows with *Cunning Action*; reappear at new angle.
+* **Finisher:** double feint → garrote choke; leaves a silver petal in victim’s hand.
+
+**Damage Flavor:** cuts emit a faint floral scent of metal; victims smile before they fall.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, precise, polite even when killing.
+* **Ideal:** Control — “Emotion wastes motion.”
+* **Bond:** respect for professional killers; despises cruelty outside the contract.
+* **Flaw:** secretly fascinated by those immune to poison.
+* **Quirk:** tastes every new toxin on the tip of his tongue before bottling.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Masque Quarter, lower canals**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **contract kill**, **masquerade infiltration**, **silent duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a family of herbalists; after the Severance War, he learned toxins faster than prayers. The Lattice recruited him for “restoring balance through select subtraction.”
+
+* **Lifestyle:** minimalist loft, perfumed candles masking chemical smell.
+* **Income:** assassination, exotic poison crafting, paid silences.
+* **Relationships:** old rivalry with Miris (#272); occasional ally to clerics needing discreet work.
+
+---
+
+## 🧩 Morals & Ethics
+
+Doesn’t believe in good or evil—only clean and unclean deaths. Refuses to kill children or artists.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being poisoned unknowingly (lost control).
+* **Weaknesses:** detached, lacks empathy; overanalyzes emotions.
+* **Strengths:** stealth kill precision, toxin mastery, disguise adaptability.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone:** สุขุม มั่นใจ เล่นคำแบบเย็นแต่แรง
+
+> “You tremble so easily. It’s almost… intoxicating.”
+
+เขาชอบทำให้คนเขินโดยการจับข้อมืออีกฝ่ายแน่น แล้วเอานิ้วโป้งแตะเส้นชีพจร “หัวใจเต้นเร็วกว่าพิษของผมอีกนะ”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Sereth’s poison glands are mutating — he’s starting to *produce venom naturally*.
+* **Hooks:**
+
+  1. **The Self-Poisoned:** he’s immune to nothing now; one wrong cut could kill him.
+  2. **Silver Petals:** his calling card is copied by another killer who leaves no scent.
+  3. **Lattice Fracture:** an order split hires PCs to protect or remove him.
+
+---
+
+## Tags: #Male #Human #Rogue3 #Assassin #Poison #Stealth #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Sereth **ทำให้เขินด้วยการพูดใกล้เกินจำเป็น**
+
+> “Relax. I only bite when I’m paid for it.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** dagger, garrote, hand crossbow
+  * **Armor:** leather coat
+  * **Tools:** Poisoner’s Kit, disguise kit
+  * **Consumables:** Whisper’s Bite ×2, Echo Bane ×1
+  * **Misc:** silver petal token
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Poisoner / Observant**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Masque Quarter**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **silent assassination**, **venom exchange**, **poison cure trade**
+* **Affiliation:** **The Lattice**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Italian male human rogue assassin 182cm ash-silver hair amber eyes lean build black coat red-lined vest poison vials garrote dagger calm dangerous handsome fantasy

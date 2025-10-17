@@ -1,0 +1,195 @@
+# #360 — **Minho “Vector-Pike” Kwon** — *Push the Line, Move the World*
+
+> “I don’t shove people. I nudge the lane.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 360
+* **Gender:** **Male (Type: เมะ)** — มั่นใจ สุภาพ ตัดสินใจไว คุมสถานการณ์หน้างาน
+* **Age:** 26
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Psi Warrior) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **escort lane-controller / pike vector specialist / crowd peel**
+* **Organization:** **Valeronnes Glass Court — Quiet Vector Squad**
+* **Symbol:** เส้นตรงหนึ่งเส้นดันวงเล็กให้เลื่อนไปข้างหน้า
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese analytic poise** — steady gaze, economy of movement, the calm of a math tutor in rain.
+
+**Height:** **179 cm** **Weight:** **74 kg**
+**Body Build:** **lean–athletic**, long reach, precise footwork.
+
+**Hair (Male Randomizer):** **Short**, **clean side-part with tapered sides**; rain-combed to keep the sightline clear.
+**Color:** **raven black with cool gunmetal lowlights**.
+**Eyes:** deep slate; a thin silver ring glows when he channels psi.
+**Skin:** fair-olive with a faint rain sheen along the collarbones.
+
+**Accessories (male glasses 30% → success):** **thin rectangular steel-frame glasses** (anti-glare sigils). Wears a **vector pendant**, **braided wrist cord** (beat counter), and a **rail token** tucked inside the collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional vector-control kit**
+
+A **brushed-steel breastplate** over an **indigo padded jacket**, **quiet-weave bracers**, and **tapered guard-trousers** cut for long set-steps on slick glass. **Soft-sole boots** grip rail edges. A **short storm-cloak** pins flat so the silhouette reads clean for telekinetic lines.
+
+**Palette:** steel / indigo / charcoal / pale silver
+
+**Weapons & Gear:**
+
+* **Pike “Vector-Push”** (reach 10 ft; matte fuller; balance beads on the haft)
+* **Dagger** (utility)
+* **Light crossbow** + 20 bolts
+* **Silk rope 50 ft**, **manacles**, **chalk-line**, **echo-salt**, **smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **17** (breastplate 14 + DEX +2 + **Defense** +1; two-handed pike, no shield)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Insight +3, Perception +3, Investigation +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Psi Warrior (TCoE)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)** • **Action Surge (1/rest)**
+* **Psionic Power (Psi dice = d6; uses = PB + INT = 3/day; regain one on short rest):**
+
+  * **Protective Field (Reaction):** ลดดาเมจที่เพื่อนใน **30 ฟุต** ได้รับ เท่ากับผล **Psi die + INT(+1)**
+  * **Psionic Strike:** เมื่อโจมตีโดน ใช้ **Psi die** เพิ่ม **force damage** = ผลทอย + **1**
+  * **Telekinetic Movement (Bonus Action):** เลื่อน **สิ่งมีชีวิตที่ยินยอม** 5 ฟุต หรือ **วัตถุ** (ที่ไม่สวมใส่/ถือ) ได้ตาม RAW เพื่อเปิดเลน/ดึงคนพ้นช่องตก
+
+**Attacks**
+
+* **Pike (2h, reach 10 ft):** +5 to hit, **1d10+3** piercing; เติม **Psionic Strike** เมื่อได้หน้าต่าง
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+* **Dagger:** +5 to hit, **1d4+3** piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Reach Controller / Vector Peel)
+
+* **Role:** **frontline controller–escort**
+* **Opener:** ชอล์กเส้นหนีฉุกเฉิน → เข้าตำแหน่ง **reach 10 ft** ดันเลนด้วยปลาย **pike**; **Protective Field** รับฮิตแรกของเพื่อน
+* **Flow:** ใช้ **Telekinetic Movement** ขยับ VIP/เพื่อนพ้นขอบ; แทงจิ้มค้ำ แล้วต่อด้วย **Psionic Strike** เมื่อเกิด stagger; **Action Surge** ปิดจังหวะที่เปิด
+* **Finisher:** สไลด์ปลายง่ามตัดรองรับ น้ำฝนไหลตามเส้น—พอเงียบ เขาพูดสั้น ๆ “ผ่าน”
+
+**Damage Flavor:** เมื่อ psi ปะทุ เส้นเงินบาง ๆ วาดเป็น矢 (arrow) ในอากาศ แล้วฝนก็ไหลตามเวกเตอร์นั้น
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ คิดเป็นระบบ อธิบายด้วยเส้นและจังหวะ
+* **Ideal:** Minimal Move, Max Safety — “ขยับน้อยที่สุดที่ช่วยคนได้มากที่สุด”
+* **Bond:** สมุด “เวกเตอร์ปลอดภัย” ของสะพานแต่ละแห่ง
+* **Flaw:** หลงรายละเอียด—บางทีช้าครึ่งจังหวะกับเหตุฉุกเฉิน
+* **Quirk:** ดันกรอบแว่นหนึ่งทีเป็นสัญญาณ “จะขยับโลกให้นิดเดียว”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, hush corridors, lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **escort through choke**, **riot peel by TK**, **quiet reach duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+เด็กฝึก Glass Court ที่ชอบเขียนเวกเตอร์บนแผ่นกระจก เขาเคยเลื่อนเด็กสองคนผ่านช่องตกโดยแทบไม่แตะต้อง—ตั้งแต่นั้น *Quiet Vector* ใช้เขาเป็น “มือที่มองไม่เห็น” ที่เปิดเลนแคบให้คนผ่าน
+
+* **Lifestyle:** ห้องเล็กติดสะพาน เต็มด้วยชอล์ก/ผังเวกเตอร์/ผ้าเช็ดใบง่าม
+* **Income:** เงินเดือน Glass Court, โบนัสคุ้มกัน, ค่าระงับเหตุจลาจลแบบ “ไม่แตกแถว”
+
+---
+
+## 🧩 Morals & Ethics
+
+“ชนะด้วยการให้คนผ่าน” — ถ้าสามารถดันเลนแทนดันคน เขาจะเลือกเส้นนั้นเสมอ
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนที่ฝน “หยุดบนกระจก” — ลาง Echo ตัดแรงเส้น
+* **Weaknesses:** **Psi dice** จำกัด; ดาเมจไม่สุดถ้าไม่เลือกหน้าต่าง
+* **Strengths:** **reach 10 ft** คุมเลน, **Protective Field** ช่วยทีม, **TK Movement** แก้สถานการณ์, **Action Surge** ปิดงาน
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ — สุขุมมั่นใจ ทำให้รู้สึกปลอดภัย:**
+
+> “ยืนตามเส้นนี้… เดี๋ยวผมขยับโลกให้นิดเดียวเอง.”
+
+ตอนซ้อม เขาจะจับศอกจัดแกน แล้วพยักหน้า “หนึ่งก้าวซ้าย—ดี… ผ่าน”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** วงเงินในตาเขา **เบนเล็กน้อย** เข้าหาจุดทรุดก่อนมันแตกจริงครึ่งวินาที
+* **Hooks:**
+
+  1. **Stolen Vectors:** ผู้ร้ายวาดเวกเตอร์ปลอมให้ฝูงชนไหลผิดทาง—ต้องไล่ลบเส้นนั้นก่อนพัง
+  2. **Bridge That Won’t Slide:** สะพานบางช่วง “ไม่รับแรงจิต” — ใครล็อกโลกไว้
+  3. **Five-Foot Mercy:** งาน护ส่งต้องขยับ VIP ทีละ **5 ฟุต** ตรงเวลา—พลาดจังหวะเดียวแนวแตก
+
+---
+
+## Tags: #Male #Human #Fighter3 #PsiWarrior #ReachControl #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Minho **ยกพัยค์ตั้งเส้นแล้วดันกรอบแว่นเบา ๆ**
+
+> “พร้อมนะ—ผมจะเลื่อนคุณผ่านช่องว่างนี้.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** pike, light crossbow, dagger
+  * **Armor:** breastplate set
+  * **Tools:** chalk-line, silk rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** vector pendant, wrist cord, rail token
+* **Level-Up Suggestions (to 4):** **+2 STR (to 18)** หรือ **Feat: Polearm Master / Telekinetic (theme)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **escort choke**, **riot peel by TK**, **reach duel**
+* **Affiliation:** **Quiet Vector Squad — Glass Court**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male human fighter psi warrior 179cm short side-part raven hair gunmetal lowlights glasses lean athletic steel breastplate pike low exposure rain-slick bridge silver vector lines calm controller fantasy

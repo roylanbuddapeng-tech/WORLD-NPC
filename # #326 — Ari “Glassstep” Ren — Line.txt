@@ -1,0 +1,199 @@
+# #326 — **Ari “Glassstep” Ren** — *Linesman of the Quiet Cut*
+
+> “One breath. One angle. One clean result.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 326
+* **Gender:** **Male (Type: เคะ)** — สุภาพ อ่อนโยน น้ำเสียงนิ่ม แต่เด็ดขาดตอนลงมือ
+* **Age:** 24
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Battle Master) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **canal-bridge linesman / bodyguard duelist / escort tactician**
+* **Organization:** **Valeronnes Glass Court — Rail Wardens (Tactics Cadre)**
+* **Symbol:** เส้นบากรูปตัว L ทับด้วยวงกลมเล็ก—จุดตัด “มุมที่ใช่”
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese soft-feature warrior** — gentle eyes, tidy posture, movements like measured calligraphy.
+
+**Eyes:** cool slate-brown with a steady, kind focus.
+**Skin:** fair with faint weathering at nose and cheekbones.
+
+**Hair (Male Randomizer):** **Medium length**, **side-part with neat layered fringe**, tucked behind one ear during work.
+**Color:** **raven black with steel-blue sheen**.
+
+**Height:** **177 cm**
+**Weight:** **70 kg**
+**Body Build:** **lean-athletic**, wiry forearms, quick footwork stance.
+
+**Accessories (30% glasses roll → fail):** no glasses. Wears a **thin silver ear cuff**, **braided cord bracelet** (beat counter), and a **canal pass-tag** at the belt.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male rule):** **Low — functional guard kit**
+
+A **brushed-steel breastplate** over **indigo padded gambeson**, **forearm bracers** stitched with quiet-weave, and **split riding trousers** for agile footwork. **Soft-sole boots** grip wet stone, and a **short storm-cloak** snaps close with two toggles to avoid snagging.
+
+**Palette:** steel / indigo / charcoal / pale silver
+**Weapons & Gear:**
+
+* **Longsword “Measureline”** (one-handed)
+* **Shield (glass-inset boss)**
+* **Light crossbow** + 20 bolts
+* **Net** (bolas-flavor; RAW net)
+* **Manacles, 50 ft silk rope, chalk & plumb bob (line tools)**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **25 HP**
+* **AC:** **18** (breastplate 14 + DEX +2 + shield +2)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Perception +3, Insight +3, Persuasion +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 (Battle Master)**
+
+* **Fighting Style:** **Defense** (+1 AC while using armor) → already included
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Superiority Dice:** **4d8**, **DC 13** (8 + PB 2 + STR 3)
+* **Maneuvers:**
+
+  * **Trip Attack** — knock prone to set up allies
+  * **Disarming Attack** — pop wands/weapons out of hands
+  * **Precision Attack** — turn near-miss into hit (signature)
+
+**Attacks**
+
+* **Longsword (1h):** +5 to hit, **1d8+3** slashing
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+* **Net (special):** on hit, target restrained (escape DC per RAW), then Ari closes to finish
+
+---
+
+## 🎯 Combat Tactics (Control Duelist / Setup Artist)
+
+* **Role:** **frontline control & setup**
+* **Opener:** **Net** or measured **Trip Attack** to drop priority target.
+* **Flow:** **Disarming Attack** on casters/archers; **Precision** to secure crucial hits; **Action Surge** to convert control into burst.
+* **Finisher:** shield bump → longsword cut across the guard line—clean and quiet.
+
+**Damage Flavor:** each maneuver clicks like a ruler on stone; angles and timing feel inevit­able rather than flashy.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ ใจเย็น เก็บรายละเอียดเก่ง ขอโทษง่ายแต่ไม่ถอยในหลักการ
+* **Ideal:** Order — “เส้นที่ตรงช่วยให้ทุกคนปลอดภัย”
+* **Bond:** ดูแลสะพานแก้วเส้นรองตรอกชุมชน; รู้ชื่อคนเฝ้ายามทุกรอบ
+* **Flaw:** แบกความรับผิดชอบเกิน—โทษตัวเองเสมอหากใครล้ม
+* **Quirk:** เคาะปลายดาบเบา ๆ สองครั้งกับพื้นก่อนขึ้นท่า—“ตั้งเส้น”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glass Bridges, lock stairs, canal switchbacks**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **bridge hold**, **escort through rain-slick lanes**, **disarm-and-drop on narrow stairs**
+
+---
+
+## 📜 Background & Lifestyle
+
+ลูกช่างตีเส้นสะพาน โตมากับระดับน้ำและมุมเอียง เขานำ “วิชาเส้น” มาใช้กับการต่อสู้—ขยับเพียงองศาเดียว ศัตรูก็ล้มเอง
+
+* **Lifestyle:** ห้องเล็กริมคูน้ำ แผนที่สะพานเต็มผนัง
+* **Income:** เงินเดือนยามสะพาน, โบนัสลากผู้ร้ายแบบไม่ทำคนเจ็บ
+
+---
+
+## 🧩 Morals & Ethics
+
+**“ชนะโดยไม่มีใครต้องตาย”** คือเป้าหมายหลัก—ถ้าเป็นไปได้จะเลือกปลดอาวุธ ล็อก และส่งมอบให้ศาลก่อน
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** คืนไร้เสียงก่อน Echo ปะทุ—ทำให้การ “ฟังเส้น” ของเขาพัง
+* **Weaknesses:** ไม่ใช่บ้าพลัง ถ้าถูกประชิดรุมยาว ๆ จะล้า
+* **Strengths:** คุมมุม คุมพื้น ช่วยทีม **set up advantage** ได้สม่ำเสมอ
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ — สุภาพ ทำให้เขินด้วยความตั้งใจดูแล**
+
+> “จับแขนผมไว้นะ… เดี๋ยวผมพาเดินตามเส้นที่ปลอดภัย.”
+
+ตอนสอนจะยืนซ้อนหลัง จับข้อมือจัดองศาดาบอย่างนุ่มนวลจนคนโดนสอนหน้าแดงเอง
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** เขามี “แผนที่เส้นเงียบ” ที่วาดจากความทรงจำ—พาไปยังทางลัดที่ไม่มีในผังเมือง
+* **Hooks:**
+
+  1. **Broken Line:** จุดตัดหนึ่งในแผนที่เริ่ม “ย้ายที่” เอง—เหมือนเมืองตอบโต้
+  2. **Disarm the Night:** โจร Echo ใช้เชือกเงาเลียนแบบเน็ตของเขา—ต้องหาวิธี “ตัดเงา”
+  3. **The Third Tap:** เคาะสองครั้งคือพร้อมรบ—คืนหนึ่งต้องเคาะ “ครั้งที่สาม” เพื่อเรียกบางอย่างในสะพาน
+
+---
+
+## Tags: #Male #Human #Fighter3 #BattleMaster #Control #Disarm #Trip #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ari **ยื่นโล่ให้เป็นกำแพงจังหวะฝน**
+
+> “หายใจพร้อมกัน… หนึ่ง สอง—ไป.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, light crossbow, net
+  * **Armor:** breastplate + shield
+  * **Tools:** chalk line kit, rope, manacles
+  * **Consumables:** salve ×2
+  * **Misc:** canal pass-tag, plumb bob
+* **Level-Up Suggestions (to 4):** **Feat: Shield Master** หรือ **+2 STR (to 18)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass Bridges & lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **bridge hold**, **escort**, **narrow-stair control**
+* **Affiliation:** **Rail Wardens — Tactics Cadre**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese male human fighter battle master 177cm medium side-part raven hair steel-blue sheen lean athletic steel breastplate indigo gambeson shield longsword net light crossbow rain-slick bridge tactical stance fantasy

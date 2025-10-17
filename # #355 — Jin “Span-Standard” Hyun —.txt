@@ -1,0 +1,192 @@
+# #355 — **Jin “Span-Standard” Hyun** — *Banner That Doesn’t Bow*
+
+> “Hold the line. I’ll make your breath worth two.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 355
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น น้ำเสียงนิ่งเชื่อถือได้
+* **Age:** 33
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Banneret/ Purple Dragon Knight) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **bridge line-captain / escort morale leader / riot stabilizer**
+* **Organization:** **Valeronnes Rail Wardens — Standard Cohort**
+* **Symbol:** ธงสามเหลี่ยมเล็กทาบรางแก้ว มีหยดฝนสามจังหวะเรียงลง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese stalwart captain** — calm eyes, quiet authority, posture like a fixed standard in the rain.
+
+**Height:** **182 cm** **Weight:** **80 kg**
+**Body Build:** **athletic–muscular**, squared shoulders, steady core.
+
+**Hair (Male Randomizer):** **Medium**, **low ponytail with tidy layered fringe**; ties flat for helm discipline.
+**Color:** **raven black with muted iron-brown lowlights**.
+**Eyes:** deep umber; a faint steel ring when he calls the line.
+**Skin:** fair-olive with weather-worn nose bridge.
+
+**Accessories (male glasses 30% → fail):** no glasses. **Steel ear-cuff** (mini standard motif), **braided command wrist-cord**, **rail token** tucked inside collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional command kit**
+
+A **brushed-steel breastplate** over an **indigo gambeson**, **reinforced bracers**, and **tapered guard-trousers** for long set-steps on slick glass. **Soft-sole boots** grip rails. A **short storm-cloak** pins tight; a **compact banner-pennon** rides the shield rim for sight-lines in rain.
+
+**Palette:** steel / indigo / charcoal / muted silver
+
+**Weapons & Gear:**
+
+* **Warhammer “Span-Standard”** (balanced face; rail-etched haft)
+* **Shield** (glass-inset boss with pennon clip)
+* **Javelin ×3**, **Dagger**
+* **Silk rope 50 ft, manacles, chalk-line, echo-salt, smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** +1)
+* **Speed:** 30 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +4
+* **Skills:** Athletics +6, Persuasion +3, Insight +3, Perception +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Banneret (Purple Dragon Knight)**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Rallying Cry:** เมื่อใช้ **Second Wind**, เลือกสิ่งมีชีวิต **สูงสุด 3 ตัว** ภายใน **60 ฟุต** ที่มองเห็น/ได้ยินคุณ—พวกเขาฟื้น **HP เท่ากับเลเวล Fighter (3)**
+
+**Attacks**
+
+* **Warhammer (1h):** +6 to hit, **1d8+4** bludgeoning (versatile **1d10+4** two-handed)
+* **Javelin (20/60):** +6 to hit, **1d6+4** piercing
+* **Dagger:** +6 to hit, **1d4+4** piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Anchor Captain / Rally & Push)
+
+* **Role:** **frontline protector / morale engine**
+* **Opener:** step to mid-span with **shield high**, mark lanes in chalk; first clash → **Second Wind + Rallying Cry** to top up 3 allies.
+* **Flow:** hold **Action Surge** for the decisive shove; hammer binds guards, shield pennon keeps formation in rain.
+* **Finisher:** shoulder-in under guard, short upward hammer face—lane advances three paces as breath returns to the team.
+
+**Damage Flavor:** when he calls the line, rain beads run straight down his pennon as if obeying parade ground rules.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุขุม พูดสั้นแต่ชัด; ให้ความรู้สึก “อยู่แล้วปลอดภัย”
+* **Ideal:** Duty-with-Care — “คุมเส้นเพื่อให้คนผ่าน ไม่ใช่เพื่อโชว์”
+* **Bond:** สมุดบันทึก “จุดพักหายใจ” บนสะพานทุกแห่งในเวรของเขา
+* **Flaw:** แบกภาระเกิน—มักอยู่ถึงคนสุดท้ายจนล้า
+* **Quirk:** เคาะขอบโล่หนึ่งทีเป็นสัญญาณรวบใจ—ทีมรู้ว่า “ตอนนี้หายใจเข้าพร้อมกัน”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock stairs, hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **escort with shield line**, **riot stabilization**, **quiet duel at mid-span**
+
+---
+
+## 📜 Background & Lifestyle
+
+อดีตผู้ช่วยครูฝึกเดินแถว เขาเปลี่ยน “ระเบียบก้าว” ให้ใช้ได้บนพื้นลื่น—คืนหนึ่งเขาใช้คำสั้น ๆ ยกทั้งแนวให้ลุกขึ้นพร้อมกันกลางฝน นับแต่นั้น *Standard Cohort* เรียกเขาว่า **Span-Standard** ธงเล็กที่ไม่ยอมเอนไปตามลม
+
+* **Lifestyle:** ห้องเวรติดคลังโล่และธง มีแผนที่สะพานกับหมายเหตุจุดพัก
+* **Income:** เงินเดือน Wardens, โบนัสคุ้มกัน, ค่าระงับเหตุจลาจล
+
+---
+
+## 🧩 Morals & Ethics
+
+“รักษาชีวิตก่อนรักษาเส้นชัย” — ถ้าเลือกได้ เขาจะยืดไฟต์หนึ่งจังหวะเพื่อให้คนผ่านปลอดภัย
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** สะพานที่ “ไม่ฟังคำสั่งเท้า” — ลาง Echo ทำจังหวะหาย
+* **Weaknesses:** ดาเมจไม่สุด; ต้องอาศัยจังหวะทีมเพื่อปิดงาน
+* **Strengths:** **AC 19**, **Rallying Cry ฟื้นเพื่อนพร้อมกัน**, **Action Surge** พลิกดัน, นำฟอร์เมชันบนพื้นลื่นเยี่ยม
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — สุขุมทำให้อุ่นใจ:**
+
+> “ยืนตามสัญญาณ—หายใจเข้าพร้อมกัน… ดี มากับผม.”
+
+ตอนซ้อม เขาจะวางมือที่ศอก จัดแกนลำตัว แล้วพยักหน้า “แค่นี้—ให้เส้นเป็นของเรา”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** pennon ของเขา **สั่นรับลมเอง** เมื่อคนในแนว “กลัว” — เขาอ่านใจทีมได้จากปลายผ้า
+* **Hooks:**
+
+  1. **Pennon Theft:** ผู้ร้ายขโมย pennon ตัวจริง—แนวของเมืองเริ่ม “ไม่เชื่อฟัง” ต้องกู้ธงคืน
+  2. **Breath Tax:** แก๊งหนึ่งทำให้ผู้คนหายใจสั้นพร้อมกัน—เขาต้องสู้เพื่อคืน “จังหวะหายใจ” ให้สะพาน
+  3. **Standard of Two:** มีคนถือธงลอกเลียนแบบและสั่งแนวผิด—ต้องดวล “ธงกับธง” กลางฝน
+
+---
+
+## Tags: #Male #Human #Fighter3 #Banneret #LineCaptain #Support #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Jin **ยกโล่ให้เป็นเงาและเคาะขอบหนึ่งที**
+
+> “หายใจ เข้า—ออก… ไป.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** warhammer, shield, 3× javelins, dagger
+  * **Armor:** breastplate set
+  * **Tools:** chalk-line, silk rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** command wrist-cord, rail token, pennon clip
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Shield Master / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **escort formation**, **riot stabilize**, **mid-span duel**
+* **Affiliation:** **Standard Cohort — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male human fighter banneret 182cm medium low ponytail raven hair iron-brown lowlights athletic muscular steel breastplate shield warhammer low exposure rain-slick bridge command pennon calm leader fantasy

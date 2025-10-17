@@ -1,0 +1,207 @@
+# #289 — **Vaerin Corvale** — *The Laughing Venom of Valeronnes*
+
+> “The sweetest poisons are the ones that smile while they kill.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 289
+* **Gender:** **Female (Type: รุ่นพี่)** — ท่าทางมั่นใจ ดูอบอุ่นแต่แฝงอันตรายไว้ในน้ำเสียง
+* **Age:** 29
+* **Race:** **Human**
+* **Class & Level:** **Rogue (Assassin / Poisoner)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Evil** (but charming enough to pass for good)
+* **Profession:** **Professional courtesan–assassin / toxin brewer / perfume alchemist**
+* **Organization:** **House of the Golden Thorn (Valeronnes underground guild)**
+* **Symbol:** a rose thorn dripping gold
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Korean hybrid** — soft but sculpted features, intense eyes, lips shaped like secrets.
+
+**Eyes:** deep wine-red, shifting golden ring at the iris edge.
+**Skin:** warm ivory tone, smooth with faint blush undertones.
+
+**Hair (Female-set Randomizer):** 🎲 **Bun / Twin Bun slot** → **High bun**, some loose curls.
+**Color:** **dark mahogany with crimson tint**.
+
+**Height:** **173 cm**
+**Weight:** **61 kg**
+**Body Type:** **hourglass**, athletic grace with dancer’s hips.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: H   CATEGORY: Very Large  
+THREE_SIZES (B-W-H, cm): 105 – 73 – 110  
+VALIDATION: W/B = 0.70 → OK   H/W = 1.51 → OK  
+```
+
+**Sub-Theme Roll:** 🎲 **Aristocrat (35%) → success**
+**Glasses Rule:** Aristocrat females wear glasses → ✅ yes
+
+**Jewelry & Accessories:** thin wire-frame glasses with golden rims, gold drop earrings, silk choker with ruby pendant, ring knife hidden beneath its gem.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High (courtesan aesthetic)**
+
+A **crimson corset gown** slit high at one leg, fitted leather beneath for mobility.
+Back **half-exposed**, showing faint tattooed runes for “breath suppression” (allowing her to hold poison gas longer).
+**Arm-length gloves**, **dagger garter** on left thigh, **perfume belt** of tiny vials.
+
+**Palette:** crimson / black / gold
+**Weapons & Gear:**
+
+* *Sting of Valeronnes* (rapier coated in paralyzing toxin, +1 finesse)
+* *Perfume vials* (contact poisons, 4x types)
+* *Needle ring* (coated with venom, DC 13 CON)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **20 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 14 (+2)** **WIS 11 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** Persuasion +5, Stealth +6, Deception +5, Sleight of Hand +6, Performance +5
+* **Languages:** Common, Elvish, Infernal, Valeron Trade
+
+**Rogue (Assassin) 3**
+
+* **Sneak Attack (2d6)**
+* **Assassinate (Adv & Crit vs. surprised targets)**
+* **Poisoner’s Expertise (home adjustment):** advantage on making / applying poisons.
+* **Cunning Action (Bonus):** Dash, Hide, Disengage.
+* **Tools:** Poisoner’s kit, Disguise kit.
+
+**Attacks**
+
+* **Rapier:** +6 to hit, 1d8+4 piercing + 2d6 sneak + poison (DC 13 CON or paralyzed 1 turn).
+* **Needle Ring:** +6 to hit, 1 piercing + poison (contact).
+
+---
+
+## 🎯 Combat Tactics (Poison Controller / Charmer Assassin)
+
+* **Role:** **infiltration & social elimination**
+* **Opener:** charm → close distance → needle jab handshake.
+* **Flow:** feign vulnerability; attack when they breathe her perfume.
+* **Finisher:** *Assassinate* with rapier to heart, whispering apology.
+
+**Damage Flavor:** victims’ eyes glaze over as she kisses their cheek — the scent of roses the last thing they know.
+
+---
+
+## 💬 Personality
+
+* **Traits:** composed, flirtatious, enjoys control through affection.
+* **Ideal:** Power — “A smile is sharper than any blade.”
+* **Bond:** secretly protects orphans of Valeronnes with her pay.
+* **Flaw:** overestimates her ability to read people; guilt burns slowly.
+* **Quirk:** tastes each new poison on her own tongue first.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Gilded Spire Districts**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **gala infiltration**, **poison heist**, **political seduction**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born into nobility, trained in dance and court diplomacy; discovered poisons when she sought a way to survive politics.
+Now lives among the shadows of her old house, protecting the weak while killing for coin.
+
+* **Lifestyle:** elegant, perfumed halls, deadly beauty in every motion.
+* **Income:** noble patrons, assassination commissions.
+* **Relationships:** admirer of Vynessa (#284), silent competitor to Ryn (#285).
+
+---
+
+## 🧩 Morals & Ethics
+
+Sees morality as balance through pain and pleasure. “I kill them kindly, so they die believing in beauty.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her composure—her charm is her mask.
+* **Weaknesses:** guilt-driven; overuses poison near innocents.
+* **Strengths:** mastery of seduction, toxin design, and acting.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — seductive, composed control:**
+
+> “Darling, don’t pull away. It’s not the poison that hurts—it’s the trust.”
+
+มักใช้ปลายนิ้วลากคางคู่สนทนาเบา ๆ จนรู้สึกไฟวาบในอก
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her favorite toxin is derived from her own blood; it only works on people she’s kissed.
+* **Hooks:**
+
+  1. **The Golden Thorn:** she’s framed for killing a noble she never met.
+  2. **Perfume of Memory:** a potion that makes her remember every kill’s final words.
+  3. **Roses in Reverse:** her poisons start healing rather than harming.
+
+---
+
+## Tags: #Female #Human #Rogue3 #Assassin #Poisoner #CR1 #Aristocrat #Seductive
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Vaerin **ทำให้คนเขินโดยเข้าใกล้เกินจำเป็นขณะพูดเบา ๆ จนกลิ่นหอมอ่อน ๆ ติดเสื้ออีกฝ่าย**
+
+> “Don’t worry—it’s not lethal unless I mean it.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, needle ring
+  * **Armor:** light leather corset
+  * **Tools:** poisoner’s kit, disguise kit
+  * **Consumables:** perfume vials ×4
+  * **Misc:** gold-rose choker
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Poisoner / Actor**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Gilded Spire Districts**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **assassination gala**, **noble intrigue**, **venom trade**
+* **Affiliation:** **House of the Golden Thorn**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Korean female human rogue assassin 173cm mahogany bun hair red eyes ivory skin H-cup crimson corset gown thigh slit high heels gold glasses seductive poison perfume

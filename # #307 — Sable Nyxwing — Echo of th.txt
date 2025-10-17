@@ -1,0 +1,206 @@
+# #307 — **Sable Nyxwing** — *Echo of the Black Lantern*
+
+> “Shadows don’t hide me. They introduce me politely.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 307
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — สนิทง่าย ปากเก่งนิด ๆ ล้อเล่นเก่ง แต่รู้จังหวะจริงจังเสมอ
+* **Age:** 23
+* **Race:** **Half-Beast (mammal — bat lineage)** — ~88% humanlike; faint velvet webbing at outer arms when gliding, ears slightly pointed with dusky inner hue
+* **Class & Level:** **Monk (Way of Shadow) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **night courier / infiltration scout / silence operative**
+* **Organization:** **Thalassara Moon Canals – Black Lantern Cell**
+* **Symbol:** a paper lantern with its flame snuffed, ringed by sound-ripples
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese street stealth** — bright clever eyes, foxish grin, posture light on the balls of her feet as if ready to vanish.
+
+**Eyes:** smoky charcoal with subtle silver ring; pupils dilate wide in dim light.
+**Skin:** pale olive with a cool, noctilucent sheen on shoulders.
+
+**Hair (Female Hair Randomizer):** 🎲 **Straight (top frequency)**
+**Style:** **long, straight** glass-sheen hair with **blunt micro-bangs**; a thin underlayer is dyed darker to break silhouette.
+**Color:** **inky black with cobalt-blue tips.**
+
+**Height:** **168 cm**
+**Weight:** **58 kg**
+**Body Type:** **athletic-curvy**, runner’s thighs, tight waist, graceful arms.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 100 – 69 – 105
+VALIDATION: • W/B = 0.690 → OK   • H/W = 1.52 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **None**
+**Glasses Roll (non-theme female 50%) → fail**
+
+**Jewelry & Accessories:** matte obsidian stud earrings, slim throat cord with tiny black-pearl charm (focus for breathing drills), braided ankle thread with two mute chimes.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High (stealth couture; artistic, non-explicit)**
+
+A **matte black wrap-top** with **deep V** and **side cutouts** hidden beneath a shadow-weave mesh, paired with **high-waist stealth leggings** panel-stitched for silent splits and vaults.
+A **short, hooded half-cloak** breaks her outline; inner hem inked with sound-damping runes. Split-sole boots kiss the stone without a whisper.
+
+**Palette:** black / cobalt / smoke-silver
+**Weapons & Gear:**
+
+* *Moon-quiet shortsword* (monk weapon)
+* 8 **shadow darts** (velvet-fletched)
+* **Climber’s kit**, smoke bead ×2, chalk dust, black-lantern signal token
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 = **24 HP**
+* **AC:** **17** (Unarmored Defense: 10 + DEX 4 + WIS 3)
+* **Speed:** **40 ft**; **Glide 15 ft** (racial flavor)
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, DEX +6
+* **Skills:** Stealth +8, Acrobatics +6, Perception +5, Athletics +4, Insight +5
+* **Languages:** Common, Thalassaran Cant, Under-Whistle (bat sign cant)
+
+**Monk (Way of Shadow) 3**
+
+* **Martial Arts (1d4)**, **Ki (3)**, **Unarmored Movement (+10 ft)**
+* **Flurry of Blows, Patient Defense, Step of the Wind**
+* **Shadow Arts:** spend 2 ki to cast **Darkness, Darkvision, Pass without Trace, or Silence**
+* **Shadow Step (flavor via rapid footing; arrives at 6th, not yet available RAW)**
+
+**Attacks**
+
+* **Shortsword (monk weapon):** +6 to hit, 1d6+4 slashing
+* **Unarmed Strike:** +6 to hit, 1d4+4 bludgeoning (two per **Flurry**)
+* **Darts:** +6 to hit, 1d4+4 piercing (20/60)
+
+---
+
+## 🎯 Combat Tactics (Shadow Control / Opener)
+
+* **Role:** **infiltration opener / silence controller / skirmisher**
+* **Opener:** **Pass without Trace** on team → rooftop route → drop into **Silence** bubble to isolate a caster.
+* **Flow:** **Patient Defense** to bait, counter with **Flurry**; pop **Darkness** to cut lines of fire then climb out.
+* **Finisher:** short burst across a wall into throat-tap combo; whispers “lights out” as the lantern sigil snuffs.
+
+**Damage Flavor:** impacts pull heat from the air; breath sounds briefly flatten like recording static.
+
+---
+
+## 💬 Personality
+
+* **Traits:** cheeky, observant, flirts via dares; protective once you’re “in the circle.”
+* **Ideal:** Mercy through Precision — “Noise saves no lives.”
+* **Bond:** swears by her canal kids’ safe-routes map.
+* **Flaw:** pushes luck when the shadows feel “too friendly.”
+* **Quirk:** counts beats with her tongue on the palate before any risky move.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Canals, Echo-bridges, theater roofs**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **blackout heist**, **canal ambush**, **ritual silencing**
+
+---
+
+## 📜 Background & Lifestyle
+
+Orphan runner who ferried hush-messages between stages and shrines; the Black Lantern taught her to make quiet into a weapon. She maps cities by how they swallow sound.
+
+* **Lifestyle:** hammock loft above a bell-maker’s shop (bells kept wrapped).
+* **Income:** night courier retainers, hazard pay for Echo nights.
+* **Relationships:** rooftop race rival of Nyxa (#303); trades silent routes with Selune (#288).
+
+---
+
+## 🧩 Morals & Ethics
+
+Noise is kindness only when it’s laughter. Everything else is better quiet.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** total silence over the canals (Severance swell).
+* **Weaknesses:** thin armor; if cornered without ki she’s fragile.
+* **Strengths:** team stealth amplification, caster shutdown via **Silence**, first-round tempo control.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — teasing challenge:**
+
+> “Bet you can’t match my footsteps for ten heartbeats.”
+
+เธอชอบทำให้คนเขินด้วยการแนบหลังสอน “ลมหายใจเงียบ” เอาปลายจมูกแตะแก้มเบา ๆ แล้วกระซิบ “ยังดังไปครึ่งจังหวะนะ”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her black-pearl charm holds a minute of “stolen silence” from an Echo shrine — it’s running out.
+* **Hooks:**
+
+  1. **Lantern Debt:** the Black Lantern demands a theft of *sound itself* from a Severance choir.
+  2. **Shadow Ledger:** someone pays assassins using her routes; she’s framed.
+  3. **Mute Tide:** **Silence** zones begin spreading after her missions, swallowing whole streets.
+
+---
+
+## Tags: #Female #HalfBeast #Bat #Monk3 #WayOfShadow #CR1 #Stealth #Silence #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Sable **ชอบท้าทายแล้วกระซิบใกล้หูจนรู้สึกอุ่น**
+
+> “Breathe with me—quiet as a lie you haven’t told yet.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** shortsword, 8 darts
+  * **Armor:** shadow-weave outfit (counts as clothes)
+  * **Tools:** climber’s kit, chalk dust
+  * **Consumables:** smoke beads ×2
+  * **Misc:** black-lantern token, mute-chime anklet
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Mobile / Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Echo-bridges & Moon Canals**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **blackout heist**, **silent caster takedown**, **roof-run pursuit**
+* **Affiliation:** **Black Lantern Cell**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female half-beast bat monk way of shadow 168cm long straight black hair cobalt tips G-cup high exposure stealth wrap-top side cutouts hooded half-cloak silent night rooftop

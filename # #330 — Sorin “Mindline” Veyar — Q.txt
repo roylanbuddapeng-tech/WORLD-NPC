@@ -1,0 +1,197 @@
+# #330 — **Sorin “Mindline” Veyar** — *Quiet Edge of the Glass Nerve*
+
+> “A blade in hand is simple. A blade in thought is already home.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 330
+* **Gender:** **Male (Type: เคะ)** — สุภาพ นิ่มนวล ชัดเจนเวลาตัดสินใจ
+* **Age:** 23
+* **Race:** **Human (Valeronnes)**
+* **Class & Level:** **Fighter (Psi Warrior) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **rooftop escort / psionic bodyguard / lane controller**
+* **Organization:** **Valeronnes Glass-Archive — Quiet Hands (Escort Wing)**
+* **Symbol:** เส้นดาบบาง ๆ พาดทับคลื่นสมองรูปหยัก
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese** — soft features, steady gaze, gentle smile that hides quick calculations.
+
+**Eyes:** slate-brown with a faint violet sheen when psionics spool up.
+**Skin:** pale ivory with cool undertones.
+
+**Hair (Male Randomizer):** **Medium length**, **side-part with neat layered fringe**; wind-swept but tidy.
+**Color:** **raven black with muted violet-blue sheen**.
+
+**Height:** **178 cm**
+**Weight:** **71 kg**
+**Body Build:** **lean-athletic**, wiry arms, balanced footwork.
+
+**Accessories (glasses 30% roll → success):** **thin rectangle spectacles** (anti-glare sigils), **silver ear-cuff**, **braided data-band** at wrist.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional stealth kit**
+
+A **matt-steel half-breastplate** over **charcoal padded jacket**, **quiet-weave bracers**, and **split tactical trousers** for vaulting. **Soft-sole boots** grip wet glass. A **short storm cloak** pins flat to avoid snagging on rooftop rails.
+
+**Palette:** charcoal / steel / muted violet accents
+**Weapons & Gear:**
+
+* **Longsword “Mindline”** (balanced, matte fuller)
+* **Dagger** (utility)
+* **Light crossbow** + 20 bolts
+* **Climber’s kit, silk rope 50 ft, smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **18** (half-plate style breastplate 14 + DEX +2 + **Defense** +1 + glasses don’t count)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Athletics +4, Perception +3, Insight +3, Investigation +3, Acrobatics +4
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Psi Warrior**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Psionic Power (d6 dice = 4):** save DC **13** (8 + PB2 + INT1 + mod? RAW uses 8 + PB + INT)
+
+  * **Telekinetic Strike:** on a weapon hit, expend die → add **1d6** force and shove target **5 ft** (no save).
+  * **Protective Field:** reaction; reduce damage to yourself/ally within 30 ft by **1d6 + INT (1)**.
+  * **Psi-Powered Leap (flavor travel):** as bonus, long leaps/vertical bursts (no die unless enhance).
+
+**Attacks**
+
+* **Longsword (1h):** +4 to hit, **1d8+2** slashing; may add **Telekinetic Strike (1d6 force + shove 5 ft)**
+* **Dagger:** +4 to hit, **1d4+2** piercing (20/60)
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+
+---
+
+## 🎯 Combat Tactics (Psionic Control Duelist)
+
+* **Role:** **frontline control / peel & protect**
+* **Opener:** tag priority with **Telekinetic Strike** to shove off the good footing (stairs/bridge edges).
+* **Flow:** rotate **Protective Field** to soak hits for squishies; **Action Surge** to secure a knock-off or pin.
+* **Finisher:** step-through cut while mind-shoving the guard aside; neat, almost silent.
+
+**Damage Flavor:** when he adds psionics, the blade hums a glassy tone and the air ripples like heat above stone.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ อ่อนโยน มองการณ์ไกล; ชวนคุยเบา ๆ ก่อนเลือกมุมโจมตี
+* **Ideal:** Care — “การปกป้องคือคณิตศาสตร์ของใจ”
+* **Bond:** มีสมุดบันทึก “จุดปลอดภัย” บนหลังคา/สะพานสำหรับพาคนข้าม
+* **Flaw:** โทษตัวเองแรงเมื่อล้มเหลวในการเซฟเพื่อน
+* **Quirk:** ดันแว่นขึ้นจมูกสองครั้งก่อนตัดสินใจเสี่ยง
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glass bridges, roof-rails, hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **rooftop escort**, **bridge peel vs raiders**, **silent stair skirmish**
+
+---
+
+## 📜 Background & Lifestyle
+
+เด็กฝึกคลังเอกสารที่อ่านลมหลังคาเก่งผิดปกติ วันหนึ่งความคิด “ยกน้ำหนักอากาศ” ของเขาก็กลายเป็นแรงจริง เขาถูกดึงเข้าหน่วยคุ้มกันผู้ส่งสารเงียบ—เป็นดาบที่เคลื่อนด้วยความคิด
+
+* **Lifestyle:** ห้องมุมบนหลังคา เต็มสายเชือกและหมุด
+* **Income:** เงินเดือนคุ้มกัน, โบนัสภารกิจด่วน, เบี้ยเสี่ยง Echo
+
+---
+
+## 🧩 Morals & Ethics
+
+**“ปลอดภัยก่อน สวยงามทีหลัง”** — ถ้าจำเป็น เขาจะผลักศัตรูตกจากสะพานแทนที่จะเสี่ยงดวลยืดเยื้อ
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** เสียง “เงียบสนิท” ที่ตัดการสั่นของคมดาบ—หมายถึง Echo ใกล้ปะทุ
+* **Weaknesses:** ดาเมจระยะยาวกลาง ๆ; ถ้าเป้าหมายหนักมากผลักยากบนพื้นที่โล่ง
+* **Strengths:** **damage prevention** แบบทันใจ, **position control** ผลัก/จัดแนว, **mobility bursts**
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ — สุภาพ ดูแลอย่างใจเย็น:**
+
+> “จับชายเสื้อผมไว้ก็ได้… ผมจะกั้นลมให้.”
+
+เวลาสอน เขาจะยืนซ้อนหลัง จับข้อมือปรับมุมดาบแล้วกระซิบ “ดีมาก—คราวนี้ให้จิตพยุงน้ำหนัก”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** แว่นของเขาเป็น **เลนส์ซึ่งกันเสียงสะท้อน**—ช่วยโฟกัสพลังจิต แต่เริ่มร้าวเมื่อใช้หนัก
+* **Hooks:**
+
+  1. **The Fifth Step:** บนสะพานหนึ่งก้าวที่ห้าเสมอ “ลื่น” แม้แห้ง—มีบางอย่างผลักกลับ
+  2. **Mind Echo:** ศัตรูใหม่สะท้อน **Protective Field** ใส่ทีม—ใครกำลังอ่านสมองของเขา
+  3. **Glass Nerve:** เส้นถนนใต้เมืองเต้นตามหัวใจเขา—ชี้ไปยังห้องทดลองลับ
+
+---
+
+## Tags: #Male #Human #Fighter3 #PsiWarrior #Control #Protection #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Sorin **ดันแว่นขึ้น แล้วยื่นมือรับน้ำหนักสัมภาระให้**
+
+> “แบ่งให้ผมหน่อย—จะได้เดินเร็วและปลอดภัยกว่านี้.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, dagger, light crossbow
+  * **Armor:** half-breastplate set
+  * **Tools:** climber’s kit, silk rope
+  * **Consumables:** smoke bead ×1, salve ×2
+  * **Misc:** data-band, roof mapbook
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 16/18 build)** หรือ **Feat: Telekinetic / Shield Master**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & rooftop rails**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **escort peel**, **bridge control**, **silent stair fight**
+* **Affiliation:** **Quiet Hands — Escort Wing**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese male human fighter psi warrior 178cm medium side-part raven hair violet sheen lean athletic half-breastplate charcoal jacket glasses longsword light crossbow rooftop bridge night fantasy

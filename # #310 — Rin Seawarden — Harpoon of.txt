@@ -1,0 +1,211 @@
+# #310 — **Rin Seawarden** — *Harpoon of the Hushed Tide*
+
+> “Monsters breathe too. Find the breath—end the hunt.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 310
+* **Gender:** **Female (Type: ทอมบอย — ประเภทที่ 2 กล้ามเนื้อชัด ห้าวๆ)**
+* **Age:** 23
+* **Race:** **Half-Beast (aquatic — shark lineage)** — มนุษย์ ~86%; ดวงตาเทาเงินรูปราวฉลาม, ผิวมีลายคลื่นจาง ๆ ที่ไหล่และสะโพก, ฟันกรามมีรอยคมเล็ก ๆ
+* **Class & Level:** **Ranger (Monster Slayer) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **นักล่ามอนสเตอร์ริมชายฝั่ง / ผู้คุ้มกันคาราวานทางน้ำ / ผู้ล่าก้องสะท้อน (Echo-hunter)**
+* **Organization:** **Thalassara Moon-Canal Freehunters**
+* **Symbol:** หอกฉมวกทับบนคลื่นสามชั้น
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Thai athletic** — sharp cheekbones, sea-storm eyes, confident stance like a sprinter at the block.
+
+**Eyes:** steel-gray with a narrow predator gleam; pupils thin slightly in bright light.
+**Skin:** sun-bronzed with faint rippling patterns at shoulders and hips.
+
+**Hair (Female Randomizer):** 🎲 **Ponytail (top-weight)**
+**Style:** high, tight **athletic ponytail** with undercut lines for grip; a few loose strands frame the jaw.
+**Color:** **deep black with cool teal sheen.**
+
+**Height:** **171 cm**
+**Weight:** **62 kg**
+**Body Type:** **fit-muscular**, swimmer’s back, powerful thighs, compact core.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 69 – 101
+VALIDATION: • W/B = 0.704 → OK   • H/W = 1.46 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **None**
+**Glasses Roll (non-nerd female 50%) → fail** — no glasses.
+
+**Jewelry & Accessories:** shark-tooth pendant (lucky charm), matte-steel ear cuff, braided cord bracelet with tiny float-stone, ankle strap with mute bells (for canal stalking).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium (functional hunter gear)**
+
+Rin wears a **sea-gray leather half-jerkin** over a **dark compression crop** for core support, paired with **ribbed tactical leggings** reinforced at knees and hips.
+A **short hooded cloak** of water-shedding weave breaks her outline in rain.
+Her boots are split-soled for silent footing on wet stone; a thigh holster holds a collapsible harpoon head.
+
+**Palette:** sea-gray / black / teal accents
+**Weapons & Gear:**
+
+* **Collapsible harpoon-spear “Ripcurrent”** (versatile; rope & reel)
+* **Shortsword (sawback edge)**
+* **Hand crossbow** with barbed bolts
+* **Monster notes slate**, chalk, 2× smoke beads, climber’s kit
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **28 HP**
+* **AC:** **17** (studded leather + DEX)
+* **Speed:** 30 ft; **Swim 30 ft (lineage flavor)**
+* **STR 14 (+2)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, DEX +6
+* **Skills:** Perception +4, Survival +6, Athletics +6, Stealth +6, Investigation +2, Nature +2
+* **Languages:** Common, Aquan, Thalassaran Cant
+
+**Ranger (Monster Slayer) 3**
+
+* **Monster Slayer Magic:** *Protection from Evil and Good* (always prepared)
+* **Hunter’s Sense (1/short rest):** วิเคราะห์จุดต้านทาน/ภูมิคุ้มกันของเป้าหมายใน 60 ฟุต
+* **Slayer’s Prey (Bonus Action):** ทำเครื่องหมายศัตรู; ครั้งแรกที่โจมตีโดนในแต่ละเทิร์นเพิ่ม **+1d6**
+* **Deft Explorer (Canny – Perception)**, **Favored Foe (Tasha’s)**
+
+**Spellcasting (WIS DC 12, +4 atk)**
+
+* *Prepared:* *Hunter’s Mark, Protection from Evil and Good, Absorb Elements, Zephyr Strike, Detect Magic*
+
+**Attacks**
+
+* **Ripcurrent (harpoon-spear, versatile 1h/2h):** +6 to hit, **1d6+4** (1h) or **1d8+4** (2h) piercing; if tethered, bonus action to **reel 5 ft** (STR save DC 12 or pulled)
+* **Shortsword (sawback):** +6 to hit, 1d6+4 slashing
+* **Hand Crossbow:** +6 to hit, 1d6+4 piercing; barbed bolt imposes –10 ft move on hit (1/rest)
+
+---
+
+## 🎯 Combat Tactics (Anti-Monster Controller)
+
+* **Role:** **single-target lockdown / tracker**
+* **Opener:** **Hunter’s Sense** to read resistances → **Slayer’s Prey** → **Harpoon** from cover.
+* **Flow:** anchor with rope, yank into ally range; **Zephyr Strike** to re-position; swap to sawback for bleed (flavor).
+* **Finisher:** trip at water’s edge, **Protection from Evil and Good** on self, then reel-and-thrust.
+
+**Damage Flavor:** impacts sound like a dull wave thud; teal ripples pulse from the wound like sonar.
+
+---
+
+## 💬 Personality
+
+* **Traits:** พูดน้อย ตรงประเด็น ห้าวแบบจริงใจ; ขี้ประชดนิด ๆ เวลาเจอคนอวดเก่ง
+* **Ideal:** Responsibility — “คนที่แกร่งกว่าต้องเป็นคนล่าตัวประหลาด ไม่ใช่คนอ่อนแอ”
+* **Bond:** บันทึกชื่อผู้ที่เธอช่วยจากสัตว์น้ำ—กลับไปส่งปลาแห้งให้ครอบครัวทุกปี
+* **Flaw:** ดื้อเรื่องความปลอดภัยของตัวเอง ชอบรับหน้าชน
+* **Quirk:** ดมลมก่อนยิงทุกครั้ง; ถ้ากลิ่นเค็มผิดปกติจะเชื่อสัญชาตญาณทันที
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Canals, breaker-locks, sub-harbor tunnels**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **ล่าเอคโค่-มอนสเตอร์ในคูคลอง**, **ดึงศัตรูตกน้ำ**, **คุ้มกันคาราวานแพกลางคืน**
+
+---
+
+## 📜 Background & Lifestyle
+
+เติบโตกับชาวประมงท่าเรือ—พ่อถูก Echo-eel ฉกร่างหายไปต่อหน้าต่อตา เธอฝึกฉมวกจนควบคุมเหยื่อเหมือนคุมเรือในกระแสน้ำ ปัจจุบันรับจ้างไล่มอนสเตอร์ที่คุกคามชุมชนริมน้ำ
+
+* **Lifestyle:** ห้องใต้หลังคาเหนือตรอกท่าเรือ, เช้าซ่อมอุปกรณ์ เย็นฝึกว่ายทวนน้ำ
+* **Income:** ค่าหัวมอนสเตอร์, สัญญาคุ้มกัน, โบนัสคืนเทศกาล
+
+---
+
+## 🧩 Morals & Ethics
+
+“ฆ่าเฉพาะที่ล่าเรา”—มองสัตว์ประหลาดเหมือนพายุ ต้องอ่านทิศและปิดงานให้สะอาด ไม่เล่นกับเหยื่อ
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** เสียงเงียบสนิทก่อนคลื่นซัด (สัญญาณ Echo Surge)
+* **Weaknesses:** ถ้าศัตรูตัดเชือกฉมวก เธอจะเสียจังหวะหลัก
+* **Strengths:** ล็อคเป้าหมายเดี่ยว, ควบคุมระยะ, อ่านจุดต้านทานอย่างว่องไว
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย tone — ห้าว แซวตรง ๆ:**
+
+> “มองกล้ามเหรอ? โอเค… งั้นถือเชือกให้แน่น เดี๋ยวฉันดึงมันมาให้ดูใกล้ ๆ”
+
+เวลาเธอชอบใครจะสอนผูกเงื่อนแบบแนบตัว กระซิบสั้น ๆ ติดริมหูจนอีกฝ่ายหน้าแดง
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** เชือกฉมวกของเธอถักจาก “สายคลื่นนิ่ง” ที่ได้จากพิธีแปลก—มันดึงสิ่งไม่มีตัวตนได้
+* **Hooks:**
+
+  1. **The Breathless Wake:** มอนสเตอร์ไม่หายใจ—ทุกอาวุธพลาด; ต้องหา “ลมหายใจที่ยืมมา” คืน
+  2. **Cut Line:** ใครบางคนขโมยฉมวก Ripcurrent ไปใช้จับคน แทนที่จะจับสัตว์
+  3. **Tide Oath:** ชายฝั่งหนึ่งจ่ายให้เธอหยุดล่า—เพราะมอนสเตอร์คือผู้พิทักษ์โบราณ
+
+---
+
+## Tags: #Female #Tomboy #HalfBeast #Shark #Ranger3 #MonsterSlayer #Controller #Harpoon #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rin **ชอบทำให้เขินด้วยการจับมือวางบนเชือกฉมวกแล้วบอกให้ “ดึงพร้อมกัน”**
+
+> “หนึ่ง…สอง…ดึง—ดีมาก เห็นไหมว่าเราเข้าจังหวะกัน”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** harpoon-spear, shortsword, hand crossbow
+  * **Armor:** studded half-jerkin
+  * **Tools:** climber’s kit, monster slate
+  * **Consumables:** smoke beads ×2, antitoxin ×1
+  * **Misc:** float-stone charm, rope & reel (50 ft)
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** หรือ **Feat: Piercer / Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Moon Canals & sub-harbor tunnels**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **canal hunt**, **reel-and-thrust duel**, **caravan boat defense**
+* **Affiliation:** **Moon-Canal Freehunters**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Thai female half-beast shark ranger monster slayer 171cm athletic high ponytail black teal sheen gray eyes F-cup sea-gray leather crop top tactical leggings hooded short cloak harpoon spear canal night fantasy

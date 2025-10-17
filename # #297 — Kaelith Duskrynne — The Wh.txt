@@ -1,0 +1,196 @@
+# #297 — **Kaelith Duskrynne** — *The Whisper in the Smoke*
+
+> “Poison isn’t a weapon. It’s a conversation that ends only when you stop breathing.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 297
+* **Gender:** **Male (Type: เมะ)** — บุคลิกสุขุมเย็นชา น้ำเสียงเรียบแต่กดต่ำแบบที่ทำให้ทุกคำฟังดูอันตรายและน่าฟังในเวลาเดียวกัน
+* **Age:** 32
+* **Race:** **Half-Beast (Serpentkin)** — human-like (≈88%), faint golden slit pupils, subtle scale sheen at neck and forearms.
+* **Class & Level:** **Rogue (Assassin)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Evil**
+* **Profession:** **contract killer / poison specialist / infiltrator**
+* **Organization:** **The Black Coil — underguild of Skarnov**
+* **Symbol:** ouroboros biting its tail through a dagger blade.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Japanese hybrid** — calm masculine beauty, straight nose, piercing gaze that never blinks for too long.
+
+**Eyes:** pale amber with vertical pupils; narrow and hypnotic.
+**Skin:** smooth tan with faint greenish undertone under the right light.
+
+**Hair (Male Hair Randomizer):** 🎲 **Short (40%) — styled undercut with swept fringe**
+**Color:** **smoky black with faint emerald hue.**
+
+**Height:** **181 cm**
+**Weight:** **77 kg**
+**Body Build:** **lean-muscular**, swimmer’s frame; toned core, light shoulders, quiet precision.
+
+**Accessories:** serpent-bone earring (single left ear), black leather gloves, coiled choker with hidden toxin needle, thin band of obsidian around right thumb.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Rule (Male):** low–functional (covert operative).
+
+He wears **dark matte leather armor**, sleeveless, tailored close to the body for silent movement.
+Underneath: **ash-gray silk shirt**, slit at collar, and **charcoal sash belt** holding concealed daggers.
+Boots are soft-heeled for zero sound.
+At night, he dons a **hooded smoke-cloak** that ripples faintly with a green iridescent hue — the shimmer of venom vapor.
+
+**Palette:** black / moss green / tarnished gold
+**Weapons & Gear:**
+
+* *Twin Daggers “Hiss” and “Still”* (poison-coated, balanced for thrown)
+* *Wrist crossbow* (10 bolts, loaded with toxin)
+* *Assassin’s kit*: 3 vials (paralytic, hallucinogen, bloodburn).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **23 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 18 (+4)** **CON 14 (+2)** **INT 12 (+1)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Stealth +8, Acrobatics +6, Perception +3, Deception +3, Investigation +3, Sleight of Hand +6
+* **Languages:** Common, Draconic, Skarnov Cant
+
+**Rogue (Assassin) 3**
+
+* **Assassinate:** adv. vs any creature not yet acted; crit vs surprised.
+* **Cunning Action:** bonus Dash/Disengage/Hide.
+* **Sneak Attack (2d6)**
+* **Thieves’ Cant:** encoded hiss-based sounds.
+
+**Attacks**
+
+* **Dagger “Hiss”:** +6 to hit, 1d4+4 piercing + poison (DC 13 CON save or 1d6 ongoing).
+* **Wrist Crossbow:** +6 to hit, 1d6+4 piercing (range 30/120 ft).
+
+---
+
+## 🎯 Combat Tactics (Poison Assassin / Stealth Control)
+
+* **Role:** **single-target eliminator / infiltration specialist**
+* **Opener:** *Hide → Assassinate → poison dagger combo*
+* **Flow:** strikes once, vanishes, uses *hallucinogen vial* to distort pursuit.
+* **Finisher:** stabs throat while whispering a final line the victim doesn’t understand.
+
+**Damage Flavor:** thin green mist trails behind his dagger arcs; every breath tastes metallic before fading into numbness.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, methodical, dangerously polite.
+* **Ideal:** Precision — “If it bleeds, it was poorly made.”
+* **Bond:** bound by blood oath to a Serpentkin elder.
+* **Flaw:** too loyal to contracts; compassion is a luxury he cannot afford.
+* **Quirk:** runs his tongue across his teeth before lying.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Undercoil District / Venom Market**
+* **Threat Gradient:** **Deep Echo → Severance Residue**
+* **Encounter Framing:** **assassination in silence**, **contract betrayal**, **poison trade ambush**
+
+---
+
+## 📜 Background & Lifestyle
+
+Kaelith was trained in the Venom Market under Skarnov’s guild of quiet killers.
+Unlike most, he experiments with toxins not just to kill — but to *communicate* through the body’s reactions.
+
+* **Lifestyle:** minimalist, quiet apartment above a perfume shop.
+* **Income:** assassination contracts, alchemical sales, silent protection work.
+* **Relationships:** tangled with Selune (#295); rivalry and mutual respect.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes morality dilutes efficiency. Mercy is acceptable only when paid for.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** his venom immunity failing — or worse, reversing.
+* **Weaknesses:** emotionally detached, unpredictable empathy.
+* **Strengths:** stealth mastery, efficient execution, absolute poison expertise.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — cool and commanding:**
+
+> “You’re trembling again… focus on breathing. In, out — good. Don’t waste my antidote.”
+
+ทำให้คนเขินโดยไม่รู้ตัว — สายตาคมแต่พูดด้วยน้ำเสียงช้าและชัดเจนราวกับสั่งให้ร่างกายทำตาม เขาไม่เคยแตะต้องโดยไม่จำเป็น แต่เมื่อแตะ… จะไม่มีใครลืมสัมผัสนั้นได้เลย
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his poison is derived from his own blood, which is mutating toward Severance toxin.
+* **Hooks:**
+
+  1. **Contract Ouroboros:** the guild assigns him to kill himself — or his doppelgänger.
+  2. **The Green Kiss:** his venom begins showing signs of life.
+  3. **The Silent Choir:** he’s ordered to eliminate Nerathine (#296), but the flame within her recognizes his poison.
+
+---
+
+## Tags: #Male #HalfBeast #Serpentkin #Rogue3 #Assassin #CR1 #Poison #Stealth #Skarnov
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaelith **ไม่พูดมาก แต่เวลาอยู่ใกล้จะก้มต่ำกระซิบข้างหูช้า ๆ จนรู้สึกขนลุก**
+
+> “If I wanted you dead, you’d already be silent. So, breathe.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** twin daggers, wrist crossbow
+  * **Armor:** custom studded leather
+  * **Tools:** assassin’s kit, poisoner’s tools
+  * **Consumables:** 3 poison vials, 1 antidote ampule
+  * **Misc:** silent coin, serpentbone talisman
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Poisoner / Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov — Venom Market / Black Coil Guild**
+* **Threat Gradient:** **Deep Echo → Severance Residue**
+* **Encounter Type:** **assassination**, **toxin experiment**, **contract betrayal**
+* **Affiliation:** **The Black Coil**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Japanese male serpentkin rogue assassin 181cm short undercut black hair amber eyes scales on neck lean muscular leather armor daggers poison mist stealth dangerous allure

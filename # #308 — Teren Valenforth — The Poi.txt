@@ -1,0 +1,199 @@
+# #308 — **Teren Valenforth** — *The Poisoned Gentleman*
+
+> “A lie in the right glass can taste better than any truth.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 308
+* **Gender:** **Male (Type: วัยกลางคน)** — สุภาพ เฉียบแหลม พูดช้าแต่เลือกคำราวกับเลือกพิษ
+* **Age:** 36
+* **Race:** **Human**
+* **Class & Level:** **Rogue (Assassin)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Evil (pragmatic)**
+* **Profession:** **Apothecary, professional killer, social infiltrator**
+* **Organization:** **The Sable Draughtsmen — silent killers working under noble contracts**
+* **Symbol:** A silver goblet leaking a drop of black ink
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **English–French nobleman** — aristocratic poise, weathered charm, faint crow’s-feet that somehow make his smile warmer.
+
+**Eyes:** dark hazel with faint flecks of gold.
+**Skin:** lightly tanned, with smooth scars near the wrist — surgeon’s precision.
+**Hair (Male Randomizer):** 🎲 **Short swept-back**, trimmed sides, elegant volume at crown.
+**Color:** **ash-brown with streaks of silver at the temples.**
+
+**Height:** **182 cm**
+**Weight:** **75 kg**
+**Body Type:** **lean athletic**, wiry but toned, calloused hands betray years of craft.
+
+**Sub-Theme Roll:** 🎲 **None**
+**Glasses Roll:** 🎲 **Success (30%) → yes**
+**Glasses Style:** thin brass-rim spectacles with tinted lenses for chemical glare.
+
+**Accessories:** dark leather gloves, waist watch vial case, etched silver ring with hollow core (conceals fast toxin), black cravat pinned with a hematite thorn.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Low (refined, functional)**
+
+Wears a **charcoal longcoat** with **wine-red lining**, fitted waistcoat underneath reinforced with light mail mesh. **Shirt collar high**, sleeves rolled to elbows for precise movements.
+His **belt** hides tiny sheathed scalpels beside normal daggers. Black trousers tucked into soft boots for silent gait.
+
+**Palette:** charcoal / burgundy / steel-gray / muted ivory
+**Weapons & Gear:**
+
+* **Toxin-tipped dagger (“Whisperfang”)**
+* **Hidden wrist blade (1 use per rest)**
+* **Blowgun with sleep darts**
+* **Alchemist’s kit**, **Poisoner’s kit**, **vial kit**, small silver goblet (flavor)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 = **20 HP**
+* **AC:** **15** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 17 (+3)** **CON 12 (+1)** **INT 14 (+2)** **WIS 13 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, INT +4
+* **Skills:** Stealth +7, Medicine +4, Deception +4, Investigation +4, Sleight of Hand +5, Persuasion +4
+* **Languages:** Common, Elvish, Thalassaran Cant, Draconic (alchemy shorthand)
+
+**Rogue (Assassin) 3**
+
+* **Assassinate:** advantage vs. creatures who haven’t acted; crit vs. surprised targets.
+* **Infiltration Expertise:** can craft alternate identities with 25 gp and 7 days.
+* **Sneak Attack:** 2d6 (once/turn).
+* **Cunning Action:** Dash/Disengage/Hide (bonus action).
+* **Poisoncraft (flavor):** proficiency on crafting toxic or paralytic agents.
+
+**Attacks**
+
+* **Whisperfang (dagger):** +5 to hit, 1d4+3 piercing + poison (DC 14 CON save or 2d6 poison dmg)
+* **Wrist blade:** +5 to hit, 1d6+3 piercing (hidden).
+* **Blowgun:** +5 to hit, 1 piercing + poison effect (sleep, DC 12).
+
+---
+
+## 🎯 Combat Tactics (Stealth Lethality / Surgical Control)
+
+* **Role:** **Infiltration / assassination / alpha strike controller**
+* **Opener:** observe 3 rounds, mix toxin → deliver **Assassinate** crit from stealth.
+* **Flow:** hide using terrain; disorient foes via poison gas; follow with precise dagger thrusts.
+* **Finisher:** poison mist vial shattered underfoot → silent blade to throat.
+
+**Damage Flavor:** each hit blooms faint chemical scent—lavender, then death.
+
+---
+
+## 💬 Personality
+
+* **Traits:** courteous, restrained, unnervingly calm; compliments his targets before killing them.
+* **Ideal:** Precision — “Mercy is a well-measured dose.”
+* **Bond:** respects competent healers; despises reckless alchemists.
+* **Flaw:** detached moral code—believes chaos should be sterilized, not judged.
+* **Quirk:** stirs tea clockwise exactly three times before every plan.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Noble Quarter, Apothecary’s Row, The Silent Court.**
+* **Threat Gradient:** **Stable → Wavering.**
+* **Encounter Framing:** **poison gala**, **assassination at masquerade**, **courtroom ambush disguised as tea service.**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once court physician to a Thalassaran duke, until he learned poison removes problems faster than politics. He still treats the poor by day to balance the ledger of his conscience.
+
+* **Lifestyle:** townhouse clinic above perfumery.
+* **Income:** high-value contracts, antidote commissions.
+* **Relationships:** quiet respect with Lyra (#1); mutual silence pact with Sereth (#304).
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes death can be a cure. Poison is mercy sharpened.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing fine motor control of his hands.
+* **Weaknesses:** emotional detachment; underestimates “messy” emotion-driven foes.
+* **Strengths:** surgical precision, master of infiltration, rapid preparation under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — calm teasing confidence:**
+
+> “You blush before I even uncork the bottle. I haven’t even asked yet.”
+
+เขามักโน้มตัวลงใกล้ขณะรินชา แล้วกระซิบเบา ๆ ว่า “กลิ่นนี้อาจฆ่าคุณได้… หรือแค่ทำให้หลงรักชั่วคราว.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** The Sable Draughtsmen plan to assassinate a Moon Council member—Teren wrote the poison but kept the antidote hidden.
+* **Hooks:**
+
+  1. **The Gentleman’s Cure:** nobles vanish after visiting his clinic.
+  2. **A Perfect Sip:** a rare antidote requires blood willingly given by one he spared.
+  3. **Echo Poison:** his latest brew whispers back to him.
+
+---
+
+## Tags: #Male #Human #Rogue3 #Assassin #Poison #Infiltration #CR1 #Thalassara
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Teren **ชอบเล่นคำกำกวม และวัดสติคนด้วยระยะสายตา**
+
+> “Every dose begins with trust… shall we test yours?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** whisperfang dagger, blowgun
+  * **Armor:** studded leather
+  * **Tools:** alchemist’s kit, poisoner’s kit
+  * **Consumables:** 3 poison vials (sleep, paralysis, toxin)
+  * **Misc:** ring vial, tea set (flavor)
+* **Level-Up Suggestions (to 4):** **Feat: Poisoner** or **+2 DEX (to 19)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Noble Quarter / Apothecary’s Row**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **assassination intrigue / poison duel / noble court infiltration**
+* **Affiliation:** **Sable Draughtsmen**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+English French male human rogue assassin 182cm ash brown swept-back hair silver temples glasses noble apothecary black longcoat burgundy lining poison dagger sophisticated charisma

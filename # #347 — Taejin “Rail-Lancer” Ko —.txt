@@ -1,0 +1,196 @@
+# #347 — **Taejin “Rail-Lancer” Ko** — *Cavalier of the Narrow Span*
+
+> “Hold the rail. I’ll make their choice simple.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 347
+* **Gender:** **Male (Type: วัยกลางคน)** — สุขุม หนักแน่น น้ำเสียงนิ่งเชื่อถือได้
+* **Age:** 34
+* **Race:** **Half-Beast (mammal — horse lineage)** — ใกล้มนุษย์ ~88%; เส้นผมดกหนาแบบแผงคอจาง ๆ, เล็บนิ้วยาวโค้งแข็งคล้ายกีบ, ดวงตาน้ำตาลเข้มเงา
+* **Class & Level:** **Fighter (Cavalier) 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** **line captain / bridge hold & push / VIP escort on slick rails**
+* **Organization:** **Valeronnes Rail Wardens — Spur Cohort**
+* **Symbol:** หัวหอกยาวพาดรางแก้วพร้อมตราจุดยืนสามจุด
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Mongolian stalwart** — steady jaw, patient eyes, posture of someone used to bearing weight without complaint.
+
+**Eyes:** deep umber, unreadable until the moment he commits.
+**Skin:** wind-browned; faint scars along forearms like old rein burns.
+
+**Hair (Male Randomizer):** **Short**, **tapered sides with brushed-back mane-like top**, practical under a helm.
+**Color:** **dark espresso with warm chestnut streaks** (mane sheen in rainlight).
+
+**Height:** **184 cm**
+**Weight:** **85 kg**
+**Body Build:** **athletic-muscular**, carriage-straight back, powerful legs.
+
+**Accessories (male glasses 30% → fail):** no glasses. Wears a **steel-bit pendant** (family token), **leather rein-wrist wraps**, and a **rail command tag** on cord.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure (male non-femboy rule):** **Low — functional hold-and-push kit**
+
+A **brushed-steel breastplate** over **indigo gambeson**, **reinforced bracers**, and **split guard-trousers** for long lunges on slick glass. **Soft-sole cavalry boots** grip rails. A **short storm-cloak** pins tight to avoid wind catch during charges.
+
+**Palette:** steel / indigo / charcoal / muted brass
+
+**Weapons & Gear:**
+
+* **Lance “Span-Biter”** (reach; rail-balanced shaft)
+* **Longsword** • **Shield** (glass-inset boss)
+* **Light crossbow** + 20 bolts
+* **Silk rope 50 ft, manacles, chalk anchors, echo-salt, smoke bead ×1**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 = **25 HP**
+* **AC:** **19** (breastplate 14 + DEX +2 + shield +2 + **Defense** style +1)
+* **Speed:** 30 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +4
+* **Skills:** Athletics +6, Animal Handling +3, Persuasion +2, Perception +3
+* **Languages:** Common, Thalassaran Cant
+
+**Fighter 3 — Cavalier**
+
+* **Fighting Style:** **Defense** (+1 AC)
+* **Second Wind (1d10+3, 1/rest)**
+* **Action Surge (1/rest)**
+* **Bonus Proficiency:** **Animal Handling**
+* **Born to the Saddle:** advantage to avoid falling off a mount; mounting/dismounting only **5 ft** of movement
+* **Unwavering Mark:** เมื่อคุณ **โจมตีใครสักคนด้วย melee weapon**, คุณสามารถ **ทำเครื่องหมาย** มัน; เป้าหมายมี **disadvantage** เมื่อโจมตีใครนอกจากคุณจนจบเทิร์นถัดไปของคุณ, และ **ถ้ามันตีพลาดหรือโจมตีคนอื่น**, คุณทำ **bonus-action melee attack** ใส่มันได้ (เพิ่มดาเมจอีก **+2** ครั้งนั้น)
+
+**Attacks**
+
+* **Lance (reach 10 ft, 1h while mounted)**: +6 to hit, **1d12+4** piercing (*disadvantage vs targets within 5 ft; shines on charges or from rail standoffs*)
+* **Longsword (1h):** +6 to hit, **1d8+4** slashing
+* **Light Crossbow:** +4 to hit, **1d8+2** piercing (80/320)
+
+---
+
+## 🎯 Combat Tactics (Chokepoint Anchor / Mark & Punish)
+
+* **Role:** **frontline protector / lane anchor**
+* **Opener:** step to mid-span; **lance** tags the lead threat with **Unwavering Mark** to force it to look at him.
+* **Flow:** swap to **longsword + shield** once enemies close; hold **Action Surge** to flip pressure when a marked foe breaks formation.
+* **Finisher:** shoulder bind to the rail, short cut under the guard; line advances three paces.
+
+**Damage Flavor:** when he marks, rain beads cling to the target’s shoulders like reins; his next step “tugs” those reins tight.
+
+---
+
+## 💬 Personality
+
+* **Traits:** พูดน้อย ตรงประเด็น ใจเย็นแต่ดุเมื่อถึงคราวยืน
+* **Ideal:** Duty — “ถนนของเมืองคือคำสัญญา ต้องไม่แตกแถว”
+* **Bond:** สมุด “เสาเกี่ยวบังเหียน” — จุดผูกเชือกที่ช่วยยึดโล่/ธงทุกสะพาน
+* **Flaw:** ดื้อเงียบ รับภาระชนแทนทีมจนล้า
+* **Quirk:** เคาะด้ามหอกหนึ่งครั้งก่อนสั่ง “ยืน”—เป็นสัญญาณให้ทีมตั้งเท้า
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — glass bridges, lock stairs, hush corridors**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **bridge hold-and-push**, **riot split under rain**, **VIP escort with shield wall**
+
+---
+
+## 📜 Background & Lifestyle
+
+คนลากเกวียนทางรางที่เรียนรู้การ “ถือเส้น” มาตั้งแต่เด็ก เขาถูกดึงเข้าหน่วยเพราะวิธีดึงไฟและวินัยการก้าวที่ทำให้ทั้งแนวเดินตามได้—*Spur Cohort* เรียกเขาว่าคนที่ทำให้สะพาน “เชื่อง”
+
+* **Lifestyle:** ห้องเวรเล็กติดคลังโล่และเชือก; มีรูปครอบครัวกับม้าเก่าหนึ่งตัว
+* **Income:** เงินเดือน Rail Wardens, โบนัสคุ้มกัน, ค่าระงับเหตุจลาจล
+
+---
+
+## 🧩 Morals & Ethics
+
+“กดโกลาหลด้วยวินัย ไม่ใช่ด้วยเลือด” — เลือกทำให้ศัตรูหันมาหาเขาแทนพลเรือน
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** สะพานที่ “ไม่ฟังคำสั่งเท้า” — ลาง Echo ตัดจังหวะเคลื่อนพล
+* **Weaknesses:** **lance** เสียเปรียบเมื่อศัตรูชิดมาก; ดาเมจไม่สุดหากไม่มีช่องเปิด
+* **Strengths:** **AC สูง 19**, **บังคับดวลด้วย Mark**, **Action Surge** พลิกเกมส์, คุมเลนแคบได้ดี
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน — สุขุม ทำให้รู้สึกปลอดภัย:**
+
+> “ยืนหลังผม—ถ้าพวกมันมองคุณ ฉันจะดึงสายตากลับมา.”
+
+ตอนซ้อม เขาจะจัดไหล่ให้ตั้งแกนแล้วบอกสั้น ๆ “หนึ่งก้าว—หยุด—หนึ่งก้าว”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** จี้รูปเหล็กกัด (steel-bit) ของเขา **อุ่น** เมื่อผู้ใต้บังคับบัญชากำลัง “แตกแถวใจ” — เหมือนเตือนให้ดึงกลับ
+* **Hooks:**
+
+  1. **Reins on the Rain:** ผู้ร้ายใช้เชือกสัญญาณรางปลอมทำให้แนวของชาวเมืองแตก—ต้องตัดให้ถูกจังหวะ
+  2. **Span That Bucks:** สะพานหนึ่ง “สะบัด” ต่อคำสั่งเดิน—มีใครขโมยแรงก้าวของเมืองไป
+  3. **Marked for Two:** ศัตรูคนหนึ่งไม่สน Mark—เหมือนถูก “ใครอีกคน” ทำเครื่องหมายไว้แล้ว
+
+---
+
+## Tags: #Male #HalfBeast #Horse #Fighter3 #Cavalier #TankProtector #CR1 #Valeronnes
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Taejin **ยกโล่เป็นกำแพงมนุษย์และเคาะด้ามหอกหนึ่งที**
+
+> “ตามสัญญาณเท้า—ยืน, ก้าว, ก้าว.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** lance, longsword, shield, light crossbow
+  * **Armor:** breastplate set
+  * **Tools:** chalk anchors, silk rope, manacles
+  * **Consumables:** smoke bead ×1, echo-salt ×1, salve ×2
+  * **Misc:** steel-bit pendant, rein wraps, rail command tag
+* **Level-Up Suggestions (to 4):** **+2 STR (to 20)** หรือ **Feat: Sentinel / Shield Master**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Glass bridges & lock stairs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **bridge hold-and-push**, **riot split**, **VIP escort**
+* **Affiliation:** **Spur Cohort — Rail Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Mongolian male half-beast horse fighter cavalier 184cm short brushed-back mane top espresso hair chestnut streaks athletic muscular steel breastplate lance shield low exposure rain-slick bridge night disciplined stance fantasy
