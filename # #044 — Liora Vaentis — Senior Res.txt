@@ -1,0 +1,197 @@
+# #044 — **Liora Vaentis** — *Senior Resonant Healer of the Crystal Spire*
+
+> “Kindness is not softness. It’s the steel that keeps the world from breaking.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 044
+* **Gender (weighted random):** Female (Type: รุ่นพี่ — gentle authority, protective warmth, calm but teasingly confident; cup size rule applied)
+* **Age:** 29
+* **Race:** Elf (Valeronnes lineage — near-human 90%, faint crystalline glow along hair tips, pupils shaped like elongated diamonds)
+* **Class & Level:** Cleric (Life Domain) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Field medic, spiritual counselor, healing instructor
+* **Rank / Position:** **Senior Healer of the Crystal Spire Conclave**
+* **Organization:** **Valeronnes Luminary Order**
+* **Symbol:** Silver lotus within a crystal ring
+* **Title:** *The Gleam of Mercy*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Korean–Greek hybrid
+
+Liora’s presence feels like the first warm sunlight through stained glass. **Eyes:** soft gold, shifting with refracted sparkles. **Skin:** porcelain-fair with light pink undertone. **Hair:** **Medium length**, **wavy platinum-blonde**, glowing faintly at the ends like spun crystal threads.
+
+**Height:** 168 cm
+**Weight:** 59 kg
+**Body Type:** Graceful, balanced, mature curves with healer’s poise.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 97 – 70 – 100  
+VALIDATION: • W/B = 0.721 → OK • H/W = 1.43 → OK  
+```
+
+Her beauty has the calm of water and the firmness of marble.
+
+**Jewelry & Accessories (randomized):**
+A **crystal circlet**, **silver tear-drop earrings**, a **moonstone rosary**, and a **bracelet of linked charms** — each holding the whisper of a healed soul.
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **white and pastel-gold healer’s robe**, layered with translucent veils around the waist. **Gold-stitched gloves** and **flat ceremonial boots** complete the attire. A **small satchel** at her hip holds salves and prayer stones.
+
+**Color Palette:** white / gold / rose / soft silver
+**Accents:** clean, radiant, faintly luminous
+
+**Loadout:** holy symbol, healer’s kit, short mace (silvered), divine focus pendant.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **17** (chain shirt + shield + DEX + enchantment)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 12 (+1)** **CON 12 (+1)** **INT 10 (+0)** **WIS 17 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Medicine +5, Insight +5, Religion +2, Persuasion +4
+* **Languages:** Common, Elvish, Celestial, Valeron Script
+
+**Cleric (Life Domain) 3:**
+
+* **Channel Divinity (2/rest):** Preserve Life
+* **Disciple of Life:** +2 + spell level healing bonus
+* **Spellcasting (WIS DC 13, +5 atk)**
+* **Spells Prepared:** *Bless, Cure Wounds, Healing Word, Spiritual Weapon, Lesser Restoration, Aid, Sanctuary, Detect Magic, Light*
+* **Cantrips:** *Guidance, Sacred Flame, Thaumaturgy*
+
+**Attacks**
+
+* **Sacred Flame:** DC 13 DEX save, 1d8 radiant
+* **Mace:** +3 to hit, 1d6+1 bludgeoning
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Protector / Buffer**
+* **Tactics:** Opens with *Bless* or *Aid*, rotates between *Healing Word* and *Spiritual Weapon*; keeps allies up rather than striking herself.
+* **Signature Opener:** A whisper — “Breathe. I’m here.” — as her light spreads.
+* **Finisher:** *Spiritual Weapon* arcs like golden petals striking a shadow clean through.
+* **Damage Flavor:** Each heal or strike releases a faint chime, like glass wind bells.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Nurturing, poised, lightly teasing when others push too far.
+* **Ideal:** Compassion — “Strength is gentleness that endures.”
+* **Bond:** Protects apprentices like siblings; refuses to abandon a fallen ally.
+* **Flaw:** Exhausts herself healing beyond safe limits.
+* **Quirk:** Always hums softly while channeling divine energy — same melody each time.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Crystal Spire Sanctuary, Luminary Gardens, Saint’s Reflection Pool**
+* **Threat Gradient:** **Stable → Wavering** (Echo fractures near healing halls)
+* **Encounter Framing:** **Battlefield Recovery**, **Sanctum Defense**, **Echo Purification**
+
+---
+
+## 📜 Background & Lifestyle
+
+Liora was once a battlefield medic during the early Severance breaches. She lost her mentor saving a village — the same night she unlocked her resonance gift. Now she trains others to heal without breaking.
+
+* **Lifestyle:** Calm and structured, lives in crystal dormitories.
+* **Income:** Clerical stipend + donations.
+* **Relationships:** Respected by Corin Valen (mutual battlefield past); older-sister bond to Kaena Mistral.
+
+---
+
+## 🧩 Morals & Ethics
+
+She sees morality as a living rhythm — care, correction, compassion. She believes healing is justice in motion.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her hands (symbol of her calling).
+* **Weaknesses:** Overextends empathy; feels guilt for those she can’t save.
+* **Strengths:** Steady under pressure, radiant faith, deep empathy.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นพี่” tone — motherly tease with protective warmth. She smiles, taps your forehead gently:
+
+> “Don’t rush into death. I’d rather not fix you again tonight.”
+> If someone flirts, she meets it with amused calm:
+> “Sweet words are like honey — best applied to wounds, not pride.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her divine glow is partially Resonant — not purely clerical. She hides that her magic draws from an ancient Echo crystal inside the Spire.
+* **Hooks:**
+
+  1. **Echo of the Saint’s Pool:** Help Liora stabilize the crystal well that powers the Spire before it fractures.
+  2. **The Broken Apprentice:** Recover her missing student, who joined the Severance cult to “heal the world by force.”
+  3. **Mercy’s Edge:** Decide whether to support her controversial stance — arming healers for war.
+
+## Tags: #Female #SenpaiType #Elf #Cleric3 #LifeDomain #Valeronnes #CR1 #Adventurer #Healer #Teacher
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Enjoys **making others blush with kind compliments**. Often rests a hand on your cheek or shoulder mid-conversation; her calm tone disarms even the brashest warrior.
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900** (Level 3 baseline)
+* **XP to Next Level:** **1,800** more (to reach Level 4)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** Mace, shield
+  * **Tools:** Healer’s kit, prayer beads, journal
+  * **Consumables:** 2× healing potions, 1× bless incense stick, 1× reviving salve
+  * **Magic Focus:** Moonstone holy symbol
+  * **Misc:** Rosary, 10 gold donation fund, pendant of her late mentor
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 19) *or* **Healer** feat
+  * **Spell Addition:** *Prayer of Healing* or *Spiritual Guardians*
+  * **Role Expansion:** Focus on defensive buffs or radiant damage specialization
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Crystal Spire Sanctuary**
+* **Threat Gradient:** **Wavering (Healing Echo surge)**
+* **Encounter Type:** **Sanctum Defense**, **Echo Purification**, **Divine Trial**
+* **Affiliation:** **Valeronnes Luminary Order — Senior Healer Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Greek female elf cleric, 168cm height, wavy platinum-blonde hair, golden eyes, white and gold healer robe, elegant mature body, E-cup curves, soft crystal light aura, gentle smile, crystal cathedral backdrop, divine glow

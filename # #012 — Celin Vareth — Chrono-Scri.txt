@@ -1,0 +1,160 @@
+# #012 — **Celin Vareth** — *Chrono-Scribe of the Obsidian Lyceum*
+
+> “The future is only another page, but the ink never dries.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นเพื่อน)
+* **Age:** 23
+* **Race:** Human (Valeronnes scholar line — human-like 100%, faint constellation freckles under right eye)
+* **Class & Level:** Wizard (Chronurgy Magic) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Neutral
+* **Profession:** Timekeeper scholar, combat arcanist apprentice
+* **Rank / Position:** **Assistant Archivist of the Obsidian Lyceum**
+* **Organization:** **Valeronnes Arcane University**
+* **Symbol:** An hourglass half-filled with stars
+* **Title:** *The Temporal Quill*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** British–Thai hybrid
+
+Celin’s beauty carries the calm focus of someone who’s seen too much and written it all down. **Eyes:** deep indigo speckled with gold flecks. **Skin:** smooth light tan, warm undertone. Her hands always bear faint ink stains.
+
+**Hair (randomized):** **Short**, **straight dark chestnut brown**, with **soft fringe bangs** and one thin braid tucked behind her right ear, tied by a golden thread.
+
+**Height:** 167 cm
+**Weight:** 54 kg
+**Body Type:** Slender academic with toned arms from heavy tomes
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 85 – 65 – 91  
+VALIDATION: • W/B = 0.764 → OK • H/W = 1.40 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Round **bronze-rimmed glasses**, **star-etched earrings**, a **timepiece necklace**, **ink-stained silver bangle**, and **anklet of shifting beads** that glows faintly when she bends time.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **dark navy scholar coat** lined with **gold thread runes**, long split sleeves exposing bandaged forearms for casting gestures. Beneath, a **cream shirt** and **high-waisted trousers**, both enchanted to stay unwrinkled. Wears **sturdy travel boots** inked with glyphs of silence.
+
+**Color Palette:** navy / gold / cream / bronze
+**Accents:** clockwork motifs, magical ink stains, fabric runes
+
+**Loadout:** arcane staff tipped with a brass chronometer, pocket grimoire, chronal focus ring, and glass quill that never runs dry.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d6 + (CON +1)×3 → **20 HP**
+* **AC:** **14** (mage armor)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 13 (+1)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, History +5, Insight +3, Investigation +5, Perception +3
+* **Languages:** Common, Elvish, Draconic, Celestial
+* **Equipment:** arcane staff, spellbook, quill, chronal focus
+
+**Wizard (Chronurgy Magic) 3:**
+
+* **Chronal Shift (2/rest)**
+* **Momentary Stasis (2/rest, CON save 13)**
+* **Temporal Awareness (+INT to initiative)**
+* **Spellcasting (INT DC 13, +5 attack):**
+
+  * *Cantrips:* *Mage Hand, Ray of Frost, Prestidigitation, Minor Illusion*
+  * *1st–2nd-level:* *Mage Armor, Magic Missile, Shield, Hold Person, Misty Step, Mirror Image*
+
+**Attacks**
+
+* **Ray of Frost:** +5 to hit, 2d8 cold, reduces target speed by 10 ft.
+* **Quarterstaff:** +3 to hit, 1d6+1 bludgeoning (rarely used).
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Battlefield Control / Support**
+* **Tactics:** Delays key enemies with **Hold Person** or **Momentary Stasis**, grants advantage by repositioning allies via **Misty Step** timing.
+* **Signature Opener:** Chronal Shift an ally’s initiative for surprise advantage.
+* **Finisher:** Freezes enemy mid-swing, then releases delayed **Magic Missile** volley.
+* **Damage Flavor:** Spells leave faint afterimages of clock gears and constellations.
+
+---
+
+## 💬 Personality (Randomized — Valeronnes academic weights)**
+
+* **Traits:** Clever, precise, and gently sarcastic; loyal once trust is earned.
+* **Ideal:** Knowledge — “Time is patient, but truth is not.”
+* **Bond:** Maintains her late mentor’s unfinished chronomancy tome.
+* **Flaw:** Can’t stop over-analyzing her own emotions.
+* **Quirk:** Counts seconds aloud when nervous.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Valeronnes — Obsidian Lyceum, Chrono Tower**
+* **Threat Gradient:** **Stable → Wavering** (temporal anomalies)
+* **Encounter Framing:** **Escort Through Frozen Time**, **Research Expedition**, **Chronal Rift Defense**
+
+---
+
+## 📜 Background & Lifestyle**
+
+* **Background:** Former temple scribe turned scholar. Witnessed her master disappear during a failed timefold experiment. Now works to perfect controlled Chronurgy spells.
+* **Lifestyle:** Semi-nocturnal; sleeps in stacks of books.
+* **Income:** Research stipends and lecture fees.
+* **Relationships:** Academic ally of Selune Vareth; occasional sparring partner for Rinna Vaelune’s lightning tests.
+
+---
+
+## 🧩 Morals & Ethics**
+
+Sees morality as cause and consequence. Hates wasting time—literally and philosophically. Would risk herself to fix a “temporal wound” in history.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths**
+
+* **Fears:** Losing control of her own timeflow.
+* **Weaknesses:** Physically fragile, overthinks danger.
+* **Strengths:** Strategic intellect; foresight through precision timing.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นเพื่อน” tone — intellectual banter and calm empathy. Tilts her glasses before quipping: “You do realize your plan violates at least three laws of probability?” Smiles warmly after a win, tucking hair behind her ear. Easily flustered if complimented mid-debate.
+
+---
+
+## 🤫 Secrets & Plot Hooks**
+
+* **Secret:** Keeps a glass hourglass filled with Echo-infused dust; it can rewind six seconds of reality once, at the cost of her memory.
+* **Hooks:**
+
+  1. **The Clockless Tower:** Join Celin in halting a time-loop trapping the Lyceum’s upper floors.
+  2. **Ink of the Future:** Recover her mentor’s vanished notebook hidden in a frozen second.
+  3. **Chronal Debt:** A Severance mage demands her aid to rewrite one catastrophic timeline.
+
+## Tags: #Female #FriendType #Human #Wizard3 #Chronurgy #Valeronnes #Scholar #CR1 #Adventurer #TimeMage
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+British Thai human wizard girl, short chestnut hair with braid, indigo eyes, glasses, navy scholar coat, magic runes, clock motifs, glowing quill, calm confident smile, arcane study background

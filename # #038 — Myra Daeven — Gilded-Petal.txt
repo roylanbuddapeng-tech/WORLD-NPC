@@ -1,0 +1,155 @@
+# #038 — **Myra Daeven** — *Gilded-Petal Duelist of the Lattice Court*
+
+> “Every blade has rhythm — I just prefer mine with a little flourish.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นเพื่อน — lively, witty, reliable, slightly mischievous)
+* **Age:** 24
+* **Race:** Half-Elf (Valeronnes lineage — 85% human appearance; faint golden hue in eyes and faint sigil shimmer at temples)
+* **Class & Level:** Rogue (Swashbuckler) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Neutral
+* **Profession:** Duelist, adventurer-for-hire, socialite swordswoman
+* **Rank / Position:** **Member of the Valeronnes Lattice Court’s Champion Circle**
+* **Organization:** **Valeronnes Duel Academy**
+* **Symbol:** Two crossed blades over a blooming golden rose
+* **Title:** *The Gilded-Petal Duelist*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Italian–Thai hybrid
+
+Myra carries her confidence like a perfume — light but unforgettable. **Eyes:** honey-gold with flecks of rose, gleaming with humor. **Skin:** warm olive tone with a subtle sheen under sunlight. Her grin, often half a smirk, promises both trouble and charm.
+
+**Hair (randomized):** **Medium**, **wavy dark chestnut**, tied into a loose ponytail with silk ribbon, a few strands framing her face.
+
+**Height:** 167 cm
+**Weight:** 58 kg
+**Body Type:** Fit and curvy; dancer’s balance, lightly toned arms and thighs.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D CATEGORY: Medium-Large  
+THREE_SIZES (B-W-H, cm): 92 – 67 – 97  
+VALIDATION: • W/B = 0.728 → OK • H/W = 1.45 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+A **thin gold ear cuff**, **rose-shaped pendant**, and a **pair of lace gloves** dyed crimson at the fingertips.
+
+---
+
+## 👗 **Outfit (in English)**
+
+She wears a **dark red corset jacket** with gold threading, paired with **white fitted pants** and **high-heeled dueling boots**. Her **rapier** — “Velisse” — is a masterpiece of filigree and precision, its blade lined with fine runic etchings that catch candlelight like petals.
+
+**Color Palette:** red / gold / white / black
+**Accents:** elegant, sharp, and flirtatious — a noble duelist’s fashion with street swagger
+
+**Loadout:** rapier “Velisse,” parrying dagger, perfume-sachet smoke bombs, silken rope.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **23 HP**
+* **AC:** **15** (leather armor + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 17 (+3)** **CON 12 (+1)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, INT +2
+* **Skills:** Acrobatics +5, Persuasion +4, Deception +4, Insight +3, Performance +4, Stealth +5
+* **Languages:** Common, Elvish, Valeron Cant
+
+**Rogue (Swashbuckler) 3:**
+
+* **Fancy Footwork**, **Rakish Audacity**, **Sneak Attack (2d6)**, **Cunning Action**
+* **Equipment:** rapier, dagger, thieves’ tools, fine clothes
+
+**Attacks**
+
+* **Rapier “Velisse”:** +5 to hit, 1d8+3 piercing
+* **Sneak Attack:** +2d6 extra dmg once/turn
+* **Dagger:** +5 to hit, 1d4+3 slashing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Duelist / Mobile Striker**
+* **Tactics:** Weaves in close, provoking attacks then slipping aside. Uses *Rakish Audacity* for charm-based distraction.
+* **Signature Opener:** Tosses a gold coin — “Heads, you bleed; tails, you blush.”
+* **Finisher:** A backward spin and low feint followed by a clean upward slash.
+* **Damage Flavor:** Her strikes flash gold in the air, petals of light trailing briefly after impact.
+
+---
+
+## 💬 Personality (Randomized — Valeronnes tone)**
+
+* **Traits:** Witty, competitive, charismatic.
+* **Ideal:** Freedom — “If I have to bow, it’ll be in a dance.”
+* **Bond:** Her rapier “Velisse,” forged from her mother’s melted wedding ring.
+* **Flaw:** Flirts with danger — literally and emotionally.
+* **Quirk:** Winks before every duel, no exceptions.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Valeronnes — Lattice Court, Duel Academy, Silk Boulevard**
+* **Threat Gradient:** **Stable → Wavering** (political Echo manipulations through noble duels)
+* **Encounter Framing:** **Noble Duel**, **Heist Gone Wrong**, **Festival Chase Scene**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Born to a Valeronnes noble and a Thalassaran musician, Myra split her time between salons and back alleys. Learned swordplay under her mother’s rival — a bardic assassin.
+* **Lifestyle:** Social, glamorous, and dangerously busy; balances high-society life and mercenary work.
+* **Income:** Duel prize money + private guard contracts.
+* **Relationships:** Friendly banter with Rhea Kaenth, ex-fling with Kael Dravos, rivalry with Cassira Venn.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes loyalty is personal, not political — her word means more than any oath written on paper.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being tied down or betrayed by trust.
+* **Weaknesses:** Flippant under pressure; impulsive affection.
+* **Strengths:** Charisma, agility, instinctive dueling rhythm.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นเพื่อน” tone — playful, bold, half-flirt half-challenge. She laughs easily: “Hey, don’t get too serious; life’s already heavy enough.” When teased back, she crosses her arms and grins, “You really wanna test me at that, huh?” before brushing her hair aside dramatically.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Works secretly for a guild that manipulates noble duels to sway alliances.
+* **Hooks:**
+
+  1. **The Golden Bet:** Aid Myra in uncovering the mastermind behind rigged dueling tournaments.
+  2. **Velisse’s Secret:** Retrieve her mother’s lost blade twin, rumored to sing when drawn.
+  3. **The Rose and the Blade:** Protect Myra from assassination during a royal festival duel.
+
+## Tags: #Female #PeerType #HalfElf #Rogue3 #Swashbuckler #Valeronnes #CR1 #Adventurer #Duelist #Performer
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Italian Thai half-elf female rogue, medium wavy dark chestnut hair, golden eyes, olive skin, height 167cm, red duelist jacket, gold rapier, confident smirk, petals of light, stylish urban arena backdrop

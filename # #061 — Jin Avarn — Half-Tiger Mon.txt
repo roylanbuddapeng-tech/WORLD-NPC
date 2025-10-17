@@ -1,0 +1,196 @@
+# #061 — **Jin Avarn** — *Half-Tiger Monk of the Crescent Claw*
+
+> “Every motion is a promise. Every strike, an apology to the air I disturb.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 061
+* **Gender (weighted random):** Male (Type: **เมะ** — composed, protective, teasingly confident; strong silent type but warms quickly once trust is earned)
+* **Age:** 26
+* **Race:** Half-Beastkin (Tiger lineage — 85% human-like, faint striped pattern on skin, feline eyes, retractable claws)
+* **Class & Level:** Monk (Way of the Open Hand) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Neutral
+* **Profession:** Traveling martial artist, arena combat instructor
+* **Rank / Position:** **Wandering Claw of the Crescent Monastery**
+* **Organization:** **The Crescent Claw Sect (Valeronnes Frontier Order)**
+* **Symbol:** A stylized tiger’s paw grasping a crescent moon
+* **Title:** *The Whispering Strike*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Chinese–Thai tone — sharp yet calm features, bronze-tan skin, feline eyes reminiscent of Daniel Wu or Bright Vachirawit in fantasy styling.
+
+**Eyes:** golden-brown, slit pupils glint faintly in low light.
+**Skin:** warm tan, smooth, with subtle striping visible along shoulders and back.
+
+**Hair (randomized):** **Length: Short**, **Style: undercut with tousled top**, **Texture: coarse and thick**, **Color: dark brown with golden streaks**, reflects sunlight faintly. *(Fully randomized)*
+
+**Height:** 182 cm
+**Weight:** 75 kg
+**Body Build:** Lean muscular, balanced symmetry; agile frame coiled with strength.
+
+**MALE BUILD METRICS**
+
+```
+CATEGORY: Athletic Combat Build  
+VALIDATION: Lean 182cm / 75kg → Ideal Proportion OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Single black leather wristband etched with tiger sigil, simple prayer bead necklace, bronze ear cuff shaped like a claw.
+
+---
+
+## 👗 Outfit (in English)**
+
+He wears **loose ash-gray monk wraps**, sleeveless to expose forearms, bound by a **midnight sash**. Armguards of soft leather hide retractable claws. Barefoot for combat, bandaged ankles for grip.
+
+**Color Palette:** gray / black / bronze / ivory
+**Accents:** practical, spiritual, earthy minimalism
+
+**Loadout:** none (unarmed), prayer beads, tiger-fang pendant, travel satchel.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (DEX + WIS)
+* **Speed:** 40 ft
+* **STR 14 (+2)** **DEX 17 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, DEX +5
+* **Skills:** Acrobatics +5, Athletics +4, Insight +4, Stealth +5, Perception +4
+* **Languages:** Common, Celestial, Feline
+
+**Monk (Way of the Open Hand) 3:**
+
+* **Martial Arts (1d6)**
+* **Ki (3 points):** Flurry of Blows, Patient Defense, Step of the Wind
+* **Deflect Missiles**, **Slow Fall**, **Open Hand Technique** (push, knock prone, stun)
+
+**Attacks**
+
+* **Unarmed Strike:** +5 to hit, 1d6+3 bludgeoning (flavored as claw strikes)
+* **Flurry of Blows:** two bonus unarmed strikes (1d6+3 each)
+* **Claws:** can deal slashing instead of bludgeoning
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Frontline Striker / Control
+* **Tactics:** Uses *Step of the Wind* to close gaps, *Flurry of Blows* to disrupt formation.
+* **Signature Opener:** Leaps from stillness, three-strike combo in a single breath.
+* **Finisher:** Open Palm Stun → spinning elbow → claw sweep; whispers a prayer for balance.
+* **Damage Flavor:** Impacts release faint ripples of golden light, like sunlight through fur.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Stoic, disciplined, subtly humorous.
+* **Ideal:** Harmony — “Strength is just balance that never stopped breathing.”
+* **Bond:** Devoted to his monastery brothers; still searches for his missing master.
+* **Flaw:** Too reserved; hesitates to show emotion even when it matters.
+* **Quirk:** Hums a quiet chant before every battle, perfectly on rhythm with his breathing.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes Frontier — Crescent Claw Monastery, Windstep Plains**
+* **Threat Gradient:** **Stable → Wavering (Echo disturbance along pilgrim routes)**
+* **Encounter Framing:** **Training Duel**, **Bandit Ambush**, **Meditation Challenge**
+
+---
+
+## 📜 Background & Lifestyle
+
+Jin trained under Master Korran from age ten, learning that restraint is the highest form of strength. After the Echo Storm swallowed the monastery’s east wing, he began wandering to rediscover lost disciples.
+
+* **Lifestyle:** Ascetic; eats sparingly, sleeps under open skies.
+* **Income:** Modest donations from travelers and teaching martial arts to guards.
+* **Relationships:** Friendly mentor to younger monks, wary ally of mercenaries.
+
+---
+
+## 🧩 Morals & Ethics
+
+Peace before pride, always. If forced to fight, he ensures the lesson lasts longer than the bruise.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of his beast side.
+* **Weaknesses:** Dislikes killing; avoids lethal blows even when necessary.
+* **Strengths:** Excellent agility, precision, self-mastery.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“เมะ” tone — firm yet teasing warmth; natural leader energy.
+
+> “You’ll tire before I do. Want to test that?”
+> When teased:
+> “You’ll regret waking the tiger… or maybe not.”
+> If someone blushes, he smirks softly but says nothing, letting silence speak.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His master’s disappearance ties to Severance experiments near Valeronnes.
+* **Hooks:**
+
+  1. **Crescent Echo:** Track missing monks whose chants now summon creatures.
+  2. **Golden Paw:** Jin’s tiger spirit demands release through combat.
+  3. **Harmony Broken:** An ancient vow forces him to duel one of the PCs.
+
+## Tags: #Male #MehType #HalfBeastkin #Tiger #Monk3 #OpenHand #Valeronnes #CR1 #MartialArtist #Wanderer
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Jin **teases softly with confidence**, closing distance subtly during training. When complimented, he chuckles: “Careful. Tigers purr when flattered.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** unarmed, claw gauntlets (optional)
+  * **Armor:** none (unarmored defense)
+  * **Tools:** herbal kit, prayer beads
+  * **Consumables:** 2× stamina draughts, 1× incense of focus
+  * **Misc:** tiger fang pendant, monastery ribbon, old letter from Master Korran
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 19) *or* **Mobile Feat**
+  * **Feature Growth:** Ki mastery; potential subclass evolution toward elemental control
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes Frontier — Windstep Plains, Crescent Claw Monastery Ruins**
+* **Threat Gradient:** **Stable → Wavering (Echo tremors)**
+* **Encounter Type:** **Duel of Honor**, **Rescue Under Storm**, **Meditation Trial**
+* **Affiliation:** **Crescent Claw Sect — Wandering Disciple Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Chinese Thai male half-tiger monk, 182cm, short dark brown hair with golden streaks, golden slit eyes, tan skin with faint stripes, lean muscular body, gray monk wraps with black sash, prayer beads, martial pose, warm sunset light, calm fierce gaze

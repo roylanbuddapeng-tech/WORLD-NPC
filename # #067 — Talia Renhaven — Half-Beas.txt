@@ -1,0 +1,205 @@
+# #067 — **Talia Renhaven** — *Half-Beast Archer of the Windspun Paths*
+
+> “I never miss—unless I mean to scare.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 067
+* **Gender (weighted random):** Female (Type: **Tomboy type 1** — short-haired, feminine but lively, speaks with confident ease and charm)
+* **Age:** 22
+* **Race:** Half-Beast (Falcon lineage — 85% human appearance, faint feathers along shoulders, golden eyes with sharp pupils, subtle tail-feathers blending into cloak)
+* **Class & Level:** Ranger (Hunter) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Neutral
+* **Profession:** Scout, aerial courier, sharpshooter-for-hire
+* **Rank / Position:** **Windspun Courier Captain**
+* **Organization:** **The Silver Horizon Guild**
+* **Symbol:** A falcon feather encircling a compass rose
+* **Title:** *The Gale’s Arrow*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** Japanese tone — features reminiscent of Kiko Mizuhara or Aragaki Yui with a playful glint.
+
+**Eyes:** amber-gold, bright and keen.
+**Skin:** light sun-kissed tone, faint specks of soft feathers at temples.
+
+**Hair (randomized):** **Short feminine cut**, **style:** messy layered pixie, **color:** warm chestnut with golden highlights that glint in daylight.
+**Height:** 168 cm
+**Weight:** 56 kg
+**Body Type:** **Athletic Sculpted** — light muscle tone from constant training, long legs, compact shoulders.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 88 – 65 – 91  
+VALIDATION: • W/B = 0.738 → OK • H/W = 1.40 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Feathered earring in right ear, leather wrist-guard etched with wing runes, bronze circlet over brow, and silver ankle ring (wind charm).
+
+---
+
+## 👗 Outfit (in English)
+
+Wears a **slim leather flight harness** over a **light-gray sleeveless tunic**, with **dark-blue pants** and **high-laced boots**. A **short feathered cloak** flutters at her back when she sprints or leaps.
+
+**Color Palette:** tan / silver / sky blue / dark brown
+**Accents:** aerodynamic, utilitarian, adventurous
+
+**Loadout:** longbow, twin daggers, feather talisman, wind compass, rope spool (50 ft).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +1)×3 → **31 HP**
+* **AC:** **17** (studded leather + DEX)
+* **Speed:** 35 ft
+* **STR 11 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, DEX +6
+* **Skills:** Perception +4, Survival +4, Acrobatics +6, Stealth +6, Athletics +2
+* **Languages:** Common, Auran
+
+**Ranger (Hunter) 3:**
+
+* **Favored Enemy:** Aberrations
+* **Natural Explorer:** Plains
+* **Fighting Style:** Archery (+2 attack rolls)
+* **Hunter Archetype:** *Colossus Slayer* (+1d8 once/turn if target below max HP)
+* **Spellcasting (WIS DC 12, +4 attack)**
+* **Spells Known:** *Hunter’s Mark, Cure Wounds, Hail of Thorns, Pass without Trace*
+
+**Attacks**
+
+* **Longbow:** +8 to hit, 1d8+4 piercing (+1d8 Colossus Slayer when active)
+* **Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Scout Sniper**
+* **Tactics:** Stays mobile, climbs to elevation, uses *Hunter’s Mark* + *Colossus Slayer* for consistent burst.
+* **Signature Opener:** Wind whip — arrow streaks like a falcon dive.
+* **Finisher:** Triple-arrow volley across gale; enemies fall before they hear her land.
+* **Damage Flavor:** Arrows leave faint wind trails; feathers scatter on impact.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, brash, loyal to her crew.
+* **Ideal:** Freedom — “If I can see the sky, I can survive anything.”
+* **Bond:** Rescued a trainee courier in a storm; swore to never leave anyone behind.
+* **Flaw:** Impulsive; acts before thinking when friends are in danger.
+* **Quirk:** Tilts her head like a bird when curious.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara Frontier — High Ridge Paths, Silver Horizon Outpost**
+* **Threat Gradient:** **Stable → Wavering** (high-altitude Echo winds)
+* **Encounter Framing:** **Courier Escort**, **Ridge Ambush**, **Resonance Beacon Defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a messenger for the Thalassara Postal Guild, her lineage made her invaluable for air-travel routes. Her speed earned her the Silver Horizon’s command at twenty.
+
+* **Lifestyle:** Spends most nights sleeping under the open sky.
+* **Income:** Guild pay, courier bonuses, bounty commissions.
+* **Relationships:** Sparring partner of Orin Kaelis; admires Mina Soryu but won’t admit it.
+
+---
+
+## 🧩 Morals & Ethics
+
+Honest to a fault. If she promises to deliver, she’ll die trying.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being grounded permanently (wing injury).
+* **Weaknesses:** Overconfidence; underestimates spellcasters.
+* **Strengths:** Precision aim, lightning-fast reactions, situational awareness.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“Tomboy type 1” tone — confident and teasing, playful swagger.
+
+> “You keep staring—want a flying lesson or something?”
+> If teased:
+> “Ha! You think I blush that easy? Try harder.”
+
+She likes to **make others flustered**, leaning close with a grin:
+
+> “Careful—my feathers tickle when I’m curious.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Carries a forbidden sky map of routes across Echo turbulence.
+* **Hooks:**
+
+  1. **The Broken Compass:** Retrieve her stolen wind compass before a storm surge.
+  2. **Sky-Bound Rescue:** Save a crashed courier airship with her tactical planning.
+  3. **The Feathered Seal:** Unseal an ancient flight ritual linked to her bloodline.
+
+## Tags: #Female #TomboyType1 #HalfBeast #Falcon #Ranger3 #Hunter #Thalassara #CR1 #Scout #Archer
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Talia teases during sparring, mock-punching shoulders. Compliments with a wink:
+
+> “Nice shot. Almost as good as mine.”
+
+When flustered, she ruffles her hair: “D-don’t look at me like that.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** longbow, 20 arrows, twin daggers
+  * **Armor:** studded leather
+  * **Tools:** climbing kit, rope spool
+  * **Consumables:** 2× healing draughts, 1× storm balm
+  * **Misc:** wind compass, feather charm, guild insignia
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Sharpshooter**
+  * **Spell Pick:** *Spike Growth* or *Misty Step*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Silver Horizon Ridge Network**
+* **Threat Gradient:** **Stable → Wavering (wind surges)**
+* **Encounter Type:** **Courier Duel**, **Ridge Ambush**, **Resonance Beacon Defense**
+* **Affiliation:** **Silver Horizon Guild — Courier Command Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese female half-falcon ranger, 168cm, short chestnut hair with gold highlights, amber eyes, athletic sculpted build, sleeveless tunic, feathered cloak, longbow, wind effects, cliff edge, fantasy sky background

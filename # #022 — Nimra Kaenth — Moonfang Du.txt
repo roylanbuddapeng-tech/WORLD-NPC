@@ -1,0 +1,156 @@
+# #022 — **Nimra Kaenth** — *Moonfang Duelist of the Sapphire Courts*
+
+> “If you blink, you’ll only hear my victory.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นน้อง)
+* **Age:** 19
+* **Race:** Beast-kin (Cat-kin — human-like ~85%, soft feline ears, a slim silver tail, vertical slit pupils that gleam azure under moonlight)
+* **Class & Level:** Rogue (Swashbuckler) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Street duelist, arena performer, thief-for-hire
+* **Rank / Position:** **Moonfang Duelist**
+* **Organization:** **Thalassara Free Ring Guild**
+* **Symbol:** A pair of crossed rapiers beneath a crescent fang
+* **Title:** *The Sapphire Pounce*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Thai–French hybrid
+
+Nimra glows with youthful bravado. **Eyes:** deep sapphire-blue, wide and playful. **Skin:** light tan with rosy tone at the cheeks. **Distinctive Features:** cat ears tipped with silver, a slim tail swaying with restless energy.
+
+**Hair (randomized):** **Medium length**, **wavy midnight-blue**, streaked with silver, tied into a side ponytail with a blue ribbon.
+
+**Height:** 160 cm
+**Weight:** 50 kg
+**Body Type:** Petite, lean, gymnast-like agility
+
+**FEMALE BODY METRICS**
+
+```
+CUP: B CATEGORY: Small  
+THREE_SIZES (B-W-H, cm): 82 – 60 – 86  
+VALIDATION: • W/B = 0.731 → OK • H/W = 1.43 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Small **sapphire stud earrings**, **silver choker** with tiny bell (muted for stealth), and **anklet chain** with a crescent charm.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **navy duelist vest** trimmed with white, paired with **short leather pants**, **black leggings**, and **high boots** with flexible soles. A **half-cape** of blue velvet flows from one shoulder, secured by a silver clasp shaped like a paw.
+
+**Color Palette:** navy / white / silver / sapphire blue
+**Accents:** fine stitching, ribbon ties, sleek leatherwork
+
+**Loadout:** rapier, dagger, throwing needles (4), smoke pellets (2), and climbing claws hidden in gloves.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 35 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +2
+* **Skills:** Acrobatics +6, Stealth +6, Perception +3, Persuasion +4, Sleight of Hand +6, Performance +4
+* **Languages:** Common, Elvish, Thalassaran Cant, Feline Cant
+* **Equipment:** rapier, daggers, thieves’ tools, smoke pellets
+
+**Rogue (Swashbuckler) 3:**
+
+* **Fancy Footwork**, **Rakish Audacity**, **Sneak Attack (2d6)**
+* **Cunning Action**, **Uncanny Dodge (flavor integration)**
+* **Expertise:** Acrobatics, Stealth
+
+**Attacks**
+
+* **Rapier:** +6 to hit, 1d8+4 piercing (+2d6 Sneak Attack)
+* **Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Melee Striker / Mobility Specialist**
+* **Tactics:** Darts in and out of range, provoking attacks she dodges with feline grace; uses **Cunning Action** to reposition.
+* **Signature Opener:** Feint with flourish → rapid slash → flip backward over opponent.
+* **Finisher:** Double lunge + tail-sweep distraction.
+* **Damage Flavor:** Each strike leaves a glimmering blue afterimage, like moonlight reflections.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran street tone)**
+
+* **Traits:** Energetic, cheeky, loyal to her crew.
+* **Ideal:** Independence — “No chain, no collar, no leash.”
+* **Bond:** Her adopted mentor, Rheia Corven, taught her to fight “with rhythm.”
+* **Flaw:** Overconfident; mocks enemies before the fight’s done.
+* **Quirk:** Always hums a short tune before dueling — never the same twice.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Sapphire Courts, Lower Bridges, Dueling Rings**
+* **Threat Gradient:** **Stable → Wavering** (Echo distortions during crowd events)
+* **Encounter Framing:** **Friendly Duel**, **Arena Show**, **Pickpocket Escape Chase**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Grew up among street performers; turned her dance routines into swordplay. Adopted by Rheia after a botched theft turned into a duel.
+* **Lifestyle:** Lives above a tavern, sleeps late, trains by moonlight.
+* **Income:** Dueling exhibitions, stolen jewelry “donations.”
+* **Relationships:** Looks up to Rheia as “cool big sister,” rivals Kaira Volyn in friendly sparring.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes life’s too short for boredom. Fights for thrill and companionship, not coin.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being forgotten or losing her speed.
+* **Weaknesses:** Easily distracted by flattery; reckless.
+* **Strengths:** Blinding agility, improvisational combat, magnetic presence.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นน้อง” tone — playful and affectionate, often leans close when talking: “You look nervous. Want me to show you how to breathe before a fight?” Her tail flicks when she’s flustered, and she quickly looks away, pretending to stretch.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a locket with a fragment of an Echo crystal—she believes it’s her late brother’s voice.
+* **Hooks:**
+
+  1. **The Lost Duel:** Help Nimra find the duelist who defeated her brother before the Severance took him.
+  2. **Sapphire Heist:** Join her in stealing a corrupted crystal to cleanse it in the Moon Canals.
+  3. **The Purring Silence:** Investigate why she sometimes hums in frequencies that quiet Echo surges.
+
+## Tags: #Female #YoungerSister #BeastKin #CatKin #Rogue3 #Swashbuckler #Thalassara #CR1 #Adventurer #Moonfang
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai French cat-kin female rogue duelist, medium wavy midnight-blue hair, sapphire eyes, petite gymnast body, navy vest, silver ribbon, rapier, moonlight courtyard, playful smile

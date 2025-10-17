@@ -1,0 +1,164 @@
+# #004 — **Talla Meryn** — *Windward Scout of the Saffron Ridge*
+
+> “The wind keeps no promises—but it tells every secret.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: Tomboy — Type 1: soft, feminine charm with short hair)
+* **Age:** 23
+* **Race:** Human (Skarnov border lineage — human-like 100%)
+* **Class & Level:** Ranger 2 / Rogue 1 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Frontier scout and caravan outrider
+* **Rank / Position:** Windward tracker of the Saffron Ridge patrols
+* **Organization:** **Saffron Guard** — northern border scouts of Skarnov
+* **Symbol:** Twin feathers crossed over a compass point
+* **Title:** *The Ridge Runner*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Thai–Southeast Asian desert mix
+
+Talla is sun-bright and sharp-smiled; a glimmer of dust always lingers on her cheeks like freckles. **Skin tone**: warm tan with a copper undertone. **Eyes**: deep brown, slightly almond-shaped and alert. **Expression:** confident mischief.
+
+**Hair (randomized):** **Short masculine cut**, **dark mahogany brown**, tousled and spiky at the crown.
+
+**Height:** 170 cm
+**Weight:** 60 kg
+**Body Type:** Lean, agile build; wiry muscle from years on horseback
+
+**FEMALE BODY METRICS**
+
+```
+CUP: B   CATEGORY: Small  
+THREE_SIZES (B-W-H, cm): 82 – 62 – 89  
+VALIDATION: • W/B = 0.756 → OK   • H/W = 1.43 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Thin leather choker with a wind-feather charm; **silver-stud earrings** mismatched; **wrist-wrap compass band**; one **anklet with tiny bell** that jingles softly when she runs.
+
+Her grin is quick, teasing, and followed by the faint whistle of wind through her hair.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **sand-hued half-vest** with dark olive scout wraps, **leather armguards**, and **asymmetrical cloak** pinned with a feather brooch. **Trousers** loose and belted, tucked into **weathered boots** cut for climbing and long rides.
+
+**Color Palette:** tan / olive / rust / bronze
+**Accents:** feathers, rope fastenings, light desert tones
+
+**Loadout:** shortbow, curved shortsword, small hunting knife, spyglass, rope coil, and wind-warded compass charm.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 2d10 + 1d8 + (CON +2)×3 → **26 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 35 ft
+* **STR 12 (+1)** **DEX 17 (+3)** **CON 14 (+2)** **INT 11 (+0)** **WIS 15 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +5
+* **Skills:** Stealth +7, Survival +6, Perception +6, Animal Handling +4, Acrobatics +5, Intimidation +3
+* **Languages:** Common, Halfling, Elvish
+* **Equipment:** shortbow, 20 arrows, shortsword, rope, compass charm, cloak
+
+**Ranger 2 (Hunter):**
+
+* **Favored Enemy:** Beasts
+* **Natural Explorer:** Grassland
+* **Fighting Style:** Archery
+* **Hunter’s Prey:** Colossus Slayer (extra 1d8 dmg once/turn)
+* **Spells (WIS DC 12):** *Hunter’s Mark, Cure Wounds*
+
+**Rogue 1:**
+
+* **Sneak Attack 1d6**, **Cunning Action** (bonus Dash/Hide/Disengage)
+
+**Attacks**
+
+* **Shortbow:** +5 to hit, 1d6+3 (+1d8 Colossus Slayer, +1d6 Sneak Attack)
+* **Shortsword:** +5 to hit, 1d6+3 slashing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Scout / Skirmisher**
+* **Tactics:** Opens from concealment with **Hunter’s Mark**, hits once then retreats to new vantage. Uses **Cunning Action** to stay unpinned. Prefers “tag and move” style.
+* **Signature Opener:** Slides down dune slope while firing in mid-roll.
+* **Finisher:** Coordinated **arrow to knee joint** before ally strike.
+* **Damage Flavor:** Arrows carry a faint dust-trail glow as if cutting through sunlight.
+
+---
+
+## 💬 Personality (Randomized — Skarnov border weights)**
+
+* **Traits:** Playful tomboy, teasing but dependable; loves competition.
+* **Ideal:** Freedom — “If I stop moving, I stop being me.”
+* **Bond:** Her twin brother lost in a sandstorm—she still whistles his call sign on long rides.
+* **Flaw:** Overconfident; hates being told to slow down.
+* **Quirk:** Whistles mid-combat to match her arrow rhythm.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Skarnov Frontier — Saffron Ridge & Wind Flats**
+* **Threat Gradient:** **Wavering → Echo Zone** (desert mirages)
+* **Encounter Framing:** **Scout Escort**, **Ambush Chase**, **Desert Recon Duel**
+
+---
+
+## 📜 Background & Lifestyle**
+
+* **Background:** Grew up riding desert couriers; lost her twin in a trade raid. Joined the Guard to prove survival can be an art.
+* **Lifestyle:** Nomadic; sleeps under stars. Keeps a sketchbook of wind shapes.
+* **Income:** Border scout pay + bounty for accurate wind reports.
+* **Relationships:** On friendly terms with Rinna Vaelune; occasional training partner.
+
+---
+
+## 🧩 Morals & Ethics**
+
+Values **independence over comfort**. Sees loyalty as chosen, not owed. Protects travelers from predators and corrupt guards alike.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths**
+
+* **Fears:** Getting lost in total stillness.
+* **Weaknesses:** Prone to reckless solo chases.
+* **Strengths:** High agility, sharp perception, adaptable under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“Tomboy Type 1” — light-hearted, feminine smile, but lively and teasing. Flicks sweat from her forehead and grins, “What, can’t keep up?” When flustered, she punches a shoulder instead of admitting it. Likes to make others blush by getting too close under the pretense of “adjusting your stance.”
+
+---
+
+## 🤫 Secrets & Plot Hooks**
+
+* **Secret:** Keeps her brother’s compass, which occasionally spins toward unseen Echo storms.
+* **Hooks:**
+
+  1. **Wind over Saffron Ridge:** Escort Talla across storm dunes to recover lost patrol.
+  2. **Whistle in the Mirage:** The Echo repeats her brother’s whistle—truth or trap?
+  3. **Desert Duel:** Rival scout challenges her for title; PCs judge the match.
+
+## Tags: #Female #TomboyType1 #Human #Ranger2 #Rogue1 #Skarnov #Scout #CR1 #Adventurer #SaffronRidge
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai tomboy scout, short mahogany hair, tan skin, lean body, desert outfit, leather vest, bow, confident smile, wind and sand backdrop

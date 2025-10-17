@@ -1,0 +1,199 @@
+# #053 — **Kaoru Veylan** — *Half-Tiger Femboy Trickster of the Amber Crescent*
+
+> “You think I’m dangerous because I smile too much. That’s not wrong.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 053
+* **Gender (weighted random):** Male (Type: **Femboy** — soft-spoken, graceful, flirtatious, thrives on teasing reactions)
+* **Age:** 21
+* **Race:** Beast-kin (Tiger lineage — 85% human-like; subtle orange-gold stripes shimmer faintly under light, pupils slightly feline)
+* **Class & Level:** Rogue (Swashbuckler) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Neutral
+* **Profession:** Street performer, thief, informant
+* **Rank / Position:** **Amber Crescent Agent (Low Tier)**
+* **Organization:** **House of Amber Veils** — Thalassaran underguild devoted to secrets and seduction
+* **Symbol:** A stylized half-moon curling around a cat’s eye gem
+* **Title:** *The Velvet Fang*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Thai–Japanese tone — delicate, androgynous beauty reminiscent of Win Metawin or Toma Ikuta stylized for fantasy.
+
+**Eyes:** amber-gold with feline slits, glinting mischievously.
+**Skin:** soft tan with faint luminescent stripes visible under candlelight.
+
+**Hair (randomized):** **Length: Short-Medium**, **Style: soft layered bob**, **Texture: silky straight**, **Color: dark ash-gold with warm orange gradient tips**, tucked behind one ear; faint stray bangs frame his face. *(Full randomization applied)*
+
+**Height:** 158 cm
+**Weight:** 48 kg
+**Body Build:** Slim and lithe; feminine waistline, dancer’s grace, soft arms and delicate hands.
+
+---
+
+## 🪞 FEMALE-FRAME METRICS ADAPTED (for Femboy type)**
+
+*(uses feminine proportions for visualization; body remains male)*
+
+```
+HEIGHT LIMIT: ≤160 cm → OK  
+CATEGORY: Feminine  
+THREE_SIZES (B-W-H, cm): 84 – 62 – 88  
+BODY VALIDATION: • W/B = 0.738 → OK • H/W = 1.42 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Thin **gold chain choker**, **tiger-eye earrings**, **anklet bell charm**, and **bracelet of interwoven orange silk threads**.
+
+---
+
+## 👗 Outfit (in English)**
+
+Kaoru wears a **silk half-shirt** open at the midriff, patterned with amber and black stripes, and **tight breeches** tucked into high boots. A **short cloak** hangs from one shoulder, fastened with a cat’s-eye clasp. His gloves are soft leather dyed bronze, fingers always moving idly like he’s counting invisible coins.
+
+**Color Palette:** amber / black / bronze / honey gold
+**Accents:** sensual, fluid, acrobatic-ready
+
+**Loadout:** rapier, dagger (concealed in boot), smoke bead (3), thieves’ tools, perfumed oil.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **15** (leather armor + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 13 (+1)** **WIS 11 (+0)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, CHA +5
+* **Skills:** Acrobatics +6, Performance +5, Persuasion +5, Stealth +6, Sleight of Hand +6, Insight +2
+* **Languages:** Common, Elvish, Thieves’ Cant, Feline Sign
+
+**Rogue (Swashbuckler) 3:**
+
+* **Fancy Footwork**, **Rakish Audacity**, **Sneak Attack 2d6**, **Cunning Action**
+* **Equipment:** rapier, dagger, thieves’ tools, charm vial (perfume + minor charm DC 13)
+
+**Attacks**
+
+* **Rapier:** +6 to hit, 1d8+4 piercing + **2d6 Sneak Attack**
+* **Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duelist / Distraction Expert / Social Manipulator**
+* **Tactics:** Darts between enemies, provoking focus, then fades with Cunning Action; fights while taunting.
+* **Signature Opener:** “You dropped your guard — how rude of me not to pick it up for you.”
+* **Finisher:** Elegant lunge through the heart, followed by a bow and smirk.
+* **Damage Flavor:** Amber light flashes like cat eyes in the dark.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Flirtatious, cunning, emotionally perceptive.
+* **Ideal:** Freedom — “If I can’t charm it, I’ll outsmart it.”
+* **Bond:** Protects his guild-siblings fiercely.
+* **Flaw:** Prone to vanity; refuses to fight if blood might ruin his outfit.
+* **Quirk:** Purrs faintly when amused or pleased.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Amber Crescent District, Silk Bazaar, Moonlight Balcony**
+* **Threat Gradient:** **Stable → Wavering (Echo trade routes)**
+* **Encounter Framing:** **Thieves’ Gala**, **Masked Duel**, **Secret Rendezvous**
+
+---
+
+## 📜 Background & Lifestyle
+
+Kaoru grew up among performers and thieves in Thalassara’s undercity. He found that charm could open more locks than steel. Now he trades whispers and smiles, collecting secrets like jewels.
+
+* **Lifestyle:** Luxurious but transient — soft beds, scented candles, and escape routes.
+* **Income:** Espionage pay + stage performance tips + blackmail (rarely used).
+* **Relationships:** Flirts shamelessly with Meilin Arha; mentor-brother to Rin Kaelis (much to Rin’s annoyance).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes kindness is a choice, lies are survival, and seduction is art.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being seen as powerless beneath his charm.
+* **Weaknesses:** Fragile self-image; distractible when flustered.
+* **Strengths:** Quick thinking, agility, master of emotional manipulation.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“Femboy” tone — light, airy voice with playful cadence. He leans close when speaking, his words half-whisper, half-laughter.
+
+> “You blush so easily… are you *trying* to make me like you?”
+> If teased back, he fans himself dramatically:
+> “You’re cruel — I might faint. Catch me?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His “perfume” contains a diluted charm pheromone from his tiger lineage — illegal under Thalassaran law.
+* **Hooks:**
+
+  1. **The Amber Heist:** Help Kaoru retrieve a stolen charm vial before it’s weaponized.
+  2. **Dance of the Fangs:** Escort him through a noble gala infiltration.
+  3. **Echo of the Heart:** Investigate why his reflection in mirrors doesn’t match his movement.
+
+## Tags: #Male #Femboy #BeastKin #Tiger #Rogue3 #Swashbuckler #Thalassara #CR1 #Adventurer #Performer #Spy
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Kaoru **delights in flustering others** — brushing fingers against theirs, whispering compliments mid-fight. When someone actually outflirts him, his tail stiffens, ears twitch, and he laughs softly, “...You win this round.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** rapier, dagger
+  * **Tools:** thieves’ tools, disguise kit, charm vial
+  * **Consumables:** 2× smoke beads, 1× healing draught
+  * **Misc:** silk cloak, gold choker, love letter (unread)
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Actor Feat**
+  * **Tactical Growth:** enhance acrobatics and ambush flair
+  * **Spell Option (if multiclass):** *Charm Person*, *Mirror Image*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Amber Crescent District**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **Gala Heist**, **Social Duel**, **Seductive Infiltration**
+* **Affiliation:** **House of Amber Veils — Agent Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Japanese male femboy tiger beastkin rogue, 158cm, soft androgynous body, amber eyes, short layered ash-gold hair with orange tips, subtle tiger stripes, silk amber-black outfit, gold choker, flirtatious smile, moonlit city background, sensual confident pose

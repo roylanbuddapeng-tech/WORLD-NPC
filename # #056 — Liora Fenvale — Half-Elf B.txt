@@ -1,0 +1,202 @@
+# #056 — **Liora Fenvale** — *Half-Elf Bard of the Radiant Strings*
+
+> “If the song moves your heart, don’t fight it—follow the rhythm.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 056
+* **Gender (weighted random):** Female (Type: **รุ่นเพื่อน** — confident, approachable, playful sense of humor; radiates effortless charm and warmth)
+* **Age:** 24
+* **Race:** Half-Elf (Thalassaran descent — 85% human appearance, faint light-blue shimmer to the eyes, slender ears barely noticeable)
+* **Class & Level:** Bard (College of Lore) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Musician, traveling performer, chronicler of the Seven Lineages
+* **Rank / Position:** **Radiant Strings Member (Lead Performer)**
+* **Organization:** **Thalassara Grand Ensemble**
+* **Symbol:** A sunburst lyre with seven crystal strings
+* **Title:** *The Golden Voice of Thalassara*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Korean–Thai tone — bright expressive beauty with sharp eyes and soft smile, reminiscent of Jisoo × Baifern fantasy fusion.
+
+**Eyes:** bright sky-blue with tiny silver flecks that glow when she sings.
+**Skin:** warm fair with subtle gold undertone, faint glitter across cheekbones.
+
+**Hair (randomized):** **Length: Long**, **Style: wavy layered**, **Texture: soft and silky**, **Color: honey-blonde with pink-gold gradient tips**, tied loosely with a thin golden ribbon. *(Fully randomized: length, texture, and color applied)*
+
+**Height:** 167 cm
+**Weight:** 56 kg
+**Body Type:** Slender hourglass, lively posture, gentle curves.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D CATEGORY: Medium-Large  
+THREE_SIZES (B-W-H, cm): 91 – 66 – 94  
+VALIDATION: • W/B = 0.73 → OK • H/W = 1.42 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Gold hoop earrings with dangling crystal notes, braided wrist chord with sound-runes, silver-inlaid pendant shaped like a treble clef, light anklet of bells that chime softly to her steps.
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **flowing white-and-gold ensemble** of silk and soft leather, perfect for travel and stage. A **corseted vest** accentuates her figure, paired with **half-gloves** for string work. Her **cloak** is sheer violet fabric that catches the light like music made visible.
+
+**Color Palette:** white / gold / violet / blush pink
+**Accents:** radiant, musical, bright traveler’s chic
+
+**Loadout:** lute (enchanted), short rapier, diary, 3× crystal picks that store sound spells.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **15** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 16 (+3)** **CON 12 (+1)** **INT 13 (+1)** **WIS 11 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, CHA +5
+* **Skills:** Performance +7, Persuasion +5, Deception +5, Insight +2, Acrobatics +5, History +3
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Bard (Lore) 3:**
+
+* **Bardic Inspiration d6**
+* **Cutting Words**
+* **Jack of All Trades**
+* **Song of Rest**
+* **Spellcasting (CHA DC 13, +5 attack)**
+* **Spells Known (6 + cantrips):**
+
+  * *Cantrips:* Vicious Mockery, Prestidigitation, Minor Illusion
+  * *1st:* Cure Wounds, Dissonant Whispers, Tasha’s Hideous Laughter
+  * *2nd:* Calm Emotions, Suggestion
+
+**Attacks**
+
+* **Rapier:** +5 to hit, 1d8+3 piercing
+* **Crossbow (light):** +5 to hit, 1d8+3 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Support / Controller / Charmer
+* **Tactics:** Opens with *Calm Emotions* or *Dissonant Whispers* to control flow; inspires allies mid-combat; maintains distance with rapier for defense.
+* **Signature Opener:** A soft chord—air hums, enemies pause, allies’ hearts lift.
+* **Finisher:** *Suggestion* woven in a final note: “Drop your blades and listen.”
+* **Damage Flavor:** Each note shimmers into light motes that burst gently on impact.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Optimistic, witty, emotionally attuned.
+* **Ideal:** Connection — “Every story deserves a melody.”
+* **Bond:** Travels to record songs of lost heroes.
+* **Flaw:** Hides her own sadness behind constant cheer.
+* **Quirk:** Taps rhythms on everything she touches when thinking.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Radiant Amphitheater, Moon Canals, Azure Square**
+* **Threat Gradient:** **Wavering** (due to sound-Echo distortions)
+* **Encounter Framing:** **Performance Turned Riot**, **Diplomatic Ballad**, **Rescue by Song**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a wandering minstrel and a Thalassaran scholar, Liora inherited both curiosity and stage presence. She sees every performance as a chance to heal or awaken hearts dulled by fear.
+
+* **Lifestyle:** Nomadic but lavish; always finds fine food and music wherever she goes.
+* **Income:** Concert fees + noble patronage + story commissions.
+* **Relationships:** Close friend to Han So-Ren; occasional ally to Lyra Thalassara.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes beauty and art are forms of truth that transcend law.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her voice or audience to Echo silence.
+* **Weaknesses:** Overextends herself to lift others.
+* **Strengths:** Charisma, adaptability, empathic insight.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นเพื่อน” tone — lighthearted banter, friendly teasing.
+
+> “Relax, I’ve got your back… and your theme music.”
+> When she’s flustered, she covers it with a laugh and a quick riff on her lute:
+> “Whoops—wrong note! Totally not because of you.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her lute is an ancient artifact housing a fragment of Lysantra’s echo; it “sings back.”
+* **Hooks:**
+
+  1. **Song of Silence:** Recover missing strings from the lute’s original set.
+  2. **Encore of Echoes:** Defend Liora during a performance that summons phantom listeners.
+  3. **Harmony Lost:** Find her lost mentor who disappeared into the Echo.
+
+## Tags: #Female #PeerType #HalfElf #Bard3 #CollegeOfLore #Thalassara #CR1 #Performer #Storyteller
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Liora **makes others blush through spontaneous affection**—grabs hands mid-song, locks eyes mid-note. If someone flirts back, she laughs brightly: “I knew you had rhythm!”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** rapier, light crossbow
+  * **Tools:** lute (enchanted), lyre, calligraphy kit
+  * **Consumables:** 2× healing potions, 1× soothing tea blend
+  * **Misc:** lyric journal, sound-crystal picks, noble letter of patronage
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **Inspiring Leader**
+  * **Spell Pick:** *Enhance Ability* or *Detect Thoughts*
+  * **Tactical Growth:** add supportive crowd-control magic
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Radiant Amphitheater**
+* **Threat Gradient:** **Wavering (Sound Echo flux)**
+* **Encounter Type:** **Performance Duel**, **Diplomatic Concert**, **Echo Distortion Event**
+* **Affiliation:** **Thalassara Grand Ensemble — Lead Performer**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Thai female half-elf bard, 167 cm, long wavy honey-blonde hair with pink-gold tips, bright sky-blue eyes, slender hourglass body, white-and-gold silk outfit, enchanted lute, stage lights, smiling expression, musical aura of light and color, Thalassara amphitheater background

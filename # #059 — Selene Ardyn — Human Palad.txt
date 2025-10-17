@@ -1,0 +1,204 @@
+# #059 — **Selene Ardyn** — *Human Paladin of the Ivory Flame*
+
+> “Mercy is not weakness. It’s the proof that the fire within burns for more than destruction.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 059
+* **Gender (weighted random):** Female (Type: **รุ่นพี่** — composed, confident, protective; carries natural authority mixed with gentle warmth)
+* **Age:** 29
+* **Race:** Human (Valeronnes heritage — fair skin, gray-blue eyes with faint inner light when channeling divine power)
+* **Class & Level:** Paladin (Oath of Devotion) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Good
+* **Profession:** Knight, missionary, escort guardian
+* **Rank / Position:** **Knight-Protector of the Ivory Flame Order**
+* **Organization:** **Valeronnes Radiant Vanguard**
+* **Symbol:** A white flame encased within a silver circle
+* **Title:** *The Silver Sentinel*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Korean–Western fusion — regal, disciplined beauty reminiscent of Kim Ji-won crossed with Gal Gadot’s poise in fantasy tone.
+
+**Eyes:** gray-blue, clear and steady; faint golden sheen when invoking magic.
+**Skin:** fair with faint sun-toned blush; battle-marked but immaculate in care.
+
+**Hair (randomized):** **Length: Long**, **Style: slightly wavy pulled-back braid**, **Texture: thick and smooth**, **Color: pale ash-blonde with ivory highlights**, streaked with silver thread on one side. *(Fully randomized)*
+
+**Height:** 176 cm
+**Weight:** 66 kg
+**Body Type:** Strong, statuesque build — wide shoulders, toned arms, elegant waist.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 100 – 73 – 104  
+VALIDATION: • W/B = 0.73 → OK • H/W = 1.42 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Silver circlet (with faint holy flame etching), pearl earrings, white-gold bracelet with small sapphire inset, and thin silver chain wrapped around one wrist (vow token).
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **silver-white breastplate** over a **cream tunic**, trimmed with golden thread. Her **cloak** is pure white lined with pale blue, symbol of devotion. The **emblem of the Ivory Flame** burns faintly on her left pauldron.
+Her gauntlets and boots show scuffs of use, meticulously cleaned.
+
+**Color Palette:** ivory / silver / sky blue / gold
+**Accents:** luminous, knightly, minimalist purity
+
+**Loadout:** longsword (holy focus), shield, healing draughts, holy symbol pendant, traveling journal.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **18** (chain mail + shield)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 11 (+0)** **CON 14 (+2)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Persuasion +5, Athletics +5, Insight +3, Medicine +3, Religion +2
+* **Languages:** Common, Celestial
+
+**Paladin (Oath of Devotion) 3:**
+
+* **Divine Sense (4/day)**
+* **Lay on Hands (15 HP pool)**
+* **Divine Smite**
+* **Sacred Weapon**, **Turn the Unholy**
+* **Spellcasting (CHA DC 13, +5 attack)**
+* **Prepared Spells:** *Bless, Cure Wounds, Protection from Evil and Good, Shield of Faith, Wrathful Smite*
+
+**Attacks**
+
+* **Longsword:** +5 to hit, 1d8+3 slashing + 2d8 radiant (Divine Smite)
+* **Javelin:** +5 to hit, 1d6+3 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Frontline Defender / Party Anchor
+* **Tactics:** Uses *Bless* early, holds line with shield raised; strikes when allies are endangered.
+* **Signature Opener:** Steps forward, voice steady—“By the Ivory Flame, no harm shall pass.”
+* **Finisher:** Blade arcs in radiant blaze as divine fire licks the air around her.
+* **Damage Flavor:** Silver-gold flame blooms, leaving no burn—only light.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Composed, duty-driven, quietly nurturing.
+* **Ideal:** Honor — “Justice without kindness is just cruelty with manners.”
+* **Bond:** Her squire, who reminds her why she still smiles.
+* **Flaw:** Overprotective; sometimes refuses aid out of pride.
+* **Quirk:** Touches her sword hilt lightly when embarrassed.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Ivory Citadel, Fields of Ashmere, Northern Pilgrim Roads**
+* **Threat Gradient:** **Stable → Wavering (Echo interference near holy sites)**
+* **Encounter Framing:** **Escort Mission**, **Shrine Defense**, **Knightly Duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Selene was born into the Valeron noble house Ardyn but left courtly life to pursue the knight’s path. Her leadership brought her into the Ivory Flame’s vanguard, where she trains younger knights in both sword and mercy.
+
+* **Lifestyle:** Orderly; mornings spent praying, evenings sparring. Keeps her quarters immaculate.
+* **Income:** Knight stipend + commission rewards + relic escort fees.
+* **Relationships:** Mentor to Riko Hanamura, close ally to Renji Arvalen, past rivalry with a fallen knight now turned Severance agent.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes every soul can redeem itself—once. The second time, mercy becomes self-betrayal.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing to protect someone under her care.
+* **Weaknesses:** Overextension, guilt-driven self-sacrifice.
+* **Strengths:** Leadership, radiant resilience, unwavering faith.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นพี่” tone — mature confidence, teasing kindness.
+
+> “You swing with heart, but not with breath. Relax, before I have to show you again.”
+> If someone flirts:
+> “Careful… compliments can be blinding when reflected off armor.”
+
+When *she’s* caught off guard, she looks away, smoothing her cloak unnecessarily:
+
+> “Don’t mistake a pause for weakness.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Carries a relic containing her fallen rival’s soul—her mercy cost her promotion.
+* **Hooks:**
+
+  1. **Ashes of Mercy:** Help her cleanse the relic before it corrupts her.
+  2. **The Silver Duel:** A rival knight challenges her honor in secret.
+  3. **Oath at Dusk:** Her divine power flickers; something is dimming her faith.
+
+## Tags: #Female #SeniorType #Human #Paladin3 #OathOfDevotion #Valeronnes #CR1 #Knight #HolyWarrior
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Selene **flusters others through poise** — corrects their stance with gentle hands or steady gazes. When thanked, she simply says, “Don’t thank me. Stand taller instead.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** longsword, javelin, shield
+  * **Armor:** chain mail
+  * **Tools:** holy symbol, squire’s journal
+  * **Consumables:** 2× holy draughts, 1× elixir of clarity
+  * **Misc:** prayer ribbon, knight insignia, vow chain
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 18) *or* **Sentinel Feat**
+  * **Spell Pick:** *Magic Weapon* or *Lesser Restoration*
+  * **Feature Growth:** Oath Aura development at higher levels
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Ivory Citadel**
+* **Threat Gradient:** **Stable → Wavering (Echo bleed near relics)**
+* **Encounter Type:** **Escort Quest**, **Sanctuary Defense**, **Knight Duel**
+* **Affiliation:** **Valeronnes Radiant Vanguard — Knight-Protector Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Western female human paladin, 176cm, long ash-blonde hair in braid, gray-blue eyes, tall strong figure, silver-white armor, white cloak with gold trim, radiant holy aura, confident gentle expression, sword and shield raised, cathedral background, soft sunlight filtering through

@@ -1,0 +1,154 @@
+# #028 — **Lyss Fenvale** — *Silver-Thread Whisper of the Mirror Bazaar*
+
+> “Information travels faster when it’s dressed as a compliment.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นเพื่อน)
+* **Age:** 24
+* **Race:** Human
+* **Class & Level:** Rogue (Mastermind) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Neutral
+* **Profession:** Spy, informant, undercover performer
+* **Rank / Position:** **Whisper Agent**
+* **Organization:** **Thalassara Echo Trade Consortium (Information Wing)**
+* **Symbol:** A pair of lips formed by interlocking sound-rings
+* **Title:** *The Silver Thread*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Japanese–Spanish hybrid
+
+Lyss blends street elegance with predator charm. **Eyes:** light gray with faint violet shimmer. **Skin:** light tan, smooth and glowing under lamplight. **Manner:** moves like a cat testing balance on a wire—casual yet precise.
+
+**Hair (randomized):** **Medium**, **straight platinum silver**, styled in a **half-up twist** with an obsidian hairpin shaped like a fan.
+
+**Height:** 165 cm
+**Weight:** 54 kg
+**Body Type:** Sleek hourglass, dancer’s tone, graceful posture.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 90 – 67 – 94  
+VALIDATION: • W/B = 0.744 → OK • H/W = 1.40 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+A **black lace choker**, **silver ringlet earrings**, a **fine chain bracelet** with coded charms, and a **thin anklet** that jingles in soft Morse rhythm.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **satin-gray blouse** with deep V-neck, layered with a **short black jacket** embroidered in silver thread. **Slim dark trousers** and **heeled boots** lend her a dangerous silhouette. A **long sash** of violet silk wraps around her waist, hiding throwing knives.
+
+**Color Palette:** silver / black / violet / charcoal
+**Accents:** urban sleek, layered textures, metallic shine
+
+**Loadout:** concealed daggers (4), garrote wire, whisper crystal (message device), coded notebook.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **15** (leather armor + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 16 (+3)** **CON 12 (+1)** **INT 14 (+2)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, INT +4
+* **Skills:** Deception +5, Insight +3, Investigation +4, Sleight of Hand +5, Persuasion +5, Perception +3
+* **Languages:** Common, Elvish, Thalassaran Cant, Undercommon
+
+**Rogue (Mastermind) 3:**
+
+* **Sneak Attack (2d6)**, **Cunning Action**, **Master of Intrigue**, **Master of Tactics**
+* **Bonus Action:** Help (range 30 ft), Disguise proficiency, mimicry of speech patterns.
+
+**Attacks**
+
+* **Dagger (concealed):** +5 to hit, 1d4+3 piercing + 2d6 Sneak Attack
+* **Thrown Dagger:** range 20/60, same bonus
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Support / Distraction / Infiltration**
+* **Tactics:** Uses **Help** bonus action to set up ally advantage; prefers ambush over direct combat.
+* **Signature Opener:** Mimics ally’s voice to bait enemies before striking.
+* **Finisher:** “Mirror Step” — tosses two daggers that ricochet from surfaces with perfect timing.
+* **Damage Flavor:** Her blades shimmer with silver light like rippling water.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran streetwise tone)**
+
+* **Traits:** Witty, perceptive, mischievous.
+* **Ideal:** Freedom — “Secrets are like tides; they move where they will.”
+* **Bond:** Her twin brother lost to Severance corruption.
+* **Flaw:** Avoids emotional commitment; prefers masks to honesty.
+* **Quirk:** Changes accents mid-conversation to test people.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Mirror Bazaar, Echo Tunnels, Trade Docks**
+* **Threat Gradient:** **Wavering → Echo Zone** (during black-market rituals)
+* **Encounter Framing:** **Covert Meeting**, **Interrogation**, **Double-Agent Reveal**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Former thief who sold information to survive; recruited by Echo Trade Consortium after saving a diplomat from an assassination.
+* **Lifestyle:** Night owl; lives in a small loft above a perfume shop, filled with notebooks and maps.
+* **Income:** Spy contracts + coded courier work.
+* **Relationships:** Teasing friendship with Nimra Kaenth; cautious alliance with Rheia Corven.
+
+---
+
+## 🧩 Morals & Ethics
+
+Truth is a currency—valuable, dangerous, and never truly free.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Having her true voice stolen by Echo magic.
+* **Weaknesses:** Distrust of authority; talks too much under pressure.
+* **Strengths:** Sharp mind, social camouflage, impeccable improvisation.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นเพื่อน” tone — playful and bold. She leans close with a grin: “You blinked; that’s how I knew you were lying.” When flustered, she talks faster and pretends she’s analyzing your posture.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her twin’s voice still whispers to her through certain mirrors.
+* **Hooks:**
+
+  1. **The Silent Reflection:** Investigate why mirrors across the Bazaar repeat her voice.
+  2. **The Stolen Word:** Recover a Severance shard said to trap spoken truths.
+  3. **Echo Trade:** Work with Lyss to expose a traitor inside her guild.
+
+## Tags: #Female #FriendType #Human #Rogue3 #Mastermind #Thalassara #CR1 #Adventurer #Spy #SilverThread
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Spanish human female rogue, medium straight platinum silver hair, gray-violet eyes, sleek outfit, silver blouse, black jacket, violet sash, mirror bazaar, sly smile

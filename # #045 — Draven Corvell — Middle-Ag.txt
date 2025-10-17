@@ -1,0 +1,185 @@
+# #045 — **Draven Corvell** — *Middle-Aged Sellsword of the Obsidian Marches*
+
+> “Steel doesn’t care why you swing it. But I do.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 045
+* **Gender (weighted random):** Male (Type: วัยกลางคน — seasoned, patient, with a quiet authority and visible experience)
+* **Age:** 42
+* **Race:** Human (Skarnov lineage — 100% human; faint forge-ash marks on fingers and forearms)
+* **Class & Level:** Fighter (Champion) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Veteran mercenary, caravan guard, sword instructor
+* **Rank / Position:** **Steel Hand of the Marches**
+* **Organization:** **Iron Pact Company** (independent mercenary guild)
+* **Symbol:** Twin swords crossing over a broken gear
+* **Title:** *The Ashblade Veteran*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** English–Nordic hybrid
+
+Draven is the portrait of a professional soldier—weathered yet imposing. **Eyes:** gray-blue, cold but not unkind. **Skin:** light tan with faint scars and burn traces along his knuckles. **Hair:** **Short**, **salt-and-pepper brown**, cropped close with a few rebellious locks that won’t lie flat.
+
+**Height:** 182 cm
+**Weight:** 85 kg
+**Body Build:** Muscular and dense; old strength carved from years of war.
+
+**Jewelry & Accessories (randomized):**
+A **steel torque** with simple etching (his first commission’s pay), **worn leather wrist wraps**, and a **ring** made from melted-down sword fragments of fallen comrades.
+
+---
+
+## 👗 Outfit (in English)**
+
+Wears **reinforced chainmail under a weathered leather coat**, **metal-plated gauntlets**, and a **broad utility belt** holding pouches, hooks, and oil vials. His **boots** bear dust of many roads, and the **cloak** across his back is gray and tattered but well cared for.
+
+**Color Palette:** steel gray / brown / dark red / ash black
+**Accents:** utilitarian, battle-worn, grounded in realism
+
+**Loadout:** longsword (mastercrafted), dagger, light crossbow, chainmail, survival gear.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **18** (chainmail + Defense style)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 13 (+1)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Perception +3, Intimidation +2, Survival +3
+* **Languages:** Common, Dwarvish
+
+**Fighter (Champion) 3:**
+
+* **Fighting Style:** Defense
+* **Second Wind**, **Action Surge**, **Improved Critical (19–20)**
+
+**Attacks**
+
+* **Longsword:** +5 to hit, 1d8+3 slashing (1d10+3 two-handed)
+* **Light Crossbow:** +3 to hit, 1d8+1 piercing, 80/320 ft
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Defender / Striker**
+* **Tactics:** Steadies formation, holds ground; uses **Action Surge** to break stalemates.
+* **Signature Opener:** Raises his sword in salute — “One clean swing, no regrets.”
+* **Finisher:** Deliberate, crushing overhand blow that ends fights definitively.
+* **Damage Flavor:** Sparks and ash trail his blade like embers snuffed by wind.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Patient, dry humor, quietly protective.
+* **Ideal:** Responsibility — “If you take the coin, you finish the job.”
+* **Bond:** Former student now lost to Echo corruption.
+* **Flaw:** Haunted by indecision in his past; hides weariness with sarcasm.
+* **Quirk:** Always sharpens blades before sleeping — even borrowed ones.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Obsidian Marches, Iron Pass, Rustveil Camp**
+* **Threat Gradient:** **Stable → Wavering** (wandering Echo storms)
+* **Encounter Framing:** **Caravan Defense**, **Siege Counterline**, **Bandit Negotiation**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former sergeant of the old Skarnov guard, Draven left after disagreeing with the new regime’s brutality. He trains younger fighters and sells his blade where justice feels possible.
+
+* **Lifestyle:** Practical; keeps a tidy tent and journal of campaigns.
+* **Income:** Mercenary pay + teaching apprentices.
+* **Relationships:** Mutual respect with Corin Valen; friendly rivalry with Kaena Mistral.
+
+---
+
+## 🧩 Morals & Ethics
+
+He’s pragmatic, believing morality lives in the moment: “If you can save one life, do. If not, make it quick.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing another protégé to war or corruption.
+* **Weaknesses:** Slower reflexes; resists magical healing (trauma-born distrust).
+* **Strengths:** Resilient, dependable, skilled tactician.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“วัยกลางคน” tone — protective and gently teasing, often mentor-like.
+He crosses his arms with a faint smirk:
+
+> “You’ve got guts, kid. Now try keeping them inside next time.”
+> When caught off-guard emotionally, he clears his throat and looks away, muttering:
+> “Don’t make this awkward. I’m terrible at thank-yous.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a hidden letter from his lost student, sealed with Severance glyphs — he’s afraid to read it.
+* **Hooks:**
+
+  1. **Echo on the Blade:** Help Draven uncover why his old student’s sword hums with corrupted resonance.
+  2. **Mercenary’s Code:** Decide whether to side with Draven’s old company or defend a town they’re paid to sack.
+  3. **The Lost Letter:** Deliver the letter to its intended heir before Draven’s past consumes him.
+
+## Tags: #Male #MiddleAged #Human #Fighter3 #Champion #Skarnov #CR1 #Adventurer #Mercenary #Instructor
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Prefers to **fluster others by underplaying compliments** — “You did well. Don’t look so surprised.” Rarely shows his own embarrassment but his ears redden when praised sincerely.
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900** (Level 3 baseline)
+* **XP to Next Level:** **1,800** more (to reach Level 4)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** longsword, dagger, light crossbow (10 bolts)
+  * **Armor:** chainmail, travel cloak
+  * **Tools:** whetstone, repair kit, rope
+  * **Consumables:** 2× minor healing draughts, 1× oil of sharpening
+  * **Misc:** old campaign journal, broken compass, student’s insignia
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 18) *or* **Tough** feat
+  * **Tactical Option:** Gain **Great Weapon Fighting** if adopting heavier blade
+  * **Future Growth:** Consider Champion 4–6 or Battle Master multiclass
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone Name:** **Skarnov — Obsidian Marches**
+* **Threat Gradient:** **Wavering**
+* **Encounter Framing:** **Siege Defense**, **Veteran’s Test**, **Mercenary Parley**
+* **Affiliation:** **Iron Pact Company — Freeblade Captain Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+English Nordic middle-aged male human fighter, short brown salt-and-pepper hair, gray-blue eyes, rugged face, 182cm muscular build, chainmail under leather coat, longsword resting on shoulder, campfire battlefield backdrop, stoic veteran expression

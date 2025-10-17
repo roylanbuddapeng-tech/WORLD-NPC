@@ -1,0 +1,174 @@
+# #041 — **Corin Valen** — *Glareshade Pactblade of the Luminous Causeway*
+
+> “Mercy is a blade you sheath slowly.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Male (Type: วัยกลางคน)
+* **Age:** 39
+* **Race:** Aasimar (near-human ~90% — faint aureate halo in low light; star-spark freckles at temples)
+* **Class & Level:** Warlock (Hexblade) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Neutral
+* **Profession:** Relic retriever, ward-blade bodyguard, investigator
+* **Rank / Position:** **Pactblade Operative**
+* **Organization:** **Valeronnes Nightward Order**
+* **Symbol:** A narrow crescent set inside a sword guard
+* **Title:** *The Glareshade*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Greek–Persian hybrid
+
+Corin carries the quiet gravity of a veteran. **Eyes:** molten gold, irises ringed in dim starlight. **Skin:** olive-bronze with dusting of “star freckles” over the brow bones. A faint, controlled **halo-glow** appears when he draws pact power.
+
+**Hair (randomized):** **Medium**, **wavy charcoal-black** with **steel-gray streaks**, swept back; a single rebellious forelock falls when he’s focused.
+
+**Height:** 183 cm
+**Weight:** 82 kg
+**Body Build:** Broad-shouldered, athletic; swordfighter’s core and endurance
+
+**Jewelry & Accessories (randomized):**
+A **brushed silver circlet-fragment** worn like a headband (disguised halo anchor), **obsidian signet ring**, **leather data-band** with mission sigils, and a **thin anklet** threaded with two matte bells (silenced).
+
+---
+
+## 👗 Outfit (in English)
+
+A **smoke-black longcoat** reinforced with hidden plates, over a **charcoal gambeson** and **dark trousers** tucked into **knee boots** with rune-stitched seams. A **half-cloak** (inside glows faintly gold) clips to a shoulder guard etched with pact runes.
+
+**Color Palette:** black / charcoal / gunmetal / muted gold
+**Accents:** matte metal trims, star-etch filigree, concealed scabbard slots
+
+**Loadout:** pact longsword (summoned), backup short sword, hex focus coin (black steel), manacles, investigation kit.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (studded leather + DEX; can **Shield** via invocation style flavor not used—uses *Shield* via spell? Hexblades don’t get Shield by default; excluded)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Intimidation +5, Investigation +2, Insight +3, Perception +3, Stealth +4
+* **Languages:** Common, Celestial, Elvish
+
+**Warlock (Hexblade) 3:**
+
+* **Hexblade’s Curse (1/short rest)**, **Hex Warrior** (attacks with CHA), **Pact Boon:** Pact of the Blade
+* **Eldritch Invocations (2):** **Agonizing Blast**, **Devil’s Sight**
+* **Spellcasting (CHA DC 13, +5 attack; 2 spell slots, 2nd-level)**
+* **Spells Known (4):** *Hex, Armor of Agathys, Mirror Image, Misty Step*
+* **Cantrips:** *Eldritch Blast, Minor Illusion*
+
+**Attacks**
+
+* **Pact Longsword (Hex Warrior):** +5 to hit (CHA), 1d8+3 slashing (+proficiency to damage on cursed target via feature)
+* **Eldritch Blast:** +5 to hit, 1 beam for 1d10+3 force (Agonizing Blast)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Skirmisher / Control Striker**
+* **Tactics:** Opens with **Hexblade’s Curse** + **Eldritch Blast**; closes to melee when lines break. **Mirror Image** to buffer, **Misty Step** to reposition, **Armor of Agathys** before committing.
+* **Signature Opener:** Coin focus snaps, shadow-gold blade condenses from starlight.
+* **Finisher:** Low feint → upward pact cut; curse shatters in a silent starburst.
+* **Damage Flavor:** Force strikes leave thin comet tails that burn to embers.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Stoic, dry-humored, relentlessly fair.
+* **Ideal:** Duty — “Light without restraint is a wildfire.”
+* **Bond:** Owes the Nightward Order for sparing his family after a botched relic job.
+* **Flaw:** Over-controls emotions; pushes allies too hard.
+* **Quirk:** Taps his coin focus twice before any risky choice.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Luminous Causeway, Nightward Archives, Starstep Courts**
+* **Threat Gradient:** **Wavering → Echo** (intermittent star-echo fractures)
+* **Encounter Framing:** **Relic Retrieval**, **Midnight Duel**, **Echo Ward Recalibration**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former caravan guard turned relic-runner. After a Severance-tainted job nearly doomed a district, he bargained with the **Glareshade**—a sword-echo in the Nightward vaults—for power to make amends.
+
+* **Lifestyle:** Spartan; sleeps little, journals case notes.
+* **Income:** Order stipend + bounty shares.
+* **Relationships:** Mutual respect with Taria Venloris; cautious ally to Lyss Fenvale.
+
+---
+
+## 🧩 Morals & Ethics
+
+He weighs every strike against consequence. Mercy preferred; finality reserved for monsters and traitors.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of the pact’s “temper.”
+* **Weaknesses:** Overcommits to protecting civilians; susceptible to bait.
+* **Strengths:** Versatile defense, reliable ranged pressure, decisive melee closer.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+“วัยกลางคน” tone — grounded, mentoring, a touch teasing. He adjusts your grip with two fingers: “Relax the wrist. I’d like you to keep that hand.” If flustered, he clears his throat and studies the horizon as if judging weather.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His pact blade sometimes whispers names—future targets or those he’s spared. He hasn’t told the Order.
+* **Hooks:**
+
+  1. **Names in the Steel:** Track why the blade speaks the name of a still-living ally.
+  2. **Causeway Starfall:** Stabilize a star-echo breach before it births a sword-wraith.
+  3. **Debt to the Nightward:** Choose whether Corin obeys an unjust Order writ.
+
+## Tags: #Male #MiddleAged #Aasimar #Warlock3 #Hexblade #Valeronnes #CR1 #Adventurer #Pactblade #Investigator
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Steady mentor; prefers to **calm others**. Rarely blushes; makes **you** do it with a dry compliment: “Brave swing. Keep the courage—fix the footing.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900** (Level 3 baseline)
+* **XP to Next Level:** **1,800** more (to reach Level 4 at 2,700 total)
+* **Inventory Slots (suggested tracker):**
+
+  * Weapons: Pact Longsword (summoned), Short Sword
+  * Tools: Investigation kit, manacles, chalk & cord, 2× healing draught (common)
+  * Magic/Focus: Hex focus coin, order badge (sending once/day, DMG-range flavor)
+  * Misc: Journal, 2× smoke bead, 50 ft silk rope
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **War Caster**
+  * **Invocation Add:** **Improved Pact Weapon** *or* **Repelling Blast**
+  * **Spell Pick:** *Shadow Blade* (theme fit) *or* *Hold Person* (control)
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Greek Persian aasimar male warlock, medium wavy black hair with gray streaks, golden eyes, black longcoat, shadow-gold sword, subtle halo, star sparks, stoic pose

@@ -1,0 +1,203 @@
+# #063 — **Kaoru Veylan** — *Half-Elf Rogue of the Silent Chord*
+
+> “Every secret hums a note. I just happen to play the right ones.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 063
+* **Gender (weighted random):** Male (Type: **เฟมบอย** — outwardly feminine, teasing and confident; voice soft but words sharp, loves to fluster others)
+* **Age:** 21
+* **Race:** Half-Elf (Thalassaran bloodline — 85% human appearance, slight ear taper and silver-blue resonance in eyes)
+* **Class & Level:** Rogue (Arcane Trickster) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Performer-thief, infiltration expert, information broker
+* **Rank / Position:** **Agent of the Silent Chord**
+* **Organization:** **The Azure Phalanx — Shadow Operatives**
+* **Symbol:** Treble clef crossed with a dagger
+* **Title:** *The Whispered Note*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Korean–Japanese tone — graceful beauty reminiscent of Taemin (SHINee) or Yuta Nakamoto in fantasy attire; delicate face but dangerously magnetic.
+
+**Eyes:** violet-silver, half-lidded and knowing, sparkle faintly when lying.
+**Skin:** fair and smooth, with faint shimmer under moonlight.
+
+**Hair (randomized):** **Length: Medium**, **Style: feathered bob with asymmetric fringe**, **Texture: silky straight**, **Color: silvery lavender with soft blue undertones**, drapes slightly over one eye. *(Fully randomized)*
+
+**Height:** 158 cm
+**Weight:** 49 kg
+**Body Build:** Slim and androgynous; elegant gestures, slight waist, long fingers.
+
+**FEMININE BODY METRICS (Femboy build)**
+
+```
+HEIGHT LIMIT ≤ 160 cm → OK  
+CATEGORY: Feminine  
+THREE_SIZES (B-W-H, cm): 85 – 61 – 88  
+VALIDATION: • W/B = 0.71 → OK • H/W = 1.44 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Black choker with silver charm, three small earrings on left ear, silver finger ring shaped like a music note, charm anklet of tiny bells.
+
+---
+
+## 👗 Outfit (in English)**
+
+Kaoru wears a **midnight vest** over a **loose white poet shirt**, unbuttoned just enough to tease, paired with **tight trousers** and **knee-high boots**. A **half-cloak** of indigo velvet flutters when he moves.
+
+**Color Palette:** black / silver / indigo / white
+**Accents:** sensual, refined, elusive
+
+**Loadout:** slim rapier, hidden dagger, lockpicks, small flute focus.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 14 (+2)** **WIS 10 (+0)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** Acrobatics +6, Deception +5, Insight +2, Performance +5, Sleight of Hand +6, Stealth +6
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Rogue (Arcane Trickster) 3:**
+
+* **Sneak Attack (2d6)**
+* **Cunning Action** (Hide, Dash, Disengage)
+* **Mage Hand Legerdemain**
+* **Spellcasting (INT DC 12, +4 attack)**
+* **Spells Known:** *Mage Hand, Minor Illusion, Charm Person, Disguise Self, Tasha’s Hideous Laughter*
+
+**Attacks**
+
+* **Rapier:** +6 to hit, 1d8+4 piercing + 2d6 Sneak Attack
+* **Dagger:** +6 to hit, 1d4+4 piercing (throw range 20/60 ft)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Skirmisher / Deception Controller
+* **Tactics:** Uses illusions to misdirect, attacks from shadows, finishes with flourish.
+* **Signature Opener:** *Disguise Self* → “Oh? You thought I’d make it easy?”
+* **Finisher:** Thrust rapier through illusion clone, landing behind enemy’s guard.
+* **Damage Flavor:** Silent shimmer like shattered glass and fading melody.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Playful, vain, clever, teasingly mysterious.
+* **Ideal:** Freedom — “Art is rebellion with rhythm.”
+* **Bond:** Loyal to Mina Soryu; the two perform spy duets for noble courts.
+* **Flaw:** Can’t resist showing off, even in danger.
+* **Quirk:** Speaks in double meanings; hums while picking locks.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — The Moon Canals, Mirror District, House of Echoes**
+* **Threat Gradient:** **Wavering → Echo Zone (musical resonance distortion)**
+* **Encounter Framing:** **Heist Performance**, **Masquerade Infiltration**, **Spy Duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Kaoru grew up a street performer with perfect pitch. When his illusions charmed the wrong noble, he was offered a new career: espionage through seduction and music. He now sells secrets by song.
+
+* **Lifestyle:** Lavish but lonely — sleeps in perfumed silk, dines alone.
+* **Income:** Espionage contracts and high-end performances.
+* **Relationships:** Partner and occasional rival to Mina Soryu; flirtatious tension with Orin Kaelis.
+
+---
+
+## 🧩 Morals & Ethics
+
+Truth is a blade duller than charm; people reveal more when they smile.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing his allure — both magically and emotionally.
+* **Weaknesses:** Fragile pride, addicted to attention.
+* **Strengths:** Quick reflexes, improvisation, charm under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“Femboy” tone — sensual confidence with playful subtext.
+
+> “You can’t lie to me… not when your pulse sings louder than your words.”
+> When teased:
+> “Mm, if you keep saying things like that, I might start believing you.”
+
+When *he’s embarrassed*, he flicks his hair and smirks to hide it:
+
+> “W-what? I’m always this close when I talk.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Hides a magical melody capable of turning Echo resonance into emotion — a weaponized song.
+* **Hooks:**
+
+  1. **The Silent Performance:** Guard Kaoru as he performs before a Severance agent.
+  2. **Strings of Betrayal:** His enchanted melody has been stolen.
+  3. **Heart’s Discord:** His emotions start influencing Echo energy across Thalassara.
+
+## Tags: #Male #Femboy #HalfElf #Rogue3 #ArcaneTrickster #Thalassara #CR1 #Performer #Spy
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Kaoru **teases constantly through tone and body language**, stepping close to whisper compliments. If someone flirts back, he blushes faintly but purrs: “Good—keep that energy. I like a duet.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** rapier, dagger
+  * **Armor:** leather armor
+  * **Tools:** thieves’ tools, disguise kit, flute focus
+  * **Consumables:** 2× healing potions, 1× invisibility vial
+  * **Misc:** charm bracelet, love letter, performance mask
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Actor Feat**
+  * **Spell Pick:** *Mirror Image* or *Silent Image*
+  * **Feature Growth:** Enhanced illusion blending and charm resistance
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Moon Canal Network, House of Echoes**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **Masquerade Heist**, **Spy Duel**, **Performance Duel**
+* **Affiliation:** **Azure Phalanx — Shadow Operative Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male half-elf rogue femboy, 158cm, silvery lavender hair, violet-silver eyes, elegant slim build, soft facial features, wearing black vest and white poet shirt, silver choker, seductive smirk, moonlit canal background, fantasy espionage atmosphere

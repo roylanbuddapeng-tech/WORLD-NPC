@@ -1,0 +1,196 @@
+# #051 — **Meilin Arha** — *Half-Serpent Illusionist of the Azure Mirage Troupe*
+
+> “Truth is overrated — I prefer something that glitters and lies beautifully.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 051
+* **Gender (weighted random):** Female (Type: รุ่นพี่ — composed, elegant, sometimes teasing but calm under pressure; exudes quiet authority)
+* **Age:** 28
+* **Race:** Beast-kin (Serpentine lineage — 85% human-like; faint opaline scales tracing her jawline and spine, slit pupils when using magic)
+* **Class & Level:** Wizard (Illusion School) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral
+* **Profession:** Stage illusionist, arcane performer, spy
+* **Rank / Position:** **Principal Performer of the Azure Mirage Troupe**
+* **Organization:** **Thalassara Grand Theater Alliance**
+* **Symbol:** Twin serpents forming an infinity knot around a crystal mirror
+* **Title:** *The Silver Mirage*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Chinese–Korean tone — high cheekbones, almond eyes, timeless allure reminiscent of Fan Bingbing × Kim Ji-won fantasy styling.
+
+**Eyes:** emerald-green with vertical pupils that shimmer when she casts.
+**Skin:** porcelain smooth with faint silvery sheen under lamplight.
+
+**Hair (randomized):** **Length: Long**, **Style: braided waterfall curls**, **Color: midnight black with jade-green gradient tips** — soft, cascading waves interwoven with thin silver threads that sparkle when she moves. *(Full randomization: length, style, color, texture applied)*
+
+**Height:** 170 cm
+**Weight:** 57 kg
+**Body Type:** Graceful curves; mature, sinuous movement, dancer’s posture.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 96 – 70 – 99  
+VALIDATION: • W/B = 0.729 → OK • H/W = 1.41 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Thin **silver snake bracelet**, **emerald drop earrings**, **mirror choker**, and **opal hair rings** threading through her braid.
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **silk illusionist robe** — teal and silver, slit for leg movement — layered with **transparent shawls** that shimmer like heat haze. Her **corset-belt** carries miniature wands and smoke beads for stage use. Long gloves trail faint sigil embroidery glowing when she channels.
+
+**Color Palette:** teal / silver / black jade / emerald
+**Accents:** theatrical, graceful, dangerously alluring
+
+**Loadout:** arcane focus fan, smoke crystal beads, dagger hidden in garter sheath.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **13** (mage armor)
+* **Speed:** 30 ft
+* **STR 8 (–1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 11 (+0)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +2
+* **Skills:** Arcana +5, Deception +4, Performance +4, Insight +2, Sleight of Hand +4
+* **Languages:** Common, Draconic, Elvish
+
+**Wizard (School of Illusion) 3:**
+
+* **Improved Minor Illusion** (combine sound + image)
+* **Illusory Self (1/rest)**
+* **Spellcasting (INT DC 13, +5 attack)**
+* **Prepared Spells:** *Disguise Self, Silent Image, Mirror Image, Phantasmal Force, Misty Step, Mage Armor, Minor Illusion, Fire Bolt*
+
+**Attacks**
+
+* **Fire Bolt:** +5 to hit, 1d10 fire
+* **Dagger:** +4 to hit, 1d4+2 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Illusion Caster / Controller**
+* **Tactics:** Uses illusions for distraction, flanks with mirror doubles, disorients targets before striking from hiding.
+* **Signature Opener:** A swirl of mist — her figure splits into three laughing selves.
+* **Finisher:** *Phantasmal Force* — enemy collapses screaming at visions only they can see.
+* **Damage Flavor:** Each spell ripples with faint scales of green light that scatter into dust.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, sardonic, composed.
+* **Ideal:** Control — “Illusion isn’t deceit; it’s artistry with sharper teeth.”
+* **Bond:** Protects her troupe fiercely, calls them “my little scales.”
+* **Flaw:** Too calculating; often sacrifices truth for presentation.
+* **Quirk:** Always coils a strand of hair around her finger when lying.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Azure Mirage Theater, Mirror Courts, Velvet Arch Corridor**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Framing:** **Stage Ambush**, **Espionage Masquerade**, **Mirror Duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Meilin was once a temple oracle before leaving to “create truth prettier than prophecy.” She channels her serpentine heritage to sense lies, blending performance with espionage.
+
+* **Lifestyle:** Lavish — scented oils, silks, late nights.
+* **Income:** Theater revenue + secret royal contracts.
+* **Relationships:** Flirtatious rivalry with Jae-Lan Sereth; mentor-like toward Rin Kaelis.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes reality is subjective: “If it comforts, does it matter if it’s real?”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of her illusions — or her emotions.
+* **Weaknesses:** Physically fragile; vanity blinds her to subtle manipulation.
+* **Strengths:** Master of deception, empathy via illusion sensing, magnetic charisma.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นพี่” tone — warm, teasing, self-assured. She leans close, whispering,
+
+> “You’re adorable when you doubt me — that’s when I know the trick worked.”
+> If flustered herself, her tail-scale shimmer betrays the lie:
+> “Hmph. The light’s just… hot, that’s all.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** One of her illusions accidentally became *real* — an Echo-construct that roams the city wearing her face.
+* **Hooks:**
+
+  1. **Mirror’s Reflection:** Track down her Echo-double before it commits a crime.
+  2. **The Serpent’s Masquerade:** Protect her troupe from nobles using illusions for assassination.
+  3. **Stage of Lies:** Help Meilin perform the perfect illusion to hide an evacuation under the guise of a grand finale.
+
+## Tags: #Female #SenpaiType #BeastKin #Serpentine #Wizard3 #Illusionist #Thalassara #CR1 #Performer #Spy
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Enjoys **flustering others with sly compliments**; uses body language and whisper tones. When you try to match her flirt, she only smiles: “That’s cute. Try harder next act.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800** (to reach Level 4)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** dagger, arcane focus fan
+  * **Tools:** disguise kit, stage props
+  * **Consumables:** 2× illusion beads, 1× smoke vial
+  * **Misc:** mirror shard, serpent bracelet, signed theater ribbon
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **Actor Feat**
+  * **Spell Pick:** *Major Image* or *Suggestion*
+  * **Role Expansion:** Infiltration and emotional manipulation
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Azure Mirage Theater District**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **Masquerade Duel**, **Theater Infiltration**, **Echo Projection Incident**
+* **Affiliation:** **Azure Mirage Troupe — Principal Performer**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Chinese Korean female serpentkin wizard illusionist, 170cm, long braided waterfall curls midnight black hair with jade-green tips, emerald eyes with slit pupils, teal and silver silk outfit, silver snake jewelry, stage lights, sensual confident pose, shimmering illusion mist, theater background

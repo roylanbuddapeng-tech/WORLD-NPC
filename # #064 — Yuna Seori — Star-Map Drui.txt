@@ -1,0 +1,201 @@
+# #064 — **Yuna Seori** — *Star-Map Druid of the Whispering Tide*
+
+> “Every current has a constellation. Learn to read the water, and the sky will answer.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 064
+* **Gender (weighted random):** Female (Type: รุ่นเพื่อน — friendly, quick-witted, comfortably flirty; team-first, laughs easily)
+* **Age:** 23
+* **Race:** **Air Genasi** (near-human ~90%; faint pale-aqua glow in pupils, thin breeze-motes trailing hair when excited)
+* **Class & Level:** **Druid (Circle of Stars) 3** — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Tide-cartographer, resonance surveyor, field astrologer
+* **Rank / Position:** **Star-Chart Keeper**
+* **Organization:** **Thalassara Azure Archives — Celestial Hydrography Wing**
+* **Symbol:** A star map folded into a seashell spiral
+* **Title:** *The Tide-Reader*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** Korean–Japanese tone — chic, fresh charisma reminiscent of Kim Da-mi × Kanna Hashimoto in a fantasy palette.
+
+**Eyes:** sea-glass teal with a faint constellation sparkle when she casts.
+**Skin:** pale porcelain with a cool undertone; a soft moon-sheen at collarbones.
+
+**Hair (randomized — includes short feminine style):** **Short feminine**, **soft pixie-bob** with feathered tips; **color:** **inky black with icy-aqua underlights** that catch like wet ink. *(Length, style, and color fully randomized; short hair specifically included per rule.)*
+
+**Height:** 166 cm
+**Weight:** 55 kg
+**Body Type:** Slim, swimmer’s tone; graceful shoulders, steady core.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 89 – 66 – 95
+VALIDATION: • W/B = 0.742 → OK   • H/W = 1.44 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+A **thin silver circlet** etched with tiny star runes, **opal stud earrings**, a **nautilus pendant** (her star map focus), a **braided data-band** with tide-graphs, and a **delicate ankle chain** with a single compass charm.
+
+---
+
+## 👗 Outfit (in English)
+
+She wears a **storm-gray travel mantle** over a **sea-teal fitted tunic** and **soft leather trousers** tucked into **spray-proof boots**. A **short cloak** is stitched with constellations in silver thread; her **satchel** rattles with shells and star-ink vials.
+
+**Color Palette:** storm gray / sea-teal / silver / soft black
+**Accents:** nautical scholar, crisp lines, luminous threadwork
+
+**Loadout:** star map (arcane focus), driftwood wand, wooden shield, shell-ink journal, vials of phosphor dust.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **19 HP**
+* **AC:** **16** (leather 11 + DEX +3 + **wooden shield** +2)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 16 (+3)** **CON 14 (+2)** **INT 12 (+1)** **WIS 16 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +3, WIS +5
+* **Skills:** Nature +5, Survival +5, Perception +5, Medicine +5, Arcana +3, Insight +5
+* **Languages:** Common, Primordial (Auran), Elvish
+
+**Druid (Circle of Stars) 3:**
+
+* **Star Map (spellcasting focus); Guiding Bolt (1/long rest via feature)**
+* **Starry Form (Bonus Action, 10 min — Archer / Chalice / Dragon)**
+* **Wild Shape** (utility scouting; flavor as wind-sprites, seabirds, otters)
+* **Spellcasting (WIS DC 13, +5 attack); Prepared Spells = 6**
+
+**Spells (prepared):**
+
+* **Cantrips:** *Guidance, Produce Flame, Thorn Whip*
+* **1st:** *Cure Wounds, Faerie Fire, Entangle*
+* **2nd:** *Moonbeam, Pass without Trace, Lesser Restoration*
+
+**Attacks**
+
+* **Thorn Whip:** +5 to hit, 1d6 piercing, pull 10 ft
+* **Produce Flame (ranged):** +5 to hit, 2d8 fire (as 3rd-level)
+* **Quarterstaff (flavor driftwood):** +3 to hit, 1d6+1 bludgeoning (versatile 1d8+1)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support Controller / Mobile Healer**
+* **Tactics:** Opens with *Faerie Fire* or *Entangle* to set the board; pops **Starry Form (Chalice)** to boost healing or **Archer** for reliable radiant chip. *Moonbeam* punishes shapechangers and holds lanes.
+* **Signature Opener:** Tosses phosphor dust—constellations bloom underfoot; allies move like notes on a staff.
+* **Finisher:** Starry Form (Archer) rapid volleys while *Moonbeam* corrals fleeing foes.
+* **Damage Flavor:** Hits leave tiny star-ripples across water, fading like skipped stones.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Curious, upbeat, lightly teasing; loves mapping “emotional weather.”
+* **Ideal:** Discovery — “Every shoreline is a question mark.”
+* **Bond:** Keeps tide-letters from rescued sailors in her journal.
+* **Flaw:** Chases data in dangerous conditions; underestimates her limits.
+* **Quirk:** Names storms after friends; sketches constellations on mugs.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Canals, Tidecall Court, Azure Archives Piers**
+* **Threat Gradient:** **Wavering → Echo** (sound–tide interference during concerts)
+* **Encounter Framing:** **Canal Night-Run**, **Resonance Survey Escort**, **Ritual Charting under Moonbeam**
+
+---
+
+## 📜 Background & Lifestyle
+
+Archivist parents; boat-child at heart. She engineered a star-map that overlays current vectors with celestial arcs, letting her predict Echo surges along canals.
+
+* **Lifestyle:** Early runs, late notes; coffee with sea salt.
+* **Income:** Archive stipend + hazard pay for Echo charting.
+* **Relationships:** Friendly banter with Liora Fenvale; field-collabs with Lyra Thalassara; science-crush on Orin Kaelis’s lightning notes.
+
+---
+
+## 🧩 Morals & Ethics
+
+Truth should be useful and kind. If it can’t be both, make it kinder.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being caught in a “silent tide” (total Echo dampening) at sea.
+* **Weaknesses:** Low raw damage if control fails; gets seasick after teleportation.
+* **Strengths:** Superb battlefield shaping, reliable radiant output (Archer), clutch healing (Chalice).
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+“รุ่นเพื่อน” tone — breezy, conspiratorial, a little competitive.
+She bumps shoulders: “Race you to the next lock gate—loser buys tea.”
+If someone flirts, she grins: “Careful. I chart currents. Yours are… fast.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her star map sometimes draws constellations that don’t exist—future routes? or Severance lures.
+* **Hooks:**
+
+  1. **The Nonexistent Constellation:** Follow a phantom star-route that appears only on Yuna’s map.
+  2. **Silent Tide Alarm:** Guard her while she plants resonance buoys before an Echo blackout.
+  3. **Moonbeam Heist:** Use her *Pass without Trace* and canal charts to infiltrate a Severance barge.
+
+## Tags: #Female #PeerType #AirGenasi #Druid3 #CircleOfStars #Thalassara #CR1 #Support #Controller #Cartographer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Likes **making others blush** with sudden competence: catching someone mid-stumble with a wink—“Tide’s with you.” She blushes if praised for her maps, then deflects with a dare.
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900** (Level 3 baseline)
+* **XP to Next Level:** **1,800** more (to **2,700** total for Level 4)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons/Focus:** driftwood staff, star map focus, wooden shield
+  * **Tools:** cartographer’s tools, navigator’s tools
+  * **Consumables:** 2× healing draughts, 1× phosphor dust pouch (advantage to track in dim light, DM adjudication), 1× waterskin of “tide-ink”
+  * **Misc:** shell-ink journal, compass charm anklet, canal key-rings
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 18) *or* **Warcaster**
+  * **Spell Picks:** *Healing Spirit* (DMG variants) or *Spike Growth*
+  * **Starry Form Habit:** Default to **Chalice** in heal-heavy parties; **Archer** if party lacks ranged DPR.
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Moon Canal Lattice**
+* **Threat Gradient:** **Wavering → Echo (concert nights)**
+* **Encounter Type:** **Survey Escort**, **Canal Ambush**, **Resonance Calibration**
+* **Affiliation:** **Azure Archives — Celestial Hydrography Wing**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female air genasi druid, 166cm, short feminine pixie-bob black hair with aqua underlights, teal sea-glass eyes, slim swimmer’s build, storm-gray mantle, sea-teal tunic, starry short cloak, driftwood staff, glowing constellation effects, moonlit canal backdrop

@@ -1,0 +1,196 @@
+# #050 — **Tsubasa Renjou** — *Falcon-Eyed Tomboy Ranger of the Highwind Frontier*
+
+> “If the wind’s calling your name, you don’t argue — you run with it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 050
+* **Gender (weighted random):** Female (Type: Tomboy Type II — athletic, confident, muscular tone, moves like an athlete, speaks with easy swagger)
+* **Age:** 25
+* **Race:** Beast-kin (Avian lineage — human-like 85%; soft feather-traces along shoulder blades, faint amber wingspan marking visible in light)
+* **Class & Level:** Ranger (Hunter) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Scout-hunter, frontier guide, sky courier
+* **Rank / Position:** **Highwind Sentinel**
+* **Organization:** **Windborne Guild of Arvenspire**
+* **Symbol:** Twin wings crossing over a compass rose
+* **Title:** *The Swift Talon*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Japanese–Korean tone — striking athletic beauty like Ryoko Yonekura or Kim So-yeon, with tomboy charm and strong eyes.
+
+**Eyes:** golden-amber, sharp and lively.
+**Skin:** lightly tanned from the sun, faint luminescent lines near collarbones (avian resonance).
+
+**Hair (randomized):** **Length: Short**, **Style: choppy layered pixie cut**, **Color: dark chestnut with sun-bleached amber streaks**, slightly windswept. *(Randomized length + style + color fully applied)*
+
+**Height:** 171 cm
+**Weight:** 60 kg
+**Body Type:** Muscular-feminine build, tight waist, defined arms, runner’s legs — solid yet graceful.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: B CATEGORY: Small  
+THREE_SIZES (B-W-H, cm): 84 – 63 – 89  
+VALIDATION: • W/B = 0.75 → OK • H/W = 1.41 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Simple **leather choker** with bronze ring, **avian feather earring** (left ear), **wrist compass-band**, and a **twin-feather anklet** that jingles softly when she runs.
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **sleeveless hunter’s jerkin** of dark green and gray leather, **strap-fitted pants**, and **fingerless gloves** reinforced with talon stitching. **Boots** are knee-high, fitted for climbing and sprinting, and a **short feathered cape** flutters behind her when she moves.
+
+**Color Palette:** forest green / brown / gray / bronze
+**Accents:** rugged, aerodynamic, practical elegance
+
+**Loadout:** longbow, shortsword, grappling hook, compass set, climbing cord, wind-carved flute.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **16** (leather armor + DEX)
+* **Speed:** 35 ft; **Glide (10 ft vertical to 20 ft horizontal)**
+* **STR 12 (+1)** **DEX 17 (+3)** **CON 14 (+2)** **INT 11 (+0)** **WIS 15 (+2)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +5
+* **Skills:** Athletics +5, Survival +4, Acrobatics +5, Perception +4, Stealth +5
+* **Languages:** Common, Auran, Elvish
+
+**Ranger (Hunter) 3:**
+
+* **Hunter’s Prey:** Colossus Slayer (extra 1d8 vs damaged foes)
+* **Natural Explorer:** Mountains & open skies
+* **Fighting Style:** Archery (+2 to ranged attacks)
+* **Spellcasting (WIS DC 12, +4 atk)**
+* **Spells Prepared:** *Hunter’s Mark, Cure Wounds, Absorb Elements, Hail of Thorns*
+
+**Attacks**
+
+* **Longbow:** +7 to hit, 1d8+3 piercing (+1d8 Colossus Slayer once/turn)
+* **Shortsword:** +5 to hit, 1d6+3 slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Ranged Harrier**
+* **Tactics:** Opens from high ground, tags priority with *Hunter’s Mark*, glides between cover, switches to melee when pinned.
+* **Signature Opener:** Quick whistle — wind flares under her boots as she releases three arrows in a sweeping arc.
+* **Finisher:** *Hail of Thorns* mid-glide — rain of arrows and feathers.
+* **Damage Flavor:** Wind bursts ripple outward on impact; arrows whistle like falcon cries.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Bold, friendly, occasionally reckless.
+* **Ideal:** Freedom — “If I can’t fly, I’ll still run faster than the storm.”
+* **Bond:** Her partner falcon, “Kiro,” lost in a sky-echo storm.
+* **Flaw:** Hates confinement; refuses enclosed spaces.
+* **Quirk:** Always whistles before speaking — claims it “calibrates her airflow.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Arvenspire — Highwind Frontier, Clifftop Ranges, Whisper Valley**
+* **Threat Gradient:** **Wavering** (frequent wind Echo anomalies)
+* **Encounter Framing:** **Aerial Escort**, **Mountain Hunt**, **Echo Storm Chase**
+
+---
+
+## 📜 Background & Lifestyle
+
+Tsubasa was raised by a courier guild that navigated dangerous wind tunnels to deliver messages between kingdoms. She became a frontier scout after surviving a glider accident at 14.
+
+* **Lifestyle:** Minimalist — travels light, sleeps under the stars.
+* **Income:** Guild pay + bounties + courier bonuses.
+* **Relationships:** Rival-friend with Draven Corvell; fond of teasing Miraen Luthar for his “fancy boots.”
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes the sky itself is a moral test — unbound, honest, never still.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being grounded permanently; losing her sight.
+* **Weaknesses:** Overconfident, emotionally impulsive.
+* **Strengths:** Unmatched agility, keen eyesight, extreme endurance.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“Tomboy” tone — lively, teasing, occasionally roughhousing affection.
+
+> “You blinked! That means I win.”
+> If flustered, she grins wide and punches your shoulder — “What, you gonna faint? Relax, I don’t bite.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** She once carried a royal message meant to start a war — but burned it instead.
+* **Hooks:**
+
+  1. **Wings of the Lost:** Find Kiro, her falcon, whose resonance may have fused with an Echo.
+  2. **Skybreaker’s Pact:** Protect Tsubasa during a mission through a collapsing sky corridor.
+  3. **The Message That Never Flew:** Discover the consequences of her act of defiance.
+
+## Tags: #Female #TomboyTypeII #BeastKin #Avian #Ranger3 #Hunter #Arvenspire #CR1 #Adventurer #Scout #Courier
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Enjoys **making others blush through competition**, like mock duels or speed races. Gets flustered only when genuinely praised — “Don’t look at me like that, I’m just… stretching my wings.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800** (to reach Level 4)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** longbow, shortsword
+  * **Tools:** climbing kit, glider harness, compass
+  * **Consumables:** 2× healing potions, 1× wind salve
+  * **Misc:** feathered cape, guild crest, broken falcon talon (Kiro’s keepsake)
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 19) *or* **Sharpshooter**
+  * **Spell Pick:** *Spike Growth* or *Pass Without Trace*
+  * **Tactical Growth:** unlock glide-boost movement reaction
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Arvenspire — Highwind Frontier**
+* **Threat Gradient:** **Wavering (Sky Echo Currents)**
+* **Encounter Type:** **Aerial Chase**, **Mountain Hunt**, **Resonant Wind Duel**
+* **Affiliation:** **Windborne Guild — Highwind Sentinel Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean female tomboy beastkin ranger, 171cm, short choppy pixie-cut hair dark chestnut with amber streaks, golden eyes, athletic muscular body, leather jerkin and forest gear, avian wing marks, confident smirk, mountain wind background, falcon companion, dynamic mid-glide pose

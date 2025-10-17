@@ -1,0 +1,171 @@
+#002 — Celin Vareth — Echo-Blessed Apprentice of the Azure Steps
+
+“If you can hear your heartbeat in the noise, you’re still alive.”
+
+🜏 General Information
+
+Gender (weighted random): Female (Type: รุ่นเพื่อน)
+
+Age: 22
+
+Race: Half-Elf (Valeronnes descent — human-like ~85% with faint silver-violet shimmer at the eyes)
+
+Class & Level: Cleric (Life Domain) 2 / Fighter 1 — Total 3
+
+Challenge Rating (approx): CR 1
+
+Alignment: Neutral Good
+
+Profession: Healer–combat trainee, traveling medic
+
+Rank / Position: Field Healer, Azure Phalanx Reserve
+
+Organization: Order of the Azure Steps (Valeronnes)
+
+Symbol: Silver step rising through a blue circle
+
+Title: The Bright Pulse
+
+🪞 Appearance (in English)
+
+Ethnic Theme: French–Valeronnes (Western–Mediterranean hybrid aesthetic)
+
+Celin carries a sunlit calm, her expression gentle but awake, eyes shimmering silver-violet like dawn fog. Her skin tone is warm porcelain with faint gold undertones; faint holy runes occasionally pulse across her neck when she prays.
+
+Hair (randomized): Long, wavy, pale blonde with silver sheen; often tied in a side braid with a blue silk ribbon.
+
+Height: 168 cm
+Weight: 57 kg
+Body Type: Balanced hourglass; light muscle definition on arms, soft yet sturdy frame
+
+FEMALE BODY METRICS
+
+CUP: E   CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 96 – 70 – 103  
+VALIDATION: • W/B = 0.729 → OK   • H/W = 1.47 → OK  
+
+
+Jewelry & Accessories (randomized):
+A slender silver circlet with one aquamarine gem at the temple, looped earrings of blue crystal, a rosary bracelet on the right hand etched with prayers, and a charm anklet with three tinkling beads used as a focusing rhythm during healing chants.
+
+Her aura carries a faint hum of harmony—soft, consistent, like the breath before song.
+
+👗 Outfit (in English)
+
+A white-blue clerical tabard trimmed with silver filigree, worn over a fitted travel cuirass of polished leather. Her gloves end at mid-forearm, allowing tactile contact for healing magic. Thigh-high boots of soft azure suede balance protection and mobility.
+
+Color Palette: white / silver / azure / warm gold
+Accents: soft geometric embroidery, holy symbol clasp at chest
+
+Loadout: silver-hafted mace, light shield bearing Azure sigil, holy symbol focus, healer’s satchel, and scroll tube for quick blessing notes.
+
+⚔️ Mechanics (D&D 5e RAW)
+
+HP: 2d8 + 1d10 + (CON +1)×3 → 24 HP
+
+AC: 17 (chain shirt + shield + DEX)
+
+Speed: 30 ft
+
+STR 13 (+1) DEX 14 (+2) CON 12 (+1) INT 10 (+0) WIS 16 (+3) CHA 14 (+2)
+
+Proficiency Bonus: +2
+
+Saving Throws: WIS +5, CHA +4
+
+Skills: Medicine +5, Insight +5, Persuasion +4, Religion +2, Athletics +3
+
+Languages: Common, Elvish, Celestial
+
+Equipment: chain shirt, light shield, silver mace, healer’s satchel, scroll tube (2× Cure Wounds), holy symbol of Valeronnes Steps
+
+Cleric (Life Domain) 2:
+
+Disciple of Life, Channel Divinity (Preserve Life), Spellcasting (WIS DC 13, +5 attack)
+
+Spells Prepared: Cure Wounds, Bless, Guiding Bolt, Protection from Evil, Detect Magic, Healing Word
+
+Fighter 1:
+
+Second Wind (1d10+1 HP restore/short rest), proficiency with martial weapons
+
+Attacks
+
+Mace: +3 to hit, 1d6+1 bludgeoning
+
+Sacred Flame: DC 13, 1d8 radiant
+
+🎯 Combat Tactics (Randomized)
+
+Role: Support / Frontline Healer
+
+Tactics: Opens with Bless, maintains proximity to allies; Guiding Bolt to mark high-value targets. Uses Second Wind to self-sustain while healing allies mid-fight.
+
+Signature Opener: Bless + Move into midline + Mace counterstrike.
+
+Finisher: Channels Preserve Life to surge vitality across wounded allies.
+
+Damage Flavor: Each spell leaves ripple-like silver light across wounds, as if the body remembers sunlight.
+
+💬 Personality (Randomized — Valeronnes weights)
+
+Traits: Warm-hearted, teasing humor; firm but never cruel
+
+Ideal: Compassion — “Every heartbeat is a note in the greater song.”
+
+Bond: She protects the children’s choir at Azure Steps Chapel.
+
+Flaw: Blames herself when anyone dies under her watch.
+
+Quirk: Taps her anklet beads to steady her breathing before channeling divine energy.
+
+🧭 Common Locations (Randomized)
+
+Kingdom/Zone: Valeronnes — Azure Steps monastery terraces, upper river ward, shrine corridors
+
+Threat Gradient: Stable → Wavering (healing wards near Echo breaches)
+
+Encounter Framing: Escort Healer, Defend Shrine, Healer Lost in Ruins
+
+📜 Background & Lifestyle
+
+Background: Daughter of a low-born baker and a monastery gardener; showed innate resonance healing as a child. Chose the field corps to “heal where hymns can’t reach.”
+
+Lifestyle: Communal dorm living, minimal luxury; shares her pay with orphans.
+
+Income: Chapel stipend + field healing commissions.
+
+Relationships: Friendly rival of Neris Thalassa (race courier); trusted by the Azure choir.
+
+🧩 Morals & Ethics
+
+Kindness is duty. Believes mercy is the most precise weapon. Refuses to judge those who sin out of fear.
+
+😨 Fears / Weaknesses / Strengths
+
+Fears: Failing to save a friend; corruption of sacred water.
+
+Weaknesses: Overextends healing too early; underestimates physical exhaustion.
+
+Strengths: High composure, natural leadership, radiant healing focus.
+
+💞 Interactions (Behavioral Style)
+
+“รุ่นเพื่อน” tone — light teasing and open laughter. She pats comrades’ shoulders mid-battle with “Stay up, I’ll cover you!” Loves flustering stoic adventurers by winking mid-prayer. In calm times, jokes about “charging by smile” for healings.
+
+🤫 Secrets & Plot Hooks
+
+Secret: Once channeled divine energy through forbidden resonance—still bears a faint mark on her ribs.
+
+Hooks:
+
+The Azure Pulse: Escort Celin into Echo-contaminated catacombs to restore sacred resonance wells.
+
+Chorale of Bones: A corrupted choir sings beneath Valeronnes—Celin insists she can purify them.
+
+The Step Unheard: Retrieve her lost anklet bead rumored to be the key to a forgotten healing hymn.
+
+Tags: #Female #FriendType #HalfElf #Cleric2 #Fighter1 #Valeronnes #Support #CR1 #Adventurer #AzureSteps
+🎨 Image Gen Key (EN)
+
+French half-elf cleric, long wavy pale blonde hair, silver eyes, white-blue armor, silver circlet, holy light, azure monastery, radiant aura

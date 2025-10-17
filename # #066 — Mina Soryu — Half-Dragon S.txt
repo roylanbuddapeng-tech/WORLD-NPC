@@ -1,0 +1,206 @@
+# #066 — **Mina Soryu** — *Half-Dragon Sorceress of the Azure Veil*
+
+> “Control? No, darling. The current and I simply agree on where to go.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 066
+* **Gender (weighted random):** Female (Type: **รุ่นพี่** — confident, teasing, caring in that “I-know-better” way; mixes maturity with charm)
+* **Age:** 28
+* **Race:** Half-Dragon (Azure lineage — 85% human appearance, faint blue scales tracing collarbone and temples, eyes slit-pupiled like sapphire glass)
+* **Class & Level:** **Sorcerer (Draconic Bloodline — Blue)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Resonance mage, Echo researcher, private combat tutor
+* **Rank / Position:** **Azure Veil Practitioner**
+* **Organization:** **Thalassara Academy of Resonant Arts**
+* **Symbol:** An open eye framed by curling waves
+* **Title:** *The Sapphire Tempest*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** Korean–Chinese tone — elegant confidence like Krystal Jung × Liu Yifei in high-fantasy aesthetic.
+
+**Eyes:** brilliant sapphire, slit pupils gleam like lightning veins.
+**Skin:** ivory-pale, faintly glimmering at pulse points.
+
+**Hair (randomized):** **Medium**, **style:** wavy layered cut reaching collarbone, **color:** deep midnight blue fading into silver-blue at ends, subtle glow in dim light.
+**Height:** 172 cm
+**Weight:** 60 kg
+**Body Type:** **Fit Graceful** — proportionate curves, subtly toned, walks with feline grace.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 96 – 70 – 102  
+VALIDATION: • W/B = 0.729 → OK • H/W = 1.46 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Azure crystal pendant (arcane focus), twin silver hoop earrings, a charm ring with wave sigil, and a thin anklet of woven silver thread that hums softly in storm air.
+
+---
+
+## 👗 Outfit (in English)
+
+A sleeveless **azure sorceress coat** slit along the sides for motion, lined with silver runes. Beneath, a **fitted white top** and **black arcane trousers** reinforced with shimmer-thread. A **storm mantle** drapes over one shoulder, clasped with a wing-shaped brooch.
+
+**Color Palette:** azure / silver / black / white
+**Accents:** regal, tempestuous, luminous
+
+**Loadout:** arcane focus pendant, short wand, resonance tablet, enchanted gloves (minor lightning focus).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d6 + (CON +2)×3 → **23 HP**
+* **AC:** **15** (13 + DEX +2 — from Draconic Resilience)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 10 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, CHA +5
+* **Skills:** Arcana +3, Persuasion +5, Insight +2, Deception +5, Performance +5
+* **Languages:** Common, Draconic, Elvish
+
+**Sorcerer 3 (Draconic — Blue):**
+
+* **Draconic Resilience:** AC 13 + DEX; +1 HP/level
+* **Elemental Affinity:** Lightning (not yet added to damage at this level, but flavor present)
+* **Sorcery Points:** 3 (Flexible Casting, Subtle Spell, Quickened Spell)
+* **Spellcasting (CHA DC 13, +5 attack)**
+
+**Spells Known:**
+
+* **Cantrips:** *Ray of Frost, Shocking Grasp, Prestidigitation, Mage Hand*
+* **1st:** *Shield, Thunderwave, Witch Bolt, Disguise Self*
+* **2nd:** *Mirror Image, Hold Person*
+
+**Attacks**
+
+* **Shocking Grasp:** +5 to hit, 1d8 lightning (advantage vs metal armor)
+* **Ray of Frost:** +5 to hit, 1d8 cold + slows 10 ft
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Burst Caster / Control Support**
+* **Tactics:** Opens with *Mirror Image*, then *Quickened Thunderwave* for disruption. *Hold Person* locks down priority targets.
+* **Signature Opener:** Lightning arcs along her fingers — “Apologies in advance for the static.”
+* **Finisher:** *Witch Bolt* maintained, eyes glowing bright blue as arcs leap through the air.
+* **Damage Flavor:** Electricity whirls in concentric ripples like runic halos.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, mentoring, teasingly maternal toward juniors.
+* **Ideal:** Mastery — “Power is just knowledge sung at the right pitch.”
+* **Bond:** Secretly funds orphans’ tuition at the academy.
+* **Flaw:** Prideful; finds it hard to admit fear or fatigue.
+* **Quirk:** Always licks her thumb to check for “air charge” before casting lightning.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Azure Veil District, Resonance Spire**
+* **Threat Gradient:** **Stable → Wavering (echo feedback during storms)**
+* **Encounter Framing:** **Rooftop Duel**, **Ritual Calibration**, **Storm Escort Mission**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born from a liaison between a Thalassaran court mage and a draconic emissary. Studied resonance harmonics until she outpaced her professors. Rumor says she caused the “Storm of Glass” incident at age 19 — though she smiles and never denies it.
+
+* **Lifestyle:** Luxurious minimalism — silk sheets, tea rituals, midnight studying.
+* **Income:** Academy salary, private tutoring, resonance consultancy.
+* **Relationships:** Mentor to Riko Hanamura; ex-partner (and friendly rival) of Kaoru Veylan; trusted peer to Lyra Thalassara.
+
+---
+
+## 🧩 Morals & Ethics
+
+Power means stewardship. She protects others from the storm — even if she *is* the storm.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of her draconic surge mid-storm.
+* **Weaknesses:** Overconfidence; reliant on line of sight.
+* **Strengths:** Rapid reaction, control spells, battlefield poise.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นพี่” tone — confident warmth, half-flirt half-advice.
+
+> “Relax, sweetling. You’re shaking because the air’s charged… or is it me?”
+> When teased back:
+> “Bold! I like that—keep your spark alive.”
+> She enjoys **making others blush** deliberately, lightly brushing fingers when handing spell components.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her lightning occasionally sings in resonance with Severance frequencies — she suspects her draconic blood ties to something older.
+* **Hooks:**
+
+  1. **Echo of the Blue Lineage:** Investigate her ancestral vault where lightning hums like music.
+  2. **Storm of Glass Redux:** A Severance agent replicates her past experiment; she must face the echo of herself.
+  3. **Azure Pact:** Aid Mina in stabilizing her dragon blood before it destabilizes the Academy’s wards.
+
+## Tags: #Female #SeniorType #HalfDragon #Sorcerer3 #DraconicBlue #Thalassara #CR1 #Caster #Mentor
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+She flirts by proximity — stands close, voice low:
+
+> “Don’t flinch. Lightning only bites if you *ignore* it.”
+> If someone compliments her power, she laughs softly:
+> “Careful. I might start showing off for you.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons/Focus:** arcane pendant, wand
+  * **Armor:** Draconic Resilience (no armor)
+  * **Tools:** calligraphy set, resonance tablet
+  * **Consumables:** 1× lightning potion, 2× mana draughts
+  * **Misc:** sapphire pendant, glass journal, feather quill
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **Elemental Adept (Lightning)**
+  * **Spell Picks:** *Scorching Ray*, *Blur*, or *Gust of Wind*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Azure Veil Spire**
+* **Threat Gradient:** **Wavering → Echo (storm interference)**
+* **Encounter Type:** **Lightning Ritual**, **Training Duel**, **Resonance Calibration**
+* **Affiliation:** **Thalassara Academy — Azure Faculty Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese female half-dragon sorceress, 172cm, wavy medium midnight blue hair with silver tips, sapphire slit eyes, fit graceful body, azure coat, lightning aura, elegant fantasy mage, storm-lit city backdrop

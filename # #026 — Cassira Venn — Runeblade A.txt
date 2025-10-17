@@ -1,0 +1,154 @@
+# #026 — **Cassira Venn** — *Runeblade Apprentice of the Silver Hollow*
+
+> “Every scar is a spell you’ve survived.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นเพื่อน)
+* **Age:** 21
+* **Race:** Half-Elf (Valeronnes Lineage — faint runic markings that glow pale silver along forearms and jawline)
+* **Class & Level:** Fighter (Eldritch Knight) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Apprentice swordmage, rune researcher
+* **Rank / Position:** **Runeblade Trainee of the Silver Hollow Armory**
+* **Organization:** **Valeronnes Spellguard Academy**
+* **Symbol:** A sword crossed with a glowing rune circle
+* **Title:** *The Silver Mark*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** English–Thai hybrid
+
+Cassira carries a natural grace that balances intellect and battle readiness. **Eyes:** pale violet, always alert. **Skin:** fair with a slight bronze tone and scattered silver freckles that glow faintly under moonlight.
+
+**Hair (randomized):** **Medium**, **wavy ash-blonde**, tied loosely into a half ponytail with thin silver threads.
+
+**Height:** 167 cm
+**Weight:** 56 kg
+**Body Type:** Slender athletic; sword-trained precision.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 91 – 68 – 96  
+VALIDATION: • W/B = 0.747 → OK • H/W = 1.41 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Silver **ear cuffs** engraved with runes, **choker** with violet gem focus, and a **thin wrist chain** holding a spell crystal that pulses with faint light when she draws her blade.
+
+---
+
+## 👗 **Outfit (in English)**
+
+Cassira wears a **silver-gray dueling coat** with light rune etching across the sleeves, **black leather breeches**, and a **pale lavender sash** tied at the waist. Her boots are **runed steel leather hybrids**, clicking softly with each step.
+
+**Color Palette:** silver / lavender / black / pale violet
+**Accents:** runic lines, glowing trims, balance of form and function
+
+**Loadout:** longsword (focus-inscribed), small spellbook strapped to thigh, throwing knives, rune gloves.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +2)×3 → **29 HP**
+* **AC:** **17** (chain shirt + DEX)
+* **Speed:** 30 ft
+* **STR 13 (+1)** **DEX 16 (+3)** **CON 14 (+2)** **INT 14 (+2)** **WIS 11 (+0)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, CON +4
+* **Skills:** Arcana +4, Athletics +3, Insight +2, Acrobatics +5, Perception +2
+* **Languages:** Common, Elvish, Valeronnes Runic, Draconic
+
+**Fighter (Eldritch Knight) 3:**
+
+* **Weapon Bond (longsword)**, **Action Surge**, **Second Wind**
+* **Spellcasting (INT DC 12, +4 attack)** — *Shield, Magic Missile, Absorb Elements, Booming Blade*
+
+**Attacks**
+
+* **Longsword (Runeblade):** +5 to hit, 1d8+3 slashing + 1d4 thunder (Booming Blade)
+* **Throwing Knife:** +5 to hit, 1d4+3 piercing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Frontline Hybrid / Magical Striker**
+* **Tactics:** Opens with *Booming Blade* and rushes into melee, using *Shield* for defense. *Action Surge* when pressing advantage.
+* **Signature Opener:** Draws sword in one fluent arc; runes flare as she whispers a single syllable.
+* **Finisher:** “Silver Echo Slash” — blade hums and releases a wave of sound energy.
+* **Damage Flavor:** Her slashes leave faint runic trails that shimmer then fade like lightning scripts.
+
+---
+
+## 💬 Personality (Randomized — Valeronnes duelist tone)**
+
+* **Traits:** Smart, confident, slightly sarcastic.
+* **Ideal:** Mastery — “Magic and steel are two verses of the same song.”
+* **Bond:** Her mentor, Sir Alveron, who forged her sword.
+* **Flaw:** Pushes herself to exhaustion to prove her worth.
+* **Quirk:** Twirls her sword absentmindedly when thinking.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Valeronnes — Silver Hollow, Crystalbluff Arena, Resonant Courtyard**
+* **Threat Gradient:** **Stable → Wavering** (Echo breaches near runeforges)
+* **Encounter Framing:** **Dueling Lesson**, **Runeforge Defense**, **Academy Sparring Exam**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Daughter of a rune blacksmith and elven archivist. Grew up between library shelves and weapon racks.
+* **Lifestyle:** Organized, early riser, trains at dawn.
+* **Income:** Academy stipend + occasional rune-enchantment commissions.
+* **Relationships:** Friends with Elune Sareth, rivaled by a half-orc spellknight trainee.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes progress comes through scars—learning requires risk.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her control over magic in battle.
+* **Weaknesses:** Hesitant to ask for help.
+* **Strengths:** Balanced melee-magic synergy, discipline under stress.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นเพื่อน” tone — casually confident. She bumps shoulders and grins: “Don’t worry, I only broke three practice blades today.” When flustered, she clears her throat and hides behind technical talk about rune theory.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a rune fragment from a forbidden forge that resonates with Severance energy.
+* **Hooks:**
+
+  1. **Forge Echo:** Help Cassira seal the runeforge breach before the fragment awakens.
+  2. **The Broken Blade:** Retrieve her mentor’s sword stolen by a rival house.
+  3. **Runesong Duel:** Defend her in a trial where the academy accuses her of rune tampering.
+
+## Tags: #Female #FriendType #HalfElf #EldritchKnight #Fighter3 #Valeronnes #CR1 #Adventurer #Runeblade #MagicKnight
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+English Thai half-elf female eldritch knight, medium wavy ash-blonde hair, violet eyes, silver freckles, duelist armor, glowing runes, lavender sash, silver sword, confident smirk

@@ -1,0 +1,161 @@
+# #021 — **Elune Sareth** — *Crystalbloom Warden of the Luminous Vale*
+
+> “If the forest sings, you’d better listen before it stops.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นเพื่อน)
+* **Age:** 23
+* **Race:** Elf (Valeronnes lineage — faint crystalline filigree in the irises and along her temples, sign of resonant ancestry)
+* **Class & Level:** Ranger (Beast Master) 2 / Druid (Circle of the Land – Forest) 1 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Forest warden, beast-tamer, herbal alchemist
+* **Rank / Position:** **Crystalbloom Warden**
+* **Organization:** **Valeronnes Frontier Sentinels**
+* **Symbol:** A sprouting bud encased in fractured glass
+* **Title:** *The Verdant Prism*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Nordic–Chinese hybrid
+
+Elune has an earthy serenity wrapped in quiet mischief. **Eyes:** bright jade with flecks of silver crystal. **Skin:** fair with a soft greenish warmth, faint crystalline shimmer along cheekbones. Her presence feels both wild and gentle—like sunlight caught in dew.
+
+**Hair (randomized):** **Very long**, **wavy silver-green**, with small braided vines threaded through. When the wind hits, the strands catch glints like morning frost.
+
+**Height:** 169 cm
+**Weight:** 56 kg
+**Body Type:** Slender but well-toned from climbing and archery
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 90 – 66 – 95  
+VALIDATION: • W/B = 0.733 → OK • H/W = 1.44 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+A **leaf-circlet** of silver wire and crystal shards, **emerald earrings**, a **woven bracelet** made from her beast companion’s shed fur, and a **necklace of polished seed pearls**.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **forest-green leather tunic** over **pale linen underlayer**, cinched with a **belt of entwined roots and silver studs**. Her **cloak** fades from moss-green to translucent white at the hem, shimmering faintly under moonlight. Her **boots** are supple deerskin, decorated with faint rune embroidery.
+
+**Color Palette:** green / silver / white / soft brown
+**Accents:** natural materials, crystalline motifs, subtle druidic runes
+
+**Loadout:** longbow, druidic focus pendant, short sword, herbal pouch, whistle for her companion.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 2d10 + 1d8 + (CON +1)×3 → **25 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 17 (+3)** **CON 12 (+1)** **INT 11 (+0)** **WIS 15 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, WIS +4
+* **Skills:** Nature +4, Survival +4, Animal Handling +4, Perception +4, Stealth +5
+* **Languages:** Common, Elvish, Sylvan, Druidic
+
+**Ranger (Beast Master) 2:**
+
+* **Favored Enemy:** Aberrations
+* **Natural Explorer:** Forest
+* **Beast Companion:** *Crystal Lynx* (AC 13, HP 13, Bite +4, 1d6+2 slashing, blindsight 10 ft)
+* **Spellcasting (WIS DC 12):** *Hunter’s Mark, Cure Wounds*
+
+**Druid (Land – Forest) 1:**
+
+* **Spellcasting (WIS DC 12):** *Entangle, Goodberry, Detect Magic*
+* **Bonus Cantrip:** *Guidance, Thorn Whip*
+
+**Attacks**
+
+* **Longbow:** +5 to hit, 1d8+3 piercing
+* **Short Sword:** +5 to hit, 1d6+3 slashing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Ranged Support / Field Controller**
+* **Tactics:** Opens with *Hunter’s Mark* + longbow barrage while Lynx flanks. Uses *Entangle* to control movement and *Cure Wounds* when needed.
+* **Signature Opener:** Crystal Lynx leap → *Thorn Whip* → *Hunter’s Mark*.
+* **Finisher:** Twin strike with bow and companion lunge.
+* **Damage Flavor:** Every arrow crackles with faint crystal shimmer.
+
+---
+
+## 💬 Personality (Randomized — Valeronnes forest tone)**
+
+* **Traits:** Calm, witty, protective, confident in nature.
+* **Ideal:** Balance — “Every growth must break something old.”
+* **Bond:** Her Lynx companion “Shae.”
+* **Flaw:** Hesitant to trust authority; prefers instinct to command.
+* **Quirk:** Speaks to trees as if gossiping old friends.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Valeronnes — Luminous Vale, Edge of the Crystalbloom Forest**
+* **Threat Gradient:** **Stable → Wavering** (Echo-blooms sprouting at night)
+* **Encounter Framing:** **Beast Hunt**, **Forest Patrol**, **Echo Bloom Cleansing**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Child of herbalists turned warden after the Echo vines invaded her forest. Bonded with her lynx after saving it from a Severance root trap.
+* **Lifestyle:** Lives in a moss hut atop a root bridge; brews crystal tonic from dew and herbs.
+* **Income:** Guild stipend + commissions for rare reagents.
+* **Relationships:** Occasional trading partner of Lunara Kelthis; sends reports to Saori Kitsurana’s patrols.
+
+---
+
+## 🧩 Morals & Ethics
+
+Protective but pragmatic — views nature’s violence as necessary renewal.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** The day crystal growth overtakes organic life completely.
+* **Weaknesses:** Overextends to protect beasts before people.
+* **Strengths:** Strong ranged control, tactical awareness, survival expertise.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นเพื่อน” tone — relaxed and teasing. She nudges your arm, smirking: “You keep watching the trees instead of the path, and you’ll end up kissing both.” When embarrassed, she flicks her braid like she’s brushing off a leaf.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her Lynx “Shae” occasionally speaks in dreams, possibly a trapped forest spirit.
+* **Hooks:**
+
+  1. **Echo Bloom Hunt:** Track an outbreak of crystalline flora spreading in her forest.
+  2. **Lynx’s Voice:** Find the source of Shae’s consciousness before it fades.
+  3. **Shattered Vale:** Defend the Vale as crystal trees begin singing in Echo tones.
+
+## Tags: #Female #FriendType #Elf #Ranger2 #Druid1 #Valeronnes #CR1 #Adventurer #Crystalbloom #ForestWarden
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Nordic Chinese elf female ranger druid, very long wavy silver-green hair, jade crystal eyes, forest armor, crystal lynx companion, green cloak, morning light, confident smile

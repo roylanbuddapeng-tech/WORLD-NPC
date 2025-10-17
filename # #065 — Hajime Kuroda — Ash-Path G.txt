@@ -1,0 +1,185 @@
+# #065 — **Hajime Kuroda** — *Ash-Path Guardian of the Iron Veins*
+
+> “Anger is a blunt tool. Purpose is the grindstone.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 065
+* **Gender (weighted random):** Male (Type: วัยกลางคน — steady, protective, quietly intense)
+* **Age:** 41
+* **Race:** Human (Skarnov lineage — 100% human; faint soot-toned freckles on forearms from forge dust)
+* **Class & Level:** Barbarian (Path of the Totem Warrior — Bear) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Tunnel warden, caravan breaker, Echo breach responder
+* **Rank / Position:** **Ash-Path Guardian**
+* **Organization:** **Skarnov Iron Wardens**
+* **Symbol:** A bear paw stamped over a cog and pickaxe
+* **Title:** *The Quiet Maul*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** Japanese–Korean tone — composed gravitas reminiscent of Ken Watanabe × Ji Jin-hee (fantasy styled).
+
+**Eyes:** dark steel, steady and thoughtful.
+**Skin:** warm tan with faint forge glow along knuckles.
+**Hair (randomized):** **Medium**, **tousled side-part undercut**, **charcoal-black with iron-gray streaks**.
+**Height:** 180 cm
+**Weight:** 82 kg
+**Body Build:** **Muscular Athletic** — dense strength, corded forearms, disciplined posture.
+
+**Jewelry & Accessories (randomized):**
+Blackened steel torc etched with bear runes, single hammered-iron ear stud, leather data-band with patrol sigils, and a braided ankle cord (family charm).
+
+---
+
+## 👗 Outfit (in English)
+
+Wears a **smoke-gray brigandine coat** over **dark quilted padding**, **tool-belt harness** with hooks and pitons, and **kneehigh miner’s boots** steel-capped. A **half-cloak** of ash-blue canvas bears the Iron Wardens crest. His **maul** is wrapped in fire-scorched linen; the **handaxe** shows careful maintenance.
+
+**Color Palette:** ash gray / iron black / ember red / coal blue
+**Accents:** utilitarian, battle-worn, understated authority
+
+**Loadout:** great maul, handaxe, climbing kit, 10 pitons, lantern with echo-glass shutter, smelling salts.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 → **36 HP**
+* **AC:** **16** (brigandine/studded equivalent + CON from Unarmored? — uses armor; AC 16 = armor 12 + DEX +2 + shield? none → treat brigandine as studded leather 12 + DEX +2 + bear pelt guard +2 flavor)
+* **Speed:** 30 ft
+* **STR 17 (+3)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Perception +3, Intimidation +2, Survival +3
+* **Languages:** Common, Dwarvish, Skarnov Cant
+
+**Barbarian 3 (Totem Warrior — Bear):**
+
+* **Rage (2/long rest):** +2 damage; resist bludgeoning/piercing/slashing (Bear: resist all damage except psychic while raging)
+* **Reckless Attack**, **Danger Sense**
+* **Totem Spirit (Bear)**, **Spirit Seeker** (ritual: *beast sense*, *speak with animals* flavor via totem rites)
+
+**Attacks**
+
+* **Maul (2H):** +5 to hit, 2d6+3 bludgeoning (+2 while raging)
+* **Handaxe:** +5 to hit, 1d6+3 slashing (20/60 thrown)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Protector / Damage Sponge**
+* **Tactics:** Pops **Rage (Bear)** to anchor chokepoints; **Reckless Attack** only to break stalemates; body-blocks for allies.
+* **Signature Opener:** Lantern shutter snaps → maul drags sparks across stone → charge.
+* **Finisher:** Hammer-head twist that slams foes into the wall; soft, “Stay down.”
+
+**Damage Flavor:** Each strike sheds ember motes that fade like cooling slag.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Stoic, meticulous, wry humor.
+* **Ideal:** Responsibility — “If you stand guard, you stand last.”
+* **Bond:** Protects miners on Route 7; brings soup to the night crew.
+* **Flaw:** Takes blame even for unavoidable losses.
+* **Quirk:** Counts breaths before doors breach; hums a three-note lullaby after fights.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Iron Veins, Obsidian Marches, Ember Lift**
+* **Threat Gradient:** **Wavering → Deep Echo** (subterranean pressure pockets)
+* **Encounter Framing:** **Tunnel Breach Defense**, **Caravan Ambush Reversal**, **Echo Quarantine Hold**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former pit foreman turned Warden after leading civilians out of a collapsing shaft. Refuses promotions to stay “where the doors actually break.”
+
+* **Lifestyle:** Plain; keeps a tidy bunk and a kettle always on.
+* **Income:** Warden stipend + hazard bonuses.
+* **Relationships:** Mutual respect with Draven Corvell; occasional counsel from Naru Tsukihara.
+
+---
+
+## 🧩 Morals & Ethics
+
+Mercy for workers, iron for raiders. He measures justice by who bleeds if he fails.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being too slow to stop a collapse.
+* **Weaknesses:** Limited ranged options; wary of magic he can’t see.
+* **Strengths:** Exceptional durability (Bear Rage), battlefield control, rescue leadership.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+“วัยกลางคน” tone — patient, grounding.
+He adjusts your stance with two fingers: “Weight on heels. Live longer.”
+If teased, he snorts: “Save it for the surface.”
+He’s hard to fluster; a rare blush shows as a quiet throat-clear.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a sealed ledger naming a noble who forced unsafe digs.
+* **Hooks:**
+
+  1. **The Ledger in the Dark:** Escort Hajime to deliver evidence before it vanishes.
+  2. **Bear at the Breach:** Hold an Echo rupture while civilians evacuate.
+  3. **Ash-Paw Totem:** Retrieve his stolen totem bead; without it his rage falters.
+
+## Tags: #Male #MiddleAged #Human #Barbarian3 #TotemBear #Skarnov #CR1 #Frontliner #Guardian
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Calms allies with steady eye contact; **makes others blush** by rumbling, “Good. You’re safe,” after yanking them from danger.
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800** (to 2,700 total)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** maul, handaxe
+  * **Armor/Clothes:** brigandine coat, wardens half-cloak
+  * **Tools:** climbing kit, 10 pitons, lantern (echo-glass)
+  * **Consumables:** 2× healing draughts, 1× salts, 1× smoke bead
+  * **Misc:** bear totem bead (focus), worker whistle, ledger shard
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 19) *or* **Tough**
+  * **Utility:** javelins for reach; consider **Skill Expert (Athletics)** later
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov — Iron Veins Tunnels**
+* **Threat Gradient:** **Deep Echo**
+* **Encounter Type:** **Breach Hold**, **Collapse Rescue**, **Ambush Countercharge**
+* **Affiliation:** **Iron Wardens — Ash-Path Tier**
+
+---
+
+## 🎨 Image Gen Key (EN) *(≤20 words)*
+
+Japanese Korean male warden, medium undercut hair, charcoal coat armor, maul weapon, stoic gaze, tunnel embers, muscular athletic build

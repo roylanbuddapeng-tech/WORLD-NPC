@@ -1,0 +1,156 @@
+# #027 — **Tahlira Wynne** — *Bloomseer Adept of the Verdant Choir*
+
+> “You don’t control growth. You invite it.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นพี่)
+* **Age:** 29
+* **Race:** Elf (Thalassaran descent — faint green luminescent veins visible beneath skin, slightly elongated ears with moss-hue tips)
+* **Class & Level:** Druid (Circle of Dreams) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Healer, nature priestess, dream guide
+* **Rank / Position:** **Adept of the Verdant Choir**
+* **Organization:** **Thalassara Grove of Renewal**
+* **Symbol:** A blooming flower cradled in crescent light
+* **Title:** *The Dreaming Gardener*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Scandinavian–Cambodian hybrid
+
+Tahlira’s presence radiates quiet maturity and grounded grace. **Eyes:** soft emerald green, almost translucent under sunlight. **Skin:** pale honey tone with faint mossy luminescence tracing collarbones and wrists. Her voice carries the calm cadence of rainfall.
+
+**Hair (randomized):** **Very long**, **straight pale green with golden undertones**, loosely braided with tiny blossoms woven through.
+
+**Height:** 173 cm
+**Weight:** 58 kg
+**Body Type:** Slender, long-limbed, graceful build of a forest dancer.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 98 – 70 – 102  
+VALIDATION: • W/B = 0.714 → OK • H/W = 1.46 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Wears **leaf-shaped gold earrings**, a **vine bracelet**, and a **silver circlet** entwined with blooming moss that glows faintly when she channels magic.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **light green druidic gown** of silkleaf fabric, embroidered with golden vines. The back is split for movement, revealing soft armor beneath. Around her waist is a **woven sash** carrying dried herbs and crystal vials.
+
+**Color Palette:** pale green / gold / cream / soft brown
+**Accents:** natural motifs, glowing thread embroidery, flora accessories
+
+**Loadout:** oak staff carved with vine patterns, crystal focus pendant, druidic charm pouch.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **15** (hide armor + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 11 (+0)** **WIS 16 (+3)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +2, WIS +5
+* **Skills:** Nature +4, Medicine +5, Insight +5, Perception +5, Religion +2
+* **Languages:** Common, Elvish, Sylvan, Thalassaran Cant
+
+**Druid (Circle of Dreams) 3:**
+
+* **Balm of the Summer Court (3d6 healing pool)**
+* **Wild Shape (2/rest)** — typical forms: *panther, hawk, otter*
+* **Spellcasting (WIS DC 13, +5 attack):** *Healing Word, Goodberry, Entangle, Moonbeam, Calm Emotions, Lesser Restoration*
+* **Cantrips:** *Guidance, Druidcraft, Produce Flame*
+
+**Attacks**
+
+* **Quarterstaff:** +4 to hit, 1d8+2 bludgeoning
+* **Produce Flame:** +5 to hit, 1d8 fire
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Support / Healer / Controller**
+* **Tactics:** Opens with *Entangle* for field control, follows with *Moonbeam* while moving allies with *Healing Word* or *Balm of the Summer Court*.
+* **Signature Opener:** Raises staff; glowing pollen drifts outward forming a healing ring.
+* **Finisher:** “Verdant Bloom” — summons glowing vines to restrain and rejuvenate simultaneously.
+* **Damage Flavor:** Radiant-green flame shaped like petals bursts from her hands.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran mentor tone)**
+
+* **Traits:** Patient, warm, intuitive.
+* **Ideal:** Harmony — “Every wound teaches life to grow differently.”
+* **Bond:** Protects her grove’s sacred Dream Lotus, said to record memories of the dead.
+* **Flaw:** Struggles to express anger; hides pain with composure.
+* **Quirk:** Speaks to plants in second person (“You look tired today, little one.”).
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Verdant Choir Grove, Moonpetal Springs, Renewal Basin**
+* **Threat Gradient:** **Stable → Wavering** (Echo rot affecting roots and flora)
+* **Encounter Framing:** **Ritual Defense**, **Healing Pilgrimage**, **Dreamscape Journey**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Former temple medic who left city life after an Echo outbreak. Founded her grove where sound and dream intertwine.
+* **Lifestyle:** Lives in harmony with nature; teaches orphans herbal magic.
+* **Income:** Pilgrimage offerings + exported dream tonics.
+* **Relationships:** Close friends with Nerine Valeiros; motherly bond with Elune Sareth.
+
+---
+
+## 🧩 Morals & Ethics
+
+Sees healing as sacred dialogue with the world; refuses to harm unless balance demands it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her empathy; becoming a “mechanic of healing” rather than healer.
+* **Weaknesses:** Overextends emotionally; vulnerable to corruption through compassion.
+* **Strengths:** Calm under chaos, emotional anchor, potent restorative magic.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นพี่” tone — soothing and slightly teasing. She brushes a leaf from your hair and murmurs, “You attract the forest’s attention easily… maybe it likes you.” When embarrassed, she hides behind soft laughter, pretending to fuss over her herbs.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her Dream Lotus holds her late sister’s consciousness. She communes with it nightly.
+* **Hooks:**
+
+  1. **Rot Beneath the Roots:** Investigate the growing corruption near her grove.
+  2. **Dream Lotus:** Retrieve the stolen petals before they fall into Severance hands.
+  3. **Echo of Growth:** Aid Tahlira in purifying a forest that grows uncontrollably fast.
+
+## Tags: #Female #OlderSister #Elf #Druid3 #DreamsCircle #Thalassara #CR1 #Adventurer #Healer #VerdantChoir
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Scandinavian Cambodian elf female druid, very long pale green hair with gold, glowing veins, emerald eyes, forest robe, golden vines, oak staff, flower circlet, gentle smile, sunlight forest

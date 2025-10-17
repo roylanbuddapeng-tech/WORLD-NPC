@@ -1,0 +1,156 @@
+# #018 — **Lunara Kelthis** — *Moonreef Oracle of the Silver Shoals*
+
+> “The sea never lies, it only reflects what you hide.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นน้อง)
+* **Age:** 20
+* **Race:** Beast-kin (Dolphin-kin — human-like ~85%, faint silver sheen on skin, soft webbing between fingers, and tiny fin ridges along her forearms that glow faintly under moonlight)
+* **Class & Level:** Druid (Circle of the Sea) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Tide reader, temple attendant, healer of coastal settlements
+* **Rank / Position:** **Junior Oracle of the Silver Shoal Sanctum**
+* **Organization:** **Thalassara Moonreef Temple**
+* **Symbol:** A conch shell embracing a crescent moon
+* **Title:** *The Laughing Wave*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Thai–Greek hybrid
+
+Lunara glows with the unguarded energy of sunlight through water. **Eyes:** gentle sea-green, large and bright. **Skin:** pale olive with opalescent reflection under the sun. Her laughter comes in soft bubbles, disarming even hardened sailors.
+
+**Hair (randomized):** **Long**, **curly pearl-white**, with subtle aquamarine gradient at the tips; often tied in two low braids looped together with seashell clips.
+
+**Height:** 162 cm
+**Weight:** 50 kg
+**Body Type:** Petite but toned; flexible swimmer’s build, graceful like a dolphin leaping through surf
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 86 – 63 – 90  
+VALIDATION: • W/B = 0.733 → OK • H/W = 1.43 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+A **shell circlet** with tiny pearls, **sea-glass earrings**, a **necklace of coral shards**, **woven bracelet** from seaweed threads, and a **rune anklet** that glows faintly during tides.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **flowing aquamarine robe** cut short at the thighs for easy swimming, bound with a **silver coral belt**. Her **shawl** of translucent silk ripples like waves when she moves, and she wears **bare feet** etched with spiral runes that let her glide across shallow water.
+
+**Color Palette:** aquamarine / white / silver / pale gold
+**Accents:** shell embroidery, flowing fabric, water shimmer texture
+
+**Loadout:** coral focus staff, shell talisman (divine symbol), satchel of sea herbs, driftwood totem.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **15** (natural + DEX + shield of coral focus)
+* **Speed:** 30 ft (swim 40 ft)
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +2, WIS +5
+* **Skills:** Nature +3, Insight +5, Animal Handling +5, Medicine +5, Perception +5
+* **Languages:** Common, Aquan, Elvish, Thalassaran Cant
+* **Equipment:** coral staff, satchel, healing herbs
+
+**Druid (Circle of the Sea) 3:**
+
+* **Wild Shape (2/rest):** aquatic forms (dolphin, reef eel, otter)
+* **Circle Spells:** *Create or Destroy Water, Fog Cloud, Gust of Wind, Calm Emotions*
+* **Spellcasting (WIS DC 13, +5 attack):** *Cure Wounds, Entangle, Thunderwave, Healing Word, Moonbeam*
+
+**Attacks**
+
+* **Coral Staff (Quarterstaff):** +4 to hit, 1d6+2 bludgeoning (versatile 1d8)
+* **Thunderwave (DC 13):** 2d8 thunder, pushes enemies 10 ft
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Support / Control Healer**
+* **Tactics:** Opens with *Fog Cloud* to obscure enemies, follows with *Moonbeam* to burn through. Shifts into dolphin form to rescue fallen allies underwater.
+* **Signature Opener:** Laughing chant → rippling wave → calm seas mid-chaos.
+* **Finisher:** Moonbeam pulse from under the surface.
+* **Damage Flavor:** Spells create refracted light rings like underwater rainbows.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran healer weights)**
+
+* **Traits:** Cheerful, nurturing, and eager to prove herself.
+* **Ideal:** Harmony — “Healing is the sea’s quiet revenge against pain.”
+* **Bond:** The sea creatures of the Shoal; she names every one she meets.
+* **Flaw:** Naive; believes kindness alone can solve conflict.
+* **Quirk:** Claps twice before casting a spell, “to wake the tide spirits.”
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Silver Shoals, Moonreef Sanctum**
+* **Threat Gradient:** **Stable → Wavering** (Echo rifts along coral paths)
+* **Encounter Framing:** **Beach Ritual Defense**, **Rescue Dive**, **Healer Escort Mission**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Born among temple attendants; her dolphin-kin bloodline awakened after surviving a shipwreck as a child. She believes the ocean spared her for a purpose.
+* **Lifestyle:** Joyous and messy; sleeps on hammocks near open windows.
+* **Income:** Temple stipend + sea-blessing offerings.
+* **Relationships:** Looks up to Selune Varethiel as mentor; younger-sister bond with Nara Vehlis.
+
+---
+
+## 🧩 Morals & Ethics
+
+Life is water—never meant to be held still. She heals without judgment, even foes swept by darker tides.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Deep trenches and enclosed wrecks.
+* **Weaknesses:** Overly trusting; fragile in long fights.
+* **Strengths:** Versatile support magic, aquatic mobility, morale booster.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นน้อง” tone — bubbly, playful, affectionate. She tugs at sleeves and beams: “Did you see that wave? It listened to me today!” When embarrassed, she hides her face behind her coral staff, giggling softly through her fingers.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her laughter has begun to attract Echo distortions; her voice may contain dormant resonance magic.
+* **Hooks:**
+
+  1. **The Laughing Tide:** Protect Lunara during a ritual to cleanse Echo-tainted water.
+  2. **Song Beneath the Waves:** Dive into a sunken temple to find the origin of her resonance.
+  3. **Coral Heart:** Retrieve her mentor’s staff from a Severance salvage crew.
+
+## Tags: #Female #YoungerSister #BeastKin #DolphinKin #Druid3 #Thalassara #CR1 #Adventurer #Healer #SilverShoals
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Greek dolphin-kin female druid, long pearl-white hair with aqua tips, sea-green eyes, aquatic shimmer skin, aquamarine robe, coral staff, underwater light, gentle smile

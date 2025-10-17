@@ -1,0 +1,199 @@
+# #060 — **Mina Soryu** — *Half-Kitsune Illusionist of the Ember Court*
+
+> “Truth is only as sharp as the lie it hides behind.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 060
+* **Gender (weighted random):** Female (Type: **Femboy-equivalent Feminine Trickster archetype — Tomboy Type 1** — soft-spoken yet sly, graceful like a dancer but unpredictable as a spark)
+* **Age:** 22
+* **Race:** Half-Beastkin (Kitsune lineage — 85% human-like, faint fox ears, single tail tipped in glowing ember fur)
+* **Class & Level:** Wizard (School of Illusion) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Neutral
+* **Profession:** Court illusionist, part-time thief, rumor broker
+* **Rank / Position:** **Whisper Artist of the Ember Court**
+* **Organization:** **House of Crimson Mirrors (Thalassara Underperformers’ Guild)**
+* **Symbol:** Mask split into white and red halves, tails curling beneath
+* **Title:** *The Ember Mirage*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Japanese–Chinese tone — foxlike eyes, fine delicate features, graceful balance; visual tone akin to Haruma Miura crossed with Xu Kai.
+
+**Eyes:** amber-orange, slit pupils with faint reflective sheen in low light.
+**Skin:** porcelain with subtle warmth, faint gold shimmer under cheekbones.
+
+**Hair (randomized):** **Length: Medium-Long**, **Style: layered with side fringe**, **Texture: silky straight**, **Color: pale rose-gold with white underlights**, draping over foxlike ears. *(Fully randomized)*
+
+**Height:** 168 cm
+**Weight:** 54 kg
+**Body Type:** Lean, agile; narrow waist, elegant dancer’s poise, faint fox tail movement betrays mood.
+
+**FEMALE BODY METRICS (Fox Hybrid)**
+
+```
+CUP: C CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 88 – 64 – 91  
+VALIDATION: • W/B = 0.73 → OK • H/W = 1.42 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Half-mask of white porcelain (usually worn at rest), silver ear cuffs shaped like curling flames, crimson ribbon tied to tail tip, charm anklet that jingles softly with illusion activation.
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **black and scarlet illusionist’s robe**, short in front with trailing coattails, embroidered with fire motifs. A **crimson sash** cinches the waist, with **gold-threaded sleeves** that shimmer like shifting light.
+
+**Color Palette:** crimson / black / gold / ivory
+**Accents:** sensual, mysterious, theatrical elegance
+
+**Loadout:** illusion focus fan, spellbook, throwing knives (ornamental), smoke pellets, perfume flask.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **13** (Mage Armor)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 10 (+0)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +2
+* **Skills:** Arcana +5, Deception +4, Performance +4, Sleight of Hand +4, Stealth +4
+* **Languages:** Common, Elvish, Kitsune, Thieves’ Cant
+
+**Wizard (School of Illusion) 3:**
+
+* **Improved Minor Illusion**
+* **Malleable Illusions**
+* **Spellcasting (INT DC 13, +5 attack)**
+* **Prepared Spells:** *Disguise Self, Silent Image, Mirror Image, Misty Step, Invisibility, Phantasmal Force, Sleep*
+* **Cantrips:** *Minor Illusion, Mage Hand, Fire Bolt, Prestidigitation*
+
+**Attacks**
+
+* **Fire Bolt:** +5 to hit, 1d10 fire
+* **Dagger:** +4 to hit, 1d4+2 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Trickster / Controller / Distraction Artist
+* **Tactics:** Confuses enemies with illusion clones, darts through gaps using *Misty Step*, blindsides with *Phantasmal Force*.
+* **Signature Opener:** Flicks fan open, smirks — “Try to guess which one’s me.”
+* **Finisher:** Cloak flares; a foxfire illusion bursts into dazzling sparks as she vanishes behind the chaos.
+* **Damage Flavor:** Embers swirl like petals in her wake.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Witty, teasing, unpredictable but kind to the downtrodden.
+* **Ideal:** Freedom through deception — “Illusion is truth’s older, more beautiful sister.”
+* **Bond:** Protects the orphans of Ember Court with her stolen earnings.
+* **Flaw:** Lies habitually; struggles to be sincere even with allies.
+* **Quirk:** Changes her eye color mid-conversation just to confuse people.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Ember Court District, Mirror Alley, Perfumed Canal Quarter**
+* **Threat Gradient:** **Stable → Wavering (Echo mirage interference)**
+* **Encounter Framing:** **Masquerade Duel**, **Theft Gone Wrong**, **Illusion Trial**
+
+---
+
+## 📜 Background & Lifestyle
+
+Mina was a street magician who accidentally uncovered her fox lineage after a flare of illusion magic set the stage ablaze. She was taken in by the Ember Court, where she turned from entertainer to information broker.
+
+* **Lifestyle:** Decadent but modest — loves wine, incense, soft lights.
+* **Income:** Performance contracts + espionage + “selective donations.”
+* **Relationships:** Flirts relentlessly with Kaoru Veylan; friendly rivalry with Liora Fenvale.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes lies can heal better than truths when wielded with care.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of her illusions — revealing the true fox within.
+* **Weaknesses:** Emotionally evasive, poor endurance.
+* **Strengths:** Creativity, adaptability, mastery of deception and disguise.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“Tomboy Type 1” tone — graceful yet mischievous; voice warm but laced with teasing play.
+
+> “Oh? You’re staring… must I perform to earn your gaze?”
+> If someone teases her:
+> “Tch—bold one, aren’t you? Don’t tempt a fox unless you’re ready to be caught.”
+
+When *she’s flustered*, her tail flicks violently and she hisses softly through a grin.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her foxfire illusions drain ambient Echo energy; she’s unknowingly stabilizing the city’s resonance web.
+* **Hooks:**
+
+  1. **The Ember Masquerade:** Protect her during a noble performance where her illusions begin manifesting physically.
+  2. **The Burning Tail:** Track a rogue thief using a stolen illusion mask tied to her aura.
+  3. **Mirror of Ashes:** She’s framed for assassinating a noble with one of her doubles.
+
+## Tags: #Female #TomboyType1 #HalfBeastkin #Kitsune #Wizard3 #Illusionist #Thalassara #CR1 #Performer #Trickster
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Mina **teases others with charm and eye contact**, often slipping behind to whisper near their ear. If flirted with, she winks and flicks her tail: “Careful. Foxes bite when cornered.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** fan focus, daggers
+  * **Tools:** disguise kit, perfume vial
+  * **Consumables:** 2× smoke bombs, 1× potion of invisibility
+  * **Misc:** half-mask, illusion stones, fox-tail charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **Actor Feat**
+  * **Spell Pick:** *Mirror Image* or *Major Image*
+  * **Feature Growth:** Expand to multi-layer illusion control
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Ember Court District**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **Masquerade Duel**, **Heist Gone Wrong**, **Political Intrigue**
+* **Affiliation:** **House of Crimson Mirrors — Whisper Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Chinese female half-kitsune wizard, 168cm, medium-long rose-gold hair, amber fox eyes, porcelain skin, elegant slim body, crimson and black illusionist robe, single fox tail with glowing tip, holding fan, sly smile, embers and smoke, night city masquerade background

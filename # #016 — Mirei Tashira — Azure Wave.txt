@@ -1,0 +1,164 @@
+# #016 — **Mirei Tashira** — *Azure Wave Duelist of the Pearl Shoals*
+
+> “The tide never retreats—it only gathers strength.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นเพื่อน)
+* **Age:** 24
+* **Race:** Beast-kin (Shark-kin — human-like ~85%, with faint gray-blue markings along her shoulders, subtle gill lines behind ears, and sharklike eyes of silver-blue slit pupils)
+* **Class & Level:** Fighter (Champion) 2 / Monk (Open Hand) 1 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Arena duelist, maritime guard, wave instructor
+* **Rank / Position:** **Pearl Shoal Combat Instructor**
+* **Organization:** **Thalassara Marine Wardens**
+* **Symbol:** A cresting wave forming the silhouette of a blade
+* **Title:** *The Tidebreaker*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Japanese–Polynesian hybrid
+
+Mirei’s presence feels like the calm before a storm—elegant but coiled with power. **Eyes:** pale blue-gray, glinting like polished coral. **Skin:** sun-kissed beige with a soft aquatic shimmer.
+
+**Hair (randomized):** **Medium**, **straight ocean-blue**, streaked with pale turquoise; kept tied into a loose braid trailing down her back with sea-glass beads.
+
+**Height:** 176 cm
+**Weight:** 65 kg
+**Body Type:** Athletic swimmer’s frame; broad shoulders tapering into a strong waist, graceful movements like flowing surf
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 92 – 68 – 98  
+VALIDATION: • W/B = 0.739 → OK • H/W = 1.44 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Sea-glass ear cuffs, **coral choker**, **anklet of blue pearls**, and **silver bangles** etched with wave sigils. Each accessory hums faintly when it touches seawater.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **sleeveless azure combat vest** over **reinforced tide-weave cloth**, fitted **black leggings** slit at the calves for underwater motion, and a **white sash belt** wrapped twice around her hips. She wears **fingerless gloves** and goes barefoot for grip, webbing faintly visible between toes.
+
+**Color Palette:** aqua / black / white / pearl silver
+**Accents:** ripple motifs, sea-glass beads, wet-sheen fabric finish
+
+**Loadout:** **trident (cerulean alloy)**, **shortsword**, and a **wave-focus pearl** tied at her belt.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 2d10 + 1d8 + (CON +2)×3 → **28 HP**
+* **AC:** **17** (unarmored defense via Monk + DEX + WIS)
+* **Speed:** 35 ft (swim 40 ft)
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 14 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, DEX +5
+* **Skills:** Athletics +4, Acrobatics +5, Perception +4, Insight +4, Performance +3
+* **Languages:** Common, Aquan, Elvish, Thalassaran Cant
+* **Equipment:** trident, shortsword, water flask, combat gloves, tide focus
+
+**Fighter (Champion) 2:**
+
+* **Improved Critical (19–20)**
+* **Action Surge (1/rest)**
+* **Fighting Style:** Dueling
+
+**Monk (Open Hand) 1:**
+
+* **Martial Arts (1d4)**
+* **Unarmored Defense (DEX + WIS)**
+* **Flurry of Blows (1 ki)**
+* **Open Hand Technique**
+
+**Attacks**
+
+* **Trident:** +5 to hit, 1d8+5 piercing (1d6+5 one-handed)
+* **Unarmed Strike:** +5 to hit, 1d4+3 bludgeoning
+* **Flurry of Blows:** 2× (1d4+3), can knock prone or push
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Melee Striker / Control Hybrid**
+* **Tactics:** Engages close, using trident sweeps and rapid strikes. Uses **Action Surge** after **Flurry of Blows** for flanking pressure.
+* **Signature Opener:** Water step + low sweep → upper trident thrust → elbow follow-through.
+* **Finisher:** **Action Surge** → two critical stabs under wave burst.
+* **Damage Flavor:** Impacts shimmer with aqua trails and tiny suspended droplets.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran fighter weights)**
+
+* **Traits:** Confident, witty, and protective; prefers action to words.
+* **Ideal:** Growth — “Every current carries us somewhere new.”
+* **Bond:** Her students at the Pearl Shoal dojo; fiercely proud of them.
+* **Flaw:** Can’t resist showing off if challenged.
+* **Quirk:** Cracks her neck before every fight; calls it “tuning the tide.”
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Pearl Shoals, Tide Arena**
+* **Threat Gradient:** **Stable → Echo Zone** (during tide surges or low-moon tournaments)
+* **Encounter Framing:** **Training Duel**, **Arena Defense**, **Escort Mission Through Flooded Streets**
+
+---
+
+## 📜 Background & Lifestyle**
+
+* **Background:** Former free-diver turned arena champion, now teaches disciplined combat to young adventurers. Once saved a caravan by fighting underwater during an Echo wave.
+* **Lifestyle:** Minimalist; spends dawn meditating waist-deep in water.
+* **Income:** Training fees + coastal defense wages.
+* **Relationships:** Friends with Selune Varethiel; sometimes rivals with Rinna Vaelune in sparring.
+
+---
+
+## 🧩 Morals & Ethics**
+
+Sees combat as flow—violence without cruelty. Every movement must honor the water’s rhythm.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths**
+
+* **Fears:** Becoming stagnant; losing her sense of “flow.”
+* **Weaknesses:** Overconfident; poor at stealth on dry land.
+* **Strengths:** Exceptional endurance, mobility, and adaptability to water terrain.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นเพื่อน” tone — relaxed, teasing camaraderie. Bumps shoulders playfully: “Come on, don’t flinch. The wave won’t wait.” Quick to grin; rarely flustered, but if complimented, her tail fins twitch faintly in embarrassment.
+
+---
+
+## 🤫 Secrets & Plot Hooks**
+
+* **Secret:** Keeps a hidden “Resonant Pearl” that records the sound of the sea from before the Echo distortions—she uses it to calm Echo-touched victims.
+* **Hooks:**
+
+  1. **Tidebreaker Trial:** Train under Mirei for underwater combat lessons.
+  2. **Flooded Arena:** Help her evacuate trainees when the Shoal floods mid-tournament.
+  3. **The Resonant Pearl:** Retrieve her lost artifact before Severance divers claim it.
+
+## Tags: #Female #FriendType #BeastKin #SharkKin #Fighter2 #Monk1 #Thalassara #CR1 #Adventurer #PearlShoals
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Polynesian shark-kin female warrior, medium ocean-blue hair with turquoise streaks, silver-blue eyes, athletic swimmer body, azure vest, trident, sea-glass jewelry, ocean backdrop, confident smile

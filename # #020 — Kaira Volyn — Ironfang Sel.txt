@@ -1,0 +1,158 @@
+# #020 — **Kaira Volyn** — *Ironfang Sellsword of the Red Dunes*
+
+> “Mercy is for those who can afford it. I can’t.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: Tomboy Type 2 — fit and muscular)
+* **Age:** 26
+* **Race:** Beast-kin (Jackal-kin — human-like ~85%, golden-brown eyes with vertical pupils, short tawny fur on forearms and ears, long dusky tail, slightly sharper canines)
+* **Class & Level:** Fighter (Battle Master) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Neutral
+* **Profession:** Mercenary, caravan bodyguard, pit duelist
+* **Rank / Position:** **Ironfang Blade-for-Hire**
+* **Organization:** **Skarnov Free Blades Guild**
+* **Symbol:** A jackal skull within a blazing sun
+* **Title:** *The Sand-Cut Smile*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Egyptian–Arabic hybrid
+
+Kaira moves with desert grace, her stance predatory but grounded. **Eyes:** golden-brown, always scanning. **Skin:** bronze-olive with faint dust-gold highlights when the sun hits. Her canines flash when she grins—never softly.
+
+**Hair (randomized):** **Short**, **curly dark-sand blonde**, streaked with faint bronze near the temples, tousled into a wind-swept mess.
+
+**Height:** 174 cm
+**Weight:** 63 kg
+**Body Type:** Muscular, fit, lean power; compact torso and strong arms
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 88 – 64 – 92  
+VALIDATION: • W/B = 0.727 → OK • H/W = 1.43 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Bronze **sun-disc earring** (right side only), **tooth charm necklace**, **wristband** of red leather etched with tally marks, and **anklet** made of silver links from defeated opponents’ coins.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **sand-gold sleeveless cuirass** strapped with dark leather belts, **brown breeches**, **wrap sandals**, and a **red desert sash** trailing like a banner. A **half-cape** of woven linen dyed crimson, trimmed with faded gold thread, flares when she moves.
+
+**Color Palette:** gold / bronze / red / brown
+**Accents:** worn leather, sun motifs, visible stitching
+
+**Loadout:** scimitar, short sword, throwing axes (2), and a spiked bracer knife hidden under her glove.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **17** (scale mail + DEX)
+* **Speed:** 35 ft
+* **STR 15 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Athletics +4, Intimidation +2, Perception +3, Acrobatics +5, Survival +3
+* **Languages:** Common, Infernal, Skarnov Cant
+* **Equipment:** scimitar, short sword, throwing axes, leather armor, survival kit
+
+**Fighter (Battle Master) 3:**
+
+* **Combat Superiority (4d8)**, **Maneuvers:** *Trip Attack*, *Disarming Attack*, *Riposte*
+* **Second Wind (1d10+3)**
+* **Action Surge (1/rest)**
+* **Fighting Style:** Two-Weapon Fighting
+
+**Attacks**
+
+* **Scimitar:** +5 to hit, 1d6+3 slashing
+* **Short Sword:** +5 to hit, 1d6+3 slashing
+* **Riposte / Trip Attack:** add 1d8 superiority die
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Duelist / Brawler**
+* **Tactics:** Opens with **Disarming Attack**, uses **Riposte** for counterplay, and capitalizes on advantage with **Action Surge**.
+* **Signature Opener:** Feint → low sweep → upper slash, ending in a dust kick to blind the foe.
+* **Finisher:** “Sandstorm Cut” — twin scimitar spin followed by trip-attack burst.
+* **Damage Flavor:** Slashes leave lines of glowing sand that fade like embers.
+
+---
+
+## 💬 Personality (Randomized — Skarnov mercenary tone)**
+
+* **Traits:** Bold, cocky, loud laughter; surprisingly loyal once bought.
+* **Ideal:** Freedom — “Contracts end. Chains don’t.”
+* **Bond:** Her squadmate Lukan, lost in a Severance ambush—she keeps his blade.
+* **Flaw:** Competitive to a fault; can’t walk away from a challenge.
+* **Quirk:** Always counts steps in threes before a strike.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Skarnov — Red Dunes, Ironfang Arena, Sandway Caravans**
+* **Threat Gradient:** **Stable → Wavering** (Echo sandstorms)
+* **Encounter Framing:** **Arena Duel**, **Caravan Defense**, **Ambush Contract**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Ex-soldier of the Dune Wars; turned mercenary after her unit was dissolved. Her reputation: wins without cruelty, loses without excuse.
+* **Lifestyle:** Nomadic; sleeps wherever there’s shade and coin.
+* **Income:** Bounty work, private guard contracts, arena matches.
+* **Relationships:** Friend and sparring partner with Mirei Tashira; wary respect for Saori Kitsurana.
+
+---
+
+## 🧩 Morals & Ethics
+
+Kaira isn’t cruel, but she doesn’t soften reality. Mercy comes after survival.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being caged again—by duty or affection.
+* **Weaknesses:** Short temper, poor diplomacy.
+* **Strengths:** Physical endurance, battlefield intuition, tactical aggression.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“Tomboy Type 2” — confident, teasing, physical. She slaps your back (a bit too hard) and laughs: “Didn’t think you could keep up, huh?” When embarrassed, she hides it behind mock taunts, but her tail flicks furiously.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a Severance-forged blade hidden—rumor says it whispers to her in sandstorms.
+* **Hooks:**
+
+  1. **Dune Duel:** Fight alongside Kaira in a sandstorm arena against a Severance beast.
+  2. **The Whispering Blade:** Discover why her sword hums with echo resonance.
+  3. **Caravan Trap:** Escort her employer, only to find the cargo carries a bound Echo relic.
+
+## Tags: #Female #TomboyType2 #BeastKin #JackalKin #Fighter3 #BattleMaster #Skarnov #CR1 #Adventurer #Mercenary
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Egyptian Arabic jackal-kin female fighter, short curly sand-blonde hair, golden eyes, athletic muscular body, desert armor, red sash, scimitar, dunes, confident grin

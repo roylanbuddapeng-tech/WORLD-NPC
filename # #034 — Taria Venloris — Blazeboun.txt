@@ -1,0 +1,153 @@
+# #034 — **Taria Venloris** — *Blazebound Duelist of the Crimson Market*
+
+> “Steel sings truest when wielded by those who dare to sweat.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นพี่ — confident, protective, teasingly composed)
+* **Age:** 29
+* **Race:** Human
+* **Class & Level:** Fighter (Champion) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Mercenary duelist, bodyguard-for-hire, arena trainer
+* **Rank / Position:** **Blazebound Captain of the Crimson Market Guard**
+* **Organization:** **The Crimson Market Guild of Blades**
+* **Symbol:** A crossed sword and flame emblem
+* **Title:** *The Emberblade Sister*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Vietnamese–Greek hybrid
+
+Taria carries a mature, confident allure — her poise commands attention. **Eyes:** amber-brown with flecks of gold that shimmer under torchlight. **Skin:** lightly sun-kissed, dusted with faint freckles across her shoulders.
+
+**Hair (randomized):** **Medium length**, **straight auburn**, tied in a half-up warrior braid with a bronze clasp.
+
+**Height:** 172 cm
+**Weight:** 65 kg
+**Body Type:** Fit hourglass; muscular but graceful, trained through years of sword work.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 100 – 74 – 106  
+VALIDATION: • W/B = 0.74 → OK • H/W = 1.43 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+A **bronze choker chain**, **small hoop earrings**, and a **thin red string bracelet** from an old student she once mentored.
+
+---
+
+## 👗 **Outfit (in English)**
+
+She wears a **scarlet duelist’s coat** reinforced with hidden leather plates, open at the collar to show a white undershirt bound with black laces. Her **belt** carries twin shortblades and a training whistle. Her **boots** are scuffed from long marches, but her style is sharp — battle-tested elegance.
+
+**Color Palette:** crimson / bronze / white / black
+**Accents:** practical and sultry; weathered leather, glinting bronze trim
+
+**Loadout:** twin short swords, dueling dagger, crimson cloak, training gauntlet.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +2)×3 → **32 HP**
+* **AC:** **17** (chain shirt + DEX + parrying style)
+* **Speed:** 30 ft
+* **STR 15 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 13 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Athletics +4, Acrobatics +5, Persuasion +4, Intimidation +4, Insight +3
+* **Languages:** Common, Infernal, Valeron Trade Tongue
+
+**Fighter (Champion) 3:**
+
+* **Improved Critical (19–20)**, **Second Wind**, **Action Surge**, **Fighting Style (Two-Weapon Fighting)**
+
+**Attacks**
+
+* **Twin Shortswords:** +5 to hit, 1d6+3 slashing each (dual-wield)
+* **Unarmed Kick:** +5 to hit, 1d4+3 bludgeoning (flavored)
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Duelist / Close Quarters Striker**
+* **Tactics:** Opens with aggressive rush, forcing opponent onto defense; finishes with feinting double slash.
+* **Signature Opener:** Steps forward, strikes her blades together — sparks flare.
+* **Finisher:** Spinning dual slash followed by a pommel strike to the chin.
+* **Damage Flavor:** Blades leave a faint reddish arc like flame trails.
+
+---
+
+## 💬 Personality (Randomized — seasoned fighter tone)**
+
+* **Traits:** Confident, teasing, reliable under pressure.
+* **Ideal:** Mastery — “Perfection is found between scars.”
+* **Bond:** Treats younger adventurers as siblings.
+* **Flaw:** Drinks too much after a fight — can’t sleep otherwise.
+* **Quirk:** Always hums the same tune before a duel.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Valeronnes — Crimson Market, Arena Quarters, Forge Street**
+* **Threat Gradient:** **Stable → Wavering** (Echo corruption through trade bloodline)
+* **Encounter Framing:** **Arena Duel**, **Bodyguard Mission**, **Market Brawl**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Born to a smith family, Taria left the forge to test her strength. She gained fame as a duelist who never refused a rematch.
+* **Lifestyle:** Trains daily, runs a local fighting class for rookies.
+* **Income:** Guard pay + dueling wagers.
+* **Relationships:** Mentor to young adventurer Alyn Drayne; friendly rivalry with Kael Dravos.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that those with strength should never mock weakness — they should teach.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Hurting someone she was meant to protect.
+* **Weaknesses:** Overprotective, emotionally repressed.
+* **Strengths:** Physical control, tactical patience, unwavering composure.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นพี่” tone — calm, teasing, reassuring. She grins softly, hand resting on your shoulder: “Relax, rookie. If you mess up, I’ll only laugh for a week.” When she’s flustered, she brushes her hair back and mutters, “Don’t stare too long… focus on your stance.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a forbidden contract with the Crimson Market’s echo-fighters — she supplies them with mercy kills.
+* **Hooks:**
+
+  1. **Flame Debt:** Help her pay off the blood debt owed to the Market King.
+  2. **Burning Lesson:** Train under her while defending the market from a Severance breach.
+  3. **The Ember Oath:** Retrieve her late apprentice’s sword lost in an Echo duel.
+
+## Tags: #Female #Senpai #Human #Fighter3 #Champion #Valeronnes #CR1 #Adventurer #Duelist #Mercenary
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese Greek human female fighter, medium straight auburn hair in braid, amber eyes, athletic build, crimson duelist coat, twin swords, bronze jewelry, confident smile, market arena background

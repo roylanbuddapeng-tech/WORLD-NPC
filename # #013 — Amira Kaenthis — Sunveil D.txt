@@ -1,0 +1,160 @@
+# #013 — **Amira Kaenthis** — *Sunveil Dancer of the Saffron Spires*
+
+> “The body remembers rhythms the mind forgets.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: MILF)
+* **Age:** 34
+* **Race:** Human (Skarnov southern lineage — human-like 100%, faint golden undertone to skin and eyes)
+* **Class & Level:** Bard (College of Swords) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Blade-dancer, caravan entertainer, and covert courier
+* **Rank / Position:** **Sunveil Performer of the Saffron Spires Troupe**
+* **Organization:** **Golden Caravan Guild**
+* **Symbol:** A stylized sun encircled by a flowing veil
+* **Title:** *The Gilded Mirage*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Persian–Thai hybrid
+
+Amira radiates seasoned beauty — sun-glow skin, golden eyes framed by long lashes, and a smile that feels both motherly and dangerous. Her voice is husky and warm, each word carrying the rhythm of a song half-whispered.
+
+**Hair (randomized):** **Very long**, **wavy deep mahogany**, highlighted with soft gold streaks, usually braided into twin loops behind her head with a veil of translucent silk flowing from them.
+
+**Height:** 172 cm
+**Weight:** 60 kg
+**Body Type:** Curvy, dancer’s muscle under graceful lines; every movement deliberate and hypnotic
+
+**FEMALE BODY METRICS**
+
+```
+CUP: G CATEGORY: Very Large  
+THREE_SIZES (B-W-H, cm): 104 – 73 – 110  
+VALIDATION: • W/B = 0.702 → OK • H/W = 1.51 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Gold **teardrop earrings**, a **chain-link circlet**, **mirror anklet** with bells, **bracelet of sunstone beads**, and a **necklace** hung with six layered veils. Her steps ring with soft chimes as she walks.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **flowing amber-and-gold dancer’s ensemble**—silk top with embroidered suns, **split skirts** that reveal glimmering leggings beneath. **Waist sash** covered in gold coins that jingle like rainfall. **Barefoot**, but her soles bear henna sigils glowing faintly when she channels magic.
+
+**Color Palette:** gold / amber / crimson / cream
+**Accents:** translucent fabric, metallic thread embroidery, desert motifs
+
+**Loadout:** twin scimitars (performer’s blades), hand tambourine with embedded resonant gems, veils enchanted to blind or charm.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **16** (light armor + DEX + defensive flourish)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 16 (+3)** **CON 12 (+1)** **INT 10 (+0)** **WIS 13 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, CHA +5
+* **Skills:** Performance +7, Acrobatics +5, Persuasion +5, Insight +3, Sleight of Hand +5
+* **Languages:** Common, Elvish, Ignan, Thalassaran Cant
+* **Equipment:** twin scimitars, tambourine focus, veil collection
+
+**Bard (College of Swords) 3:**
+
+* **Bardic Inspiration (d6)**
+* **Blade Flourish (Defensive, Slashing, Mobile)**
+* **Jack of All Trades**, **Song of Rest**
+* **Spellcasting (CHA DC 13, +5 attack):**
+
+  * *Cantrips:* *Dancing Lights, Vicious Mockery*
+  * *1st–2nd-level:* *Cure Wounds, Charm Person, Mirror Image, Enthrall, Calm Emotions*
+
+**Attacks**
+
+* **Scimitar (Finesse):** +5 to hit, 1d6+3 slashing (+1d6 Bardic flourish if used)
+* **Vicious Mockery:** DC 13, 2d4 psychic + disadvantage
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Melee Support / Control**
+* **Tactics:** Uses **Mobile Flourish** to dart around battlefield, drawing enemy focus. Employs **Mirror Image** and **Calm Emotions** mid-combat to disarm aggression.
+* **Signature Opener:** Dazzling dance + twin blade slash under veil cover.
+* **Finisher:** Whirl of veils → **Enthrall** → precision stab.
+* **Damage Flavor:** Every strike accompanied by shimmering light rings, as though sunlight caught on silk.
+
+---
+
+## 💬 Personality (Randomized — Skarnov entertainer weights)**
+
+* **Traits:** Warm, flirty, confident; motherly toward younger allies but playful with equals.
+* **Ideal:** Beauty — “If a fight isn’t graceful, it isn’t worth the scars.”
+* **Bond:** Her troupe, the Sunveil dancers; protects them fiercely.
+* **Flaw:** Overworks herself to maintain her image; fears fading relevance.
+* **Quirk:** Snaps fingers to the beat even in silence.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Skarnov — Saffron Spires & Silk Courts**
+* **Threat Gradient:** **Stable → Wavering** (market Echo bleed during festivals)
+* **Encounter Framing:** **Festival Performance Duel**, **Escort Mission**, **Undercover Information Trade**
+
+---
+
+## 📜 Background & Lifestyle**
+
+* **Background:** Former temple dancer who left sacred vows after the temple’s collapse. Now travels with her troupe as performer and covert courier for relic recovery.
+* **Lifestyle:** Lives richly on the road; collects perfumes from every city.
+* **Income:** Performance fees + courier contracts.
+* **Relationships:** Close friends with Nara Vehlis; once trained Kara Denev in movement.
+
+---
+
+## 🧩 Morals & Ethics**
+
+Sees truth in grace. Lies spoken with elegance can still wound less than brutal honesty. She believes mercy is strength.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths**
+
+* **Fears:** Losing her voice or her grace.
+* **Weaknesses:** Sentimental attachment to younger adventurers.
+* **Strengths:** Battlefield poise, emotional intelligence, adaptability.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“MILF” tone — nurturing, confident, and teasing. She ruffles hair, smiles knowingly, and murmurs, “Darling, if you tense your shoulders like that, no rhythm will ever reach your heart.” Enjoys flustering younger allies but turns protective in an instant.
+
+---
+
+## 🤫 Secrets & Plot Hooks**
+
+* **Secret:** One of her veils hides a coded map to a Severance artifact auction.
+* **Hooks:**
+
+  1. **Dance of the Sunveil:** Protect her troupe during a performance ambushed by Echo raiders.
+  2. **Golden Mirage:** Help Amira recover a cursed jewel stolen from her caravan.
+  3. **Whispers of the Sandstorm:** Follow Amira’s lead to uncover a Severance spy ring among nobles.
+
+## Tags: #Female #MILF #Human #Bard3 #Skarnov #Performer #CR1 #Adventurer #SaffronSpires #GildedMirage
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Persian Thai human female bard dancer, very long mahogany wavy hair with gold streaks, golden eyes, curvy figure, gold veil outfit, twin scimitars, desert sunlight, confident warm smile

@@ -1,0 +1,157 @@
+# #024 — **Mirei Tashira** — *Gilded Fang Duel-Monk of the Eastern Steppe*
+
+> “Strength isn’t the strike—it’s what you choose not to hit.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: Tomboy Type 1 — feminine tone, short masculine haircut)
+* **Age:** 22
+* **Race:** Human
+* **Class & Level:** Monk (Way of the Kensei) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Neutral
+* **Profession:** Martial artist, caravan escort, temple duelist
+* **Rank / Position:** **Kensei Adept**
+* **Organization:** **Order of the Gilded Fang** — Steppe monastery protecting trade roads
+* **Symbol:** A stylized golden fang surrounded by wind spirals
+* **Title:** *The Steppe Breeze*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Japanese–Mongolian hybrid
+
+Mirei carries the kind of beauty found in motion—fluid and direct. **Eyes:** amber-gold, sharp yet expressive. **Skin:** light tan, dusted with sun freckles. **Markings:** faint golden tattoo of fangs curling around her wrists, glowing subtly when she channels ki.
+
+**Hair (randomized):** **Short**, **straight black with copper highlights**, cropped neatly to the jaw with slightly uneven bangs.
+
+**Height:** 170 cm
+**Weight:** 60 kg
+**Body Type:** Lean and athletic, smooth muscle definition across arms and abdomen.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 86 – 64 – 90  
+VALIDATION: • W/B = 0.744 → OK • H/W = 1.41 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+A **black cord necklace** holding a small gold fang, **bronze prayer ring** on right thumb, and **red cloth wrist wraps** inscribed with calligraphy from her master.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **sand-brown martial gi** tied with a **dark red sash**, reinforced along shoulders and knees for travel. Her **boots** are soft-leather steppe sandals for speed on uneven terrain. She wears a **light half-cloak** patterned with wind motifs—cut short to prevent snagging during kicks.
+
+**Color Palette:** brown / red / gold / copper
+**Accents:** practical stitching, calligraphy seams, flexible linen layers
+
+**Loadout:** quarterstaff (her kensei weapon), short sword, prayer beads, herbal wraps, flask of rice wine.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (DEX + WIS)
+* **Speed:** 40 ft
+* **STR 12 (+1)** **DEX 17 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +5
+* **Skills:** Acrobatics +5, Insight +4, Athletics +3, Perception +4, Stealth +5
+* **Languages:** Common, Elvish, Eastern Steppe Dialect
+
+**Monk (Way of the Kensei) 3:**
+
+* **Unarmored Defense (AC = 10 + DEX + WIS)**
+* **Martial Arts (1d4 → 1d6)**
+* **Ki (3 points)** — *Flurry of Blows*, *Patient Defense*, *Step of the Wind*
+* **Deflect Missiles**, **Kensei Weapons**, **Agile Parry**
+
+**Attacks**
+
+* **Quarterstaff (Kensei):** +5 to hit, 1d8+3 bludgeoning (versatile)
+* **Unarmed Strike:** +5 to hit, 1d6+3 bludgeoning
+* **Flurry of Blows:** Two unarmed strikes as bonus action
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Melee Striker / Mobility Fighter**
+* **Tactics:** Opens with a **dash or Step of the Wind**, then executes **Flurry of Blows** to knock enemies prone. Uses **Deflect Missiles** to counter archers.
+* **Signature Opener:** Spins her staff in a wide sweep that sends dust spiraling.
+* **Finisher:** Triple kick combo ending in a quarterstaff vault strike.
+* **Damage Flavor:** Every hit leaves a faint golden shimmer that fades into air currents.
+
+---
+
+## 💬 Personality (Randomized — Steppe monk tone)**
+
+* **Traits:** Straightforward, dry humor, disciplined but approachable.
+* **Ideal:** Balance — “A clenched fist blocks the wind; an open palm lets it pass.”
+* **Bond:** Her late master, whose fang-shaped pendant she wears.
+* **Flaw:** Bottles anger behind calm composure until it explodes.
+* **Quirk:** Whistles tunelessly before a fight—it unnerves people.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Eastern Steppe — Fang Monastery, Winded Plateau, Red Caravan Route**
+* **Threat Gradient:** **Stable → Wavering** (raids by Echo-bandits)
+* **Encounter Framing:** **Caravan Escort**, **Monastery Defense**, **One-on-One Duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Orphan trained by monks of the Fang Order. Left the temple to atone for a duel that crippled her best friend.
+* **Lifestyle:** Minimalist traveler, always barefoot when meditating.
+* **Income:** Paid duels and escort contracts.
+* **Relationships:** Rivalry and friendship with Kaira Volyn; respect for Seren Dalthor’s composure.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes restraint is the truest expression of strength; refuses to kill unless absolutely required.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of her temper again.
+* **Weaknesses:** Poor diplomacy; dislikes politics.
+* **Strengths:** Fast reflexes, unshakable focus, precision control of movement.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“Tomboy Type 1” — warm, teasing in a quiet way. She tilts her head, smiling faintly: “You keep staring—want a spar or a dance?” When embarrassed, she tugs her short hair and looks away, pretending to check her stance.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her late master’s pendant reacts to nearby Severance—implying he may not have died naturally.
+* **Hooks:**
+
+  1. **Desert Duel:** Train with Mirei to master a new defensive stance while ambushed by Echo raiders.
+  2. **The Golden Fang:** Uncover the relic linked to her order’s vanished founder.
+  3. **Winds of Regret:** Help her face the crippled friend she left behind.
+
+## Tags: #Female #TomboyType1 #Human #Monk3 #Kensei #EasternSteppe #CR1 #Adventurer #MartialArtist
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Mongolian human female monk, short straight black hair with copper highlights, amber eyes, tan skin, martial gi, red sash, quarterstaff, desert wind, confident smile

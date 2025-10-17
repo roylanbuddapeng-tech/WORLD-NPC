@@ -1,0 +1,199 @@
+# #062 — **Riko Hanamura** — *Human Cleric of the Luminous Garden*
+
+> “Every wound is a petal waiting to bloom again.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 062
+* **Gender (weighted random):** Female (Type: **รุ่นน้อง** — cheerful, loyal, and just a little mischievous; idolizes her seniors and wants to prove herself)
+* **Age:** 20
+* **Race:** Human (Thalassaran descent — faintly luminous veins visible beneath soft skin when she channels healing)
+* **Class & Level:** Cleric (Life Domain) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Traveling healer, field medic, shrine acolyte
+* **Rank / Position:** **Novice Healer of the Luminous Garden**
+* **Organization:** **The Thalassara Temple Chorus**
+* **Symbol:** Blooming lotus encircled by three radiant threads
+* **Title:** *The Bloomlight Novice*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Japanese tone — soft, bright eyes and youthful charm reminiscent of Minami Hamabe or a K-pop idol in fantasy attire.
+
+**Eyes:** rose-gold, wide and shimmering with compassion.
+**Skin:** porcelain-pale, faint blush at the cheeks, faintly glows in divine light.
+
+**Hair (randomized):** **Length: Long**, **Style: twin braided tails with loose bangs**, **Texture: soft and wavy**, **Color: chestnut brown with subtle pink gradient at tips**. *(Fully randomized)*
+
+**Height:** 160 cm
+**Weight:** 50 kg
+**Body Type:** Slender with soft curves, lively posture.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 92 – 66 – 95  
+VALIDATION: • W/B = 0.71 → OK • H/W = 1.44 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Gold flower hairpins, thin silver chime earrings, white silk ribbon around wrist (used for channeling focus), anklet with a single pearl bead that glows when she prays.
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **white and pastel-rose robe**, cinched with a **gold cord belt**, and short outer sleeves edged with embroidery shaped like petals. Her travel skirt allows easy movement, and her boots are soft cream leather with ribbon lacing.
+
+**Color Palette:** white / pink / gold / ivory
+**Accents:** gentle, warm, radiant simplicity
+
+**Loadout:** holy symbol staff, small healer’s satchel, radiant crystal focus, travel book of hymns.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **17** (chain shirt + shield)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 12 (+1)** **CON 12 (+1)** **INT 11 (+0)** **WIS 16 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Medicine +5, Insight +5, Persuasion +4, Religion +2
+* **Languages:** Common, Celestial
+
+**Cleric (Life Domain) 3:**
+
+* **Channel Divinity (2/rest): Preserve Life**
+* **Disciple of Life** (+2 + spell level on heals)
+* **Spellcasting (WIS DC 13, +5 attack)**
+* **Prepared Spells:** *Bless, Cure Wounds, Sanctuary, Healing Word, Spiritual Weapon, Aid, Lesser Restoration*
+* **Cantrips:** *Guidance, Light, Spare the Dying, Sacred Flame*
+
+**Attacks**
+
+* **Mace:** +2 to hit, 1d6 bludgeoning
+* **Sacred Flame:** DC 13 DEX save, 1d8 radiant
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Support Healer / Morale Anchor
+* **Tactics:** Opens with *Bless*, then heals and protects allies with *Sanctuary* and *Aid*.
+* **Signature Opener:** A cheerful shout — “We’ve got this! The light’s with us!”
+* **Finisher:** Channels a burst of light shaped like flower petals that drift over fallen allies.
+* **Damage Flavor:** Radiant energy appears as glowing blossoms.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Eager, optimistic, affectionate.
+* **Ideal:** Compassion — “Every act of kindness returns threefold.”
+* **Bond:** Devoted to her mentor Selene Ardyn; wants to live up to her example.
+* **Flaw:** Overextends herself to protect others, often faints after battles.
+* **Quirk:** Talks to her healing focus like it’s alive.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Bloomlight Shrine, Southern Healing Gardens**
+* **Threat Gradient:** **Stable → Wavering (Echo resonance from healing rites)**
+* **Encounter Framing:** **Field Battle Recovery**, **Shrine Protection**, **Healing Mission Escort**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born in a poor district, Riko joined the temple chorus after surviving a canal collapse healed by clerics. She learned faith from gratitude, not fear. Now she travels to bring light where it’s needed most.
+
+* **Lifestyle:** Bright and humble; always humming temple songs.
+* **Income:** Donations, temple stipends, and herbal trades.
+* **Relationships:** Admires Selene Ardyn; friendly rivalry with Orin Kaelis; best friend to Mina Soryu.
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes healing is the highest form of rebellion against despair.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing someone she promised to save.
+* **Weaknesses:** Physically fragile; naïve in matters of deceit.
+* **Strengths:** Overflowing empathy; unwavering courage.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นน้อง” tone — bubbly energy, eager compliments, slight clumsiness.
+
+> “Senpai! You were amazing out there—like, *wow*!”
+> When teased:
+> “H-hey! I was just trying to help, don’t make fun of me!”
+
+When *she’s embarrassed*, her voice gets high and she hides her face behind her staff.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her radiant spells harmonize too perfectly with Echo resonance — possibly a latent connection to Lysantra.
+* **Hooks:**
+
+  1. **Petals of Echo:** Investigate why her healing triggers musical resonance.
+  2. **The Silent Bloom:** Escort her as her powers begin manifesting uncontrolled light pulses.
+  3. **Garden of Memory:** A forgotten shrine calls her through visions of a withered god.
+
+## Tags: #Female #JuniorType #Human #Cleric3 #LifeDomain #Thalassara #CR1 #Healer #Support
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Riko **flusters easily but tries to act brave.** When someone praises her, she beams and says: “If you get hurt again, I’ll just have to stay close, okay?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** mace, shield
+  * **Armor:** chain shirt
+  * **Tools:** healer’s kit, holy symbol
+  * **Consumables:** 3× healing potions, 1× restorative draught
+  * **Misc:** hymnbook, flower ribbon, small offering pouch
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 18) *or* **Healer Feat**
+  * **Spell Pick:** *Beacon of Hope* or *Prayer of Healing*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Bloomlight Shrine and Healing Gardens**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **Escort Recovery**, **Temple Defense**, **Ritual Aid**
+* **Affiliation:** **Luminous Garden — Novice Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese female human cleric, 160cm, long chestnut hair with pink tips in twin braids, rose-gold eyes, soft smile, white and pink robes with gold embroidery, radiant aura, holding staff, glowing flower petals swirling, gentle background temple light

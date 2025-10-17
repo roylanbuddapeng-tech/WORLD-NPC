@@ -1,0 +1,183 @@
+# #042 — **Sethir Nazhan** — *Vipershadow Agent of the Obsidian Warrens*
+
+> “Patience is a blade you never see—until your pulse counts it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 042
+* **Gender (weighted random):** Male (Type: เคะ — soft-spoken, observant, blushes easily but precise)
+* **Age:** 20
+* **Race:** Beast-kin *(Serpent-kin — human-like ~85%; faint opaline scales at neck/forearms; slit-pupil jade eyes; subtle forked tongue when casting)*
+* **Class & Level:** Rogue (Assassin) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral
+* **Profession:** Infiltrator, poison courier, Echo-scout
+* **Rank / Position:** **Vipershadow Agent**
+* **Organization:** **Skarnov Black Chalice Network**
+* **Symbol:** A coiled serpent over a black chalice
+* **Title:** *The Quiet Venom*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** Persian–Chinese hybrid
+
+Sethir looks like a quiet scholar until lamplight hits the faint **opal scales** dusted along his neck and wrists. **Eyes:** clear jade, vertically slit, steady as a metronome. **Skin:** pale olive with a cool satin finish. Movements are delicate—measured like a dancer hiding a knife.
+
+**Hair (randomized):** **Short**, **straight ink-black** with **emerald sheen**, side-parted; a few wisps fall over his brow when he concentrates.
+
+**Height:** 170 cm
+**Weight:** 54 kg
+**Body Build:** Slim, graceful, wiry strength; subtle muscle lines, nimble wrists.
+
+**Jewelry & Accessories (randomized):**
+A **matte obsidian ear stud** (left), **thin silver torque** at the throat (conceals a garrote wire), **black data-band** for coded drops, and a **soft ankle cord** bearing a tiny serpent charm.
+
+---
+
+## 👗 Outfit (in English)
+
+A **smoke-gray fitted vest** over a **charcoal silk shirt** with hidden seams, **shadow-black trousers**, and **soft-soled boots** that swallow sound. A **half-cloak** of dull green flips to black on the reverse for instant camo; inside hem holds micro-sheaths for needles.
+
+**Color Palette:** charcoal / shadow-black / dull green / silver
+**Accents:** matte textures, hidden pockets, stitch-in runes for silence
+
+**Loadout:** short sword (blackened steel), 2× daggers, 6× throwing needles, thieves’ tools, climber’s kit, **venom kit** (basic snake venom + 2 doses paralytic resin).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft; **Climb 20 ft** (serpent-kin trait)
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Stealth +8, Acrobatics +6, Perception +3, Investigation +3, Sleight of Hand +6, Deception +3, Poisoner’s Kit +5
+* **Languages:** Common, Draconic, Thieves’ Cant, Skarnov Cant
+* **Equipment:** as Loadout + black chalice signet (code key)
+
+**Rogue (Assassin) 3:**
+
+* **Sneak Attack 2d6**, **Assassinate** (advantage vs creatures that haven’t acted; auto-crit vs surprised), **Cunning Action**, **Thieves’ Tools Expertise** (Stealth, Sleight of Hand expertise flavored)
+
+**Attacks**
+
+* **Shortsword (finesse):** +6 to hit, 1d6+4 piercing (+2d6 Sneak Attack)
+* **Dagger (melee or 20/60):** +6 to hit, 1d4+4 piercing (+SA if valid)
+* **Throwing Needle (flavor, as dart):** +6 to hit, 1d4+4 piercing; can deliver contact venom (DC 12 CON or poisoned 1 min)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Ambusher / Control Skirmisher**
+* **Tactics:** Stacks **Assassinate** with poisoned opener from elevation; focuses casters or leaders, disengages with **Cunning Action**, repositions for a second strike.
+* **Signature Opener:** Needle first (poison), then silent drop → shortsword crit if surprised.
+* **Finisher:** Twin-dagger cross under the ribs as the Echo noise swallows a gasp.
+* **Damage Flavor:** Cuts leave a faint green shimmer like heat over stone.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Polite, precise, intensely observant; blushes when praised.
+* **Ideal:** Control — “Choice belongs to those who plan.”
+* **Bond:** Owes the Black Chalice for curing a childhood venom fever.
+* **Flaw:** Overthinks; freezes if plans collapse.
+* **Quirk:** Counts heartbeats to time his steps; tongue flick when nervous (barely noticeable).
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Obsidian Warrens, Black Chalice Lanes, Silent Stairs**
+* **Threat Gradient:** **Wavering → Deep Echo** (resonant caverns beneath markets)
+* **Encounter Framing:** **Infiltration Escort**, **Poisoned Duet (two-target takedown)**, **Rooftop Pursuit**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born in the lower Warrens to a spice-venom smuggler; survived a lethal bite thanks to Chalice apothecaries—joined them, learned to weaponize patience.
+
+* **Lifestyle:** Sleeps little; keeps a neat ledger of alleys and guard shifts.
+* **Income:** Contract pay + info bounties.
+* **Relationships:** Trades quiet intel with Lyss Fenvale; wary respect for Taria Venloris.
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes bloodshed is a last resort but accepts it as arithmetic: fewer deaths now, fewer later.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of his own toxins; harming the wrong target.
+* **Weaknesses:** Low durability; falters if cornered in open light.
+* **Strengths:** First-strike lethality, mobility, surgical precision.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+“เคะ” tone — quiet, earnest, easily flustered. In conversation he glances down, murmuring: “I… I didn’t mean to stare. Your stance is… nice.” When teasing hits home, his ears pink and he coughs into his fist before changing the subject.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** One Chalice contract forged his name on a kill-list—his own. Someone inside wants him silenced.
+* **Hooks:**
+
+  1. **Three-Dose Night:** Escort Sethir through a triple-venue hit where each poison must be countered differently.
+  2. **Venom Ledger:** Retrieve the stolen ledger mapping Warrens’ Echo pores before Severance agents mutate its formulas.
+  3. **Chalice Within:** Decide whether to expose a traitor inside the Black Chalice or let Sethir fake his death.
+
+## Tags: #Male #BottomType #BeastKin #SerpentKin #Rogue3 #Assassin #Skarnov #CR1 #Adventurer #Infiltrator
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Shy but **makes others blush** with accidental intimacy—soft hand on wrist to “feel your pulse rate… for timing.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900** (Level 3 baseline)
+* **XP to Next Level:** **1,800** more (Level 4 at 2,700 total)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** shortsword, 2 daggers, 6 needles (darts)
+  * **Tools:** thieves’ tools, climber’s kit, poisoner’s kit
+  * **Consumables:** 2× basic snake venom (injury, DC 11 CON, 2d6 poison), 2× paralytic resin (contact, DC 12 CON → poisoned; speed 0 until next turn)
+  * **Utility:** 2× smoke beads, 50 ft silk rope, grapnel, dark hood
+  * **Docs:** Black Chalice signet (cipher), map-scraps of Warrens vents
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** **+2 DEX** (to 20) *or* **Skulker** (if campaign favors darkness)
+  * **Skill/Expertise:** Add **Perception** or **Investigation** expertise
+  * **Tactical Pick:** Consider a dip into **Fighter 1** later for **Defense** style + **Second Wind** if survivability issues arise
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Kingdom/Zone Name:** **Skarnov — Obsidian Warrens**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **Heist Intercept**, **Silent Assassination Counter**, **Echo Pipe Shutdown**
+* **Affiliated Organization / Rank:** **Black Chalice Network — Vipershadow Tier** (answers to a handler called *Mire Blackleaf*)
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Persian Chinese serpent-kin male rogue assassin, short straight black hair with emerald sheen, jade slit eyes, slim build 170cm, charcoal vest and silk shirt, dull green half-cloak, hidden knives, matte obsidian earring, stealthy alley, shy gaze, lethal poise

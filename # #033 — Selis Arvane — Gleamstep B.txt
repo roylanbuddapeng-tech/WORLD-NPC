@@ -1,0 +1,148 @@
+# #033 — **Selis Arvane** — *Gleamstep Bard of the Moon Bazaar*
+
+> “Every smile I steal is a song worth keeping.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Male (Type: เฟมบอย — feminine frame, soft speech, alluring presence)
+* **Age:** 20
+* **Race:** Half-Elf (Thalassaran lineage — human-like 90%, faint blue shimmer in hair strands and eyes glowing softly in dim light)
+* **Class & Level:** Bard (College of Glamour) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Performer, courtesan, illusion dancer
+* **Rank / Position:** **Moon Bazaar Entertainer**
+* **Organization:** **The Luminous Stage Troupe**
+* **Symbol:** A crystal mask framed by twin crescent lights
+* **Title:** *The Star Whisperer*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Japanese–French hybrid
+
+Selis is dazzlingly androgynous—graceful, delicate, and wholly magnetic. **Eyes:** light aqua-blue, glimmering like sea glass under lamplight. **Skin:** porcelain-pale with faint shimmer across his cheeks and shoulders. His gestures are fluid, every movement a small performance.
+
+**Hair (randomized):** **Long**, **wavy silver-lavender**, cascading past his shoulders, tied loosely with pearl-thread ribbons.
+
+**Height:** 158 cm
+**Weight:** 48 kg
+**Body Build:** Slender, feminine curves with subtle tone; narrow shoulders, long lashes, graceful hands.
+
+**Jewelry & Accessories (randomized):**
+A **thin choker of moon pearls**, **teardrop earring** with crystal beads, and a **silver ankle chain** that rings faintly with each step.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **semi-transparent silk tunic** in **white and lilac hues**, layered with a **short velvet cape** that shimmers under moonlight. His **tight trousers** are embroidered with pearlescent thread, and his **soft boots** chime with tiny bells hidden in the hems.
+
+**Color Palette:** white / lilac / pearl / silver
+**Accents:** ethereal, flowing fabrics, gentle sheen, dreamlike composition
+
+**Loadout:** crystal lute, perfume vial (mild sleep charm), hidden dagger disguised as tuning fork, spell focus pendant.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **14** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 15 (+2)** **CON 12 (+1)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +4, CHA +5
+* **Skills:** Performance +7, Persuasion +5, Deception +5, Insight +3, Acrobatics +4
+* **Languages:** Common, Elvish, Thalassaran Cant, Sylvan
+
+**Bard (College of Glamour) 3:**
+
+* **Bardic Inspiration (d6)**, **Mantle of Inspiration (5 temp HP to allies)**, **Enthralling Performance**, **Jack of All Trades**
+* **Spellcasting (CHA DC 13, +5 attack)**
+* **Spells Known (7):** *Charm Person, Healing Word, Faerie Fire, Dissonant Whispers, Calm Emotions, Enhance Ability, Suggestion*
+* **Cantrips:** *Vicious Mockery, Minor Illusion*
+
+**Attacks**
+
+* **Hidden Dagger:** +4 to hit, 1d4+2 piercing
+* **Vicious Mockery (Cantrip):** DC 13, 1d4 psychic + disadvantage on next attack
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Support / Charm Caster**
+* **Tactics:** Opens with *Faerie Fire*, uses *Mantle of Inspiration* to bolster allies, and *Suggestion* to neutralize aggressors.
+* **Signature Opener:** “A little light for your eyes—and a little chaos for your heart.”
+* **Finisher:** *Dissonant Whispers* followed by a pirouette and bow.
+* **Damage Flavor:** Spells shimmer like ribbons of soft moonlight trailing across his fingers.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran performer tone)**
+
+* **Traits:** Flirtatious, compassionate, playfully manipulative.
+* **Ideal:** Joy — “Beauty is rebellion against silence.”
+* **Bond:** The Luminous Troupe, who gave him a home when he had none.
+* **Flaw:** Craves adoration, terrified of being forgotten.
+* **Quirk:** Calls everyone “dear” or “sweetheart” without realizing it.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Moon Bazaar, Luminous Stage, Silver Step Theatre**
+* **Threat Gradient:** **Stable → Wavering** (Echo resonance during performances)
+* **Encounter Framing:** **Masquerade Concert**, **Diplomatic Soirée**, **Echo-warded Gala**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Born to a noble father and a Thalassaran song-maiden; raised amidst politics and music. Ran away to the Bazaar at sixteen to live freely as an artist.
+* **Lifestyle:** Lavish, indulgent; scented oils, candlelight, and laughter.
+* **Income:** Patron commissions + private performances.
+* **Relationships:** Close with Lyss Fenvale; teasing friendship with Eryndor Lethis.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes attention is the purest form of love. If people stop watching, he fades.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being ignored or silenced.
+* **Weaknesses:** Physically fragile, emotionally dependent on validation.
+* **Strengths:** Charisma, persuasion, emotional awareness, stage control.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“เฟมบอย” tone — disarmingly feminine, teasingly sweet. He twirls a strand of hair and murmurs, “You blush so easily... should I sing slower so you can catch your breath?” When flustered himself, he giggles softly, fingers brushing his lips as though suppressing a smile.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His voice carries a remnant of Echo resonance — when he sings alone, unseen spirits hum in harmony.
+* **Hooks:**
+
+  1. **Silent Song:** Help Selis find the ghostly choir haunting his melodies.
+  2. **Masquerade Echo:** Perform alongside him to expose a noble’s assassination plot.
+  3. **The Luminous Pact:** Recover his mentor’s stolen “Song of Rebirth” from a corrupted stage.
+
+## Tags: #Male #Femboy #HalfElf #Bard3 #GlamourCollege #Thalassara #CR1 #Adventurer #Performer #IllusionDancer
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese French half-elf femboy bard, long wavy silver-lavender hair, aqua eyes, petite body, height 158cm, feminine face, pearl choker, white silk tunic, lilac glow, crystal lute, moonlight stage, alluring smile

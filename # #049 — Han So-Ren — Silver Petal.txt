@@ -1,0 +1,200 @@
+# #049 — **Han So-Ren** — *Silver Petal Alchemist of the Mistweave Atelier*
+
+> “Every scent has a memory, and every potion has a story waiting to bloom.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 049
+* **Gender (weighted random):** Female (Type: รุ่นเพื่อน — cheerful, teasingly competitive, easy to bond with, laughs often but serious in crisis)
+* **Age:** 23
+* **Race:** Human (Valeronnes Lineage — 100% human, eyes shimmer faintly with opalescent resonance under sunlight)
+* **Class & Level:** Artificer (Alchemist) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Alchemist-perfumer, potion crafter, field medic
+* **Rank / Position:** **Journeyman Alchemist of Mistweave Atelier**
+* **Organization:** **Valeronnes Guild of Resonant Sciences**
+* **Symbol:** A silver petal entwined with a glass vial
+* **Title:** *The Perfumed Spark*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Korean–Japanese hybrid (visual tone akin to IU or Minji of NewJeans — lively warmth with intellectual poise).
+
+**Eyes:** dark brown with subtle amber halo, glinting when she’s amused.
+**Skin:** smooth fair-cream, faint rose tint on cheeks and nose bridge.
+
+**Hair (randomized):** **Length: Medium**, **Style: wavy layered bob**, **Color: ash brown with rose-gold highlights**, tied into a half-up ponytail with a translucent ribbon — playful yet elegant. *(Randomized length + texture + color + style)*
+
+**Height:** 165 cm
+**Weight:** 55 kg
+**Body Type:** Slender with a soft curvy silhouette — a balance between scholar and artisan.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D CATEGORY: Medium-Large  
+THREE_SIZES (B-W-H, cm): 91 – 67 – 95  
+VALIDATION: • W/B = 0.736 → OK • H/W = 1.41 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Small **opal earrings**, a **thin choker** of braided silver threads, **multi-pocket bracelet** for vials, and a **crystal hairpin** shaped like a blooming flower.
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **white alchemist’s blouse** with rolled sleeves, **short blue corset vest** embroidered with silver filigree, and **high-waist trousers** tucked into **leather ankle boots** stained with faint pastel dyes. A **long utility belt** holds small glass vials glowing faint pink, teal, and violet.
+
+**Color Palette:** white / silver / pastel blue / rose-gold
+**Accents:** elegant, functional, aromatic — always faintly fragrant
+
+**Loadout:** alchemy kit, crossbow (light, mechanical), acid flask, 2x healing draughts, catalyst gloves (spark amplification).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **15** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 16 (+3)** **WIS 11 (+0)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, INT +5
+* **Skills:** Arcana +5, Medicine +2, Persuasion +4, Sleight of Hand +4, Investigation +5
+* **Languages:** Common, Valeron Script, Elvish
+
+**Artificer (Alchemist) 3:**
+
+* **Alchemist’s Supplies Expertise**, **Experimental Elixirs (3/day)**, **Infuse Item (2 infusions)**
+* **Infusions Known:** *Enhanced Defense*, *Repeating Shot*
+* **Spellcasting (INT DC 13, +5 attack)**
+* **Spells Prepared:** *Cure Wounds, Faerie Fire, Detect Magic, Grease, Flaming Sphere*
+* **Cantrips:** *Mending, Fire Bolt, Guidance*
+
+**Attacks**
+
+* **Light Crossbow (Repeating):** +5 to hit, 1d8+2 piercing
+* **Alchemical Flask (acid/fire):** DC 13 DEX save, 2d6 elemental
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Utility / Mid-Range Damage**
+* **Tactics:** Opens with *Faerie Fire* for allies, throws flasks for burst zones, uses **Healing Draught** for mid-fight recovery.
+* **Signature Opener:** A swirl of fragrant smoke — “Let’s stir things up!”
+* **Finisher:** *Flaming Sphere* ignites her spilled potions into an aromatic inferno.
+* **Damage Flavor:** Explosions smell of roses and ozone.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Outgoing, confident, humorous in danger.
+* **Ideal:** Creation — “Every mistake is a formula for brilliance.”
+* **Bond:** Keeps a notebook filled with scents she associates with friends.
+* **Flaw:** Overconfident; sometimes “experiments” in unsafe conditions.
+* **Quirk:** Names every potion like it’s a song — “Blush No.5,” “Thunder’s Kiss.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Mistweave Atelier, Crystal Spire Market, Blooming Street Labs**
+* **Threat Gradient:** **Stable → Wavering** (alchemical Echo cross-reactions)
+* **Encounter Framing:** **Potion Trial Gone Awry**, **Market Demonstration Explosion**, **Rogue Elixir Recovery**
+
+---
+
+## 📜 Background & Lifestyle
+
+So-Ren grew up in Valeronnes’s artisan quarter, apprenticed under a perfumer who smuggled healing tonics disguised as luxury scents. She merged art and chemistry into a single philosophy: fragrance as power.
+
+* **Lifestyle:** Playful chaos; her workshop smells divine but is always half-burnt.
+* **Income:** Atelier commission + personal orders + guild stipend.
+* **Relationships:** Best friends with Kaena Mistral; friendly rivalry with Liora Vaentis in “healing vs chemistry.”
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that joy and comfort are valid forms of healing. “If I can make someone smile or smell good while saving them, I’ve done my job.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her sense of smell; a potion exploding mid-market.
+* **Weaknesses:** Impulsive; vulnerable in melee.
+* **Strengths:** Inventive thinker, adaptable in chaos, charismatic.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นเพื่อน” tone — easy banter, teasing warmth, chemistry puns galore.
+
+> “You smell tense — want me to brew something for that?”
+> When flustered, she hides it by sniffing the air dramatically:
+> “No, I’m not blushing! That’s just… steam from my beaker!”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her signature elixir “Silver Bloom” uses Echo-charged petals — potentially addictive.
+* **Hooks:**
+
+  1. **The Fractured Formula:** Retrieve stolen Silver Bloom before it spreads through the markets.
+  2. **Scent of the Lost:** Help her distill a memory from the perfume of a missing friend.
+  3. **Burning the Atelier:** Contain a runaway elemental in her lab before it consumes the entire street.
+
+## Tags: #Female #PeerType #Human #Artificer3 #Alchemist #Valeronnes #CR1 #Adventurer #Alchemist #Inventor
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Loves **flustering others through direct compliments**, like:
+
+> “You’d make a great test subject… I mean assistant!”
+> Often laughs mid-sentence and bumps shoulders playfully.
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800** (to reach Level 4)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** light crossbow (repeating), alchemist’s flask set
+  * **Tools:** alchemist’s supplies, tinkerer’s kit
+  * **Consumables:** 3× experimental elixirs (random), 2× healing potions
+  * **Misc:** recipe journal, vial rack, broken glass charm (good luck)
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 18) *or* **Keen Mind**
+  * **Infusion Expansion:** +1 item, “Spell-Refining Gauntlets”
+  * **Spell Pick:** *Web* or *Mirror Image*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Mistweave Atelier, Market Quarter**
+* **Threat Gradient:** **Wavering (Echo reaction instability)**
+* **Encounter Type:** **Laboratory Mishap**, **Potion Chase**, **Chemical Duel**
+* **Affiliation:** **Valeronnes Guild of Resonant Sciences — Journeyman Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female human alchemist, 165cm, wavy ash brown hair with rose-gold highlights, warm brown eyes, playful smile, white and blue outfit, potion belt, glass vials glowing pastel colors, laboratory background, dynamic pose, fragrance mist atmosphere

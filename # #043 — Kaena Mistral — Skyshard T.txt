@@ -1,0 +1,192 @@
+# #043 — **Kaena Mistral** — *Skyshard Tomboy of the Verdant Coast*
+
+> “The wind doesn’t ask permission. Neither do I.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 043
+* **Gender (weighted random):** Female (Type: Tomboy — athletic, confident, lightly mischievous; subtype: ห้าวกล้ามเนื้อแบบหญิงออกกำลังกาย)
+* **Age:** 23
+* **Race:** Half-Beast (Avian lineage — human-like 85%; faint feather pattern on shoulders; eyes reflect sunlight like eagle gold)
+* **Class & Level:** Fighter (Battle Master) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Adventurer, aerial courier, free-sky duelist
+* **Rank / Position:** **Skyblade Mercenary Captain**
+* **Organization:** **Verdant Coast Skyriders Guild**
+* **Symbol:** A broken wing forged into a blade
+* **Title:** *The Galeheart Duelist*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** Latin American–Nordic hybrid
+
+Kaena radiates restless energy — a smirk always ready to break into laughter. **Eyes:** bright amber-gold, cutting and fierce. **Skin:** light bronze with faint freckling along arms. Tiny down feathers trace her shoulders and spine like tattoos.
+
+**Hair (randomized):** **Short**, **windswept ash-blonde**, tousled pixie cut with uneven ends.
+
+**Height:** 172 cm
+**Weight:** 63 kg
+**Body Type:** Muscular athletic build; visible abs, toned arms, strong legs.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: B CATEGORY: Small  
+THREE_SIZES (B-W-H, cm): 84 – 65 – 90  
+VALIDATION: • W/B = 0.773 → OK • H/W = 1.38 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+A **small silver hoop earring** in left ear, **wing-feather pendant**, **stitched leather wristband**, and a **thin wind-etched anklet**.
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **short leather flight jacket** with sky-blue lining, a **strap-harness breastplate**, and **canvas pants** cut for movement, rolled up at the calves. **Boots** are flight-style, strapped and reinforced. The **fingerless gloves** bear faint arcane sigils of wind pressure.
+
+**Color Palette:** bronze / blue / silver / brown
+**Accents:** practical, airy, ruggedly stylish
+
+**Loadout:** twin scimitars, shortbow, light armor, grappling hook, windglider cape (foldable).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **17** (studded leather + DEX + defense style)
+* **Speed:** 35 ft; **Glide 40 ft** (limited avian trait)
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Athletics +4, Acrobatics +5, Perception +3, Survival +3, Intimidation +2
+* **Languages:** Common, Auran, Thalassaran Cant
+
+**Fighter (Battle Master) 3:**
+
+* **Fighting Style:** Two-Weapon Fighting
+* **Superiority Dice:** 4d8 (Maneuvers: Disarming Attack, Riposte, Precision Attack)
+* **Second Wind**, **Action Surge**
+
+**Attacks**
+
+* **Twin Scimitars:** +5 to hit, 1d6+3 slashing each
+* **Shortbow:** +5 to hit, 1d6+3 piercing, 80/320 ft
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Duelist**
+* **Tactics:** Darting rushes, flanking leaps, uses **Riposte** defensively; never stays still.
+* **Signature Opener:** Launch from elevated ground — twin scimitars drawn mid-spin.
+* **Finisher:** Precision Attack feint → twin cross cut leaving feather shimmer trail.
+* **Damage Flavor:** Wind-like slashes cause faint air distortion around the target.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Brave, cheeky, protective of the weak.
+* **Ideal:** Freedom — “Cages come in many shapes. None fit me.”
+* **Bond:** Her younger brother, grounded after an Echo accident.
+* **Flaw:** Overconfident; taunts when she should flee.
+* **Quirk:** Whistles while dodging blows — pitch changes with distance.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Verdant Coast — Gale Basin, Skyrider’s Point, Echo Cliffs**
+* **Threat Gradient:** **Stable → Wavering** (Echoes forming from high-altitude pressure pockets)
+* **Encounter Framing:** **Sky Duel**, **Airborne Escort**, **High-Cliff Skirmish**
+
+---
+
+## 📜 Background & Lifestyle
+
+Daughter of a retired storm-knight and an engineer; grew up fixing gliders and sparring with sky pirates. She joined the guild to protect air routes from Echo storms.
+
+* **Lifestyle:** Adventurous; loves taverns with sea views.
+* **Income:** Courier wages + bounty commissions.
+* **Relationships:** Drinking buddy with Riven Solthyr; competitive teasing with Myra Daeven.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes you can’t control the wind — only ride it long enough to make a difference.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Claustrophobic spaces; being grounded permanently.
+* **Weaknesses:** Reckless lunges; hates authority.
+* **Strengths:** Agility, courage, fast recovery from falls.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+“Tomboy” tone — bold, teasing, confident. She elbows you playfully: “You’re thinking too much. Just swing.”
+When someone flirts, she laughs, mock-punches their shoulder: “Careful. I hit back harder.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her glider’s enchantment core houses a fragment of her brother’s lost Echo.
+* **Hooks:**
+
+  1. **Echo Storm Courier:** Escort Kaena through a high-altitude route corrupted by sky Echoes.
+  2. **The Grounded Heart:** Help her find a way to reforge her brother’s Echo safely.
+  3. **The Skyrider’s Duel:** Challenge or assist her in an aerial tournament to settle a guild feud.
+
+## Tags: #Female #Tomboy #HalfBeast #AvianKin #Fighter3 #BattleMaster #VerdantCoast #CR1 #Adventurer #Duelist #Mercenary
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Enjoys **making others flustered** through physical proximity or teasing banter; laughs loud, never apologizes unless someone truly gets hurt.
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800** more (to reach Level 4)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** 2× scimitars, shortbow (20 arrows)
+  * **Armor:** studded leather flight jacket
+  * **Tools:** climbing kit, rope, glider harness
+  * **Consumables:** 2× stamina draughts, 1× healing potion
+  * **Misc:** guild badge, sky-route chart, windglider repair kit
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 18) *or* **Mobile** feat
+  * **New Maneuver:** Trip Attack (adds control options)
+  * **Item Goal:** acquire “Featherstep Boots” (movement synergy)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone Name:** **Verdant Coast — Gale Basin**
+* **Threat Gradient:** **Wavering**
+* **Encounter Framing:** **Aerial Duel**, **Courier Escort**, **Echo Storm Rescue**
+* **Affiliation:** **Skyriders Guild (Independent Mercenary Tier)**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Latin American Nordic female tomboy fighter, short ash-blonde pixie hair, amber eyes, tanned skin, 172cm height, muscular athletic build, leather flight jacket, twin scimitars, sky-blue windglider cape, confident grin, high-cliff battlefield backdrop

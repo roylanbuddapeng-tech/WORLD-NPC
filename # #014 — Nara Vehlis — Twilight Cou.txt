@@ -1,0 +1,161 @@
+# #014 — **Nara Vehlis** — *Twilight Courier of the Gossamer Paths*
+
+> “Every secret deserves a graceful delivery.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นน้อง)
+* **Age:** 19
+* **Race:** Half-Elf (Thalassaran-Valeronnes mix — human-like ~85 %, faint lilac shimmer in the eyes and a barely visible silver scale pattern under the neck)
+* **Class & Level:** Rogue (Arcane Trickster) 2 / Fighter (Dueling Style) 1 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Message-runner / smuggler / street scout
+* **Rank / Position:** **Twilight Courier**
+* **Organization:** **The Moon-Run Guild** (operating between Thalassara and Valeronnes)
+* **Symbol:** Two interlocking crescents forming an eye
+* **Title:** *The Silver Slipstream*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Japanese–French hybrid
+
+Nara carries a spark of mischief softened by charm. **Eyes:** violet with silver flecks. **Skin:** pale rose tone that catches moonlight like pearl. A faint birthmark resembling a crescent rests behind her left ear.
+
+**Hair (randomized):** **Short bob**, **silky lavender**, with **silver highlights**; styled with a small side clip shaped like a crescent feather.
+
+**Height:** 161 cm
+**Weight:** 49 kg
+**Body Type:** Slim, agile, delicate frame built for speed
+
+**FEMALE BODY METRICS**
+
+```
+CUP: B CATEGORY: Small  
+THREE_SIZES (B-W-H, cm): 80 – 60 – 84  
+VALIDATION: • W/B = 0.75 → OK • H/W = 1.4 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Silver moon ear cuff, tiny charm necklace with mini envelope pendant, thin wrist ribbon inscribed with runic coordinates, and anklet with twin bells used as decoy sound for stealth tactics.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **fitted dusk-purple courier jacket** with hidden inner pockets, **short pleated skirt**, and **black leggings** reinforced with spell-thread. She wears **soft leather boots** for silent movement and a **half-cloak** of gossamer mesh that blurs her outline when she runs.
+
+**Color Palette:** violet / silver / black / moon-white
+**Accents:** feather patterns, hidden runes, luminescent thread
+
+**Loadout:** rapier, throwing daggers (4), spell focus ring (Arcane Trickster), grappling hook wire, smoke vials (2).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 2d8 + 1d10 + (CON +1)×3 → **23 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 17 (+3)** **CON 12 (+1)** **INT 14 (+2)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, INT +4
+* **Skills:** Stealth +7, Acrobatics +5, Sleight of Hand +5, Perception +3, Investigation +4, Persuasion +3
+* **Languages:** Common, Elvish, Thalassaran Cant, Thieves’ Cant
+* **Equipment:** rapier, daggers, grappling wire, smoke vials, spell focus ring
+
+**Rogue (Arcane Trickster) 2:**
+
+* **Sneak Attack (1d6)**
+* **Mage Hand Legerdemain**
+* **Spellcasting (INT DC 12, +4 atk):** *Mage Hand, Minor Illusion, Charm Person, Silent Image*
+
+**Fighter 1:**
+
+* **Second Wind (1d10+1)**
+* **Dueling Fighting Style (+2 damage when single weapon)**
+
+**Attacks**
+
+* **Rapier:** +5 to hit, 1d8+5 piercing (+1d6 Sneak Attack)
+* **Throwing Dagger:** +5 to hit, 1d4+3 piercing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Infiltrator / Skirmisher**
+* **Tactics:** Opens with *Silent Image* as cover, darts through enemy lines with precision slashes, uses *Charm Person* as emergency escape.
+* **Signature Opener:** Leap from shadow → Rapier strike → roll into mist distraction.
+* **Finisher:** Toss smoke vial → last word in whisper → vanish.
+* **Damage Flavor:** Each cut emits a trail of moonlit dust.
+
+---
+
+## 💬 Personality (Randomized — Courier weights)**
+
+* **Traits:** Cheerful, curious, mildly clumsy when relaxed.
+* **Ideal:** Freedom — “Messages are meant to move; so am I.”
+* **Bond:** Owes Amira Kaenthis for saving her from a failed smuggle job.
+* **Flaw:** Tends to trust flattery too easily.
+* **Quirk:** Leaves folded paper cranes with cryptic notes wherever she goes.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara–Valeronnes border, Gossamer Paths**
+* **Threat Gradient:** **Wavering → Echo Zone** (nighttime distortions)
+* **Encounter Framing:** **Courier Run Escort**, **Heist Diversion**, **Rooftop Chase**
+
+---
+
+## 📜 Background & Lifestyle**
+
+* **Background:** Street-born messenger who found purpose in speed and secrecy. Trained under the Moon-Run Guild to navigate Echo-warped routes.
+* **Lifestyle:** Sleeps in rooftop hideouts; collects trinkets from cities she visits.
+* **Income:** Courier fees + hazard pay for Echo zones.
+* **Relationships:** Treats Amira Kaenthis as a big sister; frequently runs letters for Celin Vareth.
+
+---
+
+## 🧩 Morals & Ethics**
+
+Believes that even secrets deserve safe delivery. Breaks rules for compassion, not profit.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths**
+
+* **Fears:** Getting caught between echo zones and losing her way.
+* **Weaknesses:** Soft-hearted; can’t ignore a cry for help.
+* **Strengths:** Quick, clever, resourceful under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นน้อง” tone — earnest and adorable. Tugs on a senior’s sleeve with a grin: “Senpai… don’t be mad if I ran ahead, okay?” Often blushes when praised, tries to hide smile behind letters she’s carrying.
+
+---
+
+## 🤫 Secrets & Plot Hooks**
+
+* **Secret:** One of her letters contains a coded Severance rune meant for an unknown recipient.
+* **Hooks:**
+
+  1. **Echo Delivery:** Escort Nara through a shifting Echo corridor before it collapses.
+  2. **Lost Letter:** Find a stolen message that reveals a Severance infiltration.
+  3. **Paper Cranes:** Her folded notes form a map to an underground Thieves’ guild.
+
+## Tags: #Female #YoungerSister #HalfElf #Rogue2 #Fighter1 #Courier #Thalassara #CR1 #Adventurer #GossamerPaths
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese French half-elf female rogue courier, short lavender hair with silver highlights, violet eyes, purple jacket, rapier, gossamer cloak, moonlight street, cute smile, swift motion

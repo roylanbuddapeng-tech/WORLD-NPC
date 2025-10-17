@@ -1,0 +1,169 @@
+#017 — Kaela Myrren — Skyflare Courier of the Sunspire Reach
+
+“The wind remembers every promise, even the broken ones.”
+
+🜏 General Information
+
+Gender (weighted random): Female (Type: Tomboy — Type 1: girlish and short-haired)
+
+Age: 22
+
+Race: Beast-kin (Falcon-kin — human-like ~85%, with sleek wing-marks along forearms, small feather crest behind ears, and golden avian eyes)
+
+Class & Level: Ranger (Horizon Walker) 3 — Total 3
+
+Challenge Rating (approx): CR 1
+
+Alignment: Chaotic Good
+
+Profession: Sky courier, aerial scout, and glider engineer
+
+Rank / Position: Wind Runner of the Sunspire Couriers’ Guild
+
+Organization: Valeronnes Skyreach Division
+
+Symbol: A spiral of feathers forming a rising sun
+
+Title: The Winged Spark
+
+🪞 Appearance (in English)
+
+Ethnic Theme: Vietnamese–Greek hybrid
+
+Kaela moves with restless energy. Eyes: amber-gold with slitted irises that narrow like a falcon’s in sunlight. Skin: honey-tan kissed by wind and heat. Expression: playful smirk always ready to take flight.
+
+Hair (randomized): Short, wavy chestnut-brown tipped with gold streaks; cropped just above the nape, stray bangs brushing her brow.
+
+Height: 168 cm
+Weight: 55 kg
+Body Type: Slim, wiry musculature; runner’s legs and flexible shoulders
+
+FEMALE BODY METRICS
+
+CUP: C CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 86 – 63 – 91  
+VALIDATION: • W/B = 0.732 → OK • H/W = 1.44 → OK  
+
+
+Jewelry & Accessories (randomized):
+Small sky-steel ear clips, feather pendant necklace, aviator band goggles perched on her head, wind-thread bracelet, and a thin ankle ribbon bearing her courier crest.
+
+👗 Outfit (in English)
+
+A lightweight amber flight jacket reinforced at the shoulders for wing motion, charcoal pants strapped with utility belts, and mid-calf boots fitted with glider hooks. A white scarf flutters like a tail in flight.
+
+Color Palette: amber / brown / white / gold
+Accents: wind motifs, brass buckles, courier gear aesthetic
+
+Loadout: shortbow, twin daggers, collapsible glider frame, message capsule harness, and compass charm.
+
+⚔️ Mechanics (D&D 5e RAW)**
+
+HP: 3d10 + (CON +2)×3 → 29 HP
+
+AC: 16 (studded leather + DEX)
+
+Speed: 35 ft; Glide 40 ft (falcon-kin trait)
+
+STR 12 (+1) DEX 17 (+3) CON 14 (+2) INT 10 (+0) WIS 15 (+2) CHA 11 (+0)
+
+Proficiency Bonus: +2
+
+Saving Throws: STR +3, DEX +5
+
+Skills: Acrobatics +5, Perception +6, Survival +4, Stealth +5, Insight +4
+
+Languages: Common, Auran, Elvish, Valeron Trade Cant
+
+Equipment: shortbow, daggers, courier harness, glider kit
+
+Ranger (Horizon Walker) 3:
+
+Favored Enemy: Aberrations (Echo-spawn)
+
+Natural Explorer: Mountain & Sky Routes
+
+Detect Portal, Planar Warrior (1d8 force)
+
+Spellcasting (WIS DC 13, +5 attack): Hunter’s Mark, Zephyr Strike, Detect Magic, Protection from Evil and Good
+
+Attacks
+
+Shortbow: +5 to hit, 1d6+3 piercing (+1d8 force once/turn via Planar Warrior)
+
+Dagger: +5 to hit, 1d4+3 piercing
+
+🎯 Combat Tactics (Randomized)**
+
+Role: Mobile Striker / Scout
+
+Tactics: Keeps altitude advantage, dives with Zephyr Strike, and vanishes into blind spots. Uses Planar Warrior to punch through resistances.
+
+Signature Opener: Leap from glider → arrow mid-air → landing roll into melee.
+
+Finisher: Dive-kick followed by dual dagger cross-slash.
+
+Damage Flavor: Each hit trails feather-like golden sparks that fade in seconds.
+
+💬 Personality (Randomized — Valeronnes sky courier weights)**
+
+Traits: Adventurous, daring, lightly flirtatious.
+
+Ideal: Freedom — “Wind shouldn’t need permission to move.”
+
+Bond: Deep loyalty to her courier squadron; never leaves a partner mid-route.
+
+Flaw: Overconfident; sometimes treats danger as a sport.
+
+Quirk: Chirps softly when amused—half laugh, half birdlike trill.
+
+🧭 Common Locations (Randomized)**
+
+Kingdom/Zone: Valeronnes — Sunspire Reach, Skycourier Docks
+
+Threat Gradient: Wavering → Echo Zone (air anomalies, corrupted thermals)
+
+Encounter Framing: Aerial Rescue, Sky Duel, Courier Race through an Echo Storm
+
+📜 Background & Lifestyle
+
+Background: Born to a family of glider craftsmen; learned both mechanics and wind magic early. Became the youngest to cross the Cloud Gate unassisted.
+
+Lifestyle: Restless; lives in the guild lofts, always one job away from vanishing.
+
+Income: Courier fees + salvage commissions.
+
+Relationships: Friendly rivalry with Mirei Tashira; mentorship bond with Saori Kitsurana.
+
+🧩 Morals & Ethics
+
+Believes that every promise sealed in flight must be kept, even if it costs her wings.
+
+😨 Fears / Weaknesses / Strengths
+
+Fears: Enclosed spaces—hates caves and tight tunnels.
+
+Weaknesses: Reckless dives; ignores injury for pride.
+
+Strengths: Extreme mobility, awareness, precision shooting mid-motion.
+
+💞 Interactions (Behavioral Style)
+
+“Tomboy Type 1” — lively and teasing with a spark of youthful pride. Flicks her scarf and grins: “Race you to the next ridge—loser buys dinner.” When caught off-guard by praise, her feathers puff faintly before she hides behind bravado.
+
+🤫 Secrets & Plot Hooks
+
+Secret: Possesses a hidden Echo compass that points not north but toward planar fractures—she doesn’t know its full origin.
+
+Hooks:
+
+Wings of the Lost Wind: Aid Kaela in retrieving a stolen guild glider prototype.
+
+Skyfire Duel: Defend the Sunspire during an aerial Severance assault.
+
+Echo Compass: Trace the compass reading into a storm that screams like a dying bird.
+
+Tags: #Female #TomboyType1 #BeastKin #FalconKin #Ranger3 #Valeronnes #SkyCourier #CR1 #Adventurer #SunspireReach
+🎨 Image Gen Key (EN)
+
+Vietnamese Greek falcon-kin female ranger, short chestnut hair with gold tips, amber eyes, feather marks, light flight jacket, white scarf, glider, golden sky, playful smile

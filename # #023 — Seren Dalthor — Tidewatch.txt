@@ -1,0 +1,156 @@
+# #023 — **Seren Dalthor** — *Tidewatch Alchemist of the Whispering Bay*
+
+> “A drop of calm can turn a storm into a mirror.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นพี่)
+* **Age:** 30
+* **Race:** Human
+* **Class & Level:** Artificer (Alchemist) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Good
+* **Profession:** Alchemist, potion researcher, maritime medic
+* **Rank / Position:** **Senior Tidewatch Alchemist**
+* **Organization:** **Thalassara Research Guild — Alchemic Branch**
+* **Symbol:** A vial etched with a wave sigil and crescent stopper
+* **Title:** *The Bay’s Healer*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Korean–Mediterranean hybrid
+
+Seren carries herself with quiet intellect and mature charm. **Eyes:** deep sea-gray, calm and analytic. **Skin:** ivory with light tan undertones from hours of coastal sun. She wears her confidence like perfume—subtle but unmistakable.
+
+**Hair (randomized):** **Long**, **straight chestnut-brown**, tied in a **loose braid** with strands of blue thread woven through, giving a nautical feel.
+
+**Height:** 172 cm
+**Weight:** 59 kg
+**Body Type:** Slender with soft curves and confident posture
+
+**FEMALE BODY METRICS**
+
+```
+CUP: H CATEGORY: Very Large  
+THREE_SIZES (B-W-H, cm): 105 – 76 – 108  
+VALIDATION: • W/B = 0.724 → OK • H/W = 1.42 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Small **lapis-stone earrings**, a **copper lens monocle**, **brass bangles** inscribed with formulae, and a **thin anklet** of linked vials (empty).
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **cream-white blouse** beneath a **navy alchemist’s coat** trimmed with gold thread, **high-waisted leather pants**, and **knee-high boots** resistant to chemical damage. A **tool belt** carries potions in color-coded glass and a **small shoulder satchel** filled with notes and ingredients.
+
+**Color Palette:** cream / navy / copper / gold
+**Accents:** utilitarian elegance, precise tailoring
+
+**Loadout:** alchemist’s supplies, infused vials, healing draughts, acid splash grenades, potion sprayer gauntlet.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **15** (leather coat + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 13 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, INT +5
+* **Skills:** Arcana +5, Medicine +3, Investigation +5, Insight +3, Persuasion +4
+* **Languages:** Common, Elvish, Thalassaran Cant, Draconic
+
+**Artificer (Alchemist) 3:**
+
+* **Infuse Item (2 active infusions)**
+* **Experimental Elixir (3/day)** — choose from *Healing, Boldness, Flight, Transformation*
+* **Spellcasting (INT DC 13, +5 attack):** *Cure Wounds, Faerie Fire, Grease, Healing Word, Ray of Sickness*
+* **Cantrips:** *Mending, Acid Splash*
+
+**Attacks**
+
+* **Alchemical Blast:** +5 to hit, 1d8+3 acid/fire
+* **Light Crossbow:** +4 to hit, 1d8+2 piercing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Support / Control Alchemist**
+* **Tactics:** Begins with *Faerie Fire* for visibility, tosses acid splash for pressure, and uses **Experimental Elixir (Healing)** as her signature aid.
+* **Signature Opener:** Pulls a vial from her belt and mutters, “Try not to breathe this in.”
+* **Finisher:** *Grease* under enemy feet → **Flask detonation** ignited by flame vial.
+* **Damage Flavor:** Explosions burst into swirling seafoam light.
+
+---
+
+## 💬 Personality (Randomized — Thalassara scholar tone)**
+
+* **Traits:** Intelligent, nurturing, assertively calm.
+* **Ideal:** Knowledge — “Understanding is mercy.”
+* **Bond:** Her apprentices and lab assistants.
+* **Flaw:** Overworks to the point of exhaustion.
+* **Quirk:** Talks to her vials as if they were colleagues (“Behave, Blue-7”).
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Whispering Bay, Alchemic Wharf**
+* **Threat Gradient:** **Stable → Wavering** (chemical Echo contamination)
+* **Encounter Framing:** **Lab Defense**, **Medical Emergency**, **Bay Fire Outbreak**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Former battlefield medic turned researcher. Her experiments saved hundreds from Echo sickness during the Canal Purges.
+* **Lifestyle:** Maintains a seaside home cluttered with notes and plants.
+* **Income:** Guild salary + private potion commissions.
+* **Relationships:** Mentor to Lunara Kelthis; friendly debates with Rheia Corven.
+
+---
+
+## 🧩 Morals & Ethics
+
+Sees science as divine order; faith without inquiry is blindness, inquiry without care is cruelty.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Her formulas causing harm through misuse.
+* **Weaknesses:** Fragile in close combat.
+* **Strengths:** Quick-thinking under pressure, unmatched in support elixirs.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นพี่” tone — composed and warm. She wipes a smudge from your cheek with her thumb and says softly, “You’ll ruin the reaction if you shake like that.” When flustered, she overcorrects into lecture mode, rambling chemistry to hide her blush.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a banned Echo-reactive formula hidden in her personal logbook—rumored to create “living potions.”
+* **Hooks:**
+
+  1. **Bay Fire:** Assist Seren in neutralizing a chain reaction spreading across the Wharf.
+  2. **Living Brew:** Help her track stolen elixirs that are mutating in a thief’s body.
+  3. **The Tide’s Memory:** Retrieve ingredients from a submerged Echo vault.
+
+## Tags: #Female #OlderSister #Human #Artificer3 #Alchemist #Thalassara #CR1 #Adventurer #Support #Scholar
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Mediterranean human female alchemist, long chestnut hair in braid with blue thread, sea-gray eyes, navy coat, vials, brass tools, seaside lab, calm mature smile

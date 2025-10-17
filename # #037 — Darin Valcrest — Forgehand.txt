@@ -1,0 +1,148 @@
+# #037 — **Darin Valcrest** — *Forgehand Initiate of the Ember Crucible*
+
+> “A hammer’s worth isn’t in the strike — it’s in what you choose not to break.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Male (Type: วัยกลางคน — patient, gruff, dependable)
+* **Age:** 41
+* **Race:** Human
+* **Class & Level:** Artificer (Battle Smith) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Neutral
+* **Profession:** Blacksmith, artificer-for-hire, defensive tactician
+* **Rank / Position:** **Forgehand Initiate of the Ember Crucible**
+* **Organization:** **Skarnov Artificer Guild**
+* **Symbol:** A hammer crossed with a radiant anvil
+* **Title:** *The Ember Warden*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Western European — English–Germanic mix
+
+Darin looks like the sort of man who’s spent decades in the forge and learned to smile through soot. **Eyes:** deep brown with gold flecks, steady and thoughtful. **Skin:** bronze-tanned from firelight and steel heat. His hands are calloused, but his movements are deliberate and careful.
+
+**Hair (randomized):** **Short**, **wavy dark brown**, streaked with gray at the temples, slightly messy from long hours of work.
+
+**Height:** 182 cm
+**Weight:** 89 kg
+**Body Build:** Broad, muscular, forge-hardened; thick forearms and square shoulders, posture steady as a mountain.
+
+**Jewelry & Accessories (randomized):**
+A **steel chain necklace** with a gear pendant, **black leather wrist guard**, and a **bronze signet ring** from his guild master.
+
+---
+
+## 👗 **Outfit (in English)**
+
+He wears a **dark leather apron** over a **forged-steel chest harness**, with sleeves rolled to the elbows showing scars and burn lines. His trousers are reinforced canvas, tucked into soot-stained boots. When in combat, he dons a **rune-forged gauntlet** connected by cables to a **small steel defender automaton** at his side.
+
+**Color Palette:** iron gray / bronze / black / ember red
+**Accents:** practical gear, glowing sigil etchings, faint steam aura
+
+**Loadout:** blacksmith hammer (imbued weapon), steel defender, alchemical toolkit, shield harness.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +3)×3 → **30 HP**
+* **AC:** **18** (chain shirt + shield + Defensive Field)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 16 (+3)** **INT 15 (+2)** **WIS 11 (+0)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +5, INT +4
+* **Skills:** Arcana +4, Investigation +4, Athletics +5, History +4, Perception +2
+* **Languages:** Common, Dwarvish, Draconic
+
+**Artificer (Battle Smith) 3:**
+
+* **Steel Defender (AC 15, HP 15)**, **Arcane Jolt (2d6 heal or dmg)**, **Defensive Field (3 temp HP)**
+* **Spellcasting (INT DC 12, +4 attack)**
+* **Spells Known (4):** *Cure Wounds, Shield, Faerie Fire, Branding Smite*
+* **Cantrips:** *Mending, Guidance*
+
+**Attacks**
+
+* **Forgehammer (magic weapon):** +5 to hit, 1d8+3 bludgeoning
+* **Defender Reaction:** 1d8 force damage on hit vs target
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Tank / Support / Pet Master**
+* **Tactics:** Keeps allies between him and his Defender; uses *Shield* and *Arcane Jolt* to protect the wounded.
+* **Signature Opener:** Smacks hammer on shield, echoing a metallic roar.
+* **Finisher:** Slams the ground — Defender channels radiant shockwave (flavored *Branding Smite*).
+* **Damage Flavor:** Hammer impacts glow with molten cracks before cooling instantly.
+
+---
+
+## 💬 Personality (Randomized — Skarnov craftsman tone)**
+
+* **Traits:** Steady, blunt, warm-hearted beneath gruff exterior.
+* **Ideal:** Craftsmanship — “Good work saves lives longer than good words.”
+* **Bond:** His Steel Defender “Cinder” — treats it like a child.
+* **Flaw:** Refuses help; insists on fixing everything alone.
+* **Quirk:** Talks to his tools as if they’re coworkers.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Skarnov — Ember Crucible, Forge District, Iron Vein Corridors**
+* **Threat Gradient:** **Stable → Wavering** (Echo leaks through molten vents)
+* **Encounter Framing:** **Forge Defense**, **Artifice Experiment**, **Tunnel Collapse Rescue**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Once a frontline engineer in Valeronnes; after losing comrades to an Echo implosion, he swore to build defenses that never fail.
+* **Lifestyle:** Minimalist; sleeps in his forge workshop, eats while working.
+* **Income:** Guild contract pay + custom weapon commissions.
+* **Relationships:** Mentor to young artificers; drinking partner with Rhea Kaenth.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes redemption is forged through labor. If you can build something that helps others, you have already atoned.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of his creations.
+* **Weaknesses:** Emotionally closed, guilt-ridden perfectionist.
+* **Strengths:** Tactical defense, unwavering endurance, loyalty.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“วัยกลางคน” tone — fatherly warmth under a rough shell. He rumbles: “Don’t worry, kid. If it breaks, I’ll fix it. If you break, I’ll fix that too.” When flustered, he coughs, mutters about “dust in the forge,” and hides behind his anvil.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His Steel Defender core houses the soul of his fallen brother — a forbidden experiment he never reported.
+* **Hooks:**
+
+  1. **Ashes of the Maker:** Help Darin restore Cinder’s unstable soul-core before it melts down.
+  2. **Echo Forged:** Investigate the Ember Crucible where the Echo first entered his forge.
+  3. **Steel Remorse:** Aid him in facing the guild tribunal when his secret is exposed.
+
+## Tags: #Male #MiddleAged #Human #Artificer3 #BattleSmith #Skarnov #CR1 #Adventurer #Engineer #TankSupport
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Western European human male artificer, short wavy dark brown hair with gray streaks, brown eyes, muscular build, 182cm, forge apron and armor harness, glowing hammer, bronze light, small steel automaton beside him, warm but stern expression

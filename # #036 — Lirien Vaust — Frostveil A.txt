@@ -1,0 +1,156 @@
+# #036 — **Lirien Vaust** — *Frostveil Acolyte of the Glass Sanctuary*
+
+> “The world is fragile, like ice. We walk gently, or we break it.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นน้อง — innocent, eager to please, quietly brave)
+* **Age:** 19
+* **Race:** Elf (Frost Elf lineage — pale-blue undertone to skin, crystalline pupils that reflect light)
+* **Class & Level:** Cleric (Domain of Twilight) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Good
+* **Profession:** Novice healer, shrine guardian apprentice
+* **Rank / Position:** **Junior Acolyte of the Glass Sanctuary**
+* **Organization:** **Order of the Veiled Dawn**
+* **Symbol:** A crescent moon cupping a shard of ice
+* **Title:** *The Frostveil Acolyte*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Japanese–Nordic hybrid
+
+Lirien glows with a fragile, ethereal beauty — the soft calm before snow. **Eyes:** pale silver-blue, reflecting light like glass. **Skin:** porcelain-pale with a faint blue hue along her collarbone and fingertips. When she smiles, it’s shy and luminous, like sunlight through frost.
+
+**Hair (randomized):** **Long**, **straight white-blond**, loose with two small side braids tied behind her ears.
+
+**Height:** 162 cm
+**Weight:** 50 kg
+**Body Type:** Slim, gentle curves; modest but graceful form.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 86 – 64 – 90  
+VALIDATION: • W/B = 0.744 → OK • H/W = 1.41 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+A **thin silver circlet** with a blue gem at center, **frosted crystal earrings**, and a **woven charm bracelet** made by her mentor.
+
+---
+
+## 👗 **Outfit (in English)**
+
+She wears a **pale-blue priestess robe** lined with white fur and silver threads that shimmer faintly when she channels magic. A **short overcloak** of translucent cloth flows behind her like mist. Around her waist is a **woven sash** holding a holy charm and a tiny snowflake brooch.
+
+**Color Palette:** white / silver / pale blue / icy gray
+**Accents:** crystalline threads, frostlight embroidery, flowing soft fabrics
+
+**Loadout:** holy symbol (crescent shard), healing staff, prayer beads, snow charm.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **16** (chain shirt + WIS + shield)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 12 (+1)** **CON 12 (+1)** **INT 11 (+0)** **WIS 16 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Insight +5, Medicine +5, Religion +2, Persuasion +4
+* **Languages:** Common, Elvish, Celestial
+
+**Cleric (Twilight Domain) 3:**
+
+* **Channel Divinity (Twilight Sanctuary, Vigilant Blessing)**
+* **Spellcasting (WIS DC 13, +5 attack)**
+* **Prepared Spells (8):** *Cure Wounds, Sanctuary, Guiding Bolt, Aid, Sleep, Moonbeam, Shield of Faith, Bless*
+* **Cantrips:** *Light, Sacred Flame, Thaumaturgy*
+
+**Attacks**
+
+* **Staff:** +2 to hit, 1d6 bludgeoning
+* **Sacred Flame:** DC 13, 1d8 radiant
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Healer / Support Caster**
+* **Tactics:** Opens with *Bless* or *Shield of Faith*, maintains *Twilight Sanctuary* to keep allies alive. Uses *Moonbeam* for radiant area control.
+* **Signature Opener:** “By moonlight, we endure.”
+* **Finisher:** Casts *Moonbeam* as falling frost — silent but devastating.
+* **Damage Flavor:** Radiant light flickers like snow swirling in starlight.
+
+---
+
+## 💬 Personality (Randomized — gentle novice tone)**
+
+* **Traits:** Kind, humble, optimistic.
+* **Ideal:** Compassion — “No soul is too dim to shine again.”
+* **Bond:** Deeply respects her mentor, High Priestess Isola.
+* **Flaw:** Freezes in panic when someone screams in pain.
+* **Quirk:** Hums lullabies when nervous; hands always slightly cold.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Glass Sanctuary, Crystal Garden, Frost Mirror Shrine**
+* **Threat Gradient:** **Stable → Echo Zone** (ice fracturing from resonant magic)
+* **Encounter Framing:** **Sanctuary Defense**, **Pilgrim Escort**, **Echo-Cleansing Ritual**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Found as a child wandering an avalanche field, raised by the Frostveil monks. She was taught that peace is an act of courage.
+* **Lifestyle:** Simple and pious; prays every dawn, brews tea every dusk.
+* **Income:** Temple allowance.
+* **Relationships:** Respected by Eryndor Lethis (he visits her shrine for silence); sees Selis Arvane as “too sparkly to trust.”
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes mercy is not weakness but endurance in the face of cruelty.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Darkness and sudden loud noise — remnants of childhood trauma.
+* **Weaknesses:** Overextends healing magic for others.
+* **Strengths:** Radiant resilience, spiritual calm, empathy.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นน้อง” tone — sweet, shy, earnest. She bows slightly, voice soft: “I-I’ll do my best… please don’t get hurt, okay?” When praised, she flusters, clutching her staff and whispering, “You really shouldn’t say things like that…”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her blood carries a dormant Echo fragment — her dreams sometimes show glimpses of the future.
+* **Hooks:**
+
+  1. **Frozen Dream:** Help Lirien interpret her prophetic nightmares before they come true.
+  2. **Sanctuary Shatter:** Defend the Glass Sanctuary from a resonance storm.
+  3. **Light Beneath Ice:** Retrieve an ancient relic that glows beneath the frozen lake near her shrine.
+
+## Tags: #Female #JuniorType #Elf #Cleric3 #TwilightDomain #Thalassara #CR1 #Adventurer #Healer #Acolyte
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Nordic frost elf female cleric, long straight white-blond hair, pale blue eyes, height 162cm, gentle face, pale-blue robe, silver circlet, radiant frost magic, snowlight aura, shy expression, serene temple background

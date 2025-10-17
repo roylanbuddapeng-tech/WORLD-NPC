@@ -1,0 +1,160 @@
+# #015 — **Saori Kitsurana** — *Greenbough Guardian of the Sunlit Arbors*
+
+> “Stand behind me. Breathe. Then we move as one.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นพี่)
+* **Age:** 27
+* **Race:** Beast-kin (Fox-kin — human-like ~85% with velvet fox ears and a slim russet tail; amber slit-pupils)
+* **Class & Level:** Paladin (Oath of the Ancients) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Good
+* **Profession:** Road warden, shrine guardian, escort captain for pilgrims
+* **Rank / Position:** **Greenbough Guardian**
+* **Organization:** **Valeronnes Pathguard — Sunlit Arbors Detachment**
+* **Symbol:** A leafed sun encircling a fox’s tail
+* **Title:** *The Warm Shield*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Japanese–Greek hybrid
+
+Saori’s warmth is immediate: **amber eyes** bright as autumn tea, **skin** fair with a soft golden undertone, and a relaxed warrior’s smile. **Fox ears** crown her head with velvet russet fur; a **slim tail** sways with restrained discipline.
+
+**Hair (randomized):** **Short feminine**, **wavy russet-auburn** with **sunlit copper highlights**; tousled side-part, a small braid tucked behind the left ear with a leaf-charm pin.
+
+**Height:** 170 cm
+**Weight:** 60 kg
+**Body Type:** Athletic hourglass; strong back and sword-callused hands
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 94 – 70 – 102
+VALIDATION: • W/B = 0.745 → OK   • H/W = 1.46 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+A **brushed-bronze circlet** etched with vine runes under her bangs; **leaf-drop earrings**; a **sun-disc pendant** (holy symbol) at her throat; a **leather data-band** inscribed with patrol routes; and a **thin ankle chain** with a tiny bell she mutes during stealth.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **forest-green brigandine** under a **sun-white tabard** bearing the leafed sun; **brown leather bracers** tooled with scrolling vines; **travel skirt-plates** over fitted greaves; and a **half-cloak** moss-green on one side, sun-gold lining beneath.
+
+**Color Palette:** forest green / sun-white / bronze / moss
+**Accents:** leaf filigree, braided leather ties, soft fox-fur trim at collar
+
+**Loadout:** **longsword**, **shield** (sun-leaf emblem), **javelins (3)**, **herbal kit**, **pilgrim’s cord** for quick bindings, and a small **oathbook** of ancient verses.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **27 HP**
+* **AC:** **19** (chain mail 16 + shield 2 + Defense style +1)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Athletics +5, Insight +3, Persuasion +5, Perception +3, Animal Handling +3
+* **Languages:** Common, Elvish, Sylvan
+* **Equipment:** chain mail, shield, longsword, javelins, holy symbol pendant, healer’s herbs, oathbook
+
+**Paladin 3 (Oath of the Ancients):**
+
+* **Divine Sense, Lay on Hands (15 HP pool)**
+* **Fighting Style:** Defense (+1 AC)
+* **Divine Smite** (2d8+ vs fiend/undead +1d8)
+* **Channel Divinity (1/rest):** *Nature’s Wrath*, *Turn the Faithless*
+* **Oath Spells:** *Ensnaring Strike, Speak with Animals*
+* **Spellcasting (CHA DC 14, +5 attack):** *Bless, Cure Wounds, Searing Smite, Protection from Evil and Good*
+
+**Attacks**
+
+* **Longsword:** +5 to hit, 1d8+3 slashing (1d10+3 two-handed)
+* **Javelin (30/120):** +5 to hit, 1d6+3 piercing
+* **Divine Smite:** add 2d8 radiant on hit (higher with slots)
+
+---
+
+## 🎯 Combat Tactics (Randomized)
+
+* **Role:** **Frontline Defender / Support**
+* **Tactics:** Opens with **Bless**; intercepts threats with shield and **Nature’s Wrath** to restrain. Uses **Divine Smite** to end priority targets. Keeps allies within Lay on Hands reach.
+* **Signature Opener:** Shield step → **Ensnaring Strike** → guiding shove to create a safe lane.
+* **Finisher:** **Searing Smite** burst followed by decisive longsword cut.
+* **Damage Flavor:** Hits bloom with **green-gold motes** like sunbeams through leaves.
+
+---
+
+## 💬 Personality (Randomized — Valeronnes wardens)
+
+* **Traits:** Warm, composed, a bit teasing; radiates steady reliability.
+* **Ideal:** Stewardship — “Strength is for shelter first, victory second.”
+* **Bond:** Keeps oaths to protect the **Arbors’ pilgrim children** on festival days.
+* **Flaw:** Overprotective; takes risks to shield others.
+* **Quirk:** Tail swishes in a precise three-beat when she’s planning.
+
+---
+
+## 🧭 Common Locations (Randomized)
+
+* **Kingdom/Zone:** **Valeronnes — Sunlit Arbors, Greenbough Roads**
+* **Threat Gradient:** **Stable → Wavering** (festival crowds; Echo lures in canopies)
+* **Encounter Framing:** **Pilgrim Escort**, **Shrine Defense**, **Ambush at the Arbor Bridge**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Raised by roadside shrine keepers; trained by a retired Ancients knight. Learned to read **wind in leaves** as warnings of Echo stirrings.
+* **Lifestyle:** Spartan tidy; rises before dawn to drill. Keeps a garden patch at the barracks.
+* **Income:** Pathguard pay + festival hazard bonuses.
+* **Relationships:** Big-sister rapport with Neris and Nara couriers; respects Celin’s restraint.
+
+---
+
+## 🧩 Morals & Ethics
+
+Mercy is the first law; force is its shield. She’d rather break a blade than a promise.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing to intercept harm aimed at children or novices.
+* **Weaknesses:** Self-sacrificing to a fault; limited ranged presence.
+* **Strengths:** Durable frontline, strong auras/buffs, battlefield control via restraint.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+“รุ่นพี่” tone — steady, gently teasing. She taps your shoulder guard into proper alignment: “There. Breathe with me—one, two… good.” Compliments are warm and close; if flustered, her ears flick and she clears her throat before resuming the mentor act.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her sun-disc pendant holds a sealed **seed-spirit**; once invoked, it summons living vines at the cost of her vitality.
+* **Hooks:**
+
+  1. **Leaves of Oath:** Guard a children’s parade when Echo sprites try to snatch the banner.
+  2. **The Fox’s Bell:** Recover her muted ankle bell stolen by Severance scouts to track patrol routes.
+  3. **Bridge at Greenbough:** Hold a narrow bridge while pilgrims evacuate under Echo rain.
+
+## Tags: #Female #OlderSister #BeastKin #Paladin3 #Ancients #Valeronnes #Frontline #CR1 #Adventurer #SunlitArbors
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Greek fox-kin paladin, short wavy auburn hair, amber eyes, fox ears and tail, green brigandine, white tabard, shield, longsword, sunlit forest, warm mentor smile

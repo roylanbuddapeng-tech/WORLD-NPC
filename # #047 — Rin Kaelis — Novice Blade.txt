@@ -1,0 +1,196 @@
+# #047 — **Rin Kaelis** — *Novice Blade Dancer of the Azure Bloom Monastery*
+
+> “I don’t fight to win — I dance to stay alive.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 047
+* **Gender (weighted random):** Female (Type: รุ่นน้อง — bright, eager, impulsive, seeks approval with pure sincerity)
+* **Age:** 19
+* **Race:** Half-Elf (Thalassaran lineage — 85% human appearance; faint silver freckles at cheekbones and a bluish hue in irises)
+* **Class & Level:** Monk (Way of Shadow) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Acrobat trainee, courier, light-foot scout
+* **Rank / Position:** **Junior Blade Dancer**
+* **Organization:** **Azure Bloom Monastery of Thalassara**
+* **Symbol:** A folded lotus shimmering over a crescent blade
+* **Title:** *The Silver Step*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Korean–Japanese visual tone
+Her facial features echo *K-pop idol charm mixed with fantasy grace*, reminiscent of Suzy Bae or Aespa’s Karina if they were temple warriors.
+
+**Eyes:** soft sapphire-gray, large and expressive with gentle lashes.
+**Skin:** smooth ivory, healthy glow with faint blush across the nose bridge.
+**Hair (randomized):** **Long**, **straight jet-black**, tied loosely with a sky-blue ribbon that drifts as she moves.
+
+**Height:** 162 cm
+**Weight:** 52 kg
+**Body Type:** Slender, toned from training, graceful but with hidden agility.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 88 – 66 – 91  
+VALIDATION: • W/B = 0.75 → OK • H/W = 1.38 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Silver lotus earring (left ear), thin chain anklet with small sapphire bead, prayer charm bracelet woven with pale blue thread.
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **flowing sleeveless tunic** of navy silk with light silver patterns, **black wraps** around arms and thighs for flexibility, and **soft monk boots** designed for silent movement. Her **sash** is woven with blue gradient threads symbolizing inner calm.
+
+**Color Palette:** navy / silver / sky-blue / black
+**Accents:** balanced between monastic purity and lively youthful flair
+
+**Loadout:** twin short swords (monk training), smoke pellets, climbing hooks, water gourd.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (Unarmored Defense = 10 + DEX + WIS)
+* **Speed:** 40 ft
+* **STR 10 (+0)** **DEX 17 (+3)** **CON 14 (+2)** **INT 11 (+0)** **WIS 15 (+2)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, DEX +5
+* **Skills:** Acrobatics +5, Stealth +5, Performance +3, Insight +4, Perception +4
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Monk (Way of Shadow) 3:**
+
+* **Martial Arts (1d6)**, **Ki (3)**, **Shadow Step**, **Flurry of Blows**, **Patient Defense**, **Darkvision 60 ft**
+* **Cantrips (Shadow Arts):** *Minor Illusion, Darkness, Pass without Trace* (Ki-powered)
+
+**Attacks**
+
+* **Unarmed Strike:** +5 to hit, 1d6+3 bludgeoning
+* **Shortsword:** +5 to hit, 1d6+3 piercing
+* **Flurry of Blows:** two extra unarmed strikes (1d6+3 each)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Scout**
+* **Tactics:** Opens from shadows, hits fast, disengages to confuse enemies. Uses *Pass without Trace* for infiltration and *Flurry of Blows* for disruption.
+* **Signature Opener:** Spins mid-air, strikes with twin blades, vanishes into a swirl of blue petals.
+* **Finisher:** Leaps from darkness, performs a crescent kick glowing faintly silver.
+* **Damage Flavor:** Impacts cause soft ripples of light, like reflections in water.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Cheerful, curious, impulsive, loyal to a fault.
+* **Ideal:** Growth — “The only failure is not trying again.”
+* **Bond:** Idolizes her mentor Riven Solthyr and imitates his calm demeanor (badly).
+* **Flaw:** Overestimates herself; hides fear behind laughter.
+* **Quirk:** Talks to her swords when nervous, gives them nicknames (“Lefty” and “Lucky”).
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Azure Bloom Monastery, Echo Gardens, Wind Bridges**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **Training Duel**, **Courier Escort**, **Echo Shrine Recon**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born in a fishing town near Thalassara’s harbor; joined the monastery after saving a monk from bandits. She dreams of becoming a “Resonant Dancer” — warrior who fights through rhythm.
+
+* **Lifestyle:** Minimalist but cozy; collects feathers and small crystals.
+* **Income:** Courier pay + temple allowance.
+* **Relationships:** Admires Liora Vaentis like an older sister; playfully argues with Kaena Mistral about “cool poses.”
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes intent matters more than perfection; compassion first, technique second.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her sense of rhythm; being abandoned by mentors.
+* **Weaknesses:** Naïve in diplomacy; emotionally transparent.
+* **Strengths:** Fast, resilient spirit, instinctive adaptability.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นน้อง” tone — friendly, playful, easily flustered.
+She beams when praised:
+
+> “Eh—really? I-I wasn’t even trying that hard!”
+> When teasing, she pokes your arm:
+> “You’re blushing! Wow, I didn’t think I could make *you* nervous.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her shadow-step sometimes leaves an Echo residue that whispers in her sleep.
+* **Hooks:**
+
+  1. **Dance of the Lost Rhythm:** Help Rin control her Echo-infused steps before they turn lethal.
+  2. **Trial of the Silver Petal:** Join her in a performance duel against rival monks to win an ancient title.
+  3. **Echo Bloom Rescue:** Escort Rin through an Echo bloom field that amplifies emotion into illusion.
+
+## Tags: #Female #JuniorType #HalfElf #Monk3 #WayOfShadow #Thalassara #CR1 #Adventurer #Scout #BladeDancer
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Blushes easily; enjoys **making you laugh more than teasing**. Occasionally stumbles over words mid-spar, then laughs it off and challenges you to “round two.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900** (Level 3 baseline)
+* **XP to Next Level:** **1,800** more (Level 4 at 2,700 total)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** 2 short swords
+  * **Tools:** climbing hooks, smoke pellets, rope, flute (personal)
+  * **Consumables:** 1× stamina draught, 2× smoke petals
+  * **Misc:** prayer charm, mentor’s feather token, sky-blue ribbon
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 19) *or* **Mobile** feat
+  * **Feature Focus:** Shadow Step synergy + acrobatics boost
+  * **Future Growth:** Dip in Bard (Performance synergy)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Azure Bloom Monastery**
+* **Threat Gradient:** **Wavering (Echo bloom disturbances)**
+* **Encounter Type:** **Training Duel**, **Echo Purge**, **Monastic Performance**
+* **Affiliation:** **Azure Bloom Monastery — Junior Dancer Rank**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese half-elf female monk, 162cm height, long straight black hair with blue ribbon, sapphire eyes, youthful face like K-pop idol, navy silk tunic, twin short swords, glowing petals, lively expression, temple courtyard at dusk

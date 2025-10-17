@@ -1,0 +1,163 @@
+# #009 — **Selune Varethiel** — *Mistborne Acolyte of the Luminous Tides*
+
+> “Light and shadow are sisters — both drown the careless.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นเพื่อน)
+* **Age:** 21
+* **Race:** Half-Elf (Thalassaran — human-like ~85% with faint silver webbing patterns along neck and temples when she casts magic)
+* **Class & Level:** Cleric (Tempest Domain) 2 / Fighter (Battle Master) 1 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Tide-priest and expedition guard for sea pilgrimages
+* **Rank / Position:** **Mistborne Acolyte**
+* **Organization:** **Thalassara Tidal Conclave**
+* **Symbol:** A spiral wave encircling a silver eye
+* **Title:** *The Silver Current*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Greek–Japanese fusion (Thalassaran sea-born aesthetic)
+
+Selune looks like someone carved from moonlight and ocean spray. **Eyes:** pale aquamarine with glowing ring pupils that shimmer like ripples. **Skin:** porcelain with faint opalescent sheen across collarbones. Her movements are deliberate, as though swayed by unseen tides.
+
+**Hair (randomized):** **Long**, **wavy**, **silver-white** hair with soft **aqua tips**; often tied half-up with coral pins, loose strands framing her cheeks.
+
+**Height:** 168 cm
+**Weight:** 56 kg
+**Body Type:** Graceful swimmer’s form; firm shoulders and smooth curves
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 97 – 70 – 104  
+VALIDATION: • W/B = 0.721 → OK • H/W = 1.49 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+A **silver tide circlet**, **shell earrings**, **pearlescent pendant** in the shape of a teardrop, **coral bracelet**, and **anklet with blue gem droplets** that chime faintly when she walks on stone.
+
+She often smells faintly of salt and rain.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **flowing sea-blue robe** split along the legs for mobility, layered over **tight chain-thread bodysuit**. Her cloak is translucent, laced with thread that glows faintly in moonlight. **Boots** are soft-soled and waterproof.
+
+**Color Palette:** sea-blue / white / silver / coral pink accents
+**Accents:** aquatic runes, shimmering fabric, woven coral clasps
+
+**Loadout:** silver trident (holy focus), short sword, shield with tide emblem, water-purifying charm.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 2d8 + 1d10 + (CON +2)×3 → **26 HP**
+* **AC:** **17** (chain shirt + shield + DEX)
+* **Speed:** 30 ft (swim 20 ft)
+* **STR 13 (+1)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +4, CHA +3
+* **Skills:** Athletics +3, Insight +4, Perception +4, Religion +2, Persuasion +3
+* **Languages:** Common, Elvish, Aquan, Thalassaran Cant
+* **Equipment:** trident, shortsword, shield, chain shirt, divine focus pendant
+
+**Cleric (Tempest Domain) 2:**
+
+* **Wrath of the Storm (2d8 lightning/thunder reaction)**
+* **Channel Divinity: Destructive Wrath**
+* **Spells (WIS DC 13, +5 attack):** *Thunderwave, Bless, Guiding Bolt, Cure Wounds, Fog Cloud*
+
+**Fighter (Battle Master) 1:**
+
+* **Superiority Dice (2d6)** — maneuvers: Riposte, Precision Attack, Disarming Attack
+* **Second Wind (1d10+1)**
+
+**Attacks**
+
+* **Trident:** +5 to hit, 1d8+3 piercing
+* **Thunderwave:** DC 13, 2d8 thunder (maximized by Destructive Wrath)
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Frontline Hybrid / Elemental Controller**
+* **Tactics:** Opens with **Bless**, then **Thunderwave** when clustered; follows with trident charge under **Wrath of the Storm**. Uses **Riposte** when foes overcommit.
+* **Signature Opener:** Step from mist → trident spin → **Thunderwave** blast.
+* **Finisher:** **Guiding Bolt** synchronized with lightning strike—like a divine pulse.
+* **Damage Flavor:** Attacks leave arcs of pale lightning tracing across water surfaces.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran weights)**
+
+* **Traits:** Confident but warm; playfully competitive.
+* **Ideal:** Balance — “The sea gives and takes equally.”
+* **Bond:** Devoted to the orphans of the Tide Conclave; teaches them swimming songs.
+* **Flaw:** Tends to underestimate still water—hates inaction.
+* **Quirk:** Hums sea shanties unconsciously when nervous.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Luminous Tides, Mistborne Sanctum**
+* **Threat Gradient:** **Stable → Wavering** (during monsoon surge)
+* **Encounter Framing:** **Storm Rescue**, **Sea Pilgrimage Escort**, **Battle on Flooded Causeway**
+
+---
+
+## 📜 Background & Lifestyle**
+
+* **Background:** Born on a pilgrimage barge; learned divine hymns before walking. Became an acolyte after calming an Echo surge at sea using her own resonance chant.
+* **Lifestyle:** Minimalist; sleeps near water whenever possible.
+* **Income:** Temple stipend + hazard pay for sea patrols.
+* **Relationships:** Often debates theology with Celin Vareth; protective of younger initiates.
+
+---
+
+## 🧩 Morals & Ethics**
+
+Believes faith should strike like a wave—gentle but unrelenting. Never hesitates to fight for those drowning in despair.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths**
+
+* **Fears:** Deep still water (cannot see bottom).
+* **Weaknesses:** Overextends during storms; pride in control of weather magic.
+* **Strengths:** Exceptional AoE control, divine lightning burst, adaptability to terrain.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นเพื่อน” tone — bold camaraderie and teasing confidence. Grins mid-battle: “Race you to the next wave!” Playfully flicks water at friends and calls it a “blessing.” Blushes faintly when her praise is returned.
+
+---
+
+## 🤫 Secrets & Plot Hooks**
+
+* **Secret:** Her coral pendant holds a fragment of a drowned god’s hymn—activating it may summon the storm’s will.
+* **Hooks:**
+
+  1. **The Drowned Hymn:** Help Selune retrieve a sunken temple bell resonating dangerously.
+  2. **Mistborne Duel:** Face a rival acolyte to decide the next Stormkeeper.
+  3. **Echo Tide:** A Severance artifact twists tides into living thunder—Selune needs allies to reclaim it.
+
+## Tags: #Female #FriendType #HalfElf #Cleric2 #Fighter1 #Thalassara #Tempest #CR1 #Adventurer #Mistborne
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Greek Japanese half-elf cleric, long silver-white hair with aqua tips, sea-blue robe, trident, ocean light, thunder magic, coral jewelry, confident smile

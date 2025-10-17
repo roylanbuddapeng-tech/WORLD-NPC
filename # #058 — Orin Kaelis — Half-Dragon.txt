@@ -1,0 +1,203 @@
+# #058 — **Orin Kaelis** — *Half-Dragon Sorcerer of the Azure Bloom*
+
+> “The storm doesn’t roar to frighten the world. It sings to remind it who’s alive.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 058
+* **Gender (weighted random):** Male (Type: **เคะ** — youthful, emotionally expressive, beautiful rather than handsome; confident in magic but shy in affection)
+* **Age:** 20
+* **Race:** Half-Dragon (Azure lineage — 85% human-like, faint scale shimmer on neck and arms, subtle draconic pupils)
+* **Class & Level:** Sorcerer (Draconic Bloodline – Blue) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Traveling mage, scholar of storm magic
+* **Rank / Position:** **Apprentice to the Azure Archive**
+* **Organization:** **Thalassaran Mage Conservatory**
+* **Symbol:** Spiral of lightning surrounding an open tome
+* **Title:** *The Lightning Wisp*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Korean–Japanese tone — soft, androgynous face with sharp, intelligent eyes. Visual aura similar to Park Hyung-Sik × Ryusei Yokohama.
+
+**Eyes:** bright sapphire-blue, faint static arcs flickering in irises when focused.
+**Skin:** pale with smooth ivory tone, light iridescent scales catch moonlight near collarbones.
+
+**Hair (randomized):** **Length: Medium**, **Style: swept fringe with side part**, **Texture: fine and soft**, **Color: platinum silver with streaks of electric blue**, glows faintly when casting spells. *(Fully randomized)*
+
+**Height:** 164 cm
+**Weight:** 52 kg
+**Body Build:** Slim, graceful; almost delicate but wiry beneath the robes.
+
+---
+
+## ⚙️ MALE-FEMININE BUILD METRICS (Femboy/Androgynous Visual Reference)**
+
+```
+HEIGHT LIMIT ≤ 165 cm → OK  
+CATEGORY: Soft Feminine  
+THREE_SIZES (B-W-H, cm): 84 – 63 – 88  
+BODY VALIDATION: • W/B = 0.75 → OK • H/W = 1.39 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Azure crystal pendant (draconic focus), thin chain bracelet engraved with lightning runes, single stud earring shaped like a thundercloud.
+
+---
+
+## 👗 Outfit (in English)**
+
+He wears a **deep blue mage coat** that flares at the waist, layered over **fitted linen trousers** and **short boots** trimmed with silver. His **robes** ripple faintly as if moved by unseen wind, enchanted to disperse static charge.
+
+**Color Palette:** midnight blue / silver / azure / pale ivory
+**Accents:** elegant, ethereal, quietly electric
+
+**Loadout:** staff with dragon-claw headpiece, spellbook, arcane quill, runestone pouch.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **14** (Draconic Resilience + DEX)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 13 (+1)** **WIS 11 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, CHA +5
+* **Skills:** Arcana +3, Persuasion +5, Insight +2, History +3, Nature +3
+* **Languages:** Common, Draconic, Elvish
+
+**Sorcerer (Draconic Bloodline – Blue):**
+
+* **Draconic Resilience:** +3 HP per level, natural AC
+* **Elemental Affinity (Lightning)**
+* **Metamagic Options:** *Twinned Spell*, *Careful Spell*
+* **Spellcasting (CHA DC 13, +5 attack)**
+* **Spells Known:**
+
+  * *Cantrips:* Ray of Frost, Prestidigitation, Lightning Lure, Shocking Grasp
+  * *1st:* Mage Armor, Chromatic Orb, Thunderwave, Shield
+
+**Attacks**
+
+* **Lightning Lure:** DC 13 STR save or pull target 10 ft, 1d8 lightning
+* **Chromatic Orb (Lightning):** +5 to hit, 3d8 lightning
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Mobile Caster / Support Striker
+* **Tactics:** Uses *Chromatic Orb* to strike from mid-range; *Twinned Spell* to target multiple foes; *Thunderwave* for escape.
+* **Signature Opener:** *“Static’s building… brace yourself.”*
+* **Finisher:** Whirls staff overhead, summoning a spiraling thunder vortex that fades into silence.
+* **Damage Flavor:** Electric arcs dance between fingers, faint blue afterimage follows gestures.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Curious, polite, self-deprecating humor.
+* **Ideal:** Knowledge — “Every storm hides a pattern.”
+* **Bond:** Studies storms to find a cure for his mentor’s petrification by Echo.
+* **Flaw:** Overthinks and second-guesses himself in battle.
+* **Quirk:** Tends to apologize before casting big spells.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Azure Archives, Coastal Labs, Glass Observatory**
+* **Threat Gradient:** **Wavering → Echo Zone (electrical surges)**
+* **Encounter Framing:** **Research Defense**, **Runaway Experiment**, **Storm Calibration Trial**
+
+---
+
+## 📜 Background & Lifestyle
+
+Orin was born from a dragon emissary and a Thalassaran scholar. He learned early that beauty can be a shield—he smiles to distract from fear. Prefers reading storms to fighting wars.
+
+* **Lifestyle:** Minimalist and neat; sleeps surrounded by half-finished notebooks.
+* **Income:** Mage stipends + private tutoring + weather divination.
+* **Relationships:** Works under Dr. Cassia; quietly admires Lyra Thalassara from afar.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes truth should illuminate, not dominate. Hates arrogance, even among dragons.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control and harming others with his power.
+* **Weaknesses:** Timid under praise, fragile stamina.
+* **Strengths:** Versatile caster, emotional intelligence, creative spell use.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“เคะ” tone — gentle voice, awkward when flustered, but witty in return.
+
+> “You’re standing a little close… you might short-circuit.”
+> When teased:
+> “W-wait—don’t call me cute while I’m charging lightning!”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His lightning sometimes crackles in rhythm with Echo waves — a possible key to Echo resonance theory.
+* **Hooks:**
+
+  1. **The Azure Pulse:** Investigate his connection to Echo currents during a thunder ritual.
+  2. **Stormborne Memory:** His father’s draconic essence reawakens through his dreams.
+  3. **When Lightning Sleeps:** Help him suppress a dangerous surge that threatens to turn him fully draconic.
+
+## Tags: #Male #KehType #HalfDragon #Sorcerer3 #DraconicBloodline #Thalassara #CR1 #Mage #StormCaster
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Orin **blushes easily but teases back once comfortable.** When someone helps him focus mid-spell, he whispers: “Don’t move… you’re grounding me.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** arcane staff
+  * **Tools:** scholar’s kit, weather compass
+  * **Consumables:** 1× mana crystal, 2× healing draughts
+  * **Misc:** lightning focus pendant, charred spell pages, personal notebook
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **Elemental Adept (Lightning)**
+  * **Spell Pick:** *Mirror Image* or *Hold Person*
+  * **Growth Path:** unlock controlled “Stormburst” feature at higher levels
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Azure Archives**
+* **Threat Gradient:** **Wavering → Echo Zone (Lightning Surge)**
+* **Encounter Type:** **Experiment Defense**, **Research Escort**, **Elemental Containment**
+* **Affiliation:** **Thalassaran Mage Conservatory — Apprentice Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male half-dragon sorcerer, 164cm, slim and androgynous body, platinum silver hair with blue streaks, bright sapphire eyes, faint scales on neck, deep blue mage coat with silver trim, electric aura, shy yet confident expression, lightning magic background

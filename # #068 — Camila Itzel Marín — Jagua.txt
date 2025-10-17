@@ -1,0 +1,198 @@
+# #068 — **Camila Itzel Marín** — *Jaguar-Blood Scout of the Sunweave Trails*
+
+> “Tracks don’t just show where someone went — they sing why.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 068
+* **Gender (weighted random):** Female (Type: **Tomboy Type 1** — feminine frame, short hair, lively swagger; flirty via dares and banter)
+* **Age:** 22
+* **Race:** **Half-Beast (Jaguar lineage)** — ~85% human; faint rosette markings on shoulders/hips, subtle catlike pupils, soft tail-bone tuft
+* **Class & Level:** **Fighter (Battle Master) 3** — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Trail scout, bounty runner, canalway outrider
+* **Rank / Position:** **Sunweave Pathfinder**
+* **Organization:** **Arvenspire Free-Scouts** (contracts with Thalassara caravans)
+* **Symbol:** A jaguar rosette encircling a sun-thread spiral
+* **Title:** *The Rosette Runner*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Latin American** — sun-kissed vibrance, dancer’s posture; visual aura like a Brazilian parkour athlete with fantasy flair.
+
+**Eyes:** warm amber, feline glint when excited.
+**Skin:** bronze-gold with faint jaguar rosette shimmer along the collarbones and hips.
+
+**Hair (randomized — includes short feminine style):** **Short feminine**, **tapered bob with micro-undercut**, **texture:** thick and slightly wavy, **color:** espresso black with caramel sun-streaks.
+
+**Height:** 167 cm
+**Weight:** 56 kg
+**Body Type:** **Athletic Sculpted** — springy legs, defined arms, lean waist.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: B   CATEGORY: Small
+THREE_SIZES (B-W-H, cm): 85 – 63 – 90
+VALIDATION: • W/B = 0.741 → OK   • H/W = 1.43 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+Bronze **ear cuff** with tiny sun charm (right), **woven leather choker**, **stacked thread bracelets** (tracking knots), and a **thin anklet** with a jaguar tooth bead.
+
+---
+
+## 👗 Outfit (in English)
+
+A **sand-tan cropped jacket** over a **charcoal fitted top**, **studded leather pants** with knee vents, and **light trail boots** built for sprinting and wall-runs. A **half-cloak** (ochre → umber gradient) breaks her outline. Twin **shortswords** ride low on the hips; a **rope-grapple** coils at the small of her back.
+
+**Color Palette:** ochre / charcoal / umber / bronze
+**Accents:** agile, road-worn, sunlit utility
+
+**Loadout:** 2× shortswords, 3× throwing knives, rope-grapple (50 ft), pitons, chalk dust, sun-scarf.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **15** (studded leather 12 + DEX +3)
+* **Speed:** 35 ft (flavor: trail-trained; DM may keep 30 ft if strict RAW)
+* **STR 13 (+1)** **DEX 17 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 14 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, CON +4
+* **Skills:** Acrobatics +5, Athletics +3, Perception +4, Survival +4, Stealth +5, Intimidation +3
+* **Languages:** Common, Elvish, Beast Cant (feline signs)
+
+**Fighter (Battle Master) 3:**
+
+* **Fighting Style:** Two-Weapon Fighting
+* **Second Wind**, **Action Surge**
+* **Superiority Dice:** 4d8; **Save DC 12**
+* **Maneuvers:** **Trip Attack**, **Disarming Attack**, **Riposte**
+
+**Attacks**
+
+* **Shortsword (main):** +5 to hit, 1d6+3 slashing
+* **Shortsword (off-hand):** +5 to hit, 1d6+3 slashing (adds mod via style)
+* **Thrown Knife (20/60):** +5 to hit, 1d4+3 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Duelist / Control Skirmisher**
+* **Tactics:** Marks priority, closes fast via parkour lines; **Trip** to ground sprinters, **Disarm** bosses, **Riposte** when they whiff.
+* **Signature Opener:** Kicks dust in a sunburst arc, darts in with twin flashes at the ribs.
+* **Finisher:** Wall-run → flip → crossing slash as her shadow shows cat ears.
+* **Damage Flavor:** Strikes leave rosette-shaped motes that fade in the air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Competitive, cheeky, protective of underdogs.
+* **Ideal:** Freedom — “Roads are just invitations.”
+* **Bond:** Keeps ribbon tags of rescued couriers tied to her belt.
+* **Flaw:** Takes reckless shortcuts; hates being told to slow down.
+* **Quirk:** Counts jumps in Spanish under her breath.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Arvenspire & Thalassara Trade Lattice — Sunweave Trails, Cliffstep Bridges**
+* **Threat Gradient:** **Wavering (Echo pockets on canyon paths)**
+* **Encounter Framing:** **Courier Chase**, **Bridge Ambush**, **Ropeway Heist**
+
+---
+
+## 📜 Background & Lifestyle
+
+Child of a caravan cook and a river-guard, Camila grew up running deliveries through markets. A rooftop race with thieves revealed her jaguar reflexes — and a career.
+
+* **Lifestyle:** Sleeps light, lives on street food and sunfruit.
+* **Income:** Scout contracts, bounty splits, courier bonuses.
+* **Relationships:** Spars with Tsubasa Renjou for “sky-ground” races; friendly rivalry with Jae-Lan Sereth.
+
+---
+
+## 🧩 Morals & Ethics
+
+If a job hurts the powerless, she flips it or walks. “Gold buys bread; it shouldn’t buy fear.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Enclosed, echo-deadened tunnels.
+* **Weaknesses:** Limited against heavy armor at range; impulsive leaps.
+* **Strengths:** Terrain mastery, battlefield control via maneuvers, rescue acrobatics.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+“Tomboy 1” — grins, bumps shoulders, dares you to keep up.
+
+> “Race you to that arch. Loser owes tacos.”
+> If someone flirts, she smirks:
+> “Careful. Cats chase things that run.”
+> She **likes making others blush** by closing distance mid-quip.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her rosettes flare near Echo tears — she can “smell” ruptures before they open.
+* **Hooks:**
+
+  1. **Run Before the Break:** Escort a convoy as Camila senses a tear hours early.
+  2. **Sunweave Saboteurs:** Hunt a gang cutting ropeways to hijack caravans.
+  3. **Rosette Map:** Decode dotted scars on her skin forming a map to an Echo vault.
+
+## Tags: #Female #TomboyType1 #HalfBeast #Jaguar #Fighter3 #BattleMaster #Arvenspire #CR1 #Scout #Duelist
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Flusters others by **casual touches** when pointing routes; gets flustered herself if praised for her smile — “It’s just the sun.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800** (to 2,700 total)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** 2× shortswords, 3× throwing knives
+  * **Armor:** studded leather
+  * **Tools:** grappling rope, pitons, chalk
+  * **Consumables:** 2× healing draughts, 1× climbing salve
+  * **Misc:** sun-scarf, courier tags, trail whistle
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 19) *or* **Mobile**
+  * **Maneuver Swap:** add **Precision Attack** or **Evasive Footwork** for hard shots/runs
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Sunweave Trails & Cliffstep Bridges**
+* **Threat Gradient:** **Wavering → Echo pockets**
+* **Encounter Type:** **Ropeway Duel**, **Courier Chase**, **Ambush Reversal**
+* **Affiliation:** **Arvenspire Free-Scouts — Pathfinder Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Latin American female jaguar beastkin fighter, 167cm, short tapered bob espresso hair with caramel streaks, amber eyes, athletic build, twin shortswords, sand-tan cropped jacket, ochre half-cloak, rooftop sprint, sunlit canyon bridges

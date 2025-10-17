@@ -1,0 +1,147 @@
+# #029 — **Kael Dravos** — *Ironfeather Duelist of the Azure Spire*
+
+> “Flight isn’t about leaving the ground. It’s about refusing to fall.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Male (Type: เมะ)
+* **Age:** 26
+* **Race:** Half-Beast (Avian — Falcon lineage; human-like 85%, feathered forearms and shoulders, subtle wing-marks at the back, sharp golden eyes)
+* **Class & Level:** Fighter (Battle Master) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Neutral
+* **Profession:** Duel instructor, aerial tactician, mercenary bodyguard
+* **Rank / Position:** **Azure Spire Instructor of Sky Combat**
+* **Organization:** **Valeronnes Spire Academy of Martial Study**
+* **Symbol:** A stylized falcon wing intersected by a sword
+* **Title:** *The Ironfeather Duelist*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Greek–Chinese hybrid
+
+Kael has the sharp composure of a seasoned warrior and the natural confidence of someone used to being watched. **Eyes:** golden-hazel, bright and focused. **Skin:** bronze with faint iridescent shimmer on collarbones and shoulders where feathers merge with flesh.
+
+**Hair (randomized):** **Short**, **wavy jet-black**, brushed backward with a few loose strands; slightly silvered at tips like flight feathers.
+
+**Height:** 182 cm
+**Weight:** 78 kg
+**Body Type:** Broad-shouldered, athletic, lean-muscled with balanced grace.
+
+**Jewelry & Accessories (randomized):**
+Silver **falcon pendant**, **black leather wristband** with runic stitching, and a **metal clasp earring** shaped like a wingtip.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **midnight-blue duelist’s coat** with pale silver filigree resembling feathers, worn open over a **white shirt** laced at the chest. His **belt harness** holds a **rapier and parrying dagger**, with **feathered pauldrons** accenting his rank.
+
+**Color Palette:** navy / white / silver / gold accent
+**Accents:** airy texture, metal thread embroidery, militaristic elegance
+
+**Loadout:** rapier, parrying dagger, duelist’s cloak, wing charm focus.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +2)×3 → **29 HP**
+* **AC:** **17** (breastplate + DEX)
+* **Speed:** 35 ft (brief glide from height up to 15 ft per round)
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Athletics +4, Acrobatics +5, Perception +3, Insight +3, Intimidation +3
+* **Languages:** Common, Auran, Elvish
+
+**Fighter (Battle Master) 3:**
+
+* **Superiority Dice (4d8)** — *Riposte, Precision Attack, Disarming Attack*
+* **Second Wind, Action Surge, Fighting Style (Dueling)**
+
+**Attacks**
+
+* **Rapier:** +5 to hit, 1d8+3 piercing
+* **Dagger:** +5 to hit, 1d4+3 piercing (off-hand)
+* **Riposte Reaction:** 1d8+3 extra damage
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Duelist / Counter-Striker**
+* **Tactics:** Draws enemy attention, parries to open ripostes, and controls tempo with footwork. Uses aerial advantage when fighting near ledges or stairs.
+* **Signature Opener:** Opens with a “Sky Step” feint—lunges upward with a wingbeat and dives into a rapid thrust.
+* **Finisher:** Precision counterstrike followed by a wing-assisted spin slash.
+* **Damage Flavor:** Trails of silver feathers scatter briefly after every parry.
+
+---
+
+## 💬 Personality (Randomized — Valeronnes duelist tone)**
+
+* **Traits:** Calm, slightly cocky, protective of allies.
+* **Ideal:** Honor — “Precision is respect made visible.”
+* **Bond:** His flight instructor, now missing during a Severance storm.
+* **Flaw:** Overconfident; refuses to retreat even when outnumbered.
+* **Quirk:** Adjusts his collar every time he gets serious in combat.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Valeronnes — Azure Spire Training Grounds, Highwind Plaza, Winged Colosseum**
+* **Threat Gradient:** **Stable → Wavering** (Sky rituals attracting Echo distortion)
+* **Encounter Framing:** **Duel Challenge**, **Aerial Battle**, **Rooftop Rescue**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Born to a Valeronnes knight and a falconkin wanderer; grew up between court politics and wind currents.
+* **Lifestyle:** Regimented; trains at sunrise, meditates before dusk.
+* **Income:** Instructor pay + prize duels.
+* **Relationships:** Friendly rivalry with Cassira Venn; mentoring Mirei Tashira in defense form.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes strength should inspire, not dominate. The goal of every duel is to elevate both fighters.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing his agility or wings in combat.
+* **Weaknesses:** Pride and refusal to retreat.
+* **Strengths:** Exceptional reaction time, tactical awareness, inspirational leadership.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“เมะ” tone — confident and commanding with warmth beneath. He smirks lightly: “If you trip, I’ll catch you. If you fall, I’ll make sure it looks like part of the dance.” When embarrassed, he looks away and sharpens his blade mid-sentence.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a feather from his mother that glows when Severance storms approach—hinting she may still live in another realm.
+* **Hooks:**
+
+  1. **Wings of the Lost:** Track the origin of his mother’s glowing feather.
+  2. **Skyfall Duel:** Help Kael protect the Spire during an Echo descent ritual.
+  3. **Ironfeather Pact:** Defend his honor in a trial duel against a rival noble house.
+
+## Tags: #Male #TopType #AvianKin #Fighter3 #BattleMaster #Valeronnes #CR1 #Adventurer #Duelist #Instructor
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Greek Chinese falcon-kin male fighter, short wavy black hair with silver tips, golden eyes, feathered shoulders, navy duelist coat, rapier, confident smirk, wind swirling, Azure Spire backdrop

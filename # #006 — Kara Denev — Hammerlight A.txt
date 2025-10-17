@@ -1,0 +1,159 @@
+# #006 — **Kara Denev** — *Hammerlight Apprentice of the Shattered Forge*
+
+> “Don’t whisper prayers to steel—hit it until it listens.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: Tomboy — Type 2: muscular, athletic, hearty laugh)
+* **Age:** 24
+* **Race:** Dwarf (Skarnov–Forge-blooded — humanoid ~85% with faint metallic freckles and a subtle amber glow in the eyes)
+* **Class & Level:** Fighter (Champion) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Neutral
+* **Profession:** Apprentice weaponsmith and front-line mercenary
+* **Rank / Position:** Hammerlight journeyman, “Forge Sister”
+* **Organization:** **Guild of the Shattered Forge** — Skarnov district armory
+* **Symbol:** Crossed hammer and flame over a broken anvil
+* **Title:** *The Bronze Bruiser*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Nordic–Skarnov blacksmith line
+
+Kara is raw strength shaped into charm. Her **bronze skin** is freckled with glitter-like metallic dust, and her **eyes** glow faint amber in dim light. She’s compact and muscular—every movement deliberate, confident, and slightly swaggered.
+
+**Hair (randomized):** **Short**, **curly golden-copper**, cropped just below ears; a small braid runs behind her left temple.
+
+**Height:** 160 cm
+**Weight:** 67 kg
+**Body Type:** Muscular yet feminine; forged like a sculpted statue
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 90 – 70 – 95  
+VALIDATION: • W/B = 0.777 → OK   • H/W = 1.35 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Iron choker ring with forge-mark; **smoked-glass goggles** worn on forehead; **studded brass bracelet**; **steel anklet** engraved with her guild sigil; small **rune hoop earring** in one ear only.
+
+The air around her smells faintly of hot iron and oil.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **sleeveless leather jerkin** reinforced with bronze plating, **charcoal trousers** tucked into **heavy boots**, and a **canvas belt apron** for tools and weapons. She often ties a **red scarf** around her arm as a lucky charm.
+
+**Color Palette:** black / bronze / red / steel gray
+**Accents:** burnished metal, rough fabrics, industrial wear
+
+**Loadout:** warhammer, handaxe, smithing tongs (improvised weapon), shield, toolset, flask of forge oil.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +3)×3 → **33 HP**
+* **AC:** **18** (chain mail + shield)
+* **Speed:** 25 ft
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 16 (+3)** **INT 10 (+0)** **WIS 11 (+0)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Intimidation +3, Perception +2, Smith’s Tools +4
+* **Languages:** Common, Dwarvish, Infernal (forge tongue)
+* **Equipment:** warhammer, handaxe, chain mail, shield, tools, goggles
+
+**Fighter (Champion) 3:**
+
+* **Improved Critical (19–20)**
+* **Second Wind (1d10+3)**
+* **Action Surge (1/rest)**
+* **Fighting Style:** Defense (+1 AC)
+
+**Attacks**
+
+* **Warhammer:** +5 to hit, 1d8+3 bludgeoning (versatile 1d10+3)
+* **Handaxe:** +5 to hit, 1d6+3 slashing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Frontline Bruiser / Defender**
+* **Tactics:** Opens with **Action Surge** to press early; uses **Second Wind** for sustain; breaks enemy guard by sheer momentum.
+* **Signature Opener:** Hammer strike to ground, scattering sparks to blind foes briefly.
+* **Finisher:** Shield slam followed by upward hammer swing that sends molten sparks (flavor).
+* **Damage Flavor:** Each impact leaves a glowing ember mark like a forge strike.
+
+---
+
+## 💬 Personality (Randomized — Skarnov weights)**
+
+* **Traits:** Boisterous, confident, laughs loudly; fiercely loyal to friends.
+* **Ideal:** Craft — “A good blade deserves a good hand.”
+* **Bond:** Her late master’s anvil—she swore to reforge it after it cracked.
+* **Flaw:** Quick temper toward incompetence; hates idleness.
+* **Quirk:** Names every hammer she owns.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Skarnov — Shattered Forge District, Ember Courts workshops**
+* **Threat Gradient:** **Stable → Wavering** (industrial Echo bleed)
+* **Encounter Framing:** **Forge Defense**, **Weapon Trial Duel**, **Escort Convoy of Prototype Arms**
+
+---
+
+## 📜 Background & Lifestyle**
+
+* **Background:** Raised in the heat of Skarnov’s forges. Apprenticed to a weapon master who fell during an Echo breach. Took his hammer and vowed to finish his masterpiece.
+* **Lifestyle:** Lives in workshop dorms; drinks like a dwarf, fights like one too.
+* **Income:** Smithing contracts + gladiatorial exhibitions.
+* **Relationships:** Friends with Rinna Vaelune; sometimes spars with her over “form vs. force.”
+
+---
+
+## 🧩 Morals & Ethics**
+
+Believes discipline is sacred. Strength must be built, not gifted. Hates using “resonance” shortcuts in combat—prefers honest sweat and metal.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths**
+
+* **Fears:** Becoming too weak to forge.
+* **Weaknesses:** Blunt personality; struggles with subtlety.
+* **Strengths:** High durability, great morale anchor for allies.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“Tomboy Type 2” — rowdy, physically affectionate. Smacks comrades on the back and laughs: “That bruise means you’re learning!” When embarrassed, she crosses her arms and grumbles. Likes to challenge others to arm wrestling instead of chatting.
+
+---
+
+## 🤫 Secrets & Plot Hooks**
+
+* **Secret:** Keeps a fragment of the cracked master anvil—when struck, it hums faintly in lost tongues.
+* **Hooks:**
+
+  1. **Forgefire Echo:** Protect Kara while she tempers a blade inside a semi-corrupted forge.
+  2. **The Broken Anvil:** Recover her master’s soul trapped within an Echo-imbued ingot.
+  3. **Hammerlight Showdown:** Duel Kara to prove your mettle; she forges you a weapon if you impress her.
+
+## Tags: #Female #TomboyType2 #Dwarf #Fighter3 #Champion #Skarnov #Frontline #CR1 #Adventurer #Forge
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Nordic dwarf tomboy, short curly copper hair, bronze freckles, muscular build, forge sparks, sleeveless leather armor, warhammer, confident grin, industrial forge backdrop

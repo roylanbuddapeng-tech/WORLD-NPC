@@ -1,0 +1,171 @@
+#011 — Rinna Vaelune — Stormstep Duelist of the Azure Colonnade
+
+“Speed is the language of truth — hesitation is always a lie.”
+
+🜏 General Information
+
+Gender (weighted random): Female (Type: Tomboy — Type 2: athletic, sculpted build, confident swagger)
+
+Age: 25
+
+Race: Half-Elf (Valeronnes lineage — human-like ~85 % with faint blue circuit-like veins that shimmer when channeling lightning)
+
+Class & Level: Fighter 2 / Sorcerer (Storm Origin) 1 — Total 3
+
+Challenge Rating (approx): CR 1
+
+Alignment: Chaotic Neutral
+
+Profession: Gladiator / Arena Instructor
+
+Rank / Position: Stormstep Champion of the Azure Colonnade
+
+Organization: Valeronnes Arena Consortium
+
+Symbol: Twin lightning bolts crossing a blade
+
+Title: The Azure Spark
+
+🪞 Appearance (in English)
+
+Ethnic Theme: Greek–Filipino hybrid
+
+Rinna radiates sharp vitality — her movements snap like thunder. Eyes: vivid electric blue with faint golden flicker. Skin: warm tan, laced with subtle blue veins visible only during spell-charge.
+
+Hair (randomized): Medium, curly steel-grey, streaked with bright electric blue; shaved undercut on one side and tied back into a small braid tail.
+
+Height: 173 cm
+Weight: 64 kg
+Body Type: Muscular athletic hourglass; defined arms and strong legs
+
+FEMALE BODY METRICS
+
+CUP: D CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 91 – 68 – 97  
+VALIDATION: • W/B = 0.747 → OK • H/W = 1.42 → OK  
+
+
+Jewelry & Accessories (randomized):
+Single lightning-bolt ear stud, silver nose ring, rune-etched arm band, and copper anklet that crackles with static discharge when she fights.
+
+👗 Outfit (in English)
+
+A short azure combat jacket with silver trim and reinforced shoulders, black tight-fit leather pants, and fingerless gauntlets stitched with conductive thread. She wears steel-soled boots that spark as they hit the ground.
+
+Color Palette: azure / black / silver / gold accents
+Accents: lightning motifs, smooth metal trim, sport armor style
+
+Loadout: rapier +1, dagger, shortbow, storm-focus crystal embedded in bracelet.
+
+⚔️ Mechanics (D&D 5e RAW)**
+
+HP: 2d10 + 1d6 + (CON +2)×3 → 27 HP
+
+AC: 17 (studded leather + DEX + Defense style)
+
+Speed: 35 ft
+
+STR 14 (+2) DEX 17 (+3) CON 14 (+2) INT 10 (+0) WIS 11 (+0) CHA 14 (+2)
+
+Proficiency Bonus: +2
+
+Saving Throws: STR +4, CON +4
+
+Skills: Athletics +4, Acrobatics +5, Performance +4, Intimidation +4, Sleight of Hand +5
+
+Languages: Common, Elvish, Draconic
+
+Equipment: rapier +1, dagger, shortbow, storm focus, arena emblem
+
+Fighter (Battle Master) 2:
+
+Superiority Dice (2d8) — Precision Attack, Riposte, Feinting Attack
+
+Second Wind (1d10+2)
+
+Sorcerer (Storm Origin) 1:
+
+Tempestuous Magic (free fly 10 ft after casting)
+
+Spells (CHA DC 12, +4 attack): Shocking Grasp, Chromatic Orb (lightning), Shield
+
+Attacks
+
+Rapier +1: +6 to hit, 1d8+4 piercing (+1d8 lightning once per turn from Storm Surge)
+
+Shortbow: +5 to hit, 1d6+3 piercing
+
+🎯 Combat Tactics (Randomized)**
+
+Role: Duelist / Frontline Striker
+
+Tactics: Engages fast, using lightning bursts to confuse foes. Uses Riposte after dodging and Tempestuous Magic for aerial maneuvers.
+
+Signature Opener: Lightning dash into melee with Feinting Attack.
+
+Finisher: Chromatic Orb to the ground → upward slash in burst of sparks.
+
+Damage Flavor: Each hit leaves burning streaks of blue light in the air.
+
+💬 Personality (Randomized — Valeronnes weights)**
+
+Traits: Competitive, grinning, recklessly honest.
+
+Ideal: Courage — “Faster than fear, that’s all it takes.”
+
+Bond: Trains local orphans in basic self-defense.
+
+Flaw: Despises cowardice; rushes too fast into unknown fights.
+
+Quirk: Cracks her knuckles and hair sparks when excited.
+
+🧭 Common Locations (Randomized)**
+
+Kingdom/Zone: Valeronnes — Azure Colonnade Arena District
+
+Threat Gradient: Stable → Wavering (echo storms during matches)
+
+Encounter Framing: Arena Challenge, Sparring Trial, Storm Festival Duel
+
+📜 Background & Lifestyle**
+
+Background: Born in the Thunder District, trained as a street fighter before joining the Arena Consortium. Earned her title by defeating three Stormborn knights in one night.
+
+Lifestyle: Energetic and chaotic; sleeps little, trains much.
+
+Income: Arena prize money + sparring fees.
+
+Relationships: Long-time rival/friend of Kara Denev; friendly sparring partner with Selune Varethiel.
+
+🧩 Morals & Ethics**
+
+Believes honor means nothing if you can’t back it with skill. Trusts people who fight honestly more than those who speak beautifully.
+
+😨 Fears / Weaknesses / Strengths**
+
+Fears: Losing speed — the idea of injury terrifies her.
+
+Weaknesses: Short temper, over-competitive.
+
+Strengths: Incredible reflexes and initiative; fearless in chaotic environments.
+
+💞 Interactions (Behavioral Style)**
+
+“Tomboy Type 2” — bold, brash, and direct. Leans in close to smirk after winning: “Still standing? Good — means I can hit you harder next time.” If someone flirts back, she flushes, snorts, and deflects with a challenge instead of a reply.
+
+🤫 Secrets & Plot Hooks**
+
+Secret: Her lightning markings were born from an Echo incident — her power might not be entirely natural.
+
+Hooks:
+
+Arena of Echoes: Fight beside Rinna when a storm rift erupts mid-tournament.
+
+The Azure Debt: A Severance agent bets her soul token against her freedom.
+
+Lightning Lesson: Train under Rinna to learn her dual-style technique.
+
+Tags: #Female #TomboyType2 #HalfElf #Fighter2 #Sorcerer1 #Valeronnes #Arena #CR1 #Adventurer #StormDuelist
+🎨 Image Gen Key (EN)
+
+Greek Filipino half-elf female fighter-sorcerer, medium curly steel-grey hair with blue streaks, electric blue eyes, athletic muscular build, azure jacket, rapier, lightning effects, arena backdrop, confident smirk

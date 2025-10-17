@@ -1,0 +1,155 @@
+# #019 — **Rheia Corven** — *Mistveil Whisperer of the Hollow Choir*
+
+> “When the song fades, I speak what the silence cannot.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นพี่)
+* **Age:** 28
+* **Race:** Beast-kin (Raven-kin — human-like ~85%, black feather patterns on shoulders and collarbones, faint violet sheen on nails, eyes of dark silver with faint purple undertone)
+* **Class & Level:** Bard (College of Whispers) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral
+* **Profession:** Spy, singer, rumor broker
+* **Rank / Position:** **Mistveil Agent of the Hollow Choir**
+* **Organization:** **Thalassara Subharmonic Guild** (Covert division operating in Echo-sensitive zones)
+* **Symbol:** A raven feather cutting through a soundwave ring
+* **Title:** *The Quiet Voice*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** English–Japanese hybrid
+
+Rheia is the kind of beauty that hides in plain sight: too poised to be ignored, too quiet to be remembered. **Eyes:** dusky silver, cool and heavy-lidded. **Skin:** moon-pale with shadowy undertones. **Markings:** faint black feather tracings under her neck when her magic stirs.
+
+**Hair (randomized):** **Medium length**, **straight jet-black with violet shimmer**, cut sharply at shoulder with side fringe.
+
+**Height:** 172 cm
+**Weight:** 57 kg
+**Body Type:** Elegant hourglass, dancer’s posture and slow deliberate gestures
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 97 – 72 – 103  
+VALIDATION: • W/B = 0.742 → OK • H/W = 1.43 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Thin **raven-feather earring** on left ear, **amethyst choker**, **silver bangle** etched with silent runes, and a **lace anklet** of black threads that hums faintly when sound magic is near.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **charcoal-black coat dress** split high for movement, layered over **violet silk underskirt**; **corset belts** crossed with sound-thread cords; and **fingerless gloves** dyed with faint iridescence. Her boots are **high-heeled, knee-length**, the heels hollow to conceal tiny blades.
+
+**Color Palette:** black / violet / silver / smoke-gray
+**Accents:** lace, subtle runic embroidery, hidden weapon seams
+
+**Loadout:** dagger (concealed heel), short rapier, whisper crystal focus, disguise mask, smoke powder.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **23 HP**
+* **AC:** **15** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +4, CHA +5
+* **Skills:** Deception +5, Insight +3, Performance +5, Persuasion +5, Stealth +4, Sleight of Hand +4
+* **Languages:** Common, Elvish, Thalassaran Cant, Deep Speech (trained from Echo intelligence work)
+* **Equipment:** rapier, daggers, whisper crystal, disguise kit
+
+**Bard (Whispers) 3:**
+
+* **Bardic Inspiration (d6)**, **Psychic Blades (2d6)**, **Words of Terror**, **Jack of All Trades**, **Expertise (Deception, Performance)**
+* **Spellcasting (CHA DC 13, +5 attack):** *Dissonant Whispers, Charm Person, Detect Magic, Silence, Disguise Self, Healing Word*
+
+**Attacks**
+
+* **Rapier:** +4 to hit, 1d8+2 piercing + 2d6 psychic (Psychic Blades 2/short rest)
+* **Dagger:** +4 to hit, 1d4+2 piercing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Debuffer / Manipulator**
+* **Tactics:** Strikes from shadows, triggers *Dissonant Whispers* to scatter ranks, then finishes with **Psychic Blades**.
+* **Signature Opener:** A whisper sung backwards in Common, distorting into echo feedback.
+* **Finisher:** Whisper Crystal overcharged to explode in resonance burst, silencing enemies within 20 ft.
+* **Damage Flavor:** Her strikes leave trails of soundless vibration, like ripples in muted glass.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran agent tone)**
+
+* **Traits:** Calm, cunning, protective toward subordinates.
+* **Ideal:** Truth through silence — “Words shape chaos; silence carves order.”
+* **Bond:** Protects the Hollow Choir singers under her watch.
+* **Flaw:** Detached, struggles with genuine affection.
+* **Quirk:** Turns her head slightly when thinking, as if listening to invisible wings.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Hollow Canals, Choir Sanctum, Shadow Docks**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **Assassination Intercept**, **Spy Exchange**, **Whisper Duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Former stage singer turned infiltrator after an Echo raid silenced her troupe. She learned to weaponize quiet itself, binding echoes into blades.
+* **Lifestyle:** Minimalist and nocturnal; practices songs without voice, humming through her magic crystal.
+* **Income:** Guild contracts + black-letter retainer for the Council of Echoes.
+* **Relationships:** Mentor to younger agents like Nara Vehlis; tense respect with Lyra Thalassara.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes secrets can be mercy; not all truth deserves a voice.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her hearing—her entire magic depends on resonance perception.
+* **Weaknesses:** Low physical endurance; dependent on preparation.
+* **Strengths:** Psychological manipulation, infiltration, resonance precision.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นพี่” tone — calm, mildly teasing with understated affection. When you make a mistake, she leans close, voice low: “Slow down. Even silence breathes between the notes.” If flustered, her feathers puff slightly as she pretends to adjust her glove.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps an encoded lullaby containing a forbidden Echo frequency that can erase memory of sound itself.
+* **Hooks:**
+
+  1. **The Silent Song:** Escort Rheia to deliver the lullaby to the Council before Severance agents seize it.
+  2. **Feathers in the Canal:** Someone is imitating her—literally wearing her discarded feathers as disguise.
+  3. **The Hollow Choir:** Investigate why her entire Choir hums the same haunting note in their sleep.
+
+## Tags: #Female #OlderSister #BeastKin #RavenKin #Bard3 #Thalassara #Spy #WhispersCollege #CR1 #Adventurer #HollowChoir
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+English Japanese raven-kin female bard spy, medium jet-black hair with violet shimmer, silver eyes, black coat dress, violet silk, raven feathers, dark canals, mysterious smile

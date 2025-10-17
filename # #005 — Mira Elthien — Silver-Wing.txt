@@ -1,0 +1,160 @@
+# #005 — **Mira Elthien** — *Silver-Winged Apprentice of the Aural Chorus*
+
+> “If you can’t find courage, borrow it from a song.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นพี่)
+* **Age:** 25
+* **Race:** Half-Elf (Thalassaran line — human-like ~85% with small translucent feathered wings along her shoulder blades)
+* **Class & Level:** Bard (College of Lore) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Good
+* **Profession:** Traveling performer, field scholar of resonance music
+* **Rank / Position:** **Journeyman Bard of the Aural Chorus**
+* **Organization:** **Thalassara Conservatory of Echoes**
+* **Symbol:** Silver quill entwined with a note line
+* **Title:** *The Silver Voice*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Japanese–Thalassaran hybrid
+
+Mira has the gentle allure of moonlight—slim features, long lashes, and an unshakable poise. Her **eyes** shimmer **pale silver-blue**, almost glowing under torchlight. **Tiny silvery feathers** ripple at her back, fluttering subtly when she hums.
+
+**Hair (randomized):** **Long**, straight **ash-brown**, with silver ombré at the ends; tied loosely with a silk band near the waist.
+
+**Height:** 169 cm
+**Weight:** 56 kg
+**Body Type:** Graceful slender hourglass; elegant dancer’s silhouette
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 89 – 66 – 96  
+VALIDATION: • W/B = 0.742 → OK   • H/W = 1.45 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+A **delicate silver circlet** shaped like quill feathers, **droplet pearl earrings**, a **necklace of crystal chime-beads**, a **thin silver bracelet** with etched runes of resonance, and a **feather anklet** that releases a faint echo with each step.
+
+She moves like a melody—grace in every turn, yet warm and approachable.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **silvery-blue bardic tunic** with open sleeves and faint luminescent threading. **Mid-length skirt panels** overlay **tight black leggings**, suited for dancing. **High-heeled boots** with soft soles allow silent movement. A **short mantle** of pale feathers drapes across her shoulders, symbolizing her lineage.
+
+**Color Palette:** silver / soft blue / pearl white / black accents
+**Accents:** quill motifs, chime-bead trims, musical etchings on hem
+
+**Loadout:** lute with teal inlays, rapier, small spellbook of echo-notation, chime focus ring.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **15** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +4, CHA +5
+* **Skills:** Performance +7, Persuasion +5, Arcana +3, History +3, Insight +3, Acrobatics +4
+* **Languages:** Common, Elvish, Celestial, Thalassaran Cant
+* **Equipment:** lute, rapier, spellbook, chime ring, silver circlet
+
+**Bard (College of Lore) 3:**
+
+* **Bardic Inspiration (d6)**, **Jack of All Trades**, **Song of Rest**, **Expertise (Performance, Insight)**, **Cutting Words**
+* **Spellcasting (CHA DC 13, +5 attack):**
+
+  * *Cantrips:* *Vicious Mockery, Dancing Lights, Minor Illusion*
+  * *1st–2nd-level:* *Healing Word, Dissonant Whispers, Detect Magic, Suggestion, Calm Emotions, Enhance Ability*
+
+**Attacks**
+
+* **Rapier:** +4 to hit, 1d8+2 piercing
+* **Vicious Mockery:** DC 13, 1d4 psychic + disadvantage on next attack
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Support / Debuff Controller**
+* **Tactics:** Keeps midline, buffing allies with **Inspiration** and **Enhance Ability**, while using **Cutting Words** to disrupt enemies. Opens with **Calm Emotions** in chaotic fights.
+* **Signature Opener:** Strikes her lute string, summoning floating lights that disorient foes.
+* **Finisher:** *Dissonant Whispers* harmonized with rapier thrust.
+* **Damage Flavor:** Each note forms visible resonance rings in silver light.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran weights)**
+
+* **Traits:** Calm, warm, teasingly protective; smiles before she speaks.
+* **Ideal:** Harmony — “A note only shines in chorus.”
+* **Bond:** Apprentices under the same maestro; she writes letters to all of them monthly.
+* **Flaw:** Avoids confrontation by over-smiling.
+* **Quirk:** Sways unconsciously when thinking, as if hearing rhythm.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Amphitheater Quarter, Moon Gardens**
+* **Threat Gradient:** **Stable → Wavering** (musical resonance zones)
+* **Encounter Framing:** **Escort Performer**, **Rescue Maestro**, **Diplomatic Performance Duel**
+
+---
+
+## 📜 Background & Lifestyle**
+
+* **Background:** Born to a seamstress and a bard. Her Thalassaran feather lineage manifested as a soft humming resonance when she sang. Studied under the Aural Chorus, performing for nobles and protecting sacred performances from Echo corruption.
+* **Lifestyle:** Elegant but humble; shares songs for food in small towns.
+* **Income:** Performer’s fee, academic grant.
+* **Relationships:** Correspondent of **Lyra Thalassara** (provides rhythm maps); mentor to two young singers.
+
+---
+
+## 🧩 Morals & Ethics**
+
+Believes that **music binds memory**; destroying beauty is equal to heresy. Seeks to heal discord through art, even among enemies.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths**
+
+* **Fears:** Losing her voice to Echo distortion.
+* **Weaknesses:** Overly trusting of smooth talkers.
+* **Strengths:** Inspires morale, sharp perception of emotional “tones.”
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นพี่” tone — gentle encouragement, mixed with affectionate teasing. Places a hand on a shoulder while whispering, “Breathe—every hero needs rhythm.” Likes to make others blush with compliments disguised as advice.
+
+---
+
+## 🤫 Secrets & Plot Hooks**
+
+* **Secret:** Her wings can resonate into full spectral form once per month, granting flight for 1 minute—but the sound draws Echoes.
+* **Hooks:**
+
+  1. **Wings of the Moon Song:** Escort Mira through an Echo storm to perform a cleansing hymn.
+  2. **The Broken Chorus:** Investigate a silent amphitheater where music dies mid-note.
+  3. **Letters to the Lost:** A stolen letter collection contains secrets of Thalassaran lineages.
+
+## Tags: #Female #OlderSister #HalfElf #Bard3 #Thalassara #Support #CR1 #Adventurer #SilverVoice
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese half-elf bard, long ash-brown hair with silver tips, silver-blue eyes, feathered wings, silver circlet, blue tunic, lute, moonlit stage, serene smile

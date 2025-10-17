@@ -1,0 +1,162 @@
+# #003 — **Rinna Vaelune** — *Flare-Dancer of the Ember Courts*
+
+> “If danger looks your way—smile brighter, move faster.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นพี่)
+* **Age:** 26
+* **Race:** Half-Elf (Skarnov descent — human-like ~85% with faint bronze scales along collarbones and molten-gold pupils)
+* **Class & Level:** Fighter (Battle Master) 2 / Sorcerer (Draconic Bloodline) 1 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Neutral
+* **Profession:** Duelist instructor, mercenary performer
+* **Rank / Position:** Freelance combat tutor, “Blades of Ember Court” adjunct
+* **Organization:** **Skarnov Arena Guilds** (independent affiliate)
+* **Symbol:** A coiling ember-dragon encircling a dueling blade
+* **Title:** *The Amber Spark*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Vietnamese–Southeast Asian hybrid (Skarnov urban flare)
+
+Rinna glows with bronze warmth, her **skin sunlit and faintly metallic**, showing a trace of draconic lineage—minute scales shimmer when she flexes. **Eyes** molten-gold, alive with mirth. **Posture:** confident, open, inviting challenge.
+
+**Hair (randomized):** **Medium length**, **straight crimson-black**, with fiery orange underlights, tied in a half-up knot.
+
+**Height:** 172 cm
+**Weight:** 61 kg
+**Body Type:** Strong athletic curve; dancer’s grace with duelist’s tone
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large  
+THREE_SIZES (B-W-H, cm): 98 – 70 – 104  
+VALIDATION: • W/B = 0.714 → OK   • H/W = 1.49 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Gold chime earrings; **lava-glass pendant** resting at her throat (draconic charm); **woven copper bangles** coiling both wrists; an **anklet of linked flame charms** that flash when she steps.
+
+She smells faintly of smoke and spice.
+
+---
+
+## 👗 **Outfit (in English)**
+
+She wears a **scarlet-and-bronze duel coat**, cropped at the waist for movement, with split tails that flutter like fire. Beneath, **black fitted armor** with scaled texture; **combat skirt panels** in layered flame fabric. **Boots** knee-high with reinforced instep plates.
+
+**Color Palette:** bronze / crimson / black / gold
+**Accents:** scale motifs, dragon embroidery, silk sashes with heat-resistant lining
+
+**Loadout:** curved **scimitar (“Emberwing”)**, **dagger**, **arcane focus pendant**, **training bells**, **flint powder pouches** (for flare tricks).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 2d10 + 1d6 + (CON +2)×3 → **28 HP**
+* **AC:** **17** (chain shirt + DEX + defense stance)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Acrobatics +5, Performance +4, Athletics +4, Persuasion +4, Intimidation +4
+* **Languages:** Common, Elvish, Draconic
+* **Equipment:** chain shirt, scimitar, dagger, focus pendant, duelist’s coat, flare powder
+
+**Fighter (Battle Master) 2:**
+
+* **Superiority Dice (2d6)**, **Maneuvers:** Riposte, Feinting Attack, Parry
+* **Fighting Style:** Dueling (+2 dmg when wielding single weapon)
+
+**Sorcerer (Draconic Bloodline) 1:**
+
+* **Ancestry:** Red Dragon — adds CHA to fire damage once/turn
+* **Spells (CHA DC 12, +4 attack):** *Burning Hands, Fire Bolt, Prestidigitation, Shield*
+
+**Attacks**
+
+* **Scimitar “Emberwing”:** +5 to hit, 1d6+5 slashing (+2 from Dueling, +3 DEX)
+* **Fire Bolt:** +4 to hit, 1d10 fire
+
+---
+
+## 🎯 Combat Tactics (Randomized)
+
+* **Role:** **Frontline Skirmisher / Elemental Duelist**
+* **Tactics:** Uses **Feinting Attack** for advantage, then follow with **Fire Bolt** or sword riposte. Prefers flashy counterattacks and morale-breaking displays.
+* **Signature Opener:** Toss flare powder → ignite with *Prestidigitation* → rush in under smoke veil.
+* **Finisher:** *Burning Hands* surge followed by scimitar flourish and mocking salute.
+* **Damage Flavor:** Every blade swing leaves glowing ember trails like dancing ribbons.
+
+---
+
+## 💬 Personality (Randomized — Skarnov weights)**
+
+* **Traits:** Confident, boisterous, a little flirtatious; calls everyone “rookie.”
+* **Ideal:** Passion — “Life’s a fight; win it beautifully.”
+* **Bond:** Her old dueling instructor who vanished mid-match.
+* **Flaw:** Overconfident; underestimates group tactics.
+* **Quirk:** Always spins her blade once before attacking, as if warming it.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Skarnov** — Ember Courts, training arenas, tavern duels
+* **Threat Gradient:** **Stable → Wavering** (when rival guilds duel for dominance)
+* **Encounter Framing:** **Arena Duel**, **Mercenary Recruitment**, **Ambush Under Flarelight**
+
+---
+
+## 📜 Background & Lifestyle**
+
+* **Background:** Once a street performer in Skarnov fire shows; her control of heat drew noble eyes. Now trains noble heirs in “combat poise.”
+* **Lifestyle:** Lavish; enjoys fine wine and dance. Keeps student letters as trophies.
+* **Income:** Duelist wages, performance contracts.
+* **Relationships:** On-and-off rivalry with **Sir Kalden of the Ember Courts**; mentor to young mercs.
+
+---
+
+## 🧩 Morals & Ethics**
+
+Believes **style equals strength**—ugly victories shame the soul. Morally flexible but honors duels as sacred.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths**
+
+* **Fears:** Losing her reflexes; fading into anonymity.
+* **Weaknesses:** Easily baited into performance traps.
+* **Strengths:** Fast reflexes, fiery charisma, strong mid-combat control.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นพี่” tone — playful dominance. Flicks a spark between fingers and says, “Careful—get too close and I might melt your resolve.” Likes to tease allies with “practice duels,” gives encouraging winks, and gently corrects posture mid-swing.
+
+---
+
+## 🤫 Secrets & Plot Hooks**
+
+* **Secret:** Her flame magic once killed a noble accidentally—covered by guild hush money.
+* **Hooks:**
+
+  1. **Fire in the Courts:** Duel Rinna to expose a corrupt patron rigging tournaments.
+  2. **Ash and Memory:** Her old instructor’s blade resurfaces in a Severance black-market.
+  3. **The Dancer’s Debt:** She’s forced to perform in a deadly spectacle—free her without burning her pride.
+
+## Tags: #Female #OlderSister #HalfElf #Fighter2 #Sorcerer1 #Skarnov #Duelist #CR1 #Adventurer #FlareDancer
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese half-elf duelist, medium crimson-black hair, golden eyes, bronze scales, red-black coat, scimitar, fire trails, confident smile, arena backdrop

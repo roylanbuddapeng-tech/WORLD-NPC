@@ -1,0 +1,154 @@
+# #025 — **Nerine Valeiros** — *Pearlscale Acolyte of the Tidal Veins*
+
+> “The tide forgives no one, but it remembers everyone.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นน้อง)
+* **Age:** 18
+* **Race:** Beast-kin (Aquatic — Half-Dolphin lineage, human-like ~90%, faint blue luminescence under skin, short fin ridge behind ears, smooth skin with faint sea-sheen)
+* **Class & Level:** Cleric (Tempest Domain) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Tide acolyte, wave-healer, shrine attendant
+* **Rank / Position:** **Acolyte of the Tidal Veins Shrine**
+* **Organization:** **Thalassara Waterfaith Sanctum**
+* **Symbol:** A spiral wave enfolding a pearl
+* **Title:** *The Laughing Current*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Vietnamese–Portuguese hybrid
+
+Nerine is radiant in both presence and smile, with an aura of youthful reverence. **Eyes:** turquoise-blue with silvery flecks, wide and bright. **Skin:** smooth, pale with faint opalescent glow. When she moves, her skin catches light like a pearl’s surface.
+
+**Hair (randomized):** **Long**, **curly aqua-silver**, tied half-up with seashell clips, cascading in soft waves.
+
+**Height:** 163 cm
+**Weight:** 52 kg
+**Body Type:** Slender, delicate but energetic.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 85 – 63 – 90  
+VALIDATION: • W/B = 0.741 → OK • H/W = 1.43 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Silver **shell earrings**, **pearl choker**, **aqua bead bracelet**, and a **thin ankle chain** with a single droplet-shaped gem.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **white and seafoam robe** tied with **blue ribbons**, trimmed in coral-pink patterns. The lower hem ripples like ocean foam when she walks. She carries a **short glaive-like focus** tipped with shell and coral, glowing softly when she prays.
+
+**Color Palette:** seafoam / white / pink coral / silver
+**Accents:** soft fabrics, seashells, embroidered waves
+
+**Loadout:** coral-tipped glaive focus, holy symbol, pearl vial for healing water, silver ring of blessing.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **16** (chain shirt + shield)
+* **Speed:** 30 ft, **Swim 30 ft**
+* **STR 12 (+1)** **DEX 13 (+1)** **CON 12 (+1)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Medicine +5, Insight +5, Religion +2, Persuasion +4, Performance +4
+* **Languages:** Common, Aquan, Elvish
+
+**Cleric (Tempest Domain) 3:**
+
+* **Wrath of the Storm (2d8 lightning)**, **Channel Divinity: Destructive Wrath**, **Tempest Spells** (*Thunderwave, Fog Cloud, Gust of Wind*)
+* **Spellcasting (WIS DC 13, +5 attack):** *Cure Wounds, Bless, Thunderwave, Fog Cloud, Spiritual Weapon, Lesser Restoration*
+
+**Attacks**
+
+* **Glaive Focus:** +4 to hit, 1d10+1 slashing
+* **Wrath Reaction:** 2d8 lightning (once per rest)
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Healer / Storm Controller**
+* **Tactics:** Stays mid-line, opens with *Bless*, shifts to *Thunderwave* when enemies cluster. Uses *Destructive Wrath* to maximize burst.
+* **Signature Opener:** Raises her glaive as droplets rise and flash into lightning arcs.
+* **Finisher:** *Spiritual Weapon* shaped as a dolphin made of water and light.
+* **Damage Flavor:** Lightning bursts like splashing surf; thunder sounds like laughter underwater.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran acolyte tone)**
+
+* **Traits:** Cheerful, caring, a bit naïve but determined.
+* **Ideal:** Hope — “Every tide returns.”
+* **Bond:** Her mentor, a blind sea-priestess.
+* **Flaw:** Trusts too easily.
+* **Quirk:** Blows bubbles when deep in thought (literally, through minor magic).
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Tidal Veins Shrine, Pearl Docks, Moonwater Plaza**
+* **Threat Gradient:** **Stable → Wavering** (Echo storms near the docks)
+* **Encounter Framing:** **Shrine Defense**, **Storm Rescue**, **Healing Ritual**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Born during a massive storm; said to be “chosen by the tide.” Trained by sea-priests to control water currents through song.
+* **Lifestyle:** Lives in the shrine dormitory, spends evenings teaching orphans to swim.
+* **Income:** Temple stipend + ritual donations.
+* **Relationships:** Admires Seren Dalthor; playfully flusters Rheia Corven by calling her “Miss Raven.”
+
+---
+
+## 🧩 Morals & Ethics
+
+Values joy as sacred; believes laughter wards Echo corruption.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her voice or drowning in still water (no current).
+* **Weaknesses:** Overextends her healing to exhaustion.
+* **Strengths:** Healing magic, morale support, innate empathy.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นน้อง” tone — bubbly and affectionate. She beams, tail flicking: “You’re frowning again! Here—smile, it’s good luck on the tide!” When teased, she blushes pink and hides behind her glaive, ears twitching wildly.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her bloodline connects to an ancient Tide Spirit that once guarded Thalassara’s coast.
+* **Hooks:**
+
+  1. **Echo Tide:** Join Nerine in calming a storm corrupted by Severance whispers.
+  2. **Pearl of Memory:** Retrieve her lineage’s lost relic from a drowned temple.
+  3. **Silent Surf:** Investigate why the sea has stopped singing near the bay.
+
+## Tags: #Female #YoungerSister #BeastKin #AquaticKin #Cleric3 #Tempest #Thalassara #CR1 #Adventurer #Healer
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese Portuguese dolphin-kin female cleric, long curly aqua-silver hair, turquoise eyes, pearl robe, seafoam glow, coral staff, ocean shrine, bright smile

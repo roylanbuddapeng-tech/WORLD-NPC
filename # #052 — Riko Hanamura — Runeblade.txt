@@ -1,0 +1,199 @@
+# #052 — **Riko Hanamura** — *Runeblade Novice of the Crimson Dawn Monastery*
+
+> “Discipline sharpens the edge. Passion gives it purpose.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 052
+* **Gender (weighted random):** Female (Type: รุ่นน้อง — energetic, eager to prove herself, admires senior adventurers, easily flustered but never backs down)
+* **Age:** 19
+* **Race:** Human (Arvenspire stock — 100% human, faint scarlet rune-birthmark behind right ear, signifying latent elemental affinity)
+* **Class & Level:** Fighter (Eldritch Knight) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Good
+* **Profession:** Warrior-monk apprentice, rune-engraver
+* **Rank / Position:** **Novice of the Crimson Dawn Order**
+* **Organization:** **Crimson Dawn Monastery** (Arvenspire Martial Codex Sect)
+* **Symbol:** A stylized sword over a rising sun sigil
+* **Title:** *The Blushing Blade*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Japanese tone — youthful, radiant, charmingly awkward grace, reminiscent of Suzu Hirose or Miyawaki Sakura fantasy styling.
+
+**Eyes:** warm chestnut brown, big and bright, always full of curiosity.
+**Skin:** peach-fair, sun-kissed on arms and neck from training outdoors.
+
+**Hair (randomized):** **Length: Medium**, **Style: half-up braided ponytail**, **Texture: wavy**, **Color: ruby-brown with gold undertones**, wispy bangs framing her face. *(Full randomization applied)*
+
+**Height:** 160 cm
+**Weight:** 50 kg
+**Body Type:** Slim-athletic, flexible; defined arms, but soft, feminine balance.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 88 – 65 – 92  
+VALIDATION: • W/B = 0.74 → OK • H/W = 1.41 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Red cord bracelet (lucky charm), silver ear cuff engraved with runes, small sunburst pendant (training token).
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **crimson martial tunic** with black trim, light **runic gauntlets**, and **armored greaves** fitted for agility. A **short cloak** of white linen marks her status as a novice. She carries a **runeblade longsword** inscribed with faintly glowing characters.
+
+**Color Palette:** crimson / black / white / gold
+**Accents:** clean, disciplined, lightly ceremonial
+
+**Loadout:** longsword, dagger, shield (runic etching), training bandages, sparring gloves.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **18** (chain shirt + shield + DEX)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 14 (+2)** **CON 14 (+2)** **INT 13 (+1)** **WIS 11 (+0)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Athletics +4, Acrobatics +4, Arcana +3, Insight +2, History +3
+* **Languages:** Common, Celestial
+
+**Fighter (Eldritch Knight) 3:**
+
+* **Weapon Bond (Runeblade)**
+* **Action Surge (1/rest)**
+* **Second Wind (1d10+3 heal)**
+* **Spellcasting (INT DC 11, +3 attack)**
+* **Spells Known:** *Shield, Magic Missile, Absorb Elements, Burning Hands*
+* **Cantrips:** *Booming Blade, Minor Illusion*
+
+**Attacks**
+
+* **Longsword:** +5 to hit, 1d8+2 slashing (versatile 1d10+2)
+* **Dagger:** +4 to hit, 1d4+2 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Duelist / Defensive Mage Hybrid**
+* **Tactics:** Opens with *Booming Blade* or *Shield*, guards allies, and uses *Action Surge* for flurries.
+* **Signature Opener:** A bright grin, sword drawn — “I’ll make Master proud!”
+* **Finisher:** Channeling rune-fire through *Burning Hands* before striking with a glowing blade.
+* **Damage Flavor:** Each swing leaves brief golden sigil trails in the air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Enthusiastic, respectful, earnest.
+* **Ideal:** Honor — “Strength means nothing without purpose.”
+* **Bond:** Admires her mentor, Meilin Arha, whom she secretly imitates.
+* **Flaw:** Over-eager; often charges in too early.
+* **Quirk:** Counts aloud during sparring — “One! Two! Three—oops!”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Arvenspire — Crimson Dawn Monastery, Windspine Plateau**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **Training Trial**, **Escort Mission**, **Ritual Duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Riko grew up as the monastery’s errand girl, cleaning blades and watching warriors spar. Her magic manifested when she accidentally enchanted a broom into attacking thieves — earning her a place as a trainee knight.
+
+* **Lifestyle:** Disciplined but cheerful; wakes early, trains till dusk.
+* **Income:** Monastic stipend; occasionally crafts ward charms.
+* **Relationships:** Idolizes Meilin Arha; friendly with Tsubasa Renjou, calls her “big sis.”
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes good intentions must be backed by strength. Feels guilt over mistakes but never hides them.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing her mentor or being called a burden.
+* **Weaknesses:** Naive in deceit and subtle politics.
+* **Strengths:** Courage, loyalty, and adaptability in battle.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นน้อง” tone — earnest, excitable, easily embarrassed.
+
+> “S-Senpai! I did it! …Wait, was that too loud?”
+> She beams proudly at praise, but when you tease her:
+> “I’m *not* blushing! It’s just the training heat!”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** She channels Echo energy unknowingly through her sword, which hums near corrupted areas.
+* **Hooks:**
+
+  1. **Runeblade Resonance:** Investigate why her sword reacts to certain ruins.
+  2. **The Missing Mentor:** Her master disappears mid-training, leaving only a rune mark.
+  3. **The Blushing Duel:** Riko must fight her own enchanted mirror copy to graduate.
+
+## Tags: #Female #JuniorType #Human #Fighter3 #EldritchKnight #Arvenspire #CR1 #Adventurer #Novice #Runeblade
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+She **flusters easily**, especially when praised or teased. Often salutes too enthusiastically. Loves being called “strong” — it makes her trip over her words.
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** runeblade longsword, dagger
+  * **Armor:** chain shirt, shield
+  * **Tools:** calligraphy set (rune etching), whetstone
+  * **Consumables:** 1× healing potion, 1× rune scroll (*Shield*)
+  * **Misc:** crimson sash, lucky charm bracelet
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 16) *or* **War Caster**
+  * **Spell Pick:** *Magic Weapon* or *Protection from Evil and Good*
+  * **Feature Growth:** 2nd Action Surge charge at higher levels
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Arvenspire — Crimson Dawn Monastery**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **Training Duel**, **Temple Defense**, **Echo Disturbance**
+* **Affiliation:** **Crimson Dawn Order — Novice Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese female human fighter eldritch knight, 160cm, medium wavy ruby-brown hair in half-up braid, warm brown eyes, slim athletic body, crimson martial outfit with gold accents, rune-etched sword, monastery courtyard background, bright sunlight, confident yet shy smile

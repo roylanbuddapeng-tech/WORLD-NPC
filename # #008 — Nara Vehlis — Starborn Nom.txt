@@ -1,0 +1,156 @@
+# #008 — **Nara Vehlis** — *Starborn Nomad of the Dune Choir*
+
+> “Don’t ask the desert for mercy. Ask it to dance.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: Tomboy — Type 1: soft and feminine but short-haired)
+* **Age:** 22
+* **Race:** Half-Elf (Skarnov frontier strain — human-like ~85 % with faint bronze shimmer along the jawline and small dune-colored freckles)
+* **Class & Level:** Monk (Way of the Kensei) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Wanderer-monk, sand-dancer, caravan bodyguard
+* **Rank / Position:** **Nomad of the Dune Choir**, road-watcher
+* **Organization:** **Temple of the Golden Step** — Skarnov Frontier
+* **Symbol:** A bare footprint encircled by drifting sand lines
+* **Title:** *The Wind-Step Nomad*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Arabic–Southeast Asian fusion
+
+Nara’s presence is wind and laughter. **Eyes**: deep gold-brown, glinting like polished amber. **Skin**: sun-kissed bronze with a dust-warm glow. Her movements have a dancer’s grace—every step balanced, every breath tuned to rhythm.
+
+**Hair (randomized):** **Short feminine cut**, **dark sand-blonde**, straight with choppy edges; a stray lock often covers one eye.
+
+**Height:** 171 cm
+**Weight:** 59 kg
+**Body Type:** Lean and flexible, wiry muscle with soft, feminine outline
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 87 – 66 – 94  
+VALIDATION: • W/B = 0.758 → OK • H/W = 1.42 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Small **turquoise stud earrings**, a **thin sand-steel bangle**, a **braided leather anklet** with silver beads, and a **sun-etched charm** hanging from her belt. When she moves, her jewelry jingles softly—like wind chimes lost in dunes.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **light tan wrapping tunic** cropped at the midriff, layered with **flowing scarf-sashes** for mobility. **Loose sand-colored pants** tucked into **light leather boots**; forearm wraps protect against heat and rope burns. Her **belt scarf** bears prayer knots from past journeys.
+
+**Color Palette:** tan / white / turquoise / bronze
+**Accents:** flowing cloth, minimal armor, desert motifs
+
+**Loadout:** quarterstaff (Kensei weapon), two chakrams, water flask holy symbol, and map tube of the Dune Choir paths.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **17** (Dex + Wis + Unarmored Defense)
+* **Speed:** 40 ft
+* **STR 12 (+1)** **DEX 17 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +5
+* **Skills:** Acrobatics +5, Insight +4, Perception +4, Stealth +5, Survival +4
+* **Languages:** Common, Elvish, Ignan
+* **Equipment:** quarterstaff, chakrams (2), holy symbol flask, travel kit
+
+**Monk (Way of the Kensei) 3:**
+
+* **Martial Arts (1d4)**, **Ki Points (3)** (*Flurry of Blows, Step of the Wind, Patient Defense*)
+* **Deflect Missiles**, **Kensei Weapons (quarterstaff, chakram)**, **Kensei Shot**, **Path of the Brush (flavor)**
+
+**Attacks**
+
+* **Quarterstaff (Kensei):** +5 to hit, 1d8+3 bludgeoning (two-handed)
+* **Unarmed Strike:** +5 to hit, 1d4+3 bludgeoning
+* **Chakram (Thrown 20/60):** +5 to hit, 1d6+3 slashing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Mobile Striker / Control**
+* **Tactics:** Uses **Step of the Wind** to circle targets, **Flurry of Blows** to push and trip. Prefers to fight barefoot on sand for balance.
+* **Signature Opener:** Throws chakram in a curve, dives through dust to close the gap.
+* **Finisher:** Double-kick combo into staff thrust that sends dust swirling like a mini-storm.
+* **Damage Flavor:** Hits trail streaks of bronze light and wind ripples.
+
+---
+
+## 💬 Personality (Randomized — Skarnov frontier weights)**
+
+* **Traits:** Playful, rebellious, quick to laugh.
+* **Ideal:** Freedom — “No chain survives a sandstorm.”
+* **Bond:** Her mother’s map of the Dune Choir—she adds new notes after every journey.
+* **Flaw:** Restless; disappears for weeks without word.
+* **Quirk:** Talks to her weapons like pets.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Skarnov Frontier — Dune Choir, Windfall Ruins**
+* **Threat Gradient:** **Wavering → Echo Zone** (desert vortex rifts)
+* **Encounter Framing:** **Escort Across Storm**, **Monk Trial Duel**, **Echo Investigation at Ruins**
+
+---
+
+## 📜 Background & Lifestyle**
+
+* **Background:** Born to traveling nomads; trained under a wandering monk who taught her to “listen to sand.” Protects caravans from raiders and Echo storms.
+* **Lifestyle:** Lives from pack to pack; sleeps under stars; writes poems on bones she finds in the dunes.
+* **Income:** Caravan guard pay + monastic donations.
+* **Relationships:** Drinks tea with Talla Meryn whenever their paths cross.
+
+---
+
+## 🧩 Morals & Ethics**
+
+Believes discipline should enhance joy, not crush it. She fights with a smile and refuses to strike first unless provoked.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths**
+
+* **Fears:** Being buried alive by sand.
+* **Weaknesses:** Overly curious about forbidden temples.
+* **Strengths:** Extreme mobility, fearless in chaotic terrain, mastery of balance.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“Tomboy Type 1” — sunny and teasing but softly affectionate. Winks after every victory: “Still breathing? Good—means I didn’t kick too hard.” Leans close to ruffle hair of shorter allies and laughs when they blush. Has a habit of calling everyone “rook.”
+
+---
+
+## 🤫 Secrets & Plot Hooks**
+
+* **Secret:** Her quarterstaff is hollow and contains a map to a buried monastery swallowed by sand.
+* **Hooks:**
+
+  1. **Whispers of the Golden Step:** Join Nara to reclaim relics from a half-buried temple.
+  2. **Storm Callers:** Track Severance agents using wind magic to summon Echo storms.
+  3. **Desert Dance:** Compete with Nara in a ritual trial that tests grace and speed.
+
+## Tags: #Female #TomboyType1 #HalfElf #Monk3 #Kensei #Skarnov #Adventurer #CR1 #DesertNomad #DuneChoir
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Arabic Southeast Asian half-elf monk, short sand-blonde hair, amber eyes, bronze skin, desert outfit, quarterstaff, chakrams, wind and sand background, teasing smile

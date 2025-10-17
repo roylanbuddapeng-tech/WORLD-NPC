@@ -1,0 +1,197 @@
+# #054 — **Naru Tsukihara** — *Half-Moon Healer of the Silent Vale*
+
+> “If the world forgets how to listen, I’ll whisper until it remembers.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 054
+* **Gender (weighted random):** Female (Type: MILF — mature, calm, nurturing presence with quiet sensuality and wisdom)
+* **Age:** 37
+* **Race:** Half-Elf (Thalassaran lineage — 85% human-like; faint teal hue in eyes, slender ears, voice carries soft resonance)
+* **Class & Level:** Cleric (Life Domain) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Village healer, herbalist, spiritual guide
+* **Rank / Position:** **Matron of the Silent Vale Shrine**
+* **Organization:** **Order of Lysantra’s Light**
+* **Symbol:** Crescent moon cradling a blooming lotus
+* **Title:** *The Moon’s Touch*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Japanese–Vietnamese tone — refined grace, gentle yet arresting beauty reminiscent of Chiaki Kuriyama or Ha Ji-won matured for fantasy.
+
+**Eyes:** turquoise-blue, luminous and patient.
+**Skin:** soft ivory with faint warmth; faint shimmer near temples when healing.
+
+**Hair (randomized):** **Length: Very Long**, **Style: smooth straight with side braids**, **Color: silvery black with pale blue undertone**, usually tied low with a white silk ribbon. *(Full randomization applied)*
+
+**Height:** 172 cm
+**Weight:** 60 kg
+**Body Type:** Mature hourglass; soft yet firm curves, posture graceful and dignified.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: H CATEGORY: Very Large  
+THREE_SIZES (B-W-H, cm): 105 – 74 – 112  
+VALIDATION: • W/B = 0.705 → OK • H/W = 1.51 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Pearl earrings, crescent moon pendant, silver circlet etched with prayer runes, and a faintly glowing bracelet of moonstone beads.
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **white-blue ceremonial robe** embroidered with moonlotus patterns, cinched by a soft belt of translucent silk. **Flowing sleeves** hide slender healing charms. A **veil** is sometimes drawn over her shoulders when performing rites, catching light like mist over water.
+
+**Color Palette:** ivory / pale blue / silver / moonlight white
+**Accents:** serene, ethereal, yet tactile — a blend of sacred and maternal
+
+**Loadout:** silver staff, healer’s satchel, holy water vials, moonstone talisman, herbal poultices.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +2)×3 → **26 HP**
+* **AC:** **17** (chain shirt + shield + WIS)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 12 (+1)** **CON 14 (+2)** **INT 11 (+0)** **WIS 17 (+3)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Medicine +5, Insight +5, Persuasion +4, Religion +2, Nature +2
+* **Languages:** Common, Elvish, Celestial
+
+**Cleric (Life Domain) 3:**
+
+* **Channel Divinity (Preserve Life)**
+* **Disciple of Life** (+2 + spell level to healing)
+* **Spellcasting (WIS DC 13, +5 attack)**
+* **Prepared Spells:** *Cure Wounds, Bless, Sanctuary, Spiritual Weapon, Lesser Restoration, Prayer of Healing*
+* **Cantrips:** *Guidance, Light, Sacred Flame*
+
+**Attacks**
+
+* **Sacred Flame:** DC 13 DEX save, 1d8 radiant
+* **Mace:** +2 to hit, 1d6 bludgeoning
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Healer / Support Caster / Defensive Anchor**
+* **Tactics:** Prioritizes protection and sustain — *Bless* early, *Spiritual Weapon* mid, *Preserve Life* in emergencies.
+* **Signature Opener:** Lifts her staff and murmurs, “The moon does not rush — neither shall we.”
+* **Finisher:** Channeling *Prayer of Healing*, her eyes glow blue as silver petals scatter like starlight.
+* **Damage Flavor:** Radiant light ripples in soft concentric waves, soothing rather than searing.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calm, nurturing, faintly teasing in her patience.
+* **Ideal:** Compassion — “Healing is not just mending; it’s remembering what it means to be whole.”
+* **Bond:** Protects her small shrine community with fierce devotion.
+* **Flaw:** Neglects her own rest; hides pain behind composure.
+* **Quirk:** Hums lullabies while applying bandages.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara Outskirts — Silent Vale, Moonpetal Village, Lysantra’s Shrine**
+* **Threat Gradient:** **Stable → Wavering (Echo activity near the forest edge)**
+* **Encounter Framing:** **Rescue Mission**, **Sanctuary Defense**, **Healing Rite Interrupted**
+
+---
+
+## 📜 Background & Lifestyle
+
+Naru once served as a temple attendant in Thalassara before leaving for the countryside after a tragedy involving her sister. She rebuilt her life as a village healer, tending both Echo-wounds and broken hearts.
+
+* **Lifestyle:** Gentle rhythms — dawn prayers, midmorning herbs, moonlight vigils.
+* **Income:** Donations, herbal trade, pilgrim offerings.
+* **Relationships:** Acts as surrogate mother to orphans; fond of teasing Kaoru Veylan, who calls her “Aunt Moon.”
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes mercy is a force stronger than justice — and more frightening when denied.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing another loved one to the Echo.
+* **Weaknesses:** Overprotective; emotionally bound to her patients.
+* **Strengths:** Healing expertise, high wisdom, motherly authority that quiets conflict.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“MILF” tone — gentle, knowing, unhurried; warmth wrapped in soft dominance.
+
+> “You shouldn’t push yourself so hard… unless you want me to scold you properly.”
+> If complimented, she smiles faintly, eyes half-lidded:
+> “Flattery heals nothing, dear. But do continue — it’s pleasant.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her shrine stands over a sealed Echo fissure; her healing rites suppress it unknowingly.
+* **Hooks:**
+
+  1. **The Whisper Beneath the Shrine:** Investigate why prayers now echo back with voices of the dead.
+  2. **Moonlight Cure:** Escort her to collect an extinct herb growing only in Echo storms.
+  3. **The One She Couldn’t Save:** A ghost from her past returns — healed, but wrong.
+
+## Tags: #Female #MILF #HalfElf #Cleric3 #LifeDomain #Thalassara #CR1 #Healer #Matron #Priestess
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Makes **others flustered through tender dominance** — tucking stray hair behind ears mid-conversation, softly chiding. When *she* blushes (rarely), her voice dips quieter: “You’re… persistent, aren’t you?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** silver staff, ceremonial mace
+  * **Tools:** healer’s kit, holy symbol
+  * **Consumables:** 3× healing potions, 1× moon petal salve
+  * **Misc:** prayer beads, shrine talisman, handwritten letters from patients
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 19) *or* **Healer Feat**
+  * **Spell Pick:** *Beacon of Hope* or *Calm Emotions*
+  * **Feature Growth:** improve radiant channel range
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara Outskirts — Silent Vale**
+* **Threat Gradient:** **Stable → Wavering (Echo seepage)**
+* **Encounter Type:** **Healing Escort**, **Shrine Defense**, **Purification Ritual**
+* **Affiliation:** **Order of Lysantra’s Light — Shrine Matron Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Vietnamese female half-elf cleric, 172cm, very long silvery black hair with blue undertone, turquoise eyes, soft ivory skin, elegant mature figure, white-blue priestess robe, moonlight glow, serene expression, crescent pendant, gentle healing aura, shrine background, ethereal calm atmosphere

@@ -1,0 +1,191 @@
+# #069 — **Eiden Voss** — *Clockwork Gunslinger of the Brass Frontier*
+
+> “The sound of a well-oiled trigger is the closest thing to prayer I know.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 069
+* **Gender (weighted random):** **Male (Type: เมะ)** — strong, confident, stoic charm; composed under fire but has a quiet protective edge
+* **Age:** 29
+* **Race:** **Human (Skarnov lineage)** — human, faint metallic shimmer beneath skin from forge exposure
+* **Class & Level:** **Gunslinger Fighter (Matt Mercer subclass, RAW compatible)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Gunsmith-for-hire, bounty marksman, escort mercenary
+* **Rank / Position:** **Frontier Enforcer**
+* **Organization:** **Iron Reach Company** (semi-independent merc guild under Skarnov charter)
+* **Symbol:** Bullet striking a gear rimmed with silver flame
+* **Title:** *The Brass Hand*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Western-European / American Frontier hybrid** — visual tone akin to a fantasy blend of *Henry Cavill × Pedro Pascal* energy; rugged yet refined.
+
+**Eyes:** gunmetal gray, narrow and focused.
+**Skin:** lightly tanned, faint soot-tone at jawline and forearms.
+**Hair (randomized):** **Medium**, **style:** slicked-back with a few rebellious strands, **color:** ash brown with copper streaks near the temples.
+**Height:** 184 cm
+**Weight:** 80 kg
+**Body Build:** **Lean Muscular** — defined arms and back from years of recoil work, light armor sculpted to movement.
+
+**Jewelry & Accessories (randomized):**
+Iron cog pendant on a leather cord, reinforced glove on right hand (shooting gauntlet), bullet-chain bracelet, and a single ear stud shaped like a brass screw.
+
+---
+
+## 👗 Outfit (in English)
+
+Long **dust-brown coat** reinforced with **brass studs**, **black undershirt** open at collar, **charcoal slacks** tucked into **knee-high leather boots**, and a **toolbelt** carrying ammo cylinders, cleaning rods, and a collapsible scope. A **brass revolver** rests on his hip, engraved with faint runic glyphs that hum when spun.
+
+**Color Palette:** brass / brown / coal gray / muted gold
+**Accents:** rough elegance, practical heat-worn fashion
+
+**Loadout:** custom revolver “Echo’s Bite” (+1 pistol), short sword, tinkering tools, repair oil, 24 bullets (6 enchanted).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **34 HP**
+* **AC:** **16** (leather longcoat + DEX +2)
+* **Speed:** 30 ft
+* **STR 13 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 12 (+1)** **WIS 11 (+0)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, CON +4
+* **Skills:** Perception +2, Insight +2, Sleight of Hand +6, Investigation +3, Survival +2, Intimidation +3
+* **Languages:** Common, Dwarvish, Skarnov Cant
+
+**Fighter (Gunslinger) 3:**
+
+* **Fighting Style:** Archery (+2 attack rolls)
+* **Second Wind**, **Action Surge**
+* **Grit Points:** 3
+* **Trick Shots:** *Deadeye*, *Piercing*, *Disarming*
+* **Firearm (Echo’s Bite):** Revolver (range 40/120, 1d10 piercing, reload 6)
+
+**Attacks:**
+
+* **Revolver (Echo’s Bite):** +8 to hit, 1d10+4 piercing (can add Trick Shot effects)
+* **Shortsword:** +6 to hit, 1d6+4 slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Precision Striker / Support Marksman**
+* **Tactics:** Opens from medium range with *Deadeye* to guarantee hit; uses *Disarming* to weaken bosses, *Piercing* for clustered enemies.
+* **Signature Opener:** Flicks cylinder, spins revolver once, then fires through two candles in a line.
+* **Finisher:** Presses gun to his temple — “Six chambers. Guess which one sings for you.”
+
+**Damage Flavor:** Brass casings crackle with faint sonic hums as each bullet cuts shimmering air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calm, precise, dry wit.
+* **Ideal:** Discipline — “A steady hand saves more lives than a loud one.”
+* **Bond:** Keeps a ledger of every bounty completed and the lives spared by it.
+* **Flaw:** Overly pragmatic; mercy feels inefficient to him.
+* **Quirk:** Spins bullets between fingers while talking, unconsciously counting.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Iron Reach Frontier, Brass Flats**
+* **Threat Gradient:** **Stable → Wavering (bandit + Echo interference)**
+* **Encounter Framing:** **Frontier Duel**, **Bounty Ambush**, **Convoy Escort**
+
+---
+
+## 📜 Background & Lifestyle
+
+Ex-soldier turned freelance enforcer. Left the army after refusing to fire on civilians during a Severance containment. Reinvented himself in the frontier, keeping balance between order and mercy.
+
+* **Lifestyle:** Sparse; lives above a gunsmith shop.
+* **Income:** Bounties and escort contracts.
+* **Relationships:** Rivalry-turned-friendship with Hajime Kuroda; client ties to Mina Soryu (who enchanted his revolver).
+
+---
+
+## 🧩 Morals & Ethics
+
+Does what must be done, but refuses cruelty for profit. Believes justice is “measured by restraint, not retribution.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of his gun’s Echo harmonics.
+* **Weaknesses:** Socially distant, struggles to trust new allies.
+* **Strengths:** Exceptional aim, leadership under stress, anti-Echo tactics.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+**Type: เมะ (dominant calm male)** — reserved but magnetic; tends to protect without asking.
+
+> “You don’t need to stand behind me, but I’ll be here if you trip.”
+> He’s hard to fluster, but if flirted with too directly:
+> *Pauses, smirks faintly* “Careful. I might start believing you.”
+> He unconsciously **makes others blush** with low steady tone and close eye contact when giving orders.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His revolver core is fused with Echo crystal — it whispers the names of his kills.
+* **Hooks:**
+
+  1. **Echo’s Bite Malfunction:** The weapon begins firing on its own at night.
+  2. **Bounty Gone Silent:** His former squadmate reappears as an Echo construct.
+  3. **The Seventh Chamber:** Unlocking his revolver’s final rune may destroy him—or the Severance cell tracking him.
+
+## Tags: #Male #MehType #Human #Fighter3 #Gunslinger #Skarnov #CR1 #Marksman #Frontier
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Quietly observant. Responds to teasing with a lopsided grin and dry humor:
+
+> “Keep talking like that, and I’ll miss on purpose—just once.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** revolver (Echo’s Bite), short sword
+  * **Armor:** reinforced longcoat (leather equivalent)
+  * **Tools:** gunsmith kit, maintenance oil
+  * **Consumables:** 2× healing draughts, 6× enchanted bullets
+  * **Misc:** ledger, brass token, dog tag
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Sharpshooter**
+  * **Trick Shot Add:** *Winging Shot* for mobility control
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Iron Reach Frontier — Brass Flats**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **Frontier Duel**, **Ambush Defense**, **Bounty Pursuit**
+* **Affiliation:** **Iron Reach Company — Enforcement Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Western-European American male gunslinger, 184cm, ash-brown slicked-back hair with copper streaks, gray eyes, lean muscular build, brass revolver, long brown coat, desert frontier, dusk light, confident calm expression

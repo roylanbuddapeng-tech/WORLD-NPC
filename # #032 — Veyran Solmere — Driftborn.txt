@@ -1,0 +1,148 @@
+# #032 — **Veyran Solmere** — *Driftborne Duel-Arcanist of the Sapphire Current*
+
+> “Magic and movement share one truth—hesitate, and both will drown you.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Male (Type: วัยกลางคน)
+* **Age:** 38
+* **Race:** Human
+* **Class & Level:** Sorcerer (Storm Sorcery) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Sailmage, combat navigator, storm-ritualist
+* **Rank / Position:** **Lead Arcanist of the Sapphire Current Fleet**
+* **Organization:** **Thalassara Skywave Armada**
+* **Symbol:** A lightning arc encircling a stylized compass
+* **Title:** *The Driftborne Tempest*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Portuguese–Arabic hybrid
+
+Veyran is the image of a seafarer touched by storms—handsome in a weathered way, with salt-and-shadow energy about him. **Eyes:** storm-gray with bright streaks of blue when he channels power. **Skin:** sun-bronzed, faint lightning-shaped scar running from temple to neck.
+
+**Hair (randomized):** **Medium**, **wavy black**, streaked with silver at the temples, tied loosely at the nape.
+
+**Height:** 185 cm
+**Weight:** 82 kg
+**Body Build:** Lean muscular, confident stance, sailor’s grace.
+
+**Jewelry & Accessories (randomized):**
+A **chain of stormglass beads**, a **brass compass earring**, and a **silver bracer** engraved with oceanic runes.
+
+---
+
+## 👗 **Outfit (in English)**
+
+He wears a **navy-blue long coat** with silver storm-thread embroidery, half-buttoned over a **white linen shirt** open at the throat. **Weathered leather gloves** cover his forearms, and **dark trousers** are tucked into **sea-boots** etched with lightning motifs.
+
+**Color Palette:** navy / white / bronze / silver
+**Accents:** maritime sigils, elemental glow, worn yet commanding
+
+**Loadout:** storm focus rod, sailor’s dagger, enchanted compass, weather charm.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d6 + (CON +2)×3 → **20 HP**
+* **AC:** **14** (mage armor + DEX)
+* **Speed:** 30 ft; **Swim 30 ft**
+* **STR 11 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 13 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, CHA +5
+* **Skills:** Arcana +3, Insight +3, Nature +3, Persuasion +5, Athletics +2
+* **Languages:** Common, Aquan, Auran, Thalassaran Cant
+
+**Sorcerer (Storm Sorcery) 3:**
+
+* **Tempestuous Magic**, **Heart of the Storm**, **Storm Guide**
+* **Spellcasting (CHA DC 13, +5 attack)**
+* **Spells Known (6):** *Thunderwave, Fog Cloud, Shatter, Gust of Wind, Shield, Chromatic Orb*
+* **Cantrips:** *Ray of Frost, Shocking Grasp, Mage Hand, Message*
+
+**Attacks**
+
+* **Shocking Grasp:** +5 to hit, 1d8 lightning (advantage vs. metal armor)
+* **Stormstrike (flavor attack):** 1d6 thunder + 1d6 lightning (Heart of the Storm active)
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Battle Caster / Area Control**
+* **Tactics:** Begins with *Fog Cloud* or *Thunderwave*, then *Shatter* to break formation. Uses *Tempestuous Magic* for swift repositioning.
+* **Signature Opener:** Crackles fingers, air pressure drops — “Wind, listen.”
+* **Finisher:** Raises storm focus and unleashes chain lightning arcs across the battlefield.
+* **Damage Flavor:** Every strike leaves scent of salt and ozone.
+
+---
+
+## 💬 Personality (Randomized — veteran stormmage tone)**
+
+* **Traits:** Charismatic, practical, slightly reckless.
+* **Ideal:** Freedom — “Storms answer to no one.”
+* **Bond:** His ship, *The Siren’s Verse*, and its surviving crew.
+* **Flaw:** Can’t resist gambling with fate—or dice.
+* **Quirk:** Talks to the sea like an old friend before sleeping.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Sapphire Current, Tempest Bay, Skywave Deck**
+* **Threat Gradient:** **Wavering → Echo Zone** (sea distortion, spectral currents)
+* **Encounter Framing:** **Storm Ritual**, **Ship Defense**, **Naval Duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Once a sky pirate who turned naval mage after witnessing the Echo devour his old crew.
+* **Lifestyle:** Lives aboard ship, prefers open skies to solid ground.
+* **Income:** Naval stipend + bounty cut.
+* **Relationships:** Former rival of Cassira Venn’s mentor; shares drinking nights with Kael Dravos.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes power is weather — meant to be guided, never owned. He respects restraint above obedience.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being landlocked—he panics without open air or sky.
+* **Weaknesses:** Stubborn in command, overuses power during storms.
+* **Strengths:** Tactical flexibility, overwhelming presence, weather control mastery.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“วัยกลางคน” tone — confident, fatherly charm with teasing edges. He smirks as he hands you a flask: “Rule one—never anger the wind. Rule two—don’t outdrink me trying.” When flustered, he clears his throat and hides behind sailor humor.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His ship’s compass contains an Echo fragment that “remembers” future storms.
+* **Hooks:**
+
+  1. **The Singing Gale:** Join Veyran in hunting a sentient thundercloud terrorizing trade routes.
+  2. **Broken Mast:** Retrieve a shard of the ship that sank beneath a storm of illusions.
+  3. **Skybound Duel:** Face an Echo pirate captain who claims to be Veyran’s old first mate.
+
+## Tags: #Male #MiddleAged #Human #Sorcerer3 #StormSorcery #Thalassara #CR1 #Adventurer #Sailmage #Stormcaster
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Portuguese Arabic human male sorcerer, medium wavy black hair with silver streaks, storm-gray eyes, navy coat with silver embroidery, lightning magic, sea backdrop, confident mature smile, maritime staff

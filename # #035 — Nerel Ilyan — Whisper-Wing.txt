@@ -1,0 +1,148 @@
+# #035 — **Nerel Ilyan** — *Whisper-Wing Scout of the Ebon Cliffs*
+
+> “No step too light, no secret too deep.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Male (Type: เคะ — gentle, soft-spoken, easily flustered but earnest)
+* **Age:** 19
+* **Race:** Half-Beast (Avian — Owl lineage; human-like 85%, downy feather pattern along arms and back, amber-gold eyes with reflective pupils)
+* **Class & Level:** Ranger (Beast Master) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Scout, messenger, field tracker
+* **Rank / Position:** **Skywatch Courier of the Ebon Cliffs**
+* **Organization:** **Thalassaran Courier Guild**
+* **Symbol:** A stylized feather inside a crescent moon
+* **Title:** *The Whisper-Wing Scout*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Korean–Nordic hybrid
+
+Nerel looks like a soft-spoken dreamer plucked from twilight. **Eyes:** golden-amber, bright and owl-like, catching light with a calm gleam. **Skin:** pale ivory with a faint dusky tone on cheeks and nose. A few soft feathers line his shoulder blades and wrists, blending seamlessly into his skin.
+
+**Hair (randomized):** **Medium**, **straight silvery-blond**, slightly messy with bangs over his right eye, feathered ends.
+
+**Height:** 168 cm
+**Weight:** 54 kg
+**Body Build:** Slim, delicate, nimble; elegant motion with shy posture.
+
+**Jewelry & Accessories (randomized):**
+A **silver chain earring**, **small sky-blue pendant**, and a **cloth wrist wrap** with courier guild sigil.
+
+---
+
+## 👗 **Outfit (in English)**
+
+He wears a **dark-gray scout tunic** trimmed with **faded blue lining**, paired with **leather leggings** that allow silent movement. A **short hooded cape** of owl-feather pattern shades his shoulders, and **soft leather boots** dampen his steps completely.
+
+**Color Palette:** gray / blue / white / silver
+**Accents:** light fabrics, quiet shimmer, moonlit minimalism
+
+**Loadout:** shortbow, twin daggers, messenger satchel, rope coil, owl companion “Tuli.”
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +1)×3 → **28 HP**
+* **AC:** **15** (leather armor + DEX)
+* **Speed:** 35 ft
+* **STR 10 (+0)** **DEX 17 (+3)** **CON 12 (+1)** **INT 11 (+0)** **WIS 15 (+2)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, DEX +5
+* **Skills:** Stealth +5, Perception +6, Animal Handling +4, Acrobatics +5, Survival +4
+* **Languages:** Common, Auran, Elvish
+
+**Ranger (Beast Master) 3:**
+
+* **Companion:** Tuli (owl familiar — AC 13, HP 10, 60 ft fly, Perception +5)
+* **Spellcasting (WIS DC 12, +4 attack)**
+* **Spells:** *Hunter’s Mark, Speak with Animals, Cure Wounds, Pass without Trace*
+* **Features:** Favored Enemy (Beasts), Natural Explorer (Mountain), Primeval Awareness
+
+**Attacks**
+
+* **Shortbow:** +5 to hit, 1d6+3 piercing
+* **Daggers (dual):** +5 to hit, 1d4+3 slashing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Scout / Support Striker**
+* **Tactics:** Opens with *Hunter’s Mark*, commands owl to distract while he strikes from range. Uses *Pass without Trace* to vanish after attacking.
+* **Signature Opener:** Looses an arrow while whispering — “Fly true, Tuli.”
+* **Finisher:** Double dagger strike as his owl swoops behind the target.
+* **Damage Flavor:** A shimmer of silver feathers flares briefly at every critical hit.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran courier tone)**
+
+* **Traits:** Polite, introspective, a little nervous in crowds.
+* **Ideal:** Dedication — “The message must always arrive.”
+* **Bond:** His owl companion, Tuli; treats it like a sibling.
+* **Flaw:** Panics when separated from Tuli or fails a delivery.
+* **Quirk:** Tilts his head slightly when confused, just like an owl.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Ebon Cliffs, Windshriek Pass, Skybridge Outpost**
+* **Threat Gradient:** **Stable → Wavering** (Echo winds sweeping courier routes)
+* **Encounter Framing:** **Courier Escort**, **Silent Ambush**, **Lost Message Retrieval**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Raised in the cliffs by his beastkin mother, learned to read air currents before he could read words. Joined the courier guild to prove he could fly without wings.
+* **Lifestyle:** Travels constantly, rarely sleeps in the same place twice.
+* **Income:** Courier pay + hazard bonuses for high-risk routes.
+* **Relationships:** Friend of Kael Dravos; delivers letters for Selis Arvane’s troupe.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes truth should always be carried, even through silence or fear.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing his sense of direction.
+* **Weaknesses:** Overly cautious, hesitant in conflict.
+* **Strengths:** Quiet precision, sharp senses, loyal to the last breath.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“เคะ” tone — gentle, shy, easily flustered. When someone compliments him, he stammers softly: “I-I just... did my job, really.” If someone teases him, he puffs his cheeks, muttering under his breath while his owl tilts its head in sync.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Once delivered a message that led to an innocent’s death — still carries the guilt.
+* **Hooks:**
+
+  1. **Echo Wind Courier:** Help Nerel deliver an artifact letter that hums like a living heart.
+  2. **Wings of Silence:** Retrieve his stolen courier sigil from sky-bandits.
+  3. **Feathered Memory:** Discover that his owl Tuli may hold echoes of an ancient spirit.
+
+## Tags: #Male #BottomType #HalfBeast #OwlKin #Ranger3 #BeastMaster #Thalassara #CR1 #Adventurer #Scout
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Nordic owl-kin male ranger, medium silvery-blond hair, amber eyes, slim build, 168cm height, gray scout tunic, feathered cape, gentle expression, owl companion flying, twilight cliffs backdrop

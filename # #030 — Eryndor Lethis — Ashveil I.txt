@@ -1,0 +1,147 @@
+# #030 — **Eryndor Lethis** — *Ashveil Illusionist of the Silent Court*
+
+> “Reality is the most fragile lie of all.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Male (Type: เคะ)
+* **Age:** 22
+* **Race:** Half-Elf (Dark Lineage — faint violet hue to the skin, silver irises with reflective ring, softly pointed ears)
+* **Class & Level:** Wizard (School of Illusion) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Court illusionist, messenger for the Silent Court
+* **Rank / Position:** **Junior Magus of the Veil**
+* **Organization:** **House Lethis — Shadow Academy of Illusion**
+* **Symbol:** A mirrored mask surrounded by ink drops
+* **Title:** *The Ashveil Prodigy*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Korean–Nordic hybrid
+
+Eryndor has androgynous beauty — features sharp yet delicate. **Eyes:** silver with soft lilac undertone, expressive and almost dreamlike. **Skin:** pale with faint lavender glow beneath the surface when he casts spells. **Manner:** graceful, deliberate, as though choreographed.
+
+**Hair (randomized):** **Medium**, **wavy moon-silver**, parted to one side with a dark ribbon tying a loose strand near his ear.
+
+**Height:** 175 cm
+**Weight:** 60 kg
+**Body Build:** Elegant and lean, long fingers, poised posture, slightly delicate frame.
+
+**Jewelry & Accessories (randomized):**
+Black **ribbon choker**, **silver teardrop earring** on left ear, and **glass-bead bracelets** filled with faint smoke-like illusion dust.
+
+---
+
+## 👗 **Outfit (in English)**
+
+He wears a **shadow-gray cloak** embroidered with runes that flicker like fading stars. Beneath it, a **fitted black tunic** with **lavender lining**, and **glove-length sleeves** trimmed with silver lace. His **boots** are soft, near-silent on stone, the soles etched with sigils to reduce sound.
+
+**Color Palette:** gray / black / lilac / silver
+**Accents:** subtle lace, arcane shimmer, fabric movement resembling smoke
+
+**Loadout:** spellbook, illusion orb, blacksteel wand, pocket mirror.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **13** (mage armor)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 13 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, Deception +5, Insight +3, Performance +5, Stealth +4
+* **Languages:** Common, Elvish, Deep Speech
+
+**Wizard (Illusion School) 3:**
+
+* **Minor Illusion (enhanced)**, **Illusory Self**, **Spellcasting (INT DC 13, +5 attack)**
+* **Prepared Spells:** *Disguise Self, Silent Image, Mirror Image, Misty Step, Phantasmal Force, Sleep, Mage Armor*
+* **Cantrips:** *Prestidigitation, Minor Illusion, Mage Hand*
+
+**Attacks**
+
+* **Wand Strike:** +4 to hit, 1d6+2 bludgeoning (rarely used)
+* **Phantasmal Assault:** (DC 13) 2d6 psychic illusion damage
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Illusion Controller / Deceiver**
+* **Tactics:** Begins with *Mirror Image*, uses *Phantasmal Force* for manipulation, and *Misty Step* to escape. Prefers indirect combat through trickery.
+* **Signature Opener:** “Three shadows step where I stand; guess which one bleeds.”
+* **Finisher:** Illusory blades impale the foe as he whispers, “You died five seconds ago.”
+* **Damage Flavor:** Shadows ripple outward like dark ink in water.
+
+---
+
+## 💬 Personality (Randomized — Dark Academy tone)**
+
+* **Traits:** Intelligent, teasing, quietly empathetic.
+* **Ideal:** Freedom — “No illusion can cage a dream.”
+* **Bond:** His master vanished mid-spell, leaving only an echo of laughter.
+* **Flaw:** Tends to retreat into fantasy when stressed.
+* **Quirk:** Narrates his own illusions in soft poetry under his breath.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Skarnov — Silent Court, Shaded Library, Hall of Veils**
+* **Threat Gradient:** **Wavering → Echo Zone** (magical distortions in illusion halls)
+* **Encounter Framing:** **Infiltration**, **Hall Duel**, **Haunted Lecture Performance**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Born of an elven scholar and human court mage; child prodigy known for conjuring dreams visible in mirrors.
+* **Lifestyle:** Prefers twilight, works at candlelight, rarely sleeps normally.
+* **Income:** Court stipend + private commissions for illusions and performances.
+* **Relationships:** Friendly rivalry with Lyss Fenvale; complicated friendship with Tahlira Wynne (whom he quietly adores).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that perception *is* reality; compassion can exist in illusions as much as in truth.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Forgetting which self is real.
+* **Weaknesses:** Fragile body, emotionally dependent on validation.
+* **Strengths:** Sharp intellect, adaptive creativity, emotional intuition.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“เคะ” tone — shyly confident with charming awkwardness. He looks away, voice low: “I could make you see the world as I do… but I’d rather just show you mine.” When teased, he flushes crimson and hides behind his illusion book, muttering incantations too quickly.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a hidden illusion of his master, replaying their final conversation nightly.
+* **Hooks:**
+
+  1. **Shattered Reflection:** Help Eryndor find the missing half of his master’s mind.
+  2. **The Laughing Mirror:** Investigate a mirror that laughs before showing one’s future death.
+  3. **False Sun:** Aid Eryndor in maintaining a city-wide illusion that hides a Severance scar.
+
+## Tags: #Male #BottomType #HalfElf #Wizard3 #Illusionist #Skarnov #CR1 #Adventurer #Mage #CourtMagus
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Nordic half-elf male wizard, medium wavy silver hair, silver eyes, androgynous beauty, elegant robes, black cloak with violet glow, illusion magic swirling, gentle expression, candlelit hall

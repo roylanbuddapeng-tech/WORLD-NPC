@@ -1,0 +1,188 @@
+# #048 — **Jae-Lan Sereth** — *Moon-Thread Arcane Trickster of the Velvet Arches*
+
+> “A locked door is just a shy invitation.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 048
+* **Gender (weighted random):** Male (Type: เมะ — confident, composed, quietly protective)
+* **Age:** 24
+* **Race:** **Dark Elf (Drow Lineage)** — human-like ~85%; subtle violet undertone to skin, silver-ringed pupils, faint auric glow in low light
+* **Class & Level:** Rogue (Arcane Trickster) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Infiltration scout, arcane locksmith, information courier
+* **Rank / Position:** **Moon-Thread Operative**
+* **Organization:** **Thalassara Luminous Network** (shadow cell that protects artists & witnesses)
+* **Symbol:** A needle threading a crescent moon
+* **Title:** *The Velvet Thread*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** Korean–Chinese visual tone — idol-actor elegance reminiscent of Cha Eun-woo × Xiao Zhan aura (fantasy stylized).
+
+**Eyes:** cool steel-silver with faint lilac ring; sharp, attentive gaze.
+**Skin:** pale with soft violet undertone; smooth, night-lit sheen along cheekbones.
+
+**Hair (randomized):** **Length: Medium**, **Style: textured wolf cut** — layered, **slightly wavy jet-black** with **smoky-lilac lowlights**, side-swept fringe; crown volume gives light, wind-tousled silhouette. *(Length + style fully randomized)*
+
+**Height:** 178 cm
+**Weight:** 67 kg
+**Body Build:** Lean-athletic; dancer’s core, nimble shoulders, elegant posture.
+
+**Jewelry & Accessories (randomized):**
+Matte **black ear cuff** (right) with a thin chain to a **silver stud**, **slim moon-pendant** at the throat, **graphite data-band** on left wrist, and a **silenced anklet** of braided silk thread (holds a micro-pick).
+
+---
+
+## 👗 Outfit (in English)
+
+A **charcoal long vest** over a **midnight silk shirt** with discreet rune-stitching, paired with **shadow-gray fitted trousers** and **soft-soled boots** that bend at the arch. A **reversible half-cloak** (ink-black ⇄ plum) hides pockets for tools; inside hem is lined with spell-sigils for minor illusions.
+
+**Color Palette:** charcoal / black / plum / silver
+**Accents:** matte fabrics, low-gloss metal, threadlike rune filigree
+
+**Loadout:** finesse dagger, short sword, thieves’ tools, mage hand focus ring, smoke bead (2), coil of moon-thread (thin climbing line).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 14 (+2)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** Stealth +8, Acrobatics +6, Investigation +4, Perception +3, Sleight of Hand +6, Deception +3, Performance +3
+* **Languages:** Common, Elvish, Undercommon, Thalassaran Cant
+
+**Rogue (Arcane Trickster) 3:**
+
+* **Sneak Attack 2d6**, **Cunning Action**, **Mage Hand Legerdemain**, **Spellcasting (INT DC 12, +4 attack)**
+* **Spells Known (Mage Hand + 3 others + 2nd-level):**
+
+  * *Cantrips:* **Mage Hand**, *Minor Illusion*, *Prestidigitation*
+  * *1st:* *Disguise Self, Tasha’s Hideous Laughter*
+  * *2nd:* *Invisibility*
+* **Equipment Per RAW:** thieves’ tools, studded leather, finesse weapons
+
+**Attacks**
+
+* **Short Sword (finesse):** +6 to hit, 1d6+4 piercing + **2d6 Sneak Attack** (once/turn)
+* **Dagger (melee or 20/60):** +6 to hit, 1d4+4 piercing (+SA if valid)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Skirmisher / Control Infiltrator**
+* **Tactics:** Opens with *Invisibility* or *Disguise Self* for position; uses **Mage Hand Legerdemain** to lift keys and sabotage. Kites with Cunning Action, chooses isolates for clean Sneak Attacks.
+* **Signature Opener:** “Thread the lock” — spectral hand picks a clasp while he glides past a guard’s blind spot.
+* **Finisher:** Feint with empty palm → dagger flick from sleeve; laughter spell to disable the last threat.
+* **Damage Flavor:** Strikes leave a hairline glimmer, like a silver thread slicing air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calm, courteous, lightly teasing; plans three moves ahead.
+* **Ideal:** Responsibility — “Secrets should protect the innocent.”
+* **Bond:** Protects a choir of street kids who perform at the Velvet Arches.
+* **Flaw:** Won’t abandon a target if it endangers his found family; overcommits.
+* **Quirk:** Measures hallway lengths by steps and breath counts; taps a 3-beat rhythm before picking locks.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Velvet Arches, Moon Bazaar Backlines, Echo-Vent Alleys**
+* **Threat Gradient:** **Wavering → Echo Zone** (sound-warp pockets near theaters)
+* **Encounter Framing:** **Heist Escort**, **Backstage Infiltration**, **Silent Duel Among Curtains**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised in the underside of the Moon Bazaar, Jae-Lan learned that applause can hide screams. He bent his talents toward protecting performers and witnesses from predatory nobles and Echo cults.
+
+* **Lifestyle:** Minimalist loft above a costume shop; practices sleight of hand with silk fans.
+* **Income:** Network stipend + cut from “retrieved” ledgers and blackmail proofs (used to protect victims).
+* **Relationships:** Professional camaraderie with Lyss Fenvale; wary respect for Eryndor Lethis’s illusions.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes law is a tool; mercy is a choice. If rules crush the vulnerable, he rewrites the scene.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing a rescue onstage; crowds falling into Echo silence.
+* **Weaknesses:** Low durability; risks too much for clean outcomes.
+* **Strengths:** Elite stealth, surgical misdirection, precise control of space.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+“เมะ” tone — easy authority with gentle edges. He adjusts your collar and murmurs, “Eyes up. Walk like you belong, and the door will agree.” When someone flirts, he smiles sidelong: “Focus… afterward, I’m all ears.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps an encrypted ledger of noble clients who buy “silence.” Destroying it could free many… or erase leverage.
+* **Hooks:**
+
+  1. **Curtain Call Heist:** Steal a blackmail reliquary during a sold-out performance without stopping the show.
+  2. **The Unheard Choir:** Guard his street-choir as their harmonies start drawing Echo wraiths.
+  3. **Silver Thread Severed:** Track a traitor who stole his moon-thread line that can “stitch” short gaps in reality.
+
+## Tags: #Male #TopType #DarkElf #Rogue3 #ArcaneTrickster #Thalassara #CR1 #Adventurer #Infiltrator #VelvetArches
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Makes **you** blush through competence: catches a falling key near your hip without looking; deadpans, “I’ll borrow this.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900** (Level 3 baseline)
+* **XP to Next Level:** **1,800** more (to reach **Level 4**)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** short sword, 2× daggers
+  * **Tools:** thieves’ tools, disguise kit, glass cutters, lock shims
+  * **Consumables:** 2× smoke beads, 1× spider-climb salve (10 min), 1× silence chalk (1 use: 10-ft muffling, DMG flavor)
+  * **Focus:** ring for Mage Hand Legerdemain (arcane focus)
+  * **Misc:** moon-thread coil (30 ft, holds 200 lb), ledger shard (evidence)
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Skulker**
+  * **Spell Pick:** *Silent Image* (more staging) or *Feather Fall* (escape nets)
+  * **Tactical Growth:** Consider **Mobile** later for hit-and-slip style
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Velvet Arches Theater District**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **Heist-in-a-Show**, **Catwalk Duel**, **Ledger Extraction**
+* **Affiliation:** **Luminous Network — Moon-Thread Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese dark-elf male rogue, medium wolf-cut hair jet-black with lilac lowlights, silver eyes, pale violet skin tone, sleek charcoal outfit with plum cloak, soft-soled boots, silk fans and daggers, theater backstreet, confident subtle smile

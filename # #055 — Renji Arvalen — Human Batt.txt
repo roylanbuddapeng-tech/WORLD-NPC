@@ -1,0 +1,191 @@
+# #055 — **Renji Arvalen** — *Human Battlemage of the Ashen Spire*
+
+> “If the storm won’t come to me, I’ll build one from scratch.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 055
+* **Gender (weighted random):** Male (Type: **เมะ** — confident, decisive, commanding energy but tempered with dry wit; carries quiet authority that invites trust)
+* **Age:** 28
+* **Race:** Human (Valeronnes bloodline — tall, angular features, faint ember hue flickering in pupils when excited)
+* **Class & Level:** Fighter (Eldritch Knight) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Neutral
+* **Profession:** Arcane duelist, battlefield tactician
+* **Rank / Position:** **Ashen Spire Vanguard Captain (Field Unit)**
+* **Organization:** **Valeronnes Arcane Guard**
+* **Symbol:** A crimson rune-sword split by lightning
+* **Title:** *The Stormblade Captain*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Korean–Chinese tone — refined strength, smoldering charisma; visually akin to Gong Yoo × Hu Ge under cinematic fantasy stylization.
+
+**Eyes:** steel-gray with faint ember glint, sharp gaze that tracks movement like a hawk.
+**Skin:** pale with olive undertone, faint burn scar along left shoulder.
+
+**Hair (randomized):** **Length: Medium-Short**, **Style: slightly tousled undercut**, **Texture: wavy**, **Color: dark ash-brown with silver streaks near temples.** *(Fully randomized length + texture + color)*
+
+**Height:** 182 cm
+**Weight:** 78 kg
+**Body Build:** Broad-shouldered, lean-muscular; disciplined soldier’s frame.
+
+**Jewelry & Accessories (randomized):**
+Simple **iron torque necklace**, **ash rune ring** on left hand, **thin wrist bracer** etched with battle wards.
+
+---
+
+## 👗 Outfit (in English)**
+
+He wears a **dark gray half-plate** reinforced with blackened steel, engraved with glowing crimson runes. His **cloak** is storm-blue, worn short for movement. Utility pouches line his belt, each rune-marked for elemental charges.
+
+**Color Palette:** charcoal / crimson / silver / storm-blue
+**Accents:** functional, grimly elegant, carries faint ozone scent after spell use
+
+**Loadout:** longsword, throwing knife set, spell focus gem embedded in gauntlet, field spellbook.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **18** (half-plate + DEX)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 13 (+1)** **CON 14 (+2)** **INT 14 (+2)** **WIS 11 (+0)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Arcana +4, Insight +2, Perception +2, Intimidation +3
+* **Languages:** Common, Draconic, Valeron Script
+
+**Fighter (Eldritch Knight) 3:**
+
+* **Weapon Bond (Stormblade)**
+* **Action Surge (1/rest)**
+* **Second Wind (1d10+3 heal)**
+* **Spellcasting (INT DC 12, +4 attack)**
+* **Spells Known:** *Shield, Thunderwave, Magic Missile, Absorb Elements*
+* **Cantrips:** *Green-Flame Blade, Blade Ward*
+
+**Attacks**
+
+* **Longsword:** +5 to hit, 1d8+3 slashing (versatile 1d10+3)
+* **Thrown Knife:** +4 to hit, 1d4+1 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Striker / Tactical Commander**
+* **Tactics:** Opens with *Thunderwave* to clear space, charges in with bonded sword. Uses *Action Surge* to end fights quickly.
+* **Signature Opener:** “Form up — when I count three, you move or you burn.”
+* **Finisher:** *Green-Flame Blade* sweeping strike, sparks rippling like lightning threads.
+* **Damage Flavor:** Crimson-silver arcs flicker along the blade as each strike hums with runic charge.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Focused, pragmatic, wry sense of humor.
+* **Ideal:** Order — “Control is the difference between a commander and a corpse.”
+* **Bond:** His soldiers; refuses to leave anyone behind.
+* **Flaw:** Obsessive perfectionist; struggles to rest.
+* **Quirk:** Taps the hilt of his sword twice before battle — ritual of luck.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Ashen Spire Citadel, Southern Redridge Outposts**
+* **Threat Gradient:** **Wavering → Echo Zone (runic anomalies)**
+* **Encounter Framing:** **Siege Defense**, **Tactical Ambush**, **Echo Ruin Sweep**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a smith and a scribe, Renji fused craft and war into one calling. His innovations in runic warfare made him captain young — though he carries guilt for soldiers lost to his experiments.
+
+* **Lifestyle:** Spartan efficiency; personal quarters lined with journals and blueprints.
+* **Income:** Military pay + commission fees for spellsteel weaponry.
+* **Relationships:** Mentor to Riko Hanamura; mutual respect with Meilin Arha (begrudgingly).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes emotion must serve precision, not rule it. Values strength forged through discipline, but not cruelty.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of his own magic again — he once caused a thunderblast accident.
+* **Weaknesses:** Overanalyzes; slow to trust improvisers.
+* **Strengths:** Balanced power and intellect, adaptable commander, calm under chaos.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“เมะ” tone — composed, quietly commanding, rarely shows vulnerability.
+
+> “Don’t thank me. Just stay alive — I prefer my victories symmetrical.”
+> If teased, his smirk falters briefly:
+> “...Flirting on the battlefield? Dangerous habit.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a sealed codex containing forbidden runes that could manipulate Echo surges.
+* **Hooks:**
+
+  1. **The Shattered Codex:** Retrieve the lost half of his prototype spell-book.
+  2. **Stormbreaker Trial:** Aid Renji in taming the wild rune that nearly killed him.
+  3. **Ashen Rebellion:** His former student returns, wielding corrupted copies of his own runes.
+
+## Tags: #Male #TopType #Human #Fighter3 #EldritchKnight #Valeronnes #CR1 #Commander #Runeblade #Battlemage
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Renji **flusters others through control and calmness** — catches blades mid-duel, leans close, murmurs low corrections. If genuinely flattered, he clears his throat: “...Focus. You’ll get me killed like that.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** longsword (bonded), throwing knives
+  * **Armor:** half-plate
+  * **Tools:** smith’s tools, spellcraft kit
+  * **Consumables:** 1× thunder oil flask, 2× healing draughts
+  * **Misc:** runic codex (sealed), officer’s insignia
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 18) *or* **War Caster**
+  * **Spell Pick:** *Misty Step* or *Shatter*
+  * **Tactical Growth:** expand spell versatility; reinforce group buffs
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Ashen Spire Citadel**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **Siege Command**, **Runic Experiment Defense**, **Ambush Reversal**
+* **Affiliation:** **Valeronnes Arcane Guard — Vanguard Captain**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese male human fighter eldritch knight, 182cm, medium wavy dark ash-brown hair with silver streaks, steel-gray eyes, lean muscular body, dark half-plate with crimson runes, storm-blue cloak, confident serious expression, lightning aura, battlefield ruins background

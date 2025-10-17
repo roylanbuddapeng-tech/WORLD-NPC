@@ -1,0 +1,202 @@
+# #070 — **Riko Hanamura** — *Blossom-Warden of the Verdant Mirage*
+
+> “If I draw my blade, it’s because the wind has already decided.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 070
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — earnest, bright-eyed, respectful yet secretly competitive; speaks with warmth and quick emotion
+* **Age:** 19
+* **Race:** **Elf (Thalassaran Lineage)** — humanlike 90%, faint petal-shaped markings beneath the eyes, hair gleams faintly under moonlight
+* **Class & Level:** **Monk (Way of the Kensei)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Garden guardian, temple acolyte, sword-dancer-in-training
+* **Rank / Position:** **Warden Initiate of the Verdant Mirage Temple**
+* **Organization:** **Thalassara Temple of Blossoms**
+* **Symbol:** A twin-petal sigil forming a circle of calm ripples
+* **Title:** *The Petal Blade*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese** — inspired by soft natural beauty akin to *Sakura Miyawaki* or *Haruna Kawaguchi*; delicate yet spirited grace.
+
+**Eyes:** soft jade-green, shining with curiosity.
+**Skin:** porcelain fair with a warm blush on cheeks and shoulders.
+
+**Hair (randomized):** **Medium**, **style:** tied half-up with a silk ribbon, loose strands framing face; **texture:** straight and silky, **color:** cherry blossom pink with faint silver hue under moonlight.
+**Height:** 161 cm
+**Weight:** 50 kg
+**Body Type:** **Slender Athletic** — lean tone, dancer’s grace, quick movement.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 90 – 66 – 93
+VALIDATION: • W/B = 0.733 → OK   • H/W = 1.41 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+Silver **circlet** shaped like blooming petals, **bracelet** woven of vine-thread, **small chime earrings**, and a **necklace** of three jade beads.
+
+---
+
+## 👗 Outfit (in English)
+
+She wears a **white sleeveless training robe** belted with **jade-green sash**, paired with **loose fighting trousers** and **barefoot wraps** woven from moon-thread silk. A short **over-robe** of soft rose-pink flows when she moves, like falling petals in combat.
+
+**Color Palette:** white / pink / jade / silver
+**Accents:** graceful, ceremonial, motion-focused
+
+**Loadout:** Kensei shortblade “Whispering Petal,” staff of tempered reedsteel, chime-token of the Temple.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **27 HP**
+* **AC:** **17** (DEX + WIS + unarmored defense)
+* **Speed:** 40 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, DEX +6
+* **Skills:** Acrobatics +6, Insight +5, Stealth +6, Religion +2, Performance +3
+* **Languages:** Common, Elvish, Sylvan
+
+**Monk (Way of the Kensei) 3:**
+
+* **Martial Arts (1d6)**
+* **Unarmored Defense** (AC 10 + DEX + WIS)
+* **Ki (3 points):** *Flurry of Blows, Patient Defense, Step of the Wind*
+* **Deflect Missiles**, **Unarmored Movement +10 ft**
+* **Kensei Weapons:** shortblade, staff, longbow
+* **Kensei Feature:** *Agile Parry*, *Kensei’s Shot*
+
+**Attacks:**
+
+* **Whispering Petal (Shortblade):** +6 to hit, 1d6+4 slashing
+* **Unarmed Strike:** +6 to hit, 1d6+4 bludgeoning
+* **Kensei’s Shot (Bow):** +6 to hit, 1d8+4 piercing (+1d4 bonus from feature)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Speed Duelist / Mobile Support**
+* **Tactics:** Uses *Step of the Wind* to reposition and strike from new angles; opens with ranged *Kensei Shot*, finishes with *Flurry of Blows*.
+* **Signature Opener:** Petals swirl from her sash, and she whispers a mantra before striking.
+* **Finisher:** Spins midair with a flash of pink steel and landing bow.
+
+**Damage Flavor:** Petal-like motes drift around each strike before dissolving in light.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Polite, curious, easily excited, determined to prove herself.
+* **Ideal:** Growth — “Every fall teaches me a new step.”
+* **Bond:** Respects Mina Soryu deeply, calls her *“Master Mina.”*
+* **Flaw:** Overthinks compliments and flusters easily.
+* **Quirk:** Bows three times before sparring, regardless of urgency.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Verdant Mirage Temple, Bloom Courtyard**
+* **Threat Gradient:** **Stable → Wavering (ritual harmonics)**
+* **Encounter Framing:** **Training Duel**, **Garden Defense**, **Echo Ward Meditation**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised in a monastery hidden by blooming illusions, she left to protect the temple’s border paths from Echo distortions. Dreams of one day becoming a “petal master” — a guardian of both blade and harmony.
+
+* **Lifestyle:** Ascetic simplicity, sleeps under flower canopies.
+* **Income:** Temple stipend + ritual offerings.
+* **Relationships:** Student of Mina Soryu; sparring partner of Talia Renhaven.
+
+---
+
+## 🧩 Morals & Ethics
+
+Acts with pure intention; believes every strike must bring balance, never vengeance.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Hurting others by losing composure.
+* **Weaknesses:** Hesitates when ordered to kill.
+* **Strengths:** Agility, empathy, precise discipline in chaos.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+“รุ่นน้อง” tone — eager, sincere, soft-spoken but expressive.
+
+> “S-Senpai, please don’t praise me like that, it’s distracting!”
+> She gets **easily flustered** when complimented or guided closely.
+> When someone helps her, she beams:
+> “Thank you! Next time, I’ll protect *you*, promise.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her temple’s blossom wards are fading — she hears them whisper in dreams.
+* **Hooks:**
+
+  1. **The Fading Petals:** Help Riko restore her temple wards.
+  2. **Dance of the Mirage:** Participate in her ceremonial duel to stabilize Echo currents.
+  3. **Petal in the Storm:** Protect Riko during a Severance raid on the temple.
+
+## Tags: #Female #JuniorType #Elf #Monk3 #Kensei #Thalassara #CR1 #SpeedDuelist #TempleGuardian
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Tends to trip on words when spoken to directly; if someone compliments her stance, she stammers:
+
+> “It’s not… that great! I still wobble sometimes.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** shortblade, longbow, staff
+  * **Armor:** unarmored (robes)
+  * **Tools:** herbal satchel, ink brush
+  * **Consumables:** 2× healing teas, 1× blossom charm
+  * **Misc:** temple token, silk ribbon, jade bracelet
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+  * **Ki Tactic:** focus on combo between *Kensei Shot* → *Flurry of Blows*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Verdant Mirage Temple Gardens**
+* **Threat Gradient:** **Stable → Wavering (floral echoes)**
+* **Encounter Type:** **Ritual Duel**, **Temple Defense**, **Echo Meditation**
+* **Affiliation:** **Thalassara Temple Wardens — Initiate Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese elf female monk, 161cm, medium cherry-pink hair tied half-up, jade eyes, slender athletic build, white and pink robe, jade sash, barefoot, blossom petals swirl, serene garden, fantasy temple background

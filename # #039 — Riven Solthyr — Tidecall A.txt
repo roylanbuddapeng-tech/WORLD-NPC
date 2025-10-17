@@ -1,0 +1,148 @@
+# #039 — **Riven Solthyr** — *Tidecall Adept of the Azure Reach*
+
+> “Waves speak in patience. Crash only when you must.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Male (Type: เมะ — confident, protective, slightly stoic but passionate when roused)
+* **Age:** 26
+* **Race:** Half-Beast (Aquatic lineage — human-like 85%, faint azure scale pattern along ribs and forearms, sea-green eyes with slit pupils)
+* **Class & Level:** Monk (Way of the Open Hand) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Neutral
+* **Profession:** Martial artist, pearl diver, coastal guardian
+* **Rank / Position:** **Tidecall Adept of the Azure Reach Monastery**
+* **Organization:** **Thalassaran Tidecall Order**
+* **Symbol:** A wave crest forming an open palm
+* **Title:** *The Still Wave*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Polynesian–Japanese hybrid
+
+Riven’s calm presence feels like the lull before a deep tide. **Eyes:** sea-green with shifting turquoise flecks, serene yet piercing. **Skin:** warm bronze with faint iridescent sheen at the edges of his scales. A subtle ocean scent lingers around him — salt, lotus, and sandalwood.
+
+**Hair (randomized):** **Short**, **straight black with deep teal streaks**, slightly tousled from sea wind.
+
+**Height:** 180 cm
+**Weight:** 76 kg
+**Body Build:** Lean muscular; swimmer’s shoulders, strong core, graceful stance.
+
+**Jewelry & Accessories (randomized):**
+A **woven shark-tooth necklace**, **sea-glass earring**, and a **braided wristband** from his monastery peers.
+
+---
+
+## 👗 **Outfit (in English)**
+
+He wears **loose azure monk wraps**, sleeveless with tide symbols embroidered along the hems. His **belt sash** carries coral beads and an engraved conch charm. **Barefoot**, his stance is poised and balanced, like someone ready to fight or meditate at any moment.
+
+**Color Palette:** teal / white / silver / deep blue
+**Accents:** natural fabrics, water-smooth textures, minimal but powerful design
+
+**Loadout:** none beyond his body; his fists and focus are his weapons.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (Unarmored Defense = 10 + DEX + WIS)
+* **Speed:** 40 ft; **Swim 30 ft**
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, DEX +5
+* **Skills:** Athletics +4, Acrobatics +5, Insight +4, Perception +4, Nature +2
+* **Languages:** Common, Aquan, Thalassaran
+
+**Monk (Way of the Open Hand) 3:**
+
+* **Martial Arts (1d6)**, **Flurry of Blows**, **Patient Defense**, **Step of the Wind**, **Deflect Missiles**
+* **Open Hand Technique:** can knock prone, push, or stun with Flurry strikes
+* **Ki Points:** 3
+
+**Attacks**
+
+* **Unarmed Strike:** +5 to hit, 1d6+3 bludgeoning (monk weapon)
+* **Flurry of Blows:** two additional strikes (1d6+3)
+* **Deflect Missiles:** reduce ranged damage by 1d10+5
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Frontline Striker / Control**
+* **Tactics:** Opens with patient observation, dodges initial blows, then counters with knockdowns and stuns.
+* **Signature Opener:** Breathes once, then strikes mid-wave with perfect timing.
+* **Finisher:** Two quick body blows and an open-palm push sending enemies flying backward into water.
+* **Damage Flavor:** Impact ripples outward with flashes of blue light like water splashing in slow motion.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran monk tone)**
+
+* **Traits:** Calm, observant, reserved but firm.
+* **Ideal:** Balance — “The sea does not choose between peace and storm.”
+* **Bond:** His monastery; the abbot saved him from drowning as a child.
+* **Flaw:** Suppresses anger too deeply — when it surfaces, it’s overwhelming.
+* **Quirk:** Always rinses his hands in water before eating or fighting.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Azure Reach, Coral Steps, Tidecall Monastery**
+* **Threat Gradient:** **Stable → Wavering** (rising Echo in the sea currents)
+* **Encounter Framing:** **Beach Defense**, **Meditative Duel**, **Seaborne Patrol**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Grew up in a fisher village; after a massive tidal storm, he was rescued by monks who taught him to “breathe with the tide.”
+* **Lifestyle:** Simple and ascetic; practices meditation between dives.
+* **Income:** None — survives on monastery provisions and offering.
+* **Relationships:** Acts as sparring mentor for Alyn Drayne; respected by Rhea Kaenth for his stoic strength.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes violence must be purposeful — a wave that strikes only to restore balance.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing emotional control; drowning others in his rage.
+* **Weaknesses:** Avoids emotional confrontation, too self-sacrificial.
+* **Strengths:** Calm under pressure, disciplined, physically precise.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“เมะ” tone — composed, teasing, quietly assertive. When someone challenges him, he smirks faintly: “You move like a wave — pretty, but predictable.” If someone flirts, he tilts his head and answers softly, “Careful. The tide pulls both ways.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His ki channel resonates unnaturally with Echo energy — he could purify or amplify it if trained properly.
+* **Hooks:**
+
+  1. **The Drowning Silence:** Aid Riven in containing an Echo surge within the monastery wells.
+  2. **Fist of Still Water:** Train under Riven to master focus amid chaos.
+  3. **Tide and Flame:** Join him to prevent an elemental war between sea and forge guilds.
+
+## Tags: #Male #TopType #HalfBeast #Aquatic #Monk3 #OpenHand #Thalassara #CR1 #Adventurer #MartialArtist #Guardian
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Polynesian Japanese half-beast male monk, short black hair with teal streaks, sea-green eyes, bronze skin with faint scales, height 180cm, bare arms, azure monk robes, water aura, calm expression, martial stance near ocean temple

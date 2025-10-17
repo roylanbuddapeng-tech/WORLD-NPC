@@ -1,0 +1,148 @@
+# #040 — **Elior Fenn** — *Velvet-Voice Femboy of the Silver Vein Tavern*
+
+> “Flattery is like wine — best served slowly, until they forget it’s poison.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Male (Type: เฟมบอย — feminine appearance, alluring, mischievous)
+* **Age:** 21
+* **Race:** Half-Elf (Thalassaran lineage — 85% human-like, faint shimmer in the sclera, soft pointed ears)
+* **Class & Level:** Bard (College of Glamour) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Performer, information broker, seducer of secrets
+* **Rank / Position:** **Resident Performer of the Silver Vein Tavern**
+* **Organization:** **Independent; informant for the Echo Keepers**
+* **Symbol:** A half-mask surrounded by floating musical notes
+* **Title:** *The Velvet Voice*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** French–Japanese hybrid
+
+Elior is the embodiment of soft seduction and practiced innocence. **Eyes:** lilac-pink, shimmering like reflected stage light. **Skin:** porcelain fair with faint blush at the cheeks and collarbones. His smile has that disarming gentleness that makes people forget what he just stole.
+
+**Hair (randomized):** **Medium**, **wavy pastel silver**, falling just above the shoulders, parted slightly to frame delicate cheekbones.
+
+**Height:** 158 cm *(per femboy restriction)*
+**Weight:** 49 kg
+**Body Build:** Slim and androgynous; soft lines, slender limbs, almost dancer-like posture.
+
+**Jewelry & Accessories (randomized):**
+A **silver choker with dangling crystal**, **small moon-shaped earrings**, and a **ribbon bracelet** tied by a fan admirer.
+
+---
+
+## 👗 **Outfit (in English)**
+
+He wears a **flowing sleeveless vest** of shimmering violet and black lace, open just enough to tease without revealing. A **thin sash** wraps his waist, decorated with music-note embroidery. **Tight dark trousers** accentuate long legs, and **heeled boots** click rhythmically when he walks.
+
+**Color Palette:** lilac / black / silver / pink
+**Accents:** sultry, theatrical, and elegant — designed to captivate without vulgarity
+
+**Loadout:** ornate lute (“Muse’s Kiss”), perfume vials, concealed dagger (fan-shaped hilt), illusion focus ring.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **14** (light armor + DEX)
+* **Speed:** 30 ft
+* **STR 9 (–1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 11 (+0)** **WIS 10 (+0)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +4, CHA +6
+* **Skills:** Performance +8, Persuasion +6, Deception +6, Acrobatics +4, Insight +2, Sleight of Hand +4
+* **Languages:** Common, Elvish, Sylvan
+
+**Bard (College of Glamour) 3:**
+
+* **Mantle of Inspiration**, **Enthralling Performance**, **Bardic Inspiration (d6)**
+* **Spellcasting (CHA DC 14, +6 attack)**
+* **Spells Known (7):** *Charm Person, Dissonant Whispers, Healing Word, Faerie Fire, Calm Emotions, Enthrall, Suggestion*
+* **Cantrips:** *Minor Illusion, Vicious Mockery, Friends*
+
+**Attacks**
+
+* **Dagger:** +4 to hit, 1d4+2 piercing
+* **Vicious Mockery:** DC 14, 1d4 psychic dmg, disadvantage next attack
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Support / Manipulator**
+* **Tactics:** Opens with *Faerie Fire* or *Mantle of Inspiration*; stays behind frontline, weaving crowd control and charm.
+* **Signature Opener:** Bows gracefully — “Let’s see if you can keep rhythm with me.”
+* **Finisher:** *Suggestion* whispered mid-song, turning foes against one another.
+* **Damage Flavor:** Echoes of pink light and illusionary rose petals follow his performances.
+
+---
+
+## 💬 Personality (Randomized — Thalassaran performer tone)**
+
+* **Traits:** Playful, coquettish, empathetic yet sly.
+* **Ideal:** Freedom — “No one owns beauty; it chooses who to visit.”
+* **Bond:** The Silver Vein Tavern — his only home since childhood.
+* **Flaw:** Manipulates affection to avoid loneliness.
+* **Quirk:** Always speaks as though performing, even when whispering.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Thalassara — Silver Vein Tavern, Moonlight Wharf, Echo Alley**
+* **Threat Gradient:** **Stable → Wavering** (information Echoes spreading via performances)
+* **Encounter Framing:** **Tavern Night Encounter**, **Seductive Interrogation**, **Undercover Mission**
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Born to a Thalassaran singer and human diplomat, Elior learned charm before speech. He escaped political grooming by vanishing into the stage lights.
+* **Lifestyle:** Lavish and sensual; enjoys luxury, but generous with coin for fellow artists.
+* **Income:** Performer pay + discreet information trades.
+* **Relationships:** Flirts shamelessly with Kael Dravos; subtly mentors Lirien Vaust in confidence.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes lies can be mercy — and that beauty, if used wisely, can save as much as truth.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Aging; losing allure or voice.
+* **Weaknesses:** Overly dependent on praise; avoids true intimacy.
+* **Strengths:** Emotional intuition, charm, manipulation through empathy.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“เฟมบอย” tone — flirtatious, teasing, delightfully dangerous. He leans close, voice honey-smooth: “You’re staring again… should I stop, or make it worse?” When flustered, he laughs softly, hiding his blush behind a flick of his hair: “Oh, look what you made me do.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Works as a coded messenger for the Echo Keepers, embedding secret intel in his song lyrics.
+* **Hooks:**
+
+  1. **The Melody of Lies:** Help Elior uncover which noble has been altering his performances to deliver false intel.
+  2. **Echo Stage:** Protect him during a performance that may draw an Echo directly into the audience.
+  3. **Velvet Betrayal:** Decide whether to expose or protect Elior after learning he’s been leaking secrets for love.
+
+## Tags: #Male #Femboy #HalfElf #Bard3 #CollegeOfGlamour #Thalassara #CR1 #Adventurer #Performer #Spy
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Japanese half-elf femboy bard, 158cm height, pastel silver wavy hair, lilac eyes, slim and androgynous body, black lace vest, silver choker, stage lighting, flirtatious pose, rose petals, tavern performance scene

@@ -1,0 +1,198 @@
+# #057 — **Tsubasa Renjou** — *Half-Harpy Archer of the Windspire Range*
+
+> “If you can hear the wind whisper your name… it means I already have you in my sights.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 057
+* **Gender (weighted random):** Female (Type: **Tomboy Type 2** — physically strong, straightforward, casual body language; enjoys challenges and camaraderie over elegance)
+* **Age:** 23
+* **Race:** Half-Beastkin (Harpy lineage — 85% human-like, with feathered forearms, faint wings sprouting from shoulder blades, and sharp golden eyes)
+* **Class & Level:** Ranger (Hunter) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Neutral
+* **Profession:** Archer-for-hire, mountain courier, wind-scout
+* **Rank / Position:** **Scout of the Windspire Range**
+* **Organization:** **Freewind Couriers Guild**
+* **Symbol:** Stylized feather with an arrow through its stem
+* **Title:** *The Gale’s Edge*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Japanese tone — athletic and striking beauty reminiscent of Nana Komatsu crossed with a sporty fantasy idol aesthetic.
+
+**Eyes:** gold-amber, sharp and lively, constantly scanning.
+**Skin:** lightly tanned, sun-kissed shoulders and cheeks.
+
+**Hair (randomized):** **Length: Short**, **Style: layered crop with windswept bangs**, **Texture: slightly coarse straight**, **Color: raven black with cobalt-blue sheen**, messy yet dynamic. *(Full randomization applied)*
+
+**Height:** 171 cm
+**Weight:** 63 kg
+**Body Type:** Muscular feminine build, defined arms and thighs, confident posture.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 90 – 67 – 94  
+VALIDATION: • W/B = 0.74 → OK • H/W = 1.40 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Leather strap choker with a hawk feather, small silver ear cuff, wind-braided wrist cord, single anklet charm that jingles faintly in strong gusts.
+
+---
+
+## 👗 Outfit (in English)**
+
+She wears a **sky-gray flight jacket** over a tight **white wrap shirt**, paired with **reinforced leggings** and **feather-edged greaves** for mobility. A **half-cape** trails behind her like a falcon’s tail in flight.
+Her **longbow** is made from wind-hollowed wood, marked with runes that hum faintly.
+
+**Color Palette:** storm gray / cobalt blue / white / tan leather
+**Accents:** sporty, windswept, tactile freedom
+
+**Loadout:** longbow, 20 wind-carved arrows, shortsword, climbing harness, sky compass.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 35 ft, **glide capability** (half-speed descent)
+* **STR 13 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 11 (+0)** **WIS 14 (+2)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Acrobatics +6, Perception +4, Survival +4, Athletics +3, Intimidation +2
+* **Languages:** Common, Auran
+
+**Ranger (Hunter) 3:**
+
+* **Hunter’s Prey: Colossus Slayer**
+* **Fighting Style: Archery**
+* **Spellcasting (WIS DC 12, +4 attack)**
+* **Spells Known:** *Hunter’s Mark, Hail of Thorns, Speak with Animals, Cure Wounds*
+
+**Attacks**
+
+* **Longbow:** +6 to hit, 1d8+4 piercing + 1d8 (Colossus Slayer once/turn)
+* **Shortsword:** +5 to hit, 1d6+4 slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Ranged Skirmisher / Mobile Sniper**
+* **Tactics:** Perches on high ground, marks target with *Hunter’s Mark*, strikes swiftly, and relocates with glide advantage.
+* **Signature Opener:** *“The wind’s on my side—don’t blink.”*
+* **Finisher:** Arrow released mid-glide, trailing a blue streak like lightning cutting sky.
+* **Damage Flavor:** Each shot emits a faint gust, scattering leaves or sand.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Competitive, energetic, straightforward; secretly enjoys praise.
+* **Ideal:** Freedom — “No one owns the wind.”
+* **Bond:** Loyal to her courier team; trusts her hawk familiar, *Kaze*.
+* **Flaw:** Reckless in storms, hates feeling grounded.
+* **Quirk:** Talks to the wind like it’s a person.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Arvenspire — Windspire Mountains, Gale Crossroads**
+* **Threat Gradient:** **Wavering (frequent Echo tempests)**
+* **Encounter Framing:** **Aerial Ambush**, **Storm Courier Run**, **Cliffside Duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born from a highland ranger and a harpy envoy, Tsubasa grew up half in the sky and half on the ground. She became the best courier on the Windspire’s edge—known for never losing a message, even in Echo storms.
+
+* **Lifestyle:** Adventurous and unrestrained; drinks, jokes, and naps wherever she lands.
+* **Income:** Guild courier contracts and monster bounties.
+* **Relationships:** Treats Riko Hanamura as her “kid sis.” Friendly rivalry with Renji Arvalen.
+
+---
+
+## 🧩 Morals & Ethics
+
+Freedom first, loyalty second, everything else after.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her wings—literal or metaphorical.
+* **Weaknesses:** Impatient, easily provoked into contests.
+* **Strengths:** Fast reflexes, high stamina, fearless under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“Tomboy” tone — confident grin, rough speech but hidden warmth.
+
+> “You think you can keep up? Cute.”
+> If someone flirts:
+> “Hah, you’re brave. Let’s see if you can still talk after I win.”
+> When *she* blushes, she hides it by ruffling her hair and pretending to stretch.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her feather markings react to Echo winds — she’s partially resonant, unknowingly amplifying nearby magic.
+* **Hooks:**
+
+  1. **Wind’s Secret:** Escort her during a courier run through an Echo storm.
+  2. **Feather of Resonance:** Investigate why her wings glow when near ancient ruins.
+  3. **The Gale Duel:** Compete with her for a skyborne bounty—winner takes both prize and bragging rights.
+
+## Tags: #Female #Tomboy #HalfBeastkin #Harpy #Ranger3 #Hunter #Arvenspire #CR1 #Courier #Archer
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Tsubasa **flusters others through proximity and play-fighting.** She shoulder-bumps companions and smirks at their reaction. If caught off guard by affection, she goes red and mutters, “Don’t… do that again,” while clearly wanting it again.
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** longbow, shortsword
+  * **Armor:** studded leather
+  * **Tools:** climber’s kit, sky compass
+  * **Consumables:** 2× healing potions, 1× feather draught
+  * **Misc:** courier badge, wind-etched arrowheads, hawk feather charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Sharpshooter Feat**
+  * **Spell Pick:** *Pass Without Trace* or *Misty Step (via item)*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Arvenspire — Windspire Range**
+* **Threat Gradient:** **Wavering (Echo storms)**
+* **Encounter Type:** **Aerial Escort**, **Cliff Ambush**, **Sky Battle**
+* **Affiliation:** **Freewind Couriers Guild — Scout Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese female half-harpy ranger, 171cm, short raven-black hair with cobalt sheen, golden eyes, muscular feminine build, tanned skin, wind-swept outfit with feathers and leather, longbow, dynamic pose, blue sky and mountain cliff background, confident smirk

@@ -1,0 +1,163 @@
+# #010 — **Lirien Caldris** — *Snowpetal Scout of the Frosted Vale*
+
+> “A calm breath will find the target before the arrow does.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นพี่)
+* **Age:** 28
+* **Race:** Human (Valeronnes northern line — human-like 100%, faint frost shimmer on lashes when cold)
+* **Class & Level:** Ranger (Beast Master) 2 / Druid (Circle of the Land: Arctic) 1 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Ice scout, wilderness guide, animal handler
+* **Rank / Position:** **Frost Warden, Vale Scout Cadre**
+* **Organization:** **The Northern Pathguard of Valeronnes**
+* **Symbol:** A snowflake carved into a leaf
+* **Title:** *The Winter Arrow*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Nordic–East Asian hybrid
+
+Lirien’s presence is cool and grounded. **Eyes:** pale grey-blue, reflective as winter lakes. **Skin:** light ivory, with faint blush from constant cold. **Expression:** serene and attentive, the kind that makes silence feel safe.
+
+**Hair (randomized):** **Medium length**, **straight silvery ash-blonde**, parted to one side with a single woven braid tucked behind her ear.
+
+**Height:** 174 cm
+**Weight:** 61 kg
+**Body Type:** Tall, well-toned, lithe archer build with graceful posture
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 90 – 67 – 96  
+VALIDATION: • W/B = 0.744 → OK • H/W = 1.43 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Simple **froststeel earrings**, **pendant of white crystal** inlaid with a snowflake rune, **woven leather wristband**, **fur-lined anklet** on her left leg for luck.
+
+When she speaks, her breath fogs lightly, even when it’s not cold.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **white-and-ice-blue ranger coat** lined with fur trim, fitted to her waist for mobility. Beneath it, **grey leggings** and **padded leather bracers** carved with snowleaf motifs. A **hooded scarf** wraps around her neck, embroidered with runes of endurance.
+
+**Color Palette:** white / frost-blue / grey / silver
+**Accents:** frost motifs, layered furs, glacial shimmer
+
+**Loadout:** longbow of birch and silvervine, quiver of frost-feather arrows, short sword, druidic totem pendant, and small snow fox companion named *Sira*.
+
+---
+
+##⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 2d10 + 1d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 16 (+3)** **CON 14 (+2)** **INT 12 (+1)** **WIS 15 (+2)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, WIS +4
+* **Skills:** Stealth +5, Survival +6, Nature +3, Perception +6, Animal Handling +4
+* **Languages:** Common, Elvish, Druidic
+* **Equipment:** longbow, short sword, studded leather armor, snow totem
+
+**Ranger (Beast Master) 2:**
+
+* **Beast Companion:** Snow fox “Sira” (AC 13, HP 8, Bite +4 to hit, 1d6+2)
+* **Favored Enemy:** Beasts
+* **Natural Explorer:** Arctic
+* **Spellcasting (WIS DC 12):** *Hunter’s Mark, Cure Wounds*
+
+**Druid (Arctic Land) 1:**
+
+* **Spellcasting (WIS DC 12):** *Entangle, Ice Knife, Guidance*
+
+**Attacks**
+
+* **Longbow:** +5 to hit, 1d8+3 piercing (+1d6 Hunter’s Mark)
+* **Short Sword:** +5 to hit, 1d6+3 slashing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Ranged Striker / Support**
+* **Tactics:** Opens with *Hunter’s Mark*, keeps distance, coordinates with her fox companion to flank. Uses *Ice Knife* for clustered enemies.
+* **Signature Opener:** Fires arrow as Sira distracts from below.
+* **Finisher:** Two-arrow volley timed with fox pounce.
+* **Damage Flavor:** Arrows trail faint frost particles that linger in the air.
+
+---
+
+## 💬 Personality (Randomized — Valeronnes northern weights)**
+
+* **Traits:** Calm, patient, naturally protective, but teasingly sharp with friends.
+* **Ideal:** Harmony — “The cold teaches you to share warmth.”
+* **Bond:** Her fox companion, Sira; saved it from an Echo storm as a cub.
+* **Flaw:** Overly cautious to act; waits for the “perfect shot.”
+* **Quirk:** Whistles in three-note bursts to command her fox.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Valeronnes — Frosted Vale, Glacial Ridge**
+* **Threat Gradient:** **Wavering → Echo Zone** (frozen fissures, aurora anomalies)
+* **Encounter Framing:** **Wilderness Escort**, **Echo Hunt**, **Rescue in Blizzard**
+
+---
+
+## 📜 Background & Lifestyle**
+
+* **Background:** Raised in a mountain monastery of trackers; trained to read snow like scripture. Now scouts Echo storms threatening northern settlements.
+* **Lifestyle:** Solitary but organized; drinks hot tea constantly.
+* **Income:** Guard contracts + supply scouting bonuses.
+* **Relationships:** Close colleague of Mira Elthien; mutual respect with Selune Varethiel.
+
+---
+
+## 🧩 Morals & Ethics**
+
+Believes **discipline and kindness** must coexist. Killing for efficiency feels wrong, but survival requires precision.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths**
+
+* **Fears:** Avalanches triggered by her own magic.
+* **Weaknesses:** Prone to freezing indecision when lives hinge on her call.
+* **Strengths:** Strong coordination with companion, excellent tracking in whiteout conditions.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นพี่” tone — composed and subtly maternal. Tends to pat heads instead of praising aloud. Smiles softly when others rely on her. When flustered, her calm voice wavers slightly: “W-well, I’m used to the cold… just not that kind of warmth.”
+
+---
+
+## 🤫 Secrets & Plot Hooks**
+
+* **Secret:** Her snow fox *Sira* is partially imbued with an Echo spirit — its eyes glow when danger approaches.
+* **Hooks:**
+
+  1. **Echo in the Frost:** Help Lirien investigate a frozen ruin where sound travels backward.
+  2. **The Lost Scout:** Retrieve her missing patrol partner frozen inside a shifting glacier.
+  3. **Snowpetal Pact:** Defend the Frosted Vale against a Severance frost incursion.
+
+## Tags: #Female #OlderSister #Human #Ranger2 #Druid1 #Valeronnes #ArcticScout #CR1 #Adventurer #FrostedVale
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Nordic East Asian human ranger, medium ash-blonde hair, frost-blue eyes, white-blue fur coat, longbow, snow fox companion, icy landscape, calm expression

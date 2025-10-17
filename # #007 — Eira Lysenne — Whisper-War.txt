@@ -1,0 +1,164 @@
+# #007 — **Eira Lysenne** — *Whisper-Warden of the Glass Hollow*
+
+> “Silence isn’t empty; it’s a blade waiting to be drawn.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นน้อง)
+* **Age:** 20
+* **Race:** Elf (Valeronnes lineage — human-like ~85% with crystal-like eyes and faint glass shimmer across cheekbones)
+* **Class & Level:** Rogue (Assassin) 2 / Ranger (Hunter) 1 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral
+* **Profession:** Infiltrator and scout for the Valeronnes Shadow Choir
+* **Rank / Position:** **Junior Warden, Glass Hollow Division**
+* **Organization:** **Order of Silent Verse**
+* **Symbol:** A dagger piercing through a translucent crystal feather
+* **Title:** *The Quiet Bloom*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Korean–Valeronnes hybrid
+
+Eira’s appearance holds an otherworldly precision. **Eyes** like pale lavender glass; **skin** milky ivory with faint iridescent sheen; **expression** soft and curious, masking sharp alertness. A touch of innocence disarms—right before her blade flashes.
+
+**Hair (randomized):** **Medium**, wavy **silver-blonde**, tied in a short braid at the side; a few strands always fall across her eyes.
+
+**Height:** 165 cm
+**Weight:** 52 kg
+**Body Type:** Slender, delicate limbs hiding whip-like strength
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium  
+THREE_SIZES (B-W-H, cm): 86 – 64 – 90  
+VALIDATION: • W/B = 0.744 → OK   • H/W = 1.40 → OK  
+```
+
+**Jewelry & Accessories (randomized):**
+Thin **silver chain choker** with glass shard pendant, **small ear cuffs**, **mirror-polished bracelet** with resonance sigil, and **anklet of soft bells** that ring only when she wants them to.
+
+When she moves, her silhouette catches faint refracted light—like walking through spun glass.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **white-gray leather tunic** stitched with translucent panels for movement, **asymmetric skirt-cut cloak** that shimmers faintly under moonlight, **black leggings**, and **soft-soled boots** ideal for silent runs. Her gloves are silver-threaded for grip, with hidden throwing knife sheaths.
+
+**Color Palette:** pale silver / white / black / soft violet
+**Accents:** translucent fabric, mirrored seams, crystal clasps
+
+**Loadout:** twin daggers, throwing knives, shortbow, smoke beads, and a “shatterglass” capsule for distraction.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 2d8 + 1d10 + (CON +1)×3 → **23 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 17 (+3)** **CON 12 (+1)** **INT 13 (+1)** **WIS 14 (+2)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, INT +3
+* **Skills:** Stealth +7, Acrobatics +5, Perception +4, Deception +3, Sleight of Hand +5, Investigation +3
+* **Languages:** Common, Elvish, Thalassaran Cant
+* **Equipment:** twin daggers, shortbow, smoke beads, shatterglass capsule
+
+**Rogue (Assassin) 2:**
+
+* **Assassinate** (advantage vs surprised, crit vs unaware)
+* **Cunning Action**
+* **Sneak Attack 1d6**
+
+**Ranger (Hunter) 1:**
+
+* **Favored Enemy:** Aberrations
+* **Natural Explorer:** Urban environments
+* **Spells (WIS DC 12):** *Hunter’s Mark*
+
+**Attacks**
+
+* **Daggers (x2):** +5 to hit, 1d4+3 piercing (+1d6 Sneak Attack)
+* **Shortbow:** +5 to hit, 1d6+3 piercing
+
+---
+
+## 🎯 Combat Tactics (Randomized)**
+
+* **Role:** **Ambusher / Assassin Scout**
+* **Tactics:** Begins from total concealment, targets mages first; uses **Hunter’s Mark** to track fleeing targets; **Assassinate** synergy with stealth.
+* **Signature Opener:** Drops from rafters as glass light flickers around her.
+* **Finisher:** Twin-dagger thrust through mirrored illusions.
+* **Damage Flavor:** Each strike leaves glimmering cracks in the air, like shattering silence.
+
+---
+
+## 💬 Personality (Randomized — Valeronnes weights)**
+
+* **Traits:** Gentle voice, eager to prove herself, follows orders too strictly.
+* **Ideal:** Discipline — “Even shadows must move in rhythm.”
+* **Bond:** Looks up to her mentor, Mira Elthien.
+* **Flaw:** Overthinks every compliment; blushes easily.
+* **Quirk:** Practices stealth steps in rhythm to her heartbeat.
+
+---
+
+## 🧭 Common Locations (Randomized)**
+
+* **Kingdom/Zone:** **Valeronnes — Glass Hollow, Moonlight Passages**
+* **Threat Gradient:** **Wavering → Echo Zone** (resonant crystal tunnels)
+* **Encounter Framing:** **Assassination Interruption**, **Silent Escort**, **Spy Extraction**
+
+---
+
+## 📜 Background & Lifestyle**
+
+* **Background:** Former orphan of the Hollow, raised by the Shadow Choir as a singer and blade. Her affinity for silence magic made her invaluable as a scout.
+* **Lifestyle:** Lives in guild dorms; reads murder ballads before sleep.
+* **Income:** Bounty work, courier missions, guild stipend.
+* **Relationships:** Respects Mira Elthien; intimidated by Rinna Vaelune.
+
+---
+
+## 🧩 Morals & Ethics**
+
+Believes in “orderly mercy”—kills only when silence is necessary. Follows her code rigidly, but secretly yearns for normal friendship.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths**
+
+* **Fears:** Being truly alone—silence without purpose.
+* **Weaknesses:** Naïve about deceit.
+* **Strengths:** Excellent precision, adaptable to light or dark terrain.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“รุ่นน้อง” tone — quiet and polite; peeks up shyly when praised. She fidgets with her choker chain and whispers, “I’ll try harder next time, promise.” If someone flusters her, she hides behind a mission excuse. Tries to mimic her seniors’ poise but always ends up blushing mid-sentence.
+
+---
+
+## 🤫 Secrets & Plot Hooks**
+
+* **Secret:** She hides an unregistered echo crystal inside her pendant—it amplifies her stealth to supernatural levels but corrodes memory slowly.
+* **Hooks:**
+
+  1. **Shattered Reflection:** Help Eira retrieve her mentor’s stolen echo-crystal before it destabilizes.
+  2. **The Silent Bloom:** A Severance agent impersonates her twin reflection; find the real Eira.
+  3. **Echo in the Hollow:** Stop a ritual that turns song into literal silence.
+
+## Tags: #Female #YoungerSister #Elf #Rogue2 #Ranger1 #Valeronnes #Assassin #CR1 #Adventurer #GlassHollow
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean elf assassin girl, medium silver-blonde hair, lavender eyes, pale skin, leather outfit, twin daggers, glass shimmer, shy smile, moonlit tunnels

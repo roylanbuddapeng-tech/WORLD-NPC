@@ -1,0 +1,188 @@
+# #046 — **Miraen Luthar** — *Half-Aquatic Femboy Envoy of the Sapphire Tides*
+
+> “You can drown in a whisper if you let it reach your heart first.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 046
+* **Gender (weighted random):** Male (Type: เฟมบอย — feminine and alluring, charmingly manipulative with softness masking wit; height limit applied)
+* **Age:** 22
+* **Race:** Half-Beast (Aquatic lineage — 85% human-like; faint scales at neck shimmer sea-blue; gills flare when tense)
+* **Class & Level:** Sorcerer (Storm Sorcery) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Neutral
+* **Profession:** Diplomat, siren-voiced messenger, tide interpreter
+* **Rank / Position:** **Envoy of the Sapphire Tides Embassy**
+* **Organization:** **Thalassara Maritime Council**
+* **Symbol:** A trident crossed over a quill
+* **Title:** *The Siren’s Quill*
+
+---
+
+## 🪞 Appearance (in English)**
+
+**Ethnic Theme:** Thai–Greek hybrid
+
+Miraen moves with the poise of a court dancer and the ease of a current. **Eyes:** turquoise with silver swirls, luminous under moonlight. **Skin:** warm olive with a faint gloss of ocean mist. **Hair:** **Medium**, **soft aqua-blue**, slightly wavy, parted neatly and pinned with coral clasps.
+
+**Height:** 158 cm *(per femboy restriction)*
+**Weight:** 50 kg
+**Body Build:** Slender, elegant, gently curved lines; dancer’s grace and subtle muscle tone.
+
+**Jewelry & Accessories (randomized):**
+A **pearl chain choker**, **silver droplet earrings**, **thin ankle bracelet** of sea-crystals, and a **slim sapphire ring** that hums with faint resonance when casting.
+
+---
+
+## 👗 Outfit (in English)**
+
+Miraen wears a **flowing indigo tunic** open at the chest, trimmed with sea-silk threads, paired with **form-fitting white trousers** tucked into soft boots. A **translucent capelet** of faint blue shimmer drapes his shoulders like a ripple of water.
+
+**Color Palette:** sea-blue / silver / white / indigo
+**Accents:** fluid, graceful, faintly seductive
+
+**Loadout:** ornate quill dagger, storm focus pendant, enchanted water-sash, coral charm pouch.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)**
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **14** (storm aura barrier + DEX)
+* **Speed:** 30 ft; **Swim 30 ft**
+* **STR 8 (–1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 10 (+0)** **WIS 11 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, CHA +5
+* **Skills:** Persuasion +5, Deception +5, Insight +2, Arcana +2, Acrobatics +4, Performance +5
+* **Languages:** Common, Aquan, Elvish
+
+**Sorcerer (Storm Sorcery) 3:**
+
+* **Storm’s Soul:** Resistance to lightning and thunder; can breathe underwater.
+* **Tempestuous Magic:** Fly 10 ft after casting a spell (CHA mod times/day).
+* **Spellcasting (CHA DC 13, +5 atk)**
+* **Spells Known (5):** *Fog Cloud, Thunderwave, Chromatic Orb, Gust of Wind, Mirror Image*
+* **Cantrips:** *Prestidigitation, Shape Water, Shocking Grasp, Minor Illusion*
+* **Sorcery Points:** 3
+
+**Attacks**
+
+* **Shocking Grasp:** +5 to hit, 1d8 lightning
+* **Quill Dagger:** +4 to hit, 1d4+2 piercing (conductive — channels lightning)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Disruption Caster**
+* **Tactics:** Uses *Fog Cloud* for cover, *Mirror Image* defensively, *Thunderwave* to repel melee attackers.
+* **Signature Opener:** Steps forward mid-conversation, flicks wrist — lightning dances across his fingers like a flirt turned deadly.
+* **Finisher:** *Chromatic Orb (lightning)*, eyes glinting sea-turquoise; the room smells faintly of rain.
+* **Damage Flavor:** Strikes release faint music like harp strings underwater.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Coy, articulate, confident but hides vulnerability.
+* **Ideal:** Freedom — “Every current chooses its own shore.”
+* **Bond:** Devoted to the Sapphire Embassy’s peace efforts, even if his methods bend the truth.
+* **Flaw:** Flirts as a distraction — sometimes too sincerely.
+* **Quirk:** Flicks his hair when thinking; speaks in tones like a half-whispered song.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Sapphire Embassy, Tidecall Court, Pearl Markets**
+* **Threat Gradient:** **Stable → Wavering** (political Echo surges within negotiations)
+* **Encounter Framing:** **Diplomatic Mediation**, **Underwater Rescue**, **Ritual Performance**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a diplomat father and a siren mother, Miraen was trained to speak beautifully and lie elegantly. His half-aquatic charm makes him equally at home in council halls and coral reefs.
+
+* **Lifestyle:** Refined; enjoys music, poetry, and sea-bathing rituals.
+* **Income:** Diplomatic stipend, commission bonuses, gifts from admirers.
+* **Relationships:** Professional tension with Elior Fenn; secret fondness for Lyra Thalassara’s stoicism.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes truth and beauty are both weapons — to heal, deceive, or protect.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Deep isolation; silence underwater (a sign of Echo corruption).
+* **Weaknesses:** Physically fragile; emotionally reckless when charmed or complimented.
+* **Strengths:** High charisma, subtle manipulation, precise spell control.
+
+---
+
+## 💞 Interactions (Behavioral Style)**
+
+“เฟมบอย” tone — intimate, teasing, weaponized gentleness.
+He leans close, voice smooth as waves:
+
+> “Careful with your promises… the sea remembers every one.”
+> If flustered, he giggles softly, twisting a lock of hair:
+> “Oh? You really mean that? How… dangerous.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His pendant houses a fragment of a dormant storm Echo — potentially a sentient weather spirit.
+* **Hooks:**
+
+  1. **Storm in the Heart:** Protect Miraen as he delivers a volatile treaty while his pendant awakens.
+  2. **The Drowned Note:** Find who’s stealing magical voices from Thalassaran performers.
+  3. **Whispers Beneath the Tide:** Track the Echo currents that mimic Miraen’s own voice to manipulate politics.
+
+## Tags: #Male #Femboy #HalfBeast #AquaticKin #Sorcerer3 #StormSorcery #Thalassara #CR1 #Adventurer #Diplomat
+
+---
+
+## 💞 Interaction Preferences (Quick)**
+
+Flirts to make others blush — especially stoic types. Enjoys toying with reactions, brushes fingers against your hand mid-sentence as though testing water temperature.
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800** more (Level 4 at 2,700 total)
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** quill dagger, storm focus pendant
+  * **Tools:** diplomat’s kit, ink set, message scrolls
+  * **Consumables:** 1× potion of water breathing, 1× perfume vial (spell focus), 2× lightning pearls (1d4 shock, single use)
+  * **Misc:** tidecourt signet, shell journal, love letters (anonymous)
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **Elemental Adept (Lightning)**
+  * **Spell Pick:** *Shatter* or *Suggestion* for control emphasis
+  * **Metamagic Choice:** **Subtle Spell** and **Quickened Spell** (fits diplomat-flair casting)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Sapphire Embassy, Coral Tunnels**
+* **Threat Gradient:** **Wavering (political Echo instability)**
+* **Encounter Type:** **Ritual Mediation**, **Storm Duel**, **Underwater Pursuit**
+* **Affiliation:** **Sapphire Tides Embassy — Envoy Rank**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Greek femboy half-aquatic sorcerer, 158cm, soft aqua-blue hair, turquoise glowing eyes, slim elegant build, indigo sea-silk tunic, silver jewelry, pearl choker, water aura, charming smile, underwater embassy backdrop

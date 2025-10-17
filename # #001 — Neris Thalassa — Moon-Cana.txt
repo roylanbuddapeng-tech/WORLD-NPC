@@ -1,0 +1,162 @@
+# #001 — Neris Thalassa — *Moon-Canal Courier of Quiet Echoes*
+
+> “If you listen kindly, the city walks you home.”
+
+---
+
+## 🜏 General Information
+
+* **Gender (weighted random):** Female (Type: รุ่นน้อง)
+* **Age:** 19
+* **Race:** Human (Thalassaran-line — human-like ~90% with faint teal limbal ring in the eyes)
+* **Class & Level:** Rogue (Scout) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** Canal courier, message-runner, apprentice echo-rigger
+* **Rank / Position:** Field aide, **Moon Canal Rangers Aux.**
+* **Organization:** **Thalassara City Guard — Moon Canal Rangers (Auxiliary)**
+* **Symbol:** A slim courier arrow over rippling sound-rings
+* **Title:** *The Quicksilver Runner*
+
+---
+
+## 🪞 **Appearance (in English)**
+
+**Ethnic Theme:** Greek (Aegean-inspired)
+
+A lithe, bright-eyed human with a soft **teal limbal ring** encircling warm hazel irises—classic Thalassaran resonance. Skin is **sun-kissed olive** with a faint moon-glow along the shoulders. Her smile tilts shyly before it blooms, like a lantern coaxed to brightness.
+
+**Hair (randomized):** **Medium length**, wavy **dark chestnut** with muted teal lowlights; side-swept fringe pinned by a tiny silver fish clip.
+
+**Height:** 167 cm
+**Weight:** 54 kg
+**Body Type:** Slender athletic; quick-step runner’s calves, narrow waist, soft lines
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 90 – 66 – 98
+VALIDATION: • W/B = 0.733 → OK   • H/W = 1.48 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+Round **half-moon spectacles** she perches when map-reading; a **silver pendant vial** with a tiny song-crystal; **single chain earring** on the left; a **slim echo-sensor bangle** on her right wrist; a **delicate anklet** with two silent chime-charms that only ring when submerged.
+
+She moves like a reflected ripple—light, cautious, ready to sprint.
+
+---
+
+## 👗 **Outfit (in English)**
+
+A **charcoal-blue courier vest** over a **soft leather gambeson**, stitched for breathability along the ribs. **Midnight half-cloak** with sound-dampening embroidery at the hem; **fingerless gloves** for grip and quick knot-work. **Slim-fit trousers** tucked into **canal-ready boots** with textured soles.
+
+**Color Palette:** charcoal / indigo / river-teal / silver thread
+**Accents:** stitched wave motifs; fish-scale quilting at the shoulders for bounce and protection
+
+**Loadout:** compact **shortbow**, **quiver of black-feather arrows**, **shortsword**, **rope kit**, **grapnel**, waxed message-capsules, and a folded canal chart.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **16** (studded leather 12 + DEX +4)
+* **Speed:** 35 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 14 (+2)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Stealth +8 (Expertise), Perception +6 (Expertise), Acrobatics +6, Insight +4, Athletics +2, Persuasion +4, Survival +4
+* **Languages:** Common, Elvish, Thalassaran Cant
+* **Equipment:** shortbow & 20 arrows, shortsword, studded leather, rope (50 ft), grapnel, courier’s kit, echo-sensor bangle (once/day advantage on a single Perception [hearing] check)
+
+**Rogue 3 (Scout):**
+
+* **Sneak Attack 2d6**, **Cunning Action** (Dash/Disengage/Hide as bonus action)
+* **Skirmisher** (reaction move half speed when an enemy ends turn within 5 ft, no opportunity attacks)
+* **Survivalist** (proficiency in Nature & Survival; both Expertise) → already reflected in skills
+* **Expertise:** Stealth, Perception (chosen)
+
+**Attacks**
+
+* **Shortbow:** +6 to hit, 1d6+4 piercing; **Sneak Attack +2d6** on hit with advantage or ally adjacent
+* **Shortsword:** +6 to hit, 1d6+4 piercing/slashing; qualifies for Sneak Attack
+
+**Spare Features/Items (flavor-compliant):** waxed map cases grant advantage vs. water damage to documents; spectacles grant +1 to checks to read distant signage (DM’s option).
+
+---
+
+## 🎯 Combat Tactics (Randomized)
+
+* **Role:** **Skirmisher / Scout Support**
+* **Range Preference:** **Ranged-first (20–80 ft)**, then darting melee opportunism
+* **Tactics:** Opens in **Hide**, marks lanes, **Shortbow** with Sneak Attack; uses **Cunning Action** to break line-of-sight. On pressure, **Skirmisher** steps back, then repositions by rope routes.
+* **Signature Opener:** Drops a grapnel line across a narrow canal, fires from a knee, vanishes behind a stairwell echo.
+* **Finisher:** Kites a target into a **prepared crossfire** with allies; last shot is a whispered “homebound” that lands as the enemy turns.
+* **Damage Flavor:** Arrow impacts leave a **thin teal ripple** on stone, like water remembering a wave.
+
+---
+
+## 💬 Personality (Randomized — Thalassara weights)
+
+* **Traits:** Cheerful, earnest; learns routes and faces fast • A little shy with praise but warms quickly
+* **Ideal:** Community — “Everyone gets home safe.”
+* **Bond:** A little ring-bound map from her late mentor; she updates it lovingly.
+* **Flaw:** Hesitates to abandon satchels even when it’s smarter to flee.
+* **Quirk:** Counts bridge spans in **hums**; each span has its own two-note tune.
+
+---
+
+## 🧭 Common Locations (Randomized)
+
+* **Kingdom/Zone:** **Thalassara** — Moon Canals (courier lanes), latch-stairs, arch-shadow landings
+* **Threat Gradient:** **Stable → Wavering** during festivals or protests
+* **Encounter Framing:** **Message Run** under pursuit; **Ambush Relay** for the Rangers; **Rescue Dash** guiding civilians by whistle-codes
+
+---
+
+## 📜 Background & Lifestyle
+
+* **Background:** Dock-born to lantern-menders; ran messages since childhood. A Ranger patrol saved her in an Echo panic—she joined the Aux to repay that quiet debt.
+* **Lifestyle:** Frugal; sleeps afternoons, runs at dusk; keeps a **tally of safe windows** in each district.
+* **Income:** City courier stipend + per-run bonuses; tips from merchants who got letters home in time.
+* **Relationships:** Friendly with Lyra’s junior rangers; protective of street urchins who memorize her whistle codes.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes **kindness is logistics**: the right note at the right time keeps fear from crescendoing. Breaks rules if the route saves lives.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Total silence in the canals; losing the map ring.
+* **Weaknesses:** Low staying power in melee; overly attached to cargo.
+* **Strengths:** Superb mobility and scouting; excellent at **creating safe lanes** for allies.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+Shy-“รุ่นน้อง” energy—glances up, then beams. When flustered, she fiddles her fish clip and says, “Um… I can run ahead and mark the turns for you, okay?” She blushes if praised and tries to repay compliments with small, earnest favors (free route intel, extra arrows).
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her song-crystal pendant stores **a courier code** that can call off a rogue Ranger unit—knowledge she’s not supposed to have.
+* **Hooks:**
+
+  1. **Echo on the Wire:** Deliver a sealed score across hostile canals while Echo surges mimic footsteps on bridges.
+  2. **The Vanished Mentor:** Her old mentor’s map-ring points to a hidden canal stair no one admits exists.
+  3. **Whistle for Home:** A festival turns to riot; guide civilians using whistle codes while ruffians hunt the courier.
+
+## Tags: #Female #YoungerSister #Human #Rogue3 #Scout #Thalassara #Skirmisher #CR1 #Adventurer #MoonCanals
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Greek girl courier, medium wavy chestnut hair, teal eye ring, charcoal-blue vest, moonlit canals, shortbow, silver fish hairpin, half-cloak, agile runner
