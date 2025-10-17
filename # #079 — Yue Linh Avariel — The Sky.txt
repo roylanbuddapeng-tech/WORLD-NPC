@@ -1,0 +1,207 @@
+# #079 — **Yue Linh Avariel** — *The Skyblossom Scout of the Verdant Peaks*
+
+> “When you look down on the world from the clouds, you learn what’s worth falling for.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 079
+* **Gender (weighted random):** **Female (Type: ทอมบอย — แบบ 1. อ้อนแอ้นแต่ผมสั้น)** — lively, competitive, warm-hearted with a mischievous streak
+* **Age:** 20
+* **Race:** **Half-Beast (Human–Hawk Hybrid)** — humanoid 90%; light feathers dust her forearms and shoulder blades, faint wing tattoos visible when magic is active
+* **Class & Level:** **Ranger (Beast Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Aerial courier, scout, freelance monster spotter
+* **Rank / Position:** **Skyblossom Scout, Free Agent under the Verdant Watch**
+* **Organization:** **Aerie of Thalassara Highlands**
+* **Symbol:** Feather entwined with a blooming vine
+* **Title:** *The Swift Bloom*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–Chinese blend**, soft facial lines, bright confident expression.
+
+**Eyes:** golden-brown with amber ring.
+**Skin:** fair with sun-kissed undertone and faint freckling over nose bridge.
+
+**Hair (randomized):** **Short feminine cut**, **style:** feathery pixie with wispy side strands, **texture:** light and straight, **color:** chestnut brown with soft gold streaks near the tips.
+**Height:** 166 cm
+**Weight:** 54 kg
+**Body Type:** **Toned Feminine** — lean athletic limbs, soft waist curve, runner’s frame.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: B   CATEGORY: Small
+THREE_SIZES (B-W-H, cm): 84 – 64 – 88
+VALIDATION: • W/B = 0.761 → OK   • H/W = 1.38 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+Silver **wing-ear cuff**, **anklet** with a tiny feather charm, **thin cord bracelet**, and a **light-blue visor band** for sun glare.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *C + F* (**Midriff + Asymmetric Reveal**)
+
+Her outfit suits the skies — a **light azure cropped flight top** exposing a **sliver of toned midriff**, with one **shoulder bare** under a diagonal strap harness.
+Her **scout trousers** are snug, high-waisted with side vents along the thigh for agility.
+A short **hooded jacket** with wing emblems trails slightly when she runs or glides.
+
+Fingerless gloves, soft leather boots with talon-guard soles, and an equipment belt with climbing hooks complete the look.
+
+**Color Palette:** sky blue / brown leather / white feather / silver accents
+**Accents:** adventurous, functional, lightly revealing in motion
+
+**Loadout:** Shortbow (*Skyfang*), twin daggers, hawk familiar (*Zephyr*), grappling cord.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +1)×3 → **27 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 35 ft; **Glide:** may slow descent and move 10 ft horizontally per 10 ft drop
+* **STR 11 (+0)** **DEX 17 (+3)** **CON 12 (+1)** **INT 10 (+0)** **WIS 14 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, DEX +5
+* **Skills:** Acrobatics +5, Perception +4, Animal Handling +4, Survival +4, Stealth +5
+* **Languages:** Common, Auran, Elvish
+
+**Ranger (Beast Master) 3:**
+
+* **Favored Foe (flying creatures)**
+* **Natural Explorer (mountains)**
+* **Beast Companion:** *Zephyr* (Hawk, HP 13, AC 13, +5 to hit, 1d4+3 piercing)
+* **Spellcasting (WIS DC 12, +4 atk)**
+
+  * **1st (3 slots):** *Hunter’s Mark, Speak with Animals, Goodberry*
+
+**Attacks:**
+
+* **Shortbow (Skyfang):** +5 to hit, 1d6+3 piercing (ranged 80/320 ft)
+* **Twin Daggers:** +5 to hit, 1d4+3 slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Scout / Mobility Skirmisher**
+* **Tactics:** Marks target with *Hunter’s Mark*, uses hawk *Zephyr* to harry and distract; fights from high ground or airborne vantage.
+* **Signature Opener:** Leaps off a ledge, firing mid-glide, cloak flaring like wings.
+* **Finisher:** Uses *Hunter’s Mark* + *Zephyr Dive Attack* combo for pinpoint strike.
+
+**Damage Flavor:** swift cuts leave feathered glimmers of light in the air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Cheerful, reckless, teasingly brave; hates being grounded.
+* **Ideal:** Freedom — “The world’s too big to stay in one nest.”
+* **Bond:** Her hawk companion, Zephyr.
+* **Flaw:** Rushes into danger; restless if idle too long.
+* **Quirk:** Whistles a short tune before shooting.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara Highlands — Verdant Peaks, Cloudstep Ledges**
+* **Threat Gradient:** **Stable → Wavering (Echo flocks interference)**
+* **Encounter Framing:** **Aerial Hunt**, **Courier Escort**, **Mountain Rescue**
+
+---
+
+## 📜 Background & Lifestyle
+
+Yue grew up in the cliffside city of the Aerie, learning to track storms and glide on wind currents. Her carefree charm hides her sharp observation skills and fierce loyalty to her comrades.
+
+* **Lifestyle:** travels light; prefers cliffside huts and open-air taverns.
+* **Income:** delivery bounties, scouting contracts, aerial mapping.
+* **Relationships:** friendly rivalry with Natsumi Hayane; pupil of old ranger *Tarin the Gale*.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes courage means motion — never standing still, never looking down too long.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being trapped underground or in enclosed spaces.
+* **Weaknesses:** impatience, underestimates terrain hazards.
+* **Strengths:** speed, sight range, adaptable tactics.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย tone — bright, teasing, affectionate in physical ways.**
+
+> “You’re too slow—come on, race me to that ridge!”
+> She **makes others flustered** by playful shoulder nudges or sudden winks mid-flight.
+> If she loses a bet, she’ll grin:
+> “Fine, fine—you win. Don’t let it go to your head, featherbrain.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** She once broke an Aerie airlaw by saving a friend mid-dive — causing a political rift.
+* **Hooks:**
+
+  1. **Storm Courier:** Escort her during a dangerous aerial message run through Echo-infested air currents.
+  2. **Broken Wing Pact:** Help reconcile her with her former squad.
+  3. **Feather of the First Wind:** Retrieve her lost ancestral feather that amplifies wind spells.
+
+## Tags: #Female #Tomboy #HalfBeast #HawkHybrid #Ranger3 #Thalassara #CR1 #Scout #Freedom #Energetic
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Yue often stands too close without noticing — laughing with genuine warmth. When someone blushes, she blinks and smirks:
+
+> “Oh? Don’t tell me I’m your altitude problem.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** shortbow, twin daggers
+  * **Armor:** studded leather
+  * **Tools:** climbing kit, messenger satchel
+  * **Consumables:** goodberries ×10, wind balm ×1
+  * **Misc:** feather anklet, glider map, Zephyr’s charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 19) *or* **Mobile**
+  * **Spell Additions:** *Pass Without Trace*, *Absorb Elements*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara Highlands — Verdant Peaks**
+* **Threat Gradient:** **Wavering → Echo Zone (storm resonance)**
+* **Encounter Type:** **Aerial Chase**, **Monster Hunt**, **Sky Duel**
+* **Affiliation:** **Aerie of the Verdant Watch**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese Chinese female half-beast hawk hybrid ranger tomboy short feathery pixie hair chestnut with gold streaks, golden-brown eyes, toned athletic build, sky-blue cropped top midriff one-shoulder, wing motifs, short jacket, mountain sky background, confident playful smile

@@ -1,0 +1,205 @@
+# #085 — **Elira Veyne** — *Moonlit Whisper of the Azure Choir*
+
+> “Every note I sing is a promise — to remember the light that sound once carried.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 085
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — bright, soft-spoken, idealistic; clings to mentors emotionally, with a childlike eagerness to prove herself
+* **Age:** 19
+* **Race:** **Half-Elf (Thalassaran)** — 85% human-like with faint teal shimmer in eyes and faint luminescent freckles that appear under moonlight
+* **Class & Level:** **Cleric (Domain of Light)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Acolyte-singer, shrine healer, part-time canal patrol medic
+* **Rank / Position:** **Junior Priestess of the Moon Canals**
+* **Organization:** **Thalassara Luminary Choir**
+* **Symbol:** Crescent halo crossed with a thread of sound
+* **Title:** *The Whisperlight*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Japanese**, bright and delicate; charm lies in subtlety and purity.
+
+**Eyes:** pale aqua with shimmering specks, like moonlight reflecting on water.
+**Skin:** light olive with a faint luminescent tone along collarbones and cheeks.
+
+**Hair (randomized):** **Long**, **style:** straight with side braid tucked behind ear, **texture:** soft and silky, **color:** black fading to sea-teal at the tips.
+**Height:** 162 cm
+**Weight:** 52 kg
+**Body Type:** **Soft feminine**, slim with gentle curves and youthful energy.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 66 – 91
+VALIDATION: • W/B = 0.75 → OK   • H/W = 1.37 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Silver chime earrings**, **moonstone pendant**, **anklet** with two tiny bells that ring softly when she walks.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *F + A* (**Asymmetric Shoulder + Low Cut**)
+
+Elira’s ceremonial attire is both innocent and breathtaking — a **white silk dress** that leaves one **shoulder bare**, with a **low sweetheart neckline** revealing the upper curve of her chest, trimmed in silver lace.
+A **transparent shawl** drapes over her arms, faintly glowing when she channels divine magic.
+**Barefoot**, she wears delicate **moon anklets** that jingle in rhythm with her step.
+
+**Color Palette:** white / silver / pale teal
+**Accents:** ethereal, youthful, luminous
+
+**Loadout:** Silver focus orb (divine spellcasting), holy water vial, small ceremonial dagger (symbolic).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **16** (chain shirt + shield)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 13 (+1)** **CON 12 (+1)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Insight +5, Performance +4, Medicine +5, Religion +2, Persuasion +4
+* **Languages:** Common, Elvish, Celestial, Thalassaran Cant
+
+**Cleric (Light Domain) 3:**
+
+* **Cantrips:** *Light, Sacred Flame, Thaumaturgy*
+* **Spells (WIS DC 13, +5 atk)**
+
+  * **1st (4 slots):** *Bless, Healing Word, Guiding Bolt*
+  * **2nd (2 slots):** *Lesser Restoration, Spiritual Weapon, Aid*
+* **Channel Divinity (1/rest):** *Radiance of the Dawn*
+
+**Attacks:**
+
+* **Sacred Flame:** DC 13 DEX save, 1d8 radiant
+* **Spiritual Weapon:** +5 to hit, 1d8+3 radiant
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Healer / Radiant Caster**
+* **Tactics:** Opens with *Bless*, stays close to allies, uses *Radiance of the Dawn* when darkness encroaches.
+* **Signature Opener:** softly hums a hymn; the air brightens with pale teal motes.
+* **Finisher:** channels light through her pendant — a shimmering burst that blinds enemies briefly.
+
+**Damage Flavor:** glowing ripples of sound accompany her light, like divine music.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Kind, eager to please, slightly clumsy; blushes easily.
+* **Ideal:** Compassion — “No one deserves to walk in silence.”
+* **Bond:** Devoted to Lyra Thalassara, who once saved her during an Echo surge.
+* **Flaw:** Naive; trusts people too quickly.
+* **Quirk:** Hums unconsciously when nervous.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Canals, Shrine of Soft Waters**
+* **Threat Gradient:** **Stable → Wavering (Echo leaks through water)**
+* **Encounter Framing:** **Shrine Defense**, **Healing Mission**, **Canal Patrol**
+
+---
+
+## 📜 Background & Lifestyle
+
+A novice cleric who joined the Luminary Choir to bring comfort to Echo victims. Her singing voice can calm minor resonances — a rare gift she doesn’t fully understand.
+
+* **Lifestyle:** simple; lives in dormitory near shrine.
+* **Income:** clergy stipend + donations.
+* **Relationships:** junior under Lyra Thalassara; childhood friend of Yue Linh Avariel.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes light is not punishment but warmth — she heals even those who once hurt her.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing to save someone again.
+* **Weaknesses:** Inexperience, hesitation under pressure.
+* **Strengths:** Purity of heart, radiant magic potential.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — shy, earnest, full of admiration.**
+
+> “U-Um… you’re amazing! Can I… stand beside you during the next patrol?”
+> She **blushes easily** when praised or teased, stammers a little but keeps eye contact.
+> If comforted, she smiles softly:
+> “When you say it like that, it feels like… maybe I really can do this.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her voice once accidentally dispelled an entire Echo field — but erased memories of everyone nearby for a day.
+* **Hooks:**
+
+  1. **The Song of Forgetting:** Help her uncover the truth of that lost day.
+  2. **Moonlit Healing:** Escort her through an Echo storm where her song is the key to survival.
+  3. **Whisperlight’s Burden:** Protect her from those who seek to exploit her resonance.
+
+## Tags: #Female #JuniorType #HalfElf #Cleric3 #LightDomain #Thalassara #CR1 #Healer #Singer #Innocent
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Elira tends to fidget with her braid while talking. If you tease her, she hides her face behind her hands but peeks through her fingers:
+
+> “D-Don’t look at me like that… I can’t focus!”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** ceremonial dagger, shield
+  * **Armor:** chain shirt
+  * **Tools:** holy symbol orb, healer’s kit
+  * **Consumables:** holy water ×2, light salve ×1
+  * **Misc:** moon anklet, hymn scroll
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 18) *or* **Healer**
+  * **Spell Additions:** *Beacon of Hope*, *Aid*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Moon Canal Shrines**
+* **Threat Gradient:** **Wavering → Echo Zone (holy resonance)**
+* **Encounter Type:** **Ritual Defense**, **Escort Healing**, **Echo Purge**
+* **Affiliation:** **Thalassara Luminary Choir**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Japanese female half-elf cleric light domain 162cm long straight black hair teal tips, pale aqua eyes, youthful soft body, white one-shoulder dress low cut, silver moon jewelry, glowing aura, serene shy expression, moonlit canal shrine background

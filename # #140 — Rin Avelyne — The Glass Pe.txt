@@ -1,0 +1,207 @@
+# #140 — **Rin Avelyne** — *The Glass Petal Alchemist of Thalassara*
+
+> “Beauty is just chemistry that learned poetry.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 140
+* **Gender (weighted random):** **Female (Type: รุ่นเพื่อน)** — lively, witty, competitive, always ready with a smirk and a helping hand (sometimes both at once).
+* **Age:** 23
+* **Race:** **Half-Elf (Thalassaran Lineage)** — ~85% human; soft-pointed ears, faint blue shimmer in eyes and veins, subtle glow when under moonlight.
+* **Class & Level:** **Artificer (Alchemist)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Traveling potion-maker, alchemical field medic
+* **Rank / Position:** **Journeyman Brewer of the Moonflask Guild**
+* **Organization:** **Thalassara Resonant Apothecaries**
+* **Symbol:** A stylized vial encircled by a ring of water and light
+* **Title:** *The Glass Petal Alchemist*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Japanese**, radiant and graceful, the sort of woman who can turn a lab coat into fashion.
+
+**Eyes:** pale teal, reflecting faint liquid ripples when she’s thinking.
+**Skin:** fair porcelain with bluish undertone, like moonlight seen through water.
+
+**Hair (Hair Randomizer v2.0):** **Medium**, **style:** **loose ponytail with side braid**, **texture:** soft wavy, **color:** **silvery blue fading to lavender tips.**
+**Height:** 168 cm
+**Weight:** 56 kg
+**Body Type:** **Fit-curvy**, balanced between intellect and agility.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium-Large
+THREE_SIZES (B-W-H, cm): 94 – 66 – 100
+VALIDATION: • W/B = 0.702 → OK   • H/W = 1.51 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Silver-rimmed glasses**, **lapis necklace**, **bracelet vial charm**, **ear-cuff in spiral design**, **anklet chain** of tiny glass beads.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *C + F* (**open-sleeve alchemist jacket + cropped inner top**)
+
+Rin wears a **short white alchemist coat** trimmed in teal runes, unbuttoned halfway to show a **cropped black inner top** that bares a hint of toned midriff.
+She pairs it with **dark high-waisted shorts** and **thigh-length stockings**, plus a **utility belt** full of vials and gadgets.
+When in combat, her gloves extend into translucent runic bracers that pulse with fluid light.
+
+**Color Palette:** teal / white / silver / lavender
+**Accents:** elegant yet practical — laboratory chic meets explorer flair.
+
+**Loadout:** vial bandolier, multi-use gauntlet (*Catalyst Array*), flask launcher.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **15** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Arcana +5, Medicine +3, Investigation +5, Sleight of Hand +4, Insight +3
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Artificer (Alchemist) 3:**
+
+* **Infuse Item (2 active)**
+* **Experimental Elixir (2/day)**
+* **Alchemical Savant** (+INT mod to one healing/restorative potion per round)
+* **Tool Proficiencies:** Alchemist’s supplies, Tinker’s tools
+* **Spells (INT DC 13, +5 atk):**
+
+  * *Cantrips:* *Mending, Acid Splash, Guidance*
+  * *1st (4 slots):* *Cure Wounds, Faerie Fire, Grease, Identify*
+  * *2nd (2 slots):* *Lesser Restoration, Web*
+
+**Attacks:**
+
+* **Light crossbow:** +4 to hit, 1d8+2 piercing
+* **Alchemical flask:** ranged 20/60 ft, 1d6 + effect (acid, fire, frost, or mist)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Debuff / Area Control**
+* **Tactics:** Opens with *Faerie Fire* or *Web*, follows with thrown elixirs.
+* **Signature Opener:** pops a “haze flask” at her feet, steps out of the mist to *Grease* the ground and laughs softly.
+* **Finisher:** *Lesser Restoration* under fire, or chain explosion of elixirs from her Catalyst Array.
+
+**Damage Flavor:** colorful bursts of vaporized potion — alchemical auroras in motion.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Analytical but playful; loves teasing in a clever way.
+* **Ideal:** Innovation — “Every failure is just data for a better success.”
+* **Bond:** Treats her guild apprentices like siblings.
+* **Flaw:** Gets too absorbed in tinkering to notice danger.
+* **Quirk:** Sniffs potions like wine; describes flavors poetically.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Glass Bazaar, Moon Canal Workshops, Aether Docks**
+* **Threat Gradient:** **Stable → Echo Zone (chemical flux)**
+* **Encounter Framing:** **Runaway experiment**, **Potion theft**, **Resonance contamination cleanup**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former apothecary’s daughter who turned rogue chemist to help the city’s underbelly.
+Now she tests new mixtures in secret moonlit labs.
+
+* **Lifestyle:** organized chaos — rooms full of vials and half-written formulas.
+* **Income:** guild pay + experimental commissions.
+* **Relationships:** flirty competition with Liora Fenwynn; old study partner of Dr. Cassia.
+
+---
+
+## 🧩 Morals & Ethics
+
+Science in service of emotion: “If I can bottle wonder, maybe I can heal despair.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of her own experiments.
+* **Weaknesses:** Underestimates volatile substances.
+* **Strengths:** Brilliant intellect, adaptive creativity, wide potion range.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — confident, teasing camaraderie, sparks rivalry or chemistry.**
+
+> “You blew up *one* lab, and suddenly I’m the reckless one?”
+> She bumps shoulders with a grin.
+> “Try keeping up, partner. I’ve got three new formulas that might not explode.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** She’s been hiding a vial containing “emotional resonance”—liquidized feeling stolen from an Echo.
+* **Hooks:**
+
+  1. **The Living Formula:** The vial starts whispering at night.
+  2. **Moonflask Heist:** Rival alchemists want her Catalyst Array.
+  3. **Glass Heart Contract:** Her sponsor demands an impossible new elixir — “hope.”
+
+## Tags: #Female #FriendType #HalfElf #Artificer3 #Alchemist #Thalassara #CR1 #Support #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rin enjoys **making others blush without realizing it** — shoulder nudges, witty banter, calling compliments “observations.”
+
+> “Don’t pout. It’s adorable, but it ruins your concentration.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** light crossbow, dagger
+  * **Armor:** studded leather
+  * **Tools:** alchemist’s supplies, tinker’s tools
+  * **Consumables:** 4 random elixirs (regen, flight, resist, blur)
+  * **Misc:** glasses, Catalyst Array, moon vial charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **Elemental Adept (acid)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Glass Bazaar / Aether Docks**
+* **Threat Gradient:** **Stable → Echo Zone (chemical flux)**
+* **Encounter Type:** **Potion rescue**, **Runaway experiment**, **Fey chemical contamination**
+* **Affiliation:** **Moonflask Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Japanese female half-elf artificer alchemist 168cm silvery-blue lavender hair medium wavy ponytail side braid, teal eyes, cropped top alchemist coat, vial belt, confident smile, potion mist glow

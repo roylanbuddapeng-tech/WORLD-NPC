@@ -1,0 +1,197 @@
+# #093 — **Ravel Drion** — *Echo-Bound Trickster of the Glassway Court*
+
+> “I never lie. I just prefer to tell the truth sideways.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 093
+* **Gender (weighted random):** **Male (Type: เคะ)** — charming, sly, beautifully androgynous; uses wit as both shield and blade.
+* **Age:** 23
+* **Race:** **Half-Elf (Valeronnes Lineage)** — human-like 85%, faint silver tint at ears, pupils reflect faint mirror-light when amused.
+* **Class & Level:** **Rogue (Arcane Trickster)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** Spy, illusionist, information broker
+* **Rank / Position:** **Echo-Bound Agent, Glassway Liaison**
+* **Organization:** **Valeronnes Court of Mirrors (Intelligence Branch)**
+* **Symbol:** A cracked mirror with an eye drawn inside
+* **Title:** *The Trickster of Glassway*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–French**, refined, soft beauty with elusive poise.
+
+**Eyes:** pale lavender, sharp and reflective, shifting tone under light.
+**Skin:** moonlight fair with a touch of warmth at the cheeks.
+
+**Hair (randomized):** **Medium length**, **style:** soft layered bob slightly longer in back, **texture:** silky straight, **color:** ash-blond with faint lilac tint under light.
+**Height:** 168 cm
+**Weight:** 55 kg
+**Body Build:** **Lean and elegant**, narrow waist, subtle definition; aesthetic rather than muscular.
+
+**Jewelry & Accessories (randomized):**
+**Half-moon earrings**, **delicate chain choker**, **mirror coin pendant**, and **lace wristband** (conceals thieves’ tools).
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *No revealing cuts applied*
+
+Ravel dresses with calculated precision — a **midnight-gray tailcoat** with faint mirror-thread embroidery, **collar flared** and pinned with a violet gemstone.
+Underneath, a **silk vest** and **tight black trousers** tucked into calf-high boots.
+Every motion catches the light like a glass ripple, meant to misdirect eyes as much as to charm them.
+
+**Color Palette:** gray / silver / violet / black
+**Accents:** courtly, fashionable, slightly theatrical
+
+**Loadout:** dagger (mirrorsteel), spell cards, disguise kit, hidden wrist blade.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **20 HP**
+* **AC:** **15** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 9 (–1)** **DEX 17 (+3)** **CON 12 (+1)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, INT +3
+* **Skills:** Deception +5, Sleight of Hand +5, Stealth +5, Arcana +3, Insight +3, Performance +5
+* **Languages:** Common, Elvish, Valeronian, Thieves’ Cant
+
+**Rogue (Arcane Trickster) 3:**
+
+* **Sneak Attack (2d6)**
+* **Mage Hand Legerdemain**
+* **Spellcasting (INT DC 11, +3 atk)**
+
+  * **Cantrips:** *Mage Hand, Minor Illusion, Message*
+  * **1st (3 slots):** *Disguise Self, Silent Image, Charm Person*
+
+**Attacks:**
+
+* **Mirrorsteel Dagger:** +5 to hit, 1d4+3 piercing + Sneak Attack (2d6)
+* **Wrist Blade:** +5 to hit, 1d6+3 piercing (hidden draw)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Infiltrator / Control Trickster**
+* **Tactics:** Uses *Silent Image* or *Mage Hand* for distraction, hits with *Sneak Attack* from behind illusions.
+* **Signature Opener:** *Disguise Self* to blend in, whispers misdirection through *Message*.
+* **Finisher:** Reflects a foe’s blow off a conjured mirror-shard illusion, then stabs through the afterimage.
+
+**Damage Flavor:** faint mirror shards flicker around each strike, vanishing like shattered reflections.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Teasing, quick-thinking, fond of double meanings.
+* **Ideal:** Truth through deception — “Honesty is dull. Let it wear a prettier mask.”
+* **Bond:** Devoted to one friend in the court who believes in his better side.
+* **Flaw:** Cannot resist testing people’s sincerity.
+* **Quirk:** Flips a coin constantly — both sides reflect his face differently.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glassway District, Mirror Courts, Shadow Alleys**
+* **Threat Gradient:** **Wavering → Echo Zone (Illusion feedback loops)**
+* **Encounter Framing:** **Interrogation by deception**, **Spy duel**, **Court infiltration**
+
+---
+
+## 📜 Background & Lifestyle
+
+Ravel grew up as a servant in the mirror courts, mimicking nobles until he fooled the guards into believing he was one. He stayed, turned espionage into art, and now trades secrets like songs.
+
+* **Lifestyle:** nocturnal, drinks only chilled wine, collects masks.
+* **Income:** espionage contracts, rumor brokerage.
+* **Relationships:** Rivals with Kaien Drazel, secret admirer of Jin Hoshikawa.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes everyone lies; his goal is to make lies honest through beauty.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Mirrors cracking without reflection — symbolic of identity loss.
+* **Weaknesses:** Overconfidence, theatrical impulses.
+* **Strengths:** Illusion mastery, charm, improvisation.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — flirtatious, reactive, enjoys provoking and being provoked.**
+
+> “You’re staring again. Careful — I might think you’ve fallen for my reflection.”
+> He **flusters others through poise**, leaning just close enough, smiling faintly when they stumble.
+> If he’s the one caught off guard, he flicks his coin nervously:
+> “...That wasn’t fair. I do the teasing around here.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His mirrorsteel dagger is bonded to an Echo spirit — it shows him futures when it tastes blood.
+* **Hooks:**
+
+  1. **Reflected Lies:** The dagger starts showing *someone else’s* future — who?
+  2. **The Court’s Masquerade:** Protect Ravel during a deadly ball where everyone is in disguise.
+  3. **The Broken Reflection:** Find the mirror in which Ravel’s Echo spirit truly dwells.
+
+## Tags: #Male #KeType #HalfElf #Rogue3 #ArcaneTrickster #Valeronnes #CR1 #Spy #Illusionist #Flirt
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ravel’s default mode is teasing — slow words, dangerous smiles.
+When someone compliments him sincerely, he looks away, voice soft:
+
+> “You shouldn’t say things like that… unless you mean them.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** mirrorsteel dagger, hidden wrist blade
+  * **Armor:** studded leather
+  * **Tools:** disguise kit, thieves’ tools
+  * **Consumables:** illusion dust ×2, perfume vial ×1
+  * **Misc:** mirror coin, choker focus
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 19) *or* **Skulker**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Glassway Courts / Shadow Alleys**
+* **Threat Gradient:** **Wavering → Echo Zone (mirror resonance)**
+* **Encounter Type:** **Illusion duel**, **Spy chase**, **Court intrigue**
+* **Affiliation:** **Valeronnes Intelligence**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean French male half-elf rogue arcane trickster 168cm medium ash-blond lilac tint hair, lavender eyes, lean elegant body, gray tailcoat silver embroidery violet gem collar, mirrorlight background, sly smirk, holding reflective dagger

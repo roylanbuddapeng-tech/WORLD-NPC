@@ -1,0 +1,193 @@
+# #091 — **Kaien Drazel** — *Forgehand of the Ember Choir*
+
+> “Every scar tells you what not to repeat. Every burn, what’s worth the pain.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 091
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — rugged, steady, voice like gravel and smoke; carries warmth beneath the ash.
+* **Age:** 41
+* **Race:** **Half-Beast (Draconic Lineage)** — human form 85%, but with faint bronze scales on forearms and temples, and eyes that glow like smoldering coal.
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Blacksmith, instructor, part-time mercenary
+* **Rank / Position:** **Senior Forgehand, Ember Choir Guild**
+* **Organization:** **Skarnov Forge Enclave**
+* **Symbol:** Hammer within a dragon’s eye
+* **Title:** *The Forgehand*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Greek–Middle Eastern** — broad features, golden-brown skin, smoldering aura.
+
+**Eyes:** molten amber with faint vertical pupils.
+**Skin:** tanned bronze, warm-toned with light metallic shimmer near joints.
+
+**Hair (randomized):** **Short masculine**, **style:** undercut with swept-back top, **texture:** coarse and slightly wavy, **color:** black with streaks of dark copper.
+**Height:** 182 cm
+**Weight:** 90 kg
+**Body Build:** **Muscular and solid**, thick forearms, powerful chest, calloused hands.
+
+**Jewelry & Accessories (randomized):**
+**Iron torque** around neck, **bronze ring** engraved with sigils of heat resistance, **forgemaster’s gauntlet**, and **red charm-band** on wrist.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *No revealing cuts applied*
+
+Kaien wears a **blacksmith’s reinforced leather apron** layered over a **linen tunic**, sleeves rolled to the elbow.
+A **chainmail mantle** hangs over one shoulder for combat readiness.
+**Heavy boots**, **flame-etched greaves**, and a **dark red cloak** complete his rugged form.
+
+**Color Palette:** umber / bronze / charcoal / ember-red
+**Accents:** practical, heat-resistant, smith-warrior hybrid aesthetic
+
+**Loadout:** warhammer (*Emberfist*), smith’s tongs (can grapple objects), throwing hammers ×2.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +3)×3 → **39 HP**
+* **AC:** **17** (chainmail 16 + Defense style)
+* **Speed:** 30 ft
+* **STR 17 (+3)** **DEX 12 (+1)** **CON 16 (+3)** **INT 10 (+0)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Smith’s Tools +4, Insight +3, Intimidation +3, Perception +3
+* **Languages:** Common, Draconic
+
+**Fighter (Battle Master) 3:**
+
+* **Fighting Style:** Defense
+* **Second Wind, Action Surge, Combat Superiority (4d8)**
+* **Maneuvers:** *Disarming Attack, Menacing Attack, Precision Attack*
+
+**Attacks:**
+
+* **Emberfist Warhammer:** +5 to hit, 1d8+3 bludgeoning (1d10+3 two-handed); adds 1d6 fire once per short rest.
+* **Throwing Hammer:** +5 to hit, 1d6+3 bludgeoning, range 20/60 ft.
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Bruiser / Control Tank**
+* **Tactics:** Opens with *Menacing Attack* to control morale, uses *Action Surge* to break enemy lines, finishes with a searing *Precision Attack*.
+* **Signature Opener:** Slams hammer into ground — sparks form a circle.
+* **Finisher:** Lifts weapon alight and hurls it into the foe, hammer glowing red-hot before exploding in sparks.
+
+**Damage Flavor:** fiery strikes leave cinders in the air; his voice carries a low hum like a forge’s heart.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Gruff but fair; laughs with his chest; protective of apprentices.
+* **Ideal:** Creation — “If I can’t protect life, I’ll make the tools that can.”
+* **Bond:** The Ember Choir guild and his students.
+* **Flaw:** Overworks himself; refuses to rest when others depend on him.
+* **Quirk:** Hums when thinking, sounds like distant smelting furnaces.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ember Halls, Smelting Yards, Furnace Temples**
+* **Threat Gradient:** **Stable → Wavering (Forge Echo Distortions)**
+* **Encounter Framing:** **Defense of the Forge**, **Guild Duel**, **Resonant Outburst Containment**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former soldier turned smith. Kaien fought in the Ember Revolt, lost comrades, and rebuilt the guild from the ashes. His hammer forges both weapons and futures.
+
+* **Lifestyle:** structured; up before dawn, ends day with ale and music.
+* **Income:** blacksmith contracts, enchanted weapon commissions.
+* **Relationships:** Mentor to younger smiths, quiet respect for Selene Arctis, occasional philosophical duels with Lioren Vale.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that power means nothing unless it builds something after destruction.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Fire he can’t control — the kind that consumes rather than tempers.
+* **Weaknesses:** Slow reflexes; emotional attachment to apprentices.
+* **Strengths:** Incredible endurance, moral clarity, practical wisdom.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — firm warmth and subtle tease; paternal with hints of charm.**
+
+> “You’re gripping that blade wrong— here, my hand over yours.”
+> He enjoys watching younger adventurers squirm at his calm directness, chuckles softly when they stammer.
+> “Relax. I teach with fire, not fear.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His warhammer’s core holds a sliver of living dragon flame, bound illegally by the old Skarnov priests.
+* **Hooks:**
+
+  1. **The Flame’s Debt:** Retrieve the ember shard before it reignites the forge’s curse.
+  2. **Apprentice Gone Missing:** Track a runaway student who stole a prototype blade.
+  3. **The Song of the Forge:** Help Kaien perform a ritual to silence a haunting flame echo.
+
+## Tags: #Male #MiddleAged #HalfBeast #Draconic #Fighter3 #BattleMaster #Skarnov #CR1 #Blacksmith #Mentor
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaien **makes others feel safe** — steady hands, calm tone, and rare soft smiles.
+If teased, he responds with a smirk:
+
+> “Careful. You flirt with sparks, you’ll get burned— eventually.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** warhammer (*Emberfist*), throwing hammers ×2
+  * **Armor:** chainmail, leather apron overlay
+  * **Tools:** smith’s tools, tinker kit
+  * **Consumables:** forge oil ×1, steel polish ×1
+  * **Misc:** dragon sigil ring, ember shard focus
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 19) *or* **Tavern Brawler**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov — Ember Forges, Smelting Canyons**
+* **Threat Gradient:** **Stable → Wavering (Molten Echo fields)**
+* **Encounter Type:** **Defensive Stand**, **Forge Duel**, **Echo Containment**
+* **Affiliation:** **Ember Choir Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Greek Middle Eastern male draconic half-beast fighter 182cm short undercut black hair copper streaks, amber eyes, muscular body, chainmail and blacksmith apron, glowing forge background, hammer weapon, bronze skin, confident smirk, ember sparks

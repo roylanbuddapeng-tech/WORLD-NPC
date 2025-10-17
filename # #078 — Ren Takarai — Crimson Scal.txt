@@ -1,0 +1,195 @@
+# #078 — **Ren Takarai** — *Crimson Scale Duelist of the Tide Frontier*
+
+> “Balance isn’t calm—it’s the heartbeat before the strike.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 078
+* **Gender (weighted random):** **Male (Type: เมะ)** — composed, commanding, protective; an aura of confidence sharpened by discipline
+* **Age:** 26
+* **Race:** **Half-Beast (Human–Sea Serpent Hybrid)** — humanoid 85%, faint iridescent crimson scales run from jawline to collar, eyes slit-pupiled like a serpent’s but warm in tone
+* **Class & Level:** **Fighter (Eldritch Knight)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Tideguard officer, monster hunter, sword instructor
+* **Rank / Position:** **Waveblade Captain of the Tide Frontier**
+* **Organization:** **Thalassara Tideguard Division**
+* **Symbol:** Twin serpents encircling a cresting wave
+* **Title:** *The Crimson Fang*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Pacific Islander**, sun-kissed skin and sharp oceanic grace.
+
+**Eyes:** amber-red, slitted but expressive.
+**Skin:** light bronze with faint blue shimmer over shoulders and neck.
+
+**Hair (randomized):** **Short**, **style:** messy windswept with undercut fade, **texture:** coarse with a slight wave, **color:** jet black with deep red streaks at the fringe.
+**Height:** 182 cm
+**Weight:** 77 kg
+**Body Build:** **Athletic Muscular** — broad chest, defined abs, compact power like a professional diver.
+
+**Jewelry & Accessories (randomized):**
+Silver **ear cuff shaped like a serpent fang**, **woven cord necklace** with a tide rune, and a **blue steel wrist-guard** etched with his division’s sigil.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *C* (**Midriff Reveal**)
+
+Ren’s combat attire favors agility over coverage — a **black sleeveless half-jacket** cropped just enough to reveal his toned **midriff**, the front stitched with tide-crest motifs in red.
+He wears **tight dark trousers** reinforced with wave-patterned leather, **arm wraps**, and **sand-colored combat sandals** for water balance.
+His **crimson serpent-scale mantle** drapes across one shoulder, shifting colors when light hits it.
+
+**Color Palette:** black / crimson / silver-blue
+**Accents:** disciplined, oceanic warrior aesthetic
+
+**Loadout:** Longsword (*Tide Fang*), throwing spears (3), arcane focus ring.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **17** (chain shirt + DEX + Defensive Fighting Style)
+* **Speed:** 30 ft; **Swim Speed:** 30 ft
+* **STR 15 (+2)** **DEX 14 (+2)** **CON 14 (+2)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Athletics +4, Perception +3, Arcana +3, Insight +3, Survival +3
+* **Languages:** Common, Aquan, Elvish
+
+**Fighter (Eldritch Knight) 3:**
+
+* **Cantrips:** *Booming Blade, Blade Ward*
+* **Spells Known (INT DC 13, +5 attack):** *Shield, Magic Missile, Absorb Elements, Thunderwave*
+* **Fighting Style:** Defense (+1 AC)
+* **Second Wind**, **Action Surge**, **Weapon Bond (Tide Fang)**
+
+**Attacks:**
+
+* **Longsword (Tide Fang):** +5 to hit, 1d8+3 slashing; adds 1d8 thunder once/turn (Booming Blade)
+* **Throwing Spear:** +4 to hit, 1d6+2 piercing, range 30/90 ft
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Striker / Hybrid Mage-Fighter**
+* **Tactics:** Opens with *Booming Blade* or *Thunderwave* to scatter enemies, then closes for clean precision strikes. *Action Surge* for high-pressure finishers.
+* **Signature Opener:** A deep exhale — scales flash crimson — blade hums with thunderous tension.
+* **Finisher:** Launches forward like a tidal surge, blade arcing through air that vibrates with echoing boom.
+
+**Damage Flavor:** each strike ripples air like water under heavy pressure.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Stoic, confident, measured; the calm in chaos.
+* **Ideal:** Honor — “You don’t control the tide. You learn its rhythm.”
+* **Bond:** Protects his division fiercely; treats subordinates like siblings.
+* **Flaw:** Overly serious; struggles to relax or joke.
+* **Quirk:** Rolls his shoulders before every fight, like shaking off invisible water.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Tide Frontier Watchtowers, Storm Shoals**
+* **Threat Gradient:** **Wavering → Echo Zone (sea resonance anomalies)**
+* **Encounter Framing:** **Naval Patrol**, **Monster Hunt**, **Defensive Duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+A decorated Tideguard soldier from the Storm Shoals. Ren earned his rank during an Echo surge that nearly drowned a fleet; he fought waist-deep in water while holding a lightning ward intact.
+
+* **Lifestyle:** Spartan; keeps living quarters immaculate.
+* **Income:** military salary + hazard pay.
+* **Relationships:** Close friend and sparring partner to Natsumi Hayane; once trained under Diego Valcázar in tactical repairs.
+
+---
+
+## 🧩 Morals & Ethics
+
+He values structure but believes mercy must flow like water — flexible, not weak.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of his serpent nature in battle rage.
+* **Weaknesses:** Blunt with words; often misreads emotions.
+* **Strengths:** Leadership, endurance, sword mastery.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — firm, confident, slightly teasing but dominant in tone.**
+
+> “Don’t flinch. Look at me. You’ll never learn timing if you close your eyes.”
+> Prefers **flustering others** by maintaining steady eye contact during sparring or subtle compliments about form.
+> If someone teases back, he exhales softly through a grin:
+> “...You’re brave to test the current.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His serpent lineage is royal — he’s an illegitimate descendant of the Tide Serpent deity.
+* **Hooks:**
+
+  1. **Fang of the Deep:** The divine tide calls him to slay a corrupted sea guardian.
+  2. **Echo in the Depths:** Protect the harbor from a sonic Echo surge.
+  3. **Blood of Scales:** Seek a relic that can stabilize his serpent instincts.
+
+## Tags: #Male #MehType #HalfBeast #SeaSerpent #Fighter3 #EldritchKnight #Thalassara #CR1 #Leader #HybridMage
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Protective gestures — guiding hand to shoulder, subtle smiles mid-combat.
+
+> “Good stance. Keep that up and you’ll make me work for real.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longsword (bonded), 3 spears
+  * **Armor:** chain shirt, serpent mantle
+  * **Tools:** navigation chart, repair kit
+  * **Consumables:** waterbreathing potion ×1, stamina draught ×1
+  * **Misc:** tide rune charm, fang earring
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 17) *or* **War Caster**
+  * **Spell Additions:** *Mirror Image*, *Misty Step*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Tide Frontier Watchtowers, Storm Shoals**
+* **Threat Gradient:** **Wavering → Echo Zone (marine resonance)**
+* **Encounter Type:** **Naval Hunt**, **Ritual Defense**, **Border Duel**
+* **Affiliation:** **Thalassara Tideguard Division**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Pacific Islander male half-beast human sea serpent fighter eldritch knight, 182cm, short messy black hair red streaks, amber slitted eyes, athletic muscular build, cropped jacket midriff reveal, serpent-scale mantle, longsword crackling thunder, ocean storm background, confident serious expression

@@ -1,0 +1,202 @@
+# #118 — **Miyu Hanari** — *The Sky-Break Monk of Thalassara*
+
+> “Stillness is not peace. It’s the breath before you strike.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 118
+* **Gender (weighted random):** **Female (Type: ทอมบอย)** — type 2: physically athletic and bold, speaks casually, confident grin and tough charm.
+* **Age:** 23
+* **Race:** **Human (Thalassaran Lineage)** — subtle sea-green glint in eyes, faint pattern of iridescent specks on shoulders.
+* **Class & Level:** **Monk (Way of the Kensei)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Traveling martial artist and canal guardian-for-hire
+* **Rank / Position:** **Sky-Path Disciple**
+* **Organization:** **Azure Phalanx (auxiliary monk detachment)**
+* **Symbol:** A single broken wave under a rising sun
+* **Title:** *The Sky-Break Monk*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Thai**, sun-kissed and lean, the confident energy of someone who grew up outdoors, laughing and fighting equally.
+
+**Eyes:** turquoise with bright flecks of gold.
+**Skin:** light tan with healthy glow; faint scar on left cheek from sparring.
+
+**Hair (randomized):** **Short**, **style:** cropped layered bob with side sweep, slightly spiky ends, **texture:** smooth but windblown, **color:** dark brown with teal streaks near tips.
+**Height:** 168 cm
+**Weight:** 59 kg
+**Body Type:** **Athletic toned**, visible abs, strong arms and thighs; her posture carries both grace and power.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 67 – 92
+VALIDATION: • W/B = 0.761 → OK   • H/W = 1.37 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Leather wrist wraps with bronze plates**, **small hoop earrings**, **sky-blue prayer bead bracelet**, **thin anklet cord tied thrice for luck**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *C* (**open midsection / exposed arms**)
+
+Miyu wears a **sky-blue sleeveless combat vest** cropped just below the bust, paired with **black fitted wraps** around her abdomen and **loose high-slit trousers** for movement.
+The outfit blends monk practicality with Thalassaran style — half ceremonial, half street fighter.
+Her **bare arms and stomach** show light scars, badges of a fighter’s life.
+
+**Color Palette:** teal / black / bronze / sky blue
+**Accents:** kinetic, youthful, daring
+
+**Loadout:** quarterstaff (*Wavebreaker*), shuriken set, rope dart.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (DEX + WIS)
+* **Speed:** 40 ft
+* **STR 13 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Acrobatics +6, Athletics +3, Insight +4, Perception +4, Survival +4
+* **Languages:** Common, Elvish
+
+**Monk (Kensei) 3:**
+
+* **Path of the Kensei (Weapons: quarterstaff, shortbow)**
+* **Deflect Missiles, Unarmored Movement +10 ft, Ki (3)**
+* **Kensei’s Shot, Agile Parry, Way of the Brush (calligraphy)**
+
+**Attacks:**
+
+* **Quarterstaff (Kensei):** +6 to hit, 1d8+4 bludgeoning (versatile)
+* **Unarmed Strike:** +6 to hit, 1d6+4 bludgeoning
+* **Shuriken:** +6 to hit, 1d4+4 piercing (20/60 ft)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Crowd Controller**
+* **Tactics:** Strikes and dodges through enemy ranks; uses rope dart for reach disruption.
+* **Signature Opener:** leap forward spinning kick → *Kensei’s Shot* arrow volley.
+* **Finisher:** *Flurry of Blows* combo that ends in low sweep and rising elbow.
+
+**Damage Flavor:** air ripples like sonic waves around her hits.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Energetic, loyal, teasing confidence.
+* **Ideal:** Discipline — “You can’t break the sky unless you learn where it bends.”
+* **Bond:** Treats her sparring partners as siblings; protective toward Kai Theros.
+* **Flaw:** Competitive streak; hates losing even in small games.
+* **Quirk:** Snaps her knuckles before every major fight.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Canal rooftops, Tide Monastery, Wind markets**
+* **Threat Gradient:** **Stable → Wavering (wind resonance)**
+* **Encounter Framing:** **Street tournament**, **Ambush defense**, **Wind duel over canals**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised among martial pilgrims who believed wind itself carried divine intent.
+She traveled across Thalassara, learning motion from wind, rhythm from waves.
+
+* **Lifestyle:** minimalist; loves city rooftops.
+* **Income:** teaching self-defense, prize fights, courier work.
+* **Relationships:** mentor to younger monks; close friend and sparring rival of Kai Theros.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes strength is meaningless without restraint — the art lies in knowing when *not* to strike.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing to protect her comrades during missions.
+* **Weaknesses:** Brashness; rushes into fights.
+* **Strengths:** Reflexes, adaptability, endurance.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย tone — playful confidence, light teasing, casually flustering others.**
+
+> “What’s the matter? You can’t keep up with me?”
+> Grins wide, punches your shoulder softly.
+> “If you blush every time I wink, this training’s gonna take forever.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her rope dart was made from the hair of a fallen sky spirit — sentient when she meditates.
+* **Hooks:**
+
+  1. **Windbound Duel:** Miyu challenges the player to a spar, only to attract an Echo storm.
+  2. **Whispers in the Air:** Her rope dart begins moving on its own at night.
+  3. **The Sky’s Breath:** A forgotten monastery calls her name in the wind.
+
+## Tags: #Female #TomboyType #Human #Monk3 #Kensei #Thalassara #CR1 #Adventurer #MartialArtist
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Miyu enjoys physical teasing — light shoves, mock sparring, and cocky smirks.
+
+> “Careful, hero. Keep looking at me like that, and you’ll miss my next move.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff, rope dart, shuriken ×10
+  * **Armor:** none (monk)
+  * **Tools:** calligrapher’s kit, climber’s rope
+  * **Consumables:** herbal salve ×2, wind crystal ×1
+  * **Misc:** blue bead bracelet, torn sky banner scrap
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Tide Monastery / Canal rooftops**
+* **Threat Gradient:** **Stable → Wavering (wind resonance)**
+* **Encounter Type:** **Rooftop chase**, **Tournament duel**, **Rescue amid gale storm**
+* **Affiliation:** **Azure Phalanx**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Thai female human monk kensei 168cm short dark brown teal streak hair turquoise eyes athletic toned body, cropped sleeveless vest, exposed abs, high-slit pants, martial stance, teal wind aura, confident tomboy grin

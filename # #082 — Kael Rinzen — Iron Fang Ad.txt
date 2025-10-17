@@ -1,0 +1,194 @@
+# #082 — **Kael Rinzen** — *Iron Fang Adept of Skarnov Forge*
+
+> “The flame teaches patience. You can’t shape steel by shouting at it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 082
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — rugged, grounded, authoritative; every motion deliberate
+* **Age:** 39
+* **Race:** **Dwarf–Human Hybrid (Skarnov Lineage)** — roughly 85% human with thicker musculature, faint bronze-tinted skin, and short streaks of metallic pigment in his hair
+* **Class & Level:** **Monk (Way of the Open Hand)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Blacksmith–Monk, combat instructor, temple guardian
+* **Rank / Position:** **Adept of the Ember Hall**
+* **Organization:** **Skarnov Order of the Forge Flame**
+* **Symbol:** An anvil within a ring of seven fire petals
+* **Title:** *The Tempered Hand*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Central Asian–Nordic**, built like a craftsman turned ascetic.
+
+**Eyes:** molten copper, warm but unwavering.
+**Skin:** light bronze, faint metallic shimmer in sunlight.
+
+**Hair (randomized):** **Short**, **style:** swept-back undercut with a few loose strands, **texture:** coarse, slightly wavy, **color:** dark brown with silver and bronze streaks.
+**Height:** 180 cm
+**Weight:** 84 kg
+**Body Build:** **Broad, muscular, compact** — calloused hands, deep scars across forearms, balanced posture.
+
+**Jewelry & Accessories (randomized):**
+**Iron prayer beads** around wrist, **forged steel ring**, and a **simple bronze torque** etched with ancient flame runes.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *E* (**Open Chest Garment**)
+
+Kael’s attire is half-monk, half-smith — a **charcoal open-front gi** leaving his **chest and upper torso bare**, marked with faint burn scars and inked mandalas of fire.
+A **forged leather belt** keeps his gi secure; trousers are thick, heat-treated canvas rolled at the ankles.
+His forearms are wrapped in **ash-grey cloth**, faintly enchanted against heat.
+
+**Color Palette:** charcoal / bronze / umber / muted red
+**Accents:** utilitarian, earthy, disciplined
+
+**Loadout:** gauntlets of tempered steel (unarmed focus), smith’s hammer (secondary weapon), fire sigil talisman.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +3)×3 → **33 HP**
+* **AC:** **16** (Unarmored Defense + DEX + WIS)
+* **Speed:** 40 ft
+* **STR 15 (+2)** **DEX 16 (+3)** **CON 16 (+3)** **INT 10 (+0)** **WIS 14 (+2)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, DEX +5
+* **Skills:** Athletics +4, Insight +4, Perception +4, Smith’s Tools +4, Religion +2
+* **Languages:** Common, Dwarvish, Ignan
+
+**Monk (Way of the Open Hand) 3:**
+
+* **Martial Arts (1d6)**
+* **Ki (3 points):** *Flurry of Blows, Patient Defense, Step of the Wind*
+* **Deflect Missiles**, **Slow Fall**
+* **Open Hand Technique:** can knock prone, push, or disable reactions on hit
+
+**Attacks:**
+
+* **Unarmed Strike:** +5 to hit, 1d6+3 bludgeoning
+* **Flurry of Blows:** two unarmed strikes as bonus (spend 1 Ki)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Bruiser / Disabler / Counter-Fighter**
+* **Tactics:** Reads enemy stance, waits for overcommit, counters with a precision strike and disabling palm.
+* **Signature Opener:** Calm breath — the sound of cooling metal. Then silence, then strike.
+* **Finisher:** two-step combo—palm strike to sternum followed by a heel kick that sends the target reeling in a swirl of ember sparks.
+
+**Damage Flavor:** blows trail faint red glows like heated metal cooling in air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Stoic, introspective, occasionally dry-humored.
+* **Ideal:** Temperance — “Even the hottest flame must be shaped by restraint.”
+* **Bond:** His apprentices, especially one reckless youth named Renn.
+* **Flaw:** Refuses help; bears others’ burdens in silence.
+* **Quirk:** Smells faintly of forge smoke and sandalwood.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ember Hall, Iron Market, Forge Temples**
+* **Threat Gradient:** **Stable → Wavering (ritual heat disturbances)**
+* **Encounter Framing:** **Monk Duel**, **Temple Defense**, **Training Challenge**
+
+---
+
+## 📜 Background & Lifestyle
+
+Kael served in the royal forges before taking vows under the Order of the Forge Flame. He now teaches both smithing and discipline, blending philosophy with metalwork.
+
+* **Lifestyle:** minimalist, lives above the forge; meditates before dawn.
+* **Income:** crafting commissions + temple support.
+* **Relationships:** mentor to young monks and smiths; old friend to Diego Valcázar.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes morality is craft — shaped by patience, ruined by haste.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing to protect his apprentices.
+* **Weaknesses:** Slow to adapt to new ideas.
+* **Strengths:** Iron will, endurance, physical mastery.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — calm, protective, subtly warm.**
+
+> “You strike like a spark. Beautiful, but brief. Learn to burn longer.”
+> He rarely initiates teasing, but his quiet confidence often flusters others; when amused, he allows a rare, crooked smile.
+> “Careful. I might start thinking you actually listen.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Once crafted a cursed weapon for the Severance; dismantled it secretly but fears it still exists.
+* **Hooks:**
+
+  1. **Ash of the Anvil:** Recover remnants of the cursed blade before Echo corruption spreads.
+  2. **Ember Test:** Train under Kael to master balance between violence and restraint.
+  3. **Forge of Truth:** Help him reignite a dormant sacred forge tied to the city’s heart.
+
+## Tags: #Male #MiddleAge #HalfDwarf #Monk3 #OpenHand #Skarnov #CR1 #Smith #Mentor
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Prefers quiet talks by the forge. If someone teases him, he sighs and rumbles:
+
+> “Flattery won’t make the steel temper faster… though it does make the work less dull.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** gauntlets, smith’s hammer
+  * **Armor:** none (Unarmored Defense)
+  * **Tools:** smith’s kit, whetstone
+  * **Consumables:** herbal balm ×1, firewater ×1
+  * **Misc:** ember prayer beads, forged ring
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 18) *or* **Tough**
+  * **Feature Path:** *Deflect Missiles (upgrade)*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov — Ember Hall, Iron Markets**
+* **Threat Gradient:** **Wavering → Echo Zone (forge resonance)**
+* **Encounter Type:** **Training Trial**, **Ritual Protection**, **Anvil Duel**
+* **Affiliation:** **Order of the Forge Flame**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Central Asian Nordic male half-dwarf monk open hand, 180cm short swept-back brown hair silver bronze streaks, copper eyes, muscular build, open chest charcoal gi, fire mandala tattoos, forge background, calm expression, glowing embers

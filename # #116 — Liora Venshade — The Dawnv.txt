@@ -1,0 +1,204 @@
+# #116 — **Liora Venshade** — *The Dawnveil Oracle of Valeronnes*
+
+> “The future isn’t written in stars — it’s whispered between heartbeats.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 116
+* **Gender (weighted random):** **Female (Type: รุ่นเพื่อน)** — warm, approachable, slightly mischievous; her wit hides real empathy.
+* **Age:** 24
+* **Race:** **Human**
+* **Class & Level:** **Cleric (Knowledge Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Seer, librarian, and investigator of divine anomalies
+* **Rank / Position:** **Archivist of the Dawnveil Order**
+* **Organization:** **Temple of Resonant Light**
+* **Symbol:** A quill crossed with a sunburst
+* **Title:** *The Dawnveil Oracle*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–English**, friendly charm with bookish beauty; the type who can look gentle one moment and unshakably confident the next.
+
+**Eyes:** hazel with gold flecks, thoughtful and bright.
+**Skin:** smooth light beige with faint blush across cheeks.
+
+**Hair (randomized):** **Medium**, **style:** softly wavy bob with ribbon-tied braid at the back, **texture:** silky, **color:** warm chestnut-brown.
+**Height:** 167 cm
+**Weight:** 56 kg
+**Body Type:** **Balanced slim with soft curves**, slightly toned arms from training with relics.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium-Large
+THREE_SIZES (B-W-H, cm): 92 – 67 – 95
+VALIDATION: • W/B = 0.728 → OK   • H/W = 1.41 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Sun-gold pendant**, **simple stud earrings**, **leather satchel of scrolls**, **thin silver circlet** engraved with micro-runes that glow when she prays.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *F* (**asymmetrical reveal**)
+
+Liora’s clerical attire balances practicality and fashion — a **white-and-gold sleeveless tunic** that bares one shoulder, over a fitted **navy undershirt** and light **gold-trimmed skirt**.
+A **half-cloak** drapes from her left side only, symbolizing duality — light and knowledge.
+Her boots are modest, but her posture makes them look regal.
+
+**Color Palette:** ivory / gold / navy / warm brown
+**Accents:** radiant, intellectual elegance
+
+**Loadout:** mace, book of prayers, symbol of Dawnveil.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **17** (chain shirt + shield)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 12 (+1)** **CON 12 (+1)** **INT 14 (+2)** **WIS 17 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Insight +5, History +4, Religion +4, Investigation +4, Persuasion +4
+* **Languages:** Common, Celestial, Elvish
+
+**Cleric (Knowledge Domain) 3:**
+
+* **Channel Divinity:** *Read Thoughts*, *Knowledge of the Ages*
+* **Spells (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Guidance, Light, Sacred Flame, Thaumaturgy*
+  * *1st (4 slots):* *Bless, Command, Identify, Cure Wounds*
+  * *2nd (2 slots):* *Augury, Detect Thoughts*
+
+**Attacks:**
+
+* **Mace:** +3 to hit, 1d6+1 bludgeoning
+* **Sacred Flame:** DC 13, 1d8 radiant
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Investigator / Divine Analyst**
+* **Tactics:** Analyzes enemies mid-combat, using *Command* or *Bless* as control tools.
+* **Signature Opener:** touches her pendant — golden runes bloom into sigils that hover midair.
+* **Finisher:** *Sacred Flame* halo descends silently, eyes glowing gold-white.
+
+**Damage Flavor:** radiant sparks fall like motes of parchment ash.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Inquisitive, witty, softly teasing.
+* **Ideal:** Truth — “Knowing is mercy; ignorance is cruelty.”
+* **Bond:** Keeps a notebook filled with names of the healed and the lost.
+* **Flaw:** Overanalyzes emotion — sometimes misses the simple answer.
+* **Quirk:** Tilts her head when curious, smiles before answering difficult questions.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Temple District, Mirror Archives, Pilgrim’s Avenue**
+* **Threat Gradient:** **Stable → Wavering (light resonance)**
+* **Encounter Framing:** **Interrogation with divine insight**, **Library ambush**, **Miracle investigation**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former scholar of the Echo Archives, Liora joined the clergy after witnessing the Severance consume her university.
+Her mind is sharp, but her faith remains personal, not dogmatic.
+
+* **Lifestyle:** neat; sleeps surrounded by scrolls.
+* **Income:** clerical salary + consulting work decoding ancient relics.
+* **Relationships:** old study partner of Elias Corven; occasional debate sparring with Aria Lenvale.
+
+---
+
+## 🧩 Morals & Ethics
+
+Seeks balance between faith and reason — she doesn’t worship blindly but listens.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Forgetting the faces of those she couldn’t save.
+* **Weaknesses:** Curious to a fault; can’t leave a mystery unsolved.
+* **Strengths:** Rational empathy, divine intellect, poise under stress.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — approachable teasing warmth, camaraderie with occasional spark of affection.**
+
+> “Don’t act tough. I saw that wince — here, let me patch it before you faint in style.”
+> She teases to comfort, smiles easily.
+> “Careful. You might start depending on me. Most people do.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** She once used *Read Thoughts* on a god-fragment — and it whispered her true name.
+* **Hooks:**
+
+  1. **Echo in the Archives:** Help her investigate a sealed tome that hums when read aloud.
+  2. **The Godless Blessing:** Her powers begin manifesting without prayer.
+  3. **The Name Beneath the Sun:** Something — or someone — knows what she heard.
+
+## Tags: #Female #PeerType #Human #Cleric3 #KnowledgeDomain #Valeronnes #CR1 #Scholar #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Liora’s affection feels natural; she talks with eye contact and laughs mid-sentence.
+
+> “You’re blushing. Don’t worry, I’ll take it as gratitude, not confession.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** mace
+  * **Armor:** chain shirt, shield
+  * **Tools:** scholar’s kit, scroll case
+  * **Consumables:** divine ink ×2, healing salve ×1
+  * **Misc:** pendant of Dawnveil, rune circlet
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 19) *or* **Observant**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Temple District / Mirror Archives**
+* **Threat Gradient:** **Stable → Wavering (light resonance)**
+* **Encounter Type:** **Divine research**, **Mystery investigation**, **Faith trial**
+* **Affiliation:** **Temple of Resonant Light**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai English female human cleric knowledge domain 167cm medium chestnut hair hazel eyes, asymmetrical sleeveless white gold tunic, scholarly elegance, divine sigils glowing, temple library background, warm smile, intelligent gentle aura

@@ -1,0 +1,197 @@
+# #139 — **Eiden Solmar** — *The Ember-Born Healer of Skarnov*
+
+> “Every scar is a story that refused to end. Let’s make sure yours keeps going.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 139
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — mature, calm, confident; has that quiet steadiness that makes others feel safe, until they realize he’s also the type who dives into danger first.
+* **Age:** 38
+* **Race:** **Human (Skarnov Lineage)** — 100% human; faint metallic veins on forearms that glow faint amber when he channels magic.
+* **Class & Level:** **Cleric (Forge Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Battlefield medic, relic forger, traveling healer
+* **Rank / Position:** **Warden-Smith of the Emberward**
+* **Organization:** **The Brass Order of Skarnov**
+* **Symbol:** A gauntlet cradling a lit forge flame
+* **Title:** *The Ember-Born Healer*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Western–Arabic**, rugged handsomeness softened by warmth; like a desert craftsman who found faith in creation.
+
+**Eyes:** deep bronze with molten flecks.
+**Skin:** sun-bronzed with faint scorch-mark patterns on forearms.
+
+**Hair (Hair Randomizer v2.0):** **Medium**, **style:** **low ponytail tied with leather band**, **texture:** coarse, slightly wavy, **color:** **dark copper with soot-black tips.**
+**Height:** 183 cm
+**Weight:** 82 kg
+**Body Build:** **Broad-shouldered muscular**, sturdy arms, lean waist — blacksmith’s strength with healer’s patience.
+
+**Jewelry & Accessories (randomized):**
+**Iron rosary**, **brass wristguard etched with runes**, **small ear cuff**, **chain necklace bearing a glowing ember crystal.**
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** **Functional forge attire + field robe hybrid**
+
+Eiden wears a **dark red sleeveless forge robe** reinforced with chain padding across chest and shoulders, cinched by a **thick belt of bronze clasps.**
+A **white cloth mantle** drapes over his left shoulder — an emblem of his healer vows — while his right arm remains bare, covered in burn scars and faint golden sigils.
+Boots and gloves are heavy leather, smudged with soot and ash.
+
+**Color Palette:** ember red / brass / white / black ash accents
+**Accents:** utilitarian, battle-worn sanctity
+
+**Loadout:** warhammer (*Heartforge*), smith’s tools, portable brazier focus.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +3)×3 → **30 HP**
+* **AC:** **18** (chainmail + shield + Forge Blessing)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 10 (+0)** **CON 16 (+3)** **INT 11 (+0)** **WIS 16 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +3
+* **Skills:** Insight +5, Religion +2, Medicine +5, Smith’s Tools +4, Athletics +5
+* **Languages:** Common, Dwarvish, Ignan, Celestial
+
+**Cleric (Forge Domain) 3:**
+
+* **Channel Divinity:** *Artisan’s Blessing*, *Turn Undead*
+* **Blessing of the Forge:** +1 AC or +1 weapon enchantment
+* **Spells (WIS DC 13, +5 atk):**
+
+  * *Cantrips:* *Guidance, Mending, Sacred Flame*
+  * *1st (4 slots):* *Cure Wounds, Shield of Faith, Detect Magic, Identify*
+  * *2nd (2 slots):* *Heat Metal, Spiritual Weapon*
+
+**Attacks:**
+
+* **Warhammer (Heartforge):** +5 to hit, 1d8+3 bludgeoning (+1d6 fire on bonus channel)
+* **Spiritual Weapon:** +5 to hit, 1d8+3 force (fiery hammer form)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Support / Battle Healer / Buffer**
+* **Tactics:** Blesses allies’ weapons pre-fight, maintains *Shield of Faith*, channels *Spiritual Weapon* for steady damage.
+* **Signature Opener:** Strikes ground → runes flare → *Bless + Heat Metal* combo to disrupt enemy weapons.
+* **Finisher:** *Guided Strike* empowered swing, hammer blazing like dawnfire.
+
+**Damage Flavor:** Each hit leaves glowing ember lines that cool to soot within seconds.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Stoic, wryly humorous, deeply compassionate.
+* **Ideal:** Restoration — “If the gods gave us hands, they meant for us to fix things.”
+* **Bond:** Protects blacksmith apprentices and orphans of the forge fires.
+* **Flaw:** Refuses to rest if anyone is still injured; exhaustion is his religion.
+* **Quirk:** Hums forge hymns while patching wounds — rhythmic, grounding.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ember Wards, Brass Hospitals, Forge Sanctums**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Framing:** **Siege triage**, **Relic blessing**, **Forge ritual defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+A foundry healer who saved lives during the Great Ember Collapse.
+Once a craftsman, he now reforges both blades and people.
+
+* **Lifestyle:** simple but organized; sleeps near his forge for warmth.
+* **Income:** order stipend + donations from grateful soldiers.
+* **Relationships:** fatherly toward Kael Rhadion; respect-shared bond with Rhea Corvalen.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that creation is worship, and kindness is the highest craft.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being powerless to save others again.
+* **Weaknesses:** Pushes body beyond limits, occasional tremors from exhaustion.
+* **Strengths:** Unshakeable will, mastery of heat and metal, protective aura.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — calm, warm, fatherly with hidden charisma.**
+
+> “Don’t grit your teeth. Pain means you’re still here—let’s keep it that way.”
+> He smiles faintly, hand steady on your shoulder.
+> “Now breathe. Again. There, better. You’re safe.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a locked casket containing a failed divine weapon that still whispers.
+* **Hooks:**
+
+  1. **The Broken Hammer:** It begins to glow again when Severance energy rises.
+  2. **The Ember Debt:** A dying god’s fragment calls for completion.
+  3. **The Fire That Heals:** Someone is murdering healers using his old sigils.
+
+## Tags: #Male #AdultType #Human #Cleric3 #ForgeDomain #Skarnov #CR1 #Healer #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Eiden’s presence grounds chaos; his gestures are firm, gentle, and sure.
+
+> “You did your best. Now, let me do mine.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** warhammer (*Heartforge*)
+  * **Armor:** chainmail, shield
+  * **Tools:** smith’s tools, healer’s kit
+  * **Consumables:** healing salve ×2, holy water ×1
+  * **Misc:** ember crystal necklace, prayer cloth
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 18) *or* **War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Ember Wards / Brass Sanctum**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Type:** **Siege triage**, **Divine forge ritual**, **Corrupted relic purge**
+* **Affiliation:** **The Brass Order of Skarnov**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Western Arabic male human cleric forge domain 183cm medium wavy dark copper hair low ponytail bronze eyes muscular build, forge robe sleeveless mantle white cloth, glowing runes scars arms, holding hammer with ember light, warm serious expression

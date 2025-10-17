@@ -1,0 +1,191 @@
+# #149 — **Rei Dalcourt** — *The Glassblade Duelist of Valeronnes*
+
+> “If elegance can kill, then I am simply being polite.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 149
+* **Gender (weighted random):** **Male (Type: เคะ)** — soft-spoken, refined, beautiful to the point of disarming others; his tone wavers between graceful restraint and subtle rebellion.
+* **Age:** 21
+* **Race:** **Human (Valeronnes Lineage)** — full human with faint arcane resonance around his hands when focused.
+* **Class & Level:** **Swashbuckler (Rogue)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** Duelist-for-hire, noble’s bodyguard, etiquette tutor
+* **Rank / Position:** **Glassblade Duelist**
+* **Organization:** **Valeronnes Dueling Court**
+* **Symbol:** A glass rapier surrounded by a white rose
+* **Title:** *The Glassblade*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–French**, aristocratic delicacy with soft features and magnetic composure.
+
+**Eyes:** pale gray with silver sheen—calm, steady, dangerous.
+**Skin:** milky ivory, faint pink tint on cheeks, flawless complexion.
+
+**Hair (Hair Randomizer v2.0):** **Medium**, **style:** **low ponytail with face-framing bangs**, **texture:** silky-straight, **color:** **ash-blond fading to pearl white.**
+**Height:** 172 cm
+**Weight:** 59 kg
+**Body Build:** **Lean, elegant, subtly toned** — graceful, dancer-like, but his poise hides surprising strength.
+
+**Jewelry & Accessories (randomized):**
+**Thin silver chain earring (right ear)**, **lace choker with sapphire charm**, **embroidered gloves**, **silver wrist bangle etched with runes of speed.**
+
+---
+
+## 👗 Outfit (in English)
+
+Rei’s attire walks the line between courtly fashion and battlefield finesse.
+He wears a **fitted white doublet** with subtle glass-thread embroidery and **a high collar slit at the throat**, hinting bare skin.
+**Black trousers** tucked into **polished heeled boots** elongate his frame, and a **short half-cape of translucent silk** trails from his left shoulder.
+
+**Color Palette:** white / silver / pale blue / black accents
+**Accents:** noble charm, razor grace, emotional restraint
+
+**Loadout:** *Glassblade Rapier*, parrying dagger, hidden wire gauntlet.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **17** (leather + DEX + finesse stance)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 11 (+0)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Acrobatics +6, Persuasion +5, Insight +4, Performance +5, Sleight of Hand +6
+* **Languages:** Common, Elvish, Valeronnes Cant
+
+**Rogue (Swashbuckler) 3:**
+
+* **Fancy Footwork**, **Rakish Audacity**, **Sneak Attack (2d6)**
+* **Cunning Action (Dash, Disengage, Hide)**
+* **Steady Aim (optional rule)**
+
+**Attacks:**
+
+* **Rapier (Glassblade):** +6 to hit, 1d8+4 piercing (Sneak Attack 2d6 if applicable)
+* **Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duelist / Skirmisher / Feint Specialist**
+* **Tactics:** Opens with a taunting bow, baiting attack for Sneak counter; uses **Cunning Action** to reposition.
+* **Signature Opener:** feigned stumble → spinning parry → counterthrust through the gap.
+* **Finisher:** a mirrored blade strike that reflects moonlight into the opponent’s eyes.
+
+**Damage Flavor:** his rapier leaves faint prismatic trails of light — glass-shard afterimages in motion.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Soft-voiced, cuttingly witty, self-controlled, lightly melancholic.
+* **Ideal:** Beauty — “The world must bleed gracefully, or it’s just brutality.”
+* **Bond:** Secretly protects the noble daughter he once tutored.
+* **Flaw:** Hides pain behind smiles; despises being underestimated.
+* **Quirk:** Adjusts his gloves whenever he feels anxious or flustered.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glass Court, Mirror Hall, Noble Duels Arena**
+* **Threat Gradient:** **Stable → Wavering (social resonance)**
+* **Encounter Framing:** **Formal duel**, **court scandal**, **assassination under disguise**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a noble’s son turned street duelist after his family fell from grace.
+He honed charm and precision to climb back into the halls that exiled him.
+
+* **Lifestyle:** refined minimalist; values silence and candles.
+* **Income:** dueling contracts, private lessons.
+* **Relationships:** fond of Lucien Valeir (friendly rivalry), quietly loyal to Lady Nerisse Valeron.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes violence should be art — sharp, brief, and never vulgar.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being seen as weak or pitied.
+* **Weaknesses:** Avoids emotional vulnerability.
+* **Strengths:** Precision, composure, poise under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — alluring restraint with flashes of defiance.**
+
+> “Closer, if you must watch me bleed—don’t make me repeat my lesson.”
+> He turns, blade pressed lightly under your chin, lips almost smiling.
+> “You wanted grace… now you have it.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His family’s fall was caused by his own duel—he accidentally killed the Valeron heir.
+* **Hooks:**
+
+  1. **Echo Duel:** A shadow version of his victim returns, demanding a rematch.
+  2. **The Silver Contract:** He’s forced to guard the heir’s sibling—his guilt reborn.
+  3. **Broken Reflection:** His Glassblade rapier cracks, revealing something living inside.
+
+## Tags: #Male #UkeType #Human #Rogue3 #Swashbuckler #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rei **gets flustered easily** when praised; responds with sarcasm or quiet retreat.
+
+> “You think I look charming covered in dust? You need your eyes examined.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, dagger
+  * **Armor:** leather armor
+  * **Tools:** disguise kit, thieves’ tools
+  * **Consumables:** healing salve ×1, smoke vial ×1
+  * **Misc:** broken noble crest, sapphire charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Defensive Duelist**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Glass Court / Mirror Hall**
+* **Threat Gradient:** **Stable → Wavering (social resonance)**
+* **Encounter Type:** **Formal duel**, **Court intrigue**, **Secret escort**
+* **Affiliation:** **Valeronnes Dueling Court**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean French male human rogue swashbuckler 172cm ash-blond medium hair low ponytail, silver-gray eyes, white doublet open collar, translucent cape, elegant duel stance, prismatic light, noble hall background

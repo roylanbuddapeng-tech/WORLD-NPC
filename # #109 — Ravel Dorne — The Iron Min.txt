@@ -1,0 +1,196 @@
+# #109 — **Ravel Dorne** — *The Iron Minstrel of the Western Crossroads*
+
+> “A good song can mend a heart. A sharper one can split armor.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 109
+* **Gender (weighted random):** **Male (Type: เมะ)** — confident, a natural leader with charm and edge; smooth voice, half-laughs in danger.
+* **Age:** 26
+* **Race:** **Human**
+* **Class & Level:** **Bard (College of Swords)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** Traveling performer, mercenary bladesinger, tavern idol
+* **Rank / Position:** **Lead Duelist of the Iron Minstrels**
+* **Organization:** **The Steel Harmony Company**
+* **Symbol:** A steel lute with strings made of etched silver blades
+* **Title:** *The Iron Minstrel*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Spanish–English**, charismatic with rockstar confidence, the kind of beauty that’s dangerous when he smiles.
+
+**Eyes:** bronze-gold, gleam mischievously under torchlight.
+**Skin:** warm olive tone with faint battle scars across collarbone.
+
+**Hair (randomized):** **Medium**, **style:** layered and tousled, swept back with stray bangs, **texture:** soft wave, **color:** dark auburn with faint red shimmer.
+**Height:** 179 cm
+**Weight:** 72 kg
+**Body Build:** **Athletic elegant**, long limbs, lean muscle, swordsman’s precision.
+
+**Jewelry & Accessories (randomized):**
+**Silver hoop earring**, **fingerless gloves**, **black cord necklace** with steel charm shaped like a note, **ornate rapier belt** with etched filigree.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Performer’s duelist attire*
+
+Ravel’s outfit fuses theater and steel — a **deep crimson tailcoat** trimmed in black velvet, **white open-collar shirt**, and **black fitted pants** tucked into high boots.
+He wears **a half-cape** fastened with a silver clasp shaped like a lute.
+The sword at his hip glints with faint light magic — part weapon, part instrument.
+
+**Color Palette:** crimson / black / gold / white
+**Accents:** flamboyant, charismatic, sharp silhouette
+
+**Loadout:** rapier (*Serenade*), parrying dagger, steel-string lute.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **16** (leather + DEX + Duelist flair)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 13 (+1)** **WIS 10 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, CHA +5
+* **Skills:** Performance +7, Acrobatics +6, Persuasion +5, Sleight of Hand +6, Intimidation +5
+* **Languages:** Common, Elvish, Draconic
+
+**Bard (College of Swords) 3:**
+
+* **Bardic Inspiration (d6)** — includes **Defensive Flourish / Slashing Flourish / Mobile Flourish**
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * **Cantrips:** *Vicious Mockery, Blade Ward, Dancing Lights*
+  * **1st (4 slots):** *Healing Word, Charm Person, Heroism, Dissonant Whispers, Thunderwave*
+  * **2nd (2 slots):** *Mirror Image, Suggestion*
+
+**Attacks:**
+
+* **Rapier (Serenade):** +6 to hit, 1d8+4 piercing (+1d6 with Flourish)
+* **Parrying Dagger:** +6 to hit, 1d4+4 piercing (off-hand)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Support Caster / Charismatic Duelist**
+* **Tactics:** Uses **Flourishes** for defense and crowd control; disorients with charm or mockery.
+* **Signature Opener:** flicks sword in salute — *“Let’s make this one a duet.”*
+* **Finisher:** Flourish combo — spins, kicks weapon up, ends fight mid-verse.
+
+**Damage Flavor:** trails of light like musical notes follow his blade slashes.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Witty, confident, loyal to his troupe.
+* **Ideal:** Freedom — “A blade and a song both cut deeper when they dance.”
+* **Bond:** His troupe, “The Iron Minstrels,” wandering performers who fight Echo-corruption through song.
+* **Flaw:** Flirts like breathing; sincerity is harder.
+* **Quirk:** Always hums before a duel.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Western Crossroads, Echo Taverns, Duel Gardens**
+* **Threat Gradient:** **Wavering → Echo Zone (sound resonance)**
+* **Encounter Framing:** **Traveling performance**, **Echo duel**, **Tavern defense from cultists**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a soldier turned performer after realizing music stirred courage faster than orders.
+He now blends swordplay and performance — dazzling both enemies and audiences.
+
+* **Lifestyle:** luxurious yet itinerant; lives for applause and adrenaline.
+* **Income:** performance pay, escort missions, private shows for nobles.
+* **Relationships:** constant rivalry with Selene Vaurelle (friendly duels); playful tension with Rina Velvane.
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes every battle deserves rhythm — and every victory should leave someone smiling.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing his voice or hands — his twin sources of identity.
+* **Weaknesses:** Pride, easily distracted by charm.
+* **Strengths:** Improvisation, crowd control, multitasking in combat.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — confident leader charm, knows he’s attractive but uses it lightly.**
+
+> “Careful. Compliments are dangerous — I might start believing them.”
+> He teases with smirks and wordplay, leans close when joking.
+> “Relax. If I meant to steal your heart, you wouldn’t have noticed yet.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His lute, *Serenade*, is forged from the rib of a slain siren — it hums when danger nears.
+* **Hooks:**
+
+  1. **The Echo Song:** Recover lost verses of a spell-tune that controls resonance beasts.
+  2. **Steel & Harmony:** Perform a concert-duel to stop a Severance incursion.
+  3. **Broken Chord:** A rival bard challenges him to a duel of blades and sound.
+
+## Tags: #Male #MehType #Human #Bard3 #SwordsCollege #Valeronnes #CR1 #Performer #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ravel thrives on witty banter — teasing becomes flirtation, flirtation becomes rhythm.
+
+> “You’re out of tune, darling. Let me fix that… with a smile or a sword.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** rapier (*Serenade*), parrying dagger
+  * **Armor:** light duelist’s coat
+  * **Tools:** lute, disguise kit
+  * **Consumables:** throat elixir ×2, wine flask ×1
+  * **Misc:** silver earring, troupe badge
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Crossroads Taverns / Duel Gardens**
+* **Threat Gradient:** **Wavering → Echo Zone (sound resonance)**
+* **Encounter Type:** **Performance duel**, **Heist concert**, **Ambush in tavern stage**
+* **Affiliation:** **Steel Harmony Company**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Spanish English male human bard swords college 179cm auburn hair gold eyes, medium wavy hair swept back, crimson tailcoat, rapier and lute, charismatic smirk, tavern stage lights, sparks of sound magic

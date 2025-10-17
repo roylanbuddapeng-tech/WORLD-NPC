@@ -1,0 +1,205 @@
+# #138 — **Selene Vaelor** — *The Silver Ribbon of Valeronnes*
+
+> “Disarm them with a smile first. If that fails, use the pointy end.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 138
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — composed, teasing, protective; elegant big-sister aura with a sly competitive streak.
+* **Age:** 27
+* **Race:** **Dark Elf (Valeronnes Lineage)** — ~85% human; dusky moonlit skin, softly tapered ears, pale-lilac ring in pupils.
+* **Class & Level:** **Bard (College of Swords)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Duel instructor, noble escort, performance duelist
+* **Rank / Position:** **Silver Ribbon Mentor**
+* **Organization:** **Valeronnes Academy of Glasswind Arts**
+* **Symbol:** A silver ribbon looping through a rapier guard
+* **Title:** *The Silver Ribbon*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–French**, refined “rich-girl” poise with warm mischief; a courtly beauty engineered for attention.
+
+**Eyes:** violet-gray with thin lilac halo.
+**Skin:** cool dusk-tan with soft moon-sheen along collarbones.
+
+**Hair (Hair Randomizer v2.0):** **Long**, **style:** **high ponytail** bound with satin bow, **texture:** sleek straight, **color:** **silver-lilac gradient** (Valeronnes tone).
+**Height:** 172 cm
+**Weight:** 58 kg
+**Body Type:** **Fit hourglass**, dancer’s core, elegant carriage.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 99 – 70 – 104
+VALIDATION: • W/B = 0.707 → OK   • H/W = 1.49 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+Fine **silver circlet**, **teardrop amethyst earrings**, **slim chain choker**, **bracelet of filigree links**, **anklet with tiny bell** (muted for stealth).
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *A + D* (**deep neckline + shoulder-baring cut**)
+
+Selene wears a **pearl-silver duelist bodice** with a **deep V** that meets a mirrored clasp, shoulders bare beneath a **short capelet** edged in glass-thread tassels.
+A **split performance skirt** reveals fitted shorts for agile footwork; thigh-high boots snap with polished silver buckles.
+Her scabbard is ribbon-wrapped, matching her academy colors.
+
+**Color Palette:** silver / pearl / lilac / amethyst
+**Accents:** aristocratic, stage-ready, lethal elegance
+
+**Loadout:** **rapier (*Moonchord*)**, parrying dagger, lute-bow hybrid (short lute with bowstring accent).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 11 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, CHA +5
+* **Skills:** Acrobatics +6, Performance +5, Persuasion +5, Insight +2, Sleight of Hand +6
+* **Languages:** Common, Elvish, Valeronnes Cant
+
+**Bard (College of Swords) 3:**
+
+* **Bardic Inspiration (d6)**, **Fighting Style (Dueling)**, **Blade Flourish**, **Jack of All Trades**, **Expertise (Sleight of Hand, Performance)**
+* **Spells (CHA DC 13, +5 atk):**
+
+  * *Cantrips:* *Vicious Mockery, Minor Illusion, Mage Hand*
+  * *1st (4 slots):* *Healing Word, Faerie Fire, Dissonant Whispers*
+  * *2nd (2 slots):* *Mirror Image, Suggestion*
+
+**Attacks:**
+
+* **Rapier (Moonchord):** +6 to hit, 1d8+6 piercing (Dueling + DEX)
+* **Dagger:** +6 to hit, 1d4+4 piercing
+* **Blade Flourish:** +1d6 to damage/AC/speed effects on hit
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Controller / Face**
+* **Tactics:** Opens with *Faerie Fire* or *Dissonant Whispers* to unbalance, then rapier strings with **Slashing/Defensive Flourish**.
+* **Signature Opener:** twirls Moonchord, bow to audience, then a blur of silver steps.
+* **Finisher:** *Suggestion* to make the enemy “drop the grudge,” or a decisive riposte framed in lilac light.
+
+**Damage Flavor:** each strike leaves ribbon-like glimmers that curl and fade like silk.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Gracefully teasing, patient teacher, quietly competitive.
+* **Ideal:** Beauty — “Make victory look effortless.”
+* **Bond:** Protects her younger pupils fiercely; soft spot for “stray” adventurers.
+* **Flaw:** Prideful; hates looking flustered.
+* **Quirk:** Snaps her ribbon bow before duels for luck.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glasswind Courts, Ribbon Promenade, Duel Gardens**
+* **Threat Gradient:** **Stable → Wavering (emotion resonance)**
+* **Encounter Framing:** **Noble escort duel**, **Masquerade sting**, **Class exhibition vs. assassin**
+
+---
+
+## 📜 Background & Lifestyle
+
+Heiress-turned-instructor who left court politicking for the academy stage.
+She mentors street-talented fighters into performers who survive the crowd *and* the blade.
+
+* **Lifestyle:** refined townhouse; practice room full of mirrors and ribbons.
+* **Income:** academy stipend, noble commissions, private recitals.
+* **Relationships:** friendly sparring with Seraphine Dhalis; cordial rivalry with Ren Kaizel.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes elegance is mercy: “If they understand, they won’t need to bleed again.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Public failure; losing a student on her watch.
+* **Weaknesses:** Overconfident against “unrefined” foes.
+* **Strengths:** Battlefield presence, crowd control, precise footwork.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — gentle mastery, playful provocation.**
+
+> “Chin up. I won’t let you fall— unless you need the lesson.”
+> A fingertip lifts your jaw, smile glinting.
+> “Blushing already? We’ve barely begun warm-ups.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Moonchord’s guard hides a shard of a banned hymn; when bled, it sings.
+* **Hooks:**
+
+  1. **The Banned Verse:** Recover the rest of the hymn before a zealot choir does.
+  2. **Ribbon Heist:** A noble’s ribbon-seal is counterfeit; her class is blamed.
+  3. **Duel for a Life:** An assassin challenges Selene—winner keeps the student.
+
+## Tags: #Female #SeniorType #DarkElf #Bard3 #CollegeOfSwords #Valeronnes #CR1 #Duelist #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Selene enjoys **making others fluster** by stepping into their space and correcting posture with soft hands.
+
+> “Relax your shoulder… there. See? Beautiful *and* lethal.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, dagger
+  * **Armor:** studded leather
+  * **Tools:** lute-bow, disguise kit
+  * **Consumables:** echo perfume ×1, fine wine ×1
+  * **Misc:** ribbon seals, circlet case
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Duel Gardens / Ribbon Promenade**
+* **Threat Gradient:** **Stable → Wavering (emotion resonance)**
+* **Encounter Type:** **Escort duel**, **Masquerade infiltration**, **Stage-combat ambush**
+* **Affiliation:** **Valeronnes Academy of Glasswind Arts**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean French female dark elf bard swords 172cm high ponytail silver-lilac hair, deep-V duelist bodice, rapier, elegant teasing smile

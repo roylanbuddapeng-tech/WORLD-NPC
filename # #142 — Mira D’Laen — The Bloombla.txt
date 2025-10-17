@@ -1,0 +1,204 @@
+# #142 — **Mira D’Laen** — *The Bloomblade Witch of Valeronnes*
+
+> “Every petal hides a thorn, every smile hides a spell.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 142
+* **Gender (weighted random):** **Female (Type: MILF)** — confident, alluring, motherly warmth wrapped in danger; smiles that comfort and command at once.
+* **Age:** 35
+* **Race:** **Elf (Valeronnes Lineage)** — ~90% human; long pointed ears, faint floral shimmer on skin under light, silver veins around temples.
+* **Class & Level:** **Warlock (The Archfey)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral (leans Good)**
+* **Profession:** Herbalist, charm-mage, former court enchantress
+* **Rank / Position:** **Mistress of the Bloom Hall**
+* **Organization:** **Valeronnes Herbal Court (Independent affiliate)**
+* **Symbol:** A rose wrapped in a crescent thorn
+* **Title:** *The Bloomblade Witch*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Korean**, ageless allure — refined, yet deeply sensual, like perfume and danger.
+
+**Eyes:** jade-green with gold flecks.
+**Skin:** pale honey tone with faint pearlescent sheen on neck and shoulders.
+
+**Hair (Hair Randomizer v2.0):** **Very Long**, **style:** **loose cascading waves with small side braid**, **texture:** silky wavy, **color:** **dark wine red with black undertones.**
+**Height:** 176 cm
+**Weight:** 63 kg
+**Body Type:** **Curvy and toned** — hips and bust pronounced, every movement deliberate.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: H   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 104 – 72 – 112
+VALIDATION: • W/B = 0.692 → OK   • H/W = 1.55 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Gold-leaf vine circlet**, **emerald teardrop earrings**, **thorn-pattern choker**, **rune-etched bracelets**, **rose anklet with hidden blade charm.**
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *A + E* (**deep neckline gown + side slit**)
+
+Mira wears a **crimson silk gown** slit to the thigh, embroidered with gold vines that shimmer when she casts.
+The neckline dips daringly yet elegantly, framed by a translucent **black lace shawl** with warding runes.
+A **belt of preserved rose petals** holds potion vials; her boots are knee-high leather, perfectly fitted.
+
+**Color Palette:** crimson / gold / black lace / jade
+**Accents:** seductive grace, courtly danger, floral scent lingering after she leaves.
+
+**Loadout:** enchanted dagger (*Thornkiss*), spell focus rose pendant, bloom pouch of powdered reagents.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **20 HP**
+* **AC:** **14** (Mage Armor + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +6
+* **Skills:** Deception +6, Persuasion +6, Arcana +3, Insight +3, Nature +3
+* **Languages:** Common, Elvish, Sylvan, Valeronnes Cant
+
+**Warlock (Archfey) 3:**
+
+* **Pact Boon:** *Pact of the Tome* (floral script grimoire)
+* **Invocations:** *Agonizing Blast*, *Mask of Many Faces*
+* **Spells (CHA DC 14, +6 atk):**
+
+  * *Cantrips:* *Eldritch Blast, Minor Illusion, Prestidigitation*
+  * *1st–2nd:* *Charm Person, Faerie Fire, Misty Step, Suggestion, Enthrall*
+
+**Attacks:**
+
+* **Eldritch Blast:** +6 to hit, 1d10+4 force
+* **Dagger (Thornkiss):** +4 to hit, 1d4+2 piercing, poisons once/day (DC 13 CON save or 1d6 poison)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Controller / Enchanter / Charmer**
+* **Tactics:** Opens with *Faerie Fire* to frame enemies in beauty; controls crowds via *Suggestion* or *Enthrall*.
+* **Signature Opener:** perfume mist, sultry smile — then enemies stop fighting each other to stare.
+* **Finisher:** *Misty Step* behind target → *Thornkiss* dagger through whisper.
+
+**Damage Flavor:** green-gold bursts of pollen light, like glowing petals caught in the wind.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Motherly patience mixed with flirtatious humor.
+* **Ideal:** Freedom through beauty — “People obey when they believe it’s their idea.”
+* **Bond:** Secretly funds orphanages with her potion sales.
+* **Flaw:** Can’t resist manipulating situations “for everyone’s good.”
+* **Quirk:** Always leaves the scent of roses behind — even when invisible.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Bloom Hall, Gilded Gardens, Rosewalk Alley**
+* **Threat Gradient:** **Wavering → Deep Echo (emotional resonance)**
+* **Encounter Framing:** **Assassination by charm**, **Masquerade infiltration**, **Floral ritual gone awry**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a royal enchantress who refused to weaponize beauty for tyranny.
+Now teaches charm magic to heal minds, not enslave them.
+
+* **Lifestyle:** opulent but lonely; villa filled with enchanted plants.
+* **Income:** potion exports, charm commissions, and rose elixir sales.
+* **Relationships:** close mentor to Selene Vaelor; has complicated history with noble lord Esten Corval.
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes that “all beauty should be dangerous enough to be respected.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of her charm magic; being used again by nobles.
+* **Weaknesses:** Emotionally vulnerable when shown genuine affection.
+* **Strengths:** Persuasion, magical control, presence that halts conflict.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — teasing maternal warmth, confidence laced with allure.**
+
+> “Sweetheart, you’re holding that wand wrong… here, let me guide your hand.”
+> Her fingers linger just a heartbeat too long.
+> “There, better. Now, tell me — do you always blush that easily?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her roses are infused with memories of those she’s charmed — hundreds sleep within her garden.
+* **Hooks:**
+
+  1. **The Sleeping Garden:** A noble awakens with amnesia; Mira’s rose blooms in his chest.
+  2. **The Perfumed Betrayal:** Her elixir line is corrupted by Severance taint.
+  3. **The Archfey’s Price:** Her patron returns, demanding she “charm a god.”
+
+## Tags: #Female #MILF #Elf #Warlock3 #Archfey #Valeronnes #CR1 #Controller #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mira loves **making others fluster** — physical closeness, whispering advice, calling everyone “dear.”
+
+> “If you keep staring, darling, I’ll start thinking you want a lesson in charm magic… hands-on, of course.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** *Thornkiss* dagger
+  * **Armor:** enchanted lace shawl (Mage Armor focus)
+  * **Tools:** herbal kit, perfume alchemy set
+  * **Consumables:** rose elixir ×2, charm balm ×1
+  * **Misc:** grimoire, thorn choker, preserved petal vial
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 20) *or* **Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Bloom Hall / Gilded Gardens**
+* **Threat Gradient:** **Wavering → Deep Echo (emotion resonance)**
+* **Encounter Type:** **Charm duel**, **Floral ritual defense**, **Masquerade seduction**
+* **Affiliation:** **Valeronnes Herbal Court**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Korean female elf warlock archfey 176cm very long wavy dark wine-red hair, jade eyes, deep neckline crimson gown slit thigh, gold vine embroidery, sensual smile, rose choker, elegant MILF

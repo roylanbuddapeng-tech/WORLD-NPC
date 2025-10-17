@@ -1,0 +1,195 @@
+# #101 — **Raveen Tal’ithra** — *The Gilded Talon of the Ember Vault*
+
+> “If gold doesn’t sing when you touch it, it’s counterfeit. The same goes for people.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 101
+* **Gender (weighted random):** **Male (Type: เมะ)** — bold, composed, seductive through confidence; voice like molten honey wrapped in command.
+* **Age:** 29
+* **Race:** **Half-Dragon (Gold Lineage)** — humanoid 85%, golden scale shimmer along forearms, slit pupils, faint heat aura under strong emotion.
+* **Class & Level:** **Paladin (Oath of Glory)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Vault guardian, draconic knight, treasure adjudicator
+* **Rank / Position:** **Warden of the Ember Vault**
+* **Organization:** **The Draconic Oathkeepers**
+* **Symbol:** Sunburst encircling a stylized dragon claw
+* **Title:** *The Gilded Talon*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Greek–Middle Eastern blend**, regal masculine beauty, sharp cheekbones, golden undertones in skin that gleam when sunlight hits.
+
+**Eyes:** molten amber with slit pupils; seem to glow when angry or amused.
+**Skin:** sun-bronze, faint gold shimmer under light.
+
+**Hair (randomized):** **Medium**, **style:** layered back-swept mane, slightly curled ends, **texture:** thick wavy, **color:** dark gold with fiery bronze sheen.
+**Height:** 187 cm
+**Weight:** 83 kg
+**Body Build:** **Powerful and elegant**, sculpted torso, athletic chest, broad shoulders — posture radiates dominance and heat.
+
+**Jewelry & Accessories (randomized):**
+**Dragonfang pendant**, **brass cuff bands**, **thin circlet etched with runes**, and **leather waist belt** with inlaid ruby scales.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Regal armor set; full coverage with ceremonial design*
+
+Raveen’s armor gleams like living sunlight — **burnished gold plate** chased with ruby inlays, **white mantle cloak** flowing over one shoulder.
+His **gauntlets and boots** are trimmed in crimson cloth for mobility, while a **dragon-wing motif** curves along his chestplate.
+When off-duty, he removes armor to reveal a sleeveless tunic and ornate vambraces, leaving his scaled arms exposed.
+
+**Color Palette:** gold / crimson / ivory / bronze
+**Accents:** divine regality with dragonic ferocity
+
+**Loadout:** longsword (*Sunsorrow*), golden shield (*Vigil’s Roar*), and radiant amulet focus.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **18** (chain mail + shield)
+* **Speed:** 30 ft
+* **STR 17 (+3)** **DEX 12 (+1)** **CON 14 (+2)** **INT 10 (+0)** **WIS 13 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Athletics +5, Persuasion +5, Intimidation +5, Insight +3
+* **Languages:** Common, Draconic, Celestial
+
+**Paladin (Oath of Glory) 3:**
+
+* **Divine Sense, Lay on Hands (15 HP)**
+* **Divine Smite**
+* **Channel Divinity:** *Peerless Athlete* or *Inspiring Smite*
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * **1st (3 slots):** *Heroism, Compelled Duel, Shield of Faith, Divine Favor*
+
+**Attacks:**
+
+* **Sunsorrow (Longsword):** +5 to hit, 1d8+3 slashing + 1d8 radiant (smite)
+* **Shield Bash:** +5 to hit, 1d4+3 bludgeoning, can push 5 ft
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Defender / Support Leader**
+* **Tactics:** Begins with *Heroism* or *Divine Favor*, leads charge; channels divinity to inspire allies and demoralize foes.
+* **Signature Opener:** Points Sunsorrow skyward; light flares, allies feel strength surge.
+* **Finisher:** *Radiant Smite* — flame bursts from sword tip like a dragon’s roar.
+
+**Damage Flavor:** golden fire traces blade arcs, leaving afterglows like molten streaks.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Noble, assertive, protective; mixes gallantry with quiet seduction.
+* **Ideal:** Honor — “Greatness demands grace.”
+* **Bond:** His oathbound kin — treats even subordinates as family.
+* **Flaw:** Pride; cannot ignore challenges to his skill or ideals.
+* **Quirk:** Tilts his head when amused; tail flicks faintly if angered.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ember Vaults, Sunspire Keep, Molten Canyons**
+* **Threat Gradient:** **Stable → Wavering (heat resonance fields)**
+* **Encounter Framing:** **Vault defense**, **Arena duel**, **Oath trial**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raveen was born of a dragon’s line but trained under mortal discipline. Tasked with protecting the sacred Ember Vault, he balances draconic instinct with knightly control — a living symbol of harmony between might and mercy.
+
+* **Lifestyle:** disciplined but indulgent in luxury when earned.
+* **Income:** royal guard pay, dragon relic commissions.
+* **Relationships:** Rival-friend of Kaia Fenril; admired secretly by Suna Velrien.
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes power exists to shield, not dominate — yet part of him still hungers to be revered as his draconic ancestors were.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing self-control to his dragon instincts.
+* **Weaknesses:** Overconfident; emotionally drawn to those who challenge his authority.
+* **Strengths:** Leadership, bravery, overwhelming charisma.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — calm dominance, confidence that flusters others through presence alone.**
+
+> “You’re trembling again. Stand firm… unless you prefer I steady you myself.”
+> He enjoys teasing through reassurance, pairing compliments with faint intimidation.
+> “You burn brighter when you defy me. Keep doing that.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His scales hide a sigil sealing a slumbering dragon spirit — one whispering for release.
+* **Hooks:**
+
+  1. **The Ember Trial:** Aid Raveen in purifying a corrupted vault relic.
+  2. **Gilded Betrayal:** His dragon kin plot to reclaim him as heir.
+  3. **Sunfire Awakening:** The sigil begins glowing, threatening to consume his will.
+
+## Tags: #Male #MeType #HalfDragon #GoldLineage #Paladin3 #OathOfGlory #Skarnov #CR1 #Knight #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Raveen enjoys **testing courage** — steps close, speaks low, watches reactions.
+
+> “Flinch, and I’ll know your heart. Hold my gaze, and I’ll know your worth.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longsword (*Sunsorrow*), shield (*Vigil’s Roar*)
+  * **Armor:** gold plate mail
+  * **Tools:** smith’s kit, dragon relic focus
+  * **Consumables:** radiant salve ×1, valor draught ×1
+  * **Misc:** draconic emblem, oath ring
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 18) *or* **Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov — Ember Vaults / Sunspire Keep / Radiant Plains**
+* **Threat Gradient:** **Stable → Echo Zone (heat mirage resonance)**
+* **Encounter Type:** **Vault defense**, **Honor duel**, **Dragon oath trial**
+* **Affiliation:** **The Draconic Oathkeepers**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Greek Middle Eastern male half-dragon gold paladin 187cm medium wavy dark gold hair bronze skin amber eyes, golden armor red accents, regal confident expression, longsword radiant light, dragon motif, molten canyon background

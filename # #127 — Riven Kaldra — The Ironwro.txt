@@ -1,0 +1,192 @@
+# #127 — **Riven Kaldra** — *The Ironwrought Blade of Skarnov*
+
+> “Steel doesn’t choose its purpose. The hand that wields it does.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 127
+* **Gender (weighted random):** **Male (Type: เมะ)** — confident, steady, quietly protective; a natural leader with a calm gaze and sharp judgment.
+* **Age:** 29
+* **Race:** **Half-Beast (Beastkin — Wolf lineage)** — 85% human, with silver-gray lupine ears, faint canines, and a trace of fur on forearms.
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Mercenary swordsman, combat instructor
+* **Rank / Position:** **Sergeant-at-Arms**
+* **Organization:** **Skarnov Mercenary Corps**
+* **Symbol:** A sword crossing a wolf’s head in iron frame
+* **Title:** *The Ironwrought Blade*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Nordic**, chiseled, striking; his eyes carry both warmth and unyielding will.
+
+**Eyes:** steel-gray with faint amber ring near pupil.
+**Skin:** sun-kissed tan, light scar across his left cheek.
+
+**Hair (randomized):** **Medium**, **style:** layered and slightly spiked, **texture:** thick and coarse, **color:** dark silver with pale streaks.
+**Height:** 182 cm
+**Weight:** 78 kg
+**Body Build:** **Athletic-muscular**, strong core, broad shoulders, defined arms.
+
+**Jewelry & Accessories (randomized):**
+**Wolf fang pendant**, **black leather wristband**, **silver earring**, **utility belt with engraved insignia**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Battlefield practical armor*
+
+Riven wears a **dark steel half-plate cuirass** layered with wolf-hide padding underneath, paired with **charcoal leather trousers** and **armored boots**.
+The armor bears **silver-gray fur trim** around the neck and shoulders — aesthetic but also symbolic of his lineage.
+His **sheathed longsword** rests diagonally across his back, blade etched with faint runes of restraint.
+
+**Color Palette:** gray / steel / black / deep crimson accents
+**Accents:** rugged elegance, knightly, disciplined
+
+**Loadout:** longsword (*Vargsteel*), dagger, tactical manual.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **17** (half-plate + DEX)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Perception +3, Intimidation +3, Survival +3
+* **Languages:** Common, Beastkin Tongue, Dwarvish
+
+**Fighter (Battle Master) 3:**
+
+* **Combat Superiority (4d8)**, **Student of War (Smith’s Tools)**, **Maneuvers:** *Riposte, Disarming Attack, Precision Attack*
+* **Second Wind, Action Surge**
+
+**Attacks:**
+
+* **Longsword (Vargsteel):** +5 to hit, 1d8+3 slashing
+* **Dagger:** +5 to hit, 1d4+3 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Controller / Tactical Leader**
+* **Tactics:** Uses *Disarming Attack* and *Riposte* for reaction control.
+* **Signature Opener:** closes distance with sudden lunge, sword flashing once to disable weapon arm.
+* **Finisher:** low stance sweep followed by *Precision Attack* at the exposed core.
+
+**Damage Flavor:** each strike leaves faint silver trails, like arcs of moonlight cutting through air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calm, loyal, reservedly kind.
+* **Ideal:** Duty — “Steel protects what heart commands.”
+* **Bond:** Mentor to Kael Rhadion; his loyalty is to those who forge their own strength.
+* **Flaw:** Overly self-sacrificing; rarely accepts help.
+* **Quirk:** Occasionally hums old mercenary marching tunes under his breath.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Iron Fields, Training Bastion, Mercenary Barracks**
+* **Threat Gradient:** **Stable → Wavering (resonant iron fields)**
+* **Encounter Framing:** **Training duel**, **Escort contract**, **Defensive siege**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised in the cold foundries of Skarnov, Riven fought for survival before earning his insignia.
+Once led a mercenary platoon that perished during an Echo surge; now he trains others so they won’t meet the same fate.
+
+* **Lifestyle:** disciplined and solitary, his quarters always immaculate.
+* **Income:** mercenary pay, combat tutoring fees.
+* **Relationships:** mentor to Kael Rhadion; rumored rival to Sir Nael of Thalassara.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes strength is duty — “If I’m stronger, others don’t have to break.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of his beast instincts.
+* **Weaknesses:** Emotional restraint, trust issues.
+* **Strengths:** Tactical precision, defensive instinct, physical dominance.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — confident, calm, assertive with subtle warmth.**
+
+> “You talk too much when you’re nervous. Breathe. Then act.”
+> He steps closer, gaze steady.
+> “Good. Now do it again — but this time, believe in your swing.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Once part of a classified Skarnov unit that experimented on hybrid soldiers — he’s one of the few survivors.
+* **Hooks:**
+
+  1. **The Iron Pact:** His old unit’s insignia reappears, carried by a Severance cultist.
+  2. **Wolf of War:** Rumors claim his lineage is bound to a feral Echo spirit.
+  3. **Vargsteel’s Oath:** His blade begins resonating with a strange pulse during moonlit battles.
+
+## Tags: #Male #Semetype #HalfBeast #Wolf #Fighter3 #BattleMaster #Skarnov #CR1 #Mercenary #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Riven shows affection through steadiness — a reassuring hand, a glance that says “I’m watching your back.”
+
+> “You can rely on me. Just don’t expect me to say it twice.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, dagger
+  * **Armor:** half-plate
+  * **Tools:** smith’s tools
+  * **Consumables:** whetstone ×1, stamina draught ×1
+  * **Misc:** wolf fang pendant, insignia badge
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 18) *or* **Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Iron Fields / Training Bastion**
+* **Threat Gradient:** **Stable → Wavering (resonant iron fields)**
+* **Encounter Type:** **Training duel**, **Escort mission**, **Echo ambush**
+* **Affiliation:** **Skarnov Mercenary Corps**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Nordic male half-beast wolf fighter battle master 182cm medium silver hair gray amber eyes, muscular build, wolf ears, half-plate armor with fur collar, longsword drawn, calm confident gaze, moonlit training ground background

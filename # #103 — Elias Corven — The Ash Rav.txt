@@ -1,0 +1,195 @@
+# #103 — **Elias Corven** — *The Ash Raven of Ironfall*
+
+> “Mercy’s a blade too — it just cuts slower.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 103
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — weathered calm, gruff warmth, pragmatic charm; the kind of man who doesn’t waste words but whose silence says plenty.
+* **Age:** 41
+* **Race:** **Human (Skarnov Lineage)** — lightly scarred skin, bronze tone, faint iron-gray shimmer in irises from years near forges.
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Monster hunter, mercenary captain, blacksmith-forge instructor
+* **Rank / Position:** **Field Commander of the Ironfall Company**
+* **Organization:** **Skarnov Mercenary League**
+* **Symbol:** Raven wing crossed over an anvil
+* **Title:** *The Ash Raven*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **British–Slavic**, rugged handsomeness; eyes like cold steel and a voice that sounds like it’s been through smoke and regret.
+
+**Eyes:** slate gray with iron flecks.
+**Skin:** weathered tan, light burns along forearms; smells faintly of metal and cedar oil.
+
+**Hair (randomized):** **Short**, **style:** undercut with messy crown, **texture:** coarse and wavy, **color:** dark ash-brown with streaks of silver.
+**Height:** 183 cm
+**Weight:** 82 kg
+**Body Build:** **Broad and solid**, muscular but lean; fighter’s frame kept through habit, not vanity.
+
+**Jewelry & Accessories (randomized):**
+**Black leather cord necklace** holding a broken raven pendant, **iron ring** on left thumb, **utility wristband** with rune etchings.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Functional tactical attire*
+
+Elias wears **charcoal leather armor** reinforced with blackened steel plates; worn but meticulously maintained.
+His **cloak** is dark gray, ragged at the edges, with a raven feather clasp.
+Off duty, he wears a **simple linen shirt**, sleeves rolled, exposing forearms marked by old burn scars — still looks intimidating even without armor.
+
+**Color Palette:** black / ash gray / steel / brown leather
+**Accents:** utilitarian, soldier’s elegance born of survival
+
+**Loadout:** greatsword (*Crow’s Lament*), handaxe, crossbow.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +3)×3 → **39 HP**
+* **AC:** **17** (chain + DEX)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 16 (+3)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Intimidation +3, Perception +3, Athletics +5, Survival +3
+* **Languages:** Common, Dwarvish
+
+**Fighter (Battle Master) 3:**
+
+* **Fighting Style:** Great Weapon Fighting
+* **Second Wind, Action Surge**
+* **Maneuvers (3d8):** *Precision Attack, Riposte, Trip Attack*
+* **Student of War:** Smith’s Tools proficiency
+
+**Attacks:**
+
+* **Greatsword (Crow’s Lament):** +5 to hit, 2d6+3 slashing (+1d8 with Maneuver)
+* **Crossbow:** +3 to hit, 1d8+1 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontliner / Controller / Mentor**
+* **Tactics:** Reads battlefield, punishes reckless foes with *Riposte*, commands positioning through presence alone.
+* **Signature Opener:** Steps forward as sparks rain from his blade, speaks: “Stand down… or burn.”
+* **Finisher:** *Trip Attack* followed by decisive two-handed swing — ends fights cleanly.
+
+**Damage Flavor:** embers trail behind his sword like dying birds of flame.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Stoic, dryly humorous, disciplined.
+* **Ideal:** Responsibility — “If you don’t own your mistakes, they’ll own you.”
+* **Bond:** His mercenary crew, especially his adopted daughter and apprentice smith.
+* **Flaw:** Feels unworthy of peace; too used to conflict.
+* **Quirk:** Sharpens his blade during conversation — subconsciously calming ritual.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ironfall Fortress, Broken Forge Pass, Ash Valleys**
+* **Threat Gradient:** **Stable → Wavering (forge resonance)**
+* **Encounter Framing:** **Monster contract**, **Escort mission**, **Siege leadership**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a decorated city guard, Elias left after refusing orders that cost innocent lives. He rebuilt himself as a sellsword who fights only for causes worth the blood spilled.
+
+* **Lifestyle:** minimalist; lives near his forge.
+* **Income:** contract hunts, weapon commissions.
+* **Relationships:** protective mentor toward Ryn Kael’veris; unspoken mutual trust with Lyra Thalassara.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes morality is like steel — forged under pressure, shaped by heat, and only real when tested.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Watching another apprentice die.
+* **Weaknesses:** Struggles with emotional openness.
+* **Strengths:** Tactical mind, endurance, unwavering composure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — calm dominance with quiet mentorship; gruff charm laced with dry humor.**
+
+> “You’re holding that blade like a broom. Here — let me fix your grip.”
+> He rarely raises his voice; a glance or smirk does the work.
+> When someone flirts, he chuckles lowly:
+> “Careful. You play with embers, you’ll burn something precious.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Once wielded an Echo-forged weapon that consumed his comrades; he still dreams of their voices in flame.
+* **Hooks:**
+
+  1. **Ash Memory:** Reforge *Crow’s Lament* to purge its Echo remnants.
+  2. **The Ember Debt:** The League wants him back for a mission he swore never to repeat.
+  3. **The Silent Forge:** His forge begins glowing at night — something answers his hammer strikes.
+
+## Tags: #Male #MiddleAged #Human #Fighter3 #BattleMaster #Skarnov #CR1 #Mercenary #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Elias rarely initiates — but when he does, it’s decisive.
+He’ll rest a hand on someone’s shoulder, steady, firm.
+
+> “Don’t rush. Trust the rhythm of your breath — not the chaos outside.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** greatsword (*Crow’s Lament*), crossbow
+  * **Armor:** chain mail
+  * **Tools:** smith’s tools, whetstone
+  * **Consumables:** oil flask ×2, stamina draught ×1
+  * **Misc:** raven pendant, mercenary badge
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 18) *or* **Great Weapon Master**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Ironfall Fortress / Ash Forge Valleys**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Type:** **Monster hunt**, **Escort mission**, **Siege defense**
+* **Affiliation:** **Ironfall Company**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+British Slavic male human fighter battle master 183cm short ash brown silver hair, slate gray eyes, rugged handsome build, charcoal leather armor black cloak, greatsword glowing embers, forge smoke background, calm stoic expression

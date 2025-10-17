@@ -1,0 +1,207 @@
+# #077 — **Mirella D’Ardenne** — *Roseblade Courtesan of the Azure Courts*
+
+> “Every secret blooms when watered with attention… and a touch of danger.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 077
+* **Gender (weighted random):** **Female (Type: รุ่นเพื่อน)** — vivacious, charming, confident; knows how to play, fight, and flirt in equal measure
+* **Age:** 24
+* **Race:** **Human (Valeronnes)** — warm complexion, faint glow in eyes under candlelight
+* **Class & Level:** **Bard (College of Whispers)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good (with pragmatic tendencies)**
+* **Profession:** Court entertainer, rumor broker, covert agent for noble disputes
+* **Rank / Position:** **Roseblade of the Azure Courts**
+* **Organization:** **Azure Petal Society** — a diplomatic guild of performers who extract information through charm
+* **Symbol:** Blue rose entwined with a dagger
+* **Title:** *The Perfumed Whisper*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Italian–French**, radiant and alluring with a playful tilt to her smile.
+
+**Eyes:** hazel green, catching gold under light.
+**Skin:** porcelain tone with a faint blush on cheeks and shoulders.
+
+**Hair (randomized):** **Long**, **style:** wavy with side-part and loose curls at the ends, **texture:** soft and voluminous, **color:** chestnut brown with wine-red undertones.
+**Height:** 168 cm
+**Weight:** 57 kg
+**Body Type:** **Curvy feminine**, dancer’s balance, natural sensual grace.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 92 – 68 – 96
+VALIDATION: • W/B = 0.739 → OK   • H/W = 1.41 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+Gold **hoop earrings**, **choker with sapphire teardrop**, **lace gloves**, and a **thin anklet** of rose links.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *B + D* (**Backless + Thigh Slit**)
+
+Her attire is a **midnight blue performance gown** with a **low open back**, thin straps that cross like vines over her shoulders. The fabric hugs her waist and opens in a **high slit** that reveals her toned left thigh with every movement.
+A small **rose dagger sheath** rests at her garter strap.
+
+The gown’s corset is embroidered with silver vines that shimmer subtly when she sings or casts.
+When she moves through candlelight, the backless cut and the slit make her seem half-mirage, half-danger.
+
+**Color Palette:** midnight blue / silver / rose gold
+**Accents:** elegant, suggestive, mysterious
+
+**Loadout:** Rose Dagger, whisper fan (focus), throwing needles, perfume vial (poisoned scent).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **15** (light armor + DEX + CHA focus cloak)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 13 (+1)** **WIS 11 (+0)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +4, CHA +6
+* **Skills:** Deception +6, Persuasion +6, Insight +4, Performance +6, Sleight of Hand +4, Stealth +4
+* **Languages:** Common, Elvish, Valeron High Cant, Thieves’ Cant
+
+**Bard (College of Whispers) 3:**
+
+* **Bardic Inspiration (d6)**
+* **Mantle of Whispers (steal persona of fallen)**
+* **Psychic Blades:** expend Inspiration to add 2d6 psychic damage
+* **Spellcasting (CHA DC 14, +6 atk)**
+
+  * **Cantrips:** *Vicious Mockery, Friends, Mage Hand*
+  * **Spells (6 known):** *Charm Person, Healing Word, Dissonant Whispers, Detect Thoughts, Suggestion, Enthrall*
+
+**Attacks:**
+
+* **Rose Dagger:** +4 to hit, 1d4+2 piercing (+2d6 psychic once/turn)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Manipulation / Debuff**
+* **Tactics:** Opens with *Dissonant Whispers* or *Charm Person*; uses *Psychic Blades* in melee to punish overconfidence.
+* **Signature Opener:** Walks forward as she sings a single chilling note—her dagger hums in the same tone.
+* **Finisher:** Steps behind enemy lines, whispers a name that isn’t theirs, and the mind buckles.
+
+**Damage Flavor:** invisible vines of rose petals lash around the target’s head before vanishing.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, teasing, self-assured; flirts as naturally as breathing.
+* **Ideal:** Knowledge — “Secrets are flowers. They bloom best when touched gently.”
+* **Bond:** Devoted to her guild-sisters; once lost one to Severance.
+* **Flaw:** Enjoys manipulation too much to always stop when she should.
+* **Quirk:** Brushes hair over her shoulder before every spell.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Azure Courts, Garden Stages, Ballroom of Whispers**
+* **Threat Gradient:** **Stable → Wavering (political tension)**
+* **Encounter Framing:** **Masquerade Intrigue**, **Diplomatic Duel**, **Ritual Banquet**
+
+---
+
+## 📜 Background & Lifestyle
+
+A courtesan trained in persuasion and poetry who secretly gathers intelligence for her order. Known to turn enemies into lovers — or informants — with a song and a smile.
+
+* **Lifestyle:** lavish; silks, perfumes, late-night parties.
+* **Income:** performances, patron gifts, coded intel sales.
+* **Relationships:** complicated flirtation with Diego Valcázar; rival to Selene Ardyn’s order.
+
+---
+
+## 🧩 Morals & Ethics
+
+She sees morality as theatre — kindness is valuable, cruelty is a tool, but sincerity is dangerous.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of a situation; being truly loved.
+* **Weaknesses:** Overconfidence, trust issues.
+* **Strengths:** Charisma, emotional manipulation, adaptability.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — flirtatious and competitive.**
+
+> “If I win, you owe me a drink. If you win… you still owe me a drink.”
+> She **makes others blush easily** by leaning close while whispering; her perfume is subtle but intoxicating.
+> When someone flirts back, she grins knowingly:
+> “Careful. You might actually make me like you.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a coded ledger of noble clients who fund covert missions.
+* **Hooks:**
+
+  1. **The Rose Ledger:** Protect her from assassins hunting her book of secrets.
+  2. **Petal Duel:** Perform a political “dance duel” with her to distract nobles during an Echo ritual.
+  3. **Perfume of Truth:** Recover a rare flower whose scent forces honesty — before the wrong hands get it.
+
+## Tags: #Female #PeerType #Human #Bard3 #Whispers #Valeronnes #CR1 #Performer #Spy #Seductive
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mirella thrives on eye contact. If ignored, she’ll *make* you notice — tracing a fingertip on your sleeve while pretending not to.
+
+> “Focus, darling. You’re losing tempo.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** rose dagger, hidden needle set
+  * **Armor:** glamoured gown (AC 15)
+  * **Tools:** disguise kit, musical instrument (harp or flute)
+  * **Consumables:** perfume vial, healing draught
+  * **Misc:** sapphire choker, coded fan, sealed letter
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 20) *or* **Actor**
+  * **New Spell:** *Calm Emotions*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Azure Courts, Petal Halls**
+* **Threat Gradient:** **Wavering → Echo Zone (during festivals)**
+* **Encounter Type:** **Masquerade Duel**, **Infiltration**, **Seduction Diplomacy**
+* **Affiliation:** **Azure Petal Society**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Italian French female human bard whispers college, 168cm, long wavy chestnut brown hair with red hue, hazel green eyes, backless midnight blue gown high slit, gold jewelry, seductive expression, candlelit ballroom background

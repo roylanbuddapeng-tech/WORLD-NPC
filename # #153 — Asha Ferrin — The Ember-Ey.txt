@@ -1,0 +1,200 @@
+# #153 — **Asha Ferrin** — *The Ember-Eyed Sleuth of Skarnov*
+
+> “Lies are just untempered steel. Heat them, and the truth bends into shape.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 153
+* **Gender (weighted random):** **Female (Type: รุ่นเพื่อน)** — ตรงไปตรงมา มีไหวพริบ กวนเล็กๆ แต่ห่วงเพื่อนร่วมทีมสุดใจ
+* **Age:** 24
+* **Race:** **Half-Beast (Mammal — fox hybrid)** — มนุษย์ ~85% มีลายขนจิ้งจอกจางๆ ที่ท้ายทอยและสะบัก ไอแอมเบอร์ในตาสว่างขึ้นเวลาโฟกัสร่องรอย
+* **Class & Level:** **Rogue (Inquisitive)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** นักสืบสนาม, นักวิเคราะห์อาคม, ล่าข่าวทุติยภูมิ
+* **Rank / Position:** **Field Inquisitor**
+* **Organization:** **Skarnov Arcana Consortium — Forensic Wing**
+* **Symbol:** เลนส์ขยายทาบทับเกียร์ไฟ
+* **Title:** *The Ember-Eyed Sleuth*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Western**, sharp investigator glamour with foxlike poise — looks like she could outstare a lie into confessing.
+
+**Eyes:** ember-amber with a subtle vulpine slit when the light hits.
+**Skin:** warm beige with soot-kissed freckles across the nose.
+
+**Hair (Hair Randomizer v2.7):** **Long**, **sub-style:** **High Ponytail** (top-weighted pick), **texture:** sleek straight, **color:** **black with copper ends** (forge-light sheen).
+**Height:** 170 cm
+**Weight:** 57 kg
+**Body Type:** **Fit-athletic** — runner’s legs, sculpted core, foxlike grace.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium-Large
+THREE_SIZES (B-W-H, cm): 94 – 66 – 99
+VALIDATION: • W/B = 0.702 → OK   • H/W = 1.50 → OK
+```
+
+**Jewelry & Accessories (randomized; Glasses v2.1 active):**
+**Silver-rim round glasses (arcane anti-glare)**, **steel pendant gear-sigil**, **thin data-bangle**, **anklet with muted chime**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Practical investigator coat set (non-revealing)*
+
+Asha wears a **charcoal trench vest** over a **fitted black waistcoat** and **slate shirt** with rolled sleeves.
+**High-waist tactical trousers** tuck into **lace-up ankle boots**; a **half-cloak** clips at the shoulder for ash-storms.
+Glove tips are runic for residue reading; a **magnifier-lens locket** hangs at the sternum.
+
+**Color Palette:** charcoal / copper / black / ember-orange accents
+**Accents:** forensic elegance, field-ready precision
+
+**Loadout:** rapier (*Truth-Tongue*), stiletto knife, evidence vials, resonance dust kit.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **25 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 14 (+2)** **INT 14 (+2)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills (incl. Expertise):** Investigation +6 (**Expertise**), Insight +5 (**Expertise**), Perception +3, Stealth +6, Sleight of Hand +6
+* **Languages:** Common, Dwarvish, Infernal
+
+**Rogue (Inquisitive) 3:**
+
+* **Ear for Deceit**, **Eye for Detail**, **Insightful Fighting** (ใช้ Insight แทน Sneak setup)
+* **Cunning Action**, **Sneak Attack (2d6)**
+
+**Attacks:**
+
+* **Rapier (Truth-Tongue):** +6 to hit, 1d8+4 piercing (+2d6 Sneak Attack when applicable)
+* **Stiletto (Thrown):** +6 to hit, 1d4+4 piercing, 20/60 ft
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Debuff Scout / Duel Analyst**
+* **Tactics:** สแกนจังหวะศัตรูด้วย **Insightful Fighting** แล้ววนแทงจุดอ่อน, ใช้ **Cunning Action** reposition
+* **Signature Opener:** โค้งคิ้วเล็กๆ ใส่คู่ต่อสู้ — แล้วแทงสวนตอนที่โกหกตัวเอง
+* **Finisher:** สาด “resonance dust” ให้เห็นรอยเท้าพลังงาน → แทงจบตามลาย
+
+**Damage Flavor:** คมมีดทิ้งเส้นประกายสีทองแดงเหมือนเศษสะเก็ดไฟปลิวในอากาศ
+
+---
+
+## 💬 Personality
+
+* **Traits:** ช่างสังเกต, กวนอย่างมีชั้นเชิง, อบอุ่นกับทีม
+* **Ideal:** ความจริงเพื่อความยุติธรรม — “รู้ให้พอ ก่อนจะตัดสิน”
+* **Bond:** ปกป้องช่างฝึกหัดนิติอาคมในหน่วย
+* **Flaw:** ชอบทำเองจนไม่ขอความช่วยเหลือ
+* **Quirk:** แตะขอบแว่นหนึ่งครั้งทุกครั้งก่อนถามคำถามสำคัญ
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Brass Archives, Soot Alleys, Ember Foundries**
+* **Threat Gradient:** **Stable → Wavering (heat/residue resonance)**
+* **Encounter Framing:** **สืบสวนคดีอาคม**, **ล่าต้นตอวัตถุต้องห้าม**, **สะกดรอย Severance**
+
+---
+
+## 📜 Background & Lifestyle
+
+เด็กกำพร้าโรงหลอมที่รอดเหตุหลอมระเบิด มาเป็นนักสืบสนามเพราะอ่าน “ลายไฟ” ได้เหมือนอ่านหนังสือ
+เชี่ยวชาญการไล่รอยคราบเวทบนโลหะและเขม่า
+
+* **Lifestyle:** หอพักเล็กๆ ใกล้โรงตีเหล็ก เต็มไปด้วยแฟ้ม
+* **Income:** เงินเดือนหน่วย + โบนัสคดีพิเศษ
+* **Relationships:** เคารพ Eiden Solmar, ชวน Renji Arcthel ไปสอนป้องกันตัวทีม, คุยงานกับ Cassian Veldt บ่อยครั้ง
+
+---
+
+## 🧩 Morals & Ethics
+
+เชื่อว่าความจริงช่วยคนมากกว่าการลงโทษ — แต่ยอมใช้เล่ห์เพื่อพาความจริงออกมา
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** พยานบริสุทธิ์ตายเพราะช้าเกินไป
+* **Weaknesses:** โหมงานจนอดนอน ทำให้ตัดสินใจเร็วเกิน
+* **Strengths:** วิเคราะห์ไว, อ่านสีหน้าคน, ต่อสู้แบบอ่านทาง
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — แซวเก่ง ทำให้คนอื่นเขินแบบเหมือนไม่ตั้งใจ**
+
+> “มองฉันผ่านเลนส์ก็ได้…แต่ตอบฉันด้วยความจริงนะ”
+> ยิ้มยักคิ้ว พร้อมขยับแว่นขึ้นเล็กน้อย
+> “ดีมาก เราเป็นทีมเดียวกันแล้ว…ใช่ไหม?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** เก็บ **“เขม่าแห่งคำลวง”** — ผงสะสมจากคำโกหกใหญ่ๆ ไว้ในขวดเดียวกัน (เอาไปตรวจ…หรือระเบิดจริยธรรม)
+* **Hooks:**
+
+  1. **Soot Ledger:** บันทึกเขม่าชี้ไปที่เจ้าหน้าที่ระดับสูงของกงสีหลอมเหล็ก
+  2. **Foxtrace:** ลายเวทสุนัขจิ้งจอกโบราณพาไปสู่คลัง Severance ที่กลืนเสียง
+  3. **Truth on Trial:** Asha ถูกใส่ร้าย — ต้องพิสูจน์ความจริงในศาลอาคมภายในหนึ่งคืน
+
+## Tags: #Female #FriendType #HalfBeast #Fox #Rogue3 #Inquisitive #Skarnov #CR1 #Investigator #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+ชอบ “ทำให้คนอื่นเขิน” ด้วยการจ้องตานานๆ แล้วเฉลยด้วยรอยยิ้มสั้นๆ
+
+> “ใจเต้นแรงเพราะกลัว…หรือเพราะฉัน?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier (*Truth-Tongue*), stiletto
+  * **Armor:** studded leather
+  * **Tools:** thieves’ tools, forensic kit, magnifier locket
+  * **Consumables:** resonance dust ×2, healing draught ×1
+  * **Misc:** case files, silver-rim glasses, data-bangle
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Observant**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Brass Archives / Soot Alleys**
+* **Threat Gradient:** **Stable → Wavering (residue resonance)**
+* **Encounter Type:** **คดีอาคมเร่งด่วน**, **สะกดรอยกลางโรงหลอม**, **ไต่สวนยามเที่ยงคืน**
+* **Affiliation:** **Skarnov Arcana Consortium — Forensic Wing**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Western female half-beast fox rogue inquisitive 170cm high ponytail straight black hair copper tips, silver glasses, charcoal coat, ember eyes, forensic alley backdrop

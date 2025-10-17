@@ -1,0 +1,203 @@
+# #072 — **Isidora Myrialis** — *Silver Laurel Hexblade of the Moon Courts*
+
+> “A promise is a blade; etiquette merely hides the edge.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 072
+* **Gender (weighted random):** Female (Type: รุ่นเพื่อน • **Refinement Modifier: ลุคลูกคุณหนู** — polished manners, soft perfume, poised grace)
+* **Age:** 24
+* **Race:** **Tiefling-kin (Valeronnes)** — near-human ~88%; delicate silver horns (2–3 cm) sweeping back along hairline, faint starlit motes in iris
+* **Class & Level:** **Warlock (Hexblade) 3** — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Neutral Good
+* **Profession:** Court liaison, ceremonial duelist, Echo-ward attaché
+* **Rank / Position:** **Silver Laurel Scion**
+* **Organization:** **House Myrialis — Moon Court Delegation**
+* **Symbol:** A laurel circlet crossing an eclipsed rapier
+* **Title:** *The Laurel’s Edge*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Greek–European** — marble-poised features, sun-kissed ivory skin, aristocratic poise with dancer’s balance.
+
+**Eyes:** pale amethyst with tiny star-specks that brighten when she invokes her patron.
+**Skin:** fair ivory with a cool pearl sheen along collarbones.
+
+**Hair (randomized — short feminine option):** **Short feminine**, sleek **jaw-length bob**, **texture:** straight and glossy, **color:** deep wine-black with subtle silver threads woven near the temples (to match the tiny horns).
+
+**Height:** 169 cm
+**Weight:** 57 kg
+**Body Type (randomized):** **Fit Graceful** — naturally sculpted lines, soft definition without overt musculature.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 72 – 106
+VALIDATION: • W/B = 0.735 → OK   • H/W = 1.47 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+Thin **silver circlet** tucked behind hornlets, **opal teardrop earrings**, a **laurel-engraved pendant** (hexblade focus), a **filigree data-band** on wrist, and a **delicate anklet** set with a single moon-pearl.
+
+---
+
+## 👗 Outfit (in English)
+
+She wears a **charcoal court-rapier coat** with silver piping, tailored to the waist over a **pearl-satin blouse** and **ink-black riding trousers**. A **half-cape** of midnight velvet drapes the left shoulder, clasped by a laurel brooch. Gloves are **white kid leather**, stitched with runic thread. Her heirloom rapier rests at the hip in a **silver-inlaid scabbard**.
+
+**Color Palette:** charcoal / pearl white / midnight velvet / silver
+**Accents:** refined nobility, understated luxury, duelist readiness
+
+**Loadout:** Hexblade rapier (bonded), dagger, signet seal, court writs, echo-silk handkerchief.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **22 HP**
+* **AC:** **15** (studded leather 12 + DEX +3)
+* **Speed:** 30 ft
+* **STR 9 (–1)** **DEX 16 (+3)** **CON 14 (+2)** **INT 12 (+1)** **WIS 11 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +2, CHA +5
+* **Skills:** Persuasion +5, Deception +5, Insight +2, Arcana +3, Acrobatics +5, Performance +5
+* **Languages:** Common, Elvish, Infernal, Valeron High Cant
+
+**Warlock 3 (Hexblade)**
+
+* **Hexblade’s Curse (1/rest)**, **Hex Warrior** (use CHA for weapon), **Pact Boon: Pact of the Blade**
+* **Invocations:** **Agonizing Blast**, **Devil’s Sight**
+* **Spellcasting (CHA DC 13, +5 attack) — Slots: 2 (2nd level)**
+
+  * **Cantrips:** *Eldritch Blast, Mage Hand, Minor Illusion*
+  * **Spells Known (4):** *Hex, Shield, Armor of Agathys, Mirror Image* (2nd-level slots)
+
+**Attacks**
+
+* **Hexblade Rapier (bonded):** +7 to hit (CHA), 1d8+3 piercing (+proficiency to damage vs cursed target via feature), on *Hex* add 1d6 necrotic to target
+* **Eldritch Blast:** +5 to hit, 1× **1d10+3** force (Agonizing Blast)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Agile Duelist / Debuff Striker**
+* **Tactics:** Opens with *Hex* or **Hexblade’s Curse**, then pressures with CHA-based rapier or **Eldritch Blast** from safety. *Mirror Image* for survivability; *Shield* in emergencies; *Armor of Agathys* before committing to melee.
+* **Signature Opener:** A polite bow; laurel pendant flashes, curse settles like moonlight frost.
+* **Finisher:** One precise thrust—silver petals of force scatter and fade.
+
+**Damage Flavor:** Eldritch rays look like thin laurel leaves of light spiraling to the target.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Courteous, witty, calmly competitive; refined but approachable.
+* **Ideal:** Stewardship — “Privilege must hold a shield, not a leash.”
+* **Bond:** Protective of her house’s retainers and scribes.
+* **Flaw:** Pride pricked easily by rudeness; will duel for etiquette.
+* **Quirk:** Corrects posture mid-conversation with a gentle tap to your shoulder.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Moon Courts, Silver Laurel Galleries, Crystal Promenades**
+* **Threat Gradient:** **Stable → Wavering** (Echo bleed during gala rites)
+* **Encounter Framing:** **Courtly Duel**, **Escort Through a Masked Ball**, **Contract Negotiation under Wardlight**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to House Myrialis, Isidora was trained to pair etiquette with edgework. When an ancestral blade began whispering during an Echo incursion, she answered—and the Hexblade pact drew its signature on her soul.
+
+* **Lifestyle:** Manicured minimalism; tea service at dusk, fencing at dawn.
+* **Income:** House stipend, court retainers’ fees, private dueling retainers.
+* **Relationships:** Friendly rivalry with Lucien D’Artois; quiet respect for Selene Ardyn; sends care parcels to Riko Hanamura’s shrine.
+
+---
+
+## 🧩 Morals & Ethics
+
+Nobility is conduct, not blood. She will kneel to bandage a rival if they fell with honor.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing self to the blade’s will.
+* **Weaknesses:** Limited area control; emotions flare at insults.
+* **Strengths:** Reliable single-target pressure, strong defenses, social leverage.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+“รุ่นเพื่อน” tone with **ลูกคุณหนู** polish — playful, precise diction, teasing formality.
+
+> “Careful, you’re slouching. I can’t duel someone who doesn’t respect their spine.”
+> Likes making others blush by straightening a collar or fixing a glove mid-talk:
+> “Better. Now you’re worth my time.”
+> When flustered herself, she clears her throat and smooths her cape twice.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** The laurel pendant is a fragment of a **Court Ward**—the Hexblade spirit wants it reunited, even if it breaks the Moon Courts’ balance.
+* **Hooks:**
+
+  1. **Masque of the Laurel:** Guard Isidora as she negotiates a truce at a masked Echo gala.
+  2. **The Blade’s Demand:** Retrieve the pendant’s twin before the Court Ward collapses.
+  3. **Etiquette of Steel:** She challenges a Severance agent to single combat; win or expose the faction’s hidden patron.
+
+## Tags: #Female #PeerType #TieflingKin #Warlock3 #Hexblade #Valeronnes #CR1 #Duelist #Noble #Refined
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Prefers **gentle corrections** and eye contact; a whisper at the ear:
+
+> “Breathe. The blade sings better when you do.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800** (total 2,700 → Level 4)
+* **Inventory Slots (tracker):**
+
+  * **Weapons:** bonded rapier, dagger
+  * **Armor/Clothes:** studded duelist coat, velvet half-cape
+  * **Tools:** calligraphy set, sealing kit
+  * **Consumables:** 1× healing draught, 1× potion of heroism, 1× echo-silk gauze
+  * **Misc:** signet seal, moon-pearl anklet, court writs
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **War Caster**
+  * **Invocation Swap:** consider **Mask of Many Faces** for court infiltration
+  * **Spell Picks:** *Misty Step* (via slot), *Hold Person* for duels
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Moon Court Galleries & Silver Laurel Halls**
+* **Threat Gradient:** **Wavering (Echo bleed through ceremony rites)**
+* **Encounter Type:** **Masked Duel**, **Diplomatic Escort**, **Ward Calibration**
+* **Affiliation:** **House Myrialis — Court Delegation Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Greek European female tiefling-kin noble hexblade, 169cm, short sleek bob wine-black hair, tiny silver horns, amethyst eyes, refined duelist coat, laurel pendant, silver rapier, moonlit ballroom atmosphere

@@ -1,0 +1,195 @@
+# #151 — **Kael Renlor** — *The Wandering Arcanist of Ardent Vale*
+
+> “The world burns so easily… I only give it a little encouragement.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 151
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — calm, charismatic, mysterious charm; moves and speaks like a man who’s lived too long among both books and battlefields.
+* **Age:** 38
+* **Race:** **Half-Elf (Ardent Vale Lineage)** — 80% human; faint golden veins across his temples glow faintly when spellcasting.
+* **Class & Level:** **Wizard (Evocation)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Arcane researcher, mercenary scholar, and relic hunter
+* **Rank / Position:** **Vale Scholar of the Wandering Flame**
+* **Organization:** **Ardent Archives**
+* **Symbol:** A broken candle with a flame still alight
+* **Title:** *The Wandering Arcanist*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Western–Japanese hybrid**, mature and composed; a scholar’s poise blended with subtle ruggedness.
+
+**Eyes:** amber with faint golden sparks when casting.
+**Skin:** warm beige with faint tan marks from travel.
+
+**Hair (Hair Randomizer v2.0):** **Medium-long**, **style:** **low tied ponytail with stray bangs**, **texture:** slightly wavy, **color:** **black fading to deep auburn at the tips.**
+**Height:** 181 cm
+**Weight:** 75 kg
+**Body Build:** **Lean muscular**, refined lines of strength under traveler’s attire.
+
+**Jewelry & Accessories (randomized):**
+**Thin spectacles (often hung from collar)**, **arcane focus ring**, **red-gold pendant**, **simple leather-bound charmbook**, **silver cuff engraved with sigils.**
+
+---
+
+## 👗 Outfit (in English)
+
+Kael wears a **charcoal-gray long coat** with faint red embroidery along the seams, layered over a **high-collar black tunic** belted with a crimson sash.
+His **pants are travel-cut**, dusted and patched, tucked into **knee-high boots** that gleam faintly from enchantment.
+His **spellbook** rests under one arm, bound in fireproof scales.
+
+**Color Palette:** black / crimson / bronze / gray
+**Accents:** scholar-warrior hybrid, measured intensity, restrained authority
+
+**Loadout:** *Arcane Staff (Emberwake)*, spellbook, charm sigil pouch, minor revolver focus.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +2)×3 → **22 HP**
+* **AC:** **15** (mage armor or light coat + DEX)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, History +5, Insight +3, Perception +3, Investigation +5
+* **Languages:** Common, Elvish, Draconic, Infernal
+
+**Wizard (Evocation) 3:**
+
+* **Arcane Tradition:** Evocation — *Sculpt Spells*
+* **Spell Save DC:** 13, **Spell Attack:** +5
+* **Spellbook includes:**
+
+  * *Cantrips:* *Fire Bolt, Mage Hand, Prestidigitation, Minor Illusion*
+  * *1st-level:* *Mage Armor, Shield, Detect Magic, Burning Hands*
+  * *2nd-level:* *Scorching Ray, Mirror Image, Misty Step*
+
+**Attacks:**
+
+* **Staff (Emberwake):** +4 to hit, 1d6+2 bludgeoning
+* **Fire Bolt:** +5 to hit, 2d10 fire
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Blaster / Tactical Controller**
+* **Tactics:** Opens with *Misty Step* to high ground, channels *Scorching Ray* for surgical strikes.
+* **Signature Opener:** *Fire Bolt* arcing across his palm as his eyes glow with faint sorrow.
+* **Finisher:** *Evocation Overload* — casts *Burning Hands* enhanced by flame runes; dust and ash swirl in a ring.
+
+**Damage Flavor:** golden fire instead of red, burning slow but leaving molten script on surfaces.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Soft-spoken, dry wit, confident without arrogance.
+* **Ideal:** Knowledge — “Fire teaches patience. Burn too fast and you learn nothing.”
+* **Bond:** His late wife’s spellbook — the source of his discipline.
+* **Flaw:** Reluctant to open up; hides grief behind calm professionalism.
+* **Quirk:** Lights his pipe with *Prestidigitation* even when not smoking.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Ardent Vale — Dustward Pass, Ember Sanctum, The Wandering Tower**
+* **Threat Gradient:** **Stable → Wavering (resonant ash)**
+* **Encounter Framing:** **Ritual rescue**, **Ruined temple expedition**, **Wandering duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former academy prodigy turned wanderer after his research was seized by the Ardent Council.
+He now studies the nature of memory-bound flames.
+
+* **Lifestyle:** solitary, tidy but travel-worn.
+* **Income:** bounty work, arcane commissions.
+* **Relationships:** mentor to Lyra Thalassara in early years; occasional advisor to Lucien Valeir.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes knowledge is sacred when shared—dangerous when hoarded.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Forgetting his wife’s voice.
+* **Weaknesses:** Emotional detachment.
+* **Strengths:** Strategic brilliance, emotional resilience, focused spellcraft.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — calm, composed, quietly magnetic.**
+
+> “Most people mistake silence for distance. I prefer to listen until the words matter.”
+> He looks up from his book, eyes flicking to you briefly.
+> “You’re still here. Good. Then I’m not talking to ghosts again.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His wife’s soul may be sealed inside his spellbook.
+* **Hooks:**
+
+  1. **The Ember Memory:** Flames begin whispering her name.
+  2. **Cinders of the Past:** A rival wizard tries to claim her soul-bound tome.
+  3. **Ashen Pact:** Kael’s fire starts taking physical form — a reflection of his guilt.
+
+## Tags: #Male #MiddleAged #HalfElf #Wizard3 #Evocation #ArdentVale #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kael **flusters others through composed intimacy** — quiet voice, unwavering gaze, gentle correction.
+
+> “Your incantation was fine… but you breathed it wrong. Here—listen.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** staff (Emberwake), dagger
+  * **Armor:** none (Mage Armor)
+  * **Tools:** calligraphy set, arcane focus
+  * **Consumables:** potion of healing ×1, scroll of *Detect Magic* ×1
+  * **Misc:** pipe, spellbook, gold-thread bookmark
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **Elemental Adept (Fire)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Ardent Vale / Ember Sanctum / Dustward Pass**
+* **Threat Gradient:** **Stable → Wavering (flame resonance)**
+* **Encounter Type:** **Ritual protection**, **Temple ruin**, **Flame anomaly**
+* **Affiliation:** **Ardent Archives**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Western Japanese male half-elf wizard evocation 181cm medium-long black hair auburn tips low ponytail, amber eyes, dark travel coat red sash, staff glowing flame, mature expression, ruins background, ember sparks

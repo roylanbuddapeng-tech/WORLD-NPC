@@ -1,0 +1,197 @@
+# #163 — **Eiden Voss** — *The Glassblade Apprentice of Valeronnes*
+
+> “If you think before you draw, you’ve already lost. The thinking happens in the breath between blades.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 163
+* **Gender (weighted random):** **Male (Type: รุ่นเพื่อน)** — พูดจาง่าย มีอารมณ์ขัน ปากไวแต่จริงใจ ลักษณะหนุ่มข้างบ้านที่ดูเท่แบบธรรมชาติ
+* **Age:** 23
+* **Race:** **Half-Elf (Valeronnes Lineage)** — ผิวขาวซีดอมทอง ปลายหูเรียวยกสูงเล็กน้อย เส้นเลือดเรืองแสง faint blue เมื่อเร่งพลัง
+* **Class & Level:** **Fighter (Eldritch Knight)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** นักดาบศิษย์สำนักคุ้มกัน, ผู้ช่วยครูฝึกเวท-ดาบ
+* **Rank / Position:** **Apprentice Blademage**
+* **Organization:** **Valeronnes Glassguard Academy**
+* **Symbol:** ใบดาบแทรกกลางกระจกแตกรูปเรขาคณิต
+* **Title:** *The Glassblade Apprentice*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Western hybrid**, handsome in a clean-cut, approachable way; calm posture with sharp eyes when serious.
+
+**Eyes:** soft hazel with subtle violet shimmer.
+**Skin:** fair with warm undertone.
+
+**Hair (Masculine Hair Randomizer v2.7):** **Medium length**, **sub-style:** **Low ponytail**, **texture:** straight and layered with gentle movement, **color:** **light ash brown with lilac tint**.
+**Height:** 178 cm
+**Weight:** 72 kg
+**Body Build:** **Athletic elegant**, fencer’s lean muscle, shoulders squared.
+
+**Jewelry & Accessories (30% glasses rule; result: no glasses):**
+A thin chain around wrist carrying a glass charm, rune-studded glove on sword hand, black leather necklace with shard pendant.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Standard duelist uniform (non-revealing)*
+
+Eiden wears a **navy-blue duelist’s jacket**, high-collared with silver-trim edging, tailored close at the waist.
+A **white undershirt** sits beneath, sleeves rolled up during practice; his trousers are **fitted black wool**, tucked into light combat boots.
+He carries a **glass-forged longsword**, its blade faintly transparent under the light.
+
+**Color Palette:** navy / white / silver / faint violet glow
+**Accents:** balance of discipline and youth
+
+**Loadout:** glass longsword, dagger, minor spell focus band.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +1)×3 → **29 HP**
+* **AC:** **17** (chain shirt + DEX)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 14 (+2)** **CON 12 (+1)** **INT 14 (+2)** **WIS 10 (+0)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +3
+* **Skills:** Athletics +4, Arcana +4, Acrobatics +4, Insight +2, Perception +2
+* **Languages:** Common, Elvish, Valeronnes Cant
+
+**Fighter (Eldritch Knight) 3:**
+
+* **Weapon Bond (Glassblade)**
+* **Spellcasting (INT DC 12, +4 atk)**
+
+  * *Cantrips:* *Booming Blade, Prestidigitation, Mage Hand*
+  * *1st-level:* *Shield, Absorb Elements, Magic Missile*
+* **Fighting Style:** Dueling
+* **Second Wind, Action Surge**
+
+**Attacks:**
+
+* **Glassblade (Longsword):** +6 to hit, 1d8+4 slashing (1d10+4 two-handed)
+* *Booming Blade* adds 1d8 thunder on move-trigger
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Hybrid Duelist / Defender**
+* **Tactics:** Opens with *Booming Blade* to punish movement; uses *Shield* to deflect strikes, countering with disciplined rhythm.
+* **Signature Opener:** “Focus. Draw.” — a single horizontal line, lightning cracks through air behind him.
+* **Finisher:** *Action Surge + Booming Blade* combo — strikes twice, energy echo detonates if target flees.
+
+**Damage Flavor:** blade hums like vibrating glass, sending tiny motes of light scattering.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, mildly cocky, witty but loyal.
+* **Ideal:** Mastery — “Skill is a language everyone understands.”
+* **Bond:** Protects his class’s junior duelist circle.
+* **Flaw:** Overestimates his endurance in fights.
+* **Quirk:** Tilts his head slightly before answering — reads people like a duel.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glassguard Courtyards, Duel Arena, Lecture Yards**
+* **Threat Gradient:** **Stable → Wavering (resonant wards)**
+* **Encounter Framing:** **Duel training**, **Magical sabotage investigation**, **Escort assignment**
+
+---
+
+## 📜 Background & Lifestyle
+
+Trained since childhood in Glassguard traditions — swordplay mixed with precise resonance magic.
+Known for breaking his mentor’s record in the “Seven Steps of Echo.”
+
+* **Lifestyle:** dormitory near Valeronnes academy.
+* **Income:** academy stipend + small commissions from guard work.
+* **Relationships:** close training partner to Ilyana Varelle; teasing friendship with Cassian’s apprentices.
+
+---
+
+## 🧩 Morals & Ethics
+
+Thinks honor is earned through precision — mercy should be as deliberate as a strike.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Shattering his bonded blade — symbol of his pride.
+* **Weaknesses:** Reckless under pressure.
+* **Strengths:** Agile defense, coordination, control of field.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — เต็มไปด้วยแววตาท้าทาย แกล้งพูดเล่นแต่จริงใจสุด ๆ**
+
+> “Come on, don’t frown like that. You’ll throw my rhythm off.”
+> เขายักคิ้วเล็กน้อย ยื่นมือออกมา
+> “Let’s see if your blade sings as loud as your voice.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His bonded sword occasionally reflects not him — but a shadow with delayed movements.
+* **Hooks:**
+
+  1. **Echo Blade:** A copy of his sword appears in a rival’s hands.
+  2. **Glass Trial:** His instructor challenges him to fight his own reflection.
+  3. **The Missing Lesson:** A page torn from his dueling codex hints at a forbidden stance.
+
+## Tags: #Male #FriendType #HalfElf #Fighter3 #EldritchKnight #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Eiden **flusters others through closeness and humor** — mock sparring, leaning in too close.
+
+> “You blinked. That means I win… right?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** glass longsword, dagger
+  * **Armor:** chain shirt
+  * **Tools:** smith’s tools (maintenance), book of forms
+  * **Consumables:** potion of healing ×1, ward salve ×1
+  * **Misc:** charm bracelet, glass shard pendant, academy token
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 16) *or* **War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Glassguard Courtyards / Duel Arena**
+* **Threat Gradient:** **Stable → Wavering (resonant wards)**
+* **Encounter Type:** **Training duel**, **Ward failure**, **Defense escort**
+* **Affiliation:** **Glassguard Academy**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Western male half-elf fighter eldritch knight 178cm low ponytail light ash brown hair lilac tint, hazel violet eyes, navy duelist jacket silver trim, glass sword, confident smirk, academy courtyard background

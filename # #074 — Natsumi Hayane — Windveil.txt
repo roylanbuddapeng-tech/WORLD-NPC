@@ -1,0 +1,202 @@
+# #074 — **Natsumi Hayane** — *Windveil Duel Dancer of the Lotus Mirage*
+
+> “If the wind catches your blade, follow it. It already knows the way.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 074
+* **Gender (weighted random):** Female (**Type: ทอมบอย — แบบ 2. มีกล้ามเนื้อแบบผู้หญิงออกกำลังกาย ห้าวๆ**)
+* **Age:** 22
+* **Race:** **Half-Elf (Thalassaran lineage)** — human-like 88%, soft aqua glint in irises, faint pointed ears
+* **Class & Level:** Fighter (Battle Master) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Sword-dancer, pit duelist, temple bodyguard
+* **Rank / Position:** **Windveil Blade of the Lotus Mirage**
+* **Organization:** **Thalassara Duel Guild — Lotus Mirage Division**
+* **Symbol:** Twin lotus petals crossing a rising wind spiral
+* **Title:** *The Windveil Dancer*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean fusion**, athletic and striking; like a martial artist with pop-idol confidence.
+
+**Eyes:** storm-gray with teal flecks.
+**Skin:** soft tan with a light sheen of bronze along collarbones.
+
+**Hair (randomized):** **Short masculine cut**, **texture:** slightly wavy, **style:** tousled undercut, **color:** ash brown with a single white streak over her right sideburn.
+**Height:** 172 cm
+**Weight:** 61 kg
+**Body Type:** **Muscular Feminine** — well-toned abs, firm arms, visible shoulder lines, confident stance.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 67 – 91
+VALIDATION: • W/B = 0.761 → OK   • H/W = 1.36 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+Small silver **ear cuff** with wind rune, **black cord choker**, **woven bracelet** of blue hemp (friendship charm), and **anklet** of steel rings that clink softly during movement.
+
+---
+
+## 👗 Outfit (in English)
+
+Wears a **navy sleeveless combat top** with white lotus embroidery, **reinforced trousers** slit at the sides for freedom of motion, and **arm wraps** covered in prayer glyphs. Over her left shoulder hangs a **short half-cape** of sky-blue silk with a white edge that flutters dramatically during spins.
+
+A pair of **short dual swords** rest crossed at her lower back, hilts wrapped in sea-green leather.
+
+**Color Palette:** navy / sky blue / white / silver
+**Accents:** athletic, practical, graceful
+
+**Loadout:** Twin short swords (*Windbite* and *Veilrend*), daggers, rope, smoke pellets.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **34 HP**
+* **AC:** **17** (studded leather 12 + DEX +3 + Defensive Fighting Style +2)
+* **Speed:** 35 ft
+* **STR 13 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, CON +4
+* **Skills:** Acrobatics +6, Athletics +3, Perception +3, Intimidation +2, Performance +2
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Fighter (Battle Master) 3:**
+
+* **Fighting Style:** Two-Weapon Fighting
+* **Second Wind**, **Action Surge**
+* **Superiority Dice:** 4d8; save DC 14
+* **Maneuvers:** *Trip Attack, Riposte, Precision Attack*
+
+**Attacks:**
+
+* **Shortsword (Windbite):** +6 to hit, 1d6+4 slashing
+* **Shortsword (Veilrend):** +6 to hit, 1d6+4 slashing (off-hand: +1d6 if bonus action)
+* **Trip Attack:** add 1d8 damage + STR save (DC 14) or prone
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duel Skirmisher / Mobile Striker**
+* **Tactics:** Opens with twin sword flurry, uses *Trip Attack* to ground faster foes, then *Riposte* when attacked. *Action Surge* for devastating follow-up.
+* **Signature Opener:** Dashes in mid-spin, cape flaring like wings, slashes both blades downward in mirrored arcs.
+* **Finisher:** Sweeps opponent’s legs and ends with crossed blades at the neck.
+
+**Damage Flavor:** Air currents follow her movement, slicing faint wind trails.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Playful, confident, competitive; loves a fair fight.
+* **Ideal:** Freedom — “Wind doesn’t ask permission to move.”
+* **Bond:** Sworn sisterhood with another duelist, Mina Soryu.
+* **Flaw:** Overconfident; hates retreating even when strategic.
+* **Quirk:** Winks before every duel—“Luck’s on your side now.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Lotus Mirage Arenas, River Courts**
+* **Threat Gradient:** **Wavering → Echo Zone (during festivals or duels)**
+* **Encounter Framing:** **Arena Duel**, **Street Skirmish**, **Training Exhibition**
+
+---
+
+## 📜 Background & Lifestyle
+
+A half-elf street performer who fought her way into Thalassara’s elite dueling guild. Uses her fame to mentor other young duelists. Her movements combine martial precision with dancer’s grace.
+
+* **Lifestyle:** Shared apartment above a teahouse; trains at dawn.
+* **Income:** Arena duels, sponsorships, occasional temple work.
+* **Relationships:** Partner-in-duel rivalry with Lucien D’Artois; big-sister energy toward Riko Hanamura.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that strength should look beautiful—every fight a form of art.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being restrained or immobilized.
+* **Weaknesses:** Impulsive; ignores orders for personal thrill.
+* **Strengths:** Reflexes, agility, charisma in movement.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย (ห้าวแต่มีเสน่ห์)** — blunt, teasing, protective, openly physical.
+
+> “You’re shaking. That’s cute—don’t worry, I’ll go easy on you.”
+> Likes **making others blush** by leaning too close during practice or fixing their stance with her hands.
+> When someone flirts back, she smirks:
+> “Ha! Didn’t think you had the guts.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her twin blades resonate with Echo frequencies—she hears faint whispers during storms.
+* **Hooks:**
+
+  1. **Storm Duel:** A rogue Echo duelist challenges her mid-performance.
+  2. **Wind’s Memory:** Retrieve the original scabbards that stabilize her weapons’ resonance.
+  3. **Breeze of Defiance:** Help her stop an illegal betting ring exploiting Echo duels.
+
+## Tags: #Female #Tomboy #HalfElf #Fighter3 #BattleMaster #Thalassara #CR1 #Duelist #Athletic
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Enjoys roughhousing playfully — shoulder bumps, mock punches. If she laughs mid-battle, it’s genuine admiration.
+
+> “You hit hard! I like that.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** twin short swords, daggers
+  * **Armor:** studded leather
+  * **Tools:** dueling rope, cleaning kit
+  * **Consumables:** 2× stamina elixirs, 1× smoke pellet
+  * **Misc:** anklet charm, cape clasp, guild badge
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Dual Wielder**
+  * **New Maneuver:** *Disarming Attack*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Lotus Mirage Arenas**
+* **Threat Gradient:** **Wavering → Echo Zone (duel resonance)**
+* **Encounter Type:** **Arena Duel**, **Heist Interruption**, **Performance Battle**
+* **Affiliation:** **Thalassara Duel Guild — Lotus Mirage Tier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean female half-elf fighter tomboy muscular build, 172cm, short tousled ash-brown hair with white streak, storm-gray eyes, sleeveless navy combat outfit, twin swords, sky-blue half-cape, athletic stance, arena background, confident smirk

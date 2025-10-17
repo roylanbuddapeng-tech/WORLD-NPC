@@ -1,0 +1,208 @@
+# #144 — **Seraphine Dhalis** — *The Glass Harbinger of Valeronnes*
+
+> “You hear that shatter? That’s your illusion of control breaking.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 144
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — confident, razor-tongued, protective toward her juniors; a woman who has survived politics and prefers duels to diplomacy.
+* **Age:** 28
+* **Race:** **Elf (Valeronnes Lineage)** — ~90% human; porcelain skin with faint prismatic shimmer under sunlight, slightly elongated ears, and crystalline irises.
+* **Class & Level:** **Sorcerer (Divine Soul)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Court sorcerer, tactical consultant, protective mentor
+* **Rank / Position:** **Second Glass Enchantress of the Radiant Choir**
+* **Organization:** **Valeronnes Council of Luminous Arts**
+* **Symbol:** A prism refracting a beam into seven hues
+* **Title:** *The Glass Harbinger*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Japanese**, poised and magnetic — like a highborn lady who never needed to raise her voice to be obeyed.
+
+**Eyes:** crystal gray, refracting light like glass.
+**Skin:** pale porcelain with faint warm undertone; nearly luminescent around her neck and wrists.
+
+**Hair (Hair Randomizer v2.0):** **Long**, **style:** **half-up with elegant braid crown**, **texture:** straight and glossy, **color:** **platinum white with iridescent pink highlights.**
+**Height:** 174 cm
+**Weight:** 59 kg
+**Body Type:** **Elegant hourglass** — strong posture, every gesture measured.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 97 – 68 – 102
+VALIDATION: • W/B = 0.701 → OK   • H/W = 1.50 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Crystal circlet**, **drop earrings of white quartz**, **bracelet of mirrored facets**, **anklet with faint chiming beads**, **thin silver chain across her back**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *B + D* (**open back gown + high slit**)
+
+Seraphine wears a **white crystalline gown**, its fabric shifting like liquid glass.
+The back is open to reveal faint luminescent veins; the skirt is slit high for movement, revealing **silver-threaded tights**.
+Across her shoulders lies a **sheer capelet**, dotted with reflective beads that mimic constellations.
+When she casts, light refracts through her like living glass.
+
+**Color Palette:** white / silver / rose-gold / lilac
+**Accents:** divine precision, radiant control, celestial poise
+
+**Loadout:** *Prism Wand*, *holy sigil ring*, *luminescent crystal orb.*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +2)×3 → **21 HP**
+* **AC:** **14** (Mage Armor + DEX)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 13 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, CHA +5
+* **Skills:** Insight +3, Persuasion +5, Arcana +3, Religion +3, Perception +3
+* **Languages:** Common, Elvish, Celestial
+
+**Sorcerer (Divine Soul) 3:**
+
+* **Divine Magic (Good Alignment):** Cleric list access
+* **Metamagic:** *Twinned Spell, Subtle Spell*
+* **Font of Magic:** 3 Sorcery Points
+* **Spells (CHA DC 13, +5 atk):**
+
+  * *Cantrips:* *Sacred Flame, Light, Prestidigitation*
+  * *1st (4 slots):* *Bless, Shield, Guiding Bolt*
+  * *2nd (2 slots):* *Mirror Image, Hold Person*
+
+**Attacks:**
+
+* **Sacred Flame:** DC 13 DEX save, 2d8 radiant
+* **Guiding Bolt:** +5 to hit, 4d6 radiant
+* **Wand strike:** +4 to hit, 1d6+2 bludgeoning
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Controller / Damage hybrid**
+* **Tactics:** *Bless* allies, *Mirror Image* early, then *Hold Person* on enemy leaders.
+* **Signature Opener:** calm smile — *Guiding Bolt* flares into seven colors.
+* **Finisher:** *Twinned Guiding Bolt*, refracting light through her crystal focus, blinding enemies.
+
+**Damage Flavor:** refracted beams of light that sound like distant chimes.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calm, composed, commanding — patient with those who earn her respect.
+* **Ideal:** Discipline — “Power without grace is noise.”
+* **Bond:** Protects the weak from political exploitation.
+* **Flaw:** Cannot fully trust anyone she hasn’t tested in battle.
+* **Quirk:** Never blinks when talking — unsettlingly focused.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glass Citadel, Choir Chambers, Reflection Gardens**
+* **Threat Gradient:** **Stable → Wavering (light resonance)**
+* **Encounter Framing:** **Assassination defense**, **Court intrigue**, **Light ritual gone wrong**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a court prodigy who led the Radiant Choir through a coup attempt.
+Now serves as tactical overseer for divine operations.
+
+* **Lifestyle:** opulent chamber, meticulously organized workspace.
+* **Income:** royal stipend, tactical commissions.
+* **Relationships:** mentor to Selene Vaelor, rival of Mira D’Laen, trusted ally to Eiden Solmar.
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes justice must be elegant — cold, unshakable, beautiful.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her composure; emotional collapse in front of subordinates.
+* **Weaknesses:** Suppresses empathy too well; slow to forgive.
+* **Strengths:** Tactical precision, radiant control, unflappable leadership.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — teasing, composed dominance, faint maternal affection.**
+
+> “Straighten your back. The world bows to poise, not power.”
+> A slow smirk follows.
+> “You flinched. I saw it. Don’t — it ruins the aesthetic.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** She carries a cracked divine crystal in her heart — it hums when Severance magic draws near.
+* **Hooks:**
+
+  1. **The Cracked Light:** Her crystal begins to sing uncontrollably.
+  2. **The Mirror War:** Assassins mimic her reflection to infiltrate the Choir.
+  3. **Sevenfold Prayer:** Her old student vanished after attempting to copy her spell.
+
+## Tags: #Female #SeniorType #Elf #Sorcerer3 #DivineSoul #Valeronnes #CR1 #Controller #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Seraphine enjoys **making others squirm with calm attention** — long silences, quiet smiles, knowing glances.
+
+> “You talk too much when nervous. Breathe. And do try not to melt under my stare.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** prism wand
+  * **Armor:** Mage Armor (from spell)
+  * **Tools:** jeweler’s kit, choir sigil focus
+  * **Consumables:** holy crystal vial ×1, potion of clarity ×1
+  * **Misc:** choir badge, cracked crystal fragment
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Glass Citadel / Reflection Gardens**
+* **Threat Gradient:** **Stable → Wavering (light resonance)**
+* **Encounter Type:** **Court intrigue duel**, **Light ritual defense**, **Assassin infiltration**
+* **Affiliation:** **Radiant Choir**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Japanese female elf sorcerer divine soul 174cm long platinum white hair braid crown, crystal eyes, open-back white gown high slit, luminous aura, calm confident expression, glass reflections

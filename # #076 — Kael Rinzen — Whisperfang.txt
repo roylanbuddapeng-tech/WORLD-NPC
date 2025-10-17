@@ -1,0 +1,195 @@
+# #076 — **Kael Rinzen** — *Whisperfang Duelist of the Twilight Bazaar*
+
+> “A fight isn’t about strength. It’s about rhythm… and knowing exactly when to stop the music.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 076
+* **Gender (weighted random):** **Male (Type: เฟมบอย)** — elegant, androgynous, sweet-voiced; flirts playfully, always aware of his own charm
+* **Age:** 21
+* **Race:** **Half-Elf (Thalassaran–Skarnov blend)** — humanlike 85%, silver glint in pupils, small pointed ears with faint bronze edges
+* **Class & Level:** **Rogue (Swashbuckler)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** Duel performer, thief-for-hire, “information dancer”
+* **Rank / Position:** **Twilight Bazaar Bladesman**
+* **Organization:** **Silent Cabaret** — underworld guild disguised as a street performance troupe
+* **Symbol:** A mask pierced by a rapier through a crescent moon
+* **Title:** *The Velvet Knife*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Japanese hybrid**, smooth-skinned, fine-boned, eyes that glitter like stage lights.
+
+**Eyes:** pale gold with violet ring around the iris.
+**Skin:** creamy with subtle glow along cheekbones and chest.
+
+**Hair (randomized):** **Medium**, **style:** layered soft waves tucked behind ears, **texture:** silky, **color:** smoky lavender with gradient silver ends.
+**Height:** 158 cm (**Femboy height restriction active**)
+**Weight:** 48 kg
+**Body Build:** **Slim Feminine** — graceful curves but slender muscle tone; fluid body language.
+
+**Jewelry & Accessories (randomized):**
+Crimson **choker ribbon**, **thin chain earrings** that glimmer in movement, **silver wrist-bands**, and a **tiny bell anklet** that rings faintly with every step.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *E + D* (**Underbust Crop + High Slit Leg**)
+
+Kael wears a **black silk duelist ensemble** designed more for distraction than defense — a **tight crop top** ending just beneath the chestline, held together by gold laces that reveal a subtle shadow beneath the bust. His **jacket**, cropped even shorter, flares at the shoulders in theatrical fashion.
+
+Below, a **split sash-skirt** wraps around his hips and falls diagonally, exposing one **bare thigh** with each step. Beneath it, thin black shorts hug close to his skin.
+Long stockings with silver garter bands complete the look, paired with knee-high boots.
+
+**Color Palette:** obsidian black / crimson / gold accents
+**Accents:** alluring, performance-driven, sharp silhouette
+
+**Loadout:** Rapier (*Whisperfang*), dagger, smoke dust, silver mask, throwing needles hidden in sash.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **23 HP**
+* **AC:** **16** (leather + DEX +4 + finesse parry reaction)
+* **Speed:** 30 ft
+* **STR 9 (–1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +2
+* **Skills:** Acrobatics +6, Performance +5, Deception +5, Persuasion +5, Sleight of Hand +6, Stealth +6
+* **Languages:** Common, Elvish, Thalassaran Cant, Skarnov code
+
+**Rogue (Swashbuckler) 3:**
+
+* **Fancy Footwork**, **Rakish Audacity (add CHA to Initiative)**
+* **Cunning Action (Dash/Disengage/Hide)**
+* **Sneak Attack (2d6)**
+
+**Attacks:**
+
+* **Rapier (Whisperfang):** +6 to hit, 1d8+4 piercing + 2d6 Sneak Attack (if conditions met)
+* **Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duel Skirmisher / Distraction Fighter**
+* **Tactics:** Weaves movement and taunts to trigger opportunity misses; uses *Fancy Footwork* to retreat after a hit.
+* **Signature Opener:** Spins his rapier as the bell at his ankle rings — one flash of silver, one soft laugh.
+* **Finisher:** Drives blade across a silk line, slicing both fabric and pride.
+
+**Damage Flavor:** attacks leave a faint shimmer like perfume drifting in air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Flirty, witty, mischievous; alternates between affectionate and cutting.
+* **Ideal:** Freedom — “Life’s too short for subtlety, darling.”
+* **Bond:** Devoted to the Silent Cabaret troupe; sees them as chosen family.
+* **Flaw:** Plays with danger for thrill.
+* **Quirk:** Twirls his choker ribbon when nervous.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Twilight Bazaar, Veiled Alley Stage**
+* **Threat Gradient:** **Wavering → Echo Zone (during night performances)**
+* **Encounter Framing:** **Heist Performance**, **Spy Duel**, **Backstage Ambush**
+
+---
+
+## 📜 Background & Lifestyle
+
+Kael once danced in noble houses as an entertainer, until he stole from one too many guests. Now, he blends performance with espionage, moving between the worlds of stage and shadow.
+
+* **Lifestyle:** bohemian luxury; sleeps on silken couches, never the same place twice.
+* **Income:** performance tips + “discrete retrieval” contracts.
+* **Relationships:** friendly rivalry with Lucien D’Artois; occasional mission partner with Isidora Myrialis.
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes morality is a stage act: “As long as no one bleeds, everything’s a performance.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Genuine affection — it ruins the game.
+* **Weaknesses:** Distractible, reckless.
+* **Strengths:** Agility, improvisation, manipulation.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เฟมบอย tone — sensual, teasing, calculatedly coy.**
+
+> “You’re staring too much. Want me to make it worth your while?”
+> Kael loves **making others flustered** — brushes fingers under a chin, winks mid-fight, or leans in whisper-close to deliver a taunt.
+> If someone flirts back, he grins like a cat:
+> “Ah, so the mouse bites back. I like that.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** He carries a coded melody — a song that, when whistled, can unlock any Silent Cabaret safehouse.
+* **Hooks:**
+
+  1. **Dance of Knives:** Kael asks for protection during a performance turned assassination.
+  2. **The Silver Curtain:** Retrieve the stolen score that holds the melody-code.
+  3. **Perfume of Shadows:** The scent he wears hides a mind-altering toxin—he’s running out.
+
+## Tags: #Male #Femboy #HalfElf #Rogue3 #Swashbuckler #Thalassara #CR1 #Performer #Flirt #Sensual
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+If he catches someone blushing, he deliberately invades personal space:
+
+> “Your pulse just jumped. I could almost count it.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, dagger
+  * **Armor:** light leather jacket
+  * **Tools:** disguise kit, thieves’ tools
+  * **Consumables:** perfume flask, smoke dust, silver mask
+  * **Misc:** choker ribbon, bell anklet, pocket mirror
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+  * **Equipment Upgrade:** Enchanted rapier with glamoured hilt
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Twilight Bazaar, Cabaret Alleys**
+* **Threat Gradient:** **Wavering → Echo Zone (festival nights)**
+* **Encounter Type:** **Duel Performance**, **Espionage Infiltration**, **Echo Stage Event**
+* **Affiliation:** **Silent Cabaret — Shadow Performers**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Japanese male femboy half-elf rogue swashbuckler, 158cm, medium smoky lavender hair silver tips, gold-violet eyes, slim feminine build, black and gold crop top underbust outfit with thigh slit sash, silver rapier, stage lights, confident smirk, seductive pose

@@ -1,0 +1,191 @@
+# #121 — **Riven Kaldra** — *The Iron Fang of Skarnov*
+
+> “Mercy is a luxury. Steel’s the only language worth speaking.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 121
+* **Gender (weighted random):** **Male (Type: เมะ)** — intense presence, sharp eyes, confident movements; calm brutality under discipline.
+* **Age:** 27
+* **Race:** **Half-Beast (Wolf Lineage)** — 80% human with faint fur texture on forearms, short fangs, amber eyes reflecting torchlight.
+* **Class & Level:** **Barbarian (Path of the Zealot)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** Mercenary, shock trooper, monster hunter
+* **Rank / Position:** **Iron Fang Captain (independent)**
+* **Organization:** **None (freelancer; former Skarnov Iron Vanguard)**
+* **Symbol:** Two crossed fangs over a flame mark
+* **Title:** *The Iron Fang*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Slavic–Japanese**, commanding and feral yet handsome in a raw way; a man who feels alive even covered in blood and smoke.
+
+**Eyes:** wolf-amber with faint glow under adrenaline surge.
+**Skin:** light tan with scattered scars, especially across knuckles and shoulder.
+
+**Hair (randomized):** **Medium**, **style:** shaggy wild cut with underlayer braids, **texture:** thick coarse strands, **color:** dark steel-gray with black roots.
+**Height:** 182 cm
+**Weight:** 82 kg
+**Body Build:** **Athletic muscular**, soldier’s frame with wide chest and defined arms.
+
+**Jewelry & Accessories (randomized):**
+**Wolf tooth pendant**, **iron ear cuff**, **scarred bracer with etched runes**, **bone charm tied to belt**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Light battle gear*
+
+Riven wears **open-front fur-lined vest armor**, showing his shoulders and upper chest marked with faint runic scars.
+His pants are reinforced leather, torn and patched from countless fights, and a **belt-hung greatsword sheath** sits diagonally behind him.
+He looks like a storm barely holding itself in check.
+
+**Color Palette:** charcoal / brown / bone white / silver
+**Accents:** savage yet deliberate, worn aesthetic
+
+**Loadout:** greatsword (*Rendclaw*), handaxe, hunting knife.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 → **42 HP**
+* **AC:** **15** (unarmored defense)
+* **Speed:** 40 ft
+* **STR 17 (+3)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Survival +3, Intimidation +3, Perception +3
+* **Languages:** Common, Beast Speech (limited to wolves)
+
+**Barbarian (Path of the Zealot) 3:**
+
+* **Divine Fury (+1d6+2 radiant dmg)**, **Warrior of the Gods**, **Reckless Attack**, **Rage (3/day)**, **Danger Sense**
+
+**Attacks:**
+
+* **Greatsword (Rendclaw):** +5 to hit, 2d6+3 slashing (+1d6+2 radiant when raging)
+* **Handaxe:** +5 to hit, 1d6+3 slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Striker / Berserker Commander**
+* **Tactics:** Opens with Reckless Attack to draw focus; cleaves lines while roaring commands.
+* **Signature Opener:** bellows, eyes flash gold, *Rage* ignites white fire along scars.
+* **Finisher:** *Rendclaw* overhead cleave shatters enemy guard in one brutal motion.
+
+**Damage Flavor:** white-gold light surges from wounds as his blood burns like spirit fire.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Direct, loyal, bold to recklessness.
+* **Ideal:** Survival — “You live by the kill or you die pretending you’re above it.”
+* **Bond:** Still wears his fallen brother’s insignia.
+* **Flaw:** Too proud to retreat.
+* **Quirk:** Cracks his neck before charging; growls under breath when irritated.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Wastelands, Iron Vanguard camps, Echo ruins**
+* **Threat Gradient:** **Wavering → Echo (feral resonance)**
+* **Encounter Framing:** **Beast hunt**, **Border skirmish**, **Rescue under siege**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born from a long line of beast-warriors bred for war in Skarnov.
+He broke ranks after seeing corruption in command — now fights for gold, not flags.
+
+* **Lifestyle:** restless; sleeps outdoors more than indoors.
+* **Income:** bounty hunting, monster contracts.
+* **Relationships:** rivals Ren Kaizel in combat renown; flirted briefly with Seraphine Dhalis years ago.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes morality is for people who can afford peace — he just keeps his word and kills cleanly.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Becoming truly feral; losing control to the beast within.
+* **Weaknesses:** Overly protective of the weak; drinks too much.
+* **Strengths:** Strength, endurance, primal charisma.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — commanding, teasingly rough, protective to the point of flustering.**
+
+> “You’re trembling. Don’t. If I wanted to hurt you, you wouldn’t be standing.”
+> He grins wolfishly, leaning closer.
+> “But if you want to spar… I can make it feel like dancing.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His “Rendclaw” sword houses the fang of a divine wolf — it occasionally howls in his sleep.
+* **Hooks:**
+
+  1. **Hunt of the Pale Fang:** The divine wolf’s kin stalks Skarnov again.
+  2. **Feral Echo:** His blood begins resonating with ancient beast spirits.
+  3. **The Lost Vanguard:** His old commander seeks revenge for his desertion.
+
+## Tags: #Male #MehType #HalfBeast #WolfLineage #Barbarian3 #Zealot #Skarnov #CR1 #Mercenary #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Riven uses smirks and proximity as dominance — confident but never cruel.
+
+> “You keep looking up at me like that, I’ll start thinking you want to be caught.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** greatsword, handaxe
+  * **Armor:** none (unarmored)
+  * **Tools:** hunter’s kit, whetstone
+  * **Consumables:** liquor flask ×1, beast salve ×2
+  * **Misc:** wolf tooth pendant, bone charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 19) *or* **Great Weapon Master**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Iron Vanguard Remnants / Echo Wastes**
+* **Threat Gradient:** **Wavering → Echo (feral resonance)**
+* **Encounter Type:** **Beast hunt**, **Mercenary skirmish**, **Echo outbreak**
+* **Affiliation:** **Former Iron Vanguard**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Slavic Japanese male half-beast wolf barbarian zealot 182cm medium steel-gray black hair amber eyes muscular build, fur vest armor open chest, greatsword on back, rugged scars, wolf aura, confident smirk, battlefield dusk lighting

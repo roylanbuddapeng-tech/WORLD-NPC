@@ -1,0 +1,201 @@
+# #092 — **Meilin Zhou** — *Petal-Step Monk of the Blossoming Veil*
+
+> “You can’t chase the wind… but you can dance with it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 092
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — bright, earnest, full of nervous energy; hides her competence behind bashful smiles.
+* **Age:** 19
+* **Race:** **Human (Eastern Lineage — Blossom Veil Sect)**
+* **Class & Level:** **Monk (Way of the Open Hand)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Traveling acolyte, tea courier, martial messenger
+* **Rank / Position:** **Junior Petal-Step Disciple**
+* **Organization:** **Blossoming Veil Monastery, Eastern Range**
+* **Symbol:** A single falling petal drifting over concentric ripples
+* **Title:** *The Petal-Step Monk*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Chinese–Japanese**, delicate yet lively beauty; innocence tinged with quiet discipline.
+
+**Eyes:** warm hazel-brown, full of sincerity.
+**Skin:** fair with a rosy undertone, smooth from constant training.
+
+**Hair (randomized):** **Medium length**, **style:** side braid looped and tied with silk ribbon, **texture:** straight with subtle volume, **color:** dark brown with auburn shine.
+**Height:** 160 cm
+**Weight:** 52 kg
+**Body Type:** **Slender athletic**, soft curves from balance training and daily kata.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 86 – 66 – 92
+VALIDATION: • W/B = 0.767 → OK   • H/W = 1.39 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Prayer bead bracelet**, **silk ribbon hair tie**, **lotus pendant** tucked into robe collar.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *A + F* (**Standard Fit + High Slit Mobility Cut**)
+
+Meilin wears a **loose martial tunic** of **rose-white linen**, cinched at the waist by a **crimson obi**, slit high along the sides for movement.
+Her **sleeves** shorten at the forearm, showing graceful muscle lines.
+She goes barefoot except during travel, feet wrapped with white cloth.
+Her **training scarf** bears faint cherry-petal embroidery that flutters with every spin.
+
+**Color Palette:** rose-white / crimson / pale gold
+**Accents:** serene, floral, unassuming grace
+
+**Loadout:** bare fists, quarterstaff, herbal satchel.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (DEX + WIS + monk defense)
+* **Speed:** 40 ft
+* **STR 11 (+0)** **DEX 17 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, DEX +5
+* **Skills:** Acrobatics +5, Insight +4, Medicine +4, Stealth +5, Performance +3
+* **Languages:** Common, Elvish, Eastern Dialect
+
+**Monk (Way of the Open Hand) 3:**
+
+* **Martial Arts (1d6)**, **Ki Points (3)**, **Flurry of Blows**, **Patient Defense**, **Step of the Wind**, **Deflect Missiles**, **Open Hand Technique**
+* **Unarmored Movement +10 ft**
+
+**Attacks:**
+
+* **Unarmed Strike:** +5 to hit, 1d6+3 bludgeoning
+* **Quarterstaff:** +5 to hit, 1d8+3 bludgeoning (versatile)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Speed Control / Disabler / Support Striker**
+* **Tactics:** Closes quickly with *Step of the Wind*, disables via *Flurry of Blows* (knock prone/push/deny reactions).
+* **Signature Opener:** Spins through petals—one breath, three strikes.
+* **Finisher:** Leaps high and heel-drops, sending petals scattering like rain.
+
+**Damage Flavor:** strikes produce faint drifting petals or soft air bursts.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Polite, shy, eager to prove herself; apologizes after hitting enemies too hard.
+* **Ideal:** Harmony — “Strength means knowing when not to strike.”
+* **Bond:** Her master, a patient old monk who calls her “Little Leaf.”
+* **Flaw:** Flusters easily around compliments; loses focus when teased.
+* **Quirk:** Tends to bow too often, even mid-fight.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Eastern Range — Blossom Veil Temple, Wind Paths**
+* **Threat Gradient:** **Stable → Wavering (Echo distortions in training fields)**
+* **Encounter Framing:** **Escort through mountain paths**, **Monastic spar**, **Pilgrim defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born a merchant’s daughter, Meilin left city life to train in the Veil after an Echo storm destroyed her hometown bridge. She found peace through movement — and anxiety whenever praised.
+
+* **Lifestyle:** simple and disciplined; trains at dawn, collects herbs at dusk.
+* **Income:** temple donations and courier fees.
+* **Relationships:** Treats Aria Velnaris as an admired “big sister”; looks up to Selene Arctis as divine perfection.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes violence should bloom only as self-defense; healing follows every strike.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing her master, open crowds.
+* **Weaknesses:** Easily flustered, low confidence in leadership.
+* **Strengths:** Reflexes, agility, empathy, humble focus.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — shy affection, hero worship, easily embarrassed.**
+
+> “I—I wasn’t staring! Just… studying your stance!”
+> She **blushes at proximity**, often stammers if praised, and unconsciously mimics gestures of those she respects.
+> When she gathers courage:
+> “If you ever need a training partner… I’ll do my best. Please don’t hold back.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her “petal strikes” sometimes produce real spectral petals — she may be channeling latent divine resonance.
+* **Hooks:**
+
+  1. **The Blooming Fist:** Help her control her power before Echo spirits manifest fully.
+  2. **Courier in Danger:** Escort her through an ambush on her pilgrimage.
+  3. **The Master’s Silence:** Her teacher vanishes mid-meditation; she seeks aid discreetly.
+
+## Tags: #Female #JuniorType #Human #Monk3 #OpenHand #EasternRange #CR1 #MartialArtist #Kind
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+She’s **easy to fluster** — proximity or teasing makes her cover her face and bow repeatedly.
+
+> “You—you can’t just say things like that before a fight!”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff
+  * **Armor:** none (Monk Defense)
+  * **Tools:** herbal pouch, prayer beads
+  * **Consumables:** healing tea ×2, incense roll ×1
+  * **Misc:** silk ribbon, lotus charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 19) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Eastern Range / Blossom Veil Temple Grounds**
+* **Threat Gradient:** **Stable → Wavering (Resonant Petal Wind)**
+* **Encounter Type:** **Training Duel**, **Escort Pilgrimage**, **Monastic Rescue**
+* **Affiliation:** **Blossoming Veil Sect**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Chinese Japanese female human monk 160cm medium dark brown hair side braid auburn shine, hazel eyes, slender athletic body, rose-white martial tunic crimson obi high slit, barefoot, cherry petals swirl, serene smile, mountain temple background

@@ -1,0 +1,199 @@
+# #073 — **Diego Valcázar** — *Brasscurrent Battle Smith of the Canal Forge*
+
+> “Fix the pattern and the world hums along. Break it—and I’ll be there with a wrench and a warhammer.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 073
+* **Gender (weighted random):** Male (Type: วัยกลางคน — สุขุม มั่นคง มีเสน่ห์แบบผู้ใหญ่ ดูแลทีมเหมือนหัวหน้าช่าง)
+* **Age:** 36
+* **Race:** Human (Skarnov–Thalassara ผสม — มนุษย์ 100%; เส้นเลือดใต้ผิวมีประกายทองจางๆ จากไอโลหะ)
+* **Class & Level:** Artificer (Battle Smith) 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Lawful Good
+* **Profession:** วิศวกรกิลด์, ช่างรบภาคสนาม, ผู้พิทักษ์คาราวาน
+* **Rank / Position:** **Canal Forge Field Marshal (Junior)**
+* **Organization:** **Skarnov Iron Wardens – Canal Forge Detachment** (ประจำการที่ท่าเรือ Thalassara)
+* **Symbol:** เฟืองทองพันด้วยสายฟ้าสีน้ำเงิน
+* **Title:** *The Brasscurrent*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** American–Latin blend — confident craftsman charisma; sun-warm skin and sharp, kind eyes.
+
+**Eyes:** dark hazel with tiny metallic flecks.
+**Skin:** olive-bronze, soot-kissed along forearms and jaw.
+
+**Hair (randomized):** **Length: Medium-Short**, **Style: textured side-swept crop**, **Texture: wavy**, **Color: raven black with copper streaks at the temples** — a few rebellious curls over the brow.
+
+**Height:** 180 cm
+**Weight:** 78 kg
+**Body Build:** **Lean Agile** — ไหล่ได้รูป กล้ามเนื้อชัดกำลังดี แบบคนทำงานภาคสนามคล่องตัว
+
+**Jewelry & Accessories (randomized):**
+Steel cog pendant, leather data-band with tool runes, single brass ear stud, and an anklet of knotted wire (luck charm).
+
+---
+
+## 👗 Outfit (in English)
+
+Wears a **charcoal workcoat** reinforced with **brass quilting** over a **navy utility vest**, **dark canvas trousers**, and **steel-toed boots**. A **fold-out tool-harness** carries pliers, arc-wire, and rune chalk. His **shield-gauntlet** locks to the forearm; the **runic warhammer** holsters at the hip.
+
+**Color Palette:** charcoal / brass / navy / copper
+**Accents:** practical, rugged, workshop-elegant
+
+**Loadout:** infused warhammer, shield-gauntlet, tinker’s kit, alchemist’s supplies, portable claw-drone case.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **18** (scale mail 14 + shield 2 + Defensive infusion +2)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 12 (+1)** **CON 14 (+2)** **INT 16 (+3)** **WIS 10 (+0)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Investigation +5, Arcana +5, Perception +2, Smith’s Tools +5, Tinker’s +5, Medicine +2
+* **Languages:** Common, Dwarvish, Skarnov Cant, Thalassaran Cant
+
+**Artificer (Battle Smith) 3:**
+
+* **Magical Tinkering, Infuse Item (3 infusions)**
+
+  * *Repeating Shot* (light crossbow on Steel Defender’s mount or sidearm)
+  * *Enhanced Defense* (+1 AC on armor/shield)
+  * *Enhanced Weapon* (+1 to hit/dmg on warhammer)
+* **Battle Ready:** ใช้ **INT** โจมตีด้วยอาวุธเวท
+* **Steel Defender** (AC 15; HP 2 + 5×Artificer level = 17; PB +2; Force-Empowered Rend 1d8+PB force; Repair (mending); Reaction: Deflect Attack)
+* **Spellcasting (INT DC 13, +5 attack)**
+
+  * **Cantrips:** *Mending, Guidance, Thorn Whip*
+  * **1st (4 slots):** *Cure Wounds, Faerie Fire, Shield of Faith*
+  * **2nd (2 slots):** *Lesser Restoration, Web*
+
+**Attacks**
+
+* **Infused Warhammer (+1, Battle Ready):** +6 to hit (INT), 1d8+4 bludgeoning (versatile 1d10)
+* **Light Crossbow (Repeating Shot):** +5 to hit, 1d8+3 piercing, no reload, creates its own ammo
+* **Steel Defender – Rend:** +4 to hit, 1d8+2 force
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Support / Control Engineer**
+* **Tactics:** เปิดด้วย *Faerie Fire* หรือ *Web* รั้งศัตรู; ส่ง **Steel Defender** เข้ากันแนวหน้าใช้ *Deflect Attack* ลดดาเมจเพื่อน; Diego ตีด้วยค้อน INT สูงและกดดันพื้นที่ด้วยเกราะ/โล่เสริมอินฟิวชัน
+* **Signature Opener:** เคาะค้อน 3 ครั้ง—เฟืองบนเกราะสว่างขึ้น, Steel Defender คลี่ขาเหล็กกระโจนออก
+* **Finisher:** ดันศัตรูเข้ามุม *Web* แล้ว **Rend** + ค้อนอัปพ์คิเนติกใส่เฮดจ็อบ
+
+**Damage Flavor:** การฟาดแต่ละครั้งปล่อยประกายทองรูปเสี้ยวเฟืองที่สลายไปในอากาศ
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุขุม ช่างสังเกต อบอุ่นแบบพี่ชายข้างบ้าน
+* **Ideal:** Service — “เครื่องมือถูกสร้างเพื่อช่วยชีวิต ไม่ใช่แค่ชนะศึก”
+* **Bond:** รับอุปถัมภ์เด็กช่างกำพร้าในท่าเรือ
+* **Flaw:** แบกงานเองมากไป; ยอมเหนื่อยแทนทีมเสมอ
+* **Quirk:** เคาะจังหวะ 1–1–2 ด้วยปลายนิ้วเวลาใช้สมาธิ
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara Docks — Canal Forge, Brass Quay, Echo-Repair Yards**
+* **Threat Gradient:** **Wavering → Echo Zone** (งานซ่อมกลางคอนเสิร์ต/ขบวนพิธี)
+* **Encounter Framing:** **Ritual Escort**, **Breach Repair Under Fire**, **Caravan Hold-the-Line**
+
+---
+
+## 📜 Background & Lifestyle
+
+ช่างตีเหล็กจาก Skarnov ที่ย้ายมาตั้งทีมซ่อมเร่งด่วนใน Thalassara หลังเหตุ Echo ทำสะพานพัง เขาคิดอาวุธ–เครื่องมือให้ใช้ได้ทั้งซ่อมและรบ “มือซ้ายขันน็อต มือขวากันตาย”
+
+* **Lifestyle:** เรียบง่าย ห้องทำงานรกอย่างมีระบบ
+* **Income:** ค่าจ้างกิลด์ + โบนัสงานเสี่ยง + ซ่อมอาวุธเอกชน
+* **Relationships:** ร่วมงานกับ Hajime Kuroda บ่อย; เป็นที่พึ่งของ Riko และทีมนักดนตรีสนาม
+
+---
+
+## 🧩 Morals & Ethics
+
+เครื่องมือทุกชิ้นต้องรับผิดชอบต่อผลลัพธ์ เขาไม่ยอมขายสิ่งที่ฆ่ามากกว่าช่วย
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** ซ่อมพลาดในวินาทีคับขัน
+* **Weaknesses:** เวทโจมตีวงกว้างจำกัด; ระยะประชิดยืดเยื้อจะล้า
+* **Strengths:** ป้องกันทีมเยี่ยม, field control (*Web*, Defender), ซ่อม/รักษาฉุกเฉิน
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+โทน “วัยกลางคน” — นิ่ง อบนุ่ม อธิบายสั้นๆ
+
+> “ยกแขนขึ้นนิด—ใช่ แบบนั้น เกราะจะรับแรงแทนไหล่คุณ”
+> ชอบ **ทำให้คนอื่นเขินแบบไม่รู้ตัว** ด้วยน้ำเสียงทุ้มใจเย็นและการจับตำแหน่งอุปกรณ์อย่างมั่นใจ
+> ถ้ามีคนแซว เขายิ้มมุมปาก: “ระวังใจเต้นแรงเกิน เซ็นเซอร์ผมจะอ่านผิดนะ”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Steel Defender ของเขามี “แกนความทรงจำ” บันทึกเสียงหัวเราะเด็กช่างทีมเก่าที่เสียไป
+* **Hooks:**
+
+  1. **Gear of Memory:** ช่วย Diego ดึงข้อมูลจากแกนก่อนที่ Echo จะกัดกร่อน
+  2. **Bridge Under Fire:** ซ่อมสะพาน Moon Canal ระหว่างถูกโจมตีแบบเวลาจำกัด
+  3. **The Saboteur’s Wrench:** ใครบางคนใช้แบบพิมพ์อินฟิวชันของเขาไปทำระเบิด—ตามล่าสูตรกลับมา
+
+## Tags: #Male #MiddleAged #Human #Artificer3 #BattleSmith #Skarnov #Thalassara #CR1 #SupportFrontliner #Engineer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+เขาชอบ **ปลอบใจด้วยมือเปื้อนน้ำมัน**: “ทำดีมากแล้ว เดี๋ยวที่เหลือให้ผมจัดการ” ถ้าได้รับคำชมตรงๆ จะเกาศีรษะ พลางบ่นเบาๆ ว่า “งานทีม ไม่ใช่ของผมคนเดียว”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots (suggested tracker):**
+
+  * **Weapons:** infused warhammer, light crossbow (repeating)
+  * **Armor:** scale mail + shield-gauntlet (Enhanced Defense)
+  * **Tools:** tinker’s kit, smith’s tools, alchemist’s supplies
+  * **Consumables:** 2× healing draughts, 1× repair oil, 1× web charge amp
+  * **Misc:** cog pendant, wire anklet charm, blueprint rolls
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 18) *or* **Shield Master**
+  * **Infusion Options:** *Returning Weapon* (throwing hammer) หรือ *Mind Sharpener*
+  * **Spell Pick:** *Aid* หรือ *Heat Metal*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara Docks & Canal Forge**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **Siege Repair**, **Convoy Defense**, **Ritual Stabilization**
+* **Affiliation:** **Skarnov Iron Wardens — Canal Forge Detachment**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Latin American American male human artificer battlesmith, 180cm, medium wavy black hair copper streaks, hazel eyes, lean agile build, charcoal workcoat, brass runic warhammer, shield gauntlet, steel defender hound, canal forge background

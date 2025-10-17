@@ -1,0 +1,205 @@
+# #090 — **Aria Velnaris** — *Silver-Winged Scout of the Wind Verge*
+
+> “I’ll take the sky— you take the ground. Let’s see who finds trouble first.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 090
+* **Gender (weighted random):** **Female (Type: ทอมบอย — athletic variant)** — confident, short-tempered charm; speaks like one of the boys, but smiles like a challenge.
+* **Age:** 24
+* **Race:** **Half-Beast (Harpy Lineage)** — ~85% human with light down along her shoulders, faint wing crests behind arms, and silver-feathered streaks trailing from her hair.
+* **Class & Level:** **Ranger (Beast Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Sky-scout, courier, aerial duelist
+* **Rank / Position:** **Wind Verge Recon Captain**
+* **Organization:** **Free Company of the Sky Talons**
+* **Symbol:** A winged compass with a crescent through it
+* **Title:** *Silver-Winged Scout*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–Thai**, sun-bright skin, fit and lively, with cheeky confidence in every motion.
+
+**Eyes:** steel gray, sharp and bright like tempered metal.
+**Skin:** tanned golden with faint silver shimmer across collarbones and forearms.
+
+**Hair (randomized):** **Short masculine cut**, **style:** tousled pixie with longer bangs swept sideways, **texture:** coarse straight with light windswept motion, **color:** ash brown with silver streaks near tips.
+**Height:** 170 cm
+**Weight:** 60 kg
+**Body Type:** **Athletic fit**, toned abs, defined arms and legs, compact strength; posture loose and ready.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 91 – 70 – 96
+VALIDATION: • W/B = 0.769 → OK   • H/W = 1.37 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Wind-talisman necklace**, **bracelet woven from flight feathers**, and a **single feather earring** that spins with each step.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *A* (**Standard Tactical Fit — no revealing cuts**)
+
+Practicality wins over fashion: Aria wears a **tight black undersuit** covered by **lightweight leather plates**, reinforced across shoulders and ribs. Her **short-cut jacket** bears silver stitching of feathers and a sky crest on the back.
+A **utility belt** carries throwing knives, climbing cords, and rations.
+Her **boots** are tall and jointed for grip while climbing or gliding.
+
+**Color Palette:** charcoal / silver / navy blue
+**Accents:** utilitarian, sky-scout sharpness, minimal glamour
+
+**Loadout:** longbow, twin daggers, hunting hawk companion (*Stormfeather*).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft, **Glide** (half-fall distance, no damage with wing momentum)
+* **STR 13 (+1)** **DEX 17 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +5
+* **Skills:** Acrobatics +5, Perception +4, Survival +4, Athletics +3, Nature +2, Intimidation +2
+* **Languages:** Common, Auran
+
+**Ranger (Beast Master) 3:**
+
+* **Favored Foe (flying/fiend)**, **Natural Explorer (mountains, cliffs)**
+* **Primal Companion (Stormfeather)** — hawk with upgraded HP and attack
+* **Spellcasting (WIS DC 12, +4 atk)**
+
+  * **1st (3 slots):** *Hunter’s Mark, Jump, Speak with Animals, Cure Wounds*
+
+**Attacks:**
+
+* **Longbow:** +5 to hit, 1d8+3 piercing
+* **Dagger:** +5 to hit, 1d4+3 slashing; thrown 20/60 ft
+* **Stormfeather (hawk):** +4 to hit, 1d4+2 slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Skirmisher / Scout Controller**
+* **Tactics:** Opens with *Hunter’s Mark*, climbs or glides for position, attacks from elevation. Uses hawk to distract casters or mark weak points.
+* **Signature Opener:** *“Stormfeather, eyes on that one!”* (hawk dive as arrow flies).
+* **Finisher:** A tandem strike — dagger flick + hawk dive + one clean shot.
+
+**Damage Flavor:** silver-feather streaks of wind trail her arrows; the hawk’s cry harmonizes like a whistle through mountains.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Direct, mischievous, hates standing still; loves teasing rivals.
+* **Ideal:** Freedom — “Cages rust the wings of the soul.”
+* **Bond:** Her hawk Stormfeather — they’ve never spent a night apart.
+* **Flaw:** Overconfident; hates taking orders from anyone slower.
+* **Quirk:** When excited, feathers at her shoulders puff slightly.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Aurelion Cliffs — Wind Verge, Sky Bridges, Cloud Passes**
+* **Threat Gradient:** **Wavering → Echo Zone (air distortions)**
+* **Encounter Framing:** **High-cliff pursuit**, **Aerial ambush**, **Delivery under storm siege**
+
+---
+
+## 📜 Background & Lifestyle
+
+A courier raised in a cliffside outpost, Aria learned flight before speech. When the Wind Verge Guard needed someone reckless enough to dive through lightning storms, she volunteered before the sentence ended.
+
+* **Lifestyle:** early riser, thrives outdoors.
+* **Income:** bounties, courier jobs, survival contests.
+* **Relationships:** drinking buddy with Lioren Vale, sparring partner of Jin Hoshikawa.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that the wind belongs to everyone. Authority should be earned, not inherited.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Enclosed spaces, losing her hawk companion.
+* **Weaknesses:** Reckless, emotionally dense about affection.
+* **Strengths:** Agility, courage, loyalty, fast tactical thinking.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย tone — brash affection, flirty through rivalry.**
+
+> “You keeping up, or do I need to carry you too?”
+> She enjoys *making others blush by pretending she didn’t mean to flirt*: rough pats on the shoulder, crooked grins, or brushing dirt from someone’s cheek with her thumb.
+> If she’s the one flustered, she growls and looks away:
+> “Shut up— it’s just the wind making my face hot.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her hawk’s egg was infused with Echo energy — Stormfeather may evolve into a sentient creature.
+* **Hooks:**
+
+  1. **Sky Echo Hunt:** Aria needs help tracking the Echo pulse that changed her hawk.
+  2. **Courier’s Oath:** Deliver a relic across an aerial battlefield.
+  3. **Storm’s Edge:** Help her face her fear after nearly crashing mid-flight.
+
+## Tags: #Female #Tomboy #HalfBeast #Harpy #Ranger3 #BeastMaster #Aurelion #CR1 #Scout #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+She **makes others blush accidentally** — confident grin, teasing jabs, physical proximity.
+If complimented:
+
+> “Ha! Don’t say stuff like that unless you can back it up in a race.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longbow, twin daggers
+  * **Armor:** leather + flight harness
+  * **Tools:** climber’s kit, aviary gear
+  * **Consumables:** sky rations ×3, feather oil ×1
+  * **Misc:** wind talisman, hawk token
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 19) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Aurelion Cliffs / Wind Verge Skyline**
+* **Threat Gradient:** **Wavering → Echo Zone (wind resonance)**
+* **Encounter Type:** **High-speed chase**, **Mountain skirmish**, **Sky courier defense**
+* **Affiliation:** **Sky Talons Free Company**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese Thai female harpy half-beast ranger 170cm short pixie ash brown hair silver streaks, steel gray eyes, athletic toned body, tactical scout outfit black and silver leather, wing crests, bow and hawk companion, wind cliff background, confident grin

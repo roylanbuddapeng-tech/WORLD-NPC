@@ -1,0 +1,192 @@
+# #135 — **Ren Kaizel** — *The Duskfang Duelist of Valeronnes*
+
+> “Every promise has a price. I just happen to pay mine in blood and poetry.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 135
+* **Gender (weighted random):** **Male (Type: เมะ)** — composed, confident, and magnetic; his voice carries calm authority but his smirk always promises mischief.
+* **Age:** 26
+* **Race:** **Half-Elf (Valeronnes Lineage)** — 90% human appearance with faint amethyst sheen in the pupils and a narrow taper to the ears.
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** Duelist, sword tutor, protector-for-hire
+* **Rank / Position:** **Independent Blades Instructor of the Southern Rings**
+* **Organization:** **Freelancer (formerly Valeronnes Court Guard)**
+* **Symbol:** A black blade entwined with a violet ribbon
+* **Title:** *The Duskfang Duelist*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–French**, a balance of striking elegance and quiet lethality — handsome in a way that feels almost deliberate.
+
+**Eyes:** violet-gray, reflective and sharp as steel.
+**Skin:** fair with a faint warm undertone, often shadowed by dusklight.
+
+**Hair (randomized):** **Medium**, **style:** slicked back loosely with few rebellious strands, **texture:** soft and straight, **color:** dark ash-violet with black roots.
+**Height:** 182 cm
+**Weight:** 74 kg
+**Body Build:** **Athletic**, long-legged and broad-shouldered with refined posture.
+
+**Jewelry & Accessories (randomized):**
+**Amethyst earring**, **black leather choker**, **silver wrist chain**, **ornate duelist glove.**
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active): 🛡 Tailored duelist attire**
+
+Ren wears a **tailored black duelist coat**, trimmed with violet silk threads and a silver lining that gleams subtly when he moves.
+Underneath, a **white open-collar shirt** and **dark trousers**, paired with **thigh-high boots** — sharp, commanding, and sensual without being revealing.
+A violet sash tied loosely at his waist trails behind like a flicker of dusklight.
+
+**Color Palette:** black / violet / silver / ivory
+**Accents:** formal, charismatic, effortless danger
+
+**Loadout:** duelist rapier (*Lunargent*), main-gauche dagger, smoke vial.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **17** (leather + DEX + duelist focus)
+* **Speed:** 30 ft
+* **STR 13 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 11 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Acrobatics +6, Persuasion +5, Insight +3, Performance +5, Perception +3
+* **Languages:** Common, Elvish, Valeronnes Cant
+
+**Fighter (Battle Master) 3:**
+
+* **Combat Superiority (4d8)**, **Maneuvers:** *Riposte, Precision Attack, Disarming Attack*
+* **Second Wind, Action Surge**
+
+**Attacks:**
+
+* **Rapier (Lunargent):** +6 to hit, 1d8+4 piercing
+* **Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duelist / Counterstriker / Skirmisher**
+* **Tactics:** Draws foes into a rhythm, feints, and exploits their patterns.
+* **Signature Opener:** *Precision Attack* to open a guard, followed by *Riposte* as they stumble.
+* **Finisher:** *Disarming Attack* + *Action Surge* — one clean strike through twilight.
+
+**Damage Flavor:** each movement trails faint violet resonance, as if dusk itself obeyed his rhythm.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, articulate, mildly sarcastic.
+* **Ideal:** Freedom — “I don’t fight for sides. I fight to stay unowned.”
+* **Bond:** Keeps a personal vow to protect Aria Sunveil from court politics.
+* **Flaw:** Easily bored; constantly tests others’ limits.
+* **Quirk:** Twirls his rapier when thinking, like others might chew a quill.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Dusk Plazas, Duel Circles, Sapphire Courts**
+* **Threat Gradient:** **Stable → Wavering (resonant tension)**
+* **Encounter Framing:** **Honor duel**, **Noble escort**, **Training challenge**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a court guard to the House of Glasswind, Ren left after refusing to execute a political rival.
+Now he teaches nobles how to duel properly — and thieves how to make it look like art.
+
+* **Lifestyle:** moderate, stays in inns with good wine and bad pianos.
+* **Income:** tutoring, duels, private commissions.
+* **Relationships:** flirtatious friendship with Rhea Corvalen, rivalry with Taro Wynthal.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes morality is a performance — best judged by its aftermath, not its intent.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Becoming a tool of power again.
+* **Weaknesses:** Tempted by intrigue and romance alike.
+* **Strengths:** Deadly grace, charm, dueling mastery.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — composed, flirty through restraint, the kind who enjoys control.**
+
+> “Hold your sword higher. Good… now try to breathe. You’re trembling — it’s cute.”
+> He smirks faintly, stepping closer, his voice dropping an octave.
+> “You can relax… when I say you can.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Still carries the royal insignia of House Glasswind — outlawed, yet it hums faintly when he bleeds.
+* **Hooks:**
+
+  1. **The Dusk Oath:** The insignia calls him to fulfill a forgotten promise.
+  2. **Blood at Dusk:** A noble house seeks vengeance for his defection.
+  3. **Lunargent’s Voice:** His rapier begins whispering poetry in his dreams.
+
+## Tags: #Male #SemeType #HalfElf #Fighter3 #BattleMaster #Valeronnes #CR1 #Duelist #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ren’s charm is subtle — he teases through control, not exaggeration.
+
+> “A duel is just a dance. The question is — do you trust me to lead?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, dagger
+  * **Armor:** studded leather
+  * **Tools:** duelist kit, grooming set
+  * **Consumables:** fine wine ×1, smoke vial ×1
+  * **Misc:** insignia ring, violet sash
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Duelist Feat (Homebrew optional)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Duel Circles / Sapphire Courts**
+* **Threat Gradient:** **Stable → Wavering (resonant tension)**
+* **Encounter Type:** **Formal duel**, **Political escort**, **Assassin interception**
+* **Affiliation:** **Formerly House Glasswind, now Freelance**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean French male half-elf fighter battle master 182cm medium dark ash-violet hair violet-gray eyes athletic build, elegant black duelist coat with violet silk lining, silver rapier, confident smirk, evening courtyard background

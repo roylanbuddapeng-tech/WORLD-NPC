@@ -1,0 +1,192 @@
+# #086 — **Ren Takarai** — *Bladed Wind of the Eastern Sky*
+
+> “If you can hear the wind, you’re already too slow.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 086
+* **Gender (weighted random):** **Male (Type: เคะ)** — lithe, sharp-tongued, alluringly androgynous; his confidence masks a streak of vulnerability that slips through at unguarded moments
+* **Age:** 22
+* **Race:** **Half-Elf (Thalassaran)** — faintly pointed ears, a trace of luminous blue in the irises, and a whisper of sea-salt scent to his presence
+* **Class & Level:** **Rogue (Swashbuckler)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Adventurer, duelist-for-hire, errant performer
+* **Rank / Position:** **Independent Sellsword (Azure District)**
+* **Organization:** **Freelance / loosely tied to the Thalassaran Guard**
+* **Symbol:** None officially — carries a charm etched with a stylized gust
+* **Title:** *The Bladed Wind*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Chinese**, slender, graceful, dangerously pretty.
+
+**Eyes:** turquoise-gray, mischievous with long lashes.
+**Skin:** ivory with a faint golden undertone that catches the light.
+
+**Hair (randomized):** **Medium length**, **style:** slightly messy layered bob that frames the face, **texture:** soft and wavy, **color:** silver-white with faint sea-green highlights at the tips.
+**Height:** 165 cm
+**Weight:** 54 kg
+**Body Build:** **Lean and elegant**, narrow waist, light muscle tone, smooth skin — effeminate but athletic.
+
+**Jewelry & Accessories (randomized):**
+**Thin chain earring** in left ear, **choker with sapphire stone**, **silver finger rings**, **anklet** with a tiny blade charm.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *A + D* (**Deep Neckline + High Slit**)
+
+Ren’s attire is intentionally provocative — a **sleeveless duelist vest** cut **low in front**, revealing the sculpted line of his chest, and **slit black trousers** that open slightly up the thigh for free motion.
+A **white silk sash** wraps his waist, tied in a dramatic bow that flutters with every step.
+His boots reach mid-calf, polished and fitted with quiet soles.
+
+**Color Palette:** white / silver / black / teal accent
+**Accents:** dancer-duelist fusion, sensual yet agile
+
+**Loadout:** **Rapier “Whisperedge”**, throwing daggers ×4, smoke pellets.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **15** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +2
+* **Skills:** Acrobatics +6, Performance +5, Persuasion +5, Stealth +6, Sleight of Hand +6
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Rogue (Swashbuckler) 3:**
+
+* **Fancy Footwork**, **Rakish Audacity**, **Sneak Attack (2d6)**
+* **Cunning Action** (Dash, Disengage, Hide)
+
+**Attacks:**
+
+* **Whisperedge (Rapier):** +6 to hit, 1d8+4 piercing; Sneak Attack +2d6 once/turn
+* **Throwing Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Skirmisher / Dueling Striker**
+* **Tactics:** Uses mobility and charm; engages one-on-one, darts away before retaliation.
+* **Signature Opener:** Finger on lips, smirk half-formed — “Shh. Don’t blink.”
+* **Finisher:** Spins mid-air, cloak flaring, rapier tracing a crescent of blue windlight.
+
+**Damage Flavor:** blades leave teal ribbons of air pressure trailing like wind ripples.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Playful, teasing, dramatic; uses humor to mask sincerity.
+* **Ideal:** Freedom — “The wind never apologizes.”
+* **Bond:** Secretly admires Natsumi Hayane as both rival and crush.
+* **Flaw:** Reckless, prone to taking fights too far.
+* **Quirk:** Twirls his rapier idly even while talking.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Azure Market, Tide Bridges, Amphitheater Rooftops**
+* **Threat Gradient:** **Wavering → Echo Zone (performance duels)**
+* **Encounter Framing:** **Street Duel**, **Patrol Escort**, **Theatrical Rescue**
+
+---
+
+## 📜 Background & Lifestyle
+
+A half-elf street performer turned duelist. Once sang in the lower canal festivals, now fights for coin and reputation — and occasionally for justice, though he’ll never admit it.
+
+* **Lifestyle:** flamboyant, spends gold fast, sleeps late.
+* **Income:** duel winnings + freelance escort jobs.
+* **Relationships:** friendly rivalry with Natsumi; flirtatious tension with many.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes beauty is a form of truth; dishonor is uglier than defeat.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Abandonment, losing face publicly.
+* **Weaknesses:** Pride, emotional impulsiveness.
+* **Strengths:** Dazzling speed, charisma, unpredictability.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — teasing, reactive, enjoys flustering others but flusters easily when countered.**
+
+> “Don’t stare so much. You’ll make me think you actually like me.”
+> He leans close when he talks, voice dropping playfully; if someone flirts back, he averts his gaze, ears pink.
+> “Tch—Don’t steal my lines… I was supposed to say that.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Once worked as an Echo spy courier; still carries an encrypted gem he can’t destroy.
+* **Hooks:**
+
+  1. **Whisper in the Wind:** Help Ren decrypt the gem before it leaks to Severance.
+  2. **The Duel of Petals:** Challenge him to a performance duel in the moonlit canals.
+  3. **Broken Melody:** Uncover the truth behind his lost partner’s death.
+
+## Tags: #Male #KeType #HalfElf #Rogue3 #Swashbuckler #Thalassara #CR1 #Duelist #Performer #Flirt
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ren loves verbal sparring — compliments, jabs, and smirks.
+If caught off-guard, he stammers, cheeks tinting:
+
+> “You’re playing dirty… I like that.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, daggers ×4
+  * **Armor:** studded leather
+  * **Tools:** thieves’ kit, performance props
+  * **Consumables:** smoke pellet ×3, healing salve ×1
+  * **Misc:** sapphire choker, encrypted gem, silver rings
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Azure Amphitheater, Bridge Markets**
+* **Threat Gradient:** **Wavering → Echo Zone (urban skirmish)**
+* **Encounter Type:** **Performance Duel**, **Escort Chase**, **Echo Smuggling Bust**
+* **Affiliation:** **Freelancer / Thalassaran Circles**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Chinese male half-elf rogue swashbuckler 165cm medium wavy silver-white hair sea-green tips, turquoise-gray eyes, lean elegant body, sleeveless duelist vest deep neckline, slit black trousers, silver jewelry, smirking pose, teal wind effects, moonlit Thalassara rooftops

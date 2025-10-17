@@ -1,0 +1,202 @@
+# #126 — **Liora Venshade** — *The Glass Arcanist of Valeronnes*
+
+> “Perfection isn’t the absence of cracks — it’s learning how to let the light through them.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 126
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — bright-eyed, idealistic, slightly clingy; adores attention from mentors, often tries too hard to impress.
+* **Age:** 20
+* **Race:** **Half-Elf (Valeronnes Lineage)** — 90% human with faint crystal shimmer under eyes; light veins of color flash when casting.
+* **Class & Level:** **Wizard (Abjuration)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Apprentice magister, student researcher in wardcraft
+* **Rank / Position:** **Arcane Graduate Candidate**
+* **Organization:** **Valeronnes Academy of Glass Sigils**
+* **Symbol:** A prism crossed by a rune line
+* **Title:** *The Glass Arcanist*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–French**, refined beauty mixed with youthful eagerness; eyes that sparkle like dew catching sunlight.
+
+**Eyes:** pale lilac with inner gold flecks.
+**Skin:** smooth porcelain with a faint bluish undertone under light.
+
+**Hair (randomized):** **Long**, **style:** layered straight with ribbon-tied braid over shoulder, **texture:** fine and silky, **color:** silver-white fading to pale rose at tips.
+**Height:** 164 cm
+**Weight:** 52 kg
+**Body Type:** **Softly slender**, elegant posture with delicate movement.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 87 – 66 – 91
+VALIDATION: • W/B = 0.758 → OK   • H/W = 1.38 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Glass prism pendant**, **tiny rune earrings**, **silver bangle etched with ward circles**, **enchanted quill tucked in hair**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *B* (**low neckline academy dress**)
+
+Liora wears a **white-blue academy robe** with elegant tapering waist and subtle lace trim, the neckline low but tasteful.
+The robe’s sleeves shimmer with fine crystal filigree — faint glyphs glow when she moves.
+She carries a **book satchel** lined with luminous runic glass plates and a wand of etched silver.
+
+**Color Palette:** frost blue / white / pale rose / silver
+**Accents:** pristine, academic, innocent allure
+
+**Loadout:** wand of wardglass, scholar’s tome, quill focus.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **14** (mage armor)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 11 (+0)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +2
+* **Skills:** Arcana +5, History +5, Insight +2, Persuasion +3
+* **Languages:** Common, Elvish, Draconic
+
+**Wizard (Abjuration) 3:**
+
+* **Arcane Ward (7 HP shield)**, **Projected Ward**, **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mage Hand, Ray of Frost, Light, Shield*
+  * *1st (4 slots):* *Mage Armor, Shield, Detect Magic, Absorb Elements*
+  * *2nd (2 slots):* *Mirror Image, Misty Step*
+
+**Attacks:**
+
+* **Wand of Wardglass:** +5 to hit, 1d8+3 cold damage (Ray of Frost focus)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Defensive Mage / Tactical Support**
+* **Tactics:** Stays close to allies, casts *Shield* and *Absorb Elements* reactively.
+* **Signature Opener:** Summons glowing runic hexagons midair as barrier blooms.
+* **Finisher:** Overcharges wardglass, shattering into radiant frost to trap enemies.
+
+**Damage Flavor:** shards of glass hover midair like suspended snowflakes.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Curious, excitable, kind-hearted.
+* **Ideal:** Learning — “Every mistake makes a prettier scar.”
+* **Bond:** Keeps her first broken focus crystal as “lucky charm.”
+* **Flaw:** Easily flustered, apologizes too often.
+* **Quirk:** Taps her quill against her lip while thinking.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glass Sigil Tower, Archive Gardens, Prism Lecture Hall**
+* **Threat Gradient:** **Stable → Wavering (resonant arcana)**
+* **Encounter Framing:** **Rogue spell containment**, **exam duel**, **Echo flare accident**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to scholars, Liora excelled in theory but feared real combat until assigned to field work under Elias Corven’s mentorship.
+Her optimism hides insecurity — she fears being “fragile.”
+
+* **Lifestyle:** dormitory living, cluttered with glowing books.
+* **Income:** academy stipend, research grants.
+* **Relationships:** admires Elias; protective friendship with Aria Sunveil.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that protection is the highest form of beauty — “to make harm impossible is to make peace tangible.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Shattering her ward mid-battle, disappointing mentors.
+* **Weaknesses:** Overreliant on magic; low physical endurance.
+* **Strengths:** Precision casting, high intellect, focus under duress.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — eager, shy, affectionate loyalty, subtly clingy.**
+
+> “Wait— don’t leave me behind! I’ll… I’ll catch up!”
+> She blushes when praised, holding her wand tight.
+> “When you talk like that, it makes my focus crystal hum. Probably just… resonance!”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her Arcane Ward is powered by an ancient Thalassaran soul shard.
+* **Hooks:**
+
+  1. **Glass Memory:** Her barrier begins whispering in an unknown voice.
+  2. **Ward Collapse:** She’s targeted by an anti-magic cult hunting her bloodline.
+  3. **The Prism Rite:** Needs allies to stabilize her soul before the shard consumes her.
+
+## Tags: #Female #JuniorType #HalfElf #Wizard3 #Abjuration #Valeronnes #CR1 #Apprentice #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Liora flusters easily, tugging her braid or biting her lip; she tries to impress by overexplaining spells.
+
+> “You noticed the sigil pattern? I mean— yes! That’s exactly what I intended!”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** wand
+  * **Armor:** mage armor
+  * **Tools:** scholar’s kit, crystal stylus
+  * **Consumables:** ink vial ×2, arcane glass shard ×1
+  * **Misc:** quill, pendant, broken focus charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Glass Sigil Tower / Lecture Halls**
+* **Threat Gradient:** **Stable → Wavering (resonant arcana)**
+* **Encounter Type:** **Exam duel**, **Spell containment**, **Ward collapse**
+* **Affiliation:** **Valeronnes Academy of Glass Sigils**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean French female half-elf wizard abjuration 164cm long silver-white rose hair lilac eyes, slender elegant body, low neckline blue robe with glowing runes, glass magic shards floating, shy smile, academic tower background

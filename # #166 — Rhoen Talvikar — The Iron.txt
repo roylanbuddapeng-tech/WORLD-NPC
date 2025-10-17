@@ -1,0 +1,193 @@
+# #166 — **Rhoen Talvikar** — *The Iron Gale Duelist of Skarnov*
+
+> “The wind doesn’t ask permission before it tears down a wall.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 166
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — หนวดบาง ๆ ที่คาง แววตาคมเหมือนเหล็กขัด เสียงทุ้มขรึมที่แฝงความอบอุ่นแบบพ่อบ้านสายโหด
+* **Age:** 37
+* **Race:** **Human (Skarnov Lineage)** — ผิวเข้มแดงน้ำตาลแบบช่างเหล็ก รอยแผลจางบนแขนขวา ลมหายใจมีเสียงลั่นเหล็กเบา ๆ จากลูกกลไกที่อกซ้าย (เครื่องช่วยหายใจจากสมัยสงคราม)
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** ช่างตีเหล็กนักรบ, ครูฝึกศิษย์, นักผจญภัยพเนจร
+* **Rank / Position:** **Forge Duelist Instructor**
+* **Organization:** **Skarnov Forgeguard Guild**
+* **Symbol:** ค้อนไขว้กับคมดาบที่เปล่งประกายสายลม
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Nordic–Thai hybrid**, broad-shouldered, weathered, a quiet storm.
+
+**Eyes:** steel-gray, flecks of rust-orange near iris edges.
+**Skin:** tanned bronze with burn marks faintly visible at collar.
+
+**Hair (Masculine Hair Randomizer v2.7):** **Medium length**, **style:** **tied back in low half-bun**, **texture:** slightly coarse, **color:** **dark ash brown streaked with gray**.
+**Height:** 182 cm
+**Weight:** 84 kg
+**Body Build:** **Heavy athletic / muscular**, clear definition from smithing and sword work.
+
+**Jewelry & Accessories (30% glasses roll → no glasses):**
+A forged-steel torque at the neck, leather gauntlet on right arm with sigil engravings, one silver earring shaped like a hammer head.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Standard heavy combat attire*
+
+Rhoen wears a **blackened iron cuirass**, scarred from many reforgings, over a **thick leather tunic** bound by belts crossing the chest.
+His **gauntlets** hum faintly with wind runes; **boots** reinforced with steel caps.
+A **long gray coat** trimmed with smith’s linen hangs open during travel.
+
+**Color Palette:** steel gray / iron black / ember orange highlights
+**Accents:** weathered strength, quiet craftsmanship
+
+**Loadout:** **Chain Flail (“Stormlash”)**, **Smith’s Hammer (light weapon)**, **Round Shield**, **Tinkering tools**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +3)×3 → **36 HP**
+* **AC:** **18** (chain mail + shield)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 16 (+3)** **INT 10 (+0)** **WIS 13 (+1)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Perception +3, History +2, Intimidation +2
+* **Languages:** Common, Dwarvish, Skarnov Cant
+
+**Fighter (Battle Master) 3:**
+
+* **Superiority Dice:** 4d8
+* **Maneuvers:** *Disarming Attack, Trip Attack, Parry*
+* **Fighting Style:** Protection
+* **Second Wind, Action Surge**
+
+**Attacks:**
+
+* **Stormlash (Flail):** +5 to hit, 1d8+3 bludgeoning; on crit, wind pulse pushes target 5 ft.
+* **Smith’s Hammer:** +5 to hit, 1d6+3 bludgeoning.
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Defensive bruiser / Counter-controller**
+* **Opener:** Raises shield, rotates wrist — **Trip Attack** to ground the fastest enemy.
+* **Flow:** Uses **Parry** and **Protection** to defend allies; follows up with flail sweeps.
+* **Finisher:** Drives *Stormlash* into the ground, unleashing stored wind charge in a 10-ft burst.
+
+**Damage Flavor:** metallic gusts swirl; sparks flicker off impact points, resembling a forge wind in motion.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Direct, dependable, quietly humorous.
+* **Ideal:** Craft and integrity — “If it breaks, fix it. If you break, rest, then fix yourself.”
+* **Bond:** Treats younger adventurers as apprentices.
+* **Flaw:** Overprotective; takes hits meant for others.
+* **Quirk:** Always taps his hammer twice before striking — a smith’s superstition.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ironwood Forge District, Frontier Passes**
+* **Threat Gradient:** **Stable → Wavering (resonant storms)**
+* **Encounter Framing:** **Training duel**, **Frontier ambush**, **Forge ritual defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to forge workers, fought as mercenary in the early Severance conflicts.
+After injury, became a smith-trainer but still roams for commissions and apprenticeships.
+
+* **Lifestyle:** simple, disciplined; keeps a forge-fire burning wherever he stays.
+* **Income:** smithing work + combat contracts.
+* **Relationships:** Mentor to Riven Caelthorn; distant respect from Cassian Veldt; fond of tea with Nerissa’s clerics.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes discipline is freedom. A well-made weapon should never taste blood without purpose.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of the “wind core” built into his chest — it hums dangerously when angered.
+* **Weaknesses:** Wounds reopen if he exerts magic resonance too long.
+* **Strengths:** Incredible endurance, tactical precision, and mastery of defensive combat.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — สุขุม หนักแน่น แต่ยิ้มง่าย**
+
+> “Keep your stance. You’re too stiff. Relax—steel bends before it breaks.”
+> (เขาหัวเราะเบา ๆ แล้วขยับมือแตะไหล่เป็นเชิงสอน)
+> “Good. Now, swing again. Show me the wind you’ve got.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** The wind core in his chest was forged from a Severance fragment; when agitated, it whispers his name back at him.
+* **Hooks:**
+
+  1. **Echo Forge:** Help Rhoen repair a storm-core that starts pulsing to a strange rhythm.
+  2. **Apprentice’s Oath:** A student he once trained reappears—possessed by wind resonance gone feral.
+  3. **Broken Chain:** His Stormlash gets stolen; it links to a Skarnov relic vault.
+
+## Tags: #Male #MiddleAge #Human #Fighter3 #BattleMaster #Skarnov #CR1 #Flail #Shield #Instructor
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rhoen **อบอุ่นแบบครูฝึก** — ใช้เสียงทุ้มเรียบแต่ชวนอบอุ่น เขินคนที่ชมเรื่อง “สายตานุ่มกว่าเหล็ก”
+
+> “Don’t flatter me, apprentice. The only soft thing here’s my patience.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** flail (Stormlash), smith’s hammer
+  * **Armor:** chain mail, round shield
+  * **Tools:** smith’s tools, tinkerer’s kit
+  * **Consumables:** potion of healing ×1, oil flask ×2
+  * **Misc:** steel torque, wind core stabilizer, forge coin
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 18) *or* **Shield Master**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Ironwood Forge / Frontier Fields**
+* **Threat Gradient:** **Stable → Wavering (resonant winds)**
+* **Encounter Type:** **Frontier defense**, **Training duel**, **Forge storm incident**
+* **Affiliation:** **Forgeguard Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Nordic Thai male human fighter battle master 182cm medium dark ash brown hair gray streak half-bun, steel-gray eyes, muscular build, blackened iron armor with gray coat, chain flail glowing wind runes, forge smoke background, confident stern expression

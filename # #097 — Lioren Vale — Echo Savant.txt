@@ -1,0 +1,196 @@
+# #097 — **Lioren Vale** — *Echo Savant of the Veiled Archives*
+
+> “Truth hums. Lies are only noise pretending to be music.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 097
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — intellectual, dry humor, commanding presence; looks like he’s constantly evaluating everything around him.
+* **Age:** 38
+* **Race:** **Half-Elf (Valeronnes Lineage)** — 85% human with slightly luminescent eyes and silver runes faintly visible beneath the skin under moonlight.
+* **Class & Level:** **Wizard (Divination)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Scholar, resonance analyst, artifact researcher
+* **Rank / Position:** **Senior Archivist, Echo Resonance Division**
+* **Organization:** **Valeronnes Resonant Archive**
+* **Symbol:** An open eye framed by concentric ripples
+* **Title:** *The Echo Savant*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **English–French**, refined but worn from long nights of study; carries quiet charisma behind composed demeanor.
+
+**Eyes:** pale silver-gray with faint white concentric rings that shift when casting magic.
+**Skin:** fair, faint blue veins showing through near temples from resonance exposure.
+
+**Hair (randomized):** **Medium**, **style:** slightly tousled wave brushed back, **texture:** fine and straight, **color:** steel-gray with white streaks at temples.
+**Height:** 182 cm
+**Weight:** 78 kg
+**Body Build:** **Lean intellectual**, fit through fencing practice rather than brute strength.
+
+**Jewelry & Accessories (randomized):**
+**Runic monocle** with etched crystal lens, **silver quill pendant**, **archivist’s signet ring**, and **thin chain bracelet** that hums faintly when resonance shifts nearby.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Standard formal coverage*
+
+Lioren dresses with precision: **dark navy longcoat** lined with silver threads, **high-collared vest** with ivory runes embroidered along the hem, and **slim black trousers** tucked into soft leather boots.
+A **book holster belt** at his side carries small grimoires and a slender **resonance wand** disguised as a writing stylus.
+
+**Color Palette:** navy / ivory / silver / muted gray
+**Accents:** scholar’s elegance mixed with pragmatic readiness
+
+**Loadout:** resonance wand (arcane focus), grimoire, spectral lens focus.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **13** (Mage Armor or coat enchantment)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 14 (+2)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +4
+* **Skills:** Arcana +5, Investigation +5, Insight +4, History +5, Perception +4
+* **Languages:** Common, Elvish, Draconic, Valeronian
+
+**Wizard (Divination) 3:**
+
+* **Portent (2 dice/day)** — replace rolls with foresight numbers
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * **Cantrips:** *Mage Hand, Light, Minor Illusion, Ray of Frost*
+  * **1st (4 slots):** *Mage Armor, Detect Magic, Identify, Shield*
+  * **2nd (2 slots):** *Mirror Image, Misty Step, Augury*
+
+**Attacks:**
+
+* **Resonance Wand:** +5 to hit, 1d10+3 force (*Ray of Frost*)
+* **Shortsword (ceremonial):** +4 to hit, 1d6+2 slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Battlefield Controller / Analyst / Support Mage**
+* **Tactics:** Predicts opponents using *Portent*; opens with *Mirror Image*, then controls field via *Augury*-based coordination.
+* **Signature Opener:** mutters “Predictable” before countering an attack mid-motion.
+* **Finisher:** Forces an Echo overload to disrupt magic resonance.
+
+**Damage Flavor:** spells manifest as soft harmonic rings of silver light.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Analytical, patient, wry; subtle sense of humor behind intellectual detachment.
+* **Ideal:** Truth — “Knowledge is sacred only if shared responsibly.”
+* **Bond:** The Archive’s junior scholars — fiercely protective though he hides it.
+* **Flaw:** Tends to overthink, hesitates in moments of emotion.
+* **Quirk:** Keeps a pocket watch that runs backward while divining.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Resonant Archives, Echo Observation Halls**
+* **Threat Gradient:** **Stable → Wavering (archival resonance field)**
+* **Encounter Framing:** **Magical investigation**, **Protective escort**, **Library defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Lioren once served as a war tactician before abandoning the battlefield to study resonance theory. Known as “The Eye of Valeronnes,” he’s more dangerous with insight than with spells.
+
+* **Lifestyle:** austere, prefers candlelight study to luxury.
+* **Income:** royal research grants, advisory positions.
+* **Relationships:** old friend of Kaien Drazel, intellectual sparring partner to Seraphine Caelune.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes knowledge without ethics is just vanity — “A wise man who forgets compassion is only clever.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing foresight — metaphorically and literally.
+* **Weaknesses:** Emotionally distant; overanalyzes trust.
+* **Strengths:** Predictive intelligence, strategic insight, discipline.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — dry wit, composed guidance, unintentional flirt through intellect.**
+
+> “Your stance is off by three degrees. Yes, I was watching.”
+> He teases through correction, enjoying the discomfort of those who underestimate him.
+> If someone gets too close emotionally, he deflects with quiet humor:
+> “Careful. Curiosity around me tends to become obsession.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His Portent visions occasionally show *Echo distortions* rather than true futures — something tampering with fate itself.
+* **Hooks:**
+
+  1. **The Broken Vision:** Investigate why his predictions are echoing false futures.
+  2. **Archivist’s Duel:** Help him defend the archive from rogue scholars.
+  3. **The Backward Watch:** The artifact begins to tick toward an unknown date.
+
+## Tags: #Male #MiddleAged #HalfElf #Wizard3 #Divination #Valeronnes #CR1 #Scholar #Tactician
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Lioren **disarms with intellect**, not flirtation — but his calm gaze lingers too long.
+If someone surprises him emotionally, he pauses, adjusts his glasses, and mutters:
+
+> “Unexpected variable… fascinating.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** resonance wand, shortsword
+  * **Armor:** Mage Armor enchantment
+  * **Tools:** scholar’s kit, quill set
+  * **Consumables:** ink vial ×2, arcane focus crystal ×1
+  * **Misc:** pocket watch, monocle focus
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **Observant**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Resonant Archives / Mirror Vaults**
+* **Threat Gradient:** **Stable → Wavering (Echo dissonance fields)**
+* **Encounter Type:** **Research defense**, **Prediction trial**, **Arcane sabotage**
+* **Affiliation:** **Valeronnes Resonant Archive**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+English French male half-elf wizard divination 182cm medium steel-gray hair white streaks, silver-gray eyes, lean scholar build, navy longcoat silver embroidery, monocle, holding wand stylus and book, glowing sigil rings, calm smirk, archive background

@@ -1,0 +1,203 @@
+# #096 — **Yuri Hanabira** — *Scarlet Bloom of the Eastern Petal Path*
+
+> “If I’m blushing, it’s the wind. Probably.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 096
+* **Gender (weighted random):** **Female (Type: ทอมบอย — feminine variant)** — short-haired, charmingly awkward, confident in combat but shy when complimented.
+* **Age:** 22
+* **Race:** **Human (Eastern Blossom Lineage)** — near-human, faint rosy tint to irises and petal-like blush across cheekbones.
+* **Class & Level:** **Fighter (Samurai)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Traveling swordswoman, duel challenger, temple guard-for-hire
+* **Rank / Position:** **Blossom Duelist of the Petal Path Order**
+* **Organization:** **Hanabira School of Resonant Blade**
+* **Symbol:** A crimson petal slicing through a silver circle
+* **Title:** *The Scarlet Bloom*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Vietnamese**, delicate yet athletic charm, girlish face with tomboyish composure.
+
+**Eyes:** rose-red, sparkling with fiery spirit.
+**Skin:** light peach tone with faint sun-kissed flush on cheeks.
+
+**Hair (randomized):** **Short feminine**, **style:** slightly messy layered bob, **texture:** straight with flicked ends, **color:** dark chestnut with crimson highlights.
+**Height:** 168 cm
+**Weight:** 58 kg
+**Body Type:** **Fit and feminine**, balanced muscle tone from daily kendo training.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 91 – 69 – 94
+VALIDATION: • W/B = 0.758 → OK   • H/W = 1.36 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Silver ear studs**, **thin red cord bracelet**, and a **black choker** holding a small cherry blossom charm.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *B + E* (**Martial uniform + Exposed shoulders**)
+
+Yuri wears a **modified crimson gi top** cut to leave her shoulders bare, trimmed with white petals embroidered across the edges.
+Her **hakama pants** are split for flexibility, tied with a wide black sash.
+A **short-sleeved undershirt** hugs her torso for mobility, while light armor plating guards her forearms and shins.
+
+**Color Palette:** scarlet / black / white / petal pink
+**Accents:** graceful yet fierce — traditional meets bold
+
+**Loadout:** katana (*Sakura Edge*), wakizashi, throwing knives.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **17** (breastplate + DEX)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Acrobatics +5, Athletics +4, Perception +3, Insight +3, Persuasion +3
+* **Languages:** Common, Eastern Dialect
+
+**Fighter (Samurai) 3:**
+
+* **Fighting Style:** Dueling
+* **Second Wind, Action Surge**
+* **Samurai Feature:** *Fighting Spirit* (bonus action to gain advantage + temp HP)
+* **Subclass Ability:** *Elegant Courtier* (adds WIS to Persuasion)
+
+**Attacks:**
+
+* **Katana (Sakura Edge):** +5 to hit, 1d8+3 slashing (+2 radiant 1/turn when focus active)
+* **Wakizashi:** +5 to hit, 1d6+3 slashing
+* **Throwing Knife:** +5 to hit, 1d4+3 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Duelist / Counter Striker**
+* **Tactics:** Uses *Fighting Spirit* early for advantage, parries counterattacks with *Action Surge* follow-up.
+* **Signature Opener:** Draws her katana mid-spin — petals scatter like sparks.
+* **Finisher:** *Sakura Strike* — a downward slash bursting with red petals.
+
+**Damage Flavor:** faint crimson trails blossom in the air with each swing.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Cheerful, straightforward, hot-headed in battle but shy off-duty.
+* **Ideal:** Honor — “Win clean, lose with grace, but never back down.”
+* **Bond:** Her late master’s dojo — she carries his broken pendant.
+* **Flaw:** Overcompensates with bravado; hides insecurity behind laughter.
+* **Quirk:** Rubs her nose before drawing her sword, a nervous tick.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Eastern Provinces — Petal Path Dojos, Garden Arenas**
+* **Threat Gradient:** **Stable → Wavering (ritual dueling fields)**
+* **Encounter Framing:** **Friendly duel**, **Temple defense**, **Honor challenge**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a shrine guard, Yuri left to perfect her swordplay, aiming to surpass her late teacher. She wanders the eastern roads, taking duels and protecting travelers.
+
+* **Lifestyle:** simple, eats street food, sleeps under the stars.
+* **Income:** paid duels, escort work, training fees.
+* **Relationships:** Friendly rivalry with Meilin Zhou; occasionally teased by Seraphine.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that strength without humility is just noise; prefers to earn admiration, not demand it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing composure in front of someone she admires.
+* **Weaknesses:** Blushes easily; poor liar.
+* **Strengths:** Speed, focus, courage, loyalty.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย (feminine)** tone — confident when fighting, bashful when complimented.
+
+> “What, me? Cute? N-no, I’m just sweaty from training!”
+> She flusters easily when her femininity is noticed but will retaliate with mock punches or teasing grins.
+> “Say that again and I’ll spar you till sunrise.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her katana contains an Echo fragment that blooms actual petals when resonating.
+* **Hooks:**
+
+  1. **Petal Duel:** A rival challenges her for the blade’s ownership.
+  2. **Blooming Echo:** Investigate a growing resonance around her weapon.
+  3. **Scarlet Oath:** She’s asked to join an elite order that her master once rejected.
+
+## Tags: #Female #Tomboy #Human #Fighter3 #Samurai #EasternProvinces #CR1 #Duelist #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Yuri **gets flustered easily** — stammers, rubs the back of her neck, averts gaze.
+If she’s comfortable, she bumps shoulders playfully or challenges with a grin:
+
+> “If you can beat me, maybe I’ll let you call me cute again.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** katana (*Sakura Edge*), wakizashi, throwing knives
+  * **Armor:** breastplate
+  * **Tools:** whetstone, banner sash
+  * **Consumables:** stamina tea ×2, charm leaf ×1
+  * **Misc:** blossom pendant, travel blanket
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 18) *or* **Defensive Duelist**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Eastern Provinces / Petal Path Arenas / Temple Gardens**
+* **Threat Gradient:** **Stable → Wavering (Echo dueling aura)**
+* **Encounter Type:** **Friendly duel**, **Escort mission**, **Arena defense**
+* **Affiliation:** **Hanabira School of Resonant Blade**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Vietnamese female human fighter samurai 168cm short layered chestnut hair crimson highlights, rose-red eyes, athletic feminine body, crimson gi off-shoulder black sash split hakama, cherry blossom petals, shy confident smile, duel arena background

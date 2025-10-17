@@ -1,0 +1,213 @@
+#154 — Alen Viremont — The Prism Scribe of Valeronnes
+
+“Data is desire without makeup. Let me read your numbers.”
+
+🜏 General Information
+
+Running No.: 154
+
+Gender (weighted random): Male (Type: เคะ) — สุภาพ นุ่มนวล ฉลาดเฉียบ ขี้เขินเวลาโดนชมต่อหน้า
+
+Age: 21
+
+Race: Human (Valeronnes Lineage) — มนุษย์เต็มสายเลือด มีประกายแพรวพราวจางๆ ที่ม่านตาเวลาใช้เวท
+
+Class & Level: Wizard (Divination) 3 — Total 3
+
+Challenge Rating (approx): CR 1
+
+Alignment: Neutral Good
+
+Profession: นักจดหมายเหตุอาคม, นักวิเคราะห์สถิติเวท, ผู้ถอดรหัส
+
+Rank / Position: Junior Prism Scribe
+
+Organization: Valeronnes Academy — Prism Archives
+
+Symbol: ปากกาขนนกเจาะผ่านปริซึม
+
+Theme (บุคลิก): Nerd / Rich-kid scholar → ใส่แว่นบังคับ
+
+🪞 Appearance (in English)
+
+Ethnic Theme: Korean–French, studious elegance with soft, aristocratic poise; a library prince who forgot he’s cute.
+
+Eyes: cool gray with faint prismatic flecks.
+Skin: ivory fair, faint blush on nose bridge from late-night reading.
+
+Hair (Masculine v2.7): Short layered / undercut (top-weighted), straight, ash-brown with silver ash tips.
+Height: 170 cm
+Weight: 56 kg
+Body Build: Lean elegant, lightly toned from fencing classes.
+
+Jewelry & Accessories (Glasses forced by Nerd theme):
+Silver half-rim round glasses, fine chain pocket-watch, slim signet ring, lacquered pen case on a belt clip.
+
+👗 Outfit (in English)
+
+A tailored dove-gray scholar coat with satin lapels over a white high-collar shirt and ink-black vest.
+Slim trousers with polished belts; soft leather gloves for handling mana-sensitive parchments.
+A compact rapier case and arcane satchel hang from a cross-strap.
+
+Color Palette: dove gray / white / ink black / silver
+Accents: archival chic, tidy lines, noble student aesthetic
+
+Loadout: arcane focus quill, compact rapier, scribe kit, crystal abacus.
+
+⚔️ Mechanics (D&D 5e RAW)
+
+HP: 3d6 + (CON +1)×3 → 18 HP
+
+AC: 15 (Mage Armor)
+
+Speed: 30 ft
+
+STR 8 (-1) DEX 14 (+2) CON 12 (+1) INT 17 (+3) WIS 13 (+1) CHA 12 (+1)
+
+Proficiency Bonus: +2
+
+Saving Throws: INT +5, WIS +3
+
+Skills: Arcana +5, Investigation +5, History +5, Insight +3, Perception +3
+
+Languages: Common, Elvish, Draconic, Valeronnes Cant
+
+Wizard (Divination) 3:
+
+Portent (2 dice / long rest)
+
+Arcane Recovery
+
+Spell Save DC 13, Spell Attack +5
+
+Spellbook:
+
+Cantrips: Mage Hand, Prestidigitation, Ray of Frost, Guidance
+
+1st: Mage Armor, Shield, Detect Magic, Identify
+
+2nd: Detect Thoughts, Mirror Image, See Invisibility
+
+Attacks:
+
+Ray of Frost: +5 to hit, 2d8 cold
+
+Rapier (academic practice): +4 to hit, 1d8+2 piercing
+
+🎯 Combat Tactics
+
+Role: Controller / Intel Support
+
+Tactics: Uses Portent to swing key saves/attacks, then Mirror Image for safety and Detect Thoughts to crack enemy plans.
+
+Signature Opener: flips open crystal abacus — numbers glow, fate reorders.
+
+Finisher: See Invisibility to expose hidden threat, allies strike under curated probabilities.
+
+Damage Flavor: frost sigils crystallize mid-air, then flake off like glass dust.
+
+💬 Personality
+
+Traits: Bookish, meticulous, sincere kindness, flustered under praise.
+
+Ideal: Knowledge in service of mercy — “Understand first, correct later.”
+
+Bond: Protects the junior scribes who catalog dangerous tomes.
+
+Flaw: Overthinks; analysis paralysis in fast brawls.
+
+Quirk: Counts beats under his breath when nervous (for Portent timing).
+
+🧭 Common Locations
+
+Kingdom/Zone: Valeronnes — Prism Archives, Mirror Halls, Glass Lecture Courts
+
+Threat Gradient: Stable → Wavering (light/data resonance)
+
+Encounter Framing: Ritual audit, Runic forgery probe, Lecture ambush
+
+📜 Background & Lifestyle
+
+Noble-born, raised among ledgers and lutes.
+He joined the Prism Archives after proving a forgery ring by cross-referencing hymn micro-scratches.
+
+Lifestyle: quiet townhouse above a stationery shop.
+
+Income: academy stipend, family trust.
+
+Relationships: academic respect for Seraphine Dhalis; quiet crush on Rei Dalcourt he won’t admit.
+
+🧩 Morals & Ethics
+
+Truth should heal reputations, not destroy them; he redacts names when justice is better served by discretion.
+
+😨 Fears / Weaknesses / Strengths
+
+Fears: Misusing Portent to “force” someone’s fate.
+
+Weaknesses: Frail; relies on planning and allies.
+
+Strengths: Information control, predictive magic, calm empathy.
+
+💞 Interactions (Behavioral Style)
+
+เคะ + Nerd tone — shy, precise diction, accidental allure behind lenses.
+
+“You… you’re standing too close. I can’t calculate properly when you do that.”
+He adjusts his glasses, ears reddening.
+“N-not that I mind. Statistically.”
+
+🤫 Secrets & Plot Hooks
+
+Secret: Keeps a sealed ledger predicting three future “break points” in Valeronnes. Two have already come true.
+
+Hooks:
+
+The Third Break: Stop an assassination foretold only by page-warp artifacts.
+
+Stolen Portent Dice: A thief uses his discarded Portent result to rig a duel.
+
+Mirror Proof: Alen’s analysis implies a high magistrate is an Echo double.
+
+Tags: #Male #UkeType #Human #Wizard3 #Divination #Valeronnes #CR1 #NerdTheme #Adventurer
+💞 Interaction Preferences (Quick)
+
+Alen makes others blush unintentionally — earnest eye contact over book edges, neat pen-taps, soft “mm” when thinking.
+
+“I annotated your strategy… color-coded. Would you… like me to walk you through it?”
+
+🧰 Player-Compatible Add-On
+
+Starting XP: 900
+
+XP to Next Level: 1,800
+
+Inventory Slots:
+
+Weapons: rapier (practice), dagger
+
+Armor: none (Mage Armor)
+
+Tools: scribe kit, crystal abacus, magnifier
+
+Consumables: potion of healing ×1, scroll of Identify ×1
+
+Misc: half-rim glasses, signet ring, pocket-watch
+
+Level-Up Suggestions (to 4):
+
+ASI/Feat: +2 INT (to 19) or Keen Mind
+
+🧭 Environment & Encounter Setting
+
+Zone: Valeronnes / Prism Archives / Mirror Halls
+
+Threat Gradient: Stable → Wavering (light/data resonance)
+
+Encounter Type: Forgery probe, Ritual audit, Lecture ambush
+
+Affiliation: Valeronnes Academy — Prism Archives
+
+🎨 Image Gen Key (EN)
+
+Korean French male human wizard divination 170cm short layered undercut ash-brown hair silver tips, silver round glasses, gray scholar coat, white high-collar shirt, crystal abacus, soft shy smile, prism-lit archive background

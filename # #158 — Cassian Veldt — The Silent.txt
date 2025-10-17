@@ -1,0 +1,195 @@
+# #158 — **Cassian Veldt** — *The Silent Gear of Valeronnes*
+
+> “Efficiency isn’t about speed. It’s about knowing exactly when not to move.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 158
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — สุขุม เงียบ พูดน้อยแต่มีน้ำหนักในทุกคำ สายเท่แบบไม่ต้องพยายาม
+* **Age:** 38
+* **Race:** **Human (Valeronnes Lineage)** — ลักษณะคล้ายคนยุโรปใต้ ผิวขาวอมทอง ผมมีประกายโลหะจาง ๆ ที่ปลายเส้น
+* **Class & Level:** **Artificer (Battle Smith)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** ช่างเครื่องกลศักดิ์สิทธิ์, นักประดิษฐ์สงคราม, ผู้บูรณะอาวุธพลังสะท้อน
+* **Rank / Position:** **Forge Mechanist Captain**
+* **Organization:** **Valeronnes Mechanica Corps**
+* **Symbol:** เฟืองเงินขนาบด้วยแสงทรงกลม
+* **Title:** *The Silent Gear*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Greek**, stoic elegance with traces of fatigue that look poetic rather than weary.
+
+**Eyes:** silver-gray, like mercury in motion.
+**Skin:** pale olive with faint burn marks on forearms and a healed scar under his jaw.
+
+**Hair (Masculine Hair Randomizer v2.7):** **Short layered**, **sub-style:** **slicked-back**, **texture:** straight, **color:** **steel-gray with white streaks at temples**.
+**Height:** 182 cm
+**Weight:** 77 kg
+**Body Build:** **Lean muscular**, strong hands, tall posture, deliberate movements.
+
+**Jewelry & Accessories (30% glasses rule; result: no glasses):**
+Leather bracelet embedded with rotating gear rune, metallic ear cuff, pocket toolchain, small monocle hanging from chain (decorative, not for eyes).
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Standard field uniform (non-revealing)*
+
+Cassian wears a **dark cobalt artificer’s coat** reinforced with plate segments and stitched conduits.
+A **gear pauldrons** rotates faintly with inner light when he channels his infusions.
+**Black gloves** with finger openings expose rune tattoos, and a **tool belt** holds crystal wrenches and flux capacitors.
+
+**Color Palette:** dark cobalt / silver / black / faint white glow
+**Accents:** mechanical precision, silent grace
+
+**Loadout:** infused longsword (*Flux Edge*), mechanical companion (*Gildar*, a clockwork falcon), arcane wrench set.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **18** (chain shirt + shield + infusion)
+* **Speed:** 30 ft
+* **STR 13 (+1)** **DEX 12 (+1)** **CON 14 (+2)** **INT 17 (+3)** **WIS 11 (+0)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Arcana +5, Investigation +5, Perception +2, Smith’s Tools +5, Tinker’s Tools +5
+* **Languages:** Common, Dwarvish, Draconic, Valeronnes Script
+
+**Artificer (Battle Smith) 3:**
+
+* **Infusions:** Enhanced Defense, Enhanced Weapon, Repeating Shot, Mind Sharpener
+* **Steel Defender (Gildar):** AC 15, HP 20, Attack +4 (1d8+2 force)
+* **Spellcasting (INT DC 13, +5 atk):**
+
+  * *Cantrips:* *Mending, Guidance, Green-Flame Blade*
+  * *1st-level:* *Shield of Faith, Cure Wounds, Faerie Fire, Heroism*
+
+**Attacks:**
+
+* **Flux Edge (Infused Longsword):** +5 to hit, 1d8+3 slashing (+1d4 lightning once per turn)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Tank Support / Battle Engineer**
+* **Tactics:** Uses *Gildar* to intercept ranged fire, positions allies with tactical marking, and stabilizes the wounded mid-combat.
+* **Signature Opener:** Tosses a glowing gear — “On your mark.” Gildar swoops in, redirecting a spell beam.
+* **Finisher:** *Green-Flame Blade* arcs, lighting runes along his arm.
+
+**Damage Flavor:** each swing hums like a forge heartbeat, light rippling in geometric waves.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Stoic, efficient, rarely smiles but has a dry sense of humor.
+* **Ideal:** Order — “Machines don’t argue. They just work.”
+* **Bond:** Gildar, his falcon automaton, built from the scraps of his fallen partner’s armor.
+* **Flaw:** Bottles grief; avoids emotional conversations.
+* **Quirk:** Cleans his tools even when they’re spotless.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Mechanica Yards, Aether Forges, Gear Sanctum**
+* **Threat Gradient:** **Wavering → Deep Echo (machine resonance)**
+* **Encounter Framing:** **Escort malfunctioning construct**, **Defend mechanist convoy**, **Rogue automaton hunt**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a decorated soldier-engineer; retired after his unit was wiped in a gear explosion.
+Now serves as field instructor and quiet guardian of the young artificers.
+
+* **Lifestyle:** lives in a repurposed forge; keeps one room for meditation among his machines.
+* **Income:** Academy salary + commission bonuses.
+* **Relationships:** mentor to Alen Viremont; engineer contact for Asha Ferrin; silent respect toward Nerissa Thalor.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes creation without discipline leads to collapse; discipline without compassion leads to war.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing another partner under his command.
+* **Weaknesses:** Hesitant to delegate; pushes himself too hard.
+* **Strengths:** Tactical patience, defensive ingenuity, adaptive combat improvisation.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — calm, protective, occasionally teasing in a mentorly way.**
+
+> “You’re gripping too hard. Breathe. Let the weapon move with you.”
+> He adjusts your stance, voice quiet as machinery hums.
+> “Perfect. Now, again — without trying so hard.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Gildar’s core is fused with a fragment of Cassian’s partner’s soul.
+* **Hooks:**
+
+  1. **Echo Core:** Someone tries to duplicate Gildar’s design — but the copy screams.
+  2. **Silent Forge:** Machines across Valeronnes stop responding simultaneously.
+  3. **The Faultline:** Cassian’s partner’s death ties to a Severance sabotage record.
+
+## Tags: #Male #MiddleAge #Human #Artificer3 #BattleSmith #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Cassian rarely flusters others directly; instead, he **makes people feel seen and capable**, which unnerves them more softly.
+
+> “You doubt yourself too much. Trust your rhythm. The rest is noise.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword (*Flux Edge*)
+  * **Armor:** chain shirt (Enhanced Defense)
+  * **Tools:** smith’s tools, tinker’s tools
+  * **Consumables:** potion of healing ×2, flux oil ×1
+  * **Misc:** Gildar core key, pocket watch gear
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **Resilient (CON)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Mechanica Yards / Gear Sanctum**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **Escort malfunctioning construct**, **Convoy defense**, **Rogue machine duel**
+* **Affiliation:** **Valeronnes Mechanica Corps**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Greek male human artificer battle smith 182cm short slicked-back steel-gray hair white streaks, lean muscular, cobalt artificer coat with gears, silver eyes, calm stoic look, mechanical falcon companion, forge sanctum background

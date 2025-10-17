@@ -1,0 +1,198 @@
+# #159 — **Kael Dalcourt** — *The Azure Tempest of Thalassara*
+
+> “If I must fight, then let it be beautiful — like a storm that sings before it breaks.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 159
+* **Gender (weighted random):** **Male (Type: เคะ)** — หนุ่มนุ่มนวล เสียงใสแต่มั่นใจ หน้าตาดีระดับปั้นเป็นรูปได้ แต่ออกจะขี้แกล้งเวลารู้ว่าคนอื่นเขิน
+* **Age:** 22
+* **Race:** **Half-Elf (Thalassaran Lineage)** — ผิวขาวอมฟ้าอ่อน ปลายหูเรียวบางและตาเปล่งประกายคลื่นน้ำเมื่อสะท้อนแสง
+* **Class & Level:** **Sorcerer (Storm Sorcery)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** นักร่ายเวทพายุ, นักดนตรีเร่ร่อน, นักผจญภัยประจำเรือ
+* **Rank / Position:** **Tidecaller Adept**
+* **Organization:** **Thalassaran Mariner’s Guild**
+* **Symbol:** เกลียวคลื่นขึงด้วยสายฟ้าโค้ง
+* **Title:** *The Azure Tempest*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean**, youthful charm and ocean elegance — the kind of boy who looks like he stepped out of a ballad.
+
+**Eyes:** vivid aquamarine, glowing slightly when emotions peak.
+**Skin:** fair with faint bluish undertone, almost luminous under moonlight.
+
+**Hair (Masculine Hair Randomizer v2.7):** **Medium length**, **sub-style:** **wavy ponytail (low)**, **color:** **silver-blue**, with stray strands curling at the temples.
+**Height:** 160 cm *(femboy/feminine rule applies — below limit)*
+**Weight:** 49 kg
+**Body Build:** **Slim and graceful**, soft curves, almost elfin grace.
+
+**Jewelry & Accessories (30% glasses rule; result: no glasses):**
+Thin chain earring with dangling pearl, silver necklace with wave pendant, two shell bracelets.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Revealing (open-shoulder tunic, deep v-cut)*
+
+Kael wears a **flowing azure silk tunic**, open-shouldered with a **deep V-cut front**, bound with thin silver sashes that flutter like currents when he moves.
+His **white half-pants** hug the hips, ending just below the knee, with **wave-pattern trims**.
+Barefoot or wears light straps for deck grip.
+
+**Color Palette:** azure / white / silver / faint aqua glow
+**Accents:** ocean charm, androgynous beauty, movement like surf
+
+**Loadout:** silver focus ring, conch staff, charm anklet (used to direct thunder), small lyre.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **18 HP**
+* **AC:** **14** (Draconic Resilience equivalent via storm adaptation — reflavored)
+* **Speed:** 30 ft; **Swim Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 10 (+0)** **WIS 11 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, CHA +5
+* **Skills:** Performance +5, Persuasion +5, Arcana +2, Acrobatics +4
+* **Languages:** Common, Elvish, Aquan
+
+**Sorcerer (Storm Sorcery) 3:**
+
+* **Tempestuous Magic** (fly 10 ft after casting), **Heart of the Storm** (resist lightning/thunder)
+* **Sorcery Points:** 3
+* **Spell Save DC:** 13, **Spell Attack:** +5
+* **Spells Known:**
+
+  * *Cantrips:* *Prestidigitation, Thunderclap, Shape Water, Shocking Grasp*
+  * *1st:* *Fog Cloud, Thunderwave*
+  * *2nd:* *Gust of Wind, Mirror Image*
+
+**Attacks:**
+
+* **Shocking Grasp:** +5 to hit, 1d8 lightning, advantage on metal-wearers
+* **Thunderwave:** 2d8 thunder (15-ft cube, push 10 ft)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Blaster / Field Disruptor**
+* **Tactics:** stays close to water or elevated ground, manipulates environment with *Gust of Wind* to knockback or position foes.
+* **Signature Opener:** “Thunderkiss” — *Thunderwave* combined with a wink and a spin.
+* **Finisher:** channels all remaining sorcery points into a final *Thunderclap* burst that echoes across the bay.
+
+**Damage Flavor:** blue-white lightning ribbons coil around his arms; air smells like rain before dawn.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Playful, proud of his power, secretly sensitive.
+* **Ideal:** Freedom — “The sea has no master, and neither should I.”
+* **Bond:** His ship crew, especially the navigator who saved his life once.
+* **Flaw:** Flirts as a distraction when anxious.
+* **Quirk:** Twirls a strand of hair when thinking.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Tidal Docks, Sea Arches, Storm Harbors**
+* **Threat Gradient:** **Wavering (active tides)**
+* **Encounter Framing:** **Pirate duel**, **Storm ritual gone wild**, **Dock ambush**
+
+---
+
+## 📜 Background & Lifestyle
+
+Grew up in a floating music troupe; discovered his storm powers mid-performance when lightning struck the stage — and missed everyone.
+Now uses song to focus his spells.
+
+* **Lifestyle:** lives aboard a ship, sleeps under sails.
+* **Income:** performance earnings, adventuring spoils.
+* **Relationships:** close friend to Sumiya Kairen (she calls him “Senpai”), often performs duets with Valeronnes bards.
+
+---
+
+## 🧩 Morals & Ethics
+
+Sees chaos as beauty; believes emotion is the truest spell component.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** silence — storms make him feel alive.
+* **Weaknesses:** fragile; his bravado masks insecurity.
+* **Strengths:** mobility, charisma, raw elemental control.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — flirty but easily flustered when his own teasing backfires.**
+
+> “You really think I’m trouble? Mmh… then you shouldn’t stand that close.”
+> *(pauses as thunder rolls)*
+> “See? Even the sky agrees with me.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His lightning affinity comes from a forgotten pact with an echo-spirit of the storm — the “Sea’s Second Voice.”
+* **Hooks:**
+
+  1. **Echo of the Gale:** Retrieve his storm spirit before Severance turns it into a weapon.
+  2. **Concert in the Rain:** A massive thunder ritual doubles as an assassination attempt.
+  3. **Broken Mast:** His ship vanishes mid-tempest — leaving only singing lightning.
+
+## Tags: #Male #UkeType #HalfElf #Sorcerer3 #StormSorcery #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kael **likes to make others blush** — compliments delivered with disarming sincerity.
+
+> “When you cast, your eyes do that thing… like lightning. It’s— sorry, distracting.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** conch staff, dagger
+  * **Armor:** none (Draconic Resilience)
+  * **Tools:** musical lyre, navigator’s tools
+  * **Consumables:** potion of healing ×1, bottled stormwater ×1
+  * **Misc:** focus ring, shell bracelet, silver necklace
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **Metamagic Adept**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Storm Harbor / Sea Arches**
+* **Threat Gradient:** **Wavering (storm resonance)**
+* **Encounter Type:** **Ritual duel**, **Pirate chase**, **Tidal spell eruption**
+* **Affiliation:** **Mariner’s Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean male half-elf sorcerer storm 160cm medium low ponytail wavy silver-blue hair, aquamarine eyes, azure open-shoulder tunic deep v-cut, ocean light, flirty smile, sea harbor background

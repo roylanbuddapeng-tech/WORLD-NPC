@@ -1,0 +1,204 @@
+# #106 — **Selene Vaurelle** — *The Moonlit Blade of Thalassara*
+
+> “Still water reflects every sin — but I dive anyway.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 106
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — confident, alluring, mentors through teasing and quiet challenge; speaks softly but always in control.
+* **Age:** 30
+* **Race:** **Elf (Thalassaran Lineage)** — silver-pale skin with faint luminous veins beneath; long ears adorned with etched moon runes.
+* **Class & Level:** **Fighter (Eldritch Knight)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Duel instructor, nightblade mercenary, sword-dancer
+* **Rank / Position:** **Moon Guard Lieutenant, Thalassaran Wardens**
+* **Organization:** **Thalassaran Lunar Vanguard**
+* **Symbol:** A crescent blade encircled by mirrored waves
+* **Title:** *The Moonlit Blade*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Japanese**, mature grace balanced with dancer-like poise; everything about her feels like a poised step between elegance and danger.
+
+**Eyes:** pale violet with silver shimmer; pupils almost feline.
+**Skin:** moonlit ivory with faint cyan reflection under light.
+
+**Hair (randomized):** **Long**, **style:** cascading braid tied low, **texture:** silky straight with subtle waves at the tips, **color:** platinum-silver with lavender highlights.
+**Height:** 176 cm
+**Weight:** 61 kg
+**Body Type:** **Tall, toned hourglass**, balanced curves with trained muscle — elegance of a duelist.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 101 – 72 – 108
+VALIDATION: • W/B = 0.713 → OK   • H/W = 1.50 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Moonstone choker**, **chain earrings**, **rune-etched bangle**, and **circlet of woven silver threads**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *B + D* (**backless duelist top + high-slit coat**)
+
+Selene’s battle attire is sleek — a **midnight-gray duelist coat** cut open along one leg, lined in shimmering blue fabric.
+Underneath, a **backless armored corset** with silver filigree reveals pale skin when she moves.
+Her boots reach the thighs, layered in fine silksteel; every motion catches glints of moonlight.
+
+**Color Palette:** silver / indigo / pale lavender / black
+**Accents:** sensual elegance — beauty through restraint and lethality
+
+**Loadout:** longsword (*Moonwake*), short wand for spells, silver duelist’s buckler.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **17** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 13 (+1)** **WIS 11 (+0)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, CON +4
+* **Skills:** Acrobatics +6, Performance +5, Arcana +3, Insight +2, Persuasion +5
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Fighter (Eldritch Knight) 3:**
+
+* **Second Wind, Action Surge**
+* **Weapon Bond (Moonwake)**
+* **Spellcasting (INT DC 11, +3 atk)**
+
+  * **Cantrips:** *Booming Blade, Minor Illusion*
+  * **1st (2 slots):** *Shield, Absorb Elements, Magic Missile*
+
+**Attacks:**
+
+* **Moonwake (Longsword):** +6 to hit, 1d8+4 slashing (+1d8 thunder from *Booming Blade*)
+* **Thrown Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duelist / Frontline Hybrid / Magical Striker**
+* **Tactics:** Mixes sword and spell — parries with *Shield*, counters with *Booming Blade*.
+* **Signature Opener:** Steps into moonlight, blade hums — single stroke divides air like a reflection.
+* **Finisher:** *Action Surge + Booming Blade* combo, explosion of silver light.
+
+**Damage Flavor:** strikes leave shimmering after-images, as though slicing light itself.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calmly teasing, authoritative, emotionally precise.
+* **Ideal:** Mastery — “Discipline is freedom in motion.”
+* **Bond:** Protects her younger students fiercely; loves guiding rookies.
+* **Flaw:** Sees affection as weakness — hides care behind stoicism.
+* **Quirk:** Adjusts her gloves before every duel; superstition from her first win.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Amphitheater, Lunar Courts, Warden’s Hall**
+* **Threat Gradient:** **Stable → Echo Zone (reflected resonance)**
+* **Encounter Framing:** **Duel under moonlight**, **Assassination intercept**, **Training spar**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born among Thalassara’s noble dueling circles, Selene rose by sheer skill — now a mentor and warrior both.
+Whispers say she’s the moon’s chosen hand, the blade that cuts lies in the dark.
+
+* **Lifestyle:** disciplined, elegant; drinks only moonwater before fights.
+* **Income:** noble patron contracts, teaching fees.
+* **Relationships:** mentor to Rina Velvane; rumored past with Raveen Tal’ithra.
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes beauty and discipline are sacred — violence, when done gracefully, can be divine expression.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control — or feeling genuine affection in battle.
+* **Weaknesses:** Overconfidence, masks pain with sarcasm.
+* **Strengths:** Precision, composure, adaptability.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — flirty mentor energy, teasing through guidance and control.**
+
+> “You hold your blade like a confession. Shall I teach you restraint… or temptation?”
+> She enjoys making others blush mid-training, voice low near the ear.
+> “Don’t tense up. It’s just the moon watching — and me.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her sword *Moonwake* whispers to her — it’s bonded to an Echo spirit that remembers a life she doesn’t.
+* **Hooks:**
+
+  1. **Duel in the Reflection:** Challenge Selene’s shadow self manifested by Moonwake.
+  2. **Echo of the Blade:** Aid her in severing her bond to the ancient moon spirit.
+  3. **The Silent Lesson:** One of her students disappears — leaving behind a reflection that claims her as master.
+
+## Tags: #Female #Senpai #Elf #EldritchKnight #Fighter3 #Thalassara #CR1 #Duelist #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Selene enjoys **flustering pupils**; uses soft eye contact and proximity to unnerve.
+
+> “Your form’s good… but your breathing betrays you.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longsword (*Moonwake*), daggers ×2
+  * **Armor:** duelist’s leather
+  * **Tools:** calligrapher’s kit, sword care oil
+  * **Consumables:** moonwater flask ×1, focus crystal ×1
+  * **Misc:** silver choker, training gloves
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Dueling Mastery**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Moon Amphitheater / Warden’s Hall**
+* **Threat Gradient:** **Stable → Echo Zone (reflected resonance)**
+* **Encounter Type:** **Training duel**, **Assassination intercept**, **Ritual combat**
+* **Affiliation:** **Lunar Vanguard**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Japanese female elf fighter eldritch knight 176cm long platinum silver hair lavender eyes, backless armored corset, indigo duelist coat high slit, silver light magic, elegant confident pose, moonlight courtyard background

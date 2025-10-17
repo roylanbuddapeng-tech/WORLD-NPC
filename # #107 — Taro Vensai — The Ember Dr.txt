@@ -1,0 +1,194 @@
+# #107 — **Taro Vensai** — *The Ember Drifter of the Crimson Steppe*
+
+> “Fire doesn’t burn to destroy. It burns to remember.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 107
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — experienced, ruggedly calm, faint smile lines that carry both wisdom and weariness.
+* **Age:** 38
+* **Race:** **Half-Beast (Salamander Lineage)** — 85% human, faint ember glow beneath skin, subtle scale shimmer over forearms, reddish-gold eyes that flare in darkness.
+* **Class & Level:** **Barbarian (Path of the Zealot)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Mercenary nomad, monster slayer, spirit pilgrim
+* **Rank / Position:** **Ash Wanderer of the Fire March**
+* **Organization:** **Crimson Steppe Nomad Tribes**
+* **Symbol:** Twin curved blades crossing through a flame spiral
+* **Title:** *The Ember Drifter*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Mongolian**, handsome with a traveler’s wear; looks both dangerous and kind, the type who’s survived more than he tells.
+
+**Eyes:** deep amber-orange, burning softly like embers under glass.
+**Skin:** bronzed with faint flame tone on collarbones and fingertips.
+
+**Hair (randomized):** **Medium**, **style:** rough windswept layers, **texture:** slightly wavy, **color:** black with copper streaks.
+**Height:** 182 cm
+**Weight:** 80 kg
+**Body Build:** **Muscular yet lean**, hardened by travel — strong arms, tapered waist, deep scars over ribs.
+
+**Jewelry & Accessories (randomized):**
+**Bone charm necklace**, **woven leather wristbands**, **scarlet headwrap**, **charcoal sash** tied with bronze ring.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Nomadic warrior attire*
+
+Taro wears **sleeveless travel leathers**, open at the chest for heat venting; red scarf wraps across shoulder like a mantle.
+His pants are sand-gray with flame patterns embroidered down one leg; worn boots mark years of roaming.
+The armor plates he uses are mismatched trophies — each from a different battle.
+
+**Color Palette:** crimson / charcoal / bronze / sand
+**Accents:** rugged, practical, heat-weathered nomad aesthetic
+
+**Loadout:** greataxe (*Cindersplit*), handaxe ×2, flask of ash tonic.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 → **45 HP**
+* **AC:** **15** (unarmored defense: 10 + DEX + CON)
+* **Speed:** 40 ft
+* **STR 17 (+3)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Survival +3, Intimidation +3, Nature +2, Perception +3
+* **Languages:** Common, Ignan
+
+**Barbarian (Path of the Zealot) 3:**
+
+* **Rage (3/day)** — +2 dmg, resistance to bludgeoning/piercing/slashing
+* **Divine Fury (1d6+2 radiant)** first attack each turn
+* **Fanatical Focus**
+* **Unarmored Defense (DEX + CON)**
+
+**Attacks:**
+
+* **Greataxe (Cindersplit):** +5 to hit, 1d12+3 slashing (+2 when raging, +1d6+2 radiant once/turn)
+* **Handaxe:** +5 to hit, 1d6+3 slashing (light, thrown 20/60 ft)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Bruiser / Frontline Berserker / Spirit Fighter**
+* **Tactics:** Begins fight calm, enters Rage only when allies endangered; uses *Divine Fury* to purge corruption.
+* **Signature Opener:** burns a sigil into the ground — “Let the ash remember.”
+* **Finisher:** leaps through flame, greataxe bursting white-hot as he cleaves in silence.
+
+**Damage Flavor:** each swing leaves trails of sparks that fade into ash petals.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Grounded, fatherly humor, quietly passionate.
+* **Ideal:** Redemption — “Even ashes can glow again.”
+* **Bond:** Keeps a charm of his lost tribe — burns incense for them every night.
+* **Flaw:** Suppresses emotion until it breaks.
+* **Quirk:** Talks to his weapon like it’s an old friend.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Crimson Steppe, Ashridge Pass, Ember Monastery**
+* **Threat Gradient:** **Wavering → Echo Zone (heat resonance)**
+* **Encounter Framing:** **Monster purge**, **Pilgrimage escort**, **Campfire ambush**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a tribal guardian, Taro lost his people to an Echo firestorm. Now, he wanders — equal parts protector and penitent pilgrim.
+He aids villages, hunts aberrations, and teaches the art of “controlled rage.”
+
+* **Lifestyle:** ascetic, quiet; drinks only during festivals.
+* **Income:** bounty contracts, exorcism pay, blacksmith work.
+* **Relationships:** occasional sparring partner with Elias Corven; respected by Mira Solenne.
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes rage isn’t evil — it’s sacred fire. What matters is what you choose to burn.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing himself to the fire again.
+* **Weaknesses:** Self-blame, reluctant to rest.
+* **Strengths:** Relentless endurance, charisma through calm, loyalty.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — quietly magnetic, protective warmth beneath stoicism.**
+
+> “You keep talking about fire like it’s danger. It’s just warmth that forgot its restraint.”
+> When teased, his response is low laughter and a steady gaze.
+> “You could burn me easy with words like that.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His greataxe *Cindersplit* houses a fragment of his tribe’s guardian spirit — and it’s fading.
+* **Hooks:**
+
+  1. **Ash Spirit’s Rest:** Help Taro rekindle the guardian’s dying flame.
+  2. **Echo of the Fire March:** Severance cult seeks to reawaken the ashstorm that killed his clan.
+  3. **Ember Pilgrimage:** He must walk through the same scorched valley again — to forgive himself.
+
+## Tags: #Male #MiddleAged #HalfBeast #SalamanderLineage #Barbarian3 #Zealot #Skarnov #CR1 #Warrior #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Taro interacts through **acts of care**, not words — hands you his cloak if cold, tends your fire in silence.
+
+> “You don’t need to thank me. Just… keep the flame steady.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** greataxe (*Cindersplit*), handaxes ×2
+  * **Armor:** unarmored (nomad leathers)
+  * **Tools:** blacksmith kit, incense box
+  * **Consumables:** ash tonic ×2, spirit oil ×1
+  * **Misc:** tribal charm, copper headwrap
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 19) *or* **Tavern Brawler**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Crimson Steppe / Ember Monastery**
+* **Threat Gradient:** **Wavering → Echo Zone (heat resonance)**
+* **Encounter Type:** **Monster purge**, **Spirit escort**, **Ash pilgrimage**
+* **Affiliation:** **Crimson Steppe Tribes**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Mongolian male half-beast salamander barbarian 182cm medium black copper hair amber eyes, muscular build, sleeveless red scarf nomad armor, greataxe glowing ember, desert firelight background, calm stoic expression

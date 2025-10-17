@@ -1,0 +1,203 @@
+# #132 — **Naeri Valyn** — *The Whispering Pearl of Thalassara*
+
+> “Still water can drown a man faster than waves. You just have to know when to pull.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 132
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — bright-eyed, charmingly bold, and just a touch too curious for her own safety.
+* **Age:** 19
+* **Race:** **Half-Beast (Aquatic lineage — dolphin hybrid)** — 85% human appearance, faint silver-blue shimmer on skin under light, and delicate fin crests along her hips.
+* **Class & Level:** **Rogue (Arcane Trickster)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Underwater scout, courier diver, artifact retriever
+* **Rank / Position:** **Tide Spy of the Moon Canals**
+* **Organization:** **Thalassara Pearlguard**
+* **Symbol:** A spiral wave embracing a pearl
+* **Title:** *The Whispering Pearl*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Korean**, cute but sharp; an alluring mix of innocent expression and a body built for agility.
+
+**Eyes:** pale aqua-blue, glinting like wet glass.
+**Skin:** soft beige with faint ocean sheen.
+
+**Hair (randomized):** **Medium**, **style:** loose twin tails tied with shells, **texture:** wavy, **color:** pale lavender-blue with silvery highlights.
+**Height:** 162 cm
+**Weight:** 52 kg
+**Body Type:** **Fit swimmer’s build**, smooth lines, toned core, supple limbs.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 86 – 63 – 91
+VALIDATION: • W/B = 0.73 → OK   • H/W = 1.44 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Pearl-drop earrings**, **anklet of coral links**, **small chime bracelet**, **shell hairpins**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *C + D* (**crop-cut wetsuit + thigh-slit skirt combo**)
+
+Naeri wears a **teal-black wetsuit cropped at the waist**, paired with a **short asymmetrical skirt** slit high on the left leg.
+Her sleeves are rolled up, exposing the faint iridescence along her forearms.
+The outfit is light, wave-slicked, and adorned with **tiny luminescent shells** that sparkle softly when she moves.
+A **utility belt** holds underwater knives, potions, and resonance pearls.
+
+**Color Palette:** teal / pearl-white / silver / midnight
+**Accents:** aquatic elegance, playful and sleek
+
+**Loadout:** twin daggers (*Ripple* and *Echo*), spell pouch, pearl focus.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **20 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft; **Swim** 40 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 14 (+2)** **WIS 11 (+0)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** Stealth +6, Acrobatics +6, Sleight of Hand +6, Perception +2, Deception +4
+* **Languages:** Common, Aquan, Thalassaran Cant
+
+**Rogue (Arcane Trickster) 3:**
+
+* **Mage Hand Legerdemain**, **Sneak Attack (2d6)**, **Cunning Action**, **Spellcasting (INT DC 12, +4 atk)**
+
+  * *Cantrips:* *Mage Hand, Minor Illusion, Shape Water*
+  * *1st (3 slots):* *Disguise Self, Silent Image, Sleep*
+
+**Attacks:**
+
+* **Dagger (Ripple):** +6 to hit, 1d4+4 piercing
+* **Throwing Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Scout / Distraction / Ambusher**
+* **Tactics:** Uses *Shape Water* to create visual misdirection, darts in for sneak attacks, then slips into the canal depths.
+* **Signature Opener:** tosses a pearl into the air — *flash*, and she’s already behind you.
+* **Finisher:** silent dive, dagger strike through the reflection on water.
+
+**Damage Flavor:** blue ripples expand from each strike as sound muffles briefly.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Bubbly, daring, playful.
+* **Ideal:** Freedom — “Currents change. Swim with them, not against.”
+* **Bond:** Loyal to her squad leader Lyra Thalassara.
+* **Flaw:** Impulsive — often acts before planning.
+* **Quirk:** Clicks her tongue like a sonar ping when thinking.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Canal depths, Tide vaults, Pearl caverns**
+* **Threat Gradient:** **Wavering → Echo (underwater resonance)**
+* **Encounter Framing:** **Heist dive**, **Rescue mission**, **Echo bloom**
+
+---
+
+## 📜 Background & Lifestyle
+
+Naeri grew up scavenging old shipwrecks in the canals, learning stealth from survival.
+Recruited by the Pearlguard after retrieving a lost artifact faster than any mage-diver could.
+
+* **Lifestyle:** simple, cozy houseboat, always smells faintly of salt.
+* **Income:** bounty cuts and retrieval bonuses.
+* **Relationships:** admires Lyra; teases Taro Wynthal endlessly.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes rules are just barriers to swim through creatively.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Deep silence underwater — the kind that means no life remains.
+* **Weaknesses:** Overconfidence, easily distracted.
+* **Strengths:** Stealth, adaptability, charm.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — energetic, flirty in a playful way, constantly trying to impress.**
+
+> “Captain! Did you see that dive? Bet I could do it blindfolded.”
+> She grins, then pauses.
+> “Want to watch next time?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a forbidden Echo pearl that whispers her name when moonlight hits it.
+* **Hooks:**
+
+  1. **The Whispering Pearl:** The artifact begins mimicking her voice.
+  2. **The Silent Depths:** An old wreck reappears where none should exist.
+  3. **The Ripple Debt:** She owes a favor to a smuggler who saved her once.
+
+## Tags: #Female #JuniorType #HalfBeast #Aquatic #Rogue3 #ArcaneTrickster #Thalassara #CR1 #Scout #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Naeri loves making others fluster — often leans in too close, eyes shining.
+
+> “You’re blushing again. Don’t worry, water hides everything.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** daggers ×2
+  * **Armor:** leather wetsuit
+  * **Tools:** thieves’ tools, swimmer’s belt
+  * **Consumables:** bubble potion ×1, silence pearl ×1
+  * **Misc:** shell hairpin, coral anklet
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Skulker**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Moon Canals / Pearl Caverns**
+* **Threat Gradient:** **Wavering → Echo (aquatic resonance)**
+* **Encounter Type:** **Stealth dive**, **Artifact retrieval**, **Ambush infiltration**
+* **Affiliation:** **Thalassaran Pearlguard**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Korean female half-beast aquatic dolphin hybrid rogue arcane trickster 162cm medium lavender-blue wavy hair aqua eyes, crop wetsuit with thigh-slit skirt, playful smile, underwater light, pearl jewelry, canal reflection background

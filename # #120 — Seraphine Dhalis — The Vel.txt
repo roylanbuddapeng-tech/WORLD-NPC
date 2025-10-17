@@ -1,0 +1,200 @@
+# #120 — **Seraphine Dhalis** — *The Velvet Blade of Cael’Orin*
+
+> “Grace is a weapon too — you simply have to know when to unsheathe it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 120
+* **Gender (weighted random):** **Female (Type: MILF)** — mature, magnetic, gentle voice with dangerous undertone; confidence radiates like perfume.
+* **Age:** 34
+* **Race:** **Half-Elf (Valeronnes Lineage)** — faint golden pattern at corners of eyes, slightly pointed ears, luminous skin tone.
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Duel instructor and noble bodyguard-for-hire
+* **Rank / Position:** **Blademaster of Cael’Orin Court**
+* **Organization:** **The Silver House of Duels**
+* **Symbol:** A rapier crossed with a rose stem
+* **Title:** *The Velvet Blade*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Korean**, luxurious beauty with mature warmth; her presence disarms as much as her sword.
+
+**Eyes:** deep wine-red with amber halo.
+**Skin:** pale porcelain with faint rose-gold undertone.
+
+**Hair (randomized):** **Long**, **style:** cascading soft curls with side-part, **texture:** silky smooth, **color:** ash blonde fading to champagne gold.
+**Height:** 176 cm
+**Weight:** 61 kg
+**Body Type:** **Curvy hourglass**, fit through discipline rather than bulk, fluid and poised.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 106 – 74 – 113
+VALIDATION: • W/B = 0.698 → OK   • H/W = 1.52 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Diamond stud earrings**, **choker of black velvet**, **thin silver chain around wrist**, **earcuff with tiny blade charm**, **gold filigree hairpin**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *B + F* (**low neckline + asymmetric cut**)
+
+Seraphine’s attire fuses elegance and lethality: a **dark crimson bodice** with deep neckline and **single-sleeved black silk jacket** cropped at one shoulder, paired with **split combat skirt** and high boots.
+The fabric gleams faintly — lightweight weave of enchanted silk for dueling speed.
+When she moves, it whispers. When she stops, silence feels deliberate.
+
+**Color Palette:** wine / black / silver / rose-gold
+**Accents:** luxurious, dangerous, commanding
+
+**Loadout:** rapier (*Velvet Thorn*), dagger (*Whisperedge*), dueling cloak.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **17** (breastplate + DEX)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, CON +4
+* **Skills:** Acrobatics +6, Persuasion +5, Insight +3, Performance +5, History +2
+* **Languages:** Common, Elvish, Valeronnes dialect
+
+**Fighter (Battle Master) 3:**
+
+* **Combat Superiority (4d8):** Precision Attack, Riposte, Disarming Attack
+* **Second Wind, Action Surge**
+
+**Attacks:**
+
+* **Rapier (Velvet Thorn):** +6 to hit, 1d8+4 piercing
+* **Dagger (Whisperedge):** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duelist / Controller**
+* **Tactics:** Evades rather than blocks; punishes with Riposte and footwork traps.
+* **Signature Opener:** “Bow first.” A mocking smile — then lightning-fast thrust.
+* **Finisher:** parries enemy strike, pivots behind, blade resting at throat — “Yield beautifully.”
+
+**Damage Flavor:** silken flashes of crimson, petals scattering on each critical strike.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Sophisticated, playful, disciplined.
+* **Ideal:** Beauty — “Every battle should end in art, not chaos.”
+* **Bond:** Protects her students fiercely, calls them “my roses.”
+* **Flaw:** Vanity; despises being ignored or underestimated.
+* **Quirk:** Always twirls a strand of hair when plotting strategy.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Cael’Orin Court, Duel Gardens, Velvet Arena**
+* **Threat Gradient:** **Stable → Wavering (emotion resonance)**
+* **Encounter Framing:** **Formal duel**, **Bodyguard mission**, **Assassination ambush**
+
+---
+
+## 📜 Background & Lifestyle
+
+Seraphine was a noble tutor before war took her house.
+She turned blade into art — creating the *Velvet Style*, a fusion of grace and violence.
+
+* **Lifestyle:** opulent yet solitary; owns private training hall.
+* **Income:** duel exhibitions, noble protection contracts.
+* **Relationships:** mentor to Nerine Vaelith; former ally of Liora Venshade’s mother.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes in controlled power — “A blade unsheathed without poise is a crime against grace.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her beauty or precision through age.
+* **Weaknesses:** Sentimental toward protégés; easily drawn to talent.
+* **Strengths:** Technique, charisma, composure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — teasing dominance wrapped in warmth.**
+
+> “You hold your sword too stiffly, darling… like you’re afraid to touch me.”
+> Her smile drips with amusement; she leans in just enough to fluster.
+> “Don’t tremble — yet. We haven’t even begun.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps an enchanted rose that blooms only when she kills — each petal a life taken in self-defense.
+* **Hooks:**
+
+  1. **The Crimson Bloom:** Someone stole her enchanted rose; the thief’s duel invites you both.
+  2. **Velvet Bloodline:** She’s heir to a secret dueling art once forbidden by the Valeron Court.
+  3. **The Thorn Pact:** Her rapier whispers the name of a dead lover every full moon.
+
+## Tags: #Female #MILFType #HalfElf #Fighter3 #BattleMaster #Valeronnes #CR1 #Duelist #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Seraphine delights in teasing but never humiliates; her affection comes in the form of *correction*.
+
+> “If I wanted to hurt you, I wouldn’t have touched your hand this softly.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, dagger
+  * **Armor:** breastplate
+  * **Tools:** duelist’s kit, grooming kit
+  * **Consumables:** perfume vial ×2, wine flask ×1
+  * **Misc:** enchanted rose, silk choker
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Defensive Duelist**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Cael’Orin Court / Velvet Arena**
+* **Threat Gradient:** **Stable → Wavering (emotion resonance)**
+* **Encounter Type:** **Formal duel**, **Bodyguard defense**, **Court intrigue**
+* **Affiliation:** **Silver House of Duels**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Korean female half-elf fighter battle master 176cm long ash blonde champagne hair red eyes, curvy mature body, low neckline crimson bodice, black silk jacket, split skirt, elegant duelist pose, romantic lighting, confident MILF aura

@@ -1,0 +1,200 @@
+# #167 — **Selene Vareth** — *The Whisper Fang of Lysantra*
+
+> “A secret’s value depends on how softly you can carry it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 167
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — สดใสซื่อแต่สายตาแพรวพราว เล่นหูเล่นตาแบบเด็กขี้สงสัยที่อยากพิสูจน์ตัวเอง
+* **Age:** 20
+* **Race:** **Half-Beast (Fox hybrid — Lysantran Lineage)** — มนุษย์ 85% แต่มีหูจิ้งจอกสีเงินคู่เล็ก ๆ ซ่อนในผม หางฟูสั้นหนึ่งพวง
+* **Class & Level:** **Rogue (Assassin)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** นักสืบเงา / สายลับสำนักข่าวเรโซแนนซ์
+* **Rank / Position:** **Junior Whisper Agent**
+* **Organization:** **Lysantra Echo Correspondents**
+* **Symbol:** ปากกาขนนกไขว้กับหูจิ้งจอก
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese**, cute and expressive with a spark of mischief.
+
+**Eyes:** amber gold with slit pupils that widen when excited.
+**Skin:** smooth porcelain with faint warmth on cheeks.
+
+**Hair (Feminine Hair Randomizer v2.7):** **Medium length**, **style:** **twin buns (“twin odango”)**, **texture:** wavy, **color:** **pale silver with peach-pink streaks**.
+**Height:** 160 cm
+**Weight:** 50 kg
+**Body Type:** **Slender athletic**, toned but delicate.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 86 – 63 – 89
+VALIDATION: • W/B = 0.732 → OK   • H/W = 1.41 → OK
+```
+
+**Jewelry & Accessories (30% glasses roll → no glasses):**
+Small chain earring shaped like a quill, charm ring with fox tail engraving, thigh strap with hidden daggers.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Revealing (cropped spy attire)*
+
+Selene’s gear favors agility: a **cropped black top with reinforced leather straps**, open at midriff and sides, paired with **short asymmetrical skirt** layered over **high stockings** and **arm wraps** for silent movement.
+A small **hooded half-cloak** hides her silver hair when undercover.
+
+**Color Palette:** black / silver / peach pink / slate gray
+**Accents:** cute but tactical, foxlike elegance
+
+**Loadout:** twin daggers (“Inkfangs”), throwing knives, **chakram** (exotic off-hand weapon).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 35 ft
+* **STR 9 (-1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Stealth +8, Acrobatics +6, Investigation +3, Sleight of Hand +6, Deception +4, Insight +3
+* **Languages:** Common, Sylvan, Lysantran
+
+**Rogue (Assassin) 3:**
+
+* **Assassinate, Cunning Action, Sneak Attack (2d6)**
+* **Expertise:** Stealth, Investigation
+* **Thieves’ Tools**
+
+**Attacks:**
+
+* **Inkfang Dagger (Main-hand):** +6 to hit, 1d4+4 piercing (+2d6 sneak attack)
+* **Chakram (Off-hand, exotic):** +6 to hit, 1d6+4 slashing, 20/60 ft range
+* **Thrown Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Ambusher / Scout**
+* **Opener:** Strikes from surprise—throws chakram to disorient, closes in with twin daggers.
+* **Flow:** *Cunning Action (Dash/Hide)* after attack; uses terrain for cover.
+* **Finisher:** Spins both daggers with a sly grin, vanishes in shadow with foxlike speed.
+
+**Damage Flavor:** a silver arc followed by soft shimmer trails, like quills dipped in light.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Curious, talkative, slightly mischievous.
+* **Ideal:** Discovery — “Secrets deserve the light, but softly.”
+* **Bond:** Protects her news source network.
+* **Flaw:** Nosey — can’t resist poking into things.
+* **Quirk:** Wags her tail slightly when excited or lying.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Lysantra — Whisper Towers, Silver Archives, Night Markets**
+* **Threat Gradient:** **Wavering → Echo Zone** (high-info resonance areas)
+* **Encounter Framing:** **Spy infiltration**, **Silent retrieval**, **Information duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a courier family, joined the Echo Correspondents at 17 for adventure.
+She writes anonymous reports about corruption but also leaks tips to adventurers for fun.
+
+* **Lifestyle:** playful; lives in rented rooms above news stalls.
+* **Income:** information trading + delivery jobs.
+* **Relationships:** idolizes Nahara Lysveil; teases Eiden Voss when off-duty.
+
+---
+
+## 🧩 Morals & Ethics
+
+“Truth’s just another kind of weapon — you need to handle it carefully.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Silence — total loss of information flow (Echo blackout).
+* **Weaknesses:** Too trusting of charming faces.
+* **Strengths:** Stealth, reconnaissance, improvisation.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — ขี้เล่น อายง่าย แต่ชอบแหย่ให้คนอื่นเขินก่อน**
+
+> “You blinked when I smiled. That’s a reportable reaction, you know?”
+> เธอหัวเราะเบา ๆ แล้วเอียงหัว
+> “You’re cute when you try to act serious.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps encrypted notes about the Severance hidden inside her chakram’s inner rim.
+* **Hooks:**
+
+  1. **Foxlight Files:** Retrieve her stolen notebook before it’s sold to the wrong guild.
+  2. **Silent Broadcast:** The Echo Towers suddenly transmit her voice across the city.
+  3. **Tail in Trouble:** Someone tries to cut off her tail to silence her—literally.
+
+## Tags: #Female #JuniorType #HalfBeast #FoxHybrid #Rogue3 #Assassin #Lysantra #CR1 #Adventurer #Chakram
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Selene **ชอบทำให้คนอื่นหน้าแดง** — กระซิบใกล้หู ใช้หางสะกิดเบา ๆ แล้วหัวเราะ
+
+> “Relax, I’m just gathering intel. …Your pulse counts as intel, right?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** twin daggers, chakram (throwable)
+  * **Armor:** leather top
+  * **Tools:** thieves’ tools, disguise kit
+  * **Consumables:** smoke pellets ×2, potion of healing ×1
+  * **Misc:** quill earring, secret notebook, charm tail ring
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Lysantra / Whisper Towers / Night Market rooftops**
+* **Threat Gradient:** **Wavering → Echo Zone (info resonance)**
+* **Encounter Type:** **Spy chase**, **Silent assassination**, **Message retrieval**
+* **Affiliation:** **Echo Correspondents**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female half-beast fox rogue assassin 160cm medium twin buns pale silver hair peach streaks, amber slit eyes, black cropped spy outfit, twin daggers and chakram, cute mischievous expression, night market rooftops

@@ -1,0 +1,194 @@
+# #156 — **Renji Arcthel** — *The Iron-Wing Duelist of Skarnov Forgeway*
+
+> “I sharpen my words like my blades — quick, clean, and loud enough to wake the lazy gods.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 156
+* **Gender (weighted random):** **Male (Type: เมะ)** — มาดเข้ม มั่นใจ เสียงต่ำเจือรอยยิ้มแบบไม่อ่อนโยนแต่ปลอดภัย
+* **Age:** 26
+* **Race:** **Half-Beast (Avian – Hawk hybrid)** — 85% human, ปีกโลหะเล็กสองข้างโผล่จากหลังเมื่อใช้พลัง, ดวงตาสีทองคมราวเหยี่ยว
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** นักดวลเหล็ก, ทหารรับจ้าง, ผู้คุมโรงตีเหล็กฝึกหัด
+* **Rank / Position:** **Wing Lieutenant**
+* **Organization:** **Skarnov Iron Duelists’ Guild**
+* **Symbol:** เหยี่ยวขึงปีกเหนือค้อนตีเหล็ก
+* **Title:** *The Iron-Wing Duelist*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Nordic**, soldier-poet allure — iron resolve beneath a grin that never falters.
+
+**Eyes:** molten gold with a dark ring like tempered steel.
+**Skin:** sun-bronzed, light scarring on knuckles and cheek.
+
+**Hair (Masculine Hair Randomizer v2.7):** **Medium length**, **sub-style:** **messy layered ponytail**, **texture:** slightly wavy, **color:** **dark ash brown with bronze highlights**.
+**Height:** 183 cm
+**Weight:** 78 kg
+**Body Build:** **Athletic muscular** — defined chest, wiry arms, v-cut torso, scars at shoulder creases.
+
+**Jewelry & Accessories (30% glasses rule; result: no glasses):**
+Silver ear cuff shaped like a hawk’s talon, leather wristband with engraved runes, belt charm of broken gear-feathers.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Standard battle harness (partial reveal — sleeveless, shoulder exposed)*
+
+Renji wears a **forged-leather cuirass** with open shoulders and fitted chest straps showing hardened muscle lines.
+A **metal-feather pauldron** glints on the left arm; his **wing crest** etched with runes glows faintly when he spins.
+**Trousers** reinforced with forge mesh; **boots** heavy, built for aerial jumps.
+
+**Color Palette:** iron black / bronze / crimson / charcoal gray
+**Accents:** warrior-pride, hammer-scented charm
+
+**Loadout:** greatsword *Hawktalon*, shortsword *Rendwing*, smith’s hammer (tool focus).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **17** (chain shirt + DEX + defense fighting style)
+* **Speed:** 30 ft; **Glide (racial trait):** can glide up to 30 ft horizontally per 10 ft drop, no fall damage under 30 ft.
+* **STR 17 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Perception +3, Intimidation +3, Smith’s Tools +4
+* **Languages:** Common, Dwarvish, Auran
+
+**Fighter (Battle Master) 3:**
+
+* **Maneuvers:** **Precision Attack, Riposte, Disarming Attack**
+* **Superiority Dice:** d8 (4/short rest)
+* **Second Wind**, **Action Surge**
+* **Fighting Style:** Defense
+
+**Attacks:**
+
+* **Greatsword (Hawktalon):** +5 to hit, 2d6+3 slashing; may add Maneuver (1d8).
+* **Shortsword (Rendwing):** +5 to hit, 1d6+3 slashing (off-hand).
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duelist / Controller / Disabler**
+* **Tactics:** Opens with **Precision Attack**, draws enemy aggression, then punishes with **Riposte** while allies reposition.
+* **Signature Opener:** spin slash into wing-assisted leap, bronze feathers scatter like sparks.
+* **Finisher:** **Disarming Attack** mid-air, landing with a blade-tip near throat.
+
+**Damage Flavor:** arcs of molten bronze follow each swing like trails of forge-fire.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, protective, competitive in a teasing way.
+* **Ideal:** Freedom — “I’d rather bleed for my wings than crawl for a crown.”
+* **Bond:** Protects smith apprentices under his watch.
+* **Flaw:** Overconfidence; never refuses a challenge.
+* **Quirk:** Spins his hammer like a baton when bored.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Forgeway District, Iron Arena, Sky Pits**
+* **Threat Gradient:** **Wavering → Echo Zone (aerial duels)**
+* **Encounter Framing:** **Smith trial duel**, **Skyway defense**, **Arena exhibition gone rogue**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a forge worker and a sky courier; forged his first blade at 14, earned guild medal at 19.
+Lives above a workshop where the floor trembles from anvils.
+
+* **Lifestyle:** disciplined; wakes at dawn, runs forge circuits before breakfast.
+* **Income:** duel bounties + weapon commissions.
+* **Relationships:** mentor to Asha Ferrin; sparring partner of Rhea Corvalen; banters with Lyra Thalassara about “real precision.”
+
+---
+
+## 🧩 Morals & Ethics
+
+Strength serves the free, not the proud — believes skill is art when done for others’ safety.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being grounded (losing flight trait).
+* **Weaknesses:** Can’t hide emotions; temper sparks too easily.
+* **Strengths:** Exceptional duelist; reads combat rhythm like music.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — protective, slightly cocky flirt.**
+
+> “Keep your eyes on me. Not because I’m handsome — because I’m your cover.”
+> Smirks, offering a gauntleted hand.
+> “...Though I won’t stop you from looking twice.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His feathers contain latent Echo-reactive metal — Severance agents once tried to harvest them.
+* **Hooks:**
+
+  1. **The Feather Forge:** Recover stolen molten feathers from black market forges.
+  2. **Wings of Ironfall:** His old mentor resurfaces as an Echo-corrupted duelist.
+  3. **The Sky Debt:** A contract binds his flight — only a celestial seal can free him.
+
+## Tags: #Male #SemeType #HalfBeast #Hawk #Fighter3 #BattleMaster #Skarnov #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Renji likes **making others flustered** through bold sincerity; often throws a towel at allies mid-practice.
+
+> “You’re sweating already? C’mon — one more round. I’ll buy you water after.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** greatsword (Hawktalon), shortsword (Rendwing)
+  * **Armor:** chain shirt
+  * **Tools:** smith’s tools, wing oil, forge brush
+  * **Consumables:** potion of healing ×2, bronze polish ×1
+  * **Misc:** talon cuff, wing crest charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 19) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Forgeway / Sky Pits**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **Arena duel**, **Forge rescue**, **Echo aerial chase**
+* **Affiliation:** **Iron Duelists’ Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Nordic male half-beast hawk fighter battlemaster 183cm medium messy ponytail wavy dark ash brown bronze hair, golden eyes, sleeveless battle cuirass, bronze feathers, confident smirk, forge arena backdrop

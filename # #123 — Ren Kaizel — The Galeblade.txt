@@ -1,0 +1,195 @@
+# #123 — **Ren Kaizel** — *The Galeblade Duelist of Thalassara*
+
+> “Wind doesn’t ask for permission. It just passes through — like me.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 123
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — mature, confident, quietly intimidating with a smirk that says *he’s seen worse and lived to laugh about it.*
+* **Age:** 37
+* **Race:** **Human (Thalassaran Lineage)** — faint silver shimmer in eyes, slight glow in veins when channeling wind ki.
+* **Class & Level:** **Fighter (Eldritch Knight)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **True Neutral**
+* **Profession:** Veteran duelist, mercenary captain, storm tactician
+* **Rank / Position:** **Captain of the Storm Blades**
+* **Organization:** **Thalassaran Mercenary Guild**
+* **Symbol:** A broken sword cutting through a gust of wind
+* **Title:** *The Galeblade Duelist*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–European**, ruggedly handsome, edges of silver at temples — the kind of weathered beauty earned through danger and regret.
+
+**Eyes:** steel-gray with faint turquoise gleam under magic.
+**Skin:** light bronze, faint scar down his right cheek.
+
+**Hair (randomized):** **Short**, **style:** layered swept-back undercut, **texture:** slightly coarse, **color:** black fading to silver at tips.
+**Height:** 185 cm
+**Weight:** 79 kg
+**Body Build:** **Athletic muscular**, not bulky but solid, posture relaxed yet predatory.
+
+**Jewelry & Accessories (randomized):**
+**Single silver hoop earring (left ear)**, **weathered leather wristguard**, **etched wind talisman**, **small compass on chain**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Combat practical gear*
+
+Ren’s armor is functional elegance — **dark teal leather coat**, sleeveless under-layer reinforced with steel seams.
+The coat splits at the thigh for fluid motion, fluttering like wings when he turns.
+A **wind sigil** glows faintly on the back of his right hand when he fights.
+
+**Color Palette:** black / teal / gray / silver
+**Accents:** worn, graceful, utilitarian charm
+
+**Loadout:** longsword (*Stormfang*), dagger, spell focus ring.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **17** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 18 (+4)** **CON 14 (+2)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Acrobatics +6, Perception +3, Athletics +4, Intimidation +2
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Fighter (Eldritch Knight) 3:**
+
+* **Weapon Bond (Stormfang)**, **Action Surge**, **Second Wind**
+* **Spellcasting (INT DC 11, +3 atk)**
+
+  * *Cantrips:* *Booming Blade, Gust*
+  * *1st (2 slots):* *Shield, Thunderwave, Absorb Elements*
+
+**Attacks:**
+
+* **Longsword (Stormfang):** +6 to hit, 1d8+4 slashing (+1d8 thunder when empowered)
+* **Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Counter Duelist**
+* **Tactics:** Opens with *Booming Blade* and retreat footwork, drawing opponents in.
+* **Signature Opener:** *Thunderwave* blast, coat flaring as dust spirals around him.
+* **Finisher:** slashes through air, a wind shockwave bursts behind the opponent.
+
+**Damage Flavor:** strikes leave spiraling air ripples and faint blue arcs of light.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Dry humor, pragmatic, protective of subordinates.
+* **Ideal:** Freedom — “Every man should choose the storm he walks through.”
+* **Bond:** His sword, *Stormfang*, was forged from his fallen comrade’s armor.
+* **Flaw:** Drinks to forget but never forgets enough.
+* **Quirk:** Rolls his shoulders before every duel, sighs before he wins.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Harbor Front, Gale Fields, Canal rooftops**
+* **Threat Gradient:** **Stable → Wavering (wind resonance)**
+* **Encounter Framing:** **Mercenary skirmish**, **Guard contract**, **Wind duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Ren once commanded the elite “Azure Vanguard” until they were betrayed during the Severance riots.
+Now he leads a smaller crew, taking jobs for survival — not glory.
+
+* **Lifestyle:** minimalist; sleeps wherever the wind allows.
+* **Income:** mercenary pay, dueling contracts.
+* **Relationships:** rival to Miyu Hanari, mentor to younger mercenaries.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes honor is a story people tell after war — he values results and those who can bear them.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Becoming irrelevant, forgotten by the next generation.
+* **Weaknesses:** Cynicism, emotional distance.
+* **Strengths:** Tactical mind, precision swordsmanship, cool under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — relaxed authority, teasing confidence, protective warmth.**
+
+> “You talk too much before drawing your blade. The wind doesn’t wait — and neither do I.”
+> He chuckles lowly, stepping close enough to smell like iron and rain.
+> “Still, I like your spirit. Try not to lose it when I win.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** He carries the echo of his fallen comrade’s soul inside *Stormfang* — and sometimes hears it whisper tactics mid-fight.
+* **Hooks:**
+
+  1. **The Silent Wind:** The sword’s whisper goes silent; he begins losing his edge.
+  2. **Storm Debt:** The Azure Vanguard’s last survivor hunts him for answers.
+  3. **Gale Contract:** The Thalassaran Council offers him one last impossible mission.
+
+## Tags: #Male #AdultType #Human #Fighter3 #EldritchKnight #Thalassara #CR1 #Mercenary #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ren flirts subtly — eye contact, smirks, an unspoken “I know what I’m doing.”
+
+> “Don’t look at me like that. You’ll make me think you actually believe in me.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, dagger
+  * **Armor:** studded leather
+  * **Tools:** whetstone, wind compass
+  * **Consumables:** liquor flask ×1, thunder oil ×1
+  * **Misc:** compass necklace, torn Azure Vanguard insignia
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Gale Fields / Canal rooftops**
+* **Threat Gradient:** **Stable → Wavering (wind resonance)**
+* **Encounter Type:** **Duel**, **Escort mission**, **Echo ambush**
+* **Affiliation:** **Thalassaran Mercenary Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese European male human fighter eldritch knight 185cm short black silver hair steel-gray eyes muscular build, teal leather coat, wind aura, longsword drawn, stormy sky, rugged handsome mid-aged duelist

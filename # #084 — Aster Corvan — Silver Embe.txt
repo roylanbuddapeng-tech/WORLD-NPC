@@ -1,0 +1,195 @@
+# #084 — **Aster Corvan** — *Silver Ember Artificer of Skarnov*
+
+> “Creation is the only rebellion the gods never punished.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 084
+* **Gender (weighted random):** **Male (Type: เมะ)** — sharp, assertive, strategic; radiates confident calm that commands attention without effort
+* **Age:** 27
+* **Race:** **Human (Skarnov)** — faint metallic tone to the iris, soot-streak patterns on fingertips from forge oils
+* **Class & Level:** **Artificer (Armorer)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Engineer, battle mechanic, field armorer
+* **Rank / Position:** **Field Engineer of the Ember Watch**
+* **Organization:** **Skarnov Mechanist Guild**
+* **Symbol:** Cogwheel with seven inner flames
+* **Title:** *The Silver Ember*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **German–British**, refined industrial charm — handsome with faint rough edges.
+
+**Eyes:** silver-grey, glinting like polished metal when focused.
+**Skin:** fair with a constant hint of forge tan at collar and forearms.
+
+**Hair (randomized):** **Short**, **style:** textured comb-back with a few rebellious strands, **texture:** thick and straight, **color:** ash brown with pale silver streaks.
+**Height:** 182 cm
+**Weight:** 78 kg
+**Body Build:** **Athletic–muscular**, lean frame with mechanical precision in every movement.
+
+**Jewelry & Accessories (randomized):**
+Steel **monocle lens**, **magnetized bracelet** for tool storage, and a **chain-worn cog pendant**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *C* (**Midriff Reveal**)
+
+Aster’s field uniform is half-armor, half-craft: a **smoked-steel harness vest** with reinforced plating that **leaves a glimpse of his midriff** when he bends, paired with **black forge-trousers** and **reinforced gloves** wired with sparks.
+A **metallic shoulder mantle** runs asymmetrically, engraved with arcane runes that faintly glow when he activates his gear.
+
+**Color Palette:** steel grey / bronze / black / faint orange glow
+**Accents:** rugged, sleek, functional but provocatively confident
+
+**Loadout:** Modular gauntlets (*Arc-Claws*), arcane tool pack, compact pulse hammer.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **17** (Arcane Armor + DEX)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 14 (+2)** **CON 14 (+2)** **INT 17 (+3)** **WIS 11 (+0)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Arcana +5, Investigation +5, Perception +2, Sleight of Hand +4, Smith’s Tools +4
+* **Languages:** Common, Dwarvish, Draconic
+
+**Artificer (Armorer) 3:**
+
+* **Infusions:** Enhanced Defense, Returning Weapon, Mind Sharpener
+* **Spells (INT DC 13, +5 atk)**
+
+  * *Cure Wounds, Faerie Fire, Grease, Heat Metal, Thunderwave*
+* **Cantrips:** *Mending, Shocking Grasp, Guidance*
+* **Armor Model:** *Guardian Mode* (Thunder Gauntlets + Defensive Field)
+
+**Attacks:**
+
+* **Arc-Claws (Thunder Gauntlets):** +5 to hit, 1d8+3 thunder; target has disadvantage on attacks not against Aster
+* **Pulse Hammer:** +3 to hit, 1d6+1 bludgeoning
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Tank / Disruptor / Engineer**
+* **Tactics:** Opens with *Heat Metal* or *Thunderwave*; uses Thunder Gauntlets to protect allies.
+* **Signature Opener:** sparks crackle up his gloves as he grins, “Let’s make something explode, but tastefully.”
+* **Finisher:** slams gauntlets together, releasing a shockwave of sound and molten light.
+
+**Damage Flavor:** heat ripples and glowing motes of molten metal spiral from his strikes.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Charismatic, analytical, competitive; speaks like he’s always building something in his head.
+* **Ideal:** Innovation — “Perfection is for cowards. I’ll take improvement instead.”
+* **Bond:** His forge apprentice who vanished in a resonance surge.
+* **Flaw:** Obsessed with unfinished projects.
+* **Quirk:** Talks to his inventions as if they’re old friends.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ember Foundries, Iron Circuits, Mechanist Docks**
+* **Threat Gradient:** **Wavering → Echo Zone (forge resonance anomalies)**
+* **Encounter Framing:** **Workshop Duel**, **Escort Under Siege**, **Field Repairs in Combat**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised by the Skarnov smiths, Aster’s mechanical ingenuity outpaced his mentors. His customized Arc-Claws saved a dozen soldiers during a siege, earning him the title “Silver Ember.”
+
+* **Lifestyle:** busy, drinks too much coffee, sleeps on blueprints.
+* **Income:** engineering contracts + artifact commissions.
+* **Relationships:** rival/friend with Kael Rinzen; unspoken tension with Mirella D’Ardenne.
+
+---
+
+## 🧩 Morals & Ethics
+
+Views morality as engineering — you test, refine, and build better systems until they hold under pressure.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Creating something that kills innocents.
+* **Weaknesses:** Overworks himself; poor at delegation.
+* **Strengths:** Tactical intellect, invention speed, resilience.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — commanding, protective, teasing through confidence.**
+
+> “Hold still—if you flinch, you’ll lose a finger. Don’t worry, I’ve got a spare.”
+> He **makes others blush** through casual proximity and dry humor, smirking when they stammer.
+> “You’re cute when you panic. Engineers love pressure.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Built a sentient automaton that now wanders the undercity seeking “freedom.”
+* **Hooks:**
+
+  1. **Echo Engine:** Retrieve his runaway construct before it joins the Severance.
+  2. **Forge Under Siege:** Aid Aster in defending a foundry from resonance sabotage.
+  3. **Blueprint of the Heart:** Help him recreate his apprentice’s lost invention.
+
+## Tags: #Male #MehType #Human #Artificer3 #Armorer #Skarnov #CR1 #Engineer #Inventor
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Keeps steady eye contact while explaining — his voice smooth but commanding. If someone teases him, he chuckles low:
+
+> “Careful. Compliments have side effects.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** Arc-Claws, Pulse Hammer
+  * **Armor:** Arcane Harness
+  * **Tools:** Tinker’s set, Smith’s kit
+  * **Consumables:** ether vial ×2, heat stabilizer ×1
+  * **Misc:** monocle lens, cog pendant, blueprint roll
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **Resilient (CON)**
+  * **Infusion Additions:** *Enhanced Weapon*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov — Mechanist Foundries**
+* **Threat Gradient:** **Wavering → Echo Zone (mechanical resonance)**
+* **Encounter Type:** **Field Repair**, **Siege Defense**, **Arcane Engineering Crisis**
+* **Affiliation:** **Skarnov Mechanist Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+German British male human artificer armorer 182cm short ash brown hair with silver streaks, silver-grey eyes, athletic muscular build, cropped metallic harness vest midriff, gloves crackling lightning, industrial forge background, confident smirk

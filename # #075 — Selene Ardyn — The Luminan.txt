@@ -1,0 +1,205 @@
+# #075 — **Selene Ardyn** — *The Luminant Seeker of the Glass Spire*
+
+> “Every reflection is a question. Every answer, a blade of light.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 075
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — poised, intelligent, protective; calm tone with quiet sensual confidence
+* **Age:** 29
+* **Race:** **Elf (Valeronnes Lineage)** — 90% human appearance; faint crystalline shimmer over temples and upper cheeks, pupils shaped like narrow diamonds when using magic
+* **Class & Level:** **Cleric (Light Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Radiant scholar, exorcist, lecturer at the Spire Conservatory
+* **Rank / Position:** **Luminant Seeker**
+* **Organization:** **Valeronnes Spire Order**
+* **Symbol:** An open eye surrounded by three concentric halos
+* **Title:** *The Mirror-Saint*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Greek hybrid**, elegant like a philosopher-queen; soft but radiant features.
+
+**Eyes:** pale amber, glow faintly when channeling divine energy.
+**Skin:** luminous ivory, almost glass-smooth under candlelight.
+
+**Hair (randomized):** **Very Long**, **style:** loosely braided and coiled around the crown, **texture:** straight with delicate volume, **color:** pale silver with a faint golden undertone.
+**Height:** 176 cm
+**Weight:** 62 kg
+**Body Type:** **Statuesque and fit** — toned like a dancer’s, long legs, regal posture.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 97 – 70 – 104
+VALIDATION: • W/B = 0.722 → OK   • H/W = 1.48 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+Thin **halo circlet** of silver and light-crystal, **amber drop earrings**, **rune-banded bracelet**, **moon-glass anklet**, and a **necklace** of intertwined sun and moon sigils.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *A + C* (**Deep neckline + Midriff reveal**)
+
+Her ceremonial robes are both sacred and daring — a **white-gold sleeveless vestment** with a **deep V-cut neckline** bordered by runic gold thread, opening just enough to reveal the shimmer of her collarbones and upper chest.
+The robe’s middle section parts above the navel, leaving a **sliver of toned midriff** framed by transparent **gold mesh lace** before flowing back into layered skirts split at the sides for movement.
+
+A **translucent mantle** of light silk drapes from her shoulders like falling light.
+When she walks, the hemline catches and scatters radiance as if refracting sunlight through water.
+
+**Color Palette:** white / gold / soft amber / silver glow
+**Accents:** divine elegance, sensual composure, ceremonial authority
+
+**Loadout:** Sunlight Focus (holy symbol), silver mace, radiant crystal prayer chain, incense flask.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **25 HP**
+* **AC:** **17** (chain shirt + shield)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 12 (+1)** **CON 12 (+1)** **INT 13 (+1)** **WIS 17 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Insight +5, Religion +3, Persuasion +4, Medicine +3, History +3
+* **Languages:** Common, Elvish, Celestial, Valeron High Cant
+
+**Cleric (Light Domain) 3:**
+
+* **Channel Divinity (1/rest):** *Radiance of the Dawn*
+* **Domain Spells:** *Burning Hands, Faerie Fire, Flaming Sphere, Scorching Ray*
+* **Cantrips:** *Light, Sacred Flame, Thaumaturgy, Guidance*
+* **Prepared Spells (6+WIS):** *Cure Wounds, Shield of Faith, Lesser Restoration, Spiritual Weapon, Aid, Guiding Bolt*
+
+**Attacks:**
+
+* **Mace (Radiant focus):** +5 to hit, 1d6+3 bludgeoning (counts as magic when channeling)
+* **Sacred Flame (Cantrip):** DC 13 DEX save, 1d8 radiant
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Battlefield Illumination / Anti-Echo**
+* **Tactics:** Opens with *Faerie Fire* or *Guiding Bolt*; keeps frontliners buffed with *Shield of Faith* and *Aid*. *Radiance of the Dawn* to purge Echo corruption zones.
+* **Signature Opener:** Draws a glowing sigil in air — the light refracts outward into a protective circle.
+* **Finisher:** Walks calmly through chaos, hands pressed together as light erupts from her silhouette.
+
+**Damage Flavor:** golden fractals spreading through air like mirrored wings.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Wise, nurturing, teasing warmth like an older sister.
+* **Ideal:** Clarity — “Light reveals, it doesn’t judge.”
+* **Bond:** Protects her students at the Spire as fiercely as family.
+* **Flaw:** Buries grief under composure; refuses to cry in public.
+* **Quirk:** Adjusts her robe collar mid-conversation whenever embarrassed.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glass Spire, Sunlit Cloisters, Mirror Sanctum**
+* **Threat Gradient:** **Stable → Wavering (ritual echo interference)**
+* **Encounter Framing:** **Sanctum Defense**, **Ritual Cleansing**, **Philosophical Duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born among scholars, Selene grew to blend intellect with faith. She travels between the Moon Courts and Glass Spire to treat echo-corruption cases. Her radiance inspires devotion and discomfort alike.
+
+* **Lifestyle:** ascetic luxury; enjoys silence and polished glass halls.
+* **Income:** Scholar stipend + temple commission fees.
+* **Relationships:** Mentor to Isidora Myrialis; confidante of Lucien D’Artois.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes in truth through empathy; absolution without blindness.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her reflection in a Severance mirror.
+* **Weaknesses:** Soft spot for wounded or lost souls.
+* **Strengths:** Control, charisma, radiant power.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — calm, confident, tender teasing.**
+
+> “You’re trembling. Don’t worry — I’ll hold your hand until you stop.”
+> She enjoys **making others blush** by maintaining unbroken eye contact and speaking softly close to their ear.
+> When flustered, she deflects with humor:
+> “Light forgive me… I didn’t mean to sound like that.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a forbidden mirror fragment that shows not reflections, but memories of those she’s healed.
+* **Hooks:**
+
+  1. **The Fractured Sun:** Protect her during a ritual that could shatter the Glass Spire’s wards.
+  2. **Light Under Shadow:** Retrieve her stolen mirror fragment before the Severance use it.
+  3. **Candle’s End:** Selene begins to lose her reflection — uncover what’s feeding on it.
+
+## Tags: #Female #SeniorType #Elf #Cleric3 #LightDomain #Valeronnes #CR1 #SupportCaster #DivineBeauty #Elegant
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Moves deliberately, voice low and melodic. Offers to fix a wounded ally’s bandage herself, fingers tracing skin with slow care.
+
+> “There. Better?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** radiant mace, silver dagger
+  * **Armor:** chain shirt, sacred mantle
+  * **Tools:** incense case, crystal focus
+  * **Consumables:** 2× healing draughts, 1× radiant salve
+  * **Misc:** sun-moon pendant, glass charm, scroll of guiding prayer
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 19) *or* **War Caster**
+  * **Spell Additions:** *Beacon of Hope*, *Daylight*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Glass Spire, Mirror Sanctum**
+* **Threat Gradient:** **Wavering (echo bleed during ceremonies)**
+* **Encounter Type:** **Ritual Defense**, **Investigation**, **Moral Dilemma**
+* **Affiliation:** **Spire Order of Luminant Seekers**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Greek female elf cleric, 176cm, very long silver-gold hair braided crown, amber eyes, radiant white-gold robes deep neckline cropped midriff, tall elegant figure, divine light aura, cathedral glass spire background, serene confident expression

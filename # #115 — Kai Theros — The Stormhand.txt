@@ -1,0 +1,194 @@
+# #115 — **Kai Theros** — *The Stormhand of the Shattered Shoal*
+
+> “If the sea takes everything, then I’ll just learn to take it back.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 115
+* **Gender (weighted random):** **Male (Type: เคะ)** — soft-spoken, polite, but stubborn underneath; looks fragile, fights with explosive grace.
+* **Age:** 22
+* **Race:** **Half-Beast (Shark Lineage)** — 85% human, faint gray tint to skin under light, thin gill slits at the neck, and dark fin-like streaks through hair.
+* **Class & Level:** **Monk (Way of the Open Hand)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Salvager-diver and wandering martial artist
+* **Rank / Position:** **Journeyman Monk of the Shattered Shoal**
+* **Organization:** **Tide Monastery of Caldris Reef**
+* **Symbol:** A spiral wave breaking through a ring of coral
+* **Title:** *The Stormhand*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Hawaiian**, soft, boyish face with earnest eyes; a calmness that hides sharp motion.
+
+**Eyes:** storm-gray with faint flecks of ocean teal.
+**Skin:** pale olive tone with light gray undertone and smooth texture.
+
+**Hair (randomized):** **Short**, **style:** undercut with longer tousled top swept to side, **texture:** wet-slick shine, **color:** deep slate-gray with light aqua tips.
+**Height:** 160 cm
+**Weight:** 54 kg
+**Body Build:** **Lean athletic**, swimmer’s core, compact and flexible.
+
+**Jewelry & Accessories (randomized):**
+**Wrist cords of woven kelp fiber**, **black shark-tooth earring**, **thin ankle charm of coral**, **tattoo of wave sigil along right shoulder**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Monastic combat attire*
+
+Kai wears **tight sea-gray wraps** around chest and arms, a **blue-green sleeveless tunic** tied with rope sash, and **short fighting trousers** for underwater mobility.
+The cloth shimmers faintly like sharkskin; his fists bear faint scars from constant sparring.
+He moves with smooth, almost dance-like flow, every gesture deliberate.
+
+**Color Palette:** sea-gray / teal / navy / silver
+**Accents:** oceanic, disciplined, minimal but elegant
+
+**Loadout:** unarmed combat (flavored strikes), short spear, dart set.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (DEX + WIS)
+* **Speed:** 40 ft; **Swim speed:** 30 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 11 (+0)** **WIS 15 (+2)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Acrobatics +6, Athletics +3, Insight +4, Stealth +6, Survival +4
+* **Languages:** Common, Aquan
+
+**Monk (Way of the Open Hand) 3:**
+
+* **Martial Arts (1d6), Ki (3 pts), Unarmored Movement +10 ft**
+* **Deflect Missiles, Flurry of Blows, Patient Defense, Step of the Wind**
+* **Open Hand Technique:** knock prone, push, or prevent reaction.
+
+**Attacks:**
+
+* **Unarmed Strike:** +6 to hit, 1d6+4 bludgeoning
+* **Short Spear:** +6 to hit, 1d6+4 piercing (monk weapon)
+* **Dart:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Control Monk**
+* **Tactics:** Moves like a current; hits fast, disables, and withdraws.
+* **Signature Opener:** leap from surface, spinning kick leaving spray in the air.
+* **Finisher:** *Flurry of Blows* + *Open Hand Technique* slam that sends enemy skidding.
+
+**Damage Flavor:** strikes emit faint blue shockwaves that sound like distant surf.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Soft-spoken, analytical, shy smile hides fierce resolve.
+* **Ideal:** Balance — “The ocean takes, so we must learn to give.”
+* **Bond:** His drowned brother’s bracelet — never removes it.
+* **Flaw:** Overthinks everything; hesitates to act on emotion.
+* **Quirk:** Bites lower lip when embarrassed; tail end of phrases turn to murmurs.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Shattered Shoal, Tide Monastery, Coral Labyrinth**
+* **Threat Gradient:** **Stable → Wavering (water resonance)**
+* **Encounter Framing:** **Rogue wave combat**, **Salvage dive**, **Rescue mission underwater**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born in a fishing village destroyed by the Severance tide, Kai was the only survivor rescued by monks.
+He learned their ways — calm discipline over chaos.
+
+* **Lifestyle:** ascetic; sleeps on stone slab, meditates by sea cliffs.
+* **Income:** salvages Echo artifacts and sells them through temple networks.
+* **Relationships:** mentee of Aria Lenvale; occasionally sparring partner to Miyu Hanari.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes violence should be as controlled as a wave — powerful but temporary.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Deep-sea darkness; still dreams of drowning.
+* **Weaknesses:** Timid socially; blushes easily under attention.
+* **Strengths:** Precision, agility, control of body and emotion.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — quiet, reactive, easily flustered but graceful in response.**
+
+> “W-wait… don’t stare. It’s distracting.”
+> Blushes when complimented, avoids eye contact, fingers the cord at his wrist.
+> “I’m not weak… I just prefer not to fight unless it’s worth bleeding for.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** He can hear whispers from the drowned — an Echo gift he hides.
+* **Hooks:**
+
+  1. **The Tide’s Voice:** Help Kai uncover who speaks through the sea at night.
+  2. **Sunken Shrine:** Escort him to retrieve relics that belonged to his brother.
+  3. **The Breath Between Waves:** His Ki begins to sync with an Echo current — dangerous but powerful.
+
+## Tags: #Male #KehType #HalfBeast #SharkLineage #Monk3 #OpenHand #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kai reacts shyly to touch or praise, retreating half a step before answering softly.
+
+> “You don’t need to thank me… Just— try not to drown next time, okay?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** short spear, darts ×10
+  * **Armor:** none (monk)
+  * **Tools:** diver’s kit, water flask
+  * **Consumables:** salt rations ×2, coral salve ×1
+  * **Misc:** shark-tooth earring, brother’s bracelet
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Tough**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Shattered Shoal / Tide Monastery**
+* **Threat Gradient:** **Stable → Wavering (water resonance)**
+* **Encounter Type:** **Underwater battle**, **Meditation duel**, **Rescue mission**
+* **Affiliation:** **Tide Monastery of Caldris Reef**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Hawaiian male half-beast shark monk 160cm short slate gray aqua hair storm gray eyes, lean athletic build, sleeveless teal tunic, underwater ruins, serene expression, martial stance, water energy ripples

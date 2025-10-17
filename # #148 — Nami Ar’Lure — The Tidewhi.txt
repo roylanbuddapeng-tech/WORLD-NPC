@@ -1,0 +1,202 @@
+# #148 — **Nami Ar’Lure** — *The Tidewhisper Siren of Thalassara*
+
+> “You hear waves, I hear promises. One always returns.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 148
+* **Gender (weighted random):** **Female (Type: Tomboy — athletic type)** — confident, cheeky, sun-warmed energy; moves with the ease of someone who’s lived half her life in motion.
+* **Age:** 23
+* **Race:** **Half-Beast (Aquatic — dolphin hybrid)** — ~85% human; subtle silver-blue sheen on her skin, faint fin ridges along hips, and aqua-tinted eyes that shimmer under light.
+* **Class & Level:** **Barbarian (Path of the Sea Wolf)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Diver–mercenary, treasure hunter, ship guard
+* **Rank / Position:** **Wavebreaker Mercenary**
+* **Organization:** **Thalassara Coastal Guard, freelance detachment**
+* **Symbol:** A silver trident piercing a water spiral
+* **Title:** *The Tidewhisper Siren*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Hawaiian**, radiant and oceanic; beauty that lives between grace and raw muscle.
+
+**Eyes:** deep aqua with faint ripple reflections.
+**Skin:** sun-bronzed tan with a light marine sheen over shoulders and thighs.
+
+**Hair (Hair Randomizer v2.0):** **Short**, **style:** **wet-look tousled pixie cut**, **texture:** silky-straight, **color:** **seafoam silver with teal streaks.**
+**Height:** 168 cm
+**Weight:** 60 kg
+**Body Type:** **Muscular feminine** — strong swimmer’s build, sculpted abs, tight curves that radiate vitality.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium–Large
+THREE_SIZES (B-W-H, cm): 92 – 67 – 97
+VALIDATION: • W/B = 0.728 → OK   • H/W = 1.45 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Coral ear cuff**, **shark tooth pendant**, **woven leather wristband**, **anklet of silver shells** that jingles faintly underwater.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *B + F* (**open vest + short top**)
+
+Nami wears a **navy half-vest** left open, over a **tight cropped halter top** that leaves her midriff bare and shows faint ripples of toned muscle.
+Her **leggings are ocean-blue**, trimmed with reinforced scales along the sides, paired with **barefoot wraps** for underwater grip.
+A **diving dagger** rests at her thigh, and a **harpoon spear** is slung over her back.
+
+**Color Palette:** sea-blue / silver / white / navy
+**Accents:** athletic sensuality, fluid strength, maritime freedom
+
+**Loadout:** *Harpoon Spear (Wavepiercer)*, dagger, net charm, water-breath charm.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 → **39 HP**
+* **AC:** **15** (Unarmored Defense: CON + DEX)
+* **Speed:** 30 ft, **Swim 40 ft**, can hold breath 15 min
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Acrobatics +4, Perception +3, Survival +3, Intimidation +3
+* **Languages:** Common, Aquan
+
+**Barbarian (Path of the Sea Wolf) 3:**
+
+* **Rage (2/long rest)** — adds +2 dmg
+* **Reckless Attack**, **Danger Sense**
+* **Sea Wolf Features:** +10 swim speed, can grapple and strike underwater
+* **Attacks per Action:** 2 (via Bonus Action Frenzy)
+
+**Attacks:**
+
+* **Harpoon Spear (Wavepiercer):** +5 to hit, 1d8+3 piercing (1d10 if two-handed)
+* **Dagger:** +4 to hit, 1d4+2 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Bruiser / Mobility Striker**
+* **Tactics:** Charges in while raging, grapples, and drags enemies into terrain (water pits or edges).
+* **Signature Opener:** leaps off a ledge, harpoon-throws mid-air, lands knee-deep in spray.
+* **Finisher:** *Raging Spin Slash* — harpoon whirlpool strike.
+
+**Damage Flavor:** every movement splashes a trail of luminous sea-water; her roars echo like waves crashing.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Energetic, teasing, loyal to a fault, reckless courage.
+* **Ideal:** Freedom — “If I can’t feel salt on my skin, I’m already dead.”
+* **Bond:** Her younger brother lost to the Severance tide.
+* **Flaw:** Impulsive, too trusting of charismatic people.
+* **Quirk:** Always hums sea shanties mid-battle.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Coral Edge, Sea Gate, Siren’s Cove**
+* **Threat Gradient:** **Wavering → Echo Zone (marine resonance)**
+* **Encounter Framing:** **Sea raid defense**, **Sunken treasure dive**, **Coastal skirmish**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a dockside scrapper, she earned a name after saving a merchant fleet from pirates with nothing but a broken spear.
+Now she dives ruins to pay debts and fund orphan rescues.
+
+* **Lifestyle:** nomadic — sleeps in boats, hammocks, and tide huts.
+* **Income:** mercenary work, salvage contracts.
+* **Relationships:** frequent drinking partner of Renji Arcthel; occasional sparring buddy to Aira Kien-Vales.
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes everyone deserves to see the horizon at least once in freedom.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Drowning in silence — losing connection to the ocean’s “voice.”
+* **Weaknesses:** Poor impulse control.
+* **Strengths:** Raw endurance, explosive motion, charisma that disarms hostility.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy (athletic)** tone — boisterous confidence, teasing grin, subtle tenderness hidden in humor.
+
+> “You’re staring again—what? Never seen muscles on a girl before?”
+> She smirks, brushing sea spray from her cheek.
+> “Keep that up and I’ll make you run laps around the cove.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her harpoon *Wavepiercer* holds the memory of a drowned god.
+* **Hooks:**
+
+  1. **The Drowned Song:** The harpoon hums in response to Severance rifts.
+  2. **Echo Tides:** A phantom ship stalks her, calling her brother’s name.
+  3. **Salt and Steel:** The Thalassara Guard hires her to train new recruits.
+
+## Tags: #Female #TomboyType #HalfBeast #Aquatic #Barbarian3 #SeaWolf #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nami **flirts through competition** — play fights, mock challenges, casual shoulder bumps.
+
+> “C’mon, I bet I can outswim you *and* steal your heart before you reach the buoy.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** harpoon spear, dagger
+  * **Armor:** none (Unarmored Defense)
+  * **Tools:** navigator’s tools, fishing gear
+  * **Consumables:** stamina tonic ×1, shark balm ×1
+  * **Misc:** seashell anklet, wave charm, map fragment
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 18) *or* **Athlete**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Coral Edge / Siren’s Cove**
+* **Threat Gradient:** **Wavering → Echo Zone (marine resonance)**
+* **Encounter Type:** **Sea raid**, **Underwater rescue**, **Treasure dive**
+* **Affiliation:** **Thalassara Coastal Guard**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Hawaiian female half-beast aquatic barbarian 168cm short pixie seafoam silver hair teal streaks, tan muscular body, cropped halter top open vest, ocean-blue leggings, harpoon weapon, athletic pose, bright smile, seaside background

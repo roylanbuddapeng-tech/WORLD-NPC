@@ -1,0 +1,202 @@
+# #108 — **Kaori Yunis** — *Whisper of the Water Mirrors*
+
+> “Stillness doesn’t mean silence — it’s the sound of patience waiting to bloom.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 108
+* **Gender (weighted random):** **Female (Type: ทอมบอย – ประเภทที่ 2)** — athletic, confident stride, half-smirk personality; strong body and stronger heart.
+* **Age:** 24
+* **Race:** **Half-Beast (Koi Lineage)** — 85% human; smooth, pearlescent scales shimmer faintly along her shoulders and thighs; deep cerulean eyes with hints of gold.
+* **Class & Level:** **Monk (Way of Tranquility)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Martial artist, meditation instructor, temple guard
+* **Rank / Position:** **Mirror Acolyte of the Tide Temple**
+* **Organization:** **The Flowing Lotus Sect**
+* **Symbol:** Interlocking waves forming an open lotus blossom
+* **Title:** *The Whisper of the Water Mirrors*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Korean**, striking yet approachable; her beauty lies in the strength of her gaze — confident, grounded, with a touch of mischief.
+
+**Eyes:** deep blue with golden flecks — ripple like koi scales in sunlight.
+**Skin:** sun-kissed ivory with faint pinkish hue across shoulders.
+
+**Hair (randomized):** **Short feminine**, **style:** cropped undercut with soft side fringe, **texture:** slightly wavy, **color:** dark brown with coral-red tips.
+**Height:** 172 cm
+**Weight:** 60 kg
+**Body Type:** **Athletic muscular**, clearly defined abs and toned arms; graceful power.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 65 – 92
+VALIDATION: • W/B = 0.738 → OK   • H/W = 1.41 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Shell-shaped pendant**, **woven water-bead bracelet**, **silver ear chain** connecting lobe to upper cartilage.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *E + G* (**midriff martial wrap + high-slit temple hakama**)
+
+Kaori’s outfit is functional yet bold — a **dark teal wrap top** cropped at the ribs, leaving her midsection bare, tied with **white silk cords**.
+Her **temple hakama** is slit for movement, revealing scaled thighs beneath faintly translucent fabric.
+She wears **barefoot wraps**, each toe inked with prayer runes for balance.
+
+**Color Palette:** teal / white / coral / silver
+**Accents:** fluid motion, confidence without excess
+
+**Loadout:** quarterstaff, tonfa pair, meditation beads.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (DEX + WIS + Unarmored Defense)
+* **Speed:** 40 ft, **can move on water for 5 ft jumps (racial)**
+* **STR 13 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 11 (+0)** **WIS 16 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Acrobatics +6, Athletics +3, Insight +5, Perception +5, Stealth +6
+* **Languages:** Common, Aquan
+
+**Monk (Way of Tranquility) 3:**
+
+* **Unarmored Movement +10 ft**
+* **Ki (3 points)** — *Flurry of Blows, Patient Defense, Step of the Wind*
+* **Sanctuary Aura** — may emit calm presence, allies gain +1 AC for 1 min after meditation.
+* **Stillness of Mind**
+
+**Attacks:**
+
+* **Quarterstaff:** +6 to hit, 1d8+4 bludgeoning
+* **Unarmed Strike:** +6 to hit, 1d6+4 bludgeoning
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Defensive Striker / Crowd Controller / Support Monk**
+* **Tactics:** Uses mobility to redirect aggression, subdues enemies without lethal force.
+* **Signature Opener:** Spins quarterstaff in circular motion, creating ripples of air and water.
+* **Finisher:** *Tranquil Palm* — forces target into peaceful unconsciousness.
+
+**Damage Flavor:** ripples of blue light shimmer on contact, water floating in slow arcs.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Playful, pragmatic, competitive in training but nurturing in spirit.
+* **Ideal:** Balance — “Every current leads home.”
+* **Bond:** Her twin sister, lost to the Severance flood.
+* **Flaw:** Masks pain behind jokes.
+* **Quirk:** Flexes abs unconsciously when someone stares.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Tide Temple, Flowing Mirror Gardens**
+* **Threat Gradient:** **Stable → Wavering (water resonance)**
+* **Encounter Framing:** **Meditation duel**, **Monastery defense**, **Training challenge**
+
+---
+
+## 📜 Background & Lifestyle
+
+Kaori was raised in a temple that treats martial discipline as meditation.
+When the Echo tides began corrupting Thalassaran rivers, she volunteered to guard the sacred mirrors.
+
+* **Lifestyle:** wakes before dawn, trains twice daily, enjoys spicy food and good company.
+* **Income:** temple stipend, occasional bounty from thieves subdued alive.
+* **Relationships:** rival and drinking partner with Jin Korran; admired by younger acolytes.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes peace isn’t the absence of violence but mastery over when to use it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her composure — believes she must never show weakness.
+* **Weaknesses:** Overprotective, trusts too quickly.
+* **Strengths:** Speed, control, empathy.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย tone (type 2)** — strong yet teasing; loves challenging others physically and verbally.
+
+> “You talk big — how about we settle it in the training pool?”
+> When embarrassed, she hides it with a smirk and flex.
+> “What, staring again? I charge for lessons.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a shard of corrupted mirror — believes her twin’s reflection is trapped within.
+* **Hooks:**
+
+  1. **Echo Beneath the Pool:** Aid her in cleansing the mirror shard before it consumes her.
+  2. **The Lost Twin:** Discover if her sister truly survives within the reflection.
+  3. **Tranquil Duel:** Kaori challenges PCs to spar — a test of patience more than strength.
+
+## Tags: #Female #TomboyType2 #HalfBeast #KoiLineage #Monk3 #Thalassara #CR1 #WaterMonk #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+She shows affection through physical teasing — pushes your shoulder, challenges your reflexes.
+
+> “Relax. If I wanted to hurt you, you’d be in the pond already.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff, tonfa pair
+  * **Armor:** unarmored
+  * **Tools:** meditation beads, calligraphy brush
+  * **Consumables:** lotus tea ×2, water salve ×1
+  * **Misc:** shell pendant, mirror shard
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Athlete**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Tide Temple / Mirror Gardens**
+* **Threat Gradient:** **Stable → Wavering (water resonance)**
+* **Encounter Type:** **Meditation duel**, **Echo purification**, **Temple guard mission**
+* **Affiliation:** **Flowing Lotus Sect**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Korean female half-beast koi monk 172cm short wavy brown coral hair blue gold eyes, athletic muscular build, cropped teal wrap top, high-slit hakama, water ripple magic, temple pond background

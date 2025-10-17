@@ -1,0 +1,194 @@
+# #141 — **Kael Vernoss** — *The Wandering Blade of Ardent Vale*
+
+> “A blade dulls with rage, but sharpens with purpose.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 141
+* **Gender (weighted random):** **Male (Type: เมะ)** — self-assured, cool under pressure, but with rare, quiet moments that soften the edges.
+* **Age:** 25
+* **Race:** **Half-Beast (Avian — falcon hybrid)** — ~85% human; faint silver feathering along shoulders, golden irises with ringed pupils, and subtle talon nails on hands.
+* **Class & Level:** **Fighter (Battlemaster)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Mercenary duelist, sky-run courier, adventurer for hire
+* **Rank / Position:** **Freewing Swordsman**
+* **Organization:** **Wings of Vale Mercenary Guild**
+* **Symbol:** A winged sword cutting through a sunburst
+* **Title:** *The Wandering Blade*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Greek**, sculpted, clean, and composed; the quiet kind of handsome that doesn’t fade in chaos.
+
+**Eyes:** golden amber with thin black ring pupils.
+**Skin:** fair with slight golden tint; faint feather marks around shoulders and collarbones.
+
+**Hair (Hair Randomizer v2.0):** **Short**, **style:** **side-swept with undercut**, **texture:** straight, **color:** **ashen silver with streaks of steel blue.**
+**Height:** 179 cm
+**Weight:** 74 kg
+**Body Build:** **Athletic lean**, light muscle emphasis, balanced between agility and power.
+
+**Jewelry & Accessories (randomized):**
+**Falcon talon pendant**, **small silver ear stud**, **dark leather wrist wrap**, **bandolier feather insignia.**
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** *Practical field duelist gear*
+
+Kael wears a **dark navy sleeveless tunic** under a **gray-blue half-cloak** that hangs from one shoulder, clasped with a winged brooch.
+His trousers are reinforced leather with steel-thread seams; boots are talon-slit at the toes for flight stability.
+Feather-etched gauntlets shimmer faintly when he channels wind maneuvers.
+
+**Color Palette:** navy / silver / steel blue / gold accents
+**Accents:** minimalist, aerodynamic, utilitarian grace
+
+**Loadout:** longsword (*Skyfang*), shortbow, throwing daggers, grappling talon line.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **17** (chain shirt + DEX + defense fighting style)
+* **Speed:** 35 ft; **Glide (racial)** — can slow fall and steer in air
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 11 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Acrobatics +5, Perception +3, Athletics +4, Survival +3, Insight +3
+* **Languages:** Common, Auran, Elvish
+
+**Fighter (Battlemaster) 3:**
+
+* **Combat Superiority (4d8)** — Maneuvers: *Precision Attack, Riposte, Trip Attack*
+* **Student of War (Calligrapher’s tools)**
+* **Fighting Style:** Defense
+* **Second Wind, Action Surge**
+
+**Attacks:**
+
+* **Longsword (Skyfang):** +5 to hit, 1d8+3 slashing
+* **Shortbow:** +5 to hit, 1d6+3 piercing, 80/320 ft range
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Duelist / Controller**
+* **Tactics:** Opens with *Trip Attack* or *Precision Attack*, then uses *Action Surge* for finishing strikes.
+* **Signature Opener:** leap from elevated perch, gliding descent into perfect blade form.
+* **Finisher:** *Riposte* with blade infused by wind — creates sonic crack through air.
+
+**Damage Flavor:** strikes cut through air like falcon dives, leaving streaks of silver mist.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, reliable, laconic but warm once comfortable.
+* **Ideal:** Freedom — “Sky doesn’t owe you anything. You earn your wings.”
+* **Bond:** Devotion to his younger sister still in the guild infirmary.
+* **Flaw:** Avoids emotional conversations; internalizes grief.
+* **Quirk:** Tilts his head slightly like a bird when curious.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Ardent Vale — Skyways, Outer Cliffs, Falcon’s Rest Tavern**
+* **Threat Gradient:** **Stable → Echo Zone (wind resonance)**
+* **Encounter Framing:** **Ambush on skybridge**, **Escort with airships**, **Duel atop cliff ruins**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a guild courier and a beast-kin scout; trained for sky routes before joining the Wings of Vale.
+Now works solo missions that skirt the Severance borders.
+
+* **Lifestyle:** minimalist; travels light, sleeps under open skies.
+* **Income:** mercenary pay, courier bounties.
+* **Relationships:** friendly rivalry with Yuna Felinar; respects Eiden Solmar’s discipline.
+
+---
+
+## 🧩 Morals & Ethics
+
+Duty-driven freedom: “To protect something, you first have to let it breathe.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Heights with no wind (dead air = omen of magic disruption).
+* **Weaknesses:** Prone to overextending to protect others.
+* **Strengths:** Quick adaptation, sharp reflexes, unbreakable composure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — confident, composed, occasionally teasing but never cruel.**
+
+> “You keep looking up at me like that. Don’t expect me to come down just because you ask nicely.”
+> He leans slightly closer, voice low.
+> “Though… if you said please, maybe.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a hidden compass that points toward his sister’s dream, not north.
+* **Hooks:**
+
+  1. **Sky Hunt:** Missing courier team last seen beyond Severance winds.
+  2. **The Broken Compass:** Its magic begins leading him to a forbidden zone.
+  3. **Wings for Two:** His sister’s condition worsens — needs aether feathers from Echo Beasts.
+
+## Tags: #Male #SemeType #HalfBeast #Avian #Fighter3 #Battlemaster #ArdentVale #CR1 #Duelist #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kael tends to **fluster others without trying** — quiet eye contact, close spacing, small half-smiles.
+
+> “You’re trembling again. It’s just training… unless you want it to be more.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, shortbow, 10 arrows, 2 daggers
+  * **Armor:** chain shirt
+  * **Tools:** calligrapher’s tools
+  * **Consumables:** wind elixir ×1, healing kit ×1
+  * **Misc:** feather insignia, compass
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 18) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Ardent Vale / Skyways / Outer Cliffs**
+* **Threat Gradient:** **Stable → Wavering (wind resonance)**
+* **Encounter Type:** **Sky duel**, **Airship escort**, **Severance windstorm chase**
+* **Affiliation:** **Wings of Vale Mercenary Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Greek male half-beast avian fighter battlemaster 179cm short silver-blue hair undercut side-swept, golden eyes, navy duelist outfit with wing cloak, confident smirk, standing on cliff wind blowing

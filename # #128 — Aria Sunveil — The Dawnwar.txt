@@ -1,0 +1,204 @@
+# #128 — **Aria Sunveil** — *The Dawnward Healer of Valeronnes*
+
+> “Even light must rest on something to shine. Let me be that something.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 128
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — gentle and composed, nurturing but teasing; has a big-sister charm mixed with quiet sensuality.
+* **Age:** 28
+* **Race:** **Human (Valeronnes Lineage)** — fair complexion, faint shimmer of gold dust in eyes, a soft radiance when channeling divine energy.
+* **Class & Level:** **Cleric (Life Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Traveling healer, light-ward cleric
+* **Rank / Position:** **Acolyte of the Dawn Choir**
+* **Organization:** **Valeronnes Temple of Resonant Light**
+* **Symbol:** A radiant sun sigil with mirrored halves
+* **Title:** *The Dawnward Healer*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Greek**, serene, elegant, a warmth that feels like sunrise after rain.
+
+**Eyes:** honey-gold with faint white ring around the iris.
+**Skin:** flawless ivory with a peach-gold glow under sunlight.
+
+**Hair (randomized):** **Long**, **style:** wavy with side-parted volume, **texture:** soft and glossy, **color:** golden blonde with pale rose sheen.
+**Height:** 171 cm
+**Weight:** 59 kg
+**Body Type:** **Curvy fit**, healthy frame with hourglass balance and soft definition.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 97 – 71 – 104
+VALIDATION: • W/B = 0.731 → OK   • H/W = 1.46 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Sun-crystal pendant**, **thin golden circlet**, **bracelet of prayer beads**, **anklet with tiny mirror charms**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *C* (**backless cleric gown**)
+
+Aria wears a **white-and-gold cleric dress**, its flowing fabric light and radiant.
+The **open back** exposes the upper spine where a divine mark glows faintly during spellcasting.
+The gown’s front carries a **deep V-line** balanced by golden ribbons and a high collar, creating a poised but alluring silhouette.
+Her **outer stole** shimmers with runic sunlight patterns, rippling like dawnlight through mist.
+
+**Color Palette:** white / gold / soft peach / ivory
+**Accents:** holy yet sensual, dignified warmth
+
+**Loadout:** silver staff (*Solance*), radiant focus pendant, restorative potions.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **26 HP**
+* **AC:** **16** (chain shirt + DEX + shield)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 11 (+0)** **WIS 17 (+3)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Insight +5, Medicine +5, Persuasion +4, Religion +2
+* **Languages:** Common, Celestial, Valeronnes Cant
+
+**Cleric (Life Domain) 3:**
+
+* **Channel Divinity (Preserve Life)**, **Disciple of Life**, **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Guidance, Sacred Flame, Light, Thaumaturgy*
+  * *1st (4 slots):* *Bless, Cure Wounds, Sanctuary*
+  * *2nd (2 slots):* *Prayer of Healing, Spiritual Weapon*
+
+**Attacks:**
+
+* **Mace:** +4 to hit, 1d6+2 bludgeoning
+* **Sacred Flame:** DC 13, 1d8 radiant
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Healer / Radiant Buffer**
+* **Tactics:** Opens with *Bless*, stabilizes allies with *Preserve Life* or *Prayer of Healing.*
+* **Signature Opener:** raises staff — light blooms across the battlefield like sunrise.
+* **Finisher:** *Spiritual Weapon* takes the form of a blazing golden harp.
+
+**Damage Flavor:** light fractures into petals that dissolve into warmth.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Gentle, confident, nurturing.
+* **Ideal:** Compassion — “No flame should fade alone.”
+* **Bond:** Protects Liora Venshade as her apprentice.
+* **Flaw:** Worries too deeply; hides her own exhaustion.
+* **Quirk:** Smiles before every healing spell — “because light listens better when it’s invited.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Dawn Cloisters, Resonant Temples, Pilgrim Roads**
+* **Threat Gradient:** **Stable → Wavering (light resonance)**
+* **Encounter Framing:** **Sanctuary defense**, **Blessing rite**, **Echo contamination purge**
+
+---
+
+## 📜 Background & Lifestyle
+
+A temple prodigy, Aria trained among the Dawn Choir to merge art and faith through resonance chants.
+After a vision of the Severance blighting the sun’s echo, she began traveling to heal those scarred by it.
+
+* **Lifestyle:** ascetic but warm; keeps her quarters fragrant with candles.
+* **Income:** temple donations, pilgrim aid.
+* **Relationships:** mentor to Liora; admired secretly by Ren Kaizel.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes mercy is the highest weapon — “Light doesn’t judge; it simply reveals.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing faith; becoming unable to heal.
+* **Weaknesses:** Physically frail; emotionally burdened.
+* **Strengths:** Exceptional focus, empathy, powerful healing resonance.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — gentle teasing, motherly warmth with flirtatious composure.**
+
+> “You’re trembling again. Come here — let me steady your hands.”
+> Her voice is low and reassuring, smile carrying that faint elder-sister mischief.
+> “Good… breathe with me. See? Even fear can glow a little.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her radiant mark hides an Echo scar — she channels it instead of purging it.
+* **Hooks:**
+
+  1. **Light Beneath the Scar:** She begins losing control over her radiant healing.
+  2. **The Silent Hymn:** A sect wants her mark removed — violently.
+  3. **The Sunfall Rite:** She’s chosen to lead a forbidden ritual that could burn her soul.
+
+## Tags: #Female #SeniorType #Human #Cleric3 #LifeDomain #Valeronnes #CR1 #Healer #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Aria enjoys gently teasing others, especially nervous companions.
+
+> “If I heal your wounds, you’ll owe me a smile. Don’t make me chase it out of you.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** mace, radiant focus
+  * **Armor:** chain shirt, shield
+  * **Tools:** healer’s kit, holy symbol
+  * **Consumables:** 2× healing potion, 1× radiant balm
+  * **Misc:** sun pendant, prayer beads, journal
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 19) *or* **Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Dawn Cloisters / Pilgrim Roads**
+* **Threat Gradient:** **Stable → Wavering (light resonance)**
+* **Encounter Type:** **Healing mission**, **Sanctuary defense**, **Echo purification**
+* **Affiliation:** **Valeronnes Temple of Resonant Light**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Greek female human cleric life domain 171cm long golden blonde wavy hair honey-gold eyes, curvy figure, backless white gold cleric gown glowing runes, gentle smile, radiant aura, sunrise temple background

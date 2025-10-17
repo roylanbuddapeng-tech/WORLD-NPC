@@ -1,0 +1,200 @@
+# #134 — **Rhea Corvalen** — *The Azure Songblade of Thalassara*
+
+> “My blade sings because silence is just fear that forgot its melody.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 134
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — calm, magnetic, exudes quiet confidence with a teasing warmth, like a mentor who knows exactly when to smirk.
+* **Age:** 29
+* **Race:** **Elf (Thalassaran lineage)** — humanlike 85%, with luminous aquamarine veins under her skin and faint resonance hum when she speaks.
+* **Class & Level:** **Paladin (Oath of Devotion)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Paladin instructor, canal guardian, combat choreographer
+* **Rank / Position:** **Azure Warden Lieutenant**
+* **Organization:** **Thalassaran Guard Choir**
+* **Symbol:** A crystal sword over a rippling wave sigil
+* **Title:** *The Azure Songblade*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Greek**, noble bearing, serene beauty with steel in her gaze — every gesture balanced and deliberate.
+
+**Eyes:** deep teal with faint white crescents at the edges of the iris.
+**Skin:** pale golden with cool undertones, faint shimmer along shoulders.
+
+**Hair (randomized):** **Long**, **style:** half-up braid, **texture:** straight and silky, **color:** platinum silver with light blue tint.
+**Height:** 176 cm
+**Weight:** 64 kg
+**Body Type:** **Fit hourglass**, graceful but visibly strong; a warrior’s posture softened by elegance.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 101 – 73 – 107
+VALIDATION: • W/B = 0.722 → OK   • H/W = 1.46 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Silver tiara circlet**, **rune-etched pauldrons**, **chain earrings**, **azure pendant stone**, **thin wristband of woven steel threads.**
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *A + B* (**deep neckline battle corslet & open-back armor harness**)
+
+Rhea’s armor is a **refined silver-white corslet**, molded to her form with **cerulean gemstone inlays** that pulse with divine light.
+The armor’s **deep neckline** exposes the upper collarbones and the beginning of her radiant aura, while the **back plating** is open, showing the flow of glowing resonance tattoos that trace her spine.
+A **high-slit tabard** flows around her legs like liquid light, the hem embroidered with sacred verses.
+
+**Color Palette:** silver / blue / white / faint gold
+**Accents:** holy, sleek, ceremonial but functional
+
+**Loadout:** longsword (*Seraphis*), kite shield, crystal rosary, vial of sacred echo.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **29 HP**
+* **AC:** **18** (chainmail + shield)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 14 (+2)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Persuasion +5, Athletics +5, Insight +3, Religion +2
+* **Languages:** Common, Elvish, Celestial, Thalassaran Cant
+
+**Paladin (Oath of Devotion) 3:**
+
+* **Divine Sense, Lay on Hands (15 HP), Sacred Weapon, Turn the Unholy, Divine Smite**
+* **Spellcasting (CHA DC 13, +5 atk):** *Bless, Cure Wounds, Shield of Faith, Wrathful Smite, Protection from Evil and Good*
+
+**Attacks:**
+
+* **Seraphis (Longsword):** +5 to hit, 1d8+3 slashing (1d10 versatile)
+* **Divine Smite:** +2d8 radiant
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Defender / Healer / Morale Anchor**
+* **Tactics:** Uses *Bless* and *Shield of Faith* early; finishes with Divine Smite when allies are threatened.
+* **Signature Opener:** raises her sword in salute — “Sing, my heart,” — aura flares like a hymn.
+* **Finisher:** holy light crescendos as she cuts through darkness.
+
+**Damage Flavor:** divine energy hums like a chorus; each strike echoes with faint musical overtones.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Poised, teasing, protective.
+* **Ideal:** Compassion — “The strong must bear the melody for the weary.”
+* **Bond:** Protects Lyra Thalassara’s rangers as moral compass and shield.
+* **Flaw:** Too self-sacrificing; suppresses her own pain for others’ peace.
+* **Quirk:** Hums battle hymns under her breath mid-swing.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Canal Sanctums, Sapphire Walls, Luminous Courts**
+* **Threat Gradient:** **Stable → Wavering (radiant resonance)**
+* **Encounter Framing:** **Canal defense**, **Training spar**, **Resonance blessing ritual**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a noble choir-house, Rhea was trained to lead both in song and steel.
+When her sister fell to a Severance incursion, she vowed to keep Thalassara’s light from ever dimming again.
+
+* **Lifestyle:** disciplined yet graceful; collects incense from each city she protects.
+* **Income:** officer’s salary, noble pension.
+* **Relationships:** mentor to young knights; quietly fond of Cassian Veldt’s cynicism.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes justice is a harmony, not a verdict — “A true knight listens before she swings.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Becoming numb to suffering.
+* **Weaknesses:** Vulnerable to emotional manipulation.
+* **Strengths:** Leadership, unwavering courage, radiant control.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — graceful, confident, nurturing with gentle flirtation.**
+
+> “Straighten your stance. Yes, like that… you learn fast.”
+> A faint smirk follows.
+> “If you blush this easily in practice, what will you do when the real thing comes?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her divine mark was stolen from a fallen celestial — she carries half its essence.
+* **Hooks:**
+
+  1. **The Broken Hymn:** Her mark begins resonating with dark light.
+  2. **The Song of Chains:** A captured angel calls her by another name.
+  3. **Trial of Reflection:** She’s accused of channeling Severance light unknowingly.
+
+## Tags: #Female #SeniorType #Elf #Paladin3 #OathOfDevotion #Thalassara #CR1 #Knight #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rhea enjoys gently teasing protégés — touching their chin, guiding movements, smiling knowingly.
+
+> “Don’t rush. Every swing is a verse — and every mistake, a lesson worth singing again.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, shield
+  * **Armor:** chainmail
+  * **Tools:** prayer kit, cleaning oil
+  * **Consumables:** 2× healing potions, 1× echo salve
+  * **Misc:** crystal pendant, hymn scrolls
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 18) *or* **Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Canal Sanctums / Sapphire Walls**
+* **Threat Gradient:** **Stable → Wavering (radiant resonance)**
+* **Encounter Type:** **Defense**, **Blessing rite**, **Echo incursion**
+* **Affiliation:** **Thalassaran Guard Choir**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Greek female elf paladin 176cm long platinum silver hair blue eyes athletic hourglass body, silver-blue armor with deep neckline open back glowing tattoos, blue tabard high slit, radiant aura, confident smile, moonlit canal background

@@ -1,0 +1,192 @@
+# #145 — **Renji Arcthel** — *The Ember Monk of Skarnov Forge*
+
+> “Discipline is not silence — it’s the roar that you control.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 145
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — rugged charm, quiet confidence, weathered but still burning with purpose.
+* **Age:** 38
+* **Race:** **Human (Skarnov Lineage)** — entirely human in appearance except for faint bronze glow in the veins of his hands and chest when channeling ki.
+* **Class & Level:** **Monk (Way of the Open Hand)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Martial instructor, traveling smith, mercenary-forged monk
+* **Rank / Position:** **Ember Master**
+* **Organization:** **Forge Monastery of Skarnov**
+* **Symbol:** A hammer crossed with a flame-wreathed hand
+* **Title:** *The Ember Monk*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Greek**, sturdy yet graceful; he wears his years with pride and warmth.
+
+**Eyes:** molten gold with brown undertones.
+**Skin:** tanned bronze, calloused hands, faint smudges of forge soot around forearms.
+
+**Hair (Hair Randomizer v2.0):** **Short**, **style:** **textured undercut with light messy fringe**, **texture:** coarse-wavy, **color:** **charcoal black with ember-red streaks at tips.**
+**Height:** 181 cm
+**Weight:** 79 kg
+**Body Build:** **Muscular athletic**, defined but not bulky — strength honed by work, not vanity.
+
+**Jewelry & Accessories (randomized):**
+**Steel prayer beads**, **forged copper wrist guard**, **simple talisman necklace**, **scorched leather belt with sigil buckle.**
+
+---
+
+## 👗 Outfit (in English)
+
+Renji wears a **sleeveless flame-orange monk tunic**, cinched with a black sash embroidered in gold.
+His **pants are dark crimson** and loosely tied at the calves for free movement.
+A **bronze vambrace** on his right arm bears the insignia of the Forge Monastery.
+The left shoulder carries faint burn scars — a mark of his trial by fire.
+
+**Color Palette:** orange / crimson / bronze / black
+**Accents:** roughened texture, martial humility, heat and grace combined
+
+**Loadout:** unarmed strike (fist wraps), smith’s hammer (used as training weight), small furnace charm.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +3)×3 → **30 HP**
+* **AC:** **16** (Unarmored Defense: DEX + WIS)
+* **Speed:** 40 ft
+* **STR 13 (+1)** **DEX 16 (+3)** **CON 16 (+3)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +5
+* **Skills:** Athletics +3, Insight +4, Acrobatics +5, Religion +2, Perception +4
+* **Languages:** Common, Dwarvish
+
+**Monk (Way of the Open Hand) 3:**
+
+* **Martial Arts (1d6)**, **Ki (3 points)**, **Unarmored Movement (+10 ft)**
+* **Deflect Missiles**, **Slow Fall**, **Open Hand Technique**
+* **Attacks per Action:** 2 (Martial Arts), **Flurry of Blows** (bonus)
+
+**Attacks:**
+
+* **Unarmed Strike:** +5 to hit, 1d6+3 bludgeoning
+* **Flurry of Blows:** 2 additional attacks (DC 13 Dex/Str save or prone/pushed)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Bruiser / Disabler / Counter Striker**
+* **Tactics:** Rush frontlines, disarm casters, knock down agile foes.
+* **Signature Opener:** Calm step → *Flurry of Blows* → spinning elbow to stun.
+* **Finisher:** Open Hand palm strike — emits shockwave of glowing ember particles.
+
+**Damage Flavor:** blows burn with controlled heat, leaving faint scorch rings in air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Stoic, practical, often dryly humorous.
+* **Ideal:** Tempered Passion — “Fire must serve the forge, not destroy it.”
+* **Bond:** His students; treats them as his real legacy.
+* **Flaw:** Suppresses emotions until they erupt explosively.
+* **Quirk:** Smells faintly of smoke and pine resin wherever he goes.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ember Valley, Forge Monastery, Broken Anvil Plains**
+* **Threat Gradient:** **Stable → Wavering (forge resonance)**
+* **Encounter Framing:** **Monastery trial**, **Bandit defense**, **Severance incursion into old foundry**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former smith turned monk after a tragic explosion claimed his workshop.
+Now teaches physical and mental forging — the art of tempering chaos.
+
+* **Lifestyle:** spartan but disciplined; meditates by the furnace each dawn.
+* **Income:** monastery stipends and smithing commissions.
+* **Relationships:** mentor to novice monk Izen, former rival of Kael Vernoss.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes power exists to refine, not to dominate — mastery through patience.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of his inner flame.
+* **Weaknesses:** Emotional repression; guilt over lost apprentices.
+* **Strengths:** Unyielding focus, adaptability, wisdom forged by suffering.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — warm authority with teasing patience.**
+
+> “You swing like a drunk blacksmith. Slow down. Feel the heat — don’t fight it.”
+> He grins faintly.
+> “Better. Now do it again, and maybe I’ll stop calling you ‘spark.’”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His fire ki is sustained by a shard of Severance ember fused into his chest — dormant, but unstable.
+* **Hooks:**
+
+  1. **Ember Shard Awakening:** The shard reignites during a Severance attack.
+  2. **The Lost Apprentice:** A student seeks revenge, believing Renji abandoned him.
+  3. **Trial of the Furnace:** PCs must earn Renji’s respect through combat and meditation.
+
+## Tags: #Male #MiddleAge #Human #Monk3 #OpenHand #Skarnov #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Renji likes **challenging others to grow** — sparring, provoking with smirks and calm lessons.
+
+> “Don’t look away when I strike. The first lesson of fire: respect what can hurt you.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** none (unarmed + smith’s hammer)
+  * **Armor:** none (Unarmored Defense)
+  * **Tools:** smith’s tools, prayer beads
+  * **Consumables:** tea pouch, healing salve ×1
+  * **Misc:** forge talisman, burned photo fragment
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 18) *or* **Tavern Brawler**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Ember Valley / Forge Monastery**
+* **Threat Gradient:** **Stable → Wavering (forge resonance)**
+* **Encounter Type:** **Trial duel**, **Monastery defense**, **Severance fire breach**
+* **Affiliation:** **Forge Monks of Skarnov**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Greek male human monk middle-aged 181cm short charcoal hair ember red streaks, molten gold eyes, muscular build, sleeveless orange tunic black sash, bronze vambrace, calm disciplined expression, forge background, sparks in air

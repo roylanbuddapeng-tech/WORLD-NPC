@@ -1,0 +1,203 @@
+# #170 — **Kaorin Mitsuye** — *The Ember Petal Alchemist of Valeronnes*
+
+> “If it doesn’t explode beautifully, you’re doing alchemy wrong.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 170
+* **Gender (weighted random):** **Female (Type: รุ่นเพื่อน)** — ร่าเริง มีพลัง มีเสน่ห์แบบเพื่อนสาวสายแซว ใจกล้าและพูดตรงจนคนรอบตัวหัวร้อนเล่น
+* **Age:** 23
+* **Race:** **Human (Valeronnes Lineage)** — ผิวขาวอมชมพู ดวงตาเหมือนเปลวไฟในขวดแก้ว แววตาคมใสเหมือนคนที่ไม่เคยกลัวการทดลอง
+* **Class & Level:** **Artificer (Alchemist)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** นักประดิษฐ์ยาและนักผจญภัยทดลอง
+* **Rank / Position:** **Field Alchemist, Ember Division**
+* **Organization:** **Valeronnes Alchemical Corps**
+* **Symbol:** ขวดแก้วในวงเวทล้อมเปลวไฟ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean**, energetic, bright features and confident grin.
+
+**Eyes:** amber-gold with fiery glint near pupils.
+**Skin:** pale ivory with faint pink tone on cheeks and nose.
+
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result: Bun Subroll → Twin Bun (high odango)*
+**Hair style:** **twin buns**, strands left loose at sides; **texture:** silky slightly wavy; **color:** **deep auburn with golden ends** that shimmer when light hits the flask at her belt.
+**Height:** 164 cm
+**Weight:** 53 kg
+**Body Type:** **Fit curvy**, clearly active but feminine.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 91 – 65 – 94
+VALIDATION: • W/B = 0.714 → OK   • H/W = 1.44 → OK
+```
+
+**Jewelry & Accessories (30% glasses roll → no glasses):**
+Small **brass gear earring**, **leather bracelet with glass bead vials**, **anklet with miniature charm flask**, **belt loop of potion canisters**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Moderate revealing (field uniform customized)*
+
+Kaorin wears a **short leather alchemist jacket**, open at midriff to show her cropped undershirt, sleeves rolled for practical use.
+Her **fitted pants** have holsters for potions and tools, while **knee-high boots** bear scorch marks and tiny rune patches.
+A **blue sash** at her waist holds a silver flask — her personal focus.
+
+**Color Palette:** auburn / brass / white / blue accents
+**Accents:** steampunk charm meets field practicality
+
+**Loadout:** alchemist’s supplies, *Flamebloom Flask*, hand crossbow (for reagent delivery), acid and healing potions.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 16 (+3)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Arcana +5, Investigation +5, Medicine +3, Sleight of Hand +4, Persuasion +4
+* **Languages:** Common, Dwarvish, Valeronnes Script
+
+**Artificer (Alchemist) 3:**
+
+* **Infuse Item (2)**, **Alchemical Savant**, **Experimental Elixirs (2/day)**
+* **Spellcasting (INT DC 13, +5 atk):**
+
+  * *Cantrips:* *Mending, Fire Bolt, Guidance*
+  * *1st–2nd:* *Cure Wounds, Faerie Fire, Flaming Sphere, Web*
+
+**Attacks:**
+
+* **Fire Bolt:** +5 to hit, 1d10 fire.
+* **Hand Crossbow:** +4 to hit, 1d6+2 piercing.
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support Blaster / Control**
+* **Opener:** Toss *Flamebloom Flask* → creates zone of radiant fire (flavor).
+* **Flow:** Uses *Web* to trap enemies, then hurls *Fire Bolt* or *Flaming Sphere* for burst.
+* **Finisher:** Drinks *Experimental Elixir* (Speed or Flight) → dives into melee range with chemical blaze.
+
+**Damage Flavor:** fiery gold alchemical light that bursts into blooming petals.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Loud laugh, playful, experimental thinker.
+* **Ideal:** Curiosity — “The world’s safest path is the dullest one.”
+* **Bond:** Her mentor who vanished after a “spark test gone right.”
+* **Flaw:** Forgets safety protocols — a walking hazard in confined spaces.
+* **Quirk:** Tastes potions before labeling them.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Ember Forges, Glass Districts**
+* **Threat Gradient:** **Wavering → Echo Zone** (chemical resonance leaks)
+* **Encounter Framing:** **Lab disaster rescue**, **Alchemy duel**, **Explosive sabotage mission**
+
+---
+
+## 📜 Background & Lifestyle
+
+Graduated from Valeronnes Guild’s Alchemical Academy with top “detonation rating.”
+Now travels with adventurers to test her creations in live conditions.
+
+* **Lifestyle:** borderline chaotic, messy workshop with color-coded explosions.
+* **Income:** guild commissions + battle bonuses.
+* **Relationships:** friendly rivalry with Ilyana Crestveil; occasional collaboration with Cyris D’Velan.
+
+---
+
+## 🧩 Morals & Ethics
+
+“Science is art that decided to live dangerously.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing to ignite a formula (symbolic “creative death”).
+* **Weaknesses:** Impulsive; often blows up her own camp.
+* **Strengths:** Creative, adaptable, never runs out of plans—or chemicals.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — ขี้เล่น สายลุย พูดตรง**
+
+> “You’ve got something on your sleeve—oh wait, that’s on fire.”
+> หัวเราะร่า
+> “Relax! Fire means progress!”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps an unstable vial that contains “perfect fire,” rumored to burn only lies.
+* **Hooks:**
+
+  1. **The Bloom Test:** She needs help testing a volatile elixir mid-dungeon.
+  2. **The Missing Mentor:** Clues lead to a sealed lab beneath Valeronnes.
+  3. **The Fire That Sang:** Her creations start humming before they explode.
+
+## Tags: #Female #PeerType #Human #Artificer3 #Alchemist #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaorin **ชอบทำให้คนอื่นตกใจแล้วหัวเราะทีหลัง** — ชอบแหย่ พูดประชดน่ารัก ๆ
+
+> “If I smile like this, will it calm you down… or make you panic?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** hand crossbow
+  * **Armor:** leather jacket
+  * **Tools:** alchemist’s supplies
+  * **Consumables:** healing potion ×2, experimental elixir ×1
+  * **Misc:** charm anklet, brass earring, scorch-proof goggles
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 18) *or* **Alchemist’s Savant**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Ember Forge / Glass Lab**
+* **Threat Gradient:** **Wavering → Echo Zone (chemical resonance)**
+* **Encounter Type:** **Explosive rescue**, **Alchemy puzzle**, **Sabotage defense**
+* **Affiliation:** **Valeronnes Alchemical Corps**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean female human artificer alchemist 164cm twin buns deep auburn hair golden ends amber eyes, cropped jacket open midriff, leather pants, potions belt, confident grin, fiery lab background

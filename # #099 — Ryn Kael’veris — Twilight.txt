@@ -1,0 +1,194 @@
+# #099 — **Ryn Kael’veris** — *Twilight Fang of the Moonforge*
+
+> “Steel sings the same note, no matter who bleeds upon it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 099
+* **Gender (weighted random):** **Male (Type: เคะ)** — soft-spoken, sharp-featured, emotional control masking quiet intensity; appearance delicate but deadly in precision.
+* **Age:** 20
+* **Race:** **Dark Elf (Skarnov Lineage)** — obsidian-toned skin with faint blue luster; silver sclera glowing subtly in moonlight; humanlike silhouette at 90%.
+* **Class & Level:** **Monk (Way of Shadow)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral**
+* **Profession:** Moonforge courier, shadow infiltrator, and steel engraver
+* **Rank / Position:** **Echo Courier of the Shadow Anvil**
+* **Organization:** **The Moonforge Monastic Circle**
+* **Symbol:** A silver handprint fading into black mist
+* **Title:** *Twilight Fang*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **East Asian–Nordic blend** — porcelain delicacy meeting shadowed mystery; his beauty is androgynous and uncomfortably captivating.
+
+**Eyes:** pale blue-white, ringed with smoky gray halos.
+**Skin:** deep onyx tone with faint blue metallic sheen under starlight.
+
+**Hair (randomized):** **Medium**, **style:** layered sweep framing his cheekbones with slightly longer strands in back, **texture:** silky straight, **color:** silver-white fading to ash tips.
+**Height:** 160 cm *(capped for Type: เคะ)*
+**Weight:** 52 kg
+**Body Build:** **Slim and graceful**, toned through discipline rather than muscle mass; movement is fluid and near-silent.
+
+**Jewelry & Accessories (randomized):**
+**Single moonstone earring**, **thin black silk ribbon** around neck, **engraved finger ring**, and **obsidian prayer beads** around wrist.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Functional monk attire only*
+
+Ryn wears **black-gray layered robes** with subtle reflective thread that ripples under light. The sleeves end mid-forearm to reveal tightly bound wraps; a **silver sash belt** keeps two small knives sheathed along his waist.
+His **hooded mantle** bears faint lunar runes visible only when the moon rises.
+
+**Color Palette:** black / silver / dark gray / moonlight blue
+**Accents:** mysterious elegance; minimalism refined by craft
+
+**Loadout:** twin shadow daggers, moonsteel tonfa, hidden throwing spikes (3).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **16** (DEX + WIS + monk defense)
+* **Speed:** 40 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 11 (+0)** **WIS 16 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, DEX +6
+* **Skills:** Stealth +6, Acrobatics +6, Insight +5, Perception +5, Sleight of Hand +6
+* **Languages:** Common, Elvish, Undercommon
+
+**Monk (Way of Shadow) 3:**
+
+* **Unarmored Defense**, **Martial Arts**, **Ki (3 points)**
+* **Flurry of Blows, Step of the Wind, Patient Defense**
+* **Shadow Arts:** *Darkness, Pass Without Trace, Silence* (2 Ki each)
+
+**Attacks:**
+
+* **Unarmed Strike:** +6 to hit, 1d6+4 bludgeoning
+* **Tonfa (Monk Weapon):** +6 to hit, 1d8+4 bludgeoning
+* **Shadow Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Infiltrator / Skirmisher / Shadow Support**
+* **Tactics:** Strikes from concealment under *Pass Without Trace*, stuns priority targets with *Flurry of Blows*, then retreats into darkness.
+* **Signature Opener:** Breathes once, vanishes, and reappears behind the target’s reflection.
+* **Finisher:** *Shadow Step + Strike to the throat*, leaving a brief silver shimmer.
+
+**Damage Flavor:** soundless impacts followed by brief glowing sigil scars.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Polite, soft-spoken, precise in movement and speech.
+* **Ideal:** Balance — “Light exists only because shadow allows it.”
+* **Bond:** His Moonforge mentor, who forged his first weapon.
+* **Flaw:** Avoids emotional connection; fears attachment.
+* **Quirk:** Folds his hands when idle, as if in silent prayer.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Moonforge Cloisters, Night Anvils, Underground Shrines**
+* **Threat Gradient:** **Wavering → Echo Zone (Lunar resonance distortions)**
+* **Encounter Framing:** **Assassination mission**, **Silent infiltration**, **Resonance retrieval**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a child laborer in Skarnov’s forges, Ryn was rescued by a monk who saw potential in his silence. He learned to turn stillness into weaponry — a philosophy now embodied in his movements.
+
+* **Lifestyle:** minimalist; eats sparingly, meditates daily.
+* **Income:** courier contracts, artifact deliveries, moonsteel crafting.
+* **Relationships:** Often accompanies Noel Iskandar; mutual trust built through silence.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes emotion and violence are reflections of the same source — to master one, you must understand both.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Breaking composure; being forced to kill someone he cares for.
+* **Weaknesses:** Hesitant in open confrontation; fragile emotions.
+* **Strengths:** Precision, stealth, empathy in restraint.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — quiet, demure, unexpectedly intense when flustered.**
+
+> “Y-you’re standing too close… it’s distracting.”
+> He blushes easily; his voice trembles when teased.
+> But if cornered emotionally, his calm turns sharp:
+> “If you keep looking at me like that, I’ll forget I’m supposed to be composed.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His moonsteel tonfa contains a fragment of a severed Echo spirit — it occasionally moves on its own to protect him.
+* **Hooks:**
+
+  1. **Moonforge Retrieval:** Escort Ryn into the collapsed forges to reclaim the lost Echo core.
+  2. **Silver Silence:** A group hunts him for the forbidden runes engraved in his body.
+  3. **Twilight Pact:** His mentor’s death was staged — someone still watches over him.
+
+## Tags: #Male #Keh #DarkElf #Monk3 #WayOfShadow #Skarnov #CR1 #Assassin #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ryn **flusters easily** — subtle blush, avoids eye contact, folds arms defensively.
+When someone compliments his appearance:
+
+> “Please don’t… say things like that. You’ll make me lose focus.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** twin tonfa, shadow daggers ×3
+  * **Armor:** none (unarmored defense)
+  * **Tools:** artisan’s kit (moonsteel engraver), monk beads
+  * **Consumables:** incense sticks ×3, moon petal oil ×1
+  * **Misc:** silver ribbon, obsidian charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Moonforge Cloisters / Echo Shadows**
+* **Threat Gradient:** **Wavering → Deep Echo Zone**
+* **Encounter Type:** **Silent infiltration**, **Shadow rescue**, **Echo suppression**
+* **Affiliation:** **The Moonforge Monastic Circle**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+East Asian Nordic male dark elf monk shadow 160cm medium silver-white hair ash tips, blue-white eyes, slim graceful body, black gray robes silver sash, moonlight glow, calm shy expression, night forge background

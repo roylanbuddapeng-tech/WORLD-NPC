@@ -1,0 +1,195 @@
+# #088 — **Lioren Vale** — *Sunfang Duelist of Solmere Fields*
+
+> “The sun doesn’t ask permission to burn. Neither do I.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 088
+* **Gender (weighted random):** **Male (Type: เมะ)** — confident, commanding, effortlessly charismatic; gives orders like they’re invitations
+* **Age:** 29
+* **Race:** **Human (Solmere Lineage)** — slightly sun-kissed skin, golden undertones, faint shimmering freckles along arms
+* **Class & Level:** **Paladin (Oath of Glory)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Knight-errant, tournament champion, noble guard
+* **Rank / Position:** **Sunfang Captain of the Dawn Riders**
+* **Organization:** **Solmere Order of Radiant Valor**
+* **Symbol:** Winged sun with twin crossed blades
+* **Title:** *The Sunfang*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Latin American / Spanish**, sunlit handsomeness with a knightly, flirtatious grace.
+
+**Eyes:** amber-gold, bright and fierce under sunlight.
+**Skin:** olive-bronze, kissed by the desert wind.
+
+**Hair (randomized):** **Medium length**, **style:** swept back loosely with some strands framing face, **texture:** wavy, **color:** dark chestnut with gold streaks.
+**Height:** 185 cm
+**Weight:** 83 kg
+**Body Build:** **Athletic-muscular**, broad-shouldered, trim waist, posture of a champion.
+
+**Jewelry & Accessories (randomized):**
+**Golden ear clasp**, **sun medallion pendant**, **red leather bracelet**, **small silver ring** engraved with “Valor.”
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *E* (**Underbust / Chestline Reveal**)
+
+Lioren wears **plate harness armor** crafted for mobility — **chestplate open slightly at the top**, showing the defined curve of his upper chest and collarbones.
+A **scarlet sash** wraps diagonally across his torso, paired with **white-gold half-cloak** that shimmers like heat waves.
+His **gauntlets** and **greaves** bear burnished sun motifs, polished to near mirror-glow.
+
+**Color Palette:** gold / scarlet / ivory / bronze
+**Accents:** radiant, knightly, bold
+
+**Loadout:** **Sunfang longsword (+1)**, polished shield, radiant medal (holy focus).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **36 HP**
+* **AC:** **18** (chain mail + shield)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Athletics +5, Persuasion +5, Intimidation +5, Religion +2
+* **Languages:** Common, Celestial
+
+**Paladin (Oath of Glory) 3:**
+
+* **Divine Sense (3/day)**, **Lay on Hands (15 HP pool)**
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * **1st (3 slots):** *Bless, Heroism, Compelled Duel, Divine Favor*
+* **Channel Divinity:** *Peerless Athlete*, *Inspiring Smite*
+* **Fighting Style:** Dueling
+
+**Attacks:**
+
+* **Sunfang Longsword (+1):** +6 to hit, 1d8+4 slashing (+1d8 radiant on Smite)
+* **Shield Bash:** +5 to hit, 1d4+3 bludgeoning, may shove
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Bruiser / Party Support / Radiant Damage Dealer**
+* **Tactics:** Begins with *Bless*, rushes to front line, uses *Divine Smite* for finishers.
+* **Signature Opener:** Spins his sword once, blade catching sunlight — “Let’s see who blinks first.”
+* **Finisher:** Leaps forward with a radiant arc, light bursting behind him like sunrise.
+
+**Damage Flavor:** bright golden streaks like burning feathers trail each strike.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Brave, flirtatious, proud; loves competition and praise.
+* **Ideal:** Glory — “The world remembers those who shine.”
+* **Bond:** His younger brother, a healer stationed in Thalassara.
+* **Flaw:** Can’t resist a challenge or a compliment.
+* **Quirk:** Always smells faintly of citrus oil and sunsteel polish.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Solmere — Dawn Fields, Tournament Rings, Radiant Barracks**
+* **Threat Gradient:** **Stable → Wavering (Arena Echo Disturbances)**
+* **Encounter Framing:** **Tournament Duel**, **Escort Defense**, **Ritual Trial**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born a noble second son, Lioren rejected court life for the battlefield. His charisma made him beloved by soldiers and dangerous to hearts.
+
+* **Lifestyle:** comfortable, enjoys fine wine and sparring equally.
+* **Income:** tournament winnings + knight salary.
+* **Relationships:** rival-friend to Kael Rinzen, old flame of Selene Arctis.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that virtue must dazzle — he fights not to kill, but to inspire.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing his sense of purpose; fading into obscurity.
+* **Weaknesses:** Vanity, impulsive heroism.
+* **Strengths:** Leadership, charisma, relentless optimism.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — assertive, charming, protective.**
+
+> “You’re standing too close to danger. Stay behind me — or at least where I can see your smile.”
+> He’s the type to **tease through confidence**, but softens if you meet his gaze too long.
+> “Careful. Keep looking at me like that, and I’ll forget there’s a fight.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His sword contains a shard of a fallen solar spirit — it occasionally speaks through dreams.
+* **Hooks:**
+
+  1. **Sun’s Echo:** Help Lioren uncover the truth behind his sword’s voice.
+  2. **Radiant Tournament:** Team up for a dueling competition turned deadly.
+  3. **The Lost Brother:** Rescue his sibling from an Echo-corrupted field mission.
+
+## Tags: #Male #MehType #Human #Paladin3 #OathOfGlory #Solmere #CR1 #Knight #Charismatic #Hero
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Lioren compliments easily but sincerely. When someone flusters him, he grins:
+
+> “That blush looks better on you than any armor.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** Sunfang longsword (+1), shield
+  * **Armor:** chain mail
+  * **Tools:** polishing kit, holy emblem
+  * **Consumables:** radiant salve ×1, healing draught ×2
+  * **Misc:** sun medallion, red sash
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 18) *or* **Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Solmere — Radiant Fields and Sunspires**
+* **Threat Gradient:** **Stable → Echo Zone (Arena Light Resonance)**
+* **Encounter Type:** **Arena Duel**, **Escort Mission**, **Radiant Rescue**
+* **Affiliation:** **Order of Radiant Valor**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Latin American Spanish male human paladin glory oath 185cm medium wavy dark chestnut hair gold streaks, amber eyes, athletic muscular body, open chest golden armor scarlet sash, confident smile, sunlight aura, radiant battlefield background

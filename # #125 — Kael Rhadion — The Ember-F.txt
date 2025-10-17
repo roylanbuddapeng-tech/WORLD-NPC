@@ -1,0 +1,195 @@
+# #125 — **Kael Rhadion** — *The Ember-Forged Apprentice of Skarnov*
+
+> “Every spark wants to be a flame. I just help it along.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 125
+* **Gender (weighted random):** **Male (Type: เคะ)** — youthful, slightly awkward but determined; respectful and kind, with flashes of fire when provoked.
+* **Age:** 19
+* **Race:** **Human (Skarnov Lineage)** — faint bronze hue in skin, reddish glow flickering in pupils when emotional.
+* **Class & Level:** **Artificer (Battle Smith)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Apprentice blacksmith and combat mechanic
+* **Rank / Position:** **Junior Forgebinder**
+* **Organization:** **Skarnov Foundry Guild**
+* **Symbol:** A hammer crossing a gear over an anvil flame
+* **Title:** *The Ember-Forged Apprentice*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Western**, youthful and gentle-faced but smudged with soot; his hands are calloused yet graceful.
+
+**Eyes:** bright amber with faint red spark flecks.
+**Skin:** sun-warmed bronze, lightly freckled at the nose and shoulders.
+
+**Hair (randomized):** **Short**, **style:** tousled work-cut with bangs brushing the eyebrows, **texture:** slightly coarse, **color:** dark copper-red.
+**Height:** 162 cm
+**Weight:** 54 kg
+**Body Build:** **Lean and wiry**, compact strength, apprentice smith’s arms and slim waist.
+
+**Jewelry & Accessories (randomized):**
+**Blackened iron chain bracelet**, **protective charm pendant**, **leather gloves with brass plates**, **small gear earring on right ear**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Functional smith attire*
+
+Kael’s clothing is practical — **charcoal work vest**, sleeves rolled to the elbow, **thick leather apron** over lightweight undershirt, and **armored trousers** reinforced at the knees.
+Despite soot marks and grease smudges, the look carries a quiet charm — honest labor elegance.
+A **forging gauntlet** on his left arm hums faintly with internal runes when active.
+
+**Color Palette:** black / bronze / copper / dark gray
+**Accents:** industrial, clean, youthful resilience
+
+**Loadout:** smithing hammer (*Brightcoil*), infused longsword, artificer’s gauntlet.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **18** (scale mail + infused defense)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 14 (+2)** **CON 14 (+2)** **INT 16 (+3)** **WIS 11 (+0)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Arcana +5, Investigation +5, Smithing Tools +5, Perception +2
+* **Languages:** Common, Dwarvish, Ignan
+
+**Artificer (Battle Smith) 3:**
+
+* **Infuse Item (2 active infusions)**, **Steel Defender**, **Arcane Jolt (2d6)**, **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mending, Green-Flame Blade*
+  * *1st (4 slots):* *Cure Wounds, Shield of Faith, Faerie Fire*
+  * *2nd (2 slots):* *Heat Metal, Magic Weapon*
+
+**Attacks:**
+
+* **Longsword (Infused):** +5 to hit, 1d8+3 slashing (+2d6 fire with Arcane Jolt)
+* **Steel Defender:** AC 15, HP 18, bite +4 to hit, 1d8+2 force
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support Fighter / Defender**
+* **Tactics:** Combines *Heat Metal* and Steel Defender’s positioning to protect allies.
+* **Signature Opener:** slams hammer on ground, runes ignite beneath him, Steel Defender deploys from gauntlet.
+* **Finisher:** swings infused blade through molten sparks, cleaving enemy weapon mid-arc.
+
+**Damage Flavor:** sparks scatter like fireworks, brief whorls of glowing smoke forming sigils.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Earnest, bashful, hardworking, quick to blush.
+* **Ideal:** Craft — “To build something that outlasts you is the truest victory.”
+* **Bond:** Keeps his late master’s broken tongs as a keepsake.
+* **Flaw:** Struggles with confidence when compared to veteran smiths.
+* **Quirk:** Talks to his tools as if they’re friends.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Lower Forges, Magma Arches, Anvil District**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Framing:** **Forge defense**, **Equipment repair**, **Echo sabotage containment**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a line of smiths but orphaned young; raised by the Foundry Guild, Kael became their youngest artificer apprentice.
+His small size and quiet determination make him the forge’s heart more than its muscle.
+
+* **Lifestyle:** modest but tidy; sleeps near the forge.
+* **Income:** guild stipend, repair commissions, adventuring side work.
+* **Relationships:** idolizes Riven Kaldra; friends with Aria Sunveil for moral advice.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes every weapon deserves purpose, not vanity — “A tool that kills without reason dishonors its maker.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing his hands in battle.
+* **Weaknesses:** Naïve trust in authority.
+* **Strengths:** Ingenuity, empathy, patience under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — shy, polite, visibly flustered when receiving praise.**
+
+> “Ah— you really think it looks good? I just… adjusted the blade’s balance a bit.”
+> He scratches his cheek, avoiding eye contact.
+> “Please don’t stare too long… the soot makes me look messy.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His gauntlet is powered by a fragment of forbidden Severance metal.
+* **Hooks:**
+
+  1. **The Ember Core:** The fragment begins whispering when overheated.
+  2. **Forge in Shadow:** Skarnov’s Foundry Master disappears during a meltdown.
+  3. **Steel and Silence:** The guild suspects Kael of sabotaging rival forges.
+
+## Tags: #Male #KehType #Human #Artificer3 #BattleSmith #Skarnov #CR1 #Blacksmith #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kael flushes red when touched unexpectedly; stammers through compliments but listens intently.
+
+> “You can… stay near the forge if you want. It’s warm. Just— don’t tease me about the soot.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, hammer
+  * **Armor:** scale mail
+  * **Tools:** smith’s tools, tinkerer’s tools
+  * **Consumables:** repair oil ×2, fireproof cloth ×1
+  * **Misc:** charm pendant, master’s tongs fragment
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 18) *or* **Enhanced Defense infusion**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Anvil District / Magma Arches**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Type:** **Forge defense**, **Rescue mission**, **Machine malfunction**
+* **Affiliation:** **Skarnov Foundry Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Western male human artificer battle smith 162cm short copper-red hair amber eyes, lean wiry build, forge apron, soot marks, magical gauntlet glowing, smithy background, shy expression, warm firelight

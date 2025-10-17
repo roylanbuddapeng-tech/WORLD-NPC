@@ -1,0 +1,197 @@
+# #119 — **Elias Corven** — *The Ashen Scholar of Valeronnes*
+
+> “Wisdom burns brightest where ignorance once stood.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 119
+* **Gender (weighted random):** **Male (Type: เคะ)** — intellectual, calm voice, yet easily flustered when praised; unexpectedly brave under pressure.
+* **Age:** 21
+* **Race:** **Human (Valeronnes Lineage)** — faint bronze tone in hair and eyes, light aura shimmer when concentrating.
+* **Class & Level:** **Wizard (Evocation)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Researcher of Echo anomalies, magic tutor
+* **Rank / Position:** **Junior Scholar, College of Resonant Arcana**
+* **Organization:** **University of Valeronnes**
+* **Symbol:** An open eye over stylized firelines
+* **Title:** *The Ashen Scholar*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–English**, elegant and soft-featured, a beauty born from intellect rather than vanity.
+
+**Eyes:** amber-gold with bronze flecks that catch candlelight.
+**Skin:** fair ivory with a faint warm glow around temples when spellcasting.
+
+**Hair (randomized):** **Medium**, **style:** layered messy fringe, slightly curled at tips, **texture:** smooth and light, **color:** warm ash-blond.
+**Height:** 160 cm
+**Weight:** 52 kg
+**Body Build:** **Slender elegant**, scholarly with fine hands and subtle tone from wand practice.
+
+**Jewelry & Accessories (randomized):**
+**Thin crystal monocle (occasionally used)**, **silver chain earring**, **small lapis ring**, **book holster strapped to thigh**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Academic robes (tailored slim fit)*
+
+Elias wears a **navy-gray mage robe** fitted close to the torso, cinched with a **silver-thread belt**, and open at the collar showing a glimpse of linen undershirt.
+The robe’s hem bears faint ember embroidery — marks of his Evocation training.
+A **slim wand holster** hangs from his left sleeve, always within reach.
+
+**Color Palette:** ash / bronze / navy / white
+**Accents:** neat, intellectual, precise
+
+**Loadout:** wand of resonance, spellbook (*Codex Emberlight*).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **14** (mage armor)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, History +5, Insight +3, Investigation +5, Persuasion +3
+* **Languages:** Common, Elvish, Draconic
+
+**Wizard (Evocation) 3:**
+
+* **Evocation Savant, Sculpt Spells**
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Fire Bolt, Prestidigitation, Mage Hand, Minor Illusion*
+  * *1st (4 slots):* *Mage Armor, Magic Missile, Shield, Burning Hands*
+  * *2nd (2 slots):* *Scorching Ray, Mirror Image*
+
+**Attacks:**
+
+* **Fire Bolt:** +5 to hit, 1d10 fire
+* **Dagger:** +4 to hit, 1d4+2 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Ranged Blaster / Support Mage**
+* **Tactics:** Uses *Mirror Image* for defense, then *Scorching Ray* or *Magic Missile* from distance.
+* **Signature Opener:** ignites a page from his spellbook mid-air, turning it into a bolt of flame.
+* **Finisher:** *Scorching Ray* forms a fiery sigil pattern around him before releasing.
+
+**Damage Flavor:** flame magic manifests as bright mathematical spirals and script sigils.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Polite, curious, overly modest.
+* **Ideal:** Knowledge — “Fire destroys ignorance before it consumes the world.”
+* **Bond:** Keeps every spent spell scroll as a record of growth.
+* **Flaw:** Nervous around confident people; flusters easily under teasing.
+* **Quirk:** Adjusts his glasses whenever lying or embarrassed.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — University Quarter, Ember Spire, Echo Laboratories**
+* **Threat Gradient:** **Stable → Wavering (arcane resonance)**
+* **Encounter Framing:** **Academic duel**, **Runaway experiment**, **Library fire ward malfunction**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to librarians in Valeronnes, Elias grew up between shelves taller than houses.
+His talent for fire evocation came when he accidentally melted his desk during an exam.
+He now studies the moral weight of destructive magic.
+
+* **Lifestyle:** disciplined but lonely; works late into candle hours.
+* **Income:** research stipends, tutoring apprentices.
+* **Relationships:** student partner to Liora Venshade; respects Talon Rhyss’s craft.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that knowledge is fire — good or evil depends on who wields it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of his spells; harming innocents again.
+* **Weaknesses:** Timid in crowds, easily manipulated emotionally.
+* **Strengths:** Precision, memory, tactical intelligence.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — shy intellect, flustered easily when others compliment him.**
+
+> “N-no, it’s not that impressive… really. Anyone could learn that spell if they— ah— focus.”
+> He averts his eyes, fingers twitching nervously on his wand.
+> “You’re standing too close. The air gets… hotter when I cast.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** He once triggered a contained Severance flare during a test — only he remembers it.
+* **Hooks:**
+
+  1. **Ash Memory:** Help Elias find why his memories of that night are fragmented.
+  2. **Codex Emberlight:** His spellbook starts writing new runes on its own.
+  3. **The Silent Flame:** His magic stops making sound, a bad omen in Valeronnes.
+
+## Tags: #Male #KehType #Human #Wizard3 #Evocation #Valeronnes #CR1 #Scholar #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Elias stammers when teased but blushes visibly; his voice lowers when serious.
+
+> “If you keep smiling like that, I’ll… forget the incantation again.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** dagger, wand
+  * **Armor:** mage armor (magical)
+  * **Tools:** quill set, research kit
+  * **Consumables:** ink vial ×2, minor mana crystal ×1
+  * **Misc:** monocle, lapis ring, Codex Emberlight
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **Elemental Adept (Fire)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / University Quarter / Ember Spire**
+* **Threat Gradient:** **Stable → Wavering (arcane resonance)**
+* **Encounter Type:** **Dueling exam**, **Arcane anomaly**, **Echo fire breach**
+* **Affiliation:** **College of Resonant Arcana**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean English male human wizard evocation 160cm medium ash blond hair amber eyes, slender elegant build, fitted navy mage robe with silver trim, arcane book, fiery sigils glowing, shy blush, candlelit library background

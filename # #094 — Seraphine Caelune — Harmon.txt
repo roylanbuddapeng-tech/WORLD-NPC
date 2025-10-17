@@ -1,0 +1,203 @@
+# #094 — **Seraphine Caelune** — *Harmonic Knight of the Azure Vale*
+
+> “Discipline is the rhythm that keeps chaos from playing out of tune.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 094
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — calm confidence, motherly authority wrapped in easy charm; every gesture is poised, every word deliberate.
+* **Age:** 28
+* **Race:** **Elf (Thalassaran Lineage)** — graceful and near-human, long ears adorned with azure rings, faint sea-hue glint in her hair when struck by light.
+* **Class & Level:** **Paladin (Oath of the Ancients)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Knight-instructor, temple guard, resonance tactician
+* **Rank / Position:** **Azure Sentinel Lieutenant**
+* **Organization:** **Order of the Silver Wave (Thalassara)**
+* **Symbol:** A wave crest encircling a radiant star
+* **Title:** *The Harmonic Knight*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–European fusion**, dignified beauty with tranquil strength.
+
+**Eyes:** clear blue with faint light ripples like underwater glass.
+**Skin:** soft ivory with a gentle opal glow at temples.
+
+**Hair (randomized):** **Long**, **style:** half-up braid crowned over the head, **texture:** smooth and straight with slight wave at the ends, **color:** oceanic teal fading into pale silver at tips.
+**Height:** 176 cm
+**Weight:** 63 kg
+**Body Type:** **Athletic hourglass**, balanced between grace and muscle; stance steady and commanding.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 97 – 71 – 101
+VALIDATION: • W/B = 0.731 → OK   • H/W = 1.42 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Silver circlet** engraved with wave runes, **opal pendant**, **marine-crystal earrings**, and a **bracelet with shifting blue glow** (minor holy focus).
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *A + D* (**Standard + High Slit for movement**)
+
+Seraphine wears **cerulean armor plates** layered over **white undersuit fabric**, cut high at the sides of her thighs for agile motion.
+The breastplate is sculpted elegantly with ocean motifs, and a **flowing azure cape** drapes from one shoulder, edges inscribed with glowing sigils.
+Her **boots** reach mid-thigh, laced with silver thread.
+
+**Color Palette:** silver / azure / white / pale teal
+**Accents:** ceremonial yet battle-ready, luminous under light
+
+**Loadout:** longsword (*Wavecrest*), silver kite shield, holy focus crystal.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **18** (chain mail + shield)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 14 (+2)** **INT 10 (+0)** **WIS 13 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Persuasion +5, Athletics +5, Insight +3, Religion +2
+* **Languages:** Common, Elvish, Celestial
+
+**Paladin (Oath of the Ancients) 3:**
+
+* **Divine Sense (3/day)**, **Lay on Hands (15 HP)**
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * **1st (3 slots):** *Bless, Cure Wounds, Protection from Evil and Good*
+* **Channel Divinity:** *Nature’s Wrath, Turn the Faithless*
+* **Fighting Style:** Defense
+
+**Attacks:**
+
+* **Wavecrest Longsword:** +5 to hit, 1d8+3 slashing (+1d8 radiant on Smite)
+* **Shield Bash:** +5 to hit, 1d4+3 bludgeoning, may shove
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Defender / Support / Field Leader**
+* **Tactics:** Anchors formation; uses *Bless* early, guards weaker allies, counterattacks with *Smite* bursts.
+* **Signature Opener:** sword raised, a wave of teal light pulses across the field.
+* **Finisher:** channels *Smite* into an overhead slash — light ripples like breaking surf.
+
+**Damage Flavor:** radiant energy manifests as shimmering water arcs.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Composed, protective, lightly teasing; her voice is low and sure.
+* **Ideal:** Guidance — “Strength means leading others without overshadowing them.”
+* **Bond:** Her cadets, especially new recruits in Thalassara.
+* **Flaw:** Overprotective; rarely lets herself be vulnerable.
+* **Quirk:** Calls people “dear” unconsciously when focused.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Azure Garrison, Moon Canal training fields**
+* **Threat Gradient:** **Stable → Wavering (battle drills disturbed by resonance)**
+* **Encounter Framing:** **Training Duel**, **Escort Command**, **Sanctum Defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born into the Thalassaran Silver Line, Seraphine rose from choir-guard to knight-captain. Trained others to hear the “song of steel” — the rhythm of combat and harmony of restraint.
+
+* **Lifestyle:** methodical; prays before dawn, trains by twilight.
+* **Income:** guard salary and temple stipend.
+* **Relationships:** former instructor to Lyra Thalassara; mentors Meilin Zhou through letters.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes compassion and strength are two sides of the same melody; cruelty breaks the rhythm of life.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing to protect her students.
+* **Weaknesses:** Suppresses her emotions too effectively.
+* **Strengths:** Calm under chaos, leadership, precise control of aura.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — composed teasing, reassuring warmth.**
+
+> “Hold your stance, dear. You’ll never hit anything if you’re too busy blushing.”
+> She **teases through confidence**, enjoys being looked up to but secretly melts when trusted.
+> “If you stumble, I’ll catch you. That’s what seniors are for, isn’t it?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her cape is woven with hymnal runes from a forbidden Thalassaran song that wards against Echo influence.
+* **Hooks:**
+
+  1. **The Silent Choir:** Help her retrieve lost runes before the Council finds out.
+  2. **Lesson of Light:** Join her patrol to train recruits during an unexpected Echo breach.
+  3. **Falling Tide:** Her divine link begins to waver; help her restore faith through battle.
+
+## Tags: #Female #SeniorType #Elf #Paladin3 #Ancients #Thalassara #CR1 #Knight #Mentor #Protective
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Seraphine loves **flustering subordinates**, leaning close during instruction, voice just above a whisper:
+
+> “Breathe. Now again. Better. You’re trembling less already.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, shield
+  * **Armor:** chain mail
+  * **Tools:** prayer focus, map case
+  * **Consumables:** radiant balm ×2, holy tincture ×1
+  * **Misc:** opal pendant, azure cape
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 18) *or* **Shield Master**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Azure Garrison / Canal Training Fields**
+* **Threat Gradient:** **Stable → Wavering (resonant drills)**
+* **Encounter Type:** **Defense scenario**, **training aid**, **resonance breach patrol**
+* **Affiliation:** **Order of the Silver Wave**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese European female elf paladin ancients 176cm long teal silver hair half-up braid, blue eyes, athletic hourglass body, silver azure armor high slit design, flowing cape, ocean light aura, confident gentle smile, Thalassara training field background

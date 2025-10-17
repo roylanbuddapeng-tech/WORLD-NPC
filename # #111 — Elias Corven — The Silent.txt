@@ -1,0 +1,196 @@
+# #111 — **Elias Corven** — *The Silent Arbalist of the Obsidian Reach*
+
+> “Silence is the truest mercy. It ends both lies and suffering.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 111
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — composed, intimidating in stillness, voice like gravel and smoke; prefers quiet observation over words.
+* **Age:** 41
+* **Race:** **Human**
+* **Class & Level:** **Ranger (Monster Slayer)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Bounty hunter, monster tracker, black-market informant
+* **Rank / Position:** **Freelance Hunter of the Black Ledger**
+* **Organization:** **The Obsidian Reach (mercenary guild)**
+* **Symbol:** A black raven perched upon a broken crossbow bolt
+* **Title:** *The Silent Arbalist*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Western European – Nordic**, mature and severe, handsome in a worn, realistic way; eyes that measure before they judge.
+
+**Eyes:** pale gray-blue, glint like winter steel.
+**Skin:** weathered tan with faint scar lines under the jaw and across one brow.
+
+**Hair (randomized):** **Short**, **style:** rough military cut, **texture:** coarse, **color:** iron-gray with black undertone.
+**Height:** 183 cm
+**Weight:** 82 kg
+**Body Build:** **Muscular but lean**, broad-shouldered, sinewy endurance fighter’s frame.
+
+**Jewelry & Accessories (randomized):**
+**Black leather glove on left hand**, **steel utility vambrace**, **obsidian pendant**, **belt of bolts carved with tally marks**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Stealth combat attire*
+
+Elias wears **ashen-gray hunting leathers**, reinforced at the joints with hardened plates, layered beneath a **black half-cloak** cut for crossbow use.
+His boots are steel-toed, soles padded for silent movement.
+A hood and scarf conceal most of his face when he hunts — only his sharp gaze remains visible.
+
+**Color Palette:** obsidian / gray / muted green / dull silver
+**Accents:** pragmatic, brutal efficiency; beauty through function
+
+**Loadout:** heavy crossbow (*Whispercoil*), shortsword, hunting knife.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 11 (+0)** **WIS 16 (+3)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, DEX +5
+* **Skills:** Perception +5, Survival +5, Stealth +5, Insight +5, Investigation +2, Intimidation +2
+* **Languages:** Common, Infernal
+
+**Ranger (Monster Slayer) 3:**
+
+* **Hunter’s Sense, Slayer’s Prey (1d6 bonus damage)**
+* **Supernatural Defense (+1d6 to save vs target)**
+* **Primeval Awareness**
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Hunter’s Mark, Detect Magic, Protection from Evil and Good, Zephyr Strike*
+
+**Attacks:**
+
+* **Heavy Crossbow (Whispercoil):** +5 to hit, 1d10+3 piercing (+1d6 Slayer’s Prey)
+* **Shortsword:** +5 to hit, 1d6+3 slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Ranged Controller / Anti-Monster Specialist**
+* **Tactics:** Tracks, observes, and ambushes; never wastes movement or sound.
+* **Signature Opener:** *Zephyr Strike* from cover, bolt through the eye before a word’s spoken.
+* **Finisher:** *Slayer’s Prey* and a whisper: “Rest.”
+
+**Damage Flavor:** his bolts crackle faintly with runic frost — each impact leaves a frost sigil.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calm, precise, pragmatic to the point of austerity.
+* **Ideal:** Discipline — “Mercy is given by those strong enough to decide when to stop.”
+* **Bond:** Keeps a single black feather from his fallen companion hawk, Arin.
+* **Flaw:** Detached; struggles to connect emotionally.
+* **Quirk:** Refuses to kill sleeping or unaware foes unless monstrous.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Obsidian Reach, Northern Ruins, Frozen Ravines**
+* **Threat Gradient:** **Wavering → Echo Zone (cold resonance)**
+* **Encounter Framing:** **Bounty handoff**, **Monster ambush**, **Silent escort**
+
+---
+
+## 📜 Background & Lifestyle
+
+A veteran soldier turned monster slayer, Elias learned silence as survival.
+He wanders between contracts, chasing rumors of Echo-corrupted beasts.
+
+* **Lifestyle:** solitary, minimalistic, sleeps with crossbow within arm’s reach.
+* **Income:** monster bounties, debt collection, high-risk retrievals.
+* **Relationships:** mentor-ally to Taro Vensai; mutual respect, no wasted words.
+
+---
+
+## 🧩 Morals & Ethics
+
+He measures morality by consequence, not intention. “A clean kill is better than a merciful wound.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control — he once slew a man under mistaken assumption.
+* **Weaknesses:** Emotionally distant, haunted by past.
+* **Strengths:** Precision, patience, resistance to corruption.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — quiet authority, steady presence; intimidating calm.**
+
+> “Talking’s for people who can’t aim.”
+> He isn’t easily flustered but becomes awkward if shown affection.
+> “Don’t thank me. Just… don’t get killed next time.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** The Obsidian Reach pays him not just for bounties — but to *erase* evidence of certain royal monstrosities.
+* **Hooks:**
+
+  1. **The Black Ledger:** Help Elias uncover why the guild is deleting hunts from record.
+  2. **Frost of Arin:** Retrieve his fallen hawk’s soul trapped in an Echo storm.
+  3. **The Silent Contract:** Someone puts a bounty on Elias himself.
+
+## Tags: #Male #MiddleAged #Human #Ranger3 #MonsterSlayer #Valeronnes #CR1 #Hunter #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Elias avoids emotional displays, but his silence hides empathy. He fixes armor straps or cleans weapons in quiet gratitude.
+
+> “If I didn’t care, I wouldn’t have stayed.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** heavy crossbow (*Whispercoil*), shortsword
+  * **Armor:** studded leather
+  * **Tools:** hunting kit, snare traps
+  * **Consumables:** frost oil ×1, ration packs ×3
+  * **Misc:** black feather, obsidian charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 18) *or* **Sharpshooter**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Obsidian Reach / Northern Ruins**
+* **Threat Gradient:** **Wavering → Echo Zone (cold resonance)**
+* **Encounter Type:** **Hunt contract**, **Ambush**, **Monster track**
+* **Affiliation:** **The Obsidian Reach**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Western Nordic male human ranger monster slayer 183cm short iron gray hair gray blue eyes, muscular lean build, gray hunting leathers black half cloak, heavy crossbow, frost rune magic, snowy ruin background, stoic expression

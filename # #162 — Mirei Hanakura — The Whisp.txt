@@ -1,0 +1,201 @@
+# #162 — **Mirei Hanakura** — *The Whispered Petals of Thalassara*
+
+> “Grace isn’t weakness. It’s control, even when the heart trembles.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 162
+* **Gender (weighted random):** **Female (Type: Tom Boy – Variant 1: Feminine with short masculine cut)**
+* **Age:** 24
+* **Race:** **Human (Thalassaran Lineage)** — ผิวขาวอมชมพู ดวงตาเรียวยาวประกายฟ้าใส ดูเงียบแต่มั่นใจ
+* **Class & Level:** **Rogue (Swashbuckler)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** นักดาบประจำโรงละคร, นักแสดง, นักผจญภัยรับจ้าง
+* **Rank / Position:** **Stage Duelist / Canal Performer**
+* **Organization:** **Thalassaran Playhouse Guild**
+* **Symbol:** กุหลาบเงินซ้อนใบมีดสั้น
+* **Title:** *The Whispered Petals*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Vietnamese**, soft-faced but sharp-eyed — elegance hidden beneath a dancer’s discipline.
+
+**Eyes:** bright blue, catlike focus with a gentle warmth.
+**Skin:** fair, faint blush tone on the cheeks; freckle under left eye.
+
+**Hair (Feminine Hair Randomizer v2.7):** **Short (feminine style)**, **sub-style:** **Bob with side fringe**, **texture:** straight, **color:** **dark brown with rose-red ends**.
+**Height:** 168 cm
+**Weight:** 56 kg
+**Body Type:** **Athletic feminine**, flexible and toned core — dancer’s grace.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium-Large
+THREE_SIZES (B-W-H, cm): 92 – 67 – 96
+VALIDATION: • W/B = 0.728 → OK   • H/W = 1.43 → OK
+```
+
+**Jewelry & Accessories (30% glasses rule; result: no glasses):**
+Silver rose-shaped earring (right ear only), light chain choker, wrist bangle with stage rune, thin belt charm.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Revealing (open side-slit coat, cropped vest)*
+
+Mirei’s outfit blends **performer flair** and **combat readiness**:
+She wears a **short-sleeved cropped vest**, open at the midriff with **silver filigree trim**, beneath a **long white side-slit coat** that flutters like petals during movement.
+Her **black trousers** hug her legs tightly, strapped with silver buckles; boots rise to mid-thigh for flexibility.
+
+**Color Palette:** white / silver / rose-red / black accents
+**Accents:** graceful danger, charm in motion
+
+**Loadout:** rapier (*Silver Bloom*), off-hand dagger, smoke petals (flash-powder pouches).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **16** (leather armor + DEX + flair)
+* **Speed:** 35 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +2
+* **Skills:** Acrobatics +6, Performance +4, Persuasion +4, Stealth +6, Insight +3, Sleight of Hand +6
+* **Languages:** Common, Elvish, Thalassaran
+
+**Rogue (Swashbuckler) 3:**
+
+* **Fancy Footwork, Rakish Audacity, Sneak Attack (2d6)**
+* **Cunning Action**
+* **Panache (Cha + Performance vs Insight)**
+
+**Attacks:**
+
+* **Silver Bloom (Rapier):** +6 to hit, 1d8+4 piercing (+2d6 sneak attack)
+* **Off-hand Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duelist / Mobility DPS**
+* **Tactics:** Always isolates targets, weaving between melee and theatrical flourish. Uses *Fancy Footwork* to dance out of reach after each strike.
+* **Signature Opener:** Spins dagger midair, steps into stance — “One breath. One bloom.”
+* **Finisher:** Smoke petals burst; she appears behind the foe as the last petal falls.
+
+**Damage Flavor:** flashes of rose-red energy trail behind her slashes, petals scattering with every parry.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, witty, tomboyish energy but refined manners.
+* **Ideal:** Freedom — “Every duel is choreography.”
+* **Bond:** Her troupe, especially the stagehand who writes her fight scripts.
+* **Flaw:** Overextends showmanship; hates retreating.
+* **Quirk:** Clicks her tongue before every strike, like counting rhythm.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Grand Playhouse, Canal Bridges, Amphitheater Tiers**
+* **Threat Gradient:** **Stable → Wavering (performance echoes)**
+* **Encounter Framing:** **Theater duel**, **Ambush during a show**, **Canal pursuit at night**
+
+---
+
+## 📜 Background & Lifestyle
+
+A rising stage performer who found real combat more thrilling than scripted duels.
+Became a canal rogue to fund her troupe’s next production.
+
+* **Lifestyle:** lives in a shared performer dorm above a theater.
+* **Income:** show pay + adventure bounty.
+* **Relationships:** friendly rivalry with Sumiya Kairen; stage-flirt tension with Kael Dalcourt.
+
+---
+
+## 🧩 Morals & Ethics
+
+Beauty is motion — to fight well is to dance without music.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Forgetting her rhythm mid-battle.
+* **Weaknesses:** Easily distracted by compliments.
+* **Strengths:** Reflexes, timing, grace.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tom Boy (Type 1)** — ท่าทางมั่นใจแต่เสียงนุ่ม จะหลุดอายเวลาโดนแซวตรง ๆ
+
+> “You watching my form or my footwork?”
+> (หัวเราะเบา ๆ แล้วดีดผมข้างแก้ม)
+> “Either way, don’t blink.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** One of her “stage fights” was actually a real assassination that she unknowingly helped cover.
+* **Hooks:**
+
+  1. **Curtain Call:** An Echo manifests through her old stage performance — reliving the murder.
+  2. **Broken Chord:** Her mentor disappears mid-show, leaving a half-finished choreography sigil.
+  3. **Silent Ovation:** Someone wants her head — but only during her next curtain call.
+
+## Tags: #Female #Tomboy #Type1 #Human #Rogue3 #Swashbuckler #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mirei **teases others to hide fluster**, especially if complimented seriously.
+
+> “You keep staring. Is it the sword or the smile? Be honest.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, dagger
+  * **Armor:** leather
+  * **Tools:** disguise kit, thieves’ tools
+  * **Consumables:** smoke petals ×2, healing potion ×1
+  * **Misc:** rose earring, belt charm, guild token
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Grand Playhouse / Canal Bridges**
+* **Threat Gradient:** **Stable → Wavering (performance echoes)**
+* **Encounter Type:** **Duel in crowd**, **Chase across stage rafters**, **Assassination misfire**
+* **Affiliation:** **Playhouse Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Vietnamese female human rogue swashbuckler 168cm short bob dark brown hair rose-red tips, athletic feminine, blue eyes, cropped vest side-slit coat white and black, silver rapier, dancing motion, canal theater background

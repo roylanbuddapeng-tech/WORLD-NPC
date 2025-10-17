@@ -1,0 +1,205 @@
+# #112 — **Aria Lenvale** — *The Bloomwright of Silent Petals*
+
+> “The earth listens better than people do. That’s why I talk to flowers first.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 112
+* **Gender (weighted random):** **Female (Type: MILF)** — warm, calm, and wise; her voice has that gentle lull that makes even soldiers behave.
+* **Age:** 35
+* **Race:** **Half-Elf (Valeronnes Lineage)** — 90% human appearance; faint green hue along veins beneath the skin, eyes with shifting iris tones between blue and jade.
+* **Class & Level:** **Druid (Circle of Dreams)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Herbalist, healer, and counselor for wandering adventurers
+* **Rank / Position:** **Caretaker of the Bloomhouse Sanctuary**
+* **Organization:** **Valeronnes Circle of Renewal**
+* **Symbol:** A lotus blooming from a crescent moon cradle
+* **Title:** *The Bloomwright of Silent Petals*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–French**, lush beauty softened by time, with a faint sadness that never leaves her smile; she looks like warmth given shape.
+
+**Eyes:** shifting jade-blue gradient, soft and reflective.
+**Skin:** smooth fair tone with slight golden warmth; faint bioluminescent freckles glow under moonlight.
+
+**Hair (randomized):** **Long**, **style:** waterfall braid cascading down the back, **texture:** silky and slightly wavy, **color:** chestnut-brown with olive undertones and gold glints.
+**Height:** 170 cm
+**Weight:** 59 kg
+**Body Type:** **Curvy mature**, gentle waistline and full bust, posture effortlessly graceful.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 106 – 74 – 114
+VALIDATION: • W/B = 0.698 → OK   • H/W = 1.54 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Vine circlet**, **moonflower pendant**, **woven seed-bead anklet**, **bracelet of entwined roots** that glows faintly when she heals.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *B + F* (**backless gown + transparent outer shawl**)
+
+Aria’s attire is both spiritual and sensual — a **light moss-green backless gown** that flows like water, the fabric thin enough to shimmer with every motion.
+Over it drapes a **transparent outer shawl** of white-lace silk embroidered with leaf motifs.
+Her bare feet are wrapped in vines that pulse faintly with druidic light when she channels magic.
+
+**Color Palette:** moss green / ivory / soft gold / pale jade
+**Accents:** serene sensuality, divine healer aesthetic
+
+**Loadout:** quarterstaff entwined with white vines, druidic focus pendant, satchel of herbs.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 13 (+1)** **WIS 17 (+3)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +3, WIS +5
+* **Skills:** Medicine +5, Insight +5, Nature +3, Persuasion +5, Animal Handling +5
+* **Languages:** Common, Elvish, Sylvan
+
+**Druid (Circle of Dreams) 3:**
+
+* **Balm of the Summer Court (3d6 healing pool)**
+* **Wild Shape (2/day)** — usually small creatures: fox, dove, or dryad-spirit form
+* **Druid Spells (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Guidance, Produce Flame, Thorn Whip*
+  * *1st (4 slots):* *Cure Wounds, Entangle, Faerie Fire, Goodberry*
+  * *2nd (2 slots):* *Lesser Restoration, Moonbeam*
+
+**Attacks:**
+
+* **Quarterstaff (entwined focus):** +4 to hit, 1d8+2 bludgeoning
+* **Thorn Whip (cantrip):** +5 to hit, 2d6 piercing + pull target 10 ft
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support Healer / Controller / Battlefield Healer**
+* **Tactics:** Opens with *Faerie Fire* for allies, uses *Balm* reactively, and *Moonbeam* for purging corrupted entities.
+* **Signature Opener:** Raises her staff, petals spiral outward, each turning to light.
+* **Finisher:** *Moonbeam pulse* through vines coiling around enemy limbs — cleansing, not killing.
+
+**Damage Flavor:** floral motes drift from her strikes; petals turn to gold when healing allies.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Motherly, witty, serene even in crisis.
+* **Ideal:** Compassion — “The soil never judges what grows from it.”
+* **Bond:** Tends a hidden grave of her first adventuring party.
+* **Flaw:** Forgives too easily — even those who hurt her.
+* **Quirk:** Talks to plants as if they’re gossiping neighbors.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Bloomhouse Sanctuary, Whispering Glades, Healing Gardens**
+* **Threat Gradient:** **Stable → Wavering (life resonance)**
+* **Encounter Framing:** **Rescue under moonlight**, **Herbal negotiation**, **Echo garden purification**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former adventurer turned healer, Aria left battlefield chaos behind to teach others peace through nature.
+Still, she treats wounds too deftly for someone who’s “retired.”
+
+* **Lifestyle:** tranquil; sleeps surrounded by bioluminescent flora.
+* **Income:** donations, herbal medicine trade, blessings from travelers.
+* **Relationships:** close to Selene Vaurelle (old comrade); surrogate mentor to Miyu Hanari.
+
+---
+
+## 🧩 Morals & Ethics
+
+Sees violence as a disease — prefers healing the causes, not treating the symptoms.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing empathy, or becoming numb to suffering.
+* **Weaknesses:** Physically fragile, too trusting.
+* **Strengths:** Healing, wisdom, charisma that defuses hostility.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — nurturing warmth with subtle sensual undercurrent; disarms with calm affection.**
+
+> “You look exhausted, dear. Sit — let me tend to that bruise.”
+> When teased, she responds with amused confidence.
+> “Careful. If you keep staring, you might bloom where you stand.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Once served as healer to the original “Seven,” left after witnessing forbidden resurrection magic.
+* **Hooks:**
+
+  1. **The Forbidden Bloom:** Aria’s garden hides a sealed Echo bud that still whispers her name.
+  2. **Roots of Regret:** Her old allies resurface — corrupted by what she healed.
+  3. **Dreamwalker’s Rest:** Players must guard her body while her spirit travels into a corrupted grove.
+
+## Tags: #Female #MILF #HalfElf #Druid3 #CircleOfDreams #Valeronnes #CR1 #Healer #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Her affection feels maternal, yet her gaze lingers long enough to make hearts skip.
+
+> “Don’t mistake gentleness for weakness. I can break bones as easily as I mend them.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff (living vine focus)
+  * **Armor:** padded druidic gown
+  * **Tools:** herbalist kit
+  * **Consumables:** healing balm ×3, moon tea ×1
+  * **Misc:** moonflower pendant, vine circlet
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 19) *or* **Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Bloomhouse Sanctuary / Whispering Glades**
+* **Threat Gradient:** **Stable → Wavering (life resonance)**
+* **Encounter Type:** **Healing quest**, **Druidic trial**, **Corrupted grove purification**
+* **Affiliation:** **Circle of Renewal**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai French female half-elf druid 170cm long brown gold hair jade blue eyes, backless moss-green gown, transparent silk shawl, lush garden moonlight, soft smile, glowing petals, mature beautiful healer

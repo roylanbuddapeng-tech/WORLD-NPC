@@ -1,0 +1,203 @@
+# #146 — **Aira Kien-Vales** — *The Windpetal Duelist of Thalassara*
+
+> “I don’t chase victory. I dance until it falls into my arms.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 146
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — bright, energetic, a little clumsy; admires seniors but fights fiercely to prove her worth.
+* **Age:** 19
+* **Race:** **Half-Beast (Avian — swallow hybrid)** — ~85% human; small winglets of black-blue feathers at her shoulders and a faint sky-hued tint around her eyes.
+* **Class & Level:** **Fighter (Dueling Style)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Arena duelist, courier-guard, student adventurer
+* **Rank / Position:** **Skyblade Apprentice**
+* **Organization:** **Thalassara Academy of Martial Arts**
+* **Symbol:** Twin swallow wings crossing a silver rapier
+* **Title:** *The Windpetal Duelist*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Thai**, lively, sunny, and utterly expressive; a mix of grace and playful mischief.
+
+**Eyes:** sapphire blue with feather-like patterns in the irises.
+**Skin:** smooth beige with a faint warm undertone and a dusting of freckles.
+
+**Hair (Hair Randomizer v2.0):** **Medium**, **style:** **twin tails tied with ribbons**, **texture:** soft and wavy, **color:** **dark navy fading into sky-blue ombré.**
+**Height:** 162 cm
+**Weight:** 54 kg
+**Body Type:** **Slender athletic** — toned legs, light curves, full of motion and spark.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 64 – 93
+VALIDATION: • W/B = 0.727 → OK   • H/W = 1.45 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Feather earring (left ear only)**, **choker with wind rune**, **anklet with sky-bell charm**, **simple silver bangle.**
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *A + F* (**cropped fighter jacket + exposed waist**)
+
+Aira wears a **short azure jacket** with silver lining, cropped high enough to show her toned midriff.
+Underneath, a **form-fitting black combat top** keeps her movement free.
+Her pants are **navy stretch leather**, slit slightly at the sides for flexibility, paired with **knee-high boots** and **white gloves** trimmed in blue.
+A **winged rapier holster** rides her left hip.
+
+**Color Palette:** blue / white / silver / black
+**Accents:** youthful motion, airlight balance, vibrant spark of energy
+
+**Loadout:** *Rapier (Gale’s Whisper)*, dagger, sky-cape for gliding.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **17** (leather + DEX + duelist’s grace)
+* **Speed:** 35 ft, **Glide (racial)** — can reduce fall distance by half and move horizontally.
+* **STR 11 (+0)** **DEX 17 (+3)** **CON 14 (+2)** **INT 11 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, CON +4
+* **Skills:** Acrobatics +5, Performance +3, Insight +3, Persuasion +3, Perception +3
+* **Languages:** Common, Auran, Elvish
+
+**Fighter (Dueling Style) 3:**
+
+* **Fighting Style:** Dueling (+2 to damage when wielding one weapon)
+* **Second Wind (1d10+3)**
+* **Action Surge (1/rest)**
+* **Martial Archetype:** *Champion* — Improved Critical (19–20)
+
+**Attacks:**
+
+* **Rapier (Gale’s Whisper):** +5 to hit, 1d8+5 piercing
+* **Dagger:** +5 to hit, 1d4+3 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Duelist / Agile Striker**
+* **Tactics:** Charges head-on with precision; uses *Action Surge* for burst offense.
+* **Signature Opener:** spins rapier to gather wind, rushes in a swirl of blue ribbons.
+* **Finisher:** aerial leap — strikes downward like a falling feather, wind curling around her.
+
+**Damage Flavor:** thin currents of blue wind trail her blade like ribbons on impact.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Cheerful, loyal, excitable, wears emotions on her sleeve.
+* **Ideal:** Growth — “The sky’s always higher the next time you look.”
+* **Bond:** Her sword mentor, Kael Vernoss.
+* **Flaw:** Overconfidence — underestimates danger when excited.
+* **Quirk:** Talks to her rapier like a partner (“We’ve got this, Whisper!”).
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Sky Docks, Wind Arenas, Cloudspine Bridges**
+* **Threat Gradient:** **Stable → Wavering (wind resonance)**
+* **Encounter Framing:** **Training duel**, **Sky escort mission**, **Airborne skirmish**
+
+---
+
+## 📜 Background & Lifestyle
+
+Aira grew up idolizing the sky duelists of Thalassara.
+She joined the Academy at sixteen and now fights for guild recognition — still more enthusiasm than experience.
+
+* **Lifestyle:** dormitory living, cluttered but colorful.
+* **Income:** academy stipend, arena matches.
+* **Relationships:** close with Taro Wynthal; considers Kael Vernoss her “unreachable senior.”
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes you can’t learn without falling — and if you fall, make it look cool.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being forgotten by her mentors.
+* **Weaknesses:** Impulsive, emotional in battle.
+* **Strengths:** Reflexes, agility, bright morale energy.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — bright, flustered, openly adoring.**
+
+> “S-Senpai! Did you see that strike?! I actually did it!”
+> Aira beams, then fumbles her rapier back into its sheath, nearly dropping it.
+> “W-Wait! Don’t laugh! …Okay, you can laugh a little.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her rapier *Gale’s Whisper* contains a sealed wind elemental that occasionally guides her.
+* **Hooks:**
+
+  1. **Echo of the Sky:** Her weapon starts whispering names in the wind.
+  2. **The Duel That Never Ends:** She’s challenged by an unseen rival who mimics her moves.
+  3. **Flight Trial:** Must leap from the Cloudspine Bridge to bond fully with her blade spirit.
+
+## Tags: #Female #JuniorType #HalfBeast #Avian #Fighter3 #Champion #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Aira gets **flustered when praised** — laughs too loudly, blushes easily, then doubles down with bravado.
+
+> “Wh-what? No, I’m not blushing! It’s just… windburn! Yeah, windburn.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** *Gale’s Whisper* (rapier), dagger
+  * **Armor:** leather armor
+  * **Tools:** polishing kit, rope
+  * **Consumables:** stamina tonic ×1, healing salve ×1
+  * **Misc:** academy pin, sky-ribbon tokens
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 19) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Sky Docks / Cloudspine Bridge**
+* **Threat Gradient:** **Stable → Wavering (wind resonance)**
+* **Encounter Type:** **Training duel**, **Aerial skirmish**, **Arena match**
+* **Affiliation:** **Thalassara Martial Academy**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Thai female half-beast avian fighter champion 162cm medium navy-blue to sky-blue ombre twin tails, blue eyes, cropped azure jacket, exposed waist, agile stance, cheerful smile, rapier duel, sky background

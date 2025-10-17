@@ -1,0 +1,197 @@
+# #164 — **Vorren Nyx** — *The Night-Lash Auditor of Valeronnes*
+
+> “Debts are just promises in shadow. I collect both.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 164
+* **Gender (weighted random):** **Male (Type: เมะ)** — สุขุม มั่นใจ เสียงทุ้มเจือเย้า ๆ แบบไม่ต้องพยายามเท่
+* **Age:** 25
+* **Race:** **Dark Elf (Valeronnes Lineage)** — ~85–90% มนุษย์ ใบหูเรียวบาง ผิวหม่นมีประกายม่วงจาง ๆ ใต้แสงจันทร์ ดวงตาวงแหวนเงิน
+* **Class & Level:** **Warlock (Hexblade)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** ผู้ตามเก็บสัญญา/นักสืบเร้นเงา, นักผจญภัย
+* **Rank / Position:** **Shadow Auditor**
+* **Organization:** **Valeronnes Ledger of Night** (กองตรวจสัญญา–เรโซแนนซ์)
+* **Symbol:** แส้โซ่ทับบนสมุดบัญชีมีเสี้ยวจันทร์
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese**, sharp and minimal—an auditor’s chill dressed in courtly shadow.
+
+**Eyes:** mercury-silver with faint lilac ring; gaze measures, not judges.
+**Skin:** cool dusk-gray with soft violet undertone along cheekbones and collarbones.
+
+**Hair (Masculine Hair Randomizer v2.7):** **Short layered / undercut** (top-weighted), straight, **color:** **obsidian black with indigo-violet sheen**; sides clean, crown swept back.
+**Height:** 178 cm
+**Weight:** 70 kg
+**Body Build:** **Lean athletic** — whipcord muscle, meticulous posture.
+
+**Jewelry & Accessories (30% glasses roll → success):**
+**Slim rectangular half-moon spectacles (smoked lenses)**, **black-silver signet ring**, **thin chain earring (left)**, **ledger-string bracelet** with tiny abacus charm.
+
+---
+
+## 👗 Outfit (in English)
+
+**Archetype:** **Practical / Tactical (non-revealing, male rule)**
+
+Vorren wears a **matte-black audit coat** with hidden loops for chain storage over a **high-collar graphite shirt**.
+**Charcoal trousers** with quiet stretch panels tuck into **soft-soled boots** for silent movement.
+A **shadow-buckler** (small shield) folds flat at his back; **ledger-satchel** rides low at the hip.
+
+**Color Palette:** black / charcoal / indigo / muted silver
+**Accents:** court-ready minimalism, contract-enforcer chic
+
+**Loadout:** **Shadowchain Whip (pact weapon)**, **hand crossbow**, folding buckler (shield), seal-stamp focus.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **24 HP** (Warlock 3; 8 + CON2, then 5+CON ×2)
+* **AC:** **17** (studded leather 12 + DEX + shield)
+* **Speed:** 30 ft; **Darkvision** 60 ft
+* **STR 10 (+0)** **DEX 16 (+3)** **CON 14 (+2)** **INT 12 (+1)** **WIS 10 (+0)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +2, CHA +5
+* **Skills:** Intimidation +5, Investigation +3, Insight +2, Stealth +5, Perception +2
+* **Languages:** Common, Elvish, Infernal, Valeronnes Cant
+
+**Warlock (Hexblade) 3:**
+
+* **Hex Warrior** (ใช้ **CHA** โจมตี/ดาเมจกับอาวุธมือเดียวที่ถือ)
+* **Pact Boon:** **Pact of the Blade** (ผูก **Shadowchain Whip**)
+* **Eldritch Invocations:** **Agonizing Blast**, **Devil’s Sight** (มองทะลุความมืดปกติ/เวท 120 ฟุต)
+* **Spellcasting (CHA DC 13, +5 atk; 2 slots, 2nd-level):**
+
+  * *Cantrips:* **Eldritch Blast, Mage Hand, Minor Illusion**
+  * *1st–2nd:* **Hex, Armor of Agathys, Cause Fear, Darkness, Shadow Blade**
+
+**Attacks:**
+
+* **Shadowchain Whip (pact, reach):** +5 to hit (CHA), **1d4+3** slashing; +**1d6** necrotic with **Hex**
+* **Hand Crossbow:** +5 to hit, **1d6+3** piercing (range 30/120)
+* **Eldritch Blast:** +5 to hit, **1d10+3** force (Agonizing)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Controller / Debuffer / Skirmisher**
+* **Opener:** *Darkness* over the melee → ใช้ **Devil’s Sight** คุมในความมืด, ฟาดแส้จากระยะ **reach** ล้มจังหวะศัตรู
+* **Flow:** สลับ **Hex** เป้าหมาย, ใช้ **Shadow Blade** เมื่อเข้ารบในระยะใกล้/แสงน้อย
+* **Finisher:** รั้งข้อมือด้วยแส้แล้วแทงซ้ำด้วย **Eldritch Blast** ระยะประชิด—เสียงแห้งเหมือนขีด墨บนแก้ว
+
+**Damage Flavor:** chain-links drink the light, leaving lilac after-images that snap back into the whip.
+
+---
+
+## 💬 Personality
+
+* **Traits:** สุภาพ, กัดเจ็บเวลาเลือกจะพูด, รู้ขอบเขตและกาลเทศะ
+* **Ideal:** สัญญา = ระเบียบของสังคม — “คำลวงทำให้เมืองแตกเสียง”
+* **Bond:** ledger-master ผู้เคยดึงเขาขึ้นจากหนี้เลือด
+* **Flaw:** ยึดติดรูปแบบ; ขาดความยืดหยุ่นเมื่อแผนเพี้ยน
+* **Quirk:** แตะขอบแว่นหนึ่งครั้งก่อนถามคำสำคัญ—สัญญาณ “เข้าสู่โหมดสอบสวน”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Moonlight District, Mirror Alleys, Quiet Ledgers**
+* **Threat Gradient:** **Stable → Wavering (social/contract resonance)**
+* **Encounter Framing:** **ติดตามลูกหนี้เร้นเงา**, **ดวลกลางตรอกมืด**, **ยึดทรัพย์เวทผิดสัญญา**
+
+---
+
+## 📜 Background & Lifestyle
+
+เกิดในตรอกกระจก ล้มละลายตั้งแต่วัยรุ่นเพราะสัญญาพิษของแก๊งสะท้อน
+รอดชีวิตเพราะเซ็น “สัญญาไถ่เงา” กับ **Hexblade** แห่งหอสมุดรัตติกาล — ตอนนี้เขาเก็บหนี้ให้ระบบแทนแก๊ง
+
+* **Lifestyle:** ห้องชุดเล็กเงียบกริบ ใต้ตู้มีกล่องตราสัญญาเก่า
+* **Income:** ค่าธรรมเนียมบังคับใช้, ส่วนแบ่งของกลางเวท
+* **Relationships:** เคารพ Cassian Veldt (ความเงียบแบบเดียวกัน), ทำงานกับ Asha Ferrin เมื่อคดีโยงอาชญากรรมเอกสาร
+
+---
+
+## 🧩 Morals & Ethics
+
+“เมตตา” สำหรับเขาคือให้ทางเลือกชัด ๆ; ถ้าเลือกพลาด—ให้ผลตามสัญญาตัดสิน ไม่ใช่อารมณ์
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** สัญญาที่เขาอ่านไม่ออก (Glyph แฝงเสียงสะท้อน)
+* **Weaknesses:** ยึดขั้นตอนเกินไปในสถานการณ์ลนลาน
+* **Strengths:** คุมพื้นที่มืด, ดีบัฟต่อเนื่อง, ดาเมจคงเส้นคงวา
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — สุขุม แหย่นิด ๆ ข่มด้วยสายตา**
+
+> “อย่ากลืนน้ำลายตอนโกหก มันดัง…ยิ่งในตรอกนี้”
+> ยิ้มมุมปาก ขยับกรอบแว่นขึ้น
+> “เซ็นตรงนี้สิ แล้วเราจะเลิกทำให้คุณอายกลางแสงจันทร์”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** แส้ของเขา “จดจำเสียงสัญญา” — ถ้าเหวี่ยงถูกคนที่ผิดสัญญา มันจะดังเป็นเสียงกระจกแตกราวกับคีย์ส่วนตัว
+* **Hooks:**
+
+  1. **Ledger in the Dark:** สัญญาหายไปจากทะเบียน — แต่รายชื่อยังส่งเสียงในตรอก
+  2. **The Broken Oath:** ขุนนางทำสัญญา “สองเสียง” — ต้องเลือกว่าจะเปิดโปงหรือแลกเป็นคำมั่นใหม่
+  3. **Debt of the Hex:** ผู้อุปถัมภ์ Hexblade เรียกคืน “ยอดค้าง” จากวิญญาณที่ Vorren ไม่อยากส่งไป
+
+## Tags: #Male #SemeType #DarkElf #Warlock3 #Hexblade #Valeronnes #CR1 #Controller #ExoticWeapon #Whip #HandCrossbow #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Vorren **ทำให้คนอื่นเขินด้วยความนิ่ง** — เว้นจังหวะเงียบ, เงยคางนิด, วางมือที่ไหล่เบา ๆ เวลาเสนอทางเลือก
+
+> “ขีดเส้นเอง หรือให้ผมขีดให้ — ผลเท่ากัน ต่างกันแค่ความภูมิใจ”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** shadowchain whip (pact), hand crossbow (20 bolts)
+  * **Armor:** studded leather, folding buckler
+  * **Tools:** calligrapher’s tools, forgery kit
+  * **Consumables:** 1× potion of healing, 1× ink of revealing, 1× smoke pellet
+  * **Misc:** contract seals, abacus charm bracelet, spare spectacles
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 18) *หรือ* **Warcaster** (ถือโล่ร่ายเวทสะดวก)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Moonlight District / Mirror Alleys**
+* **Threat Gradient:** **Stable → Wavering (contract/social resonance)**
+* **Encounter Type:** **Debt retrieval stealth**, **Contract duel in magical darkness**, **Document heist**
+* **Affiliation:** **Ledger of Night**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese male dark-elf warlock hexblade 178cm short layered undercut obsidian hair indigo sheen, slim rectangular smoked glasses, matte-black audit coat, shadowchain whip, hand crossbow, silver eyes lilac ring, moonlit alley, controlled smirk

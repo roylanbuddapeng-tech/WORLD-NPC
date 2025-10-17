@@ -1,0 +1,204 @@
+# #165 — **Nahara Lysveil** — *The Glass Song Duelist of Thalassara*
+
+> “The blade is a note; the body, an instrument. You only win when both are in tune.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 165
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — สุขุมอบอุ่น เสียงนุ่มน่าฟัง ควบคุมอารมณ์ดี แต่มีแววขี้แหย่ในสายตา
+* **Age:** 29
+* **Race:** **Half-Elf (Thalassaran Lineage)** — มนุษย์ประมาณ 85% หูแหลมเล็ก ผิวโทนอุ่นเปล่งเงาเหมือนสะท้อนแสงน้ำ
+* **Class & Level:** **Bard (College of Swords)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** นักดาบแห่งวงดนตรีเรโซแนนซ์, นักผจญภัย
+* **Rank / Position:** **Lead Duelist of the Canal Symphony**
+* **Organization:** **Thalassara Performance Guild**
+* **Symbol:** ดาบโค้งไขว้กับสัญลักษณ์โน้ตดนตรี
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean**, elegant and soft—refined performer with poise and quiet danger.
+
+**Eyes:** deep aqua with silver rims, focused and gentle.
+**Skin:** ivory with pearl glow over shoulders and collarbones.
+
+**Hair (Feminine Hair Randomizer v2.7):** **Long** (ponytail), **texture:** slightly wavy, **color:** **midnight blue fading to turquoise ends**, gathered high with a silk ribbon.
+**Height:** 172 cm
+**Weight:** 61 kg
+**Body Type:** **Toned elegant hourglass**, strong but feminine — fencer’s poise and musician’s grace.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 70 – 104
+VALIDATION: • W/B = 0.714 → OK   • H/W = 1.49 → OK
+```
+
+**Jewelry & Accessories (30% glasses roll → no glasses):**
+**Teardrop sapphire earrings**, **silver choker with small bell pendant**, **bracelet of braided silk cords**, **single anklet with dangling charm** that jingles softly when she spins.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Moderate-revealing (backless stage armor)*
+
+Nahara’s duel attire resembles a dancer’s stage armor — a **backless teal corset cuirass** lined with sound-thread silver filaments, paired with **high-waisted split skirts** that reveal fitted **black tights** beneath.
+She wears **long gloves** embroidered with faint sigils that amplify resonance, and **ankle-high boots** designed for fluid balance.
+
+**Color Palette:** teal / silver / black / turquoise
+**Accents:** theatrical elegance, performance-ready grace
+
+**Loadout:** *Whisper Fan* (shortsword stats), *Rapier “Songflare”*, *Lute-lyra (resonant focus)*.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **22 HP** (3d8 + CON1×3)
+* **AC:** **16** (leather + DEX + flair)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 10 (+0)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, CHA +5
+* **Skills:** Performance +5, Acrobatics +6, Persuasion +5, Sleight of Hand +6, Insight +2
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Bard (College of Swords) 3:**
+
+* **Fighting Style:** Dueling
+* **Blade Flourishes:** Defensive, Mobile, Slashing
+* **Bardic Inspiration (d6)** — also used for Flourishes
+* **Spellcasting (CHA DC 13, +5 atk):**
+
+  * *Cantrips:* *Vicious Mockery, Dancing Lights*
+  * *1st–2nd:* *Cure Wounds, Dissonant Whispers, Mirror Image, Enhance Ability, Heat Metal*
+
+**Attacks:**
+
+* **Rapier (Songflare):** +6 to hit, 1d8+4 piercing
+* **Whisper Fan (off-hand):** +6 to hit, 1d6+4 slashing (flourish bonus adds 1d6 dmg or +AC)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support Duelist / Skirmisher**
+* **Opener:** *Dissonant Whispers* → step in with **Mobile Flourish**, reposition behind target.
+* **Midflow:** Buff allies using **Enhance Ability**, use *Mirror Image* defensively.
+* **Finisher:** *Heat Metal* on enemy armor → spin-strike with fan and rapier in harmonic rhythm.
+
+**Damage Flavor:** twin arcs of teal light trailing like sound waves; faint ringing as metal vibrates from each hit.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Warm, composed, teasingly protective.
+* **Ideal:** Harmony — “Even in battle, someone must keep the rhythm steady.”
+* **Bond:** Her performance troupe and apprentices.
+* **Flaw:** Rarely asks for help; believes she must always “set the tone.”
+* **Quirk:** Humms quietly mid-duel to measure breath rhythm.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Canal Stages, Mirror Amphitheater, Riverside Guildhalls**
+* **Threat Gradient:** **Stable → Wavering (musical resonance zones)**
+* **Encounter Framing:** **Performance duel**, **Assassination mid-concert**, **Ritual echo defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Trained as both a bard and duelist for Thalassara’s canal operas.
+Her “sword dances” are a cultural ritual, believed to keep echoes in harmony with living sound.
+
+* **Lifestyle:** modest but graceful — lives above an echo-hall, teaches swordflow to young performers.
+* **Income:** paid per performance, plus adventuring commissions.
+* **Relationships:** mentor to Mirei Hanakura; occasional collaboration with Lyra Thalassara on ward patrol concerts.
+
+---
+
+## 🧩 Morals & Ethics
+
+The song and the blade must always complement — not compete.
+To her, control is compassion.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her hearing (ultimate silence = artistic death).
+* **Weaknesses:** Overly self-contained; won’t reveal strain until exhausted.
+* **Strengths:** Balanced technique, battlefield rhythm, empathy in command.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — สุภาพแต่แฝงแรงขี้แกล้ง**
+
+> “You’re rushing your breath again.”
+> (เอื้อมมือแตะปลายคางเบา ๆ)
+> “Slow down… let me lead the tempo for once.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her rapier’s resonance is slightly “off-pitch”; it sings perfectly only when she duels someone she truly cares for.
+* **Hooks:**
+
+  1. **Echo Duet:** An Echo-spawn mimics her sword dance perfectly — too perfectly.
+  2. **Broken Chord:** A rival bard challenges her to a duel of performance and blood.
+  3. **The Silent Stage:** A noble’s gala turns into a cursed concert — she must restore the music or lose her voice.
+
+## Tags: #Female #SeniorType #HalfElf #Bard3 #CollegeOfSwords #Thalassara #CR1 #Adventurer #WhisperFan #Rapier
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nahara **ทำให้คนเขินด้วยการชมเชิงลึกและการสัมผัสเบา ๆ**
+
+> “Confidence looks good on you… though I’d like to see how it holds under pressure.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, whisper fan
+  * **Armor:** leather stage cuirass
+  * **Tools:** lute-lyra, disguise kit
+  * **Consumables:** healing potion ×1, echo tonic ×1
+  * **Misc:** sapphire choker, performance bell, silk ribbon
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Amphitheater District / Canal Stage Bridges**
+* **Threat Gradient:** **Stable → Wavering (performance resonance)**
+* **Encounter Type:** **Performance duel**, **Musical defense**, **Assassination intrigue**
+* **Affiliation:** **Performance Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean female half-elf bard college of swords 172cm long wavy midnight blue hair turquoise ends ponytail, aqua silver eyes, elegant hourglass body, teal backless corset armor, rapier and fan, canal stage lighting, graceful confident pose

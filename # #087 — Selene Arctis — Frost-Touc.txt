@@ -1,0 +1,201 @@
+# #087 — **Selene Arctis** — *Frost-Touched Mystic of Valeronnes*
+
+> “Beauty and danger share the same stillness — the moment before the world exhales.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 087
+* **Gender (weighted random):** **Female (Type: MILF)** — calm, alluring, quietly commanding; carries a mature sensuality balanced with serene composure
+* **Age:** 36
+* **Race:** **Human (Valeronnes Lineage)** — near-human with faint crystalline shimmer beneath the skin and frost-silver irises
+* **Class & Level:** **Sorcerer (Divine Soul)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Mystic healer, court enchanter, and lecturer of divine harmonics
+* **Rank / Position:** **High Resonant of the Frost Chapel**
+* **Organization:** **Valeronnes Sanctum of Radiant Veins**
+* **Symbol:** Snowflake enclosing a radiant sigil
+* **Title:** *The Frost-Touched*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Russian**, classic elegance with an ethereal chill; beauty that seems carved from moonlight and patience.
+
+**Eyes:** pale silver with faint star reflections.
+**Skin:** porcelain with a trace of glacial sheen along shoulders and collarbones.
+
+**Hair (randomized):** **Very long**, **style:** loosely braided waterfall style with crystal hairpins, **texture:** straight and silky, **color:** icy platinum with faint lilac shimmer under light.
+**Height:** 178 cm
+**Weight:** 65 kg
+**Body Type:** **Curvy, statuesque**, graceful movements that flow like melted frost.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 108 – 74 – 112
+VALIDATION: • W/B = 0.685 → OK   • H/W = 1.51 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Crystal circlet**, **silver snowflake earrings**, **blue topaz pendant**, and **thin glass bracelets** that tinkle softly with her motion.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *B + E* (**Backless + Underbust Reveal**)
+
+Selene’s attire blurs between divine vestments and temptation — a **white frostweave gown**, **bare-backed** down to the waist, its front rising into an **underbust-cut corset** that accentuates her form without vulgarity.
+Silver embroidery trails down the open spine like icicle vines.
+A **translucent fur mantle** rests over her shoulders, clasped by a radiant crystal brooch.
+
+**Color Palette:** white / ice blue / silver / pale lilac
+**Accents:** regal, ethereal, sensual serenity
+
+**Loadout:** Crystal wand, prayer talisman, frostbound focus orb.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **14** (Mage Armor + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, CHA +5
+* **Skills:** Arcana +2, Persuasion +5, Insight +3, Religion +2, Performance +5
+* **Languages:** Common, Celestial, Draconic, Valeronian
+
+**Sorcerer (Divine Soul) 3:**
+
+* **Font of Magic (3 SP)**
+* **Favored by the Gods (2d4 bonus once/rest)**
+* **Metamagic:** *Twinned Spell*, *Subtle Spell*
+* **Cantrips:** *Sacred Flame, Frostbite, Light, Minor Illusion*
+* **Spells (CHA DC 13, +5 atk)**
+
+  * **1st (4 slots):** *Shield, Cure Wounds, Guiding Bolt, Ice Knife*
+  * **2nd (2 slots):** *Mirror Image, Calm Emotions*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support Caster / Debuff Controller / Healer**
+* **Tactics:** Opens with *Bless* or *Mirror Image*, uses *Calm Emotions* to defuse chaos, *Ice Knife* for punishing precision.
+* **Signature Opener:** raises one hand — frost blooms midair in a spiral as the air stills.
+* **Finisher:** *Guiding Bolt* refracts into shards of light that hover before striking simultaneously.
+
+**Damage Flavor:** divine frost — light and cold weave together like frozen hymns.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Warmly maternal, softly teasing, speaks with deliberate rhythm.
+* **Ideal:** Serenity — “Only through stillness can the heart sing.”
+* **Bond:** Her apprentices; particularly a wayward cleric she secretly shields.
+* **Flaw:** Hides her loneliness behind poise.
+* **Quirk:** Breath fogs faintly even in warm air.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Frost Chapel, Mirror Sanctum**
+* **Threat Gradient:** **Stable → Wavering (Frozen Resonance)**
+* **Encounter Framing:** **Divine Consultation**, **Ritual Healing**, **Resonant Duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Selene was once the personal mage-healer to Valeron’s high court. She left after discovering corruption within, now running her own chapel that treats wounded adventurers.
+
+* **Lifestyle:** serene; mornings of meditation, nights of quiet wine and frostlight.
+* **Income:** donations, private healing commissions.
+* **Relationships:** mentors Elira Veyne; close ties to Kael Rinzen and Aster Corvan.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes power must soothe, not conquer. To her, the world’s wounds are simply frozen songs waiting to thaw.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing emotional control, thawing too completely.
+* **Weaknesses:** Fragile physical endurance.
+* **Strengths:** Wisdom, empathy, magical finesse.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — gentle authority, warm teasing, soft dominance.**
+
+> “You’re trembling, dear. Relax… or I’ll have to warm you myself.”
+> She **makes others blush** effortlessly; moves closer while speaking, hand brushing shoulder or cheek.
+> If someone flirts back, she smiles knowingly:
+> “So brave — but be careful, frost bites deeper when it melts.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Once bound a Severance agent’s soul in ice — it still whispers beneath her chapel floor.
+* **Hooks:**
+
+  1. **The Whispering Frost:** Unseal the frozen echo haunting her sanctuary.
+  2. **Chilled Grace:** Escort her during a diplomatic mission through a Severance-blighted tundra.
+  3. **A Heart Unfrozen:** Help her rediscover joy beyond divine duty.
+
+## Tags: #Female #MILF #Human #Sorcerer3 #DivineSoul #Valeronnes #CR1 #Healer #Mystic #Elegant
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+When spoken to gently, she leans forward slightly, eyes glimmering like frostlight.
+
+> “You say that again, and I might start to believe you.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** crystal wand
+  * **Armor:** Mage Armor (spell)
+  * **Tools:** ritual components, frost focus
+  * **Consumables:** frost tonic ×2, radiant balm ×1
+  * **Misc:** topaz pendant, fur mantle
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **Metamagic Adept**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Frost Chapel Sanctum**
+* **Threat Gradient:** **Wavering → Echo Zone (holy resonance frost)**
+* **Encounter Type:** **Ritual Defense**, **Frozen Duel**, **Divine Healing Scene**
+* **Affiliation:** **Valeronnes Sanctum**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Russian female human sorcerer divine soul 178cm very long platinum hair lilac shimmer, pale silver eyes, curvy elegant body, white frostweave gown backless underbust, crystal jewelry, calm sensual expression, frost chapel background, divine light frost aura

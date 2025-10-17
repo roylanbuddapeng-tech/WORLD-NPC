@@ -1,0 +1,203 @@
+# #150 — **Isha Vareth** — *The Emberblade of Skarnov Forge*
+
+> “Steel remembers its maker. Fire remembers its first scream.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 150
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — composed, grounded, protective; the kind who watches over others and scolds with warmth rather than coldness.
+* **Age:** 29
+* **Race:** **Half-Elf (Skarnov Lineage)** — 85% human, faint bronze hue to the skin, eyes glint like molten ore when focused.
+* **Class & Level:** **Fighter (Eldritch Knight)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Weaponsmith, instructor, and wandering adventurer
+* **Rank / Position:** **Forge Captain**
+* **Organization:** **Skarnov Iron Guild**
+* **Symbol:** A blade wreathed in crimson flame
+* **Title:** *The Emberblade*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Indian–Western**, commanding beauty with warm tones and confident bearing.
+
+**Eyes:** amber-orange, glowing faintly in dim light.
+**Skin:** burnished bronze with a faint metallic sheen on shoulders and forearms.
+
+**Hair (Hair Randomizer v2.0):** **Long**, **style:** **half-up ponytail**, **texture:** wavy and full-bodied, **color:** **dark auburn with golden streaks catching forge-light.**
+**Height:** 176 cm
+**Weight:** 66 kg
+**Body Type:** **Curvy athletic** — broad-shouldered, tight waist, generous curves balanced with strength.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 101 – 73 – 110
+VALIDATION: • W/B = 0.722 → OK   • H/W = 1.51 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Forged steel circlet**, **chain earrings**, **charred-red gem pendant**, **engraved armguard**, **simple forge ring.**
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *C + D* (**smith’s corset armor with shoulder gap**)
+
+Isha wears a **smith’s battle corset** reinforced with thin metal ribs and blackened leather, leaving her shoulders bare but protected with pauldron straps.
+Her **forging trousers** are tight at the thigh and flare slightly at the knee, with scorch marks near the hem.
+A **half-cloak of ember-red fabric** flows behind, scorched on the edges but shimmering faintly.
+
+**Color Palette:** ember red / black / bronze / gold accents
+**Accents:** strength, heat, sensual confidence
+
+**Loadout:** *Flamebrand longsword*, smith’s hammer, elemental rune gauntlet.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +3)×3 → **33 HP**
+* **AC:** **18** (chain shirt + DEX + shield)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 16 (+3)** **INT 13 (+1)** **WIS 11 (+0)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Intimidation +4, Arcana +3, Perception +2
+* **Languages:** Common, Dwarvish, Elvish
+
+**Fighter (Eldritch Knight) 3:**
+
+* **Weapon Bond (Flamebrand)**
+* **Spells (INT DC 13, +5 atk):**
+
+  * *Cantrips:* *Green-Flame Blade, Blade Ward*
+  * *1st-level:* *Shield, Absorb Elements, Magic Missile*
+
+**Attacks:**
+
+* **Longsword (Flamebrand):** +5 to hit, 1d8+3 slashing (+1d6 fire once/turn)
+* **Thrown Hammer:** +5 to hit, 1d6+3 bludgeoning
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Bruiser / Magic Hybrid**
+* **Tactics:** Opens with *Green-Flame Blade*, controls tempo with *Shield* and *Absorb Elements*.
+* **Signature Opener:** sparks the forge dust from her blade—ignites into living fire.
+* **Finisher:** *Flamebrand Arc Slash* — sweeping horizontal strike leaving a burning sigil.
+
+**Damage Flavor:** molten lines remain glowing in the air for a heartbeat after each swing.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calm, protective, wryly humorous.
+* **Ideal:** Discipline — “A weapon is only as kind as the hand that wields it.”
+* **Bond:** Her apprentices; she guards them fiercely.
+* **Flaw:** Struggles to express vulnerability, carries burden quietly.
+* **Quirk:** Always wipes her blade twice — superstition from her mentor.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Forge Docks, Ember Arena, Iron Basilica**
+* **Threat Gradient:** **Stable → Wavering (forge resonance)**
+* **Encounter Framing:** **Training duel**, **Forge beast hunt**, **Defensive escort mission**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a lineage of weapon forgers, Isha chose the battlefield to test her own blades.
+Now she forges weapons only for those she trusts.
+
+* **Lifestyle:** modest but organized — lives above her forge.
+* **Income:** weapon commissions, bounty work.
+* **Relationships:** mentor to Nami Ar’Lure (training sessions by the coast); rivalry with Pyrren Blackvale.
+
+---
+
+## 🧩 Morals & Ethics
+
+Justice through craft — every blade should protect something worth burning for.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of her flame magic in front of her apprentices.
+* **Weaknesses:** Overworks to the point of exhaustion.
+* **Strengths:** Unshakable resolve, precise control, inspirational presence.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — warm, confident, occasionally teasing but deeply supportive.**
+
+> “Relax your grip. You’ll never win by strangling your weapon.”
+> She steps closer, hands adjusting yours on the hilt—voice low.
+> “There. Now breathe. Let it follow *you.*”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her Flamebrand sword is forged from her late brother’s armor.
+* **Hooks:**
+
+  1. **Forged in Memory:** A new weapon begins whispering her brother’s voice.
+  2. **Emberfall:** Her forge becomes unstable due to Severance fire bleed.
+  3. **The Red Oath:** An old rival seeks to claim her weapon for revenge.
+
+## Tags: #Female #SeniorType #HalfElf #Fighter3 #EldritchKnight #Skarnov #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Isha **makes others flustered unintentionally** — touches, smiles, and speaks closely without realizing the effect.
+
+> “You’re trembling. That’s the heat, right? Not me.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword (Flamebrand), hammer
+  * **Armor:** chain shirt, shield
+  * **Tools:** smith’s tools
+  * **Consumables:** forge salve ×1, fire tonic ×1
+  * **Misc:** ring of her mentor, molten crystal shard
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 18) *or* **War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Forge Docks / Ember Arena**
+* **Threat Gradient:** **Stable → Wavering (forge resonance)**
+* **Encounter Type:** **Forge duel**, **Ritual smithing**, **Beast siege**
+* **Affiliation:** **Skarnov Iron Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Indian Western female half-elf fighter eldritch knight 176cm long dark auburn wavy hair half-up ponytail, amber eyes, bronze skin, corset armor bare shoulders, ember red cloak, longsword glowing fire, forge light background

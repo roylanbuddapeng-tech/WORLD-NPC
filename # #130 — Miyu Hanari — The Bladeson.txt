@@ -1,0 +1,205 @@
+# #130 — **Miyu Hanari** — *The Bladesong Whisper of Thalassara*
+
+> “A sword is just a note waiting to be played — and I never miss the rhythm.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 130
+* **Gender (weighted random):** **Female (Type: ทอมบอย)** — confident, athletic, and radiates effortless charm; her smirk feels like both a challenge and an invitation.
+* **Tomboy Subtype:** **Type 2 — muscular and sporty feminine** (fit, broad-shouldered, yet distinctly beautiful)
+* **Age:** 25
+* **Race:** **Elf (Thalassaran lineage)** — pale teal glow in veins when channeling resonance, slightly elongated ears.
+* **Class & Level:** **Fighter (Bladesinger)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Duelist, dance-fighter, and performance instructor
+* **Rank / Position:** **Instructor of Rhythm Combat**
+* **Organization:** **Thalassaran Academy of Motion and Song**
+* **Symbol:** A curved sword crossed with a musical stave
+* **Title:** *The Bladesong Whisper*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Vietnamese**, sleek, athletic, and sharp-eyed — beauty born of motion, not cosmetics.
+
+**Eyes:** sea-green, narrow and confident.
+**Skin:** warm olive tone with faint shimmer under strong light.
+
+**Hair (randomized):** **Short**, **style:** pixie cut with under-shaved nape, slightly tousled, **texture:** straight and fine, **color:** ash brown with silver streaks.
+**Height:** 173 cm
+**Weight:** 61 kg
+**Body Type:** **Athletic-muscular**, defined abs and shoulders, long toned legs.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 66 – 94
+VALIDATION: • W/B = 0.75 → OK   • H/W = 1.42 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Thin silver ear chain**, **teal choker pendant**, **leather wrist wraps**, **anklet with tuning charm**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *D* (**high-cut cropped duelist uniform**)
+
+Miyu wears a **midriff-baring cropped combat jacket**, paired with **form-fitting duelist shorts** and **thigh-high combat boots**.
+Her outfit blends **Thalassaran academy uniform aesthetics** with freedom of movement — practical yet provocatively confident.
+The jacket’s teal runes glow faintly as she moves, and the inner lining hums to the rhythm of her pulse.
+
+**Color Palette:** teal / black / silver / navy
+**Accents:** athletic, dynamic, stylishly androgynous
+
+**Loadout:** curved saber (*Songbreaker*), dagger, spell scroll case.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **25 HP**
+* **AC:** **17** (light armor + DEX + INT bonus while Bladesinging)
+* **Speed:** 35 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 15 (+2)** **WIS 11 (+0)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** Acrobatics +6, Performance +3, Insight +2, Perception +2
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Fighter (Bladesinger) 3:**
+
+* **Bladesong (INT + DEX boost)**, **Extra Attack**, **Spellcasting (INT DC 12, +4 atk)**
+
+  * *Cantrips:* *Blade Ward, Dancing Lights, Green-Flame Blade*
+  * *1st (4 slots):* *Mage Armor, Feather Fall, Shield, Absorb Elements*
+  * *2nd (2 slots):* *Mirror Image, Misty Step*
+
+**Attacks:**
+
+* **Curved Saber (Songbreaker):** +6 to hit, 1d8+4 slashing
+* **Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Duelist / Agile Controller**
+* **Tactics:** Uses *Bladesong* for superior AC and movement; strikes in rhythm.
+* **Signature Opener:** backflips into stance, humming faint melody before striking.
+* **Finisher:** *Green-Flame Blade* arc across two foes — flame trails dance like music notes.
+
+**Damage Flavor:** slashes leave faint teal trails in rhythmic motion — a symphony of motion and steel.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, teasing, competitive, playful.
+* **Ideal:** Expression — “If you’re not fighting with style, you’re not fighting.”
+* **Bond:** Trains the city guard in rhythmic dueling; fond of Lyra Thalassara’s precision.
+* **Flaw:** Can’t stand losing; tends to flirt when challenged.
+* **Quirk:** Whistles mid-fight in tempo with her footwork.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Academy of Motion, Canal Arenas, Songbridges**
+* **Threat Gradient:** **Stable → Wavering (sound resonance)**
+* **Encounter Framing:** **Performance duel**, **Echo outbreak**, **Training exhibition**
+
+---
+
+## 📜 Background & Lifestyle
+
+Miyu grew up dancing in the moonlight plazas before discovering her resonance aligned perfectly with swordplay.
+She joined the academy to refine her rhythm into combat, becoming a living performance of steel and song.
+
+* **Lifestyle:** neat, minimalist apartment filled with old records and sword polish kits.
+* **Income:** academy stipend, duel exhibitions, private training sessions.
+* **Relationships:** friendly rivalry with Nimueh Caerwyn; often spars with Taro Wynthal for fun.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes discipline is freedom — “When the body learns the rhythm, the soul can improvise.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Silence — losing the rhythm that drives her.
+* **Weaknesses:** Impulsive in duels; drawn to competition more than purpose.
+* **Strengths:** Exceptional reflexes, agile movement, composure under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย tone — confident, physically expressive, teasingly assertive.**
+
+> “You keep staring like that, I might start charging tuition.”
+> She smirks, flicking a strand of hair off her forehead.
+> “Relax — I don’t bite… unless you step out of rhythm.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her *Bladesong* is powered by a lost Thalassaran melody said to influence minds.
+* **Hooks:**
+
+  1. **The Silent Duel:** Her rhythm is stolen by a cursed Echo — she must fight without sound.
+  2. **Songbreaker’s Lament:** Her blade begins humming on its own.
+  3. **The Rhythm Thief:** A rival duelist uses her melody to control others.
+
+## Tags: #Female #TomboyType2 #Elf #Fighter3 #Bladesinger #Thalassara #CR1 #Duelist #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Miyu tends to fluster others with proximity; likes brushing close and seeing reactions.
+
+> “Your stance is stiff. Let me fix it — here…”
+> Her hands slide along your arm to adjust your grip, lingering just a second too long.
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** saber, dagger
+  * **Armor:** light leather
+  * **Tools:** tuning kit, sword polish
+  * **Consumables:** focus potion ×1, spell scroll ×1
+  * **Misc:** teal choker, silver ear chain
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Academy of Motion / Canal Arenas**
+* **Threat Gradient:** **Stable → Wavering (sound resonance)**
+* **Encounter Type:** **Performance duel**, **Training**, **Echo outbreak**
+* **Affiliation:** **Thalassaran Academy of Motion**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Vietnamese female elf tomboy athletic build 173cm short ash brown silver hair sea-green eyes, cropped duelist outfit exposing midriff, thigh-high boots, teal runes glowing, confident smirk, sword drawn mid-spin, moonlit canal arena background

@@ -1,0 +1,196 @@
+# #080 — **Lucan Edevane** — *Echo-Bound Scholar of the Hollow Lantern*
+
+> “Magic hums like a heartbeat. The trick is knowing whether it’s yours… or something else’s.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 080
+* **Gender (weighted random):** **Male (Type: เคะ)** — quiet, thoughtful, gentle demeanor hiding a spark of wit; expressive eyes, tends to attract protection from others though he’s more capable than he looks
+* **Age:** 23
+* **Race:** **Half-Elf (Valeronnes)** — 85% human; faint prism shimmer along the eyelids, ears slightly pointed and flushed pink when embarrassed
+* **Class & Level:** **Wizard (Divination)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Arcane researcher, anomaly mapper, ritual analyst
+* **Rank / Position:** **Apprentice Scholar of the Hollow Lantern Archives**
+* **Organization:** **Order of Luminous Theory**
+* **Symbol:** A lantern encasing an eye made of glass
+* **Title:** *The Hollow-Eyed Prodigy*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–French**, delicate facial structure, unthreatening charm, and clean scholar aesthetics.
+
+**Eyes:** soft violet with light silver flecks, almost glowing under magic use.
+**Skin:** pale ivory with blush tones on ears and nose.
+
+**Hair (randomized):** **Medium length**, **style:** soft curtain fringe with light layering, **texture:** silky straight, **color:** platinum blonde with faint lavender hue near roots.
+**Height:** 168 cm
+**Weight:** 55 kg
+**Body Build:** **Elegant Slim** — lithe, delicate lines, slightly narrow shoulders but graceful posture.
+
+**Jewelry & Accessories (randomized):**
+Small **silver hoop earring** on left ear, **blue-lens spectacles**, **black ribbon bracelet**, and a **crystal focus pendant** faintly glowing.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *F* (**Asymmetric Reveal**)
+
+Lucan’s robes are more avant-garde than academic — a **split-shoulder scholar’s coat**, one sleeve entirely absent, showing his left shoulder and collarbone etched with faint ink sigils.
+The inner layer is a **dark violet vest** cinched with belts and soft black fabric trousers tucked into long boots.
+
+A flowing **half-cape** hangs on his right side, embroidered with constellations in pale silver thread.
+
+**Color Palette:** violet / black / silver-white
+**Accents:** soft, mysterious, tailored for movement rather than battle
+
+**Loadout:** Spellbook (bound in mirror-leather), wand of translucent glass, ritual chalk set, small satchel of crystal shards.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **18 HP**
+* **AC:** **14** (mage armor + DEX)
+* **Speed:** 30 ft
+* **STR 8 (–1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 13 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, History +5, Insight +3, Investigation +5, Perception +3
+* **Languages:** Common, Elvish, Celestial, Draconic
+
+**Wizard (Divination) 3:**
+
+* **Portent (2 dice):** roll 2d20 after long rest; replace any roll in the day with them
+* **Arcane Recovery (1/day)**
+* **Cantrips:** *Mage Hand, Prestidigitation, Ray of Frost, Minor Illusion*
+* **1st-level (4 slots):** *Mage Armor, Detect Magic, Shield, Magic Missile*
+* **2nd-level (2 slots):** *Mirror Image, Misty Step, See Invisibility*
+
+**Attacks:**
+
+* **Wand of Hollow Glass (Arcane Focus):** +5 to hit, 1d8 cold or force (as per spell)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Control / Information**
+* **Tactics:** Predicts outcomes using *Portent*, casts *Mirror Image* defensively, and uses *Ray of Frost* to control movement.
+* **Signature Opener:** eyes flash silver, then he murmurs — “I’ve already seen this turn.”
+* **Finisher:** uses *Magic Missile* to shatter Echo distortions in synchronized rhythm.
+
+**Damage Flavor:** faint glass-like hum before his spells release.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Curious, kind, slightly shy but assertive when needed.
+* **Ideal:** Truth — “Understanding the unknown is the highest act of faith.”
+* **Bond:** Dedicated to his mentor Selene Ardyn; secretly admires her beyond scholarship.
+* **Flaw:** Hesitates when emotions interfere with logic.
+* **Quirk:** Pushes glasses up whenever nervous; blushes when praised.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Hollow Lantern Archives, Mirror Labs**
+* **Threat Gradient:** **Stable → Wavering (Echo resonance tests)**
+* **Encounter Framing:** **Ritual Support**, **Magical Analysis**, **Echo Containment**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a family of minor scholars, Lucan entered the Hollow Lantern early for his aptitude in divination. Known for quietly saving lives during unstable rituals by acting seconds before disaster struck — claiming he “just had a feeling.”
+
+* **Lifestyle:** orderly; room filled with scrolls and half-finished tea cups.
+* **Income:** researcher stipend + side commission for spell translation.
+* **Relationships:** apprentice to Selene Ardyn; study partner to Kael Rinzen.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that knowledge without compassion is dangerous — tries to humanize even the darkest mysteries.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of his foresight; seeing visions he can’t prevent.
+* **Weaknesses:** Physically fragile, easily distracted by curiosity.
+* **Strengths:** Prediction, intellect, empathy.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — shy, polite, emotionally perceptive.**
+
+> “Wait—uh, you’re standing a bit close… not that I mind, it’s just—”
+> Lucan **gets flustered easily** when complimented or when someone touches his shoulder; he stammers, then smiles apologetically.
+> If he must tease back, it’s soft and precise:
+> “You blink too much when you lie. It’s cute.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a private journal predicting events days ahead — and one entry predicts his own disappearance.
+* **Hooks:**
+
+  1. **Echo of Tomorrow:** Help him interpret a prophecy that names one of the PCs.
+  2. **Glass Horizon:** Recover a broken mirror from a future he’s seen but can’t reach.
+  3. **The Day He Vanishes:** Ensure his prediction doesn’t come true.
+
+## Tags: #Male #KehType #HalfElf #Wizard3 #Divination #Valeronnes #CR1 #Scholar #Gentle
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Soft-spoken; unconsciously brushes hair from his face when nervous. If teased, his voice lowers:
+
+> “You’re impossible to argue with when you smile like that.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** wand, small dagger
+  * **Armor:** none (Mage Armor)
+  * **Tools:** scribe’s kit, glass focus set
+  * **Consumables:** focus tonic ×1, mana tea ×2
+  * **Misc:** crystal pendant, journal, spectacles
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **Observant**
+  * **Spell Additions:** *Augury*, *Arcane Eye*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes — Hollow Lantern Archives**
+* **Threat Gradient:** **Wavering → Echo Zone (divination anomalies)**
+* **Encounter Type:** **Arcane Analysis**, **Prophecy Crisis**, **Echo Ritual Study**
+* **Affiliation:** **Order of Luminous Theory**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean French male half-elf wizard divination, 168cm, medium platinum blonde hair lavender roots, violet silver eyes, slim elegant build, asymmetric robe one shoulder bare, violet and black scholar outfit, glasses, glowing crystal pendant, quiet expression, magical library background

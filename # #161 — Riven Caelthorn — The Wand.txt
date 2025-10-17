@@ -1,0 +1,197 @@
+# #161 — **Riven Caelthorn** — *The Wandering Fang of Skarnov*
+
+> “Steel sings clearer when it’s answered by silence.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 161
+* **Gender (weighted random):** **Male (Type: เมะ)** — หนุ่มเท่ เงียบ มีแววเจ้าเล่ห์แต่พูดน้อย พลังดิบซ่อนใต้การควบคุมอย่างสมบูรณ์
+* **Age:** 26
+* **Race:** **Half-Beast (Lynx hybrid)** — 85% human; ดวงตาคล้ายแมวป่า ลายจางบนแขนเหมือนขนเฟอร์ที่กลืนไปกับผิว
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** นักดาบรับจ้าง, ผู้พิทักษ์พรมแดน, นักผจญภัยอิสระ
+* **Rank / Position:** **Freeblade of Skarnov Frontier Guard**
+* **Organization:** **Frontier Militia Guild of Skarnov**
+* **Symbol:** ดาบไขว้กับหูแมวสลักเหล็ก
+* **Title:** *The Wandering Fang*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–Thai**, dusky skin with feline sharpness and subtle wilderness charm.
+
+**Eyes:** amber gold, elliptical pupils that adjust quickly to light.
+**Skin:** bronze tone with faint silver-laced stripes visible under sunlight.
+
+**Hair (Masculine Hair Randomizer v2.7):** **Medium-short**, **sub-style:** **Tousled undercut**, **texture:** slightly wavy, **color:** **black-brown with ash-gold highlights**, messy but deliberate.
+**Height:** 179 cm
+**Weight:** 74 kg
+**Body Build:** **Athletic muscular**, whipcord strength, lean but visibly defined.
+
+**Jewelry & Accessories (30% glasses rule; result: no glasses):**
+Leather cord necklace with a wolf’s fang, bronze cuff on one wrist, ring with engraving of Skarnov forge mark.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Standard light armor (functional, no exposure)*
+
+Riven wears a **charcoal leather half-jacket**, padded with steel-thread reinforcement, over a **tight dark tunic** and **strap-holstered belt harness**.
+His **trousers** are cut for agility, reinforced at knees and inner thighs, and tucked into **mid-height boots**.
+A **short fur-lined cape** hangs asymmetrically at his left shoulder — a relic from his first hunt.
+
+**Color Palette:** charcoal / dark bronze / muted gold / gray fur trim
+**Accents:** survivalist pragmatism, quiet confidence
+
+**Loadout:** long sword (*Steelwind Fang*), dagger (*Echo Splitter*), light crossbow.
+
+---
+
+##⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **17** (studded leather + DEX + combat posture)
+* **Speed:** 35 ft
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Athletics +4, Perception +3, Stealth +5, Survival +3, Animal Handling +3
+* **Languages:** Common, Sylvan, Skarnov Hunt Cant
+
+**Fighter (Battle Master) 3:**
+
+* **Superiority Dice (d8):** 4
+* **Maneuvers:** *Precision Attack, Riposte, Trip Attack*
+* **Second Wind, Action Surge**
+* **Fighting Style:** Two-Weapon Fighting
+
+**Attacks:**
+
+* **Steelwind Fang (Longsword):** +5 to hit, 1d8+3 slashing
+* **Echo Splitter (Dagger):** +5 to hit, 1d4+3 piercing
+* Dual-wield capable; versatile flow between cuts.
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duelist / Counter-Striker**
+* **Tactics:** Provokes and counters; uses *Riposte* with feline reflexes, disarms lightly armored foes, and executes *Trip Attack* for precision control.
+* **Signature Opener:** Eyes narrow, one fang flashes — he feints a draw and strikes low first.
+* **Finisher:** “Echo Splitter” — double slash in silence that lands one heartbeat late.
+
+**Damage Flavor:** swift arcs of silver light that ripple like claws in the dark.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calm but teasing, dependable, always alert.
+* **Ideal:** Honor — “The kill means nothing if it isn’t clean.”
+* **Bond:** Keeps a promise to protect a friend’s younger sister in Valeronnes.
+* **Flaw:** Rarely trusts orders from authority; prefers instincts.
+* **Quirk:** Purrs softly (unconsciously) when relaxed.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ironwood Frontier, Feral Pass, Old Forge Valley**
+* **Threat Gradient:** **Wavering → Echo Zone** (frontier resonances)
+* **Encounter Framing:** **Ambush rescue**, **Hunt gone wrong**, **Bandit defection**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born in the border forges of Skarnov; raised among hunters and tinker-smiths.
+Became mercenary after his village vanished during a Severance surge.
+Prefers sleeping outdoors, trusts only his blade and his own breath.
+
+* **Lifestyle:** nomadic, lives by trade and bounties.
+* **Income:** frontier contracts + salvage from ruins.
+* **Relationships:** brief camaraderie with Cassian Veldt; mentor-protégé tension with Mila Dreyn.
+
+---
+
+## 🧩 Morals & Ethics
+
+The world’s too loud — he cuts through it until it listens.
+Values quiet competence over fame or sentimentality.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** The sound of metal breaking — flashbacks to the night his forge fell.
+* **Weaknesses:** Not good with crowds or diplomacy.
+* **Strengths:** Reactive speed, discipline, blade mastery.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — เงียบ เท่ แต่แอบเอ็นดูคนขี้ตกใจ และจะหลุดยิ้มบางเวลา**
+
+> “You flinched. Don’t worry. The next strike won’t be for you.”
+> เขาหัวเราะในลำคอเบา ๆ แล้วส่งมีดให้กลับ
+> “If you’re scared, hold the hilt tighter. That’s how you start being brave.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His sword *Steelwind Fang* occasionally hums a melody known only to the Echo-spawn — he hasn’t told anyone.
+* **Hooks:**
+
+  1. **Feral Echo:** Hunt a beast that mirrors his moves perfectly.
+  2. **Forge Ghost:** Find the last ember of Skarnov’s lost forge.
+  3. **The Promise:** Protect the girl who carries the same hum in her blood.
+
+## Tags: #Male #SemeType #HalfBeast #Lynx #Fighter3 #BattleMaster #Skarnov #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Riven doesn’t “flirt” — he **tests reactions**, close enough to unsettle.
+
+> “You stare too long. Eyes like that get you killed… or noticed.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, dagger, crossbow (20 bolts)
+  * **Armor:** studded leather
+  * **Tools:** whetstone, beast traps
+  * **Consumables:** dried rations ×2, oil flask ×1
+  * **Misc:** fang necklace, bronze cuff, guild token
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 18) *or* **Dual Wielder**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov Frontier / Ironwood Paths**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **Bandit interception**, **Beast hunt**, **Echo anomaly investigation**
+* **Affiliation:** **Frontier Militia Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese Thai male half-beast lynx fighter battle master 179cm tousled undercut black-brown hair ash-gold streaks, amber feline eyes, athletic muscular, charcoal leather armor with fur cape, calm confident expression, frontier forest background

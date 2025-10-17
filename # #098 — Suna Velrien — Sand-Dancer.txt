@@ -1,0 +1,204 @@
+# #098 — **Suna Velrien** — *Sand-Dancer of the Dune Choir*
+
+> “The desert teaches balance — dance, or be swallowed by the wind.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 098
+* **Gender (weighted random):** **Female (Type: MILF)** — radiates effortless maturity; motherly warmth laced with teasing sensual confidence.
+* **Age:** 34
+* **Race:** **Half-Beast (Jackal Lineage)** — human-like 85%, with dusky ears, faint canid tail, and golden slitted eyes that gleam like sunlight over dunes.
+* **Class & Level:** **Bard (College of Swords)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Desert performer, caravan guardian, blade dancer
+* **Rank / Position:** **Lead Dune Performer of the Sand Choir**
+* **Organization:** **The Mirage Caravan (Nomadic Bard Troupe)**
+* **Symbol:** Twin curved blades crossed beneath a sunburst veil
+* **Title:** *The Sand-Dancer*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Middle Eastern–North African**, radiant and exotic beauty with dangerous allure.
+
+**Eyes:** bright gold, warm and mischievous.
+**Skin:** bronze sun-glow, kissed with faint freckles across nose and shoulders.
+
+**Hair (randomized):** **Very Long**, **style:** loosely braided with gold beads and veils woven through, **texture:** thick wavy, **color:** deep espresso brown with amber streaks.
+**Height:** 172 cm
+**Weight:** 63 kg
+**Body Type:** **Curvy athletic**, dancer’s hips, toned abs, and full bust; moves like flowing heat mirage.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 104 – 74 – 113
+VALIDATION: • W/B = 0.711 → OK   • H/W = 1.52 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Gold chain headpiece**, **coin belt**, **anklets with bells**, and a **desert-glass necklace** filled with red sand that glows faintly under moonlight.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *D + G* (**Performance attire + Exposed midriff and thigh slits**)
+
+Suna’s costume blends performance and battle: a **crimson silk wrap top** with golden trim exposing her midriff, paired with **flowing dancer’s skirts** slitted to the hip.
+A **veil-cape** trails behind her like desert mist when she spins.
+Hidden beneath the jewelry are **concealed throwing blades**, disguised as ornaments.
+
+**Color Palette:** crimson / gold / sand / obsidian black
+**Accents:** sultry elegance mixed with combat agility
+
+**Loadout:** curved scimitar (*Mirage Song*), hidden throwing knives, enchanted tambourine (spell focus).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **15** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 17 (+3)** **CON 14 (+2)** **INT 12 (+1)** **WIS 10 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, CHA +5
+* **Skills:** Performance +5, Acrobatics +5, Persuasion +5, Deception +5, Insight +2
+* **Languages:** Common, Nomadic, Infernal
+
+**Bard (College of Swords) 3:**
+
+* **Bardic Inspiration (d6)**, **Blade Flourish**, **Song of Rest**
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * **Cantrips:** *Vicious Mockery, Dancing Lights, Blade Ward*
+  * **1st (4 slots):** *Charm Person, Cure Wounds, Dissonant Whispers*
+  * **2nd (2 slots):** *Mirror Image, Enthrall*
+
+**Attacks:**
+
+* **Mirage Song Scimitar:** +5 to hit, 1d6+3 slashing; Flourish adds +d6 damage or mobility.
+* **Throwing Knife:** +5 to hit, 1d4+3 piercing.
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duelist / Support / Distraction Artist**
+* **Tactics:** Opens with *Mirror Image* and *Blade Flourish*; dances between foes to confuse and charm; uses *Dissonant Whispers* to make enemies falter.
+* **Signature Opener:** Spins, veil shimmering, blade slices through an afterimage.
+* **Finisher:** Whirls with *Slashing Flourish* — enemies fall before realizing she moved.
+
+**Damage Flavor:** heat haze trails her blade, footsteps leave faint glowing petals of sand.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Sultry, teasing, protective of her troupe; motherly yet flirtatious.
+* **Ideal:** Joy — “The desert sings only when danced upon.”
+* **Bond:** The Mirage Caravan — her family on the road.
+* **Flaw:** Enjoys attention too much; rarely takes danger seriously.
+* **Quirk:** Taps her anklet bells before every duel — her version of prayer.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov Fringe — Crimson Dunes, Oasis Stages, Dune Choir Camp**
+* **Threat Gradient:** **Wavering → Echo Zone (sand resonance distortions)**
+* **Encounter Framing:** **Caravan defense**, **Performance gone wrong**, **Desert duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Suna was once a temple dancer exiled for using forbidden “blade dance” arts. She now leads a nomadic performance troupe who double as bodyguards and spies.
+
+* **Lifestyle:** vibrant, nocturnal; sleeps under silk tents and stars.
+* **Income:** caravan shows, protective contracts, rare herbs trade.
+* **Relationships:** Motherly toward Meilin Zhou; teasing mentor to Noel Iskandar.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes survival and beauty are one and the same — “If you can’t sing in the storm, you’ll die silent.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing her troupe to the desert.
+* **Weaknesses:** Overconfidence; too trusting of charm.
+* **Strengths:** Grace, adaptability, battlefield charisma.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — sensual warmth, confident teasing, subtle dominance.**
+
+> “Sweetheart, you’re trembling. Don’t worry — I’ll make it worth your nerves.”
+> She **flusters others easily** — eye contact, slow movements, close whispers.
+> If someone flirts back successfully, she grins, impressed:
+> “Mmm… dangerous game. I like that.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her “sand dance” was originally a sacred rite to commune with desert Echo spirits — she still hears them sing in her dreams.
+* **Hooks:**
+
+  1. **Echo Mirage:** Her troupe’s next show draws an Echo storm.
+  2. **The Dune Hymn:** A lost melody can calm desert tempests — only she remembers it.
+  3. **Golden Chains:** Her exile was orchestrated by the temple she once served.
+
+## Tags: #Female #MILF #HalfBeast #Jackal #Bard3 #CollegeOfSwords #Skarnov #CR1 #Performer #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Suna enjoys **making others blush** — brushes sand from a companion’s cheek with her thumb, winks, and whispers:
+
+> “See? Even the desert envies your glow.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** scimitar (*Mirage Song*), throwing knives ×3
+  * **Armor:** studded leather
+  * **Tools:** performer’s kit, tambourine focus
+  * **Consumables:** dune wine ×1, desert balm ×2
+  * **Misc:** coin belt, glass pendant
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov Fringe / Crimson Dunes / Oasis Camps**
+* **Threat Gradient:** **Wavering → Echo Zone (resonant storms)**
+* **Encounter Type:** **Caravan defense**, **Desert rescue**, **Performance ambush**
+* **Affiliation:** **The Mirage Caravan**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Middle Eastern North African female half-beast jackal bard swords 172cm very long wavy espresso hair gold beads, golden eyes, bronze skin, curvy athletic body, crimson gold veil outfit exposed midriff thigh slits, dancing pose, desert dunes background, sensual confident smile

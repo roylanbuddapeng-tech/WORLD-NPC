@@ -1,0 +1,206 @@
+# #137 — **Yuna Felinar** — *The Ocelot’s Whisper of Ardent Vale*
+
+> “If you can’t find the path, purr until the door opens.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 137
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — bright, eager, clingy-cute; wants praise and learns at lightning speed.
+* **Age:** 19
+* **Race:** **Half-Beast (Feline — ocelot hybrid)** — ~85% human; faint tawny rosettes at the shoulders/hips, catlike pupils, soft tail-tip patterning along spine.
+* **Class & Level:** **Warlock (The Archfey)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Canal sneak, charm-scout, lantern-lure guide
+* **Rank / Position:** **Whisper Runner**
+* **Organization:** **Ardent Vale Night Couriers (Moon Chapter)**
+* **Symbol:** A crescent ribbon twined around a cat’s paw print
+* **Title:** *The Ocelot’s Whisper*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Latin American**, kittenish charm over sleek lines; her smile is sunshine with claws tucked away.
+
+**Eyes:** amber-gold, slitted pupils that widen when curious.
+**Skin:** warm beige with faint tawny sheen on collarbones and hips.
+
+**Hair (Hair Randomizer v2.0):** **Long**, **style:** **high twin tails** tied with black ribbons, **texture:** soft wavy, **color:** **tawny gold with black-tipped gradients** (ocelot motif).
+**Height:** 165 cm
+**Weight:** 54 kg
+**Body Type:** **Fit with soft curves** — supple waist, dancer’s grace.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 64 – 96
+VALIDATION: • W/B = 0.727 → OK   • H/W = 1.50 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+Silver **bell choker** (muted), **opal stud earrings**, **thin anklet** with crescent charm, **slender wrist bangle** etched with vine runes.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *E + C* (**midriff-baring cropped layer + side-slit skirt**)
+
+Yuna wears a **midnight-olive cropped kimono-jacket** with short sleeves and cat-print lining, over a **black silk bandeau** that leaves a smooth midriff.
+A **wrap skirt with a high side slit** shows quick, feline footwork; hidden pockets hold pearls and cards.
+Soft-soled boots make no sound on stone; a ribboned tail-scarf flutters behind when she sprints.
+
+**Color Palette:** olive / black / tawny gold / silver accents
+**Accents:** playful, sly, street-chic fey glamour
+
+**Loadout:** engraved dagger (*Purrslice*), charm cards, moon-lantern (fey focus).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **22 HP**
+* **AC:** **15** (Armor of Shadows — *Mage Armor* at will → 13 + DEX +2)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Stealth +4, Deception +5, Persuasion +5, Arcana +3, Acrobatics +4
+* **Senses:** Darkvision 60 ft; advantage on smell-based Perception (feline)
+* **Languages:** Common, Elvish, Sylvan
+
+**Warlock (Archfey) 3:**
+
+* **Otherworldly Patron:** Archfey (whims of moonlit gardens)
+* **Pact Boon:** **Pact of the Chain** — **Sprite familiar** (reskinned as a tiny ocelot-sprite)
+* **Eldritch Invocations:** **Agonizing Blast**, **Armor of Shadows**
+* **Spells (CHA DC 13, +5 atk; 2 slots, 2nd-level):**
+
+  * *Cantrips:* **Eldritch Blast**, *Minor Illusion, Mage Hand*
+  * *1st–2nd:* **Faerie Fire** (expanded), **Hex**, **Armor of Agathys**, **Misty Step** (expanded), **Invisibility**
+
+**Attacks:**
+
+* **Eldritch Blast:** +5 to hit, **1d10+3 force** (Agonizing)
+* **Dagger (Purrslice):** +4 to hit, 1d4+2 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Debuff / Skirmish Control**
+* **Tactics:** Opens with **Faerie Fire** from cover, uses **Hex** and **Eldritch Blast** while sprite familiar aids Help/poison.
+* **Signature Opener:** shadow-giggle, twin tails swing → *Misty Step* onto a rail and light them up in violet dust.
+* **Finisher:** **Invisibility** shuffle, reappears behind target with dagger and a soft “meow.”
+
+**Damage Flavor:** force bolts curl like crescent claw swipes trailing glittering pollen.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Bubbly, nosy, affectionate; pouts theatrically when scolded.
+* **Ideal:** Play — “Fun opens doors fear won’t.”
+* **Bond:** Admires Aria Sunveil’s kindness; brings her stray kittens.
+* **Flaw:** Overconfident in charm; pokes at secrets she shouldn’t.
+* **Quirk:** Tail-ribbon flicks when she lies (and she forgets that it does).
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Ardent Vale — Lantern Avenues, Whisper Steps, Moon Bazaars**
+* **Threat Gradient:** **Stable → Wavering (night resonance)**
+* **Encounter Framing:** **Courier heist**, **Fey bargain run**, **Canal rooftop chase**
+
+---
+
+## 📜 Background & Lifestyle
+
+Runaway market kid who found a door in a mirror and a patron with a laugh like wind chimes.
+Now she guides travelers through “cat paths” only she and her sprite see.
+
+* **Lifestyle:** shared loft above a tea shop; naps in sun patches.
+* **Income:** courier tips, fey errands, “lost-and-found” fees.
+* **Relationships:** flirts with Taro Wynthal; besties with Naeri Valyn; wary respect for Cassian Veldt.
+
+---
+
+## 🧩 Morals & Ethics
+
+Good-hearted mischief-maker: “Steal a secret, pay it back with a smile and a safer city.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Doors that won’t open; being ignored by her patron.
+* **Weaknesses:** Distractible, trusts pretty lies.
+* **Strengths:** Charm-first problem solving, rooftop mobility, familiar synergy.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — clingy-cute, fast compliments, weaponized blush.**
+
+> “Senpai~! Did you see? I totally hexed him before he blinked!”
+> She pads closer, eyes wide.
+> “If you pat my head… I work 20% harder. Scientific fact.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her bell choker is a fey geas; if it rings thrice at midnight, she owes a wish.
+* **Hooks:**
+
+  1. **Three-Ring Debt:** Stop a trickster fey from forcing Yuna’s third chime.
+  2. **Cat Path Map:** Her sprite found a shortcut that shouldn’t exist — it moves.
+  3. **The Unopened Door:** A sealed mirror demands Yuna’s true name in exchange for power.
+
+## Tags: #Female #JuniorType #HalfBeast #Feline #Warlock3 #Archfey #ArdentVale #CR1 #Skirmisher #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Yuna likes to **make others blush** — nose-boops, sudden hand-holds, purr-soft whispers.
+
+> “You’re cute when you try to look serious. Keep doing it… for me?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** dagger (*Purrslice*)
+  * **Armor:** *Mage Armor* (at will)
+  * **Tools:** thieves’ tools, charm cards
+  * **Consumables:** moon-tea tonic ×1, pixie dust vial ×1
+  * **Misc:** bell choker (geas), ocelot-sprite familiar, ribboned tail-scarf
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **Eldritch Adept (Mask of Many Faces)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Ardent Vale / Lantern Avenues / Moon Bazaars**
+* **Threat Gradient:** **Stable → Wavering (night resonance)**
+* **Encounter Type:** **Fey bargain run**, **Rooftop chase**, **Secret-door puzzle**
+* **Affiliation:** **Ardent Vale Night Couriers (Moon Chapter)**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Latin female half-beast ocelot warlock 165cm long high twin tails tawny gold black tips, midriff outfit, bell choker, playful grin

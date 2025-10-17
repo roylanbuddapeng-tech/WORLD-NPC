@@ -1,0 +1,200 @@
+# #114 — **Nerine Vaelith** — *The Azure Dancer of Whisperglass Hall*
+
+> “If you can’t hear the rhythm of danger, then darling, you’re already offbeat.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 114
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — graceful, confident, always three steps ahead; voice low and teasing, but never cruel.
+* **Age:** 28
+* **Race:** **Elf (Thalassaran Lineage)** — 85% human features with long ears that curve elegantly backward, eyes that shimmer with faint blue iridescence like shallow tidewater.
+* **Class & Level:** **Rogue (Swashbuckler)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Spy-dancer, entertainer, and covert courier of the Azure Phalanx
+* **Rank / Position:** **Underagent and Performer of Whisperglass Hall**
+* **Organization:** **Azure Phalanx / Thalassaran Court**
+* **Symbol:** A twin ribbon coiled into a figure-eight knot
+* **Title:** *The Azure Dancer*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–French**, sultry and refined; carries that older-sister confidence that makes hearts stumble.
+
+**Eyes:** crystalline blue with faint aqua shimmer when she laughs.
+**Skin:** luminous ivory with slight cool undertone, flawless from practiced care.
+
+**Hair (randomized):** **Long**, **style:** straight with layered front locks and partial braid crown, **texture:** silky, **color:** midnight blue with silver tips.
+**Height:** 172 cm
+**Weight:** 57 kg
+**Body Type:** **Slender hourglass**, dancer’s toned abdomen, fluid posture.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 99 – 70 – 104
+VALIDATION: • W/B = 0.707 → OK   • H/W = 1.49 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Silver chain earrings**, **azure choker with small diamond drop**, **bracelet of mirrored glass tiles**, **thin anklet bell that jingles faintly when she spins**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *A + C* (**deep neckline + exposed midriff**)
+
+Nerine’s outfit is a calculated blend of elegance and danger — a **sapphire-blue dance top** with a plunging neckline trimmed in silver lace, paired with **high-slit chiffon trousers** that shimmer like water.
+Her midriff shows smooth toned skin when she moves, each step a ripple of light.
+A sheer veil wraps around her shoulders, hiding small throwing daggers at the hem.
+
+**Color Palette:** sapphire / silver / pale blue / ivory
+**Accents:** sensual poise, assassin elegance, shimmering motion
+
+**Loadout:** rapier (*Ripplelight*), hidden daggers ×3, light crossbow.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 13 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Acrobatics +6, Performance +5, Persuasion +5, Insight +3, Stealth +6, Sleight of Hand +6
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Rogue (Swashbuckler) 3:**
+
+* **Fancy Footwork, Rakish Audacity, Sneak Attack (2d6)**
+* **Cunning Action (Dash, Disengage, Hide)**
+
+**Attacks:**
+
+* **Rapier (Ripplelight):** +6 to hit, 1d8+4 piercing + 2d6 Sneak Attack
+* **Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Distraction Specialist**
+* **Tactics:** Opens with charm and motion; uses terrain, mirrors, and sound.
+* **Signature Opener:** Spins forward, veil flare blinding momentarily before a lunge.
+* **Finisher:** Strikes behind the reflection of her own illusion, whispering, “Encore.”
+
+**Damage Flavor:** water-like light trails follow her attacks, glinting like moonlit ripples.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Charismatic, teasing, clever with her words.
+* **Ideal:** Freedom — “No cage can hold rhythm.”
+* **Bond:** Loyal to her dancer troupe and secret courier circle.
+* **Flaw:** Addicted to attention; hates being unseen.
+* **Quirk:** Always hums under her breath — even in combat.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Whisperglass Hall, Moon Canal district**
+* **Threat Gradient:** **Wavering → Echo Zone (performance resonance)**
+* **Encounter Framing:** **Assassination during a masquerade**, **Court dance duel**, **Courier under disguise**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former court entertainer who discovered her movements were being used as coded messages for espionage.
+Rather than rebel, she joined — now she controls the network.
+
+* **Lifestyle:** glamorous but cautious; always has a bolt-hole near the stage.
+* **Income:** performances, courier missions, high-end infiltration jobs.
+* **Relationships:** flirtatious rivalry with Ravel Dorne; mutual respect from Lyra Thalassara.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes truth is like rhythm — it only matters if you know when to reveal it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of her image — being seen as ordinary.
+* **Weaknesses:** Easily distracted by beauty or flattery.
+* **Strengths:** Agility, charm, infiltration mastery.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — composed teasing with protective warmth, mixes flirtation and mentorship.**
+
+> “You’re holding your blade too tight — relax, darling, it’s a dance, not a duel.”
+> Leans close, whispers with that melodic laugh.
+> “I can teach you to move... but you’ll owe me a song.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Works as a double agent — her performances mask coded messages to both the Phalanx *and* the Severance.
+* **Hooks:**
+
+  1. **Dance of Blades:** Her partner disappears mid-performance; only the echo of her rhythm remains.
+  2. **Glass Masquerade:** Players must protect her during a concert turned assassination.
+  3. **The Second Song:** Her true identity as a Severance informant risks exposure.
+
+## Tags: #Female #SeniorType #Elf #Rogue3 #Swashbuckler #Thalassara #CR1 #Performer #Spy #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nerine enjoys teasing others until they blush — then comforts them with gentle laughter.
+
+> “Oh dear, was that too much? My apologies… I forget not everyone likes being breathless.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** rapier (*Ripplelight*), 3 hidden daggers, light crossbow
+  * **Armor:** studded leather
+  * **Tools:** disguise kit, thieves’ tools
+  * **Consumables:** perfume vial ×2, smoke bead ×1
+  * **Misc:** mirror charm, coded fan
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Whisperglass Hall / Moon Canal District**
+* **Threat Gradient:** **Wavering → Echo Zone (performance resonance)**
+* **Encounter Type:** **Masquerade infiltration**, **Spy duel**, **Dance-coded courier mission**
+* **Affiliation:** **Azure Phalanx**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean French female elf rogue swashbuckler 172cm long midnight blue silver hair blue eyes, deep neckline azure top exposed midriff, high-slit trousers, silver jewelry, graceful dancer, moonlit stage, flirtatious confident smile

@@ -1,0 +1,194 @@
+# #143 — **Taro Wynthal** — *The Silver Breeze Courier of Thalassara*
+
+> “You can chase the wind, but you’ll never catch me unless I want you to.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 143
+* **Gender (weighted random):** **Male (Type: เคะ)** — soft-spoken, sweetly expressive, deceptively nimble; his shyness makes his confidence hit harder when it slips through.
+* **Age:** 20
+* **Race:** **Half-Elf (Thalassaran Lineage)** — ~85% human; short pointed ears, faint cyan shimmer under eyes, and a whisper of teal light at his temples when he channels.
+* **Class & Level:** **Rogue (Swashbuckler)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Courier scout, infiltration messenger, part-time performer
+* **Rank / Position:** **Silver Breeze Runner**
+* **Organization:** **Thalassara Swiftlight Network**
+* **Symbol:** A silver feather in motion over two wave lines
+* **Title:** *The Silver Breeze*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Vietnamese**, delicate and charming — soft features balanced by a wiry strength beneath the surface.
+
+**Eyes:** sea-glass teal, bright and shy.
+**Skin:** smooth ivory with faint moon-toned blush along cheeks.
+
+**Hair (Hair Randomizer v2.0):** **Medium**, **style:** **low ponytail with face-framing bangs**, **texture:** straight with slight shine, **color:** **pale ash-blue fading to silver tips.**
+**Height:** 163 cm
+**Weight:** 52 kg
+**Body Build:** **Slender, graceful, agile** — dancer’s balance, courier’s light step.
+
+**Jewelry & Accessories (randomized):**
+**Thin silver chain choker**, **small aquamarine stud earring**, **two slim wristbands**, **tiny feather anklet** that jingles softly.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** *Light courier uniform*
+
+Taro wears a **fitted slate-blue courier jacket** with short sleeves and silver trim, cropped just above the waist for easy motion.
+Underneath is a **black sleeveless undershirt**, and his pants are **form-fitting black leather** reinforced at knees.
+He keeps a **half-cloak** pinned at the right shoulder, marked with a silver wave sigil.
+Gloves are cut for dexterity, boots silent and slim.
+
+**Color Palette:** blue-gray / silver / teal / black
+**Accents:** streamlined, minimalist, elegant speed aesthetic
+
+**Loadout:** rapier (*Whisperline*), dagger, throwing discs, courier satchel.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **23 HP**
+* **AC:** **16** (leather + DEX + mobility)
+* **Speed:** 35 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 13 (+1)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Acrobatics +6, Stealth +6, Persuasion +4, Insight +3, Sleight of Hand +6, Perception +3
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Rogue (Swashbuckler) 3:**
+
+* **Fancy Footwork**, **Rakish Audacity**, **Sneak Attack (2d6)**
+* **Cunning Action**
+* **Expertise:** Acrobatics, Stealth
+
+**Attacks:**
+
+* **Rapier (Whisperline):** +6 to hit, 1d8+4 piercing (+2d6 Sneak Attack)
+* **Dagger:** +6 to hit, 1d4+4 piercing (20/60 ft range)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Duelist / Scout**
+* **Tactics:** Moves into melee with *Fancy Footwork*, then disengages with Cunning Action to kite enemies.
+* **Signature Opener:** dash in mid-spin, flourish rapier like a ribbon, whisper a joke before the cut.
+* **Finisher:** final flourish with *Rakish Audacity* — smiling as the enemy realizes he’s already behind them.
+
+**Damage Flavor:** like the flick of light across calm water — quick, elegant, almost apologetic.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Polite, timidly playful, always tries to make peace before battle.
+* **Ideal:** Connection — “Every letter I deliver is a chance to tie two hearts closer.”
+* **Bond:** Keeps his late master’s silver courier badge hidden inside his glove.
+* **Flaw:** Too trusting; hesitates to hurt those he pities.
+* **Quirk:** Always hums a rhythm while running — never the same twice.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Canals, Skywalks, Courier Districts**
+* **Threat Gradient:** **Stable → Wavering (echo resonance)**
+* **Encounter Framing:** **Chase scene**, **Secret message handoff**, **Courier ambush**
+
+---
+
+## 📜 Background & Lifestyle
+
+An orphan taken in by the Swiftlight Couriers, trained by Lyra Thalassara herself.
+He runs dangerous routes — partly because no one expects the quiet boy to be this fast.
+
+* **Lifestyle:** simple but tidy; rents a small attic near the canals.
+* **Income:** courier fees, bonuses for high-risk deliveries.
+* **Relationships:** flirts awkwardly with Yuna Felinar; admires Kael Vernoss; deeply loyal to Lyra.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes the world runs smoother when kindness travels faster than hatred.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being left behind — literally or emotionally.
+* **Weaknesses:** Shyness leads to hesitation mid-battle.
+* **Strengths:** Quick reactions, agility, compassion under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — bashful sweetness, honest reactions, accidental charm.**
+
+> “W-Wait, don’t stare like that… I’ll drop the satchel again.”
+> He glances away, lips tightening in a nervous smile.
+> “You’re mean. Smiling like that when you know I can’t handle it.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His rapier *Whisperline* contains an encoded message only visible when struck by moonlight.
+* **Hooks:**
+
+  1. **The Silent Message:** He’s unknowingly carrying intel for a Severance cell.
+  2. **Moon Courier Race:** He’s forced to race an assassin across the canal bridges.
+  3. **Whisperline’s Secret:** The rapier’s inscription changes each full moon — predicting danger.
+
+## Tags: #Male #UkeType #HalfElf #Rogue3 #Swashbuckler #Thalassara #CR1 #Scout #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Taro tends to **blush at any contact**, stammer mid-sentence, then try to recover with humor.
+
+> “Y-you shouldn’t stand that close. It’s distracting… I mean—nice! But distracting.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier (*Whisperline*), dagger ×2
+  * **Armor:** leather armor
+  * **Tools:** thieves’ tools, courier satchel
+  * **Consumables:** minor healing vial ×1, smoke pellet ×2
+  * **Misc:** silver badge, moonlight token
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Moon Canals / Skywalks**
+* **Threat Gradient:** **Stable → Wavering (echo resonance)**
+* **Encounter Type:** **Chase duel**, **Courier rescue**, **Secret message delivery**
+* **Affiliation:** **Swiftlight Network**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Vietnamese male half-elf rogue swashbuckler 163cm medium ash-blue hair silver tips low ponytail teal eyes, sleek courier outfit blue-gray silver trim, shy smile, soft lighting, moon canal backdrop

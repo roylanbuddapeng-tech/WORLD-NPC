@@ -1,0 +1,200 @@
+# #136 — **Mira Althene** — *The Velvet Arrow of Ardent Vale*
+
+> “If they see you, they win. If they hear you, they live. If neither—then it’s over.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 136
+* **Gender (weighted random):** **Female (Type: Tomboy Type 2)** — lean muscle tone, confident gait, expressive grin, and always just a bit too loud for stealth—until it matters.
+* **Age:** 23
+* **Race:** **Half-Beast (Avian lineage — falcon hybrid)** — 85% human, feathers trailing the sides of her arms and along the nape of her neck; sharp golden eyes that shift focus like a predator’s.
+* **Class & Level:** **Ranger (Hunter)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Scout, messenger, sky sentry
+* **Rank / Position:** **Vale Scout-Captain**
+* **Organization:** **The Ardent Wing**
+* **Symbol:** A stylized falcon claw gripping an arrow
+* **Title:** *The Velvet Arrow*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–Western**, athletic with bright, playful eyes and a sharp, sun-kissed confidence.
+
+**Eyes:** golden-amber, narrow and intense.
+**Skin:** lightly tanned with faint feather shimmer across the shoulders.
+
+**Hair (randomized):** **Short**, **style:** windswept layered cut, **texture:** slightly wavy, **color:** dark chestnut with golden streaks.
+**Height:** 171 cm
+**Weight:** 59 kg
+**Body Type:** **Athletic, muscular feminine build**, visible definition in arms and abdomen, strong thighs and shoulders.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 87 – 65 – 94
+VALIDATION: • W/B = 0.74 → OK   • H/W = 1.45 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Leather cord choker**, **falcon feather earring**, **steel bangle**, **ankle strap charm**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *C + E* (**crop top + thigh-length shorts + leather harness**)
+
+Mira wears a **black leather crop top** reinforced with scale padding and **short tactical shorts** bound by a **cross-harness strap** around her torso.
+A **half-cloak of gray feathers** drapes over one shoulder, blending with her avian traits.
+She keeps her **archery bracers** engraved with small wing symbols, and her **boots** laced with silver-tipped talons for climbing.
+
+**Color Palette:** charcoal / bronze / tawny / white feather accents
+**Accents:** functional, wild, windborne elegance
+
+**Loadout:** longbow (*Taloncrest*), short sword, throwing knives, grappling cord.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +1)×3 → **25 HP**
+* **AC:** **16** (leather + DEX)
+* **Speed:** 35 ft, **Climb 20 ft, Glide 40 ft**
+* **STR 13 (+1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 10 (+0)** **WIS 14 (+2)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Perception +4, Stealth +6, Acrobatics +6, Survival +4, Athletics +3
+* **Languages:** Common, Auran, Sylvan
+
+**Ranger (Hunter) 3:**
+
+* **Favored Foe, Deft Explorer, Hunter’s Prey (Colossus Slayer)**
+* **Spellcasting (WIS DC 12, +4 atk):** *Hunter’s Mark, Hail of Thorns, Absorb Elements, Speak with Animals*
+
+**Attacks:**
+
+* **Taloncrest (Longbow):** +6 to hit, 1d8+4 piercing (+1d8 Colossus Slayer)
+* **Short Sword:** +6 to hit, 1d6+4 slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Scout / Skirmisher / Aerial Support**
+* **Tactics:** Opens from high ground, uses *Hunter’s Mark* + *Hail of Thorns* to pin targets, then glides to new position.
+* **Signature Opener:** leaps from ledge → shoots mid-fall → lands in roll and draws short sword.
+* **Finisher:** coordinated *Colossus Slayer* headshot as allies push forward.
+
+**Damage Flavor:** strikes ripple air currents, leaving faint feather patterns.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Cheerful, competitive, brashly protective.
+* **Ideal:** Freedom — “No cage is big enough for a skyborn.”
+* **Bond:** Protects her squad fiercely, especially the rookies.
+* **Flaw:** Acts before thinking; hates standing still.
+* **Quirk:** Always perches on railings instead of sitting properly.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Ardent Vale — Cliff Bastions, Windshrines, Upper Market Aeries**
+* **Threat Gradient:** **Wavering → Echo (airborne resonance)**
+* **Encounter Framing:** **Aerial chase**, **cliffside duel**, **signal interception**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former courier of the Vale, Mira was nearly killed during a sky raid but learned to channel her fear into precision and motion.
+Now she trains other scouts, claiming “ground is for people with no imagination.”
+
+* **Lifestyle:** sleeps wherever the wind stops; prefers rooftops and balconies.
+* **Income:** guild stipend + bounty shares.
+* **Relationships:** occasional rivalry with Ren Kaizel; friendship with Naeri Valyn.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes loyalty must be earned, not inherited. Follows her own wind.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing flight; being caged or restrained.
+* **Weaknesses:** Reckless, poor at long-term plans.
+* **Strengths:** Superb reflexes, spatial awareness, accuracy.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy Type 2 tone — bold, teasing, a bit of a troublemaker who flusters others on purpose.**
+
+> “You keep staring. What? Never seen legs like these before?”
+> She leans forward with a grin.
+> “Relax. If I wanted to hit you, you wouldn’t see it coming.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** She once smuggled a Severance shard for a dying friend.
+* **Hooks:**
+
+  1. **The Feather Debt:** Someone blackmails her with that past.
+  2. **Wings of Silence:** Her feathers begin shedding soundproof strands.
+  3. **Sky Burial:** A fellow scout’s spirit haunts the upper cliffs.
+
+## Tags: #Female #Tomboy #HalfBeast #Avian #Ranger3 #Hunter #ArdentVale #CR1 #Scout #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mira enjoys challenging people to arm wrestles or daring stares.
+
+> “You blink first, you buy me a drink. Simple rules.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longbow, short sword
+  * **Armor:** leather harness
+  * **Tools:** climbing kit, whistle
+  * **Consumables:** energy draft ×1, smoke pellet ×1
+  * **Misc:** falcon feather charm, rope spool
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Ardent Vale / Windshrines / Cliff Bastions**
+* **Threat Gradient:** **Wavering → Echo (air resonance)**
+* **Encounter Type:** **Aerial pursuit**, **Signal relay**, **Ambush intercept**
+* **Affiliation:** **The Ardent Wing**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese Western female half-beast falcon hybrid ranger hunter 171cm short wavy chestnut hair with gold streaks amber eyes athletic toned body, crop top leather harness shorts, falcon feathers, confident grin, cliffside wind background

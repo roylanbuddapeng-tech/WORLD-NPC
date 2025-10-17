@@ -1,0 +1,204 @@
+# #122 — **Aria Sunveil** — *The Dawn Whisper of Valeronnes*
+
+> “Every sunrise writes its own song. I just make sure it’s in tune.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 122
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — confident yet gentle; nurturing voice, steady gaze, a hint of playfulness hiding behind calm composure.
+* **Age:** 26
+* **Race:** **Elf (Valeronnes Lineage)** — 85% human appearance with faintly luminous irises and gold-flecked veins at temples.
+* **Class & Level:** **Cleric (Light Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Traveling healer, melody cleric of the Dawn Temple
+* **Rank / Position:** **Sunveil Adept**
+* **Organization:** **Temple of Luminous Dawn**
+* **Symbol:** A stylized sun disk with a ripple through it
+* **Title:** *The Dawn Whisper*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–European**, luminous and composed, beauty glowing with kindness rather than vanity.
+
+**Eyes:** honey-gold, glimmer faintly in sunlight.
+**Skin:** warm ivory with faint sunlit shimmer over cheekbones and shoulders.
+
+**Hair (randomized):** **Medium**, **style:** soft layered waves tied with a silk ribbon, **texture:** light and silky, **color:** pale amber-blonde.
+**Height:** 170 cm
+**Weight:** 57 kg
+**Body Type:** **Balanced curvy**, fit with natural softness and defined waist.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 97 – 71 – 104
+VALIDATION: • W/B = 0.732 → OK   • H/W = 1.46 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Golden sun pendant**, **thin chain anklet**, **opal ring on right index finger**, **white pearl earrings**, **bracelet woven from temple ribbons**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *D* (**shoulder-baring ceremonial cut**)
+
+Aria’s clerical attire mixes devotion and effortless grace:
+a **white-gold sleeveless robe** slit high along the sides for movement, trimmed with **amber thread**, the shoulders exposed under a sheer veil of light silk.
+A **sunburst sash** wraps her waist, tied in soft folds.
+When she walks, sunlight refracts through the fabric as if following her.
+
+**Color Palette:** ivory / gold / amber / white
+**Accents:** holy yet humanly alluring, gentle radiance
+
+**Loadout:** staff of dawnglass, healing focus crystal, travel satchel.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **17** (chain shirt + shield)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 17 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Medicine +5, Insight +5, Religion +3, Performance +4
+* **Languages:** Common, Elvish, Celestial
+
+**Cleric (Light Domain) 3:**
+
+* **Channel Divinity (Radiance of the Dawn)**
+* **Spells (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Light, Sacred Flame, Thaumaturgy*
+  * *1st (4 slots):* *Bless, Cure Wounds, Guiding Bolt, Shield of Faith*
+  * *2nd (2 slots):* *Lesser Restoration, Flaming Sphere*
+
+**Attacks:**
+
+* **Staff (Dawnglass):** +2 to hit, 1d6+0 bludgeoning or 1d8 radiant (when charged)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Radiant Caster**
+* **Tactics:** Uses *Bless* and *Guiding Bolt* to empower allies; defends with *Radiance of the Dawn*.
+* **Signature Opener:** Light erupts from her hand as she whispers, “Awaken.”
+* **Finisher:** channels sunlight into her staff, blinding the enemy with radiant bloom.
+
+**Damage Flavor:** her spells leave brief sun-flares and shimmering afterglows.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calm, protective, wise but teasing.
+* **Ideal:** Compassion — “Every wound hides a story worth saving.”
+* **Bond:** Still wears a ribbon from her first patient’s recovery.
+* **Flaw:** Overworks herself, forgetting her own limits.
+* **Quirk:** Hums softly while healing; melody shifts with patient’s mood.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Sunveil Temple, Echo Gardens, Riverside wards**
+* **Threat Gradient:** **Stable → Wavering (holy resonance)**
+* **Encounter Framing:** **Healing mission**, **Ritual defense**, **Pilgrim escort**
+
+---
+
+## 📜 Background & Lifestyle
+
+Aria once served as temple healer for noble conflicts but chose independence after seeing politics poison mercy.
+Now she wanders, spreading light where others fear to tread.
+
+* **Lifestyle:** simple; travels with only her staff and devotion.
+* **Income:** temple stipends, charity donations, rescue contracts.
+* **Relationships:** close to Elias Corven (academic contact), motherly toward novice acolytes.
+
+---
+
+## 🧩 Morals & Ethics
+
+Sees morality as an act of rhythm — good deeds ripple outward like sunlight over water.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing faith after witnessing too much suffering.
+* **Weaknesses:** Overprotective of the young or wounded.
+* **Strengths:** Healing, composure, leadership.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — calm guidance, teasing warmth, encouraging physical closeness.**
+
+> “You should rest, little one… You’re trembling. Here—let me steady you.”
+> She smiles gently, fingers brushing your wrist.
+> “That blush means the fever’s passing, yes?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her dawnlight crystal feeds on her life force each time she heals — shortening her lifespan.
+* **Hooks:**
+
+  1. **Burning Bright:** Aria begins losing color from her skin as her crystal dims.
+  2. **Echo of the Sun:** A lost temple bell resonates only when she sings.
+  3. **The Last Light:** A Severance shadow seeks to devour her faith.
+
+## Tags: #Female #SeniorType #Elf #Cleric3 #LightDomain #Valeronnes #CR1 #Healer #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Aria comforts through closeness — a soft touch to the cheek, a hand through your hair.
+
+> “You’re safe while I’m here. And you blush adorably when I say that.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** staff
+  * **Armor:** chain shirt, shield
+  * **Tools:** healer’s kit, incense pouch
+  * **Consumables:** holy water ×2, sun salve ×1
+  * **Misc:** ribbon bracelet, sun pendant, dawnlight crystal
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 19) *or* **Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Sunveil Temple / Riverside wards**
+* **Threat Gradient:** **Stable → Wavering (holy resonance)**
+* **Encounter Type:** **Healing ritual**, **Defense of a holy site**, **Escort of wounded**
+* **Affiliation:** **Temple of Luminous Dawn**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese European female elf cleric light domain 170cm medium pale amber-blonde hair honey-gold eyes, curvy body, shoulder-baring white gold robe, sunlight aura, gentle smile, warm radiance, divine healer pose

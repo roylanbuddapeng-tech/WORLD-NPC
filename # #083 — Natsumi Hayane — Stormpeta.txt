@@ -1,0 +1,203 @@
+# #083 — **Natsumi Hayane** — *Stormpetal Duelist of Thalassara*
+
+> “If it doesn’t thrill your heart, it’s not worth the bruise.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 083
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — confident, graceful, encouraging; has the aura of someone who’s always one step ahead but genuinely wants others to catch up
+* **Age:** 28
+* **Race:** **Elf (Thalassaran)** — 80% human-like, slight shimmer of sea-glass in her hair and a faint light halo over her pupils
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Sword instructor, patrol captain, tactical duelist
+* **Rank / Position:** **Sergeant of the Azure Phalanx**
+* **Organization:** **Thalassara Guard Corps**
+* **Symbol:** A stylized sword crossing a water lily
+* **Title:** *The Stormpetal*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean**, poised beauty with calm intensity.
+
+**Eyes:** soft ocean blue, shifting in tone like shallow waves.
+**Skin:** pale ivory with a faintly luminous cool tone.
+
+**Hair (randomized):** **Medium length**, **style:** straight with side-swept bangs, slightly tousled, **color:** silver-blue fading to pale lavender ends.
+**Height:** 170 cm
+**Weight:** 59 kg
+**Body Type:** **Athletic hourglass** — elegant posture, firm core, subtly curved silhouette.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 96 – 70 – 100
+VALIDATION: • W/B = 0.729 → OK   • H/W = 1.43 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Silver headband** with engraved waves, **ear cuffs shaped like petals**, and a **blue quartz pendant** hanging low over her chest.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *B + C* (**Backless + Midriff**)
+
+Natsumi wears a **navy-blue duelist jacket** cropped short enough to expose a **hint of her toned midriff**, its back open in a **V-cut** for ease of motion.
+Underneath, a **wrap-around halter** provides secure armor support.
+Her **white trousers** are high-slit at the side seams, layered over thigh guards embossed with faint silver waves.
+**Leather gloves** protect her wrists, and a **short sword scabbard** rests diagonally along her hip.
+
+**Color Palette:** navy / silver / white / lavender accent
+**Accents:** sleek, sharp, military with stylish flair
+
+**Loadout:** **“Aqua Fang” longsword**, parrying dagger, and training whistle.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **17** (chain shirt + DEX + Defense Style)
+* **Speed:** 30 ft
+* **STR 13 (+1)** **DEX 16 (+3)** **CON 14 (+2)** **INT 11 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, CON +4
+* **Skills:** Athletics +3, Acrobatics +5, Insight +3, Persuasion +4, Perception +3
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Fighter (Battle Master) 3:**
+
+* **Maneuvers:** *Riposte, Precision Attack, Disarming Attack*
+* **Superiority Dice:** 4d8
+* **Second Wind**, **Action Surge**, **Fighting Style: Dueling**
+
+**Attacks:**
+
+* **Aqua Fang (Longsword):** +5 to hit, 1d8+3 slashing; add 1d8 (Riposte/Precision)
+* **Dagger:** +5 to hit, 1d4+3 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duelist / Mentor Striker**
+* **Tactics:** Calm read of opponents; counters aggressively with *Riposte*. Uses *Precision Attack* for finishing precision blows.
+* **Signature Opener:** Raises blade horizontally — “Let’s make this worth remembering.”
+* **Finisher:** Spins under a strike, blade drawing a single streak of water-blue light through the air.
+
+**Damage Flavor:** each motion leaves trailing ripples of light like slicing through rain.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, composed, encouraging; loves a good duel.
+* **Ideal:** Discipline — “Skill is the poetry of movement.”
+* **Bond:** Her students and patrol team.
+* **Flaw:** Tends to overprotect her juniors.
+* **Quirk:** Adjusts gloves before every fight, almost ritualistically.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Azure Phalanx Barracks, Tide Bridge Training Fields**
+* **Threat Gradient:** **Stable → Wavering (Echo infiltration drills)**
+* **Encounter Framing:** **Training Duel**, **Escort Mission**, **Command Briefing**
+
+---
+
+## 📜 Background & Lifestyle
+
+A veteran duelist known for balancing grace and brutality. Rumor says she once defeated three Severance scouts while protecting recruits.
+
+* **Lifestyle:** disciplined, lives near barracks but tends a small garden.
+* **Income:** officer’s salary + dueling exhibitions.
+* **Relationships:** mentor to Yue Linh Avariel; occasional rival to Ren Takarai.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes compassion and strength are inseparable — to fight is to protect, not destroy.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of her blade in anger.
+* **Weaknesses:** Overconfidence, emotional attachment to students.
+* **Strengths:** Leadership, precision dueling, patience.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — caring, composed, slightly teasing with authority.**
+
+> “You’re gripping too tight. Relax your wrist, or I’ll make you do ten laps.”
+> She **makes others flustered** by leaning close during training, voice low but gentle.
+> If someone talks back boldly, she grins:
+> “Hm. Getting cheeky, are we? I must be teaching too well.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Once served undercover in an Echo surveillance cell; keeps classified scars from that time.
+* **Hooks:**
+
+  1. **The Storm Duel:** Challenge her for her favor — or aid her in an honorable arena match.
+  2. **Echo Drills Gone Wrong:** Join her when a training illusion becomes real.
+  3. **Whispers Beneath the Tide:** Uncover her forbidden operation log from the Severance years.
+
+## Tags: #Female #SeniorType #Elf #Fighter3 #BattleMaster #Thalassara #CR1 #Mentor #Duelist
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+When she’s relaxed, Natsumi’s humor softens. During campfires, she teases juniors while tending to their cuts herself.
+
+> “You did well today. Don’t pout — I hit you on purpose.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, dagger
+  * **Armor:** chain shirt
+  * **Tools:** maintenance kit, whistle
+  * **Consumables:** stamina draught ×1, bandages ×2
+  * **Misc:** wave pendant, officer’s badge
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 18) *or* **Martial Adept**
+  * **Maneuver Additions:** *Trip Attack*
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Azure Barracks, Tide Bridges**
+* **Threat Gradient:** **Wavering → Echo Zone (martial resonance)**
+* **Encounter Type:** **Training Duel**, **Escort Defense**, **Tactical Rescue**
+* **Affiliation:** **Thalassara Guard Corps**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean female elf fighter battlemaster, 170cm, medium silver-blue hair with lavender tips, ocean blue eyes, athletic hourglass body, cropped navy jacket backless midriff, white trousers high slit, elegant confident stance, training field background, faint rain glow

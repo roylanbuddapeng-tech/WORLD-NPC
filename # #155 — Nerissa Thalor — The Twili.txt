@@ -1,0 +1,200 @@
+# #155 — **Nerissa Thalor** — *The Twilight Sentinel of Moon Canals*
+
+> “Night isn’t the enemy. It’s a lullaby for the brave.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 155
+* **Gender (weighted random):** **Female (Type: MILF)** — อบอุ่น มั่นใจ ดุแบบใจดี; เสียงทุ้มอ่อนโยนที่ปลอบใจได้แม้กลางศึก
+* **Age:** 34
+* **Race:** **Dark Elf (Thalassaran Lineage)** — ~85% human; ผิวโทนราตรีมีประกายจันทร์จาง ๆ ปลายหูเรียว และวงแหวนสีฟ้าอมเงินในนัยน์ตา
+* **Class & Level:** **Cleric (Twilight Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** ผู้คุ้มกันยามค่ำ, นักบวชพิทักษ์, นักผจญภัยเต็มตัว
+* **Rank / Position:** **Twilight Warden (Canal Watch)**
+* **Organization:** **Thalassara Nightward Choir**
+* **Symbol:** โคมไฟจันทร์เหนือคลื่นเงา
+* **Title:** *The Twilight Sentinel*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Greek**, moonlit elegance with protective warmth; she looks like sanctuary given a human shape.
+
+**Eyes:** pale teal-silver, irises ringed with faint moon halos.
+**Skin:** cool dusk-tan with a soft pearly sheen at collarbones and shoulders.
+
+**Hair (Hair Randomizer v2.7):** **Long**, **sub-style:** **Straight / Loose** (top-weighted pick), **texture:** sleek and heavy, **color:** **blue-black fading to moon-silver ombré**.
+**Height:** 175 cm
+**Weight:** 64 kg
+**Body Type:** **Curvy athletic**, strong back and legs; motherly softness tempered by training.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 106 – 72 – 118
+VALIDATION: • W/B = 0.679 → OK   • H/W = 1.64 → OK
+```
+
+**Jewelry & Accessories (30% glasses rule; result: no glasses):**
+A **thin silver circlet** with a moonstone, **drop earrings** of faint teal crystal, a **prayer-bead bracelet** etched with lullaby sigils, and a **delicate anklet** that chimes softly.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *A + D* (**deep neckline corslet + open-back mantle**)
+
+Nerissa wears a **midnight-blue plated corslet** with a **tasteful deep neckline**, paired with an **open-back twilight mantle** whose inner lining glows faintly.
+A **split tabard** allows free movement over **fitted greaves**; **shield** bears a crescent sigil. When she raises her holy symbol, starlight trickles down like rain.
+
+**Color Palette:** midnight blue / silver / teal glow / black
+**Accents:** serene, protective, moon-hymn austerity
+
+**Loadout:** **mace (*Lullaby Star*)**, **shield**, holy symbol lantern, incense vials.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **24 HP** (Cleric 3; 8 + Con at 1st, then 5 + Con ×2 with CON +2)
+* **AC:** **18** (chain mail 16 + shield 2; Twilight grants heavy armor proficiency)
+* **Speed:** 30 ft; **Darkvision** 300 ft (Twilight feature; at least 300 ft with shared vision aura)
+* **STR 14 (+2)** **DEX 10 (+0)** **CON 14 (+2)** **INT 10 (+0)** **WIS 17 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Insight +5, Perception +5, Religion +2, Medicine +5, Persuasion +4
+* **Languages:** Common, Elvish, Celestial, Thalassaran Cant
+
+**Cleric (Twilight Domain) 3:**
+
+* **Eyes of Night**, **Vigilant Blessing**, **Channel Divinity: Twilight Sanctuary** (temp HP/ending charmed or frightened each round)
+* **Domain Spells:** *Faerie Fire, Sleep, See Invisibility, Moonbeam*
+* **Prepared Spells (WIS DC 13, +5 atk):** *Shield of Faith, Cure Wounds, Healing Word, Guiding Bolt, Sanctuary, Lesser Restoration, Moonbeam, See Invisibility*
+
+**Attacks:**
+
+* **Mace (Lullaby Star):** +4 to hit, 1d6+2 bludgeoning
+* **Guiding Bolt:** +5 to hit, 4d6 radiant (advantage on next attack vs target)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Support / Aura Protector / Controller**
+* **Tactics:** Opens **Twilight Sanctuary** to stabilize allies; tags priority targets with **Guiding Bolt** then holds lines with **Shield of Faith**.
+* **Signature Opener:** whispers a night-hymn → mantle blooms with silver motes → allies steadied by calm light.
+* **Finisher:** **Moonbeam** dropped over chokepoints while she advances under a raised shield.
+
+**Damage Flavor:** radiant light flows like falling moon-petals; each strike leaves a hush, as if the night is listening.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Gentle authority, patient mentor, quietly teasing with those she trusts.
+* **Ideal:** Mercy — “Night shouldn’t frighten the innocent.”
+* **Bond:** Guards choir children who rehearse by the canals.
+* **Flaw:** Overprotective; steps into danger she doesn’t need to.
+* **Quirk:** Counts heartbeats before each prayer; keeps the tempo slow and steady.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Canals, Quiet Bridges, Lantern Wards**
+* **Threat Gradient:** **Stable → Wavering (echo resonance at night)**
+* **Encounter Framing:** **Canal escort under curfew**, **Ritual warding**, **Silent-choir defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former orphan-warden who learned to read the city by sound and shadow.
+Now she leads a small patrol of volunteer choristers who follow her hymns into the dark.
+
+* **Lifestyle:** modest quarters above a lantern chapel; warm tea, folded blankets for strays.
+* **Income:** city stipend + donations from families she’s protected.
+* **Relationships:** respects Lyra Thalassara; trading blessings with Rhea Corvalen; playful debates with Lucien Valeir about “beauty vs. comfort.”
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes **safety is a kind of music** — you feel it in the body before you hear it in the air.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** A night where no hymn can be heard (Echo swallowing sound).
+* **Weaknesses:** Hesitates to abandon civilians, even tactically unwise.
+* **Strengths:** Superb team stability, anti-fear aura, night vision command.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — nurturing warmth with softly teasing edges.**
+
+> “Deep breath. Good. Now hold my shoulder and walk with the rhythm.”
+> A smile glints in moonlight.
+> “See? The dark can learn its manners.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her lantern houses a fragment of a **lost lullaby angel**; it hums to frightened children in their dreams.
+* **Hooks:**
+
+  1. **Angel’s Name:** Recover the angel’s true name before Severance choristers erase it.
+  2. **Night Without Echo:** A sector falls silent—her Sanctuary fails unless the PCs find the source.
+  3. **Moon in Chains:** A noble wants to bottle her Sanctuary light as a weaponized tonic.
+
+## Tags: #Female #MILF #DarkElf #Cleric3 #TwilightDomain #Thalassara #CR1 #Support #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nerissa **makes others blush by mothering them in battle** — smoothing hair, adjusting grips, praising softly.
+
+> “Good posture. Proud of you. Now, again—on my count.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** mace (*Lullaby Star*), shield
+  * **Armor:** chain mail
+  * **Tools:** healer’s kit, incense set
+  * **Consumables:** 2× healing potion, moon-oil vial ×1
+  * **Misc:** lantern-holy symbol, prayer beads, canal ward key
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 19) *or* **Warcaster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Lantern Wards / Quiet Bridges**
+* **Threat Gradient:** **Stable → Wavering (night echo)**
+* **Encounter Type:** **Escort under curfew**, **Ritual warding**, **Echo incursion containment**
+* **Affiliation:** **Nightward Choir**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Greek female dark elf cleric twilight 175cm long straight blue-black to silver ombré hair, deep neckline corslet, open-back mantle, moonlit canals, teal-silver eyes, serene protective aura

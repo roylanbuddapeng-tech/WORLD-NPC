@@ -1,0 +1,194 @@
+# #113 — **Ren Kaizel** — *The Crimson Tempest of Thal-Rune*
+
+> “Steel sings sweetest when the heart dares to burn with it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 113
+* **Gender (weighted random):** **Male (Type: เมะ)** — self-assured, competitive, and confident; carries an effortless aura of danger and charm.
+* **Age:** 24
+* **Race:** **Half-Elf (Skarnov Lineage)** — 80% human, light bronze skin tone with subtle ember-like glimmers beneath, faint red-orange flare in irises when angered.
+* **Class & Level:** **Fighter (Eldritch Knight)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Arena duelist, swordmaster-for-hire, smith’s apprentice
+* **Rank / Position:** **Champion of the Ember Circuit**
+* **Organization:** **Thal-Rune Free Arenas**
+* **Symbol:** A flame coiled within a broken sword hilt
+* **Title:** *The Crimson Tempest*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Greek hybrid**, fiery yet polished beauty; the kind of face that wins crowds before drawing his blade.
+
+**Eyes:** copper-gold with thin ember ring around the pupils.
+**Skin:** bronze undertone with faint metallic glow under torchlight.
+
+**Hair (randomized):** **Medium**, **style:** layered, slightly tousled with a forward fringe, **texture:** smooth, **color:** deep black fading into burnt red tips.
+**Height:** 178 cm
+**Weight:** 70 kg
+**Body Build:** **Athletic muscular**, balanced like a trained fencer with defined shoulders and arms.
+
+**Jewelry & Accessories (randomized):**
+**Earring chain with red gem**, **blacksmith’s ring**, **tattoo line of flame across forearm**, **thin steel choker with runic etchings**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Arena Combat Attire*
+
+Ren’s outfit balances form and spectacle — a **charcoal-red armored vest** open at the collar, **black fingerless gloves**, **fitted trousers** with flame-stitched seams, and a **short split cape** with the Thal-Rune crest.
+His weapon, *Blazefang*, glows faintly orange when drawn — the runes along the blade pulse like a heartbeat.
+
+**Color Palette:** red / black / bronze / gold
+**Accents:** fiery, stylish, built for movement and spectacle
+
+**Loadout:** longsword (*Blazefang*), dagger, arcane focus bracer.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **17** (chain shirt + DEX)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 13 (+1)** **WIS 10 (+0)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +4
+* **Skills:** Athletics +5, Performance +4, Intimidation +4, Arcana +3, Acrobatics +4
+* **Languages:** Common, Elvish, Ignan
+
+**Fighter (Eldritch Knight) 3:**
+
+* **Weapon Bond (Blazefang)**
+* **Spellcasting (INT DC 11, +3 atk)**
+
+  * *Cantrips:* *Fire Bolt, Blade Ward*
+  * *1st (2 slots):* *Shield, Magic Missile, Burning Hands*
+
+**Attacks:**
+
+* **Longsword (Blazefang):** +5 to hit, 1d8+3 slashing + 1d6 fire (once/turn)
+* **Dagger:** +4 to hit, 1d4+2 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Striker / Spell-Enhanced Duelist**
+* **Tactics:** Combines offense with quick defense; uses *Shield* for parry bursts and *Burning Hands* for close control.
+* **Signature Opener:** Spins sword mid-step, flame coiling along the edge.
+* **Finisher:** *Burning Hands* point-blank followed by overhead strike.
+
+**Damage Flavor:** flame arcs follow every swing, flickering embers in his wake.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Passionate, protective, slightly cocky.
+* **Ideal:** Courage — “You can’t forge steel without fire.”
+* **Bond:** Devotion to his mentor blacksmith, who forged *Blazefang*.
+* **Flaw:** Thrill-seeker; can’t resist a challenge.
+* **Quirk:** Sparks dance between his fingers when excited or angry.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thal-Rune — Ember Arenas, Smoldering Streets, Forgehall Quarter**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Framing:** **Arena duel**, **Forge ambush**, **Fire-elemental containment**
+
+---
+
+## 📜 Background & Lifestyle
+
+Ren grew up at the edge of a forge; his mother was a blacksmith, his father a failed knight.
+He became both — a duelist who turns combat into performance.
+
+* **Lifestyle:** lives like a celebrity fighter; trains by day, drinks with rivals at night.
+* **Income:** prize money, commissions, and sponsorships.
+* **Relationships:** flirty rivalry with Aria Lenvale’s apprentice healer; professional admiration from Ravel Dorne.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes chaos breeds growth — “The world burns, but that’s how it shines.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Freezing — both literally and emotionally.
+* **Weaknesses:** Overconfidence, fame addiction.
+* **Strengths:** Raw power, charisma, flair under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — teasing dominance with fiery wit.**
+
+> “You call that form? Cute. Let me show you how fire really moves.”
+> He steps close, smirks, brushes imaginary dust from your shoulder.
+> “Relax. If I wanted to burn you, you’d already be ash.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** *Blazefang* houses a dormant fire elemental that sometimes “guides” his temper.
+* **Hooks:**
+
+  1. **The Ember Within:** Investigate why his sword whispers his name in the forge smoke.
+  2. **Champion’s Debt:** He owes the Arena Guild a blood favor — one duel he must not win.
+  3. **Fire and Resonance:** Thal-Rune’s flames begin to hum with Echo corruption.
+
+## Tags: #Male #MehType #HalfElf #Fighter3 #EldritchKnight #ThalRune #CR1 #ArenaChampion #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ren flirts through mock combat and daring proximity. His grin is all heat and mischief.
+
+> “You’re trembling — don’t worry. That’s what passion feels like, not fear.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longsword (*Blazefang*), dagger
+  * **Armor:** chain shirt
+  * **Tools:** whetstone, oil rag
+  * **Consumables:** ember salve ×2, forge whiskey ×1
+  * **Misc:** blacksmith’s ring, arena token
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 18) *or* **War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thal-Rune / Forgehall Quarter / Ember Arenas**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Type:** **Arena duel**, **Smithy defense**, **Elemental incursion**
+* **Affiliation:** **Thal-Rune Free Arenas**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Greek male half-elf fighter eldritch knight 178cm medium black red hair copper eyes, flame tattoos, crimson armored vest, sword glowing orange runes, confident smirk, arena fire background

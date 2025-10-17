@@ -1,0 +1,193 @@
+# #129 — **Taro Wynthal** — *The Azure Wind Courier of Thalassara*
+
+> “Messages, storms, or trouble — if it flies, I can ride it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 129
+* **Gender (weighted random):** **Male (Type: เฟมบอย)** — delicate and alluring; effeminate grace, soft-spoken but mischievously bold, with the habit of leaning too close when talking.
+* **Age:** 21
+* **Race:** **Half-Beast (Avian lineage — swallow hybrid)** — 85% human appearance, faint blue-black feathers on shoulders and along the sides of the neck.
+* **Class & Level:** **Rogue (Swashbuckler)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** Courier, thief, smuggler of forbidden letters
+* **Rank / Position:** **Sky-Runner of the Moon Canals**
+* **Organization:** **Thalassaran Tide Messengers Guild (Shadow Branch)**
+* **Symbol:** A pair of crossed wings within a circle of silver ink
+* **Title:** *The Azure Wind*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Chinese**, soft-featured, playful eyes and subtle smirk — beauty that lingers between feminine and androgynous.
+
+**Eyes:** bright teal with black slit pupils; long lashes, slightly upturned corners.
+**Skin:** fair with faint blush hue, a natural luster that catches the light like silk.
+
+**Hair (randomized):** **Short feminine**, **style:** slightly wavy bob with side bangs, **texture:** smooth and fine, **color:** deep navy with blue-silver highlights.
+**Height:** 158 cm
+**Weight:** 49 kg
+**Body Build:** **Slim and elegant**, lithe and lightly toned with dancer’s balance.
+
+**Jewelry & Accessories (randomized):**
+**Sapphire stud earrings**, **thin choker with silver ring**, **bracelet chain with feathers**, **silver toe ring**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Active for Femboy): 🎲 Result → *E* (midriff-baring courier outfit)**
+
+Taro wears a **form-fitting azure vest** open just enough to expose his smooth abdomen and the lower curve of his chest.
+A **short asymmetric cape** flutters behind him, paired with **tight black pants** and **knee-high boots**.
+The vest edges shimmer with **silver embroidery** shaped like wing-feathers.
+When he moves, his whole outfit seems to flow like wind incarnate — light, confident, unapologetically enticing.
+
+**Color Palette:** navy / sky blue / silver / black
+**Accents:** aerodynamic, flirty, sharp elegance
+
+**Loadout:** rapier (*Feather’s Kiss*), throwing knives, letter satchel.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **16** (leather + DEX)
+* **Speed:** 35 ft; **Fly (Glide)** 20 ft limited (from hybrid wings)
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 13 (+1)** **WIS 11 (+0)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, CHA +5
+* **Skills:** Acrobatics +6, Stealth +6, Persuasion +5, Sleight of Hand +6, Performance +5
+* **Languages:** Common, Auran, Thalassaran Cant
+
+**Rogue (Swashbuckler) 3:**
+
+* **Fancy Footwork, Rakish Audacity, Sneak Attack (2d6)**, **Cunning Action**
+* **Panache:** Persuasion contested by enemy Insight
+
+**Attacks:**
+
+* **Rapier (Feather’s Kiss):** +6 to hit, 1d8+4 piercing (+2d6 Sneak Attack)
+* **Throwing Knife:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Duelist / Distracting Skirmisher**
+* **Tactics:** Uses *Panache* to taunt enemies, then dances out of range with *Fancy Footwork.*
+* **Signature Opener:** spins in midair, blade flashing like a feather through sunlight.
+* **Finisher:** spins backward slash and flicks blood off his blade with a smile.
+
+**Damage Flavor:** swift slashes trail faint gusts of blue feathers and wind shimmer.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Teasing, charming, calculating.
+* **Ideal:** Freedom — “The wind never apologizes, and neither should I.”
+* **Bond:** Protects fellow couriers and street kids from exploitation.
+* **Flaw:** Flirts with danger — literally and romantically.
+* **Quirk:** Tilts his head and hums before lying; it’s almost like a purr.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — High Bridges, Canal rooftops, Sky Towers**
+* **Threat Gradient:** **Stable → Wavering (air resonance)**
+* **Encounter Framing:** **Courier chase**, **Artifact delivery**, **Sky duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a Thalassaran sky-runner and a dock worker, Taro learned balance and bravado before he learned fear.
+He delivers messages for nobles by day — and blackmail for thieves by night.
+
+* **Lifestyle:** indulgent, sleeps in hammocks above the canals.
+* **Income:** courier work, side smuggling jobs, “gifts” from admirers.
+* **Relationships:** playful rivalry with Nimueh Caerwyn; frequent flirtation with Ren Kaizel.
+
+---
+
+## 🧩 Morals & Ethics
+
+Lives by the creed: “If I can make them smile, I’ve already won the fight.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being grounded — losing his ability to glide.
+* **Weaknesses:** Overconfident, emotionally evasive.
+* **Strengths:** Charisma, agility, distraction tactics.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เฟมบอย tone — flirtatious, soft voice with sly edge, intentionally disarming.**
+
+> “You’re staring… is it the wings or the view?”
+> He leans closer, lips almost brushing your ear.
+> “Either way, I’ll take it as a compliment.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Taro smuggles coded Severance intel hidden in song scrolls.
+* **Hooks:**
+
+  1. **The Feather Cipher:** Recover a stolen message that could expose his network.
+  2. **The Wingless Night:** His gliding ability falters after contact with an Echo storm.
+  3. **Letters to the Wind:** A mysterious lover keeps sending him anonymous sky-letters.
+
+## Tags: #Male #FemboyType #HalfBeast #Avian #Rogue3 #Swashbuckler #Thalassara #CR1 #Courier #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Taro thrives on reaction — flusters others for fun, voice always dripping confidence.
+
+> “If you blush that easily, darling, I’ll never stop talking.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, knives
+  * **Armor:** light leather
+  * **Tools:** thieves’ tools, courier satchel
+  * **Consumables:** stamina draught ×1, smoke pellet ×2
+  * **Misc:** silver choker, coded scrolls
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Canal rooftops / Sky Towers**
+* **Threat Gradient:** **Stable → Wavering (air resonance)**
+* **Encounter Type:** **Sky chase**, **Courier duel**, **Artifact recovery**
+* **Affiliation:** **Tide Messengers (Shadow Branch)**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Chinese male femboy half-beast avian swallow rogue swashbuckler 158cm short navy hair teal eyes slim elegant body, midriff-baring azure vest open front, silver embroidery, confident smile, feathers, canal rooftops at dusk, flirty atmosphere

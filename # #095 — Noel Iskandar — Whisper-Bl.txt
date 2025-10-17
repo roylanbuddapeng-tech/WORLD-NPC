@@ -1,0 +1,195 @@
+# #095 — **Noel Iskandar** — *Whisper-Blade of the Crimson Mirage*
+
+> “If you can hear me, it’s already too late.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 095
+* **Gender (weighted random):** **Male (Type: เมะ)** — confident, sharp-jawed, dangerous grace; exudes quiet dominance but knows when to soften his tone.
+* **Age:** 26
+* **Race:** **Human (Desert Lineage — Iskandar Tribes)** — deep tan skin, golden eyes with slit pupils, subtle sand-pattern marking under left eye.
+* **Class & Level:** **Rogue (Assassin)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good (leans pragmatic)**
+* **Profession:** Desert mercenary, infiltration specialist, bounty hunter
+* **Rank / Position:** **Field Operative of the Crimson Mirage Guild**
+* **Organization:** **Crimson Mirage (Nomadic Contract Syndicate)**
+* **Symbol:** A curved dagger laid across a setting sun
+* **Title:** *Whisper-Blade*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Arabic–Central Asian**, sharp beauty with heat-tempered poise.
+
+**Eyes:** molten gold, narrow and focused like a hawk’s.
+**Skin:** bronze-tan with soft desert hue, lightly scarred along the collarbone.
+
+**Hair (randomized):** **Medium length**, **style:** loose undercut with longer top pulled back into a low knot, **texture:** wavy, **color:** deep black with faint auburn sheen.
+**Height:** 180 cm
+**Weight:** 74 kg
+**Body Build:** **Athletic lean**, strong shoulders, narrow waist, runner’s stamina.
+
+**Jewelry & Accessories (randomized):**
+**Gold ear cuff** on right ear, **sandstone pendant**, **braided leather wrist wraps**, and **cloth sash** with hidden blade sheath.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Standard coverage, functional fit only*
+
+Noel’s outfit blends stealth and ceremony: **dark crimson hooded scarf** draped across his shoulder, **black sleeveless tunic** reinforced with light armor plates, and **desert trousers** tied at the calves.
+A **curved dagger harness** crosses his chest, while a **thin silk veil** (used for dust storms and identity concealment) hangs loose around his neck.
+
+**Color Palette:** crimson / black / bronze / desert beige
+**Accents:** utilitarian elegance, stealth-warrior aesthetic
+
+**Loadout:** twin curved daggers (*Sunfang* and *Veilbite*), light crossbow, smoke pellets ×3.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **15** (leather armor + DEX)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 17 (+3)** **CON 12 (+1)** **INT 11 (+0)** **WIS 14 (+2)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, INT +2
+* **Skills:** Stealth +7, Perception +4, Acrobatics +5, Intimidation +3, Investigation +2
+* **Languages:** Common, Nomadic, Thieves’ Cant
+
+**Rogue (Assassin) 3:**
+
+* **Sneak Attack (2d6)**
+* **Cunning Action** (Dash, Disengage, Hide)
+* **Assassinate:** advantage on creatures yet to act, auto-crit on surprise
+* **Thieves’ Tools proficiency**
+
+**Attacks:**
+
+* **Sunfang Dagger:** +5 to hit, 1d4+3 piercing (+2d6 Sneak Attack)
+* **Veilbite Dagger:** +5 to hit, 1d4+3 piercing, poisoned (1d4 extra, 3 uses/day)
+* **Light Crossbow:** +5 to hit, 1d8+3 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Striker / Ambusher / Scout**
+* **Tactics:** Opens from concealment; uses *Assassinate* for alpha-strike, vanishes via *Cunning Action*.
+* **Signature Opener:** Dust swirl → strike to the throat → vanish.
+* **Finisher:** Twin-dagger spin through a sand gust, enemy collapses before sound follows.
+
+**Damage Flavor:** thin crimson trails vanish into the air like heat mirages.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Controlled, precise, prefers action to speech.
+* **Ideal:** Honor in skill — “A silent kill leaves no echo.”
+* **Bond:** The Crimson Mirage guild, and his younger sister still in the desert tribes.
+* **Flaw:** Avoids forming attachments with clients; fears betrayal.
+* **Quirk:** Flicks sand between his fingers when thinking.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov Fringe — Desert Corridors, Ruin Valleys, Mirage Plains**
+* **Threat Gradient:** **Wavering → Echo Zone (heat distortion resonance)**
+* **Encounter Framing:** **Bounty hunt**, **Silent infiltration**, **Desert ambush**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a caravan guard, Noel joined the Mirage after saving a guildmaster’s life in a sandstorm. He now works as a contractor—sometimes lawless, always disciplined.
+
+* **Lifestyle:** minimalist, travels light, meditates before missions.
+* **Income:** assassination contracts, artifact recovery, bodyguard work.
+* **Relationships:** Friendly rivalry with Ravel Drion; protective toward Meilin Zhou.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes good intentions mean little without the skill to see them through; respects worthy enemies more than incompetent allies.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing to protect the weak during contracts.
+* **Weaknesses:** Poor at small talk; emotionally closed-off.
+* **Strengths:** Stealth, precision, patience, extreme focus.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — composed dominance, subtle seduction through control.**
+
+> “Stay behind me. If you move, I can’t promise where the blade lands.”
+> He flusters others with calm assurance — intense eye contact, quiet commands.
+> If teased back, his lips curve faintly:
+> “Careful. You won’t win this game by looking that way at me.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His daggers contain traces of an Echo spirit that hums when near blood magic.
+* **Hooks:**
+
+  1. **Mirage Contract:** Protect or hunt Noel as the guild fractures.
+  2. **Echo of Sand:** His blades begin whispering warnings of future deaths.
+  3. **The Desert Debt:** He’s tasked to kill someone he once saved.
+
+## Tags: #Male #MeType #Human #Rogue3 #Assassin #CrimsonMirage #CR1 #Desert #Mercenary
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Noel **takes control of tension** — soft voice, unbroken stare, often closes distance before speaking.
+When others fluster, he smirks:
+
+> “Relax. I don’t bite… unless I need to.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** twin daggers (*Sunfang*, *Veilbite*), light crossbow
+  * **Armor:** leather armor
+  * **Tools:** thieves’ tools, climbing kit
+  * **Consumables:** poison vials ×2, smoke bombs ×3
+  * **Misc:** crimson scarf, sandstone charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 19) *or* **Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov Fringe / Crimson Dunes / Mirage Plains**
+* **Threat Gradient:** **Wavering → Echo Zone (heat mirage distortion)**
+* **Encounter Type:** **Assassination mission**, **Sandstorm pursuit**, **Desert retrieval**
+* **Affiliation:** **Crimson Mirage Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Arabic Central Asian male human rogue assassin 180cm medium wavy black hair low knot, golden eyes, athletic lean body, crimson hooded scarf black sleeveless armor, twin curved daggers, desert wind background, confident smirk, sandstorm light

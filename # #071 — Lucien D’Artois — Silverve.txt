@@ -1,0 +1,193 @@
+# #071 — **Lucien D’Artois** — *Silverveil Duelist of the Moon Courts*
+
+> “A blade drawn in beauty is never wasted.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 071
+* **Gender (weighted random):** **Male (Type: เคะ)** — refined, soft-featured, gentle tone, but surprisingly sharp-witted; graceful and emotionally expressive
+* **Age:** 23
+* **Race:** **Half-Elf (Valeronnes Lineage)** — 85% human with faint luminous undertone in skin, pupils like silver rings under moonlight
+* **Class & Level:** **Bard (College of Swords)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Duelist, court performer, liaison for noble contracts
+* **Rank / Position:** **Silverveil Performer-Duelist**
+* **Organization:** **House Valeronnes Court Ensemble**
+* **Symbol:** A rapier crossed with a quill over a silver crescent
+* **Title:** *The Moonlit Blade*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–European** — elegant, aristocratic beauty with androgynous allure; like a young ballet dancer meets a fencer.
+
+**Eyes:** pale silver-blue, soft and luminous.
+**Skin:** fair with moonlight sheen, almost translucent under candlelight.
+
+**Hair (randomized):** **Medium**, **style:** soft layered waves framing the face, **texture:** smooth, **color:** platinum-blond with faint lavender shimmer at tips.
+**Height:** 168 cm
+**Weight:** 57 kg
+**Body Build:** **Elegant Lean** — delicate frame, graceful posture, lithe muscle tone.
+
+**Jewelry & Accessories (randomized):**
+Silver **ear cuffs** linked by thin chains, **moon-pearl choker**, **bracelet** of etched runes, and a **thin anklet** that jingles faintly during movement.
+
+---
+
+## 👗 Outfit (in English)
+
+A **silver-white duelist jacket** tailored close to the body, trimmed with **lavender silk** along the cuffs. Beneath it, a **sleeveless high-collar shirt** of pale gray linen; **tight trousers** tucked into polished **white boots**. A **half-cape** drapes over his left shoulder, lined with violet embroidery. His **rapier**, *Lunefleur*, bears an opal in its guard that pulses faintly when he hums.
+
+**Color Palette:** silver / white / lavender / pale blue
+**Accents:** courtly, graceful, moonlit poise
+
+**Loadout:** rapier (Lunefleur), dagger, lute, jeweled focus, charm pouch.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **16** (leather + DEX + Defensive Flourish option)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 17 (+3)** **CON 12 (+1)** **INT 11 (+0)** **WIS 10 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, CHA +5
+* **Skills:** Performance +5, Persuasion +5, Acrobatics +5, Sleight of Hand +5, Insight +2
+* **Languages:** Common, Elvish, Valeron High Cant
+
+**Bard 3 (College of Swords):**
+
+* **Bardic Inspiration d6 (3/long rest)**
+* **Fighting Style:** Dueling
+* **Blade Flourishes:** Defensive, Mobile, Slashing
+* **Spellcasting (CHA DC 13, +5 attack)**
+
+  * **Cantrips:** *Blade Ward, Minor Illusion, Vicious Mockery*
+  * **1st (4 slots):** *Healing Word, Charm Person, Dissonant Whispers, Feather Fall*
+  * **2nd (2 slots):** *Mirror Image, Suggestion*
+
+**Attacks**
+
+* **Rapier (Lunefleur):** +5 to hit, 1d8 + 3 piercing
+* **Dagger:** +5 to hit, 1d4 + 3 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Agile Duelist / Support Caster**
+* **Tactics:** Opens with *Mirror Image*, then dances around foes with Mobile Flourish; uses *Dissonant Whispers* to bait attacks of opportunity.
+* **Signature Opener:** Steps forward as if to bow—then flourishes his blade mid-gesture into a flash of silver light.
+* **Finisher:** Whirls gracefully, rapier draws an arc of light like a comet tail.
+
+**Damage Flavor:** Each strike releases a soft chime note that echoes his heartbeat.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Gentle voice, precise manners, playful humor.
+* **Ideal:** Art — “Perfection lies in motion, not in stillness.”
+* **Bond:** Devoted to his elder sister, a court composer.
+* **Flaw:** Takes criticism too personally.
+* **Quirk:** Tilts head slightly whenever someone lies to him.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Moon Courts, Silverveil District**
+* **Threat Gradient:** **Stable → Wavering (Echo intrusions during gala nights)**
+* **Encounter Framing:** **Court Duel, Performance Sabotage, Assassination Ball**
+
+---
+
+## 📜 Background & Lifestyle
+
+Son of a minor noble and an elven violinist. Trained as both fencer and performer, he serves the Valeronnes Courts as a symbol of refined diplomacy—an artist who can kill as gracefully as he can play.
+
+* **Lifestyle:** Elegant; lives in a moonlit apartment above a theatre.
+* **Income:** Performance fees + noble contracts.
+* **Relationships:** Friends with Lyra Thalassara; secretly admires Eiden Voss’s discipline.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes violence without grace is barbarism; seeks to resolve conflict through beauty and honor.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing his composure in public.
+* **Weaknesses:** Too trusting, avoids dirty fighting.
+* **Strengths:** Reflex speed, social intelligence, adaptable technique.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Type: เคะ** — soft and graceful, yet emotionally charged.
+
+> “You’re watching too closely… will you write a poem about me next?”
+> He blushes when complimented, hands fidgeting with his rapier hilt.
+> When teasing, he leans closer than necessary, voice low:
+> “Careful — I might steal your heartbeat next.”
+
+He **enjoys flustering others**, but gets flustered in return with equal ease.
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His family’s crest contains a hidden ward against Severance agents.
+* **Hooks:**
+
+  1. **The Masque of Broken Notes:** Uncover a Severance spy during a court performance.
+  2. **Duel Under Moonlight:** Protect Lucien during a challenge meant to frame him.
+  3. **The Silent Waltz:** Rehearse a ritual dance that can stabilize Echo fields.
+
+## Tags: #Male #KehType #HalfElf #Bard3 #CollegeOfSwords #Valeronnes #CR1 #Duelist #Performer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+He prefers subtlety — compliments in a whisper, smiles through his lashes.
+If someone takes his hand mid-duel, he flushes instantly.
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1 800
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, dagger
+  * **Armor:** leather jacket
+  * **Tools:** lute, calligraphy set
+  * **Consumables:** perfume vial, 1× healing draft
+  * **Misc:** moon charm, silver ring, poem scrolls
+* **Level-Up Suggestions (to 4):** +2 DEX (to 19) or **Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** Valeronnes Moon Courts — Silverveil Ballrooms
+* **Threat Gradient:** Stable → Wavering (Echo intrusion through music rites)
+* **Encounter Type:** Court Duel, Ritual Performance, Assassination Interruption
+* **Affiliation:** Valeronnes Court Ensemble — Silverveil Tier
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French male half-elf bard, 168 cm, platinum-blond lavender-tinted hair, silver-blue eyes, lean elegant build, silver duelist coat, rapier, moonlight ballroom, graceful pose, soft expression, fantasy court

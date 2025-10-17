@@ -1,0 +1,199 @@
+# #089 — **Jin Hoshikawa** — *Velvet-Fox Idol of the Twilight Stage*
+
+> “If your heart skips, that’s the tempo I’m aiming for.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 089
+* **Gender (weighted random):** **Male (Type: เฟมบอย)** — feminine allure, soft voice, playful and teasing; lives to make others (especially men) blush
+* **Age:** 20
+* **Race:** **Half-Beast (Fox Lineage)** — ~85% human; faint velvet-fine fur at the nape, subtle fox-ear tips nestled in hair, amber fox-glint in eyes, small sleek tail hidden under cloak
+* **Class & Level:** **Bard (College of Glamour)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Street-idol performer, rumor-runner, festival MC
+* **Rank / Position:** **Velvet-Fox Lead of the Silent Cabaret**
+* **Organization:** **Silent Cabaret (Twilight Bazaar Troupe)**
+* **Symbol:** A silk ribbon bow over a half-mask with a fox-tail flourish
+* **Title:** *The Velvet-Fox*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese idol vibe** — luminous skin, delicate features, heart-stopping stage smile.
+
+**Eyes:** honey-amber with a sly foxy sparkle.
+**Skin:** porcelain with a warm peach undertone and dewy glow.
+
+**Hair (randomized):** **Short feminine**, **style:** airy layered hime-mix bob with soft side bangs, **texture:** silky straight, **color:** smoky black fading to **rose-gold** tips.
+**Height:** **158 cm** *(Femboy height rule active ≤160 cm)*
+**Weight:** 48 kg
+**Body Build:** **Slim feminine** — graceful lines, dancer’s poise, no bulk; motions flow like choreography.
+
+**Jewelry & Accessories (randomized):**
+Crystalline **heart choker**, **single chain earring** with fox-tail charm, thin **silver bangles**, and a **tiny bell anklet** that jingles when he spins.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Femboy boost):** 🎲 Result → *C + E* (**Midriff + Underbust**)
+
+A stage-ready ensemble: a **silk micro-cropped top** that ends just under the chestline (**underbust reveal**), paired with a **sheer mesh shrug** studded with tiny crystals. His **waist-hugging sash** ties into a playful bow, and the **high-rise shorts** leave a clean **midriff** on display.
+Thigh-high boots with silver fox filigree and a fluttering **half-skirt tailpiece** complete the silhouette.
+
+**Color Palette:** blush pink / black / silver / rose-gold
+**Accents:** idol glam, teasing elegance, performance-focused stretch fabrics
+
+**Loadout:** glamoured mic-fan (spell focus), slender rapier, smoke confetti, ribbon props.
+
+---
+
+##⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **20 HP**
+* **AC:** **15** (studded leather 12 + DEX +3)
+* **Speed:** 30 ft
+* **STR 8 (–1)** **DEX 16 (+3)** **CON 12 (+1)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, CHA +6
+* **Skills:** Performance +8, Persuasion +6, Deception +6, Insight +3, Acrobatics +5, Stealth +5
+* **Languages:** Common, Elvish, Thalassaran Cant, Kitsune hand-signs
+
+**Bard 3 — College of Glamour:**
+
+* **Bardic Inspiration d6 (3/long rest)**
+* **Mantle of Inspiration (temp HP + reposition allies, BA)**
+* **Enthralling Performance (charm on a group post-performance)**
+* **Spellcasting (CHA DC 14, +6 atk)**
+
+  * **Cantrips:** *Vicious Mockery, Minor Illusion, Friends*
+  * **1st (4 slots):** *Charm Person, Dissonant Whispers, Healing Word, Faerie Fire*
+  * **2nd (2 slots):** *Suggestion, Calm Emotions*
+
+**Attacks:**
+
+* **Rapier:** +5 to hit, 1d8+3 piercing
+* **Vicious Mockery:** DC 14 WIS, 2d4 psychic + disadvantage
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Control Support / Soft Disabler**
+* **Tactics:** Opens with **Faerie Fire** or **Mantle of Inspiration** to reposition allies. Uses *Dissonant Whispers* to peel targets for a Sneak Attack ally. *Suggestion* ends fights stylishly.
+* **Signature Opener:** Spins the mic-fan; bell anklet rings thrice — spotlight shimmers into **Faerie Fire**.
+* **Finisher:** Breathless whisper and a hand to the chest — *“Surrender… to rhythm.”* (*Suggestion*).
+
+**Damage Flavor:** glittering fox-lights swirl with notes that pop like tiny heartbeats.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Flirty, quick-witted, delightfully naughty; plays innocent, isn’t.
+* **Ideal:** Freedom — “Art belongs to no cage and no crown.”
+* **Bond:** Fiercely loyal to the Silent Cabaret performers.
+* **Flaw:** Thrill-seeker; teases dangerous people for sport.
+* **Quirk:** Taps a secret beat with his bell anklet before every spell.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Twilight Bazaar stages, Moon Canal festival barges**
+* **Threat Gradient:** **Wavering → Echo Zone (crowd resonance at night)**
+* **Encounter Framing:** **Heist-show**, **Diplomatic party crash**, **Ambush turned performance**
+
+---
+
+## 📜 Background & Lifestyle
+
+A canal-orphan with a fox-kin mother from the hinter caravans, Jin learned to survive by **owning the spotlight**. The Cabaret polished him into a sensation whose smile can hush riots — or start them.
+
+* **Lifestyle:** late nights, velvet couches, citrus tea and honey.
+* **Income:** performance tips, private shows, rumor brokerage.
+* **Relationships:** Flirt-frenemy with Kael Rinzen; protective toward Elira Veyne.
+
+---
+
+## 🧩 Morals & Ethics
+
+Pleasure isn’t sin; cruelty is. He refuses to humiliate the powerless — only the proud.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being ignored; losing his voice.
+* **Weaknesses:** Physically fragile; underestimates jealous rivals.
+* **Strengths:** Crowd control, charm, tactical reposition via Mantle.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เฟมบอย tone — designed to fluster.**
+He leans in close, lashes low, voice a purr:
+
+> “You’re staring, handsome. Want a private chorus or just the encore?”
+> He **targets men shamelessly**: brushes fingers at the collar, whispers double entendres, lets the **underbust** line do the rest.
+> If someone flips the script, he laughs breathlessly:
+> “Mmh—dangerous. Keep talking like that and I’ll miss my cue.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Knows the **master pass-song** for Cabaret safehouses; a rival troupe wants it.
+* **Hooks:**
+
+  1. **Heart Heist:** Guard Jin’s performance while thieves strike backstage; he directs allies with Mantle beats.
+  2. **Foxglass Mask:** Retrieve his stolen glamoured mask before a Severance broker copies his voiceprint.
+  3. **Encore of Silence:** Someone curses his bell anklet to mute him mid-show — find the hexer before the big festival.
+
+## Tags: #Male #Femboy #HalfBeast #Fox #Bard3 #Glamour #Thalassara #CR1 #Performer #Charm
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Jin loves to **make others blush** with soft touches and lingering eye contact. Compliment him and he peeks up through lashes:
+
+> “Say it again… slower.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, hidden stiletto
+  * **Armor:** studded leather
+  * **Tools:** disguise kit, performer’s kit
+  * **Consumables:** glitter-smoke ×2, honey tea ×1
+  * **Misc:** mic-fan focus, bell anklet, ribbon props
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 20) *or* **Actor**
+  * **Spell Pick:** *Hypnotic Pattern* at later levels; for now consider *Detect Thoughts* (story hooks)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Twilight Bazaar & Moon Canals**
+* **Threat Gradient:** **Wavering → Echo Zone (festival surge)**
+* **Encounter Type:** **Show-Heist**, **Crowd Control**, **Spy Rendezvous**
+* **Affiliation:** **Silent Cabaret — Velvet Wing**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese male femboy fox-kin bard glamour, 158cm, short airy hime bob smoky black to rose-gold tips, amber eyes, slim feminine body, underbust crop top with midriff, sheer crystal shrug, thigh-high boots, mic-fan focus, stage lights, playful seductive smile

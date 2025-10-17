@@ -1,0 +1,206 @@
+# #104 — **Rina Velvane** — *The Sapphire Trickster of the Twin Courts*
+
+> “Rules are like lace — better when artfully broken.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 104
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — energetic, slightly mischievous, speaks fast, gets flustered easily when praised.
+* **Age:** 20
+* **Race:** **Half-Elf (Thalassaran Lineage)** — 90% human appearance, subtle glow of sapphire blue around the pupils, faint shimmer under her skin when she laughs.
+* **Class & Level:** **Rogue (Arcane Trickster)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** Spy, illusion artist, courier for noble courts
+* **Rank / Position:** **Field Agent of the Azure Spire**
+* **Organization:** **Thalassaran Diplomatic Shadow Net**
+* **Symbol:** Two mirrored daggers forming a crescent
+* **Title:** *The Sapphire Trickster*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Vietnamese**, youthful charm, bright eyes, face like someone always one idea away from mischief.
+
+**Eyes:** sapphire blue with faint silver rings.
+**Skin:** light ivory with faint sea-glow on collarbones.
+
+**Hair (randomized):** **Short feminine**, **style:** chin-length bob with layered bangs, **texture:** silky straight, **color:** jet-black with blue shimmer.
+**Height:** 158 cm
+**Weight:** 49 kg
+**Body Type:** **Slim and agile**, soft curves with a runner’s tone.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 86 – 63 – 90
+VALIDATION: • W/B = 0.732 → OK   • H/W = 1.42 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Blue gem choker**, **silver ear cuffs**, **bracelet of miniature chimes**, and **small data-band** on wrist used for coded illusions.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *C + F* (**cropped vest + asymmetrical skirt slit**)
+
+Rina’s thief outfit balances mobility and flair — a **midnight-blue cropped jacket** with open collar, **fitted sleeveless undershirt**, and **asymmetrical short skirt** split high over leggings.
+A **belt with throwing knives** wraps diagonally across her waist.
+Her boots reach just below the knees, trimmed with silver runic thread.
+
+**Color Palette:** deep blue / black / silver / teal glow
+**Accents:** modern rogue fashion, elegant but cheeky
+
+**Loadout:** twin daggers (*Glimmer & Whisper*), shortbow, thief’s tools.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 14 (+2)** **WIS 11 (+0)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** Stealth +8, Acrobatics +6, Sleight of Hand +6, Investigation +4, Deception +4, Insight +2
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Rogue (Arcane Trickster) 3:**
+
+* **Sneak Attack (2d6)**
+* **Cunning Action (Bonus Dash, Disengage, Hide)**
+* **Mage Hand Legerdemain**
+* **Spellcasting (INT DC 12, +4 atk)**
+
+  * **Cantrips:** *Mage Hand, Minor Illusion*
+  * **1st (3 slots):** *Disguise Self, Sleep, Silent Image*
+
+**Attacks:**
+
+* **Dagger (Glimmer):** +6 to hit, 1d4+4 piercing (+2d6 Sneak Attack)
+* **Shortbow:** +6 to hit, 1d6+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Scout / Debuffer / Control Rogue**
+* **Tactics:** Begins with *Silent Image* or *Disguise Self* to deceive, then uses high-ground or invisibility angles.
+* **Signature Opener:** “Mirror me,” she whispers — *Illusion clone rush*, striking as both vanish in shimmer.
+* **Finisher:** twin stab and vanish — enemies fall before realizing she moved.
+
+**Damage Flavor:** faint sapphire light trails behind her blades like streaks of water.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Quick-tongued, curious, mischief-lover.
+* **Ideal:** Freedom — “No lock stays shut forever.”
+* **Bond:** Protects her mentor in Azure Spire who once saved her from execution.
+* **Flaw:** Lies for fun; hard to tell when she’s sincere.
+* **Quirk:** Bites her lip when nervous, pretends it’s confidence.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — The Twin Courts, Azure Canals, Illusion Market**
+* **Threat Gradient:** **Wavering → Echo Zone (political resonance)**
+* **Encounter Framing:** **Heist**, **Diplomatic infiltration**, **Rescue from nobles**
+
+---
+
+## 📜 Background & Lifestyle
+
+An ex-street thief trained by illusionists to be a court courier.
+She thrives in chaos — half artist, half spy.
+Always one prank away from being caught, but too clever to regret it.
+
+* **Lifestyle:** playful and messy; her quarters are chaos with charm.
+* **Income:** paid per mission; doubles as illusion performer.
+* **Relationships:** admires Lyra Thalassara; flirts shamelessly with Kaia Fenril.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes truth is flexible — survival and laughter matter more than rules.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being forgotten — hates silence.
+* **Weaknesses:** Overconfidence, curiosity gets her caught.
+* **Strengths:** Deception, agility, spelltrick improvisation.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — flirty but earnest; eager to impress, easy to embarrass.**
+
+> “I can pick any lock — except, uh, the one in your chest.”
+> When teased, she hides face behind hood and mutters excuses.
+> “W-wait, I didn’t mean it like that! Maybe I did— shut up!”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** She hides a stolen Echo gemstone capable of creating perfect visual doubles — it’s alive and learning from her.
+* **Hooks:**
+
+  1. **The Sapphire Shadow:** Help Rina recover her doppelgänger gone rogue.
+  2. **The Mirror Job:** Join her on a palace infiltration that blurs illusion and truth.
+  3. **Song of Two:** Her reflection begins speaking when she sleeps.
+
+## Tags: #Female #RookieType #HalfElf #Rogue3 #ArcaneTrickster #Thalassara #CR1 #Spy #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rina blushes fast but strikes back twice as fast — teasing becomes her shield.
+
+> “You’re blushing too! So… truce?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** twin daggers (*Glimmer & Whisper*), shortbow
+  * **Armor:** leather armor
+  * **Tools:** thieves’ tools, disguise kit
+  * **Consumables:** smoke pellets ×3, illusion ink ×1
+  * **Misc:** chime bracelet, coded band
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Twin Courts / Azure Spire**
+* **Threat Gradient:** **Wavering → Echo Zone (political)**
+* **Encounter Type:** **Heist mission**, **Ritual theft**, **Spy chase**
+* **Affiliation:** **Thalassaran Shadow Net**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Vietnamese female half-elf rogue arcane trickster 158cm short black blue hair sapphire eyes, cropped jacket asymmetrical skirt, mischievous smile, twin daggers, blue glow magic, city night background

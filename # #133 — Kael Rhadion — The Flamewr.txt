@@ -1,0 +1,195 @@
+# #133 — **Kael Rhadion** — *The Flamewright Apprentice of Skarnov*
+
+> “A forge doesn’t ask for perfection — only that you keep burning.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 133
+* **Gender (weighted random):** **Male (Type: เคะ)** — gentle-featured, soft-voiced, shy but unexpectedly resilient under pressure.
+* **Age:** 22
+* **Race:** **Human (Skarnov Lineage)** — warm bronze skin, faint ember freckles across shoulders, eyes that catch light like sparks.
+* **Class & Level:** **Artificer (Battle Smith)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Apprentice forgemaster, arcanotech engineer
+* **Rank / Position:** **Forge Apprentice under Cassian Veldt**
+* **Organization:** **Skarnov Arcana Consortium**
+* **Symbol:** A half-forged gear encircled by fire lines
+* **Title:** *The Flamewright Apprentice*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Western**, soft yet handsome, giving the impression of a young scholar who wandered into battle by accident.
+
+**Eyes:** copper-amber, bright and warm.
+**Skin:** bronze with soft glow, light scars from sparks.
+
+**Hair (randomized):** **Short**, **style:** slightly messy undercut with bangs, **texture:** fine and slightly wavy, **color:** reddish brown with golden undertones.
+**Height:** 170 cm
+**Weight:** 58 kg
+**Body Build:** **Lean athletic**, wiry muscle tone, graceful but unassuming stance.
+
+**Jewelry & Accessories (randomized):**
+**Brass earring stud**, **chained gear pendant**, **leather wrist guard**, **toolbelt with engraved runes**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active): 🛡 Practical forge attire**
+
+Kael wears a **fitted sleeveless undershirt**, soot-marked **forge apron**, and **reinforced trousers** with tool pockets.
+The apron is etched with silver runes that shimmer when he channels energy, while **fingerless gloves** protect his hands from flame bursts.
+His attire balances utility with an unintentional charm — soot streaks and all.
+
+**Color Palette:** bronze / copper / gray / black
+**Accents:** warm, earthy, workman aesthetic
+
+**Loadout:** arcane wrench (*Heatline*), short sword, mechanical drone companion (*Cinder*).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **25 HP**
+* **AC:** **17** (chain shirt + shield + defensive field)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 16 (+3)** **WIS 10 (+0)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Arcana +5, Investigation +5, Perception +2, Smith’s Tools +4
+* **Languages:** Common, Dwarvish, Ignan, Skarnov Cant
+
+**Artificer (Battle Smith) 3:**
+
+* **Infuse Item**, **Steel Defender (Cinder)**, **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mending, Fire Bolt*
+  * *1st (4 slots):* *Cure Wounds, Faerie Fire, Shield of Faith*
+  * *2nd (2 slots):* *Heat Metal, Arcane Lock*
+
+**Attacks:**
+
+* **Arcane Wrench (Heatline):** +5 to hit, 1d8+3 bludgeoning +1d6 fire (infused)
+* **Steel Defender (Cinder):** Bite +4 to hit, 1d8+2 force
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Defender / Mechanic**
+* **Tactics:** Keeps *Cinder* between allies and foes, uses *Heat Metal* on weapons, repairs mid-fight with *Mending.*
+* **Signature Opener:** flicks his wrench, sending a pulse of heat that coats his allies’ weapons.
+* **Finisher:** activates his forge core, igniting *Cinder* into overdrive mode.
+
+**Damage Flavor:** metallic sparks shaped like tiny sigils scatter with every impact.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Polite, earnest, quietly passionate.
+* **Ideal:** Craft — “Creation is the only way to argue with destruction.”
+* **Bond:** Admires his mentor Cassian; determined to prove worthy.
+* **Flaw:** Tends to apologize for things not his fault.
+* **Quirk:** Talks to his Steel Defender as if it were a pet cat.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Forge Courts, Ember Foundries, Brass Labs**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Framing:** **Workshop defense**, **Repair mission**, **Arcane testing**
+
+---
+
+## 📜 Background & Lifestyle
+
+Kael grew up among Skarnov’s lower furnaces, fascinated by the machinery that powered its cities.
+His ability to “hear” resonance through metal earned him a place under Cassian’s mentorship.
+
+* **Lifestyle:** lives in a loft above the forge, soot everywhere.
+* **Income:** stipend from Consortium, sells enchanted tools.
+* **Relationships:** mentor-student bond with Cassian Veldt, friendship with Aria Sunveil (who heals his burns).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes creation redeems mistakes — “Even ruin can be reforged.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Letting his creations hurt someone.
+* **Weaknesses:** Too trusting; freezes under moral conflict.
+* **Strengths:** Genius-level focus, resilience, empathy.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — shy, easily flustered, tries to stay professional but blushes when praised.**
+
+> “I—I just fixed it, really… it’s nothing special.”
+> If someone compliments him again, his fingers tighten around the wrench.
+> “You’ll make me drop it if you keep saying that…”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His Steel Defender’s core was made using a shard of a Severance Echo.
+* **Hooks:**
+
+  1. **The Core’s Whisper:** *Cinder* begins talking in dreams.
+  2. **Heat of Memory:** Kael’s old forge collapses — the Echo calls his name.
+  3. **The Ember Debt:** Cassian’s old rival seeks Kael for the secret of flame resonance.
+
+## Tags: #Male #UkeType #Human #Artificer3 #BattleSmith #Skarnov #CR1 #Engineer #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kael’s reactions are half shy, half sincere — stammers through compliments but listens attentively.
+
+> “You really think I’m good at this? …Thanks. That means more than you know.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** arcane wrench, short sword
+  * **Armor:** chain shirt, shield
+  * **Tools:** smith’s tools, tinkerer’s kit
+  * **Consumables:** repair gel ×1, spark vial ×2
+  * **Misc:** brass pendant, sketchbook
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 18) *or* **Resilient (CON)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Forge Courts / Ember Foundries**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Type:** **Defensive battle**, **Experiment gone wrong**, **Echo breach**
+* **Affiliation:** **Skarnov Arcana Consortium**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Western male human artificer battle smith 170cm short reddish brown hair amber eyes lean build, sleeveless forge attire apron, glowing runes, holding wrench and small mechanical drone, warm smile, industrial forge background

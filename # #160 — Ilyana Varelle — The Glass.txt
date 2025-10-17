@@ -1,0 +1,209 @@
+# #160 — **Ilyana Varelle** — *The Glassward Savant of Valeronnes*
+
+> “Preparation looks like paranoia—right up until it looks like survival.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 160
+* **Gender (weighted random):** **Female (Type: รุ่นเพื่อน + Nerd Theme / Rich-kid scholar)** — เนิร์ดฉลาดจัด พูดสุภาพ ตรงประเด็น ขี้เขินนิด ๆ เวลาโดนชมเรื่องรูปลักษณ์
+* **Age:** 22
+* **Race:** **Human (Valeronnes Lineage)** — มนุษย์เต็มสายเลือด ผิวเนียน โหนกแก้มบาง มีประกายแก้วจาง ๆ ในดวงตาเวลาเสกคาถา
+* **Class & Level:** **Wizard (Abjuration)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** นักเวทป้องกัน, นักวิจัยเวทกระจก, ผู้คุ้มกันพิธีกรรม
+* **Rank / Position:** **Junior Glassward**
+* **Organization:** **Valeronnes Academy — Ward & Aegis Circle**
+* **Symbol:** วงแหวนป้องกันล้อมปริซึมแก้ว
+* **Title:** *The Glassward Savant*
+
+> **Nerd Theme active → ใส่แว่นเสมอ**
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese**, pristine “honor student” elegance with a quietly disarming smile.
+
+**Eyes:** pale gray with prism motes when concentrating.
+**Skin:** porcelain fair with a cool undertone.
+
+**Hair (Feminine Hair Randomizer v2.7):** **Long**, **sub-style:** **Straight / Loose** (top-weighted), **texture:** sleek and glossy, **color:** **black-ink with cool blue sheen**; precise center part, ends cut razor-straight.
+**Height:** 167 cm
+**Weight:** 55 kg
+**Body Type:** **Fit but lightly toned**, graceful posture; fencing-trained wrists.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium-Large
+THREE_SIZES (B-W-H, cm): 92 – 65 – 98
+VALIDATION: • W/B = 0.707 → OK   • H/W = 1.51 → OK
+```
+
+**Jewelry & Accessories (Nerd rule: glasses forced):**
+**Silver half-moon spectacles** with rune anti-glare, **slim prism pendant**, **delicate chain bracelet**, and a **thin anklet** set with a tiny ward-chime.
+
+---
+
+## 👗 Outfit (in English)
+
+**Outfit Archetype:** **Elegant / Noblewear (scholar)** — modest with tailored lines.
+
+Ilyana wears a **dove-gray scholar coat** with glass-thread piping over a **white high-collar blouse** and a **black fitted vest**.
+A **knee-length pleated skirt** splits subtly at the sides for movement, paired with **matte tights** and **polished low-heeled boots**.
+Her **ward-binder belt** carries crystal slivers and sealing chalk; a **compact buckler-scroll** rests at her back.
+
+**Color Palette:** dove gray / white / black / faint ice-blue glow
+**Accents:** clean lines, reserved luxury, laboratory-ready poise
+
+**Loadout:** ward focuses (glass slivers), compact buckler-scroll (Abjuration focus), rapier (academy practice).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **18 HP**
+* **AC:** **15** (*Mage Armor* + DEX)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, Investigation +5, History +5, Insight +3, Perception +3
+* **Languages:** Common, Elvish, Draconic, Valeronnes Cant
+
+**Wizard (School of Abjuration) 3:**
+
+* **Arcane Ward** (HP buffer = 2×level + INT mod = **9**, recharges with Abjuration casts)
+* **Projected Ward** (redirect damage to ward, reaction)
+* **Arcane Recovery**
+* **Spell Save DC 13**, **Spell Attack +5**
+* **Spellbook:**
+
+  * *Cantrips:* *Mage Hand, Frostbite, Prestidigitation, Minor Illusion*
+  * *1st:* *Mage Armor, Shield, Protection from Evil and Good, Absorb Elements, Detect Magic, Identify*
+  * *2nd:* *Misty Step, Mirror Image, Warding Wind*
+
+**Attacks:**
+
+* **Rapier (practice):** +4 to hit, 1d8+2 piercing
+* **Frostbite:** CON save DC 13, 1d6 cold & disadvantage on next weapon attack
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Protector / Control Support**
+* **Tactics:** Pre-buffs with *Mage Armor* to fuel **Arcane Ward**, uses *Shield* and *Absorb Elements* to keep it up; **Warding Wind** to disrupt arrows and sound.
+* **Signature Opener:** traces a glass rune in the air—light tessellates into a floating pane before the team.
+* **Finisher:** **Projected Ward** to intercept lethal damage, then **Misty Step** to reset line and stabilize allies.
+
+**Damage Flavor:** defenses manifest as thin, humming panes of translucent glass that crack and reseal with cold blue light.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Meticulous, softly spoken, razor-smart; blushes when complimented about fashion.
+* **Ideal:** Responsibility — “Power is most beautiful when nobody notices it working.”
+* **Bond:** Protects junior scribes and ward apprentices.
+* **Flaw:** Overplans; hesitates to improvise.
+* **Quirk:** Taps her spectacles twice when calculating ward thresholds.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Glass Lecture Courts, Prism Archives, Ward Chambers**
+* **Threat Gradient:** **Stable → Wavering (light/ward resonance)**
+* **Encounter Framing:** **Ritual shielding**, **VIP escort through Echo flare**, **Runic breach containment**
+
+---
+
+## 📜 Background & Lifestyle
+
+Heir to a minor glassworking house, she turned family craft into barrier science.
+Her thesis on “resonant panes” caught the Ward Circle’s eye.
+
+* **Lifestyle:** tidy apartment over a conservatory; tea tins labeled by mood.
+* **Income:** academy stipend + family grant.
+* **Relationships:** professional admiration for Seraphine Dhalis; academic banter with Alen Viremont; secretly tailors Rei Dalcourt’s glove seams for better grip.
+
+---
+
+## 🧩 Morals & Ethics
+
+Protection is an art: if done well, it feels like grace rather than control.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing to intercept a blow meant for someone else.
+* **Weaknesses:** Physical frailty; rigid plans.
+* **Strengths:** Layered defenses, fast reactions, encyclopedic ward lore.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน + Nerd tone — สุภาพ ตรงใจความ แต่ทำให้เขินด้วยความตั้งใจจริง**
+
+> “Stand a little closer—your aura leaks on the left. There… better.”
+> เธอยิ้มบาง ๆ ดันแว่นกลับขึ้นสันจมูก
+> “I’ll keep you covered. Please try not to test the limits of my math.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her family’s “glass” is partly crystallized Echo—stable only under lullaby frequencies.
+* **Hooks:**
+
+  1. **Shattered Thesis:** A rival sabotages her pane arrays during a public ward demo.
+  2. **Silent Pane:** One pane stops humming—revealing a hidden Whisper glyph.
+  3. **Aegis Heist:** Thieves target her portable ward core to sell to Severance cells.
+
+## Tags: #Female #FriendType #Human #Wizard3 #Abjuration #Valeronnes #CR1 #NerdTheme #Protector #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ilyana **makes others blush without meaning to** — precise closeness, soft commands, tidy touch on sleeves.
+
+> “Hold still. If you move, the pane recalibrates… there. Perfect.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier (practice), dagger
+  * **Armor:** none (*Mage Armor*)
+  * **Tools:** ward chalks, crystal slivers, abacus-lens
+  * **Consumables:** 1× potion of healing, 1× scroll *Shield*, 1× ward patch
+  * **Misc:** half-moon spectacles, prism pendant, lecture pass
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Ward Chambers / Prism Archives**
+* **Threat Gradient:** **Stable → Wavering (light/ward resonance)**
+* **Encounter Type:** **Ritual shielding**, **Escort during Echo flare**, **Runic breach containment**
+* **Affiliation:** **Ward & Aegis Circle**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese female human wizard abjuration 167cm long straight black hair blue sheen, silver half-moon glasses, dove-gray scholar coat, white blouse black vest, glass rune shields, calm focused eyes, prism-lit academy background

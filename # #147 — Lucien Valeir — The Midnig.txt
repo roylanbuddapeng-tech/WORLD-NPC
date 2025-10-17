@@ -1,0 +1,195 @@
+# #147 — **Lucien Valeir** — *The Midnight Alchemist of Valeronnes*
+
+> “Perfection isn’t found in light—it’s born from the things we try to hide.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 147
+* **Gender (weighted random):** **Male (Type: เมะ)** — calculating charm, smooth confidence; prefers teasing intellect over emotion, though he hides an oddly protective nature beneath the arrogance.
+* **Age:** 26
+* **Race:** **Half-Elf (Valeronnes Lineage)** — ~85% human; slightly elongated ears, faint metallic veins under eyes that shimmer gold when he channels alchemy.
+* **Class & Level:** **Artificer (Alchemist)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Alchemist–healer, potion merchant, night scholar
+* **Rank / Position:** **Master of the Nocturne Crucible**
+* **Organization:** **Valeronnes Arcana Guild**
+* **Symbol:** A gold droplet inside a half-moon crucible
+* **Title:** *The Midnight Alchemist*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Chinese**, elegant yet slightly roguish—equal parts scholar and charmer.
+
+**Eyes:** gold-brown with faint vertical shimmer like liquid metal.
+**Skin:** fair porcelain, faint chemical stains on fingertips, faint scar under jawline.
+
+**Hair (Hair Randomizer v2.0):** **Medium**, **style:** **messy low ponytail with side bangs**, **texture:** wavy, **color:** **black with gold undertones catching the light.**
+**Height:** 177 cm
+**Weight:** 68 kg
+**Body Build:** **Lean athletic**, graceful rather than bulky.
+
+**Jewelry & Accessories (randomized):**
+**Thin gold-rim glasses**, **amber pendant vial**, **alchemical ring with rotating sigil**, **black leather gloves with etched runes.**
+
+---
+
+## 👗 Outfit (in English)
+
+Lucien’s attire blurs the line between a craftsman and a noble.
+He wears a **dark navy long coat** with gilded seams and wide sleeves rolled to the elbow, over a **white high-collar shirt** left slightly open at the throat.
+A **black waist belt** holds potion vials, reagents, and a small dagger.
+His **trousers are slim charcoal** with **polished boots**, and a **half-cape** drapes over his left shoulder, marked by the crest of Valeronnes.
+
+**Color Palette:** navy / gold / white / black
+**Accents:** scholarly refinement mixed with quiet sensuality
+
+**Loadout:** *Alchemist’s Satchel*, *vial bandolier*, *dagger*, *elixir flask.*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **25 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Arcana +5, Investigation +5, Medicine +3, Insight +3, Persuasion +4
+* **Languages:** Common, Elvish, Draconic
+
+**Artificer (Alchemist) 3:**
+
+* **Infuse Item (2)**, **Alchemist’s Supplies proficiency**
+* **Experimental Elixir (2/long rest)**
+* **Spells (INT DC 13, +5 atk):**
+
+  * *Cantrips:* *Mending, Ray of Frost, Guidance*
+  * *1st–2nd:* *Cure Wounds, Faerie Fire, Enhance Ability, Web*
+
+**Attacks:**
+
+* **Dagger:** +4 to hit, 1d4+2 piercing
+* **Ray of Frost:** +5 to hit, 2d8 cold
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Controller / Debuffer**
+* **Tactics:** Uses *Web* or alchemical grenades to pin enemies, then buffs allies with *Enhance Ability* or *Experimental Elixirs*.
+* **Signature Opener:** flicks a vial across the floor — gas ignites in shimmering light.
+* **Finisher:** crushes a golden flask mid-air; explosion of light that blinds and heals.
+
+**Damage Flavor:** his concoctions burst like molten gold and moonlight mingling.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Flirtatiously intellectual, composed, sardonic humor.
+* **Ideal:** Creation — “Nothing is more divine than improving what already exists.”
+* **Bond:** His laboratory assistant (missing in the Severance breach).
+* **Flaw:** Detached under stress; analyzes emotions like experiments.
+* **Quirk:** Always twirls his pen when thinking—never drops it.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Moonlight District, Nocturne Crucible, Golden Alley**
+* **Threat Gradient:** **Stable → Wavering (alchemy resonance)**
+* **Encounter Framing:** **Lab infiltration**, **Potion theft**, **Alchemical explosion response**
+
+---
+
+## 📜 Background & Lifestyle
+
+He’s a prodigy once accused of “emotion in excess”—his potions react to his mood.
+Now runs the Nocturne Crucible, crafting serums for adventurers who can afford risk.
+
+* **Lifestyle:** lives above his lab; rarely sleeps.
+* **Income:** potion trade, noble commissions.
+* **Relationships:** subtle rivalry with Mira D’Laen; old connection with Seraphine Dhalis (former classmate).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes in improving people—physically, mentally, spiritually—sometimes without asking first.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing emotional control and triggering a chain explosion.
+* **Weaknesses:** Perfectionist obsession.
+* **Strengths:** Strategic mind, creativity, emotional intelligence (when he chooses to use it).
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — teasing dominance with a calm undertone.**
+
+> “You shouldn’t touch that flask unless you want to glow for the next twelve hours.”
+> He smiles faintly, brushing his gloved thumb under your chin.
+> “But… maybe that wouldn’t be such a bad look on you.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a “philosopher’s heart” — an alchemical organ prototype sustaining his life.
+* **Hooks:**
+
+  1. **The Gold Within:** His philosopher’s heart begins producing unstable elixirs.
+  2. **The Vanished Assistant:** The missing apprentice reappears—transmuted.
+  3. **Night of Shattered Glass:** His lab becomes ground zero for a Severance incursion.
+
+## Tags: #Male #SemeType #HalfElf #Artificer3 #Alchemist #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Lucien enjoys **provoking reactions** — low voice, half-smirk, subtle proximity.
+
+> “Relax. I’m only testing your pulse. …And maybe your composure.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** dagger
+  * **Armor:** studded leather
+  * **Tools:** alchemist’s supplies, calligrapher’s tools
+  * **Consumables:** 2 experimental elixirs, 3 potions of healing, 1 flashbomb
+  * **Misc:** notebook, gold-rim glasses, broken sigil key
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **Keen Mind**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Moonlight District / Nocturne Crucible**
+* **Threat Gradient:** **Stable → Wavering (alchemy resonance)**
+* **Encounter Type:** **Lab rescue**, **Potion sabotage**, **Runaway experiment**
+* **Affiliation:** **Valeronnes Arcana Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Chinese male half-elf artificer alchemist 177cm medium black hair gold undertones low ponytail, golden eyes, navy long coat white shirt open collar, gold-rim glasses, confident smirk, potion vials glowing gold, moonlit lab background

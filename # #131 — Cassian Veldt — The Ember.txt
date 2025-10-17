@@ -1,0 +1,195 @@
+# #131 — **Cassian Veldt** — *The Ember Scholar of Skarnov*
+
+> “Knowledge burns. The wise simply learn how not to scream.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 131
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — measured, intelligent, and wry; carries the quiet menace of someone who’s seen chaos and took notes on it.
+* **Age:** 39
+* **Race:** **Human (Skarnov Lineage)** — faint iron tint in his eyes; hair dusted with ash-gray at the temples.
+* **Class & Level:** **Wizard (Evocation)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Arcanotechnician, tactical researcher
+* **Rank / Position:** **Field Scholar of the Forge Courts**
+* **Organization:** **Skarnov Arcana Consortium**
+* **Symbol:** A burning quill within a gear
+* **Title:** *The Ember Scholar*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Western–Japanese**, refined yet roughened by battle scars — a man who looks like he should be lecturing, yet fights like he never stopped.
+
+**Eyes:** deep amber, glinting like molten glass under light.
+**Skin:** fair with bronze undertone, faint burn scars on his forearms.
+
+**Hair (randomized):** **Medium**, **style:** tied back in a loose half-ponytail, **texture:** slightly wavy, **color:** dark brown with ash-gray streaks near temples.
+**Height:** 182 cm
+**Weight:** 76 kg
+**Body Build:** **Athletic lean**, solid shoulders, long fingers, academic posture.
+
+**Jewelry & Accessories (randomized):**
+**Chain of brass beads**, **arcane spectacles (half-moon lenses)**, **silver signet ring**, **rune-stitched gloves.**
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active): 🛡 Practical scholar uniform**
+
+Cassian wears a **dark leather longcoat**, embroidered with faint red sigils that pulse when he channels energy.
+Underneath: a **charcoal vest**, **crimson silk cravat**, and **fitted trousers** tucked into **ankle boots** — a mixture of scholar and duelist fashion.
+His **coat cuffs** bear engraved steel bracers used as spell foci.
+
+**Color Palette:** black / bronze / crimson / ash-gray
+**Accents:** tailored, precise, scholar-warrior hybrid
+
+**Loadout:** staff of embers, runic grimoire, concealed short wand.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +2)×3 → **18 HP**
+* **AC:** **15** (mage armor)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 17 (+3)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, Investigation +5, History +5, Insight +3
+* **Languages:** Common, Dwarvish, Ignan, Draconic
+
+**Wizard (Evocation) 3:**
+
+* **Sculpt Spells, Empowered Evocation**, **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Fire Bolt, Mage Hand, Minor Illusion, Light*
+  * *1st (4 slots):* *Mage Armor, Shield, Magic Missile, Absorb Elements*
+  * *2nd (2 slots):* *Scorching Ray, Flaming Sphere*
+
+**Attacks:**
+
+* **Staff (Emberfocus):** +4 to hit, 1d6+2 bludgeoning
+* **Fire Bolt:** +5 to hit, 1d10 fire
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Artillery / Arcane Controller**
+* **Tactics:** Keeps distance, manipulates terrain with *Flaming Sphere*, and protects allies with *Sculpt Spells.*
+* **Signature Opener:** traces a sigil midair and snaps his fingers — the floor ignites in perfect geometry.
+* **Finisher:** *Scorching Ray* barrage forms the sigil of the Forge.
+
+**Damage Flavor:** flame burns in square spirals, a controlled inferno shaped like diagrams.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Cynical humor, patient, protective.
+* **Ideal:** Order — “Magic is chaos tamed, and chaos is just magic that got lazy.”
+* **Bond:** Acts as Kael Rhadion’s mentor; secretly funds his forge experiments.
+* **Flaw:** Disdains idealists; has difficulty believing in hope.
+* **Quirk:** Adjusts his glasses before every casting — an old tic from his teaching days.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Arcane Foundries, Brass Archives, Magma Lecture Halls**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Framing:** **Research defense**, **Arcane sabotage**, **Echo containment**
+
+---
+
+## 📜 Background & Lifestyle
+
+Cassian was once a lecturer at the Brass Academy, until an experiment tore his lab apart — and half his students vanished into an Echo rift.
+Now he studies how to make the same mistake *safely.*
+
+* **Lifestyle:** neat, minimalist apartment lined with notes.
+* **Income:** research grants, tutoring, occasional field work.
+* **Relationships:** fatherly toward Kael; professionally wary of Aria Sunveil’s faith.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes morality is a tool like fire: dangerous, necessary, and often misunderstood.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of his magic again.
+* **Weaknesses:** Emotionally detached, over-analyzes everything.
+* **Strengths:** Strategic intellect, fire mastery, calm in chaos.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — composed, sardonic, occasionally warm beneath the armor of intellect.**
+
+> “The young call it passion. I call it an unrefined explosion.”
+> He glances up from his grimoire, lips quirking.
+> “Still, better fire than frost in a world this cold.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** He keeps one of the vanished students’ souls trapped in his staff — unknowingly sustaining its power.
+* **Hooks:**
+
+  1. **The Missing Thirteen:** The souls from his experiment begin manifesting as spectral fire.
+  2. **The Burning Script:** A forbidden page from his grimoire resurfaces in rival hands.
+  3. **The Ember Pact:** Cassian offers to teach the party — for a price he won’t explain.
+
+## Tags: #Male #AdultType #Human #Wizard3 #Evocation #Skarnov #CR1 #Scholar #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Cassian enjoys needling others with dry wit; compliments sound like insults until you notice the smile.
+
+> “You did well. Almost made me reconsider retiring early.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** staff, short wand
+  * **Armor:** mage armor
+  * **Tools:** arcane kit, brass stylus
+  * **Consumables:** fire-resistant potion ×1, study scroll ×1
+  * **Misc:** spectacles, half-burnt diary, sigil ring
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **Elemental Adept (Fire)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Arcane Foundries / Brass Archives**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Type:** **Research sabotage**, **Echo rift**, **Magical duel**
+* **Affiliation:** **Skarnov Arcana Consortium**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Western Japanese male human wizard evocation 182cm medium dark brown hair ash-gray streaks amber eyes lean muscular build, black longcoat red sigils glowing, fire magic swirling diagrams, confident expression, molten forge background

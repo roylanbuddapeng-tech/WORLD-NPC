@@ -1,0 +1,203 @@
+# #157 — **Sumiya Kairen** — *The Ripple Whisperer of Thalassara*
+
+> “Water remembers what words forget.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 157
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — ร่าเริง ช่างพูด มีไฟในการพิสูจน์ตัวเอง ชอบมองรุ่นพี่เป็นแรงบันดาลใจ
+* **Age:** 19
+* **Race:** **Half-Beast (Aquatic – Dolphin hybrid)** — 85% human; ผิวเรียบลื่นเล็กน้อย มีลายประกายสีฟ้าขาวใต้แสง น้ำเสียงหวานใสเหมือนคลื่นตีกันเบา ๆ
+* **Class & Level:** **Monk (Way of Mercy)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** นักต่อสู้เชิงเวท, ผู้ช่วยรักษา, นักผจญภัยฝึกหัด
+* **Rank / Position:** **Junior Wave Disciple**
+* **Organization:** **Thalassara Temple of Flow**
+* **Symbol:** คลื่นสามชั้นล้อมรอบวงกลมแสง
+* **Title:** *The Ripple Whisperer*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Japanese**, bright and lively — like sunlight dancing over the water.
+
+**Eyes:** deep aqua-blue with a hint of pearl ring.
+**Skin:** lightly tan, smooth like river-stone under moonlight.
+
+**Hair (Hair Randomizer v2.7):** **Medium length**, **sub-style:** **Twin Bun** (popular variant), **texture:** silky wavy, **color:** **sea-silver with pastel blue strands**.
+**Height:** 162 cm
+**Weight:** 53 kg
+**Body Type:** **Fit slender**, flexible core and swimmer’s shoulders.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 64 – 92
+VALIDATION: • W/B = 0.727 → OK   • H/W = 1.44 → OK
+```
+
+**Jewelry & Accessories (30% glasses rule; result: no glasses):**
+Blue-shell earrings, braided silver bracelet, charm anklet with tiny wave charms, small pendant of smooth white pearl.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Revealing (cropped upper wrap, midriff shown)*
+
+Sumiya wears a **teal monk wrap-top**, cropped just above the midriff with soft white trimming.
+Her **sash skirt-split** flows at the sides for movement, with **tide-pattern shorts** underneath.
+She keeps her **hands wrapped in white cloth**, faintly glowing with restorative sigils.
+
+**Color Palette:** teal / white / pastel blue / silver
+**Accents:** water-born, youthful energy, flow over force
+
+**Loadout:** open-palm style bracers, healing salts, short staff (flow conduit).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **16** (Unarmored Defense: 10 + DEX + WIS)
+* **Speed:** 40 ft; **Swim Speed:** 40 ft
+* **STR 11 (+0)** **DEX 17 (+3)** **CON 12 (+1)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, DEX +5
+* **Skills:** Acrobatics +5, Medicine +4, Insight +4, Athletics +2, Performance +4
+* **Languages:** Common, Elvish, Aquan
+
+**Monk (Way of Mercy) 3:**
+
+* **Hand of Healing / Hand of Harm**
+* **Deflect Missiles, Step of the Wind, Flurry of Blows**
+* **Ki Points:** 3
+* **Unarmed Strike:** 1d6 + 3
+* **Tools:** Herbalism Kit
+
+**Attacks:**
+
+* **Unarmed Strike:** +5 to hit, 1d6+3 bludgeoning (plus Mercy feature)
+* **Short Staff:** +5 to hit, 1d8+3 bludgeoning (versatile)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support Striker / Healer Monk**
+* **Tactics:** Moves swiftly to patch up allies mid-battle, then re-engages with open-palm strikes.
+* **Signature Opener:** spins staff → leaps off wall → double kick → lands healing touch on ally.
+* **Finisher:** **Hand of Harm** at pulse points — leaves glowing ripples in mid-air.
+
+**Damage Flavor:** waves of blue light pulse from each strike like underwater rings.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Playful, quick to laugh, loyal to seniors.
+* **Ideal:** Harmony — “Healing and striking are the same rhythm.”
+* **Bond:** Looks up to her temple’s head monk, wishes to prove worthy of the title “Flow Sister.”
+* **Flaw:** Rushes in to help without thinking.
+* **Quirk:** Tilts her head like listening to unseen waves when she’s thinking.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Water Gardens, Tide Steps, Moon Canal edges**
+* **Threat Gradient:** **Stable → Wavering (resonant tides)**
+* **Encounter Framing:** **Rescue under floodlight**, **Temple spar**, **Canal riot control**
+
+---
+
+## 📜 Background & Lifestyle
+
+Grew up near the temple ponds, where she learned to fight while carrying healing bowls.
+Trained under the “Flow Doctrine,” a martial art merging first aid and acrobatics.
+
+* **Lifestyle:** dorm apprentice quarters near the canal.
+* **Income:** stipends + healing donations.
+* **Relationships:** adores Lyra Thalassara as a role model; friendly rivalry with Calen Meroth.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes in balance — to harm without hate, to heal without pride.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Seeing someone drown — literal or emotional.
+* **Weaknesses:** Too trusting; falls for emotional manipulation easily.
+* **Strengths:** Agility, optimism, healing through chaos.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — cheerful teasing, admiration, blushes easily.**
+
+> “S-Senpai! You’re bleeding again! …Ah— not that I was staring or anything!”
+> She huffs, fidgeting with her braid.
+> “Let me patch that up! …And maybe you could, um, teach me that move later?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her “healing waves” sometimes absorb memories from those she treats.
+* **Hooks:**
+
+  1. **Memory in the Water:** A vision she saw while healing hints at a hidden Echo cult beneath the canals.
+  2. **The Flow Trial:** Compete in the temple’s rite to gain the title “Flow Sister.”
+  3. **Resonant Tide:** Her Ki attunes to a rising lunar phenomenon — if unchecked, it could flood minds.
+
+## Tags: #Female #JuniorType #HalfBeast #Dolphin #Monk3 #WayOfMercy #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Sumiya likes **making others flustered accidentally** — bright smiles, quick compliments, close proximity.
+
+> “You’re really amazing, you know that? I just— uh, forgot to breathe for a sec!”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** short staff, bracers
+  * **Armor:** none (Unarmored Defense)
+  * **Tools:** herbalism kit
+  * **Consumables:** healing salts ×2, tea leaves ×1
+  * **Misc:** charm anklet, shell earrings, pearl pendant
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 19) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Tide Steps / Moon Canal edges**
+* **Threat Gradient:** **Stable → Wavering (resonant tides)**
+* **Encounter Type:** **Rescue under floodlight**, **Temple spar**, **Riot control**
+* **Affiliation:** **Temple of Flow**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Japanese female half-beast dolphin monk way of mercy 162cm medium twin bun wavy sea-silver hair pastel blue streaks, teal wrap-top cropped midriff, blue eyes, lively smile, water canal background

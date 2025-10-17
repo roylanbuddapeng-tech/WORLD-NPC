@@ -1,0 +1,200 @@
+# #110 — **Miyu Hanari** — *Petal Fang of the Blossoming Vale*
+
+> “Grace and strength are the same thing — one just smells sweeter.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 110
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — cheerful, excitable, tends to talk quickly when nervous; full of admiration for her seniors.
+* **Age:** 19
+* **Race:** **Half-Beast (Tiger Lineage)** — 85% human, soft white stripes across her sides and forearms, feline golden eyes, faintly pointed canines.
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Apprentice warrior, courier, martial pupil under Selene Vaurelle’s tutelage
+* **Rank / Position:** **Junior Swordswoman of the Thalassaran Vanguard**
+* **Organization:** **Lunar Vanguard (Apprentice Division)**
+* **Symbol:** A blooming lotus surrounded by a silver crescent
+* **Title:** *Petal Fang*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Vietnamese**, youthful, athletic, with lively expression and feline confidence; cute with a wild streak.
+
+**Eyes:** golden-amber, slit pupils like a big cat’s; brighten in sunlight.
+**Skin:** light beige with faint peach blush; a few tiger stripes faint under the skin.
+
+**Hair (randomized):** **Medium**, **style:** tied in a messy ponytail with two side bangs, **texture:** straight but thick, **color:** honey-brown with white streaks.
+**Height:** 163 cm
+**Weight:** 54 kg
+**Body Type:** **Fit and toned**, light definition on abs and thighs; flexible like an acrobat.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium-Large
+THREE_SIZES (B-W-H, cm): 92 – 66 – 95
+VALIDATION: • W/B = 0.717 → OK   • H/W = 1.44 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Tiger fang earring (right side only)**, **leather choker with rune bead**, **armguard ribbons** embroidered with silver thread.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *C + E* (**cropped combat vest + short split skirt armor**)
+
+Miyu’s outfit is energetic and stylish — a **white cropped combat vest** with light silver plating over shoulders and ribs, paired with a **dark teal split skirt** for freedom of movement, short enough to show her toned legs wrapped in tight bandages.
+Her boots are mid-calf with claw-like metal guards; her weapon belt crosses diagonally under her chest.
+
+**Color Palette:** white / teal / silver / black
+**Accents:** cute yet fierce — like a young huntress trying to prove herself
+
+**Loadout:** longsword (*Whisperfang*), dagger, shortbow.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **17** (studded leather + DEX)
+* **Speed:** 35 ft
+* **STR 14 (+2)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Acrobatics +6, Athletics +4, Perception +3, Survival +3, Performance +3
+* **Languages:** Common, Elvish
+
+**Fighter (Battle Master) 3:**
+
+* **Superiority Dice (d8) ×4**
+* **Maneuvers:** Riposte, Precision Attack, Trip Attack
+* **Second Wind, Action Surge**
+
+**Attacks:**
+
+* **Longsword (Whisperfang):** +6 to hit, 1d8+4 slashing
+* **Dagger:** +6 to hit, 1d4+4 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Duelist / Agile Fighter / Support Striker**
+* **Tactics:** Uses mobility to outmaneuver enemies; prefers feints and counterstrikes.
+* **Signature Opener:** runs low, sword whirling — a blur of white and teal.
+* **Finisher:** *Trip Attack + Riposte* combo, followed by feline grin.
+
+**Damage Flavor:** every strike leaves glowing trails like white tiger claws in the air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Energetic, competitive, hero-worships her mentors.
+* **Ideal:** Self-improvement — “If I stop, the world stops with me!”
+* **Bond:** Her training sword — her late mother’s weapon, reforged.
+* **Flaw:** Impulsive; acts before thinking.
+* **Quirk:** Makes “claw” motions when excited.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Vanguard Barracks, Moon Amphitheater training courts**
+* **Threat Gradient:** **Stable → Wavering (training resonance)**
+* **Encounter Framing:** **Training spar**, **Escort patrol**, **Defensive skirmish**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a wandering performer and a temple guard, Miyu’s bloodline mixed art and combat.
+She grew up idolizing the Lunar Vanguard — now one of their youngest trainees.
+
+* **Lifestyle:** upbeat, always eating or training; sleeps curled up like a cat.
+* **Income:** soldier’s stipend, extra from exhibition duels.
+* **Relationships:** adores Selene Vaurelle (“sensei!”); rivals Rina Velvane in sparring.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes strength is joy — fighting isn’t about killing, but expression and pride.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being forgotten or underestimated.
+* **Weaknesses:** Impulsivity, easily provoked.
+* **Strengths:** Quick reflexes, optimism, high adaptability.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — excitable, tries to impress, easily flustered when praised.**
+
+> “W-wait, you saw that strike? I wasn’t showing off! …Okay, maybe a little.”
+> She blushes quickly, hides behind her sword, tail flicking in embarrassment.
+> “I’ll train harder! Next time, you’ll *really* notice me!”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her stripes shimmer only during moonrise — linked to a dormant Echo blessing.
+* **Hooks:**
+
+  1. **Tiger’s Reflection:** Miyu’s shadow starts moving independently during combat.
+  2. **The Lost Blade Dance:** Retrieve the choreography her mother once performed in Thalassara’s Moon Festivals.
+  3. **Apprentice’s Pride:** Miyu challenges a player to a “friendly” duel that draws real Echo attention.
+
+## Tags: #Female #RookieType #HalfBeast #TigerLineage #Fighter3 #BattleMaster #Thalassara #CR1 #Apprentice #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Miyu reacts with **adorable bravado** — she play-punches, then apologizes immediately.
+
+> “Ow— you’re tougher than I thought! …Wait, did I just admit that out loud?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** longsword (*Whisperfang*), dagger
+  * **Armor:** studded leather
+  * **Tools:** whetstone, ribbon wraps
+  * **Consumables:** stamina jerky ×2, moonflower balm ×1
+  * **Misc:** tiger fang charm, training token
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Vanguard Barracks / Moon Amphitheater**
+* **Threat Gradient:** **Stable → Wavering (training resonance)**
+* **Encounter Type:** **Duel**, **Escort mission**, **Echo outbreak drill**
+* **Affiliation:** **Lunar Vanguard**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Vietnamese female half-beast tiger fighter 163cm medium honey brown white hair, golden eyes, cropped combat vest, teal split skirt, athletic fit body, white stripes, confident smile, training courtyard moonlight

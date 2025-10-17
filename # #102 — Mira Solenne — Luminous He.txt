@@ -1,0 +1,203 @@
+# #102 — **Mira Solenne** — *Luminous Healer of the Dawnward Chapel*
+
+> “Every scar is a sunrise waiting for its light.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 102
+* **Gender (weighted random):** **Female (Type: รุ่นเพื่อน)** — approachable, expressive, emotionally intuitive; blends warmth with playfulness, the type who laughs easily and worries quietly.
+* **Age:** 25
+* **Race:** **Human (Valeronnes Lineage)** — nearly human, faint golden aura outlines her silhouette in bright light; eyes reflect like morning dew.
+* **Class & Level:** **Cleric (Life Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Traveling healer, temple envoy, field medic
+* **Rank / Position:** **Chaplain of the Dawnward Chapel**
+* **Organization:** **Valeronnes Radiant Ministry**
+* **Symbol:** A sun rising through crystal glass
+* **Title:** *The Luminous Healer*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Korean**, bright, soft-featured beauty with disarming sincerity; eyes hold that warm “you’ll be fine” glow.
+
+**Eyes:** soft hazel with gold flecks that shift under sunlight.
+**Skin:** porcelain fair with faint pink warmth.
+
+**Hair (randomized):** **Medium**, **style:** side-swept waves ending near shoulders, **texture:** silky smooth, **color:** champagne blonde with faint rose undertone.
+**Height:** 165 cm
+**Weight:** 54 kg
+**Body Type:** **Curvy but modest**, gentle hourglass; toned arms from carrying medical kits.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 95 – 69 – 98
+VALIDATION: • W/B = 0.726 → OK   • H/W = 1.42 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Sunray pendant**, **small hoop earrings**, **bracelet of prayer beads**, and **thin silver headband** holding stray hair from her face.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *A + D* (**Cleric robes + low neckline tunic**)
+
+Mira wears **soft white-and-gold vestments**, fitted more than typical clerical robes; the outer cloak is sleeveless for field work.
+A **low V-neck linen tunic** rests beneath, secured with a golden sash around her waist.
+When treating the wounded, she rolls her sleeves and ties the cloak around her hips — practical yet disarmingly elegant.
+
+**Color Palette:** ivory / gold / blush / pearl gray
+**Accents:** gentle warmth, sunlight elegance
+
+**Loadout:** radiant staff (*Solenne’s Grace*), healing satchel, crystal holy symbol.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (chain shirt + shield)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 12 (+1)** **CON 14 (+2)** **INT 11 (+0)** **WIS 17 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Medicine +5, Insight +5, Persuasion +4, Religion +2, Performance +4
+* **Languages:** Common, Celestial, Valeronian
+
+**Cleric (Life Domain) 3:**
+
+* **Channel Divinity (Preserve Life)**
+* **Disciple of Life**
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * **Cantrips:** *Guidance, Sacred Flame, Spare the Dying*
+  * **1st (4 slots):** *Cure Wounds, Bless, Shield of Faith*
+  * **2nd (2 slots):** *Prayer of Healing, Lesser Restoration*
+
+**Attacks:**
+
+* **Solenne’s Grace (Mace):** +4 to hit, 1d6+1 bludgeoning (radiant pulse +1d4 vs undead)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Healer / Support / Light Beacon**
+* **Tactics:** Opens with *Bless*, positions near allies; uses *Preserve Life* and *Lesser Restoration* to stabilize mid-battle.
+* **Signature Opener:** Radiant light bursts from her staff, forming a halo over wounded allies.
+* **Finisher:** Channels divine radiance through *Sacred Flame* — burns cleanly, never cruelly.
+
+**Damage Flavor:** radiant motes rise like dawn dust, faint hymns hum in air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Compassionate, brave in crisis, flirty when relaxed.
+* **Ideal:** Mercy — “Kindness isn’t weakness; it’s courage with a smile.”
+* **Bond:** Her younger brother, lost during a Severance plague.
+* **Flaw:** Overextends herself to save others.
+* **Quirk:** Talks to patients as if they’re old friends, even strangers.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Crystal Chapels, Echo Refuge Clinics, Sunstreet Markets**
+* **Threat Gradient:** **Stable → Wavering (healing wards resonance)**
+* **Encounter Framing:** **Plague relief**, **Escort mission**, **Ritual restoration**
+
+---
+
+## 📜 Background & Lifestyle
+
+Formerly a noble’s daughter, Mira left her estate after the Severance outbreak claimed her village. She travels with adventurers as a field healer, offering both prayer and morale.
+
+* **Lifestyle:** simple, altruistic; prefers sleeping under stars.
+* **Income:** donations, temple stipend, healing commissions.
+* **Relationships:** close friendship with Kaia Fenril; playful tension with Raveen Tal’ithra.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes every life saved carries divine meaning — but fears divine will might sometimes demand loss for balance.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Failing to save someone again.
+* **Weaknesses:** Over-trusting, emotionally open.
+* **Strengths:** Unshakable empathy, radiant magic potency, resilience.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — warm, teasing, casual affection, builds comfort naturally.**
+
+> “You keep getting hurt so I can heal you, don’t you?”
+> Mira touches lightly when speaking — hand on arm, brush of sleeve — grounding through intimacy.
+> “You’re safe. As long as I’m breathing, you’re safe.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** She hides symptoms of a dormant Severance strain that sometimes glows faintly beneath her skin.
+* **Hooks:**
+
+  1. **The Dormant Light:** Help Mira suppress the mutation before it awakens.
+  2. **Sunless Dawn:** An Echo cult targets her for the divine spark within.
+  3. **Golden Reflection:** A mysterious twin appears in the temple — claiming to be her.
+
+## Tags: #Female #FriendType #Human #Cleric3 #LifeDomain #Valeronnes #CR1 #Healer #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mira **comforts by proximity** — sits close, listens intently, teases to ease fear.
+
+> “You can lean on me. I don’t break that easy.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** Solenne’s Grace staff
+  * **Armor:** chain shirt, shield
+  * **Tools:** healer’s kit, herbal poultice
+  * **Consumables:** restorative salves ×3, prayer candles ×2
+  * **Misc:** sun pendant, silver headband
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 19) *or* **Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Dawnward Chapels / Echo Clinics**
+* **Threat Gradient:** **Stable → Wavering (divine resonance)**
+* **Encounter Type:** **Healing mission**, **Escort under siege**, **Cleansing ritual**
+* **Affiliation:** **Valeronnes Radiant Ministry**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Korean female human cleric healer 165cm medium champagne blonde wavy hair, hazel gold eyes, white gold vestments low neckline tunic, warm smile, radiant staff glowing light, dawn chapel background

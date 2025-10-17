@@ -1,0 +1,195 @@
+# #105 — **Jin Korran** — *Bladed Wind of the Eastern Vale*
+
+> “If you can hear the wind, you’re already too slow.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 105
+* **Gender (weighted random):** **Male (Type: เคะ)** — gentle but spirited, refined and androgynously beautiful, confidence hidden behind politeness.
+* **Age:** 22
+* **Race:** **Half-Beast (Falcon Lineage)** — 85% human, faint feathers trace from jaw to neck, eyes like polished amber, subtle wing-like marks on back.
+* **Class & Level:** **Monk (Way of the Kensei)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Traveling duelist, messenger monk, martial courier
+* **Rank / Position:** **Windsworn Acolyte of the Azure Monastery**
+* **Organization:** **The Skyward Order**
+* **Symbol:** A stylized falcon talon entwined with wind glyph
+* **Title:** *The Bladed Wind*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese**, delicate beauty; sharp eyes yet soft smile, looks like a dancer more than a fighter.
+
+**Eyes:** golden-amber, pupils slightly narrow like a bird of prey.
+**Skin:** smooth porcelain with faint warm hue; sunlight glints faintly off downy texture near neck.
+
+**Hair (randomized):** **Medium**, **style:** messy half-up tail, loose front strands framing cheeks, **texture:** soft and slightly wavy, **color:** silver-white with pale blue reflections.
+**Height:** 170 cm
+**Weight:** 57 kg
+**Body Build:** **Lean athletic**, light muscle definition with narrow waist — balanced poise, graceful like a blade dancer.
+
+**Jewelry & Accessories (randomized):**
+**Feather earring on one side**, **rune-thread armband**, **silk waist cord** holding twin short blades.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Monastic duelist attire, minimal exposure*
+
+Jin wears **gray-blue martial wraps**, **asymmetric sleeveless top**, and **high-waist hakama pants** split for agile motion.
+A **short windcloak** with feather embroidery flares when he moves, catching faint air currents.
+Soft cloth shoes silence his steps; his twin kensei blades hang at both hips, balanced for aerial strikes.
+
+**Color Palette:** steel gray / sky blue / ivory / muted gold
+**Accents:** elegance through restraint — motion is his ornament
+
+**Loadout:** twin shortswords (*Zephyr & Gale*), dart satchel, wind prayer beads.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (DEX + WIS + Unarmored Defense)
+* **Speed:** 40 ft
+* **STR 11 (+0)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, DEX +6
+* **Skills:** Acrobatics +6, Perception +5, Stealth +6, Insight +5, Performance +3
+* **Languages:** Common, Auran
+
+**Monk (Way of the Kensei) 3:**
+
+* **Unarmored Movement +10 ft**
+* **Ki (3 points)** — *Flurry of Blows, Patient Defense, Step of the Wind*
+* **Kensei Weapons:** Shortsword, Dart
+* **Deflect Missiles, Monastic Tradition (Agile Parry)**
+* **Kensei Shot:** +1d4 ranged weapon dmg
+
+**Attacks:**
+
+* **Shortsword (Kensei):** +6 to hit, 1d6+4 slashing (+1d4 if Kensei Shot or +1d4 if Flurry unarmed follow-up)
+* **Unarmed Strike:** +6 to hit, 1d6+4 bludgeoning
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Agile Duelist / Mobile Striker / Skirmisher**
+* **Tactics:** Uses *Step of the Wind* to dash or disengage; punishes sluggish enemies with Flurry.
+* **Signature Opener:** leaps through wind currents — blades flicker like lightning.
+* **Finisher:** *Flurry + Stunning Strike* (flavor) — movement too fast to track, ends with stillness.
+
+**Damage Flavor:** light gusts follow his swings; dust swirls into falcon shapes before vanishing.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Polite, thoughtful, occasionally teasing in quiet ways.
+* **Ideal:** Freedom — “The wind serves no master.”
+* **Bond:** His monastery mentor, blind from a failed wind ritual.
+* **Flaw:** Overanalyzes emotions — hesitant in affection.
+* **Quirk:** Tilts his head like a falcon when curious.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Skyward Vale, Cliff Temples, Falcon Monastery**
+* **Threat Gradient:** **Stable → Wavering (aerial resonance)**
+* **Encounter Framing:** **Courier duel**, **Temple defense**, **Wind-ritual interruption**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised in cliffside monastery, Jin trained in aerial combat — messenger of gods and secrets.
+He wanders now as a courier between kingdoms, earning coin and karma.
+
+* **Lifestyle:** simple, reflective; meditates at dawn.
+* **Income:** courier contracts, tournament duels.
+* **Relationships:** friendly rivalry with Kaia Fenril; admired by Mira Solenne.
+
+---
+
+## 🧩 Morals & Ethics
+
+Seeks balance — believes even mercy can strike, and even violence can heal when guided by intention.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Falling — not physically, but morally.
+* **Weaknesses:** Hesitation, emotional repression.
+* **Strengths:** Speed, intuition, empathy.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — polite, flustered when complimented, tends to blush when teased.**
+
+> “Ah— please don’t look at me like that, I’ll lose focus…”
+> He deflects flirtation with grace but secretly enjoys the tension.
+> “You… move like a storm, but softer. That’s unfair.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His “wind spirits” are fragments of an ancient falcon deity whispering through him.
+* **Hooks:**
+
+  1. **Skyblade Duel:** Join Jin in protecting the monastery from sky raiders.
+  2. **Voice in the Wind:** Help him separate his soul from the lingering deity.
+  3. **Messenger’s Oath:** A forbidden message he carries could spark war.
+
+## Tags: #Male #KehType #HalfBeast #FalconLineage #Monk3 #Kensei #Thalassara #CR1 #Duelist #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+He prefers **gentle banter**, subtle touches — eye contact flusters him more than words.
+
+> “Don’t… stare too long. The wind’s not the only thing that trembles.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** twin shortswords (*Zephyr & Gale*), dart pouch
+  * **Armor:** unarmored (monk garb)
+  * **Tools:** calligrapher’s set, prayer beads
+  * **Consumables:** wind salve ×1, focus tea ×2
+  * **Misc:** feather charm, falcon talon token
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Skyward Vale / Falcon Monastery**
+* **Threat Gradient:** **Stable → Wavering (wind resonance)**
+* **Encounter Type:** **Courier mission**, **Temple duel**, **Ritual escort**
+* **Affiliation:** **Skyward Order**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese male half-beast falcon monk 170cm silver white hair amber eyes, medium messy half-up hairstyle, gray-blue martial robes, twin blades, feathers swirl wind aura, serene face, mountain temple background

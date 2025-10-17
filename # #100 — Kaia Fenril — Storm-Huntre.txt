@@ -1,0 +1,202 @@
+# #100 — **Kaia Fenril** — *Storm-Huntress of the Northern Shoals*
+
+> “The sea forgives no one, but it remembers those who dare dance with it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 100
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — confident, dependable, teasing with gentle dominance; projects both warmth and danger.
+* **Age:** 28
+* **Race:** **Half-Beast (Sea Lynx Lineage)** — 85% human, with faintly pointed feline ears, small tail tuft, and deep aqua eyes flecked with silver.
+* **Class & Level:** **Ranger (Beast Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Monster tracker, coastal huntress, ship’s scout
+* **Rank / Position:** **Tidewatch Captain of the Shoalguard**
+* **Organization:** **Northern Shoalwardens (Fenril Outpost)**
+* **Symbol:** A trident crossing over a claw mark
+* **Title:** *Storm-Huntress*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Nordic–Japanese hybrid**, sea-born beauty with hunter’s athletic grace.
+
+**Eyes:** teal-aqua with silver pupils that dilate vertically in dim light.
+**Skin:** pale with a faint ocean-blue undertone; lightly tanned on arms and legs.
+
+**Hair (randomized):** **Long**, **style:** loose braid draped over shoulder, **texture:** slightly wavy, **color:** storm-gray with faint turquoise highlights.
+**Height:** 177 cm
+**Weight:** 65 kg
+**Body Type:** **Athletic hourglass**, broad shoulders, firm abdomen, smooth movement like flowing tide.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 97 – 72 – 103
+VALIDATION: • W/B = 0.742 → OK   • H/W = 1.43 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Silver hoop earrings**, **seashell choker**, **rune-etched leather bracer**, **anklet of coral charms** that tinkle faintly when she walks.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *C + F* (**Combat leathers + exposed midriff / shoulders**)
+
+Kaia’s hunting gear blends seduction with function — a **tight navy leather crop-top armor** with reinforced shoulder guards, **ocean-green combat skirt** split for mobility, and **high-laced boots**.
+Her jacket sleeves are rolled to mid-arm, revealing pale runic tattoos glowing faintly when she channels magic.
+
+**Color Palette:** navy / turquoise / silver / coral white
+**Accents:** maritime elegance with primal confidence
+
+**Loadout:** twin tridents (*Stormfangs*), shortbow, hunting knife, water flask infused with static charge.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **16** (leather + DEX)
+* **Speed:** 35 ft, swim 20 ft
+* **STR 13 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, WIS +4
+* **Skills:** Perception +4, Survival +4, Nature +2, Athletics +3, Stealth +6
+* **Languages:** Common, Aquan, Elvish
+
+**Ranger (Beast Master) 3:**
+
+* **Fighting Style:** Two-Weapon Fighting
+* **Favored Enemy:** Aberrations (Severance-corrupted sea beasts)
+* **Natural Explorer:** Coast & oceanic ruins
+* **Companion Beast:** *Fen*, a spectral sea lynx (AC 13, HP 22, Bite +4, 1d8+2 dmg)
+* **Spells (WIS DC 12):** *Hunter’s Mark, Cure Wounds, Fog Cloud, Beast Bond*
+
+**Attacks:**
+
+* **Trident (Stormfangs):** +6 to hit, 1d8+4 piercing (melee or thrown 20/60 ft)
+* **Shortbow:** +6 to hit, 1d6+4 piercing
+* **Beast Attack (Fen):** +4 to hit, 1d8+2 slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Duelist / Field Controller / Beast Commander**
+* **Tactics:** Opens with *Hunter’s Mark*, commands *Fen* to flank while circling with tridents; uses *Fog Cloud* to isolate prey.
+* **Signature Opener:** leaps from mist — twin tridents spinning like lightning arcs.
+* **Finisher:** *Fen* pounces, she follows with dual impale through the spray.
+
+**Damage Flavor:** flashes of turquoise lightning crackle through the water around her strikes.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Playfully teasing, protective, confident with an easy laugh.
+* **Ideal:** Freedom — “No one commands the tide.”
+* **Bond:** Her crew, especially young recruits she trains.
+* **Flaw:** Overprotective to a fault; hides worry behind a grin.
+* **Quirk:** Clicks her tongue twice before battle — a signal to her beast companion.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara’s Northern Shoals — Sea Ridges, Stormwatch Ruins, Coral Outposts**
+* **Threat Gradient:** **Wavering → Echo Zone (tidal resonance)**
+* **Encounter Framing:** **Sea hunt**, **Monster pursuit**, **Storm rescue**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born in Thalassara’s floating quarter, Kaia grew up wrestling tidebeasts for sport. She left home after losing her ship to an Echo storm and vowed to protect sailors from similar fates.
+
+* **Lifestyle:** nomadic, sea-weathered; sleeps on deck hammocks.
+* **Income:** bounty hunts, salvage shares, mercenary scouting.
+* **Relationships:** Mentor to Ryn Kael’veris, rival-friend of Suna Velrien.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes every kill should honor the sea — waste nothing, respect the cycle of predator and prey.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being stranded without her beast; deep still water.
+* **Weaknesses:** Rushes into danger when someone’s hurt.
+* **Strengths:** Leadership, combat agility, adaptability at sea.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — flirty mentor energy, warm but dominant teasing.**
+
+> “You’re doing great. Just… try not to stare when I stretch, hm?”
+> She **teases openly**, enjoys making others blush; affectionate headpats are her signature comfort move.
+> “You mess up, I’ll scold you. But if you impress me? I might bite.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her sea lynx, *Fen*, was once human — bound by an Echo ritual gone wrong.
+* **Hooks:**
+
+  1. **Tideborn Hunt:** Join Kaia in slaying a Leviathan stirring near Thalassara.
+  2. **Echo Current:** Her bonded beast begins to remember its human past.
+  3. **Storm Pact:** Kaia’s body carries a dormant Echo rune from the night she drowned.
+
+## Tags: #Female #Senpai #HalfBeast #SeaLynx #Ranger3 #BeastMaster #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaia loves **making others flustered** — tilts head close, grins slyly, flicks a wet lock of hair at their face.
+
+> “You’re redder than the sunset. Relax — I tease everyone.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** twin tridents (*Stormfangs*), shortbow
+  * **Armor:** reinforced leather armor
+  * **Tools:** fishing kit, rope, hunter’s horn
+  * **Consumables:** storm elixir ×2, healing poultice ×1
+  * **Misc:** coral anklet, charm shell
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Dual Wielder**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara Northern Shoals / Coral Ruins / Stormwatch Coast**
+* **Threat Gradient:** **Wavering → Echo Zone (tidal flux)**
+* **Encounter Type:** **Monster hunt**, **Storm rescue**, **Salvage mission**
+* **Affiliation:** **Shoalguard Order**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Nordic Japanese female half-beast sea lynx ranger 177cm long storm-gray hair turquoise highlights, teal eyes, athletic hourglass body, navy crop leather armor midriff, dual tridents, sea spray storm background, confident teasing smile

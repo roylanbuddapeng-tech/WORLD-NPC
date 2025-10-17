@@ -1,0 +1,198 @@
+# #117 — **Talon Rhyss** — *The Silver Talon of Skarnov Forge*
+
+> “Every scar has a name. Every blade I make remembers one.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 117
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — rugged, stoic, with a voice like tempered steel; speaks only when words matter.
+* **Age:** 39
+* **Race:** **Half-Elf (Skarnov Lineage)** — 85% human appearance with faint metallic luster beneath the skin, slight pointed ears, and pale molten streaks in the iris.
+* **Class & Level:** **Artificer (Battle Smith)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Weaponsmith, combat engineer, and mercenary craftsman
+* **Rank / Position:** **Master Bladesmith of Skarnov Forgeworks**
+* **Organization:** **Guild of Iron Sigils**
+* **Symbol:** An anvil wreathed by flame and circuitry runes
+* **Title:** *The Silver Talon*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Nordic–Japanese**, handsome in a grounded, masculine way — the kind of man who smells faintly of oil and fire, not perfume.
+
+**Eyes:** pale silver with a dull molten glint around the pupils.
+**Skin:** lightly tanned with faint patches of forge burn scars.
+
+**Hair (randomized):** **Short**, **style:** rugged comb-back with streak of white at temple, **texture:** thick, slightly coarse, **color:** dark brown with silver streaks.
+**Height:** 182 cm
+**Weight:** 83 kg
+**Body Build:** **Broad muscular**, smith’s arms, strong back, slightly calloused hands.
+
+**Jewelry & Accessories (randomized):**
+**Metallic wristband toolset**, **rune-etched blacksmith apron**, **neck pendant of gear and flame**, **iron band on right ring finger (memory of wife)**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer (Male Exception Active):** 🛡 *Smithing battle gear*
+
+Talon wears **sleeveless forge leathers** reinforced with silver filigree across the chest, **heavy black gauntlets** with sigil conduits, and **smith’s apron split for movement**.
+His left arm bears **a mechanical vambrace**, glowing faintly with artificer runes — both weapon and crafting tool.
+
+**Color Palette:** charcoal / iron / bronze / ember red
+**Accents:** practical, rugged, with traces of refinement in craftsmanship
+
+**Loadout:** longsword (*Forge-Edge*), infused crossbow, steel defender (mechanical hawk “Korr”).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **18** (chain shirt + infusion)
+* **Speed:** 30 ft
+* **STR 15 (+2)** **DEX 14 (+2)** **CON 14 (+2)** **INT 16 (+3)** **WIS 11 (+0)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Investigation +5, Arcana +5, Perception +2, Smith’s Tools +6
+* **Languages:** Common, Elvish, Dwarvish
+
+**Artificer (Battle Smith) 3:**
+
+* **Infuse Item (2 active infusions)**
+
+  * Enhanced Weapon (+1 to hit/dmg)
+  * Enhanced Defense (+1 AC)
+* **Steel Defender (Korr):** AC 15, HP 17, +4 to hit (1d8+2 force)
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mending, Booming Blade*
+  * *1st (4 slots):* *Cure Wounds, Shield, Detect Magic, Absorb Elements*
+
+**Attacks:**
+
+* **Forge-Edge (Infused Longsword):** +6 to hit, 1d8+4 slashing
+* **Light Crossbow (Infused):** +5 to hit, 1d8+3 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Defender / Support Artificer / Tactical Commander**
+* **Tactics:** Fights alongside Steel Defender; uses infusions for allies.
+* **Signature Opener:** *Booming Blade* imbued strike, hammer echo following each swing.
+* **Finisher:** Commands Korr to strike, then follows with a molten overhand slash.
+
+**Damage Flavor:** each hit emits sparks and a faint harmonic ring like struck anvil.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Practical, patient, quietly humorous.
+* **Ideal:** Legacy — “A weapon remembers the soul of its maker.”
+* **Bond:** His mechanical hawk *Korr* — built using parts of his late wife’s prosthetic arm.
+* **Flaw:** Cannot refuse a challenge to his craft — pride of perfectionist.
+* **Quirk:** Talks to his tools as if they were old friends.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Forge Quarter, Broken Foundries, Echo Refinery**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Framing:** **Weapon commission**, **Siege repair**, **Echo construct battle**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born in the smoldering city of Skarnov, Talon grew up forging before he could read.
+After losing his wife to a forge accident caused by an Echo surge, he turned toward battlecraft — seeking control over chaos through engineering.
+
+* **Lifestyle:** ascetic but structured; keeps forge spotless.
+* **Income:** commissions for guild, artifact contracts, weapon restoration.
+* **Relationships:** mutual respect with Ren Kaizel; often forges gear for adventurers of Thal-Rune.
+
+---
+
+## 🧩 Morals & Ethics
+
+Values creation over destruction but accepts that steel must sometimes spill blood to protect what it builds.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control of Korr, or seeing his work twisted for evil.
+* **Weaknesses:** Emotionally guarded; guilt-laden perfectionism.
+* **Strengths:** Engineering genius, mental fortitude, battle resilience.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — calm, reserved charm with protective undertone.**
+
+> “You’re holding that blade wrong. …Relax. Here, let me show you.”
+> His hands guide gently but firmly; his warmth shows through silence more than words.
+> “People break. Steel breaks. What matters is whether you can remake them.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His Steel Defender *Korr* houses part of his wife’s soul — and whispers back at night.
+* **Hooks:**
+
+  1. **The Iron Heart:** Recover a missing core that keeps *Korr* stable.
+  2. **Molten Memory:** A new weapon prototype begins forging itself after dark.
+  3. **Echo Forged:** An artifact blade starts speaking in Talon’s dead wife’s voice.
+
+## Tags: #Male #MiddleAged #HalfElf #Artificer3 #BattleSmith #Skarnov #CR1 #Blacksmith #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Talon expresses affection by fixing things — armor, weapons, or people’s confidence.
+
+> “You’re stronger than you think. I just… tightened a few bolts.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** infused longsword, crossbow
+  * **Armor:** chain shirt
+  * **Tools:** smith’s tools, tinkerer’s kit
+  * **Consumables:** forge oil ×2, alchemical powder ×1
+  * **Misc:** pendant, iron ring, schematic scrolls
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 18) *or* **Resilient (CON)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Forge Quarter / Echo Refinery**
+* **Threat Gradient:** **Stable → Wavering (heat resonance)**
+* **Encounter Type:** **Artifact defense**, **Siege repair**, **Forge awakening**
+* **Affiliation:** **Guild of Iron Sigils**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Nordic Japanese male half-elf artificer battle smith 182cm short brown silver hair silver eyes, muscular blacksmith build, sleeveless forge armor, metal gauntlet, glowing runes, mechanical hawk companion, forge background, stoic calm expression

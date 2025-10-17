@@ -1,0 +1,203 @@
+# #124 — **Nimueh Caerwyn** — *The Silver Current of Thalassara*
+
+> “Still water sees everything. It simply chooses what to remember.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 124
+* **Gender (weighted random):** **Female (Type: รุ่นเพื่อน)** — balanced, witty, with natural charisma; confident without arrogance, the type who laughs first in danger.
+* **Age:** 24
+* **Race:** **Half-Beast (Aquatic lineage — dolphin hybrid)** — 85% human appearance with soft skin shimmer and a faint fin ridge along her spine visible under light.
+* **Class & Level:** **Sorcerer (Storm Sorcery)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Arcane courier, messenger between canal cities
+* **Rank / Position:** **Silver Current Operative**
+* **Organization:** **Thalassaran Tide Messengers Guild**
+* **Symbol:** A silver spiral over a wave crest
+* **Title:** *The Silver Current*
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–Greek**, luminous and youthful, her smile disarms as easily as her lightning does.
+
+**Eyes:** sea-blue with silver flecks that dance like light over water.
+**Skin:** soft ivory with faint opalescent sheen.
+
+**Hair (randomized):** **Medium**, **style:** wind-tossed layered waves, **texture:** silky, **color:** pale silver-blue.
+**Height:** 168 cm
+**Weight:** 56 kg
+**Body Type:** **Fit swimmer’s frame**, toned arms, curved hips, slender waist.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium-Large
+THREE_SIZES (B-W-H, cm): 91 – 68 – 98
+VALIDATION: • W/B = 0.747 → OK   • H/W = 1.44 → OK
+```
+
+**Jewelry & Accessories (randomized):**
+**Blue opal pendant**, **shell anklet**, **silver water-chime earrings**, **bracelet of tide runes**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *E* (**midriff-baring cropped outfit**)
+
+Nimueh wears a **blue-silver cropped top** of wave-pattern silk, trimmed with silver thread, paired with **short asymmetrical skirt** that reveals her toned legs.
+Her **bare midsection** gleams faintly when wet, runes shimmering with oceanic magic.
+A thin **capelet of translucent fabric** trails behind her like surf mist when she runs.
+
+**Color Palette:** silver / blue / white / aquamarine
+**Accents:** breezy, kinetic, playful
+
+**Loadout:** staff of stormglass, charm belt of water spheres, courier pouch.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **15** (mage armor)
+* **Speed:** 30 ft, **Swim 30 ft**
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, CHA +5
+* **Skills:** Acrobatics +4, Deception +5, Arcana +2, Persuasion +5, Insight +3
+* **Languages:** Common, Aquan, Elvish
+
+**Sorcerer (Storm Sorcery) 3:**
+
+* **Tempestuous Magic, Heart of the Storm, Font of Magic (3 SP)**
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Cantrips:* *Lightning Lure, Shape Water, Prestidigitation, Gust*
+  * *1st (4 slots):* *Mage Armor, Thunderwave, Chromatic Orb*
+  * *2nd (2 slots):* *Shatter, Misty Step*
+
+**Attacks:**
+
+* **Staff (Stormglass):** +4 to hit, 1d6+2 bludgeoning (+1d6 lightning once/turn)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Caster / Area Control**
+* **Tactics:** Strikes first with *Misty Step* repositioning, uses *Shatter* and *Thunderwave* in tight quarters.
+* **Signature Opener:** leaps midair as wind and spray surge around her.
+* **Finisher:** *Heart of the Storm* pulse creates glowing rings of lightning across the floor.
+
+**Damage Flavor:** electricity crackles like seafoam — beautiful but deadly.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Witty, outgoing, loyal, impulsive.
+* **Ideal:** Freedom — “No wave owes anyone its shape.”
+* **Bond:** Keeps a coral charm from her mother, a shipwrecked sea elf.
+* **Flaw:** Talks too fast, acts before thinking.
+* **Quirk:** Whistles short tunes when nervous; echoes match the rhythm of nearby tides.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Tide Canals, Water Markets, Messenger’s Wharf**
+* **Threat Gradient:** **Stable → Wavering (electrical resonance)**
+* **Encounter Framing:** **Storm delivery**, **Rescue mission**, **Echo outbreak at sea gate**
+
+---
+
+## 📜 Background & Lifestyle
+
+Half-born of land and sea, Nimueh was raised by the Tide Messengers — runners who deliver enchanted messages across Thalassaran waterways.
+Her speed and lightning gift earned her fame and envy in equal measure.
+
+* **Lifestyle:** adventurous, never stays in one port for long.
+* **Income:** courier commissions, occasional adventuring contracts.
+* **Relationships:** close friends with Miyu Hanari; frequent flirtations with Ren Kaizel.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes joy is a moral act — “If you can laugh, you’re still alive, and that’s enough.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Being trapped far from water.
+* **Weaknesses:** Restless, poor patience.
+* **Strengths:** Mobility, charisma, charm, control over lightning.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — flirty banter, friendly teasing, energetic presence.**
+
+> “You’ve got nice reflexes — for someone who doesn’t swim.”
+> She laughs, flicking a droplet of water your way.
+> “Keep up, or I’ll leave you floating.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** She’s part of an underground current network smuggling Echo-affected refugees.
+* **Hooks:**
+
+  1. **Run of the Storm:** Help Nimueh deliver a sealed message across a collapsing storm canal.
+  2. **Echo Tide:** Her lightning magic starts resonating uncontrollably with Thalassaran Echo currents.
+  3. **The Smuggler’s Coral:** A noble seeks her charm — and the secret inside it.
+
+## Tags: #Female #PeerType #HalfBeast #Aquatic #Sorcerer3 #StormSorcery #Thalassara #CR1 #Courier #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nimueh flirts playfully but naturally — laughter first, tension second.
+
+> “You blush slower than thunder travels. That’s cute.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** 900
+* **XP to Next Level:** 1,800
+* **Inventory Slots:**
+
+  * **Weapons:** staff
+  * **Armor:** mage armor
+  * **Tools:** messenger’s kit, water-sealed pouch
+  * **Consumables:** stamina elixir ×1, minor shock gem ×1
+  * **Misc:** coral charm, opal pendant
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 19) *or* **Elemental Adept (Lightning)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Tide Canals / Water Markets**
+* **Threat Gradient:** **Stable → Wavering (electrical resonance)**
+* **Encounter Type:** **Storm courier mission**, **Canal ambush**, **Echo wave outbreak**
+* **Affiliation:** **Tide Messengers Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese Greek female half-beast aquatic dolphin sorcerer storm magic 168cm medium silver-blue hair blue eyes, fit swimmer body, cropped silver-blue top, short asymmetrical skirt, water lightning aura, confident smile, canal city backdrop
