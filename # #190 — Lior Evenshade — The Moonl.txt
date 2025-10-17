@@ -1,0 +1,190 @@
+# #190 — **Lior Evenshade** — *The Moonlight Trickster of Thalassara*
+
+> “If the world wants truth, I’ll give it wrapped in a wink.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 190
+* **Gender:** **Male (Femboy)** — หนุ่มน้อยรูปร่างบอบบาง เสียงนุ่มจนแทบแยกไม่ออกว่าเป็นชาย
+* **Age:** 19
+* **Race:** **Half-Elf (Thalassaran Lineage)** — ผิวซีดใสเหมือนแสงจันทร์ ดวงตาสีม่วงอ่อนสะท้อนประกายดนตรี
+* **Class & Level:** **Rogue (Swashbuckler)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** Chaotic Good
+* **Profession:** นักเต้น / จอมโจรแห่งเวที
+* **Rank / Position:** **Moonlight Trickster**
+* **Organization:** **Thalassara Street Troupe “Echo Masque”**
+* **Symbol:** หน้ากากครึ่งดวงจันทร์
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** Japanese–Korean blend, delicate and androgynous beauty.
+
+**Eyes:** soft lavender with silver halo rings.
+**Skin:** porcelain-pale with a subtle luster.
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result → Twin bun (rare bias applied)*
+**Style:** **twin low buns with loose side bangs.**
+**Color:** **silvery blue gradient.**
+**Height:** 158 cm
+**Weight:** 49 kg
+**Body Build:** slender and graceful like a dancer; soft shoulders, flat chest, slim waist, delicate wrists.
+
+**Jewelry & Accessories (30% → 🎲 success):**
+He wears **thin moon-glass glasses**, a **chime ear-chain**, and a **small teardrop crystal necklace** that glows when he laughs.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 *Result → Stylized stage attire (mid exposure)*
+
+Lior’s attire is a blend of performance and combat gear:
+A **short silken blouse** with sheer sleeves, tied in front with ribbons, paired with **tight mid-thigh shorts** and a flowing half-skirt of translucent fabric.
+A **silver belt with dagger loops** wraps his waist, and his **boots** are lined with soft bells.
+
+**Color Palette:** moon silver / pale lavender / black silk / blue-white ribbons
+**Accents:** androgynous elegance, feminine motion, mischievous smile
+
+**Weapons:** dagger “Lunette”, ribbon-whip “Whisperline.”
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **15** (leather armor + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 10 (+0)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Acrobatics +6, Performance +5, Stealth +6, Persuasion +5, Sleight of Hand +6
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Rogue 3 (Swashbuckler):**
+
+* **Sneak Attack (2d6)**
+* **Fancy Footwork, Rakish Audacity (CHA to initiative)**
+* **Cunning Action** (Bonus Hide/Dash/Disengage)
+
+**Attacks:**
+
+* **Dagger (Lunette):** +6 to hit, 1d4+4 piercing (+2d6 Sneak)
+* **Ribbon Whip:** +6 to hit, 1d6+4 slashing (10 ft reach; flavor grapple check once per turn)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Mobile Striker / Distraction Scout
+* **Opener:** Dashes forward using Cunning Action → *Sneak Attack* from close range.
+* **Flow:** Uses mobility to harass casters and pull aggro away from allies.
+* **Finisher:** “Whisperline entwine” — whips around enemy weapon and plants dagger under their chin (flavor finisher).
+
+**Damage Flavor:** every strike twirls like a dance; silver threads sparkle mid-air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Playful, flirtatious, likes pushing boundaries.
+* **Ideal:** Expression — “Every smile is a weapon if you know how to use it.”
+* **Bond:** The Echo Masque troupe is his found family.
+* **Flaw:** Can’t resist mocking authority.
+* **Quirk:** Speaks with a soft sing-song tone, punctuates sentences with small giggles.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Mirror Stages, Canal Balconies, Echo Masque Tents**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **Heist in disguise**, **performance ambush**, **rescue during gala.**
+
+---
+
+## 📜 Background & Lifestyle
+
+Lior grew up as a stage hand before stealing the show with his dancing.
+He uses his feminine charm to get close to targets and his dagger to make sure they never forget him.
+
+* **Lifestyle:** lavish yet carefree; sleeps on rooftops or in theatre rafters.
+* **Income:** performances and “private retrieval jobs.”
+* **Relationships:** playful rival to Seline Ardyn; often calls Rinelle “big sister knight.”
+
+---
+
+## 🧩 Morals & Ethics
+
+He fights with wit over violence — believes a well-timed wink can disarm more men than a sword.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being seen as a fraud.
+* **Weaknesses:** underestimates serious foes.
+* **Strengths:** speed, charisma, social infiltration.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy tone — อ่อนหวาน ยั่วเย้า แต่ เจ้าเล่ห์ ชวน ให้ คนรอบ ตัว เสีย อาการ**
+
+> “You keep staring. Is it the eyes or the hips?”
+> *เขา กระซิบ เบา ๆ แล้ว โน้ม หน้า เข้า ใกล้ จนนิ้วมือ แตะ ปลาย คางอีกฝ่าย อย่าง เล่น ล้อ* “Careful, I steal more than hearts.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** He once stole a Severance fragment from a noble’s vault — and it’s still bonded to his blood.
+* **Hooks:**
+
+  1. **Dance of Glass:** The fragment starts whispering to him during full moon.
+  2. **Masque Heist:** The Echo Masque is accused of treason; Lior needs the party’s help to clear their name.
+  3. **Mirror Kiss:** His reflection begins acting on its own.
+
+## Tags: #Male #FemboyType #HalfElf #Rogue3 #Swashbuckler #Thalassara #CR1 #Performer #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Lior **ชอบทำให้คนเขินโดยใช้สายตาและเสียง** — แกล้งยั่ว พูดช้า และ ยิ้ม ตอน อีกฝ่ายพูดไม่ออก
+
+> “Why so red? I haven’t even touched you… yet.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** dagger (Lunette), ribbon whip
+  * **Armor:** leather stage gear
+  * **Tools:** thieves’ tools, disguise kit
+  * **Consumables:** perfume vial, healing potion ×1
+  * **Misc:** moon-glass glasses, chime ear-chain
+* **Level-Up Suggestions (to 4):** +2 DEX (to 20) or Feat **Actor**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Mirror Stage District / Canal Balconies**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **Theft at Gala**, **Disguise Infiltration**, **Rogue Performance Ambush**
+* **Affiliation:** **Echo Masque Troupe**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean male femboy half-elf rogue swashbuckler 158 cm silver blue twin buns lavender eyes slim dancer body feminine outfit short shorts sheer blouse ribbons mischievous smile moonlight stage

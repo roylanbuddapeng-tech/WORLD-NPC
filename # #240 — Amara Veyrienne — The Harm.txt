@@ -1,0 +1,208 @@
+# #240 — **Amara Veyrienne** — *The Harmonist of Luminous Grace*
+
+> “Healing isn’t kindness. It’s rhythm — one you must learn to dance with.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 240
+* **Gender:** **Female (Type: รุ่นพี่)** — สุภาพ เยือกเย็น มีเสน่ห์แบบพี่สาวที่ดูนุ่มนวลแต่เด็ดขาดเมื่อสั่งการ
+* **Age:** 29
+* **Race:** **Half-Beast (Avian subtype — Crane-blooded)** — ผิวขาวเนียน ดวงตาคล้ายมีแสงเรือง แผ่นหลังมีปีกขาวจางเล็ก ๆ คล้ายเครื่องประดับจากขนนกจริง
+* **Class & Level:** **Cleric (Life Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** field medic / ritual dancer / harmony priestess
+* **Organization:** **Order of the Dawn Thread — Veyrun Division**
+* **Symbol:** ขนนกขาวขดเป็นรูปวงรี มีแสงทองลอดจากภายใน
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–French**, graceful and poised, like a living prayer.
+
+**Eyes:** soft golden-amber with silver halo ring.
+**Skin:** pale porcelain with slight pink glow when healing light activates.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail (most frequent)**
+**Style:** **high ponytail**, sleek with soft-curved bangs framing her cheekbones; ribbon-wrapped base.
+**Color:** **platinum blonde** with **pale gold shimmer**.
+
+**Height:** 172 cm
+**Weight:** 59 kg
+**Body Type:** balanced tall hourglass; slender arms, elegant posture, dancer’s hips.
+
+**FEMALE BODY METRICS** *(Support / Healing MILF-like but younger)*
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 109 – 72 – 112
+VALIDATION: • W/B = 0.66 → OK   • H/W = 1.55 → OK
+```
+
+**Theme Layer:** **Nerd (30%) → automatically wears glasses.**
+**Glasses:** gold-rimmed reading lenses perched low when she writes prayers.
+**Jewelry & Accessories:** white pearl choker, sun-thread earrings, pale ribbon anklet, silver-thread bracelet etched with divine runes.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate-high — ethereal and subtly sensual
+
+Amara’s attire combines priestly dignity with dancer’s fluidity:
+a **sleeveless white tunic-dress** of soft silk, **open at the sides** to reveal her midsection when she moves.
+The top layer bears gold stitching of feathers and light rays; a **sheer shawl** drapes across her shoulders.
+Her **skirt slits high on one side**, revealing toned thighs beneath **silk leggings** for mobility.
+
+**Palette:** white / gold / ivory / soft amber
+**Accents:** radiant-thread embroidery, soft transparencies, motion-driven flow
+
+**Weapons & Gear:**
+
+* **Healer’s staff** with glass orb head (holy focus)
+* **Prayer beads**, **ritual ointments**, **scroll case** (medical protocols)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **17** (chain shirt 13 + DEX +2 + shield +2)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 11 (+0)** **WIS 17 (+3)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Insight +5, Medicine +7, Persuasion +4, Religion +2
+* **Languages:** Common, Celestial, Auran, Veyrun Dialect
+
+**Cleric 3 — Life Domain**
+
+* **Disciple of Life:** healing spells restore +2 + spell level HP.
+* **Channel Divinity — Preserve Life:** restore up to **15 HP** divided among allies within 30 ft (cannot heal above half HP).
+* **Domain Spells:** *Bless, Cure Wounds; Lesser Restoration, Spiritual Weapon.*
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Guidance, Light, Spare the Dying*
+  * *1st:* *Bless, Cure Wounds, Sanctuary*
+  * *2nd:* *Lesser Restoration, Prayer of Healing*
+
+**Attacks:**
+
+* **Healer’s Staff:** +2 to hit, 1d6+2 bludgeoning (focus channel for radiant touch).
+
+---
+
+## 🎯 Combat Tactics (Support / Sustain)
+
+* **Role:** **Primary Healer / Buffer / Morale Conductor**
+* **Opener:** *Bless* → step into front-midline, dancing movement between allies to keep aura range open.
+* **Flow:** rotate *Cure Wounds* and *Preserve Life*, using *Sanctuary* to guard fallen.
+* **Finisher:** *Prayer of Healing* when safe, *Spiritual Weapon* when she must anchor position.
+
+**Effect Flavor:** glowing feathers spiral from her hands, dissolving into gold dust that mends flesh and nerve.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm but teasing; perfectionist about rhythm and precision; gently scolds careless allies.
+* **Ideal:** Harmony — “Every heartbeat can be tuned to hope.”
+* **Bond:** her temple troupe; they call her *the Golden Step.*
+* **Flaw:** overworks to exhaustion; refuses to rest if anyone still bleeds.
+* **Quirk:** counts heartbeats instead of seconds when timing spells.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Veyrun — Dawn Thread Sanctum, Tidal Amphitheater, Floating Gardens**
+* **Threat Gradient:** **Stable → Wavering (festival nights)**
+* **Encounter Framing:** **festival ward healing**, **mass recovery**, **severed ritual reconnection**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a temple dancer chosen to channel divine rhythm, Amara discovered her healing was strongest when she moved with the pulse of life itself.
+Now she trains younger clerics to “heal with tempo,” turning pain into performance.
+
+* **Lifestyle:** clean quarters with practice mats, warm tea, and soft chime music.
+* **Income:** temple stipend, ceremonial contracts, donation shares.
+* **Relationships:** often coordinates with Catalina Nocturne (#238); mentor of novice Hina Sorelle (#216).
+
+---
+
+## 🧩 Morals & Ethics
+
+Every life has a rhythm worth syncing to — healing is just learning to listen.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** silence — losing her rhythm, her divine “music.”
+* **Weaknesses:** emotionally fragile when allies die mid-heal.
+* **Strengths:** unrivaled healing throughput, steady aura, graceful battlefield motion.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — พูดอ่อน ๆ แต่มีพลังอบอุ่นมาก**
+
+> “You’re trembling again… breathe. Step with me—yes, that’s it.”
+> เธอวางมือบนอกคุณ แล้วขยับช้า ๆ ให้จังหวะหัวใจเข้ากัน
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her “feathers” are the remnants of a divine familiar burned out protecting her; she hides the pain of hearing its song inside her head.
+* **Hooks:**
+
+  1. **The Dancer’s Heart:** her pulse syncs with an ancient relic; stopping the relic may stop her.
+  2. **Golden Steps:** a rival cult copies her healing dance but twists it into domination.
+  3. **Echo of the Familiar:** a voice hums her healing rhythm from beneath the garden’s lake.
+
+## Tags: #Female #SeniorType #HalfBeast #CraneBlooded #Cleric3 #LifeDomain #Support #Veyrun #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Amara **ชอบทำให้คนเขินด้วยการสัมผัสนิ้วมือและพาเต้นช้า ๆ เพื่อ “ปรับจังหวะชีพจร”**
+
+> “See? You’re steadier now. That’s all healing is.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** healer’s staff
+  * **Armor:** chain shirt, ceremonial shield
+  * **Tools:** prayer beads, ointments, ritual focus
+  * **Consumables:** potion of healing ×2, herb salve ×3
+  * **Misc:** gold-rimmed glasses, feather pendant, silk ribbons
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 19)** or **Feat: Healer / Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Veyrun / Dawn Thread Sanctum / Floating Gardens**
+* **Threat Gradient:** **Stable → Wavering (festival)**
+* **Encounter Type:** **mass healing**, **ritual defense**, **dance-ward restoration**
+* **Affiliation:** **Order of the Dawn Thread**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese French female half-beast crane cleric life domain 172cm high ponytail platinum-blonde hair gold shimmer amber eyes fair skin I-cup white gold sleeveless tunic open sides silk leggings ribbon accents gold-rim glasses gentle senior healer dancer priestess divine feathers

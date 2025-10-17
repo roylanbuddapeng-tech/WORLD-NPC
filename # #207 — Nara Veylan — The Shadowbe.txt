@@ -1,0 +1,204 @@
+# #207 — **Nara Veylan** — *The Shadowbell Tracker of Obsidian Veins*
+
+> “Some tracks fade with time. Others hide beneath the heartbeat of the ground.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 207
+* **Gender:** **Female (Type: Tomboy Type 2 — athletic, confident, slightly rough around the edges)**
+* **Age:** 25
+* **Race:** **Human**
+* **Class & Level:** **Ranger (Monster Slayer)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** monster hunter / scout-for-hire / caravan guardian
+* **Organization:** **Blackstone Wardens**
+* **Symbol:** a black wolf’s fang inside a crescent track
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Western–Korean hybrid**, with a sharp jawline softened by easy grins.
+
+**Eyes:** steel-gray with warm brown flecks; hunter’s eyes that rarely miss.
+**Skin:** lightly tanned, dusted with faint freckles from outdoor travel.
+
+**Hair (Feminine Hair Randomizer):** 🎲 *Result → Ponytail (highest weight)*
+**Style:** high ponytail with loose strands and side fringe tucked behind one ear.
+**Color:** **ash-brown fading into sunlit caramel ends.**
+
+**Height:** 172 cm
+**Weight:** 60 kg
+**Body Type:** toned and wiry, lean shoulders and long legs — agility over bulk.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: B   CATEGORY: Small
+THREE_SIZES (B-W-H, cm): 84 – 64 – 88
+VALIDATION: • W/B = 0.76 → OK   • H/W = 1.37 → OK
+```
+
+**Theme Layer:** **None (30%) → glasses roll 50% → failed (no glasses)**
+**Jewelry & Accessories:** small fang earring, wrist leather strap with tally marks, utility belt with silver charm hooks.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — functional, slightly adventurous
+
+Nara wears a **dark olive cropped jacket** over a **black sleeveless undershirt**, with **tight leather trousers** and **knee boots** strapped for movement.
+Her **forearms are wrapped with dark cloth bracers**, and a **gray scarf** drapes loosely, ready to cover her mouth in sandstorms.
+
+**Color Palette:** olive / black / brown / steel gray
+**Accents:** worn leather, silver buckles, hunter practicality
+
+**Weapons & Gear:**
+
+* Longbow “Hollow Fang” (+1)
+* Dual daggers (silver-edged)
+* Hunting kit, monster journal, snare tools
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **17** (studded leather + DEX)
+* **Speed:** 35 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 11 (+0)** **WIS 15 (+2)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Survival +4, Stealth +6, Nature +2, Perception +4, Investigation +2
+* **Languages:** Common, Beast Cant
+
+**Ranger (Monster Slayer) 3:**
+
+* **Hunter’s Sense**, **Slayer’s Prey** (+1d6 damage), **Primeval Awareness**
+* **Spellcasting (WIS DC 12, +4 atk)**
+
+  * *Cantrips:* —
+  * *Spells:* *Hunter’s Mark, Detect Magic, Protection from Evil and Good, Zephyr Strike*
+
+**Attacks:**
+
+* **Longbow “Hollow Fang”:** +6 to hit, 1d8+4 piercing (+1d6 Slayer’s Prey)
+* **Dual Daggers:** +6 to hit, 1d4+4 slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Scout**
+* **Opener:** *Hunter’s Mark* on target → two rapid arrow shots.
+* **Flow:** uses *Zephyr Strike* to reposition; keeps mobility high.
+* **Finisher:** executes with **Slayer’s Prey** and **dual dagger flurry** once enemy cornered.
+
+**Damage Flavor:** arrows leave faint silver streaks, humming with monster-ward energy.
+
+---
+
+## 💬 Personality
+
+* **Traits:** confident, pragmatic, hates wasted motion.
+* **Ideal:** Responsibility — “If you track it, you end it.”
+* **Bond:** her team of younger rangers who look up to her.
+* **Flaw:** hides guilt behind humor.
+* **Quirk:** clicks her tongue before drawing a bow — a subconscious timing tick.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Obsidian Veins — Shard Plains, Wind Tunnels, Echo Fissures**
+* **Threat Gradient:** **Wavering → Deep Echo zones**
+* **Encounter Framing:** **beast hunt**, **Echo-lurker trap**, **caravan ambush defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former courier from the northern frontier turned professional tracker.
+Her instincts for movement made her invaluable to the Wardens, though she still keeps her old courier medallion as a reminder of a lost friend.
+
+* **Lifestyle:** rough but tidy; sleeps with boots on.
+* **Income:** bounty contracts + hazard pay.
+* **Relationships:** drinking buddy with Kaori Namue (#203), trading partner with Mireya Solen (#202).
+
+---
+
+## 🧩 Morals & Ethics
+
+You fight monsters not for glory, but so others can sleep soundly.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being cornered underground or trapped without exit.
+* **Weaknesses:** acts tough but takes guilt deeply.
+* **Strengths:** accuracy, survival instincts, leadership under fire.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy tone — คุยตรงๆ เสียงทุ้มนุ่ม ชอบทำให้คนอื่นหน้าแดงโดยไม่ตั้งใจ**
+
+> “If you stare at my arms again, I’ll assume you want a spar.”
+> ยิ้มมุมปากพร้อมสะบัดหางตาเหมือนจะท้าทาย
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** she killed her first monster companion — it had turned Echo-corrupt.
+* **Hooks:**
+
+  1. **The Hollow Fang’s Whistle:** her bow hums at night when an Echo beast nears.
+  2. **Lost Trail:** a fellow warden vanished leaving claw marks shaped like human hands.
+  3. **The Black Contract:** her bounty target turns out to be her old mentor.
+
+## Tags: #Female #TomboyType2 #Human #Ranger3 #MonsterSlayer #ObsidianVeins #CR1 #Striker #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nara **ชอบแหย่คนอื่นด้วยการแกล้งเข้ามาใกล้แล้วหัวเราะเบาๆ**
+
+> “You’re blushing again. Don’t tell me I make you nervous?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longbow “Hollow Fang”, dual daggers
+  * **Armor:** studded leather
+  * **Tools:** hunting kit, monster journal
+  * **Consumables:** poison vials ×2, potion of healing ×1
+  * **Misc:** scarf, fang earring, Warden insignia
+* **Level-Up Suggestions (to 4):** +2 DEX (to 20) or Feat **Sharpshooter**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Obsidian Veins / Shard Plains**
+* **Threat Gradient:** **Wavering → Deep Echo zones**
+* **Encounter Type:** **beast hunt**, **severance track**, **Echo-lurker pursuit**
+* **Affiliation:** **Blackstone Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Western Korean female human ranger monster slayer 172cm ash brown ponytail gray eyes tan skin athletic body cropped olive jacket sleeveless black shirt leather trousers longbow twin daggers confident tomboy smirk desert canyon background

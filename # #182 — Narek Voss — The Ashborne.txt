@@ -1,0 +1,193 @@
+# #182 — **Narek Voss** — *The Ashborne Shadowblade of Skarnov*
+
+> “Silence isn’t empty—it’s the breath before the strike.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 182
+* **Gender (weighted random):** **Male (Type: เคะ)** — หน้าตาอ่อนหวานแต่ซ่อนสายตาคม เยือกเย็นแต่มีแรงดึงดูดเงียบ ๆ
+* **Age:** 22
+* **Race:** **Dark Elf (Skarnov Lineage)** — ผิวเทาอ่อน ดวงตาแดงเข้มสว่างในเงา
+* **Class & Level:** **Rogue (Assassin)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral**
+* **Profession:** นักฆ่ารับจ้าง / สายลับ
+* **Rank / Position:** **Ashborne Shadowblade**
+* **Organization:** **The Umbral Veil (Skarnov Guild)**
+* **Symbol:** เงาโลหิตคมปลายดาบ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese**, refined, androgynous, quietly dangerous beauty.
+
+**Eyes:** crimson, soft glow under dim light.
+**Skin:** pale gray, smooth as marble dusted in silver.
+
+**Hair (Masculine Hair Randomizer):** 🎲 *Result → Short, undercut with long front fringe*
+**Color:** **silver-white with black undertone roots.**
+**Height:** 172 cm
+**Weight:** 57 kg
+**Body Build:** **lean, dancer’s agility**, faint muscle lines at shoulders and abdomen.
+
+**Jewelry & Accessories (male glasses 30% → 🎲 fail):**
+**Black chain earring (left ear)**, **silver ring** on index finger, **thin wrist charm** of onyx beads.
+
+---
+
+## 👗 Outfit (in English)
+
+**Style Roll:** *Stealth assassin attire — partial exposure for mobility*
+
+Narek wears a **sleeveless dark leather vest** reinforced with gray-scale plates, leaving lean arms visible.
+A **hooded mantle** drapes asymmetrically over one shoulder; beneath, **tight combat trousers** tucked into **soft boots** designed for silent landing.
+A **crimson sash** ties his waist — both weapon belt and ritual marker.
+
+**Color Palette:** black / gray / crimson / shadow silver
+**Accents:** sleek, quiet lethality
+
+**Loadout:** twin short swords, throwing daggers, smoke pellets, garrote wire.
+
+---
+
+##⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 13 (+1)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Stealth +8, Acrobatics +6, Perception +3, Investigation +3, Deception +4
+* **Languages:** Common, Elvish, Undercommon
+
+**Rogue (Assassin) 3:**
+
+* **Sneak Attack (2d6)**
+* **Assassinate** (advantage vs. unacted targets, auto-crit on surprise)
+* **Cunning Action** (bonus dash/disengage/hide)
+
+**Attacks:**
+
+* **Shortsword:** +6 to hit, 1d6+4 piercing (+2d6 Sneak Attack).
+* **Throwing Dagger:** +6 to hit, 1d4+4 piercing (20/60 ft).
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Stealth Striker / Infiltrator**
+* **Opener:** *Stealth + surprise* → *Assassinate* with double dagger.
+* **Flow:** Disengages and hides using **Cunning Action**.
+* **Finisher:** Flank setup → Sneak Attack critical chain.
+
+**Damage Flavor:** Strikes leave thin, fading shadow trails; kills are soundless except for a faint metallic hum.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Quiet, observant, sharp-tongued when provoked.
+* **Ideal:** Precision — “Life’s too fragile for wasted motion.”
+* **Bond:** Protects his younger sister secretly working as a courier.
+* **Flaw:** Emotionally withdrawn, trusts no one fully.
+* **Quirk:** Snaps his fingers once before a strike, as if marking tempo.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Black Forges, Underpass Markets, Shadow Courts**
+* **Threat Gradient:** **Wavering → Deep Echo Zone**
+* **Encounter Framing:** **Silent assassination**, **espionage pursuit**, **traitor retrieval**
+
+---
+
+## 📜 Background & Lifestyle
+
+A survivor of Skarnov’s guild wars, Narek became known for killing without cruelty.
+He travels now as a mercenary scout for adventuring parties—where his skills serve light for once.
+
+* **Lifestyle:** minimalist, lives out of pack and coin pouch.
+* **Income:** assassination contracts, intel sales.
+* **Relationships:** wary ally of Rin Tavel, tolerates his antics quietly.
+
+---
+
+## 🧩 Morals & Ethics
+
+Narek believes morality is irrelevant in the dark—but personal promises are sacred.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control to his violent side.
+* **Weaknesses:** emotionally closed off, fragile sense of worth.
+* **Strengths:** perfect timing, patience, extreme stealth skill.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — เยือกเย็นแต่สายตาลึก พูดน้อยแต่คำชัดเจน มักหลบสายตาเวลามีคนชม**
+
+> “I’m not blushing. You’re just standing too close.”
+> เขาเบือนหน้าออก แล้วพูดเสียงเบาแต่คม
+> “Don’t mistake silence for submission.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Once served the Severance as a field agent — erased all records but one.
+* **Hooks:**
+
+  1. **Shadow Debt:** His past employer resurfaces, demanding one last kill.
+  2. **Echo Mirror:** A reflection of him appears, acting independently.
+  3. **Ashborn’s Oath:** The crimson sash begins glowing when he nears an Echo rift.
+
+## Tags: #Male #KehType #DarkElf #Rogue3 #Assassin #Skarnov #CR1 #Infiltrator #Shadow #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Narek **ไม่ชอบให้ใครแตะตัว** แต่ถ้ามีคนเข้าใกล้แล้วใจเต้น จะเผลอขยับหนีพร้อมกัดปากแน่น
+
+> “You shouldn’t… look at me like that. It’s distracting.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** twin shortswords, daggers ×4
+  * **Armor:** studded leather
+  * **Tools:** thieves’ tools, poisoner’s kit
+  * **Consumables:** smoke pellets ×2, potion of healing ×1
+  * **Misc:** crimson sash, black ring, onyx charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Shadow Courts / Underpass Markets**
+* **Threat Gradient:** **Wavering → Deep Echo Zone**
+* **Encounter Type:** **Silent strike**, **Spy pursuit**, **Echo assassination**
+* **Affiliation:** **Umbral Veil Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese male dark elf rogue assassin 172cm short undercut silver white hair black roots crimson eyes lean body sleeveless leather vest hooded mantle crimson sash twin daggers stealth pose shadow court background

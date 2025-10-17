@@ -1,0 +1,201 @@
+# #210 — **Satsuki Renwei** — *The Oracle of Broken Mirrors*
+
+> “Fate is a rumor. Evidence is my answer.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 210
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — คุยง่าย มีเหตุผล แซวเก่งนิด ๆ แต่รับฟังดีและพร้อมลุยไปด้วยกัน
+* **Age:** 23
+* **Race:** **Other — Yuan-ti Pureblood (near-human ~85%)** — ผิวมนุษย์เรียบลื่นมี **ลายเกล็ดจางๆ** ตามขมับและท้ายทอย ดวงตาเขียวมรกตรูม่านตารียาวเล็กน้อย
+* **Class & Level:** **Wizard (Divination)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** นักสืบเวท / นักโหรญาณเชิงหลักฐาน / นักผจญภัย
+* **Organization:** **Thalassaran Echo Inquiry Bureau**
+* **Symbol:** กระจกแตกเป็นรูปตา
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Chinese–Korean**, poised, analytical beauty with a calm, curious gaze.
+
+**Eyes:** emerald green with slit-like pupils that widen under lamplight.
+**Skin:** porcelain with faint pearly sheen; tiny scale pattern appears along the neck when spellcasting.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail** (top-weighted)
+**Style:** **sleek high ponytail**, straight and glossy; a thin face-framing bang on each side.
+**Color:** **black tea with jade-green sheen under light.**
+
+**Height:** 166 cm
+**Weight:** 55 kg
+**Body Type:** slim-but-fit researcher’s build; graceful posture from hours of careful work.
+
+**FEMALE BODY METRICS** *(large cups allowed for รุ่นเพื่อน)*
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 102 – 68 – 108
+VALIDATION: • W/B = 0.667 → OK   • H/W = 1.59 → OK
+```
+
+**Theme Layer:** **Nerd (35%) → mandatory glasses**
+**Jewelry & Accessories:** **thin rectangular graphite-rim glasses**, **silver serpent-ear cuff**, **small obsidian pendant**, **data-band bracelet** etched with star-runes, **anklet** with a single mirror shard charm.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** smart-modest with tailored lines
+
+Satsuki wears a **charcoal scholar’s coat** cropped at the waist over a **form-fitting ivory blouse** with a **discreet deep V**, paired with a **high-slit pencil skirt** and **opaque thigh stockings** for late-night fieldwork.
+A **folding scry-folio** hangs at her hip; **glovelets** carry chalk, ink, and a collapsible lens.
+
+**Color Palette:** charcoal / ivory / jade / obsidian
+**Accents:** geometric embroidery, mirror-glyph buttons, subtle serpent motifs
+
+**Weapons & Gear:** arcane focus (mirror shard frame), component pouch, magnifier lens, chalk kit, evidence tags.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **21 HP**
+* **AC:** **15** (*Mage Armor* 13 + DEX +2)
+* **Speed:** 30 ft
+* **STR 8 (–1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, Investigation +5, Insight +3, Perception +3, History +5
+* **Languages:** Common, Draconic, Infernal, Thalassaran Cant
+
+**Wizard (Divination) 3**
+
+* **Portent (2 dice/day)** — replace any attack/save/check seen or unseen
+* **Arcane Recovery** (recover 2 levels of spell slots on short rest)
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * **Cantrips:** *Mage Hand, Minor Illusion, Fire Bolt, Guidance* (flavor via focus)
+  * **1st-2nd (Prepared examples):** *Shield, Absorb Elements, Detect Magic, Identify, Comprehend Languages, Detect Thoughts, See Invisibility, Misty Step*
+
+**Attacks:**
+
+* **Fire Bolt:** +5 to hit, 1d10 fire
+* **Dagger (backup):** +4 to hit, 1d4+2 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Control / Intel Engine**
+* **Opener:** *Detect Thoughts* to read intent → adjust outcomes with **Portent** on key enemy saves.
+* **Flow:** *Shield/Absorb Elements* for survival, *Misty Step* to reposition, *See Invisibility* vs. hidden threats.
+* **Finisher:** manipulate a boss’s failed save via **Portent**, letting allies land decisive disables.
+
+**Damage/Effect Flavor:** mirror-shards orbit her wrist; predictions sketch faint green sigils across targets.
+
+---
+
+## 💬 Personality
+
+* **Traits:** cool-headed, teasingly dry, meticulous note-taker.
+* **Ideal:** Truth — “Prediction means nothing without verification.”
+* **Bond:** her field team; logs every risk and makes sure it isn’t repeated.
+* **Flaw:** analysis paralysis when deprived of data.
+* **Quirk:** taps her lens twice before stating a hypothesis.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Mirror Archives, Canal Crime Scenes, Echo Inquiry Labs**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **ritual forensics**, **echo-crime reconstruction**, **ambush in a hall of mirrors**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised by a quiet archivist, Satsuki learned to trust patterns over prophecy.
+She joined the Inquiry Bureau to test divinations against the messiness of real life.
+
+* **Lifestyle:** minimalist apartment stacked with labeled boxes.
+* **Income:** bureau salary + bounties for solved echo-crimes.
+* **Relationships:** professional rivalry with Aelina Dawnsong (#209) over “what counts as divine proof.”
+
+---
+
+## 🧩 Morals & Ethics
+
+Evidence first, mercy next, and only then judgment.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** predicting a death and being unable to prevent it.
+* **Weaknesses:** fragile constitution; depends on planning.
+* **Strengths:** **Portent** turn-changers, investigation supremacy, flexible utility magic.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — แซวฉลาด ๆ ใจดีและจริงจังเวลาอันตราย**
+
+> “You’re nervous. Want me to roll your odds out loud… or just hold your hand?”
+> เธอยิ้มบาง ๆ แล้วดันแว่นขึ้นด้วยนิ้วชี้ ก่อนจะจรดชอล์กลงพื้น
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her mirror focus sometimes shows *someone else* casting through her hands.
+* **Hooks:**
+
+  1. **The Shard That Watches:** the mirror learns new Portent dice—who’s rolling them?
+  2. **Echo Forensics:** a crime scene keeps “resetting” to a previous timeline.
+  3. **Snake Tongue:** her Yuan-ti lineage attracts a cult that calls her “Oracle of the Coil.”
+
+## Tags: #Female #FriendType #Other #YuanTi #Wizard3 #Divination #Thalassara #CR1 #Investigator #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Satsuki **ชอบทำให้เขินแบบเนียน ๆ** — เอียงหน้าเข้ามาใกล้เวลาอ่านริมฝีปาก
+
+> “Don’t move. I’m matching your cadence to the witness statement.” *(กระซิบใกล้กว่าที่จำเป็น)*
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** dagger
+  * **Armor:** none (*Mage Armor*)
+  * **Tools:** scry-folio, magnifier lens, chalk kit
+  * **Consumables:** potion of healing ×1, arcane ink ×2
+  * **Misc:** mirror focus, data-band, investigation tags
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Observant / Ritual Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Mirror Archives / Canal Crime Scenes**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **forensic ritual**, **mirror-maze battle**, **timeline anomaly trap**
+* **Affiliation:** **Echo Inquiry Bureau**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Chinese Korean female yuan-ti pureblood wizard divination 166cm high ponytail black hair jade sheen emerald slit eyes fair skin subtle scales rectangular glasses scholar coat ivory blouse slit pencil skirt thigh stockings mirror shard focus analytical confident smile

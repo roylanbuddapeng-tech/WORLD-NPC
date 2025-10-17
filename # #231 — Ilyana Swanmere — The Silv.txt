@@ -1,0 +1,205 @@
+# #231 — **Ilyana Swanmere** — *The Silver-Tongued Lilt of Valeronnes*
+
+> “When words take flight, even blades hesitate.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 231
+* **Gender:** **Female (Type: รุ่นพี่)** — สุขุม อบอุ่น มีไหล่ให้พิงและคำแนะนำที่คมเหมือนดาบ
+* **Age:** 28
+* **Race:** **Half-Beast (Avian subtype — Swanfolk)** — มนุษย์ ~85% มีขนขาวบางปนที่แนวไหปลาร้า ปีกเล็กๆ แบบขนนกงอกบางจากสะบัก (ใช้โผ/ไถลอากาศสั้นๆ) คอเรียวสง่า
+* **Class & Level:** **Bard (College of Eloquence)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** court mediator / field support vocalist / diplomat-advocate
+* **Organization:** **Valeronnes Silver Courts – Concord Choir**
+* **Symbol:** ริบบิ้นเงินถักเป็นรูปขนนกซ้อนเหนือสคริปต์โน้ต
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–European**, poised noble grace with soft, disarming warmth.
+
+**Eyes:** pale grey with a soft mercury gleam.
+**Skin:** porcelain with a faint pearly sheen at the collarbone and shoulders.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Straight** (top-weight)
+**Style:** **waist-length straight hair**, center part with gentle curtain bangs; sleek, mirror-smooth.
+**Color:** **ash-platinum with silver lowlights.**
+
+**Height:** 172 cm
+**Weight:** 58 kg
+**Body Type:** elegant hourglass; dancer’s posture, swanlike neck and shoulders.
+
+**FEMALE BODY METRICS** *(Cup E+ enforced)*
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 96 – 68 – 100
+VALIDATION: • W/B = 0.708 → OK   • H/W = 1.47 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)** — former court debater turned adventuring mediator.
+**Glasses Roll (non-nerd 50%) → success:** **thin oval silver spectacles** used for reading decrees.
+**Jewelry & Accessories:** swan-feather filigree pendant, pearl drop earrings, slim silver data-band, delicate ankle chain with a soft chime.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate—elegant but travel-ready
+
+Ilyana wears a **dove-grey fitted bodice** with **off-shoulder sleeves** that leave the collarbones bare, paired with a **layered split skirt** over **opaque silk leggings** for swift movement.
+A **light court-cloak** (silver lining) drapes from one shoulder; subtle rune embroidery hums when she sings.
+Soft leather boots and a **scribe’s belt** carry scroll tubes and a crystal metronome.
+
+**Palette:** dove grey / silver / pearl white / soft blue
+**Accents:** feather filigree, luminous stitchwork, courtly minimalism
+
+**Weapons & Gear:** rapier (ceremonial), **crystal conductor baton** (arcane focus), diplomat’s seal kit, scroll tube.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **15** (studded attire + DEX)
+* **Speed:** 30 ft; **short glide** (flavor)
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 12 (+1)** **WIS 12 (+1)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +4, CHA +6
+* **Skills:** Persuasion +8, Deception +8 (Eloquence), Insight +3, Performance +8 (Expertise), Perception +3
+* **Languages:** Common, Auran, Celestial, Valeronian
+
+**Bard 3 — College of Eloquence**
+
+* **Bardic Inspiration (d6)**
+* **Silver Tongue:** Persuasion/Deception rolls under 10 count as 10.
+* **Unsettling Words:** use Inspiration to subtract from a creature’s next save.
+* **Jack of All Trades; Expertise (Performance, Persuasion).**
+* **Spellcasting (CHA DC 14, +6 atk)**
+
+  * *Cantrips:* *Vicious Mockery, Friends, Mage Hand*
+  * *1st:* *Healing Word, Faerie Fire, Dissonant Whispers, Silvery Barbs*
+  * *2nd:* *Calm Emotions, Enhance Ability, Suggestion*
+
+**Attacks:**
+
+* **Rapier:** +4 to hit, 1d8+2 piercing (rarely used; defense only)
+
+---
+
+## 🎯 Combat Tactics (Support Focus)
+
+* **Role:** **Buff/Debuff Maestro / Face**
+* **Opener:** **Bardic Inspiration** to striker → *Faerie Fire* to enable team advantage.
+* **Flow:** **Unsettling Words** before ally save-or-suck; *Silvery Barbs* to flip clutch rolls; *Healing Word* on falling allies.
+* **Finisher:** *Calm Emotions* to shut down mobs or *Suggestion* to end a fight without blood.
+
+**Effect Flavor:** her voice layers like a choir; silver notes spiral outward as feathered motes that perch on allies’ shoulders.
+
+---
+
+## 💬 Personality
+
+* **Traits:** nurturing, unflappable, sly humor.
+* **Ideal:** Concord — “Peace is victory you get to live with.”
+* **Bond:** her choir from the Silver Courts; she funds scholarships for gutter-singers.
+* **Flaw:** avoids necessary confrontations too long; trusts diplomacy in hopeless cases.
+* **Quirk:** taps a three-beat cadence on her baton before any big speech.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Silver Courts, Concord Rotunda, Moon-Fen causeways**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** hostage negotiation, riot de-escalation, treaty escort.
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to minor nobility, Ilyana spent years arbitrating duels with words.
+Seeing treaties fail in the real world, she left the dais to carry her voice where it saves lives fastest.
+
+* **Lifestyle:** tidy apartment above a rehearsal hall; tea, scores, sunrise warmups.
+* **Income:** court retainers + field stipends.
+* **Relationships:** friendly respect for Kaela Vorn (#218); duet partner with Selene Rhyne (#214) on night patrol rites.
+
+---
+
+## 🧩 Morals & Ethics
+
+Power should be sung softly; the loudest victory is often the quiet one no one notices.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** her voice failing when it matters.
+* **Weaknesses:** low burst damage; mercy-first instincts.
+* **Strengths:** save manipulation, advantage engines, social dominance.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — อุ่น นิ่ง แต่ทำให้ใจเต้นด้วยการชมเฉพาะจุดแบบโดนใจ**
+
+> “You hold the line well. Let me hold you steady.”
+> เธอยิ้ม ดันแว่นขึ้น แล้ววางมือบนไหล่ให้จังหวะหายใจ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** the “Silver Courts” anthem hides an **oath-bind** only she knows how to break.
+* **Hooks:**
+
+  1. **Feather of Truce:** a relic needed to seal a riot goes missing.
+  2. **Discordant Note:** someone twists her voice into a fear-charm in crowded markets.
+  3. **The Unheard Verse:** a Severance echo steals the *end* of her sentences during parley.
+
+## Tags: #Female #SeniorType #HalfBeast #Swanfolk #Bard3 #Eloquence #Valeronnes #CR1 #Support #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ilyana **ทำให้คนเขินด้วยการกระซิบจังหวะหายใจตรงใบหู แล้วนับนำราวกับคอนดักเตอร์**
+
+> “In… two… three… Now speak. I’ll make them listen.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier
+  * **Armor:** studded court attire
+  * **Tools:** conductor baton (focus), diplomat’s seal kit
+  * **Consumables:** potion of healing ×1, soothing lozenges ×3
+  * **Misc:** silver spectacles, scroll tube, metronome crystal
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Inspiring Leader / Fey Touched**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Silver Courts / Moon-Fen causeways**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **treaty escort**, **riot de-escalation**, **hostage parley**
+* **Affiliation:** **Concord Choir**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean European female swanfolk bard eloquence 172cm waist-length straight ash-platinum hair pale grey eyes fair skin E-cup off-shoulder bodice split skirt opaque leggings silver spectacles feather motifs soft silver glow poised diplomat conductor baton

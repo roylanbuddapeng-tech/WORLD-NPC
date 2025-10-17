@@ -1,0 +1,200 @@
+# #172 — **Selka Arventine** — *The Silver Fang of Skarnov Forge*
+
+> “Steel sings louder when your heart burns hotter.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 172
+* **Gender (weighted random):** **Female (Type: Tomboy — แบบห้าวออกกำลังกาย)**
+* **Age:** 25
+* **Race:** **Half-Beast (Wolf-blooded — Skarnov Lineage)** — มนุษย์ 85% มีหูหมาป่าสีเงินเล็กๆ ที่กลมกลืนกับผม และฟันเขี้ยวคู่เล็กที่เห็นเวลายิ้ม
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** นักผจญภัยและผู้คุ้มกันกิลด์ช่างตีเหล็ก
+* **Rank / Position:** **Forge Sentinel of Skarnov**
+* **Organization:** **Iron Howl Company**
+* **Symbol:** ดาบไขว้เหนือหัวหมาป่าเงิน
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Western-European (Greek–Nordic blend)** — sharp features, warm smile, eyes bright with defiance.
+
+**Eyes:** steel-gray with streaks of amber.
+**Skin:** sun-bronzed with soot traces on her arms and collarbone.
+
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result: Ponytail (the most common roll)*
+**Hair style:** long **high ponytail**, slightly wavy and tied with leather strap; **color:** **silver-gray with dark roots**.
+**Texture:** thick, coarse strands that reflect forge light like metal threads.
+**Height:** 176 cm
+**Weight:** 64 kg
+**Body Type:** **Muscular athletic**, defined abs, strong arms, slightly broad shoulders.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 67 – 91
+VALIDATION: • W/B = 0.761 → OK   • H/W = 1.35 → OK
+```
+
+**Jewelry & Accessories (30% glasses roll → no glasses):**
+Steel **dog-tag pendant**, **blacksmith’s charm bracelet**, **ring of tempered iron**, and a **thin chain earring** on one side.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Functional armor (light exposure — arms/waist visible)*
+
+Selka wears a **reinforced leather crop cuirass** with open sides for movement, **blacksmith’s trousers** reinforced with chain mesh, and **steel-plated boots**.
+A **smith’s apron** often hangs at her belt when not in battle.
+
+**Color Palette:** gray / steel / ember red / black
+**Accents:** rugged, forge-scorched, practical charm
+
+**Loadout:** longsword (custom-forged), warhammer (secondary), smithing tools, small forge kit.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +3)×3 → **33 HP**
+* **AC:** **17** (chain shirt + DEX)
+* **Speed:** 30 ft
+* **STR 17 (+3)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Intimidation +3, Perception +3, Smith’s Tools +4
+* **Languages:** Common, Dwarvish, Skarnov Howl Cant
+
+**Fighter (Battle Master) 3:**
+
+* **Superiority Dice (d8 ×4)**
+* **Maneuvers:** Riposte, Precision Attack, Trip Attack
+* **Second Wind, Action Surge**
+
+**Attacks:**
+
+* **Longsword:** +5 to hit, 1d8+3 slashing (versatile 1d10+3).
+* **Warhammer:** +5 to hit, 1d8+3 bludgeoning.
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline duelist / Counter-striker**
+* **Opener:** Draws enemies in with taunt, then **Riposte** their first miss.
+* **Flow:** Switches stance — sword for speed, hammer for armor cracking.
+* **Finisher:** *Trip Attack → Action Surge → Precision Riposte Combo*.
+
+**Damage Flavor:** each strike leaves glowing sparks like fragments from a forge.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Bold, protective, straightforward.
+* **Ideal:** Strength through creation — “To protect is to build.”
+* **Bond:** Loyal to the Iron Howl Company; treats them like pack.
+* **Flaw:** Can’t stand arrogance — especially nobles who’ve never swung a hammer.
+* **Quirk:** Taps weapons against her teeth to “hear” their tune.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Iron Forges, Ember Docks, Wolf’s Causeway**
+* **Threat Gradient:** **Stable → Wavering (heat distortion)**
+* **Encounter Framing:** **Forge duel**, **Escort mission**, **Defense against raiders**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised in a forge family of Skarnov — learned to swing both sword and hammer before she could write.
+Left home to “prove metal’s worth outside the anvil.”
+
+* **Lifestyle:** early riser, heavy eater, loves late-night smithing.
+* **Income:** job-by-job adventuring + forge commissions.
+* **Relationships:** often arm-wrestles Mirae Hanoko; friendly rivalry with Rurik of the Iron Wolves.
+
+---
+
+## 🧩 Morals & Ethics
+
+“Don’t pray for strength — temper it.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** becoming useless if she loses her hands.
+* **Weaknesses:** reckless in protecting others.
+* **Strengths:** sheer willpower and mastery of metalcraft.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy tone (ห้าว, ใจดี, แอบเขินเวลาโดนชม)**
+
+> “Oi! Don’t call me ‘cute’. I’m not—” *pauses, ears twitch, cheeks pink*
+> “…you’re impossible.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her sword is forged from her father’s armor after he fell defending Skarnov.
+* **Hooks:**
+
+  1. **The Broken Fang:** Her sword shatters mid-fight — only PCs can help reforge it.
+  2. **Howl of Iron:** A Severance-forged beast attacks the Wolf’s Causeway.
+  3. **Echo in the Steel:** Her forge starts resonating with a strange heartbeat.
+
+## Tags: #Female #Tomboy #HalfBeast #WolfHybrid #Fighter3 #BattleMaster #Skarnov #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Selka **เขินเวลามีคนชมตรง ๆ** — จะตอบโต้ด้วยการพูดแรงหรือทำหน้านิ่งกลบเกลื่อน
+
+> “You keep talking like that and I might have to spar you till you shut up.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, warhammer
+  * **Armor:** chain shirt
+  * **Tools:** smith’s tools
+  * **Consumables:** potion of healing ×1
+  * **Misc:** dog-tag, forge charm, hammer token
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 19) *or* **Great Weapon Fighting**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Wolf’s Causeway / Ember Forges**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **Duel**, **Escort Defense**, **Forge Siege**
+* **Affiliation:** **Iron Howl Company**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Greek Nordic female half-beast wolf hybrid fighter battle master 176cm silver gray high ponytail steel gray eyes muscular athletic body tan skin crop cuirass leather pants chain mesh boots sparks around forge background confident grin

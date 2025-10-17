@@ -1,0 +1,211 @@
+# #233 — **Hana Redvale** — *The Grove-Guide of Ember Bloom*
+
+> “I don’t command nature; I invite it to help.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 233
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — อบอุ่น คุยง่าย หัวเราะเก่ง เป็นที่พึ่งทางใจของทีมเวลาวุ่นวาย
+* **Age:** 23
+* **Race:** **Half-Beast (Mammal subtype — Red Panda)** — มนุษย์ ~85% มีหูเล็กขอบขาว แก้มมีลายจาง หางพองฟูสีส้มแดงลายเข้ม
+* **Class & Level:** **Druid (Circle of Shepherd)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** field naturalist / party support guide / animal warder
+* **Organization:** **Verdant Veil Scouts**
+* **Symbol:** ใบไม้ล้อมรอบเงาหมีแพนด้าแดงถือคทาไม้
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Chinese**, soft woodland charm with bright, reassuring eyes.
+
+**Eyes:** golden-brown with a warm honey sheen.
+**Skin:** fair with a gentle rosy hue across the cheeks.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail** (top-weight)
+**Style:** **long high ponytail** with soft wavy texture; a few wispy bangs frame her face.
+**Color:** **dark auburn** with **copper highlights** that glint like autumn leaves.
+
+**Height:** 168 cm
+**Weight:** 58 kg
+**Body Type:** fit-but-soft; gentle curves and a steady, grounded posture.
+
+**FEMALE BODY METRICS** *(Cup > E enforced)*
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 102 – 69 – 106
+VALIDATION: • W/B = 0.676 → OK   • H/W = 1.54 → OK
+```
+
+**Theme Layer:** **Nerd (30%) → wears glasses always**
+**Glasses:** round woodland-brown frames with tiny leaf etchings on the arms.
+**Jewelry & Accessories:** acorn-charm necklace, braided vine bracelet, small bell anklet (calls a familiar softly).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — ranger-druid practicality with gentle allure
+
+Hana wears a **moss-green fitted vest** over a **cream soft blouse** with a **slightly open neckline**, paired with a **split wrap-skirt** layered over **sturdy leggings** for brush and bramble.
+A **leaf-pattern shawl-cloak** clasped by a carved wooden brooch drapes her shoulders; belts carry salves and seed pouches.
+Mud-friendly **lace-up boots** and a **satchel** of beast-totems complete the kit.
+
+**Palette:** moss green / cream / autumn copper / brown leather
+**Accents:** leaf embroidery, wooden toggles, soft natural fiber drape
+
+**Weapons & Gear:** quarterstaff (grove-carved), druidic totem pouch, healer’s satchel, pan flute (animal calls).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (studded leather 12 + shield 2 + DEX +2)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 17 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +3, WIS +5
+* **Skills:** Animal Handling +7 (Expertise via background), Nature +3, Medicine +5, Perception +5, Survival +5
+* **Languages:** Common, Druidic, Sylvan, Beast Cant (flavor)
+
+**Druid 3 — Circle of Shepherd**
+
+* **Speech of the Woods:** communicate with beasts/fae (flavor + mechanical under common interpretations).
+* **Spirit Totem (1/short rest):** summon a 30-ft aura spirit for 1 minute —
+
+  * **Bear:** temp HP + damage buff sustain
+  * **Hawk:** advantage on Perception and reaction **Help** for attacks
+  * **Unicorn:** boost healing and detect creatures
+* **Mighty Summoner:** (from level 6; note for progression)
+* **Wild Shape (utility focus).**
+* **Spellcasting (WIS DC 13, +5 atk)** *(prepared examples)*
+
+  * *Cantrips:* *Guidance, Thorn Whip, Produce Flame*
+  * *1st:* *Goodberry, Cure Wounds, Entangle, Faerie Fire*
+  * *2nd:* *Lesser Restoration, Pass without Trace, Spike Growth*
+
+**Attacks:**
+
+* **Quarterstaff (one-hand):** +4 to hit, 1d6+2 bludgeoning
+* **Thorn Whip:** +5 to hit, 2d6 piercing, pull 10 ft
+
+---
+
+## 🎯 Combat Tactics (Support Focus)
+
+* **Role:** **Party Buffer / Control / Off-Healer**
+* **Opener:** **Unicorn Spirit Totem** → *Faerie Fire* for advantage, then **Goodberry** prep between fights.
+* **Flow:** *Entangle* or *Spike Growth* to shape terrain; *Pass without Trace* for stealth missions.
+* **Heals & Cushions:** *Cure Wounds* enhanced by **Unicorn** aura; stabilizes with berries.
+* **Finisher:** swap to **Hawk Spirit** to feed reaction **Help** for the party’s decisive burst.
+
+**Effect Flavor:** translucent animal spirits (bear, hawk, unicorn) bloom from pressed leaf sigils; air smells of rain and cedar.
+
+---
+
+## 💬 Personality
+
+* **Traits:** gentle humor, endlessly patient, quietly brave.
+* **Ideal:** Stewardship — “We leave a place kinder than we found it.”
+* **Bond:** a rescued red-panda cub that now serves as her messenger.
+* **Flaw:** overextends to protect wildlife; hesitates to harm beasts even when hostile.
+* **Quirk:** names every spirit she summons and says “thank you” aloud when it fades.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Verdant Vale — Ember Bloom Glades, Rootbridge Trails, Grove Camps**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **beast mediation**, **caravan escort through wilds**, **Echo-creep purge with controlled burns**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised on the border of industry and woodland, Hana learned to translate between lumber crews and the forest.
+She joined the Verdant Veil to keep roads safe without turning forests into scars.
+
+* **Lifestyle:** cabin with a rooftop herb garden; brews berry tea nightly.
+* **Income:** guide fees + healing shares + rescue bounties.
+* **Relationships:** trades salves with Talia Otterwell (#232); sings in Ilyana’s (#231) peace vigils.
+
+---
+
+## 🧩 Morals & Ethics
+
+Protection isn’t ownership; help things grow then let them go.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** wildfires and needless culls.
+* **Weaknesses:** low burst damage; empathy slows lethal decisions.
+* **Strengths:** team sustain, advantage engines, terrain mastery, animal diplomacy.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — แกล้งให้เขินด้วยความใกล้ชิดแบบเอาใจใส่**
+
+> “You look thirsty. Here—goodberries first, questions later.”
+> เธอยิ้ม ดันแว่นขึ้น แล้วป้อนเบอร์รีให้ใกล้จนได้กลิ่นชาหอมอ่อน ๆ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her spirit totems remember more than battle—they carry whispers of ancient forest courts seeking a new speaker.
+* **Hooks:**
+
+  1. **Rootcourt Summons:** a fae tribunal asks her to arbitrate a logging dispute—sides won’t listen without proof.
+  2. **The Kindly Wildfire:** a controlled burn goes sentient; it wants to “garden” the valley.
+  3. **Echo Cub:** her red-panda companion begins mirroring Echo patterns; cure or accept a new kind of ally?
+
+## Tags: #Female #PeerType #HalfBeast #RedPanda #Druid3 #CircleOfShepherd #Support #VerdantVale #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Hana **ชอบแตะปลายนิ้วตรวจชีพจรแล้วกระซิบใกล้หู**
+
+> “Breathe with me—four in, four out. The forest will match us.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff, wooden shield
+  * **Armor:** studded leather
+  * **Tools:** healer’s kit, herbal pouch, pan flute
+  * **Consumables:** 10× goodberries (refreshed daily), salve ×2, potion of healing ×1
+  * **Misc:** round glasses, leaf brooch, animal totems
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 19)** or **Feat: War Caster / Resilient (CON)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Verdant Vale / Ember Bloom Glades**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **escort & mediation**, **beast rescue**, **terrain-control skirmish**
+* **Affiliation:** **Verdant Veil Scouts**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Chinese female half-beast red panda druid shepherd 168cm high ponytail dark auburn hair copper highlights honey eyes fair skin glasses G-cup moss-green vest cream blouse split wrap skirt leggings leaf cloak wooden staff spirit animals gentle smile forest path

@@ -1,0 +1,206 @@
+# #204 — **Seren Aqualyn** — *The Tidal Whisper of Thalassara’s Silver Docks*
+
+> “Every ripple carries a memory. Listen close, and the sea will answer.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 204
+* **Gender:** **Female (Type: รุ่นน้อง)** — อ่อนโยน ร่าเริง มีความตั้งใจมากกว่าความมั่นใจ ชอบทำตัวมีประโยชน์ต่อคนรอบข้าง
+* **Age:** 19
+* **Race:** **Half-Beast (Aquatic subtype — Dolphin)** — ผิวมนุษย์แทบสมบูรณ์ มี **ลายประกายเงินจาง ๆ บนต้นแขนและแก้ม** เมื่อเปียกน้ำจะเห็นชัด, หูแหลมน้อย ๆ คล้ายครีบ
+* **Class & Level:** **Cleric (Tempest Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** traveling acolyte / shrine attendant / novice tide guardian
+* **Organization:** **Church of the Rolling Depth** (Thalassara coastal order)
+* **Symbol:** a spiral wave encircling a pearl
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Korean**, bright and wholesome with a touch of sea-glow charm.
+
+**Eyes:** ocean-blue with translucent rim, seeming to shimmer with reflected light.
+**Skin:** fair with faint bluish undertone; water glints on her like she’s always just stepped from the tide.
+
+**Hair (Feminine Hair Randomizer):** 🎲 *Result → Twin Bun (high-weight over twin tail)*
+**Style:** **soft twin buns** with trailing strands, giving a playful yet tidy look; thin bang curtain frames her eyes.
+**Color:** **pale silver with turquoise gradient tips.**
+
+**Height:** 162 cm
+**Weight:** 52 kg
+**Body Type:** **slim, swimmer’s tone**, lithe arms, compact build, smooth posture.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 86 – 63 – 88
+VALIDATION: • W/B = 0.73 → OK   • H/W = 1.39 → OK
+```
+
+**Theme Layer:** **Nerd 35% → rolled success → glasses mandatory**
+**Jewelry & Accessories:** thin **aquamarine-rim glasses**, **conch-shell earrings**, **silver wave pendant**, **tide prayer beads** at her wrist.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** light — modest but shaped by ocean aesthetics
+
+Seren wears a **short ocean-blue sleeveless robe** over a **white cropped inner top**, tied with **a silver sash** around her waist.
+Her **thigh-length side slit skirt** reveals fitted **navy leggings** beneath. The fabric shimmers like water film under moonlight.
+The outfit balances modest devotion with youthful energy.
+
+**Color Palette:** aqua / silver / navy / white
+**Accents:** shell motifs and faint runes etched like wave crests
+
+**Weapons & Gear:**
+
+* **Trident focus** (holy symbol)
+* **Shield shaped like a curling wave**
+* **Conch of Resonance** (focus for divination)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **18** (scale mail + shield)
+* **Speed:** 30 ft, swim 25 ft
+* **STR 12 (+1)** **DEX 13 (+1)** **CON 12 (+1)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Religion +2, Nature +2, Insight +5, Persuasion +4, Athletics +3
+* **Languages:** Common, Aquan, Celestial
+
+**Cleric (Tempest Domain) 3:**
+
+* **Wrath of the Storm (3/day)**
+* **Channel Divinity: Destructive Wrath**
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Thaumaturgy, Shape Water, Sacred Flame*
+  * *Prepared (examples):* *Bless, Fog Cloud, Thunderwave, Cure Wounds, Gust of Wind, Shatter*
+
+**Attacks:**
+
+* **Trident:** +3 to hit, 1d8+1 piercing
+* **Sacred Flame:** 2d8 radiant (save DC 13)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Burst AOE Caster**
+* **Opener:** *Bless* allies → *Thunderwave* or *Shatter* to break formation.
+* **Flow:** uses *Shape Water* for environmental control, positioning allies in line for knockback.
+* **Finisher:** *Destructive Wrath* + *Shatter* → sonic wave tearing through battlefield.
+
+**Damage Flavor:** rippling concentric rings radiate outward from her trident tip, leaving steam in the air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** earnest, talkative when nervous, apologizes too often.
+* **Ideal:** Compassion — “Even storms must pass gently.”
+* **Bond:** her sea shrine’s lost head priest, missing after a storm.
+* **Flaw:** hesitates to harm living beings directly.
+* **Quirk:** unconsciously hums whale-song cadences while focusing spells.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Silver Docks, Wave Chapels, Tide Shrines**
+* **Threat Gradient:** **Wavering → Echo surge**
+* **Encounter Framing:** **harbor defense**, **storm crisis**, **resonant sea-bloom purification**
+
+---
+
+## 📜 Background & Lifestyle
+
+A novice shrine attendant blessed by the sea spirits. She joined adventurers to search for her mentor lost in a Severance tide.
+She still writes daily sea journals about sound patterns in water.
+
+* **Lifestyle:** humble, lives aboard small barge-temple.
+* **Income:** donations + guild support.
+* **Relationships:** admires Yuna Vareth (#201), often assists her in resonance readings.
+
+---
+
+## 🧩 Morals & Ethics
+
+Mercy and strength are tides — both return if you let them.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** still water (symbol of death in her faith).
+* **Weaknesses:** low stamina, emotionally fragile.
+* **Strengths:** AOE divine control, crowd rescue, water synergy.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — ขี้เขิน ขี้เกรงใจ แต่พยายามกล้าเข้าใกล้**
+
+> “U-um… if you lean forward just a bit, I can patch the wound better—!”
+> เสียงเธอสั่นนิด ๆ แต่อยากช่วยจนมือสั่นก่อนจะเผลอหน้าแดง
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her lost mentor’s voice sometimes replies when she uses *Shape Water*.
+* **Hooks:**
+
+  1. **Echo in the Waves:** a ghost-voice guides her to forbidden ruins.
+  2. **Pearl of Silence:** an artifact dampens all sea resonance — must recover it.
+  3. **Tide of Broken Hymns:** corrupted clerics summon a Severance storm at her shrine.
+
+## Tags: #Female #YoungerSisterType #HalfBeast #Aquatic #Dolphin #Cleric3 #Tempest #Thalassara #CR1 #Support #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Seren **ชอบเขินเวลาโดนชมเรื่องเก่งหรือสวย**
+
+> “W-wait, I’m just… doing my best!”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** trident (holy focus)
+  * **Armor:** scale mail
+  * **Tools:** none
+  * **Consumables:** potion of healing ×1, holy water ×1
+  * **Misc:** aquamarine glasses, sea journal, prayer beads
+* **Level-Up Suggestions (to 4):** +2 WIS (to 18) or Feat **War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Silver Docks / Tide Chapels**
+* **Threat Gradient:** **Wavering → Echo surge**
+* **Encounter Type:** **storm crisis**, **seaborne purification**, **Echo cult confrontation**
+* **Affiliation:** **Church of the Rolling Depth**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Korean female half-dolphin cleric tempest domain 162cm twin buns silver turquoise hair ocean blue eyes aquamarine glasses blue sleeveless robe cropped top slit skirt navy leggings trident shield water shimmer gentle expression seaside temple background

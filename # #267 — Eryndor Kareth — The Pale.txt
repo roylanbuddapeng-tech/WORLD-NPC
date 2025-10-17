@@ -1,0 +1,204 @@
+# #267 — **Eryndor Kareth** — *The Pale Summoner of the Glass Veil*
+
+> “You fear the dead because you think they’ve forgotten you.
+> I speak with them daily. They remember everything.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 267
+* **Gender:** **Male (Type: เมะ)** — สุภาพแต่เคร่งขรึม มีความนิ่งของนักวิจัยเวทมนตร์ที่เคยเห็นความตายมามากเกินไป
+* **Age:** 29
+* **Race:** **Half-Beast (Corvid)** — humanlike 85%, black feathers blending into his hairline and shoulder blades, eyes like obsidian glass, a faint crow-mark below his right eye.
+* **Class & Level:** **Wizard (Necromancy)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **Occult Archivist / Spirit Conductor / Academic Summoner**
+* **Organization:** **Gravemere Ossuary Consortium**
+* **Symbol:** a quill made of bone drawing a spiral of ash
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Nordic hybrid**, graceful and composed, with the solemn poise of a funeral monk.
+
+**Eyes:** black rimmed with violet halo.
+**Skin:** ivory tone, slightly cool under moonlight.
+
+**Hair (Male Hair Randomizer):** 🎲 **Medium (35%) — layered crow-feather texture**
+**Style:** loose, slightly disheveled; strands fall over his left eye.
+**Color:** **midnight black with blue undertones**.
+
+**Height:** 182 cm
+**Weight:** 70 kg
+**Body Type:** **lean and elegant**, toned from ritual postures and long hours of walking among ruins.
+
+**Sub-Theme:** 🎲 **None (Free researcher)**
+
+**Glasses Roll (30%):** 🎲 Success → **Yes**
+**Glasses:** thin dark-frame round spectacles with faint violet glyphs glowing when he channels necrotic sight.
+
+**Jewelry & Accessories:** crow-feather charm on silver chain, bone-tipped quill, and a ring of runic silver carved with names of the forgotten.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** *Not applicable (male)*
+
+Eryndor wears a **long charcoal overcoat** embroidered with faint necrotic glyphs that pulse when he casts.
+Underneath: **high-collar shirt**, **belted sash**, and **dark tailored trousers**.
+A **half-cape** of black feathers drapes from his right shoulder, a token from his raven familiar.
+
+**Palette:** ash gray / black / violet / bone-white
+**Accents:** silver runes, feather motifs
+
+**Weapons & Gear:**
+
+* *Bone Wand of Resonant Calling*
+* *Necrotic Codex (focus)*
+* *Spirit Gem (stores 1 soul)*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **15** (mage armor)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 13 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, History +5, Insight +3, Investigation +5
+* **Languages:** Common, Abyssal, Celestial, Corvidic
+
+**Wizard (School of Necromancy)**
+
+* **Grim Harvest:** regain HP when you kill with a spell.
+* **Necromantic Savant:** half cost to copy necromancy spells.
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Toll the Dead, Chill Touch, Mage Hand*
+  * *1st:* *Mage Armor, Ray of Sickness, Find Familiar (Raven)*
+  * *2nd:* *Mirror Image, Misty Step, Animate Dead*
+
+**Attacks**
+
+* **Chill Touch:** +5, 1d8 necrotic.
+* **Ray of Sickness:** +5, 2d8 poison, CON save or poisoned.
+
+---
+
+## 🎯 Combat Tactics (Tactical Necromancer / Summoner)
+
+* **Role:** **Mid-range Support Summoner / Controller**
+* **Opener:** *Find Familiar* (Raven scout) → *Mage Armor* → *Animate Dead* on fallen foes.
+* **Flow:** directs undead as silent flankers while focusing fire with *Toll the Dead*.
+* **Finisher:** *Mirror Image* to evade, repositions while undead close in.
+
+**Flavor:** his undead glow faint blue from eye sockets, moving like shadows synchronized with his gestures.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, intellectual, curious about moral limits of necromancy.
+* **Ideal:** Knowledge must not fear death — “The end of life is only the beginning of memory.”
+* **Bond:** his familiar, **Kael**, carries souls he cannot yet release.
+* **Flaw:** detached; speaks of people as “data” when emotional distance sets in.
+* **Quirk:** writes notes mid-conversation with ink made of ash.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Gravemere** — Ossuary libraries, catacomb vaults, bone towers.
+* **Threat Gradient:** **Echo → Deep Echo**
+* **Encounter Framing:** **library haunt**, **necrotic ritual**, **summoner’s duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a noble scholar and a temple archivist.
+Eryndor rejected divine magic, choosing instead to preserve memories through necromancy.
+He sees the undead as “living libraries” of history that deserve curation, not destruction.
+
+* **Lifestyle:** minimalist apartment, one candle always burning for his dead students.
+* **Income:** commissions from noble houses seeking ancestral contact.
+* **Relationships:** philosophical acquaintance of Mireia (#266), academic rival to Dr. Cassia (#201).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that memory must outlive morality — necromancy is merely a preservation of truth.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** the day his familiar refuses to obey — meaning Kael’s soul has remembered too much.
+* **Weaknesses:** low social instinct, emotionally withdrawn.
+* **Strengths:** precision control of undead, tactical intellect.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — สุภาพ เฉียบคม ชอบพูดเสียงต่ำข้างหูเวลาสอนเวท หรือเวลาต้องข่มเพื่อควบคุมสถานการณ์**
+
+> “You’re trembling again. Focus on the incantation, not the fear—it listens.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** one of his familiars is the soul of his younger brother, but he pretends it’s “just a raven.”
+* **Hooks:**
+
+  1. **Soul Ledger:** his codex begins adding new names he never wrote.
+  2. **The Sixth Call:** Kael starts whispering orders from beyond.
+  3. **The Library of Bone:** an ancient spirit offers him a way to bind memories into flesh permanently.
+
+## Tags: #Male #Necromancer #Summoner #HalfBeast #Corvid #Wizard3 #CR1 #Gravemere #DarkMagic
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Eryndor **มักทำให้คนเขินโดยพูดใกล้เกินจำเป็นในระหว่างร่ายคาถา เสียงทุ้มและนิ้วแตะมือเพื่อปรับท่าทาง**
+
+> “Like this—steady breath, slow hand. Don’t worry. The dead don’t bite unless you let them.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** bone wand
+  * **Armor:** enchanted coat
+  * **Tools:** necrotic codex, soul gem
+  * **Consumables:** 2 black elixirs
+  * **Misc:** raven familiar Kael
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Ritual Caster / War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Gravemere — Ossuary Vaults**
+* **Threat Gradient:** **Echo → Deep Echo**
+* **Encounter Type:** **ritual negotiation**, **necromantic breach**, **memory retrieval mission**
+* **Affiliation:** **Ossuary Consortium**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Nordic male half-beast corvid necromancer wizard 182cm medium black feather hair violet eyes pale skin lean elegant wearing glasses long coat feather cape bone wand necrotic magic calm intelligent dark gothic fantasy

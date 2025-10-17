@@ -1,0 +1,211 @@
+# #263 — **Yuri Fen’thra** — *The Tide-Seer of Coralveil*
+
+> “The sea listens to no god—only to the rhythm of its dreamers.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 263
+* **Gender:** **Female (Type: Tomboy – Athletic type)** — ห้าว มีเสน่ห์แบบคนจริงใจ คุยตรง คำพูดติดกลิ่นทะเล เสียงหัวเราะดังใส่ลม
+* **Age:** 25
+* **Race:** **Half-Beast (Sharkkin)** — มนุษย์ ~85%, ผิวขาวอมเทาอมฟ้าเล็กน้อย, ดวงตาเทอร์ควอยซ์, มี **ครีบเล็ก ๆ หลังหู** และ **ฟันคมเวลายิ้ม**
+* **Class & Level:** **Druid (Circle of the Sea – reflavored Shepherd)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** **sea scout / spirit caller / diver mercenary**
+* **Organization:** **Coralveil Tidemenders**
+* **Symbol:** คลื่นสีน้ำเงินเข้มตัดกับครีบเงินรูปสามเหลี่ยม
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Polynesian hybrid**, sun-kissed skin, athletic shoulders, sharklike grin that shows confidence and warmth.
+
+**Eyes:** turquoise with thin slit pupils.
+**Skin:** light bronze with a smooth ocean sheen; faint markings like ripples down her arms.
+
+**Hair (Female Hair Randomizer):** 🎲 **Short masculine cut (10%) — side-shaved, top messy spike**
+**Style:** practical and wind-swept, cropped at neck with longer bangs sweeping one side.
+**Color:** **deep blue with silver undertones** that shimmer when wet.
+
+**Height:** 176 cm
+**Weight:** 66 kg
+**Body Type:** **athletic, muscular yet feminine**, defined arms, visible abs, toned legs like a swimmer.
+
+**FEMALE BODY METRICS (Tomboy rule type 2 – fit/athletic)**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 89 – 68 – 95
+VALIDATION: • W/B = 0.76 → OK   • H/W = 1.39 → OK
+```
+
+**Sub-Theme:** 🎲 **None** (free-spirited adventurer, not noble nor nerd).
+
+**Glasses Roll (50% base):** 🎲 Fail → **No glasses**
+
+**Jewelry & Accessories:** shark-tooth pendant, silver chain anklet, coral bead earrings, leather wristwrap with tiny rune carvings.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High exposure – practical yet revealing**
+
+Yuri wears a **dark turquoise cropped halter top** with **cross-lacing front** and **low-cut sides**, showing muscular lines under tanned skin.
+Her **short sarong skirt** (split side) is layered over **tight black shorts**, practical for diving.
+A **light cloak of woven kelp fibers** drapes her shoulders like a net, glinting with faint runes of salt.
+
+**Palette:** teal / silver / navy / white foam
+**Accents:** coral beads, wave embroidery, shark motifs
+
+**Weapons & Gear:**
+
+* *Trident of the Rising Tide* (focus + melee)
+* *Shell totem for summoning sea spirits*
+* *Water gourd engraved with runic glyphs*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **23 HP**
+* **AC:** **16** (hide armor + DEX + water charm)
+* **Speed:** 30 ft; **Swim Speed:** 40 ft
+* **STR 13 (+1)** **DEX 15 (+2)** **CON 14 (+2)** **INT 11 (+0)** **WIS 16 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +2, WIS +5
+* **Skills:** Nature +4, Athletics +3, Animal Handling +5, Perception +5
+* **Languages:** Common, Aquan
+
+**Druid (Circle of the Sea / reflavored Shepherd)**
+
+* **Speech of Sea Beasts:** communicate with aquatic life.
+* **Spirit Totem (Sea Form):** summon watery avatar that grants allies +temp HP or swim speed.
+* **Wild Shape:** into aquatic beasts (reef shark, dolphin).
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Shape Water, Thorn Whip, Guidance*
+  * *1st:* *Create or Destroy Water, Entangle*
+  * *2nd:* *Flaming Sphere (as boiling brine), Lesser Restoration*
+
+**Attacks**
+
+* **Trident:** +3 to hit, 1d8+1 piercing (1d6 one-handed).
+* **Thorn Whip:** +5, 1d6 piercing + pull 10 ft.
+
+---
+
+## 🎯 Combat Tactics (Support / Frontline Hybrid)
+
+* **Role:** **Frontline Summoner / Tactical Support**
+* **Opener:** *Spirit Totem (Sea Form)* → *Entangle* → closes distance with *Thorn Whip*.
+* **Flow:** shifts between melee and water magic to control area.
+* **Finisher:** *Flaming Sphere* + *Thorn Whip* to drag foes into boiling water zone.
+
+**Flavor:** when she summons, the ground ripples like shallow waves and sea foam trails her weapon.
+
+---
+
+## 💬 Personality
+
+* **Traits:** bold, teasing, stubborn; fiercely protective of her crew.
+* **Ideal:** Freedom — “The tide pulls everything; you either swim or drown.”
+* **Bond:** her sea-spirit companion “Korr,” a manta-ray familiar.
+* **Flaw:** impulsive, hates long plans or lectures.
+* **Quirk:** bites her pendant when thinking; splashes people playfully.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Coralveil Coast — Tide Caverns, Siren’s Steps**
+* **Threat Gradient:** **Wavering → Echo Surge**
+* **Encounter Framing:** **shipwreck rescue**, **beachhead defense**, **sea-spirit pact ritual**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born in Coralveil, child of a diver and a stormcaller.
+Known for saving sailors during the “Blue Maw Tempest.”
+Now travels as a mercenary for coastal expeditions.
+
+* **Lifestyle:** beach shack, hammocks, fishing gear, cold beer.
+* **Income:** contracts from merchant guilds and coral harvesters.
+* **Relationships:** drinking buddy of Kaien (#255), flirts shamelessly with Sir Nael.
+
+---
+
+## 🧩 Morals & Ethics
+
+She values personal freedom above all; doesn’t care for politics, only loyalty and the open sea.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her swim ability; trapped spaces.
+* **Weaknesses:** acts before thinking; limited patience for planning.
+* **Strengths:** powerful endurance, great swimmer, morale booster.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy (fit type) tone — ห้าวแต่ยิ้มง่าย แซวเก่ง และขี้เล่นกับทุกคนที่ไว้ใจ**
+
+> “What? Blushing already? You should see me when I dive, sweetheart.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** carries an ancient coral shard that whispers in her sleep—an echo of the first sea god.
+* **Hooks:**
+
+  1. **The Drowned Oath:** the shard demands to be returned to the deep rift.
+  2. **Whisper Current:** sea spirits start following her uninvited.
+  3. **Tide War Call:** pirates claim she’s the reincarnation of a siren general.
+
+## Tags: #Female #TomboyType #HalfBeast #Sharkkin #Druid3 #SeaCircle #CR1 #Adventurer #Coralveil
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Yuri **ชอบทำให้คนเขินโดยแกล้งยื่นหน้าเข้ามาใกล้ในระยะลมหายใจแล้วพูดตรงๆ ไม่อ้อมค้อม มักลงท้ายด้วยคำล้อเล่น**
+
+> “Can’t handle a little salt on your lips? Guess you’re not used to the sea… or me.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** trident of the rising tide
+  * **Armor:** halter top, sarong skirt
+  * **Tools:** shell totem, coral focus
+  * **Consumables:** salted potion, charm bead
+  * **Misc:** manta familiar “Korr”
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 18)** or **Feat: Mobile / Elemental Adept (Water)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Coralveil Coast / Siren’s Steps**
+* **Threat Gradient:** **Wavering → Echo Surge**
+* **Encounter Type:** **pirate raid**, **sea ritual**, **storm aftermath rescue**
+* **Affiliation:** **Coralveil Tidemenders**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Polynesian female half-beast sharkkin druid 176cm short side-shaved deep blue hair turquoise eyes tan skin athletic muscular C-cup tomboy sea mage trident cropped halter top sarong skirt high exposure beach setting confident grin playful adventurous ocean spirit

@@ -1,0 +1,204 @@
+# #203 — **Kaori Namue** — *The Sapphire Gale Monk of Valeron Reach*
+
+> “Wind doesn’t ask permission. It simply goes where it must.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 203
+* **Gender:** **Female (Type: Tomboy Type 1 — short-haired, graceful but spirited)**
+* **Age:** 24
+* **Race:** **Human**
+* **Class & Level:** **Monk (Way of the Sun Soul)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Temple guard / adventurer / martial emissary
+* **Organization:** **Valeron Order of Resonant Light**
+* **Symbol:** twin spiraling rays over a blue circle
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Chinese hybrid**, refined features with athletic harmony.
+Her posture carries quiet confidence — that of a fighter who knows exactly how much space she occupies.
+
+**Eyes:** deep sapphire with faint luminous flecks near the iris.
+**Skin:** smooth porcelain with warm undertones from daily outdoor training.
+
+**Hair (Feminine Hair Randomizer):** 🎲 *Result → Short Feminine (Tomboy v1)*
+**Style:** clean-cut **short bob with soft bangs**, wind-ruffled tips grazing her neck.
+**Color:** **dark blue with smoky gray lowlights.**
+
+**Height:** 168 cm
+**Weight:** 58 kg
+**Body Type:** fit-athletic, sculpted arms, toned thighs, dancer-like shoulders.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 66 – 90
+VALIDATION: • W/B = 0.75 → OK   • H/W = 1.36 → OK
+```
+
+**Theme Layer:** **None (30%)** → no guaranteed glasses (🎲 failed roll → no glasses)**
+**Jewelry & Accessories:** minimalist — **silver ear stud**, **woven wrist cord**, **blue resonance bead choker** symbolic of her temple.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — functional yet subtly sensual
+
+Kaori wears a **sleeveless high-collar tunic** of pale azure, **belted tightly at the waist**, paired with **dark stretch leggings** cut for mobility.
+Her **midriff shows slightly** when she spins; **bandages** wrap her forearms and ankles.
+She moves like silk through a breeze — practical, elegant, and effortlessly alluring.
+
+**Color Palette:** sky blue / dark navy / white / silver
+**Accents:** wind sigil embroidery along her sash
+
+**Weapons & Gear:**
+
+* Monk bracers, wind-bead rosary (focus), short quarterstaff (used sparingly)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **17** (10 + DEX +5 + WIS +2)
+* **Speed:** 45 ft
+* **STR 12 (+1)** **DEX 20 (+5)** **CON 14 (+2)** **INT 10 (+0)** **WIS 14 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +7
+* **Skills:** Acrobatics +7, Perception +4, Insight +4, Athletics +3
+* **Languages:** Common, Valeron Tongue, Auran
+
+**Monk (Way of the Sun Soul) 3:**
+
+* **Martial Arts:** 1d6 damage (DEX-based)
+* **Ki Points:** 3
+* **Deflect Missiles**, **Step of the Wind**, **Patient Defense**, **Flurry of Blows**
+* **Radiant Sun Bolt:** ranged spell attack (30 ft, 1d4+5 radiant)
+* **Searing Arc Strike (flavored as wind-light wave)**
+
+**Attacks:**
+
+* **Unarmed Strike:** +7 to hit, 1d6+5 bludgeoning
+* **Radiant Sun Bolt:** +7 to hit, 1d4+5 radiant
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Agile Blaster**
+* **Opener:** *Radiant Sun Bolt* from midrange to draw attention → dash in with *Flurry of Blows*.
+* **Flow:** combines melee + radiant ki bursts for both range and close-up finishers.
+* **Finisher:** *Searing Arc Strike* unleashed mid-spin, leaving trails of azure fire.
+
+**Damage Flavor:** Each punch releases a whisper of heatless light, swirling like wind-touched flame.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Cheerful, confident, physically expressive (often pats shoulders or pokes playfully).
+* **Ideal:** Balance — “Strength is calm motion.”
+* **Bond:** her students at Valeron dojo.
+* **Flaw:** easily provoked when her discipline is mocked.
+* **Quirk:** stretches unconsciously during conversations, often mid-sentence.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeron Reach — Cliff Dojos, Sky Bridges, Wind Halls**
+* **Threat Gradient:** **Stable → Echo breeze zones**
+* **Encounter Framing:** **training duels**, **guarding aerial caravans**, **storm-beast ambushes**
+
+---
+
+## 📜 Background & Lifestyle
+
+Kaori was raised in a temple where motion was a prayer. She found enlightenment not through meditation, but through the rhythm of kicks and breath.
+Adventuring for her is an extension of faith — carrying the wind’s freedom wherever she goes.
+
+* **Lifestyle:** minimalist — sleeps under open sky, eats sparingly.
+* **Income:** temple donations + bounty shares.
+* **Relationships:** mentor to novice monks, good sparring friend of Mireya Solen (#202).
+
+---
+
+## 🧩 Morals & Ethics
+
+Order should not suffocate life; true peace moves like wind — unseen yet everywhere.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** confinement, still air, or being unable to move.
+* **Weaknesses:** impatient with rigid hierarchy.
+* **Strengths:** speed, accuracy, radiant ki control.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy tone — lively, teasing, confident**
+
+> “You’re slow today. Need me to stretch you out a bit?”
+> เธอพูดพร้อมยืดแขนอย่างท้าทาย สายตาเป็นประกายจนอีกฝ่ายหน้าแดงโดยไม่รู้ตัว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her radiant energy draws unseen creatures from Echo rifts; they whisper in the wind.
+* **Hooks:**
+
+  1. **The Wind That Hums:** A strange tune haunts her every time she meditates.
+  2. **Broken Bridge Duel:** A rival monk challenges her mid-storm.
+  3. **Echo Gale:** A wind temple starts singing in Severance resonance.
+
+## Tags: #Female #TomboyType1 #Human #Monk3 #SunSoul #Valeron #CR1 #Striker #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaori **ชอบทำให้คนเขินโดยการยื่นหน้าเข้ามาใกล้เวลาแซว**
+
+> “You’re blushing. That means I win.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff (focus)
+  * **Armor:** none (Monk AC)
+  * **Tools:** calligraphy set, meditation beads
+  * **Consumables:** potion of healing ×1
+  * **Misc:** wind bead choker, training cloth, incense pouch
+* **Level-Up Suggestions (to 4):** +2 DEX (to 22 cap) or Feat **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeron Reach / Wind Dojos / Sky Bridges**
+* **Threat Gradient:** **Stable → Echo Breeze Zone**
+* **Encounter Type:** **training duel**, **wind-elemental skirmish**, **Severance gale rift**
+* **Affiliation:** **Order of Resonant Light**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Chinese female human monk sun soul 168cm short dark blue hair sapphire eyes athletic toned body sleeveless high-collar tunic cropped midriff dark leggings martial pose radiant light energy wind aura tomboy expression sky bridge background

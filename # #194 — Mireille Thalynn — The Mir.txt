@@ -1,0 +1,198 @@
+# #194 — **Mireille Thalynn** — *The Mirrorblade Envoy of Thalassara*
+
+> “Every gesture is a reflection—some cut deeper than steel.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 194
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — บุคลิกสง่างาม สุขุมแบบพี่สาว แต่มีเสน่ห์ชวนให้คนรุ่นน้องหลง ทั้งอบอุ่นและมีออร่าอันตราย
+* **Age:** 29
+* **Race:** **Half-Elf (Thalassaran Lineage)** — ผิวเนียนอมชมพู ดวงตาเงินฟ้าเรืองแสงบางในเงา มีแถบแสงจาง ๆ ที่ข้างแก้มเมื่อสะท้อนแสงจันทร์
+* **Class & Level:** **Paladin (Oath of Devotion)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Diplomatic knight / Bodyguard envoy
+* **Rank / Position:** **Silver Envoy of the Moon Council**
+* **Organization:** **Order of the Azure Phalanx**
+* **Symbol:** two mirrored swords surrounding a shining crescent
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Korean hybrid**, elegant and serene with refined confidence.
+
+**Eyes:** pale sapphire blue.
+**Skin:** fair with rosy undertones and faint iridescence at the collarbone.
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result → Ponytail (top-weighted)*
+**Style:** **long ponytail tied high with a silver ribbon**, loose strands curl along her jawline.
+**Color:** **silver-blond with lavender highlights.**
+**Height:** 176 cm
+**Weight:** 64 kg
+**Body Type:** tall and fit, balanced curves, posture of trained nobility.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 70 – 104
+VALIDATION: • W/B = 0.714 → OK   • H/W = 1.49 → OK
+```
+
+**Jewelry & Accessories (female glasses 40% → 🎲 fail):**
+Wears **a silver circlet** with moonstone centerpiece, **azure teardrop earrings**, and **a thin chain bracelet** etched with her order’s motto.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 *Result → ceremonial armor with feminine silhouette*
+
+Her armor gleams like polished moonlight — **silver breastplate shaped for elegance**, **blue-silk underlayer**, and **flowing half-cloak** that shifts color between white and azure under light.
+When unarmored, she dons a **white high-collar blouse** and **navy corset**, accentuating her regal bearing.
+
+**Color Palette:** silver / blue / white / lavender
+**Accents:** pristine, diplomatic, quietly alluring
+
+**Weapons:** longsword “Reflector,” shield “Aegis of Lune.”
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **18** (chain mail + shield)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Persuasion +5, Insight +3, Athletics +5, Religion +2
+* **Languages:** Common, Elvish, Celestial
+
+**Paladin (Oath of Devotion) 3:**
+
+* **Divine Sense, Lay on Hands (15 HP)**
+* **Divine Smite, Spellcasting (CHA DC 13)**
+* **Channel Divinity:** *Sacred Weapon, Turn the Unholy*
+* **Spells Known:** *Bless, Cure Wounds, Protection from Evil and Good, Shield of Faith*
+
+**Attacks:**
+
+* **Longsword (Reflector):** +5 to hit, 1d8+3 slashing (1d10 two-handed)
+* **Smite:** +2d8 radiant on hit
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Frontline Protector / Support Leader
+* **Opener:** *Bless* allies, advance with shield.
+* **Flow:** *Shield of Faith* + *Smite* against leading foes, protecting weaker party members.
+* **Finisher:** *Sacred Weapon* activated — her sword emits radiant chords that resonate in the air.
+
+**Damage Flavor:** silver ripples flare from her blade, leaving mirrored streaks of light.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calm, confident, maternal tone; enjoys mentoring.
+* **Ideal:** Honor — “True strength listens before striking.”
+* **Bond:** Her fellow Azure knights, especially the younger cadets she trains.
+* **Flaw:** Bears guilt for lives lost under her protection.
+* **Quirk:** Always straightens others’ uniforms before battle.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Citadel, Mirror Hall, Canal Bastions**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **escort mission**, **peace negotiation ambush**, **duel at dawn**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a diplomat’s daughter, Mireille sought a life of conviction rather than comfort.
+She joined the Azure Phalanx and became its envoy to the Moon Council, blending words and steel in equal measure.
+
+* **Lifestyle:** refined yet humble; wakes before dawn to pray and train.
+* **Income:** envoy’s stipend + honor rewards.
+* **Relationships:** mentor to Lyra Thalassara, confidant of Sir Nael.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes in protecting hope, not punishing failure. Her mercy is deliberate, not naive.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** failing to save those under her guard again.
+* **Weaknesses:** overextends herself in defense.
+* **Strengths:** resilience, radiant smite, tactical poise.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — สุขุม มีออร่าพี่สาวใจดีแต่เด็ดขาดเวลาเตือน**
+
+> “You’re trembling again… come, steady your breath with mine.”
+> *เธอพูดเสียงเบา มือแตะไหล่ให้มั่น ก่อนสบตาแล้วส่งยิ้มที่ทั้งอบอุ่นและน่ากลัวในเวลาเดียวกัน*
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her “Reflector” sword can absorb radiant energy and project illusions of herself.
+* **Hooks:**
+
+  1. **Echo Duelist:** A false envoy wields a mirror copy of her blade.
+  2. **Broken Oath:** She must choose between council loyalty and saving a rogue knight.
+  3. **Silver Reflection:** The Moon Citadel’s mirrors begin whispering her name.
+
+## Tags: #Female #SeniorType #HalfElf #Paladin3 #OathOfDevotion #Thalassara #CR1 #Knight #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mireille **ชอบทำให้คนรุ่นน้องรู้สึกปลอดภัย** แต่ชอบมองแบบแกล้งเขิน
+
+> “That’s better. See? I told you, you can lean on me.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, shield
+  * **Armor:** chain mail
+  * **Tools:** prayer beads, diplomatic seal
+  * **Consumables:** healing potion ×1
+  * **Misc:** moon circlet, silver ribbon
+* **Level-Up Suggestions (to 4):** +2 CHA (to 18) or Feat **Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Moon Citadel / Canal Bastions**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **diplomatic escort**, **temple defense**, **echo knight infiltration**
+* **Affiliation:** **Order of the Azure Phalanx**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Korean female half-elf paladin 176cm silver blond long ponytail lavender highlight sapphire eyes elegant knight silver armor blue cloak tall curvy body confident gentle smile

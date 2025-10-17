@@ -1,0 +1,189 @@
+# #197 — **Rei Solenne** — *The Celestine Arcanist of Thalassara*
+
+> “Light bends when spoken to sweetly enough.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 197
+* **Gender (weighted random):** **Male (Type: เฟมบอย)** — ท่าทางอ่อนโยน อ้อนแอ้น แต่แววตาฉลาดและซุกซน มักใช้คำพูดสองแง่สามง่ามทำให้คนที่คุยด้วยหน้าแดงได้ง่าย
+* **Age:** 22
+* **Race:** **Half-Elf (Thalassaran Lineage)** — ผิวขาวอมชมพู ดวงตาสีเทาเงินสะท้อนแสงเรืองอ่อนในความมืด มีรอยสัญลักษณ์เรืองแสงจาง ๆ ใต้ตาซ้าย
+* **Class & Level:** **Sorcerer (Divine Soul)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Wandering mage / Scholar of resonance
+* **Rank / Position:** **Independent arcanist affiliated with the Echo Archives**
+* **Organization:** **Thalassaran Arcanum**
+* **Symbol:** twin concentric halos around a moon drop
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean hybrid**, androgynous beauty — soft facial lines, delicate lips, and bright gaze that disarms even seasoned warriors.
+
+**Eyes:** silver-gray with lilac shimmer.
+**Skin:** porcelain pale with faint blush along the neck and cheeks.
+**Hair (Feminine Hair Randomizer applied — Femboy shares same pool):** 🎲 *Result → Twin Bun (slightly higher than twin tail)*
+**Style:** **short twin buns with trailing bangs**, playful but elegant, tied with pale ribbons.
+**Color:** **ashy lavender with silver ends.**
+**Height:** **159 cm (femboy cap <160)**
+**Weight:** 50 kg
+**Body Type:** slender, soft frame; delicate shoulders, long eyelashes, refined elegance that moves like a dancer rather than a fighter.
+
+**Accessories (femboy auto 40% + theme success):** wears **round crystal spectacles**, **moonstone earrings**, a **thin choker ribbon**, and **bracelet inscribed with runes of light**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 *Result → stylish mage outfit (subtly revealing)*
+
+Rei wears a **white-and-lavender sleeveless robe coat** that opens slightly at the chest, showing a fitted **silk crop vest** beneath. The garment trails down like flowing curtains, embroidered with celestial sigils.
+The waist is cinched with a **silver sash**, emphasizing his slim figure.
+Knee-high boots of soft leather complete the look, and the robe’s inner lining gleams with faint runic glow.
+
+**Color Palette:** white / lavender / silver / pale blue
+**Accents:** elegant, gender-fluid, radiant
+
+**Weapons:** crystal focus “Eclipsera” (wand), ceremonial dagger for channeling.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **21 HP**
+* **AC:** **14** (Mage Armor active)
+* **Speed:** 30 ft
+* **STR 8 (–1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 12 (+1)** **WIS 10 (+0)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, CHA +6
+* **Skills:** Arcana +3, Insight +2, Persuasion +6, Deception +6
+* **Languages:** Common, Elvish, Celestial, Thalassaran Cant
+
+**Sorcerer (Divine Soul) 3:**
+
+* **Favored by the Gods (2d4)** once per short rest
+* **Metamagic:** Subtle Spell, Quickened Spell
+* **Spell Save DC:** 14 | **Spell Attack Bonus:** +6
+
+**Known Spells:**
+
+* **Cantrips:** *Light, Sacred Flame, Friends, Prestidigitation*
+* **1st–2nd Level:** *Shield, Cure Wounds, Guiding Bolt, Mirror Image, Suggestion, Hold Person*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Support Caster / Enchanter / Subtle manipulator
+* **Opener:** *Guiding Bolt* from distance, then *Mirror Image* for self-protection.
+* **Flow:** Uses *Suggestion* or *Hold Person* to disable targets while allies advance.
+* **Finisher:** *Quickened Guiding Bolt* chained with a charming taunt.
+
+**Damage Flavor:** every cast leaves faint petals of white light and soft ringing like distant bells.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Playful, teasing, affectionate yet calculating.
+* **Ideal:** Harmony — “Even chaos sings in key if you listen close enough.”
+* **Bond:** Fellow mages of the Thalassaran Arcanum.
+* **Flaw:** Flirts as a defense mechanism.
+* **Quirk:** Tilts his glasses slightly every time before saying something that’ll make someone blush.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Library, Amphitheater Labs, Echo Archives**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **research errand**, **ritual gone awry**, **magical sabotage**
+
+---
+
+## 📜 Background & Lifestyle
+
+Rei was a prodigy born to a lesser scholar family, quickly surpassing his tutors in resonance theory.
+Despite his angelic looks, his curiosity is boundless — especially toward emotions.
+
+* **Lifestyle:** nocturnal; sleeps late, wakes to soft music.
+* **Income:** magical consultancy + academy lectures.
+* **Relationships:** often “accidentally” flusters people who hire him for serious work.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes knowledge is divine love — every spell should connect hearts before striking foes.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being truly seen beyond his charm façade.
+* **Weaknesses:** fragile physique, overuses magic to maintain composure.
+* **Strengths:** charm, wit, emotional insight, divine casting flexibility.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เฟมบอย tone — อ่อนหวานแต่จงใจแกล้งให้คนหลุด เขินง่ายแต่ปากไว**
+
+> “You shouldn’t stare that much... unless you want me to make it worth your while.”
+> *เสียงนุ่มแต่แฝงหัวเราะในลำคอ เขาใช้ปลายนิ้วแตะริมแว่นเบา ๆ พลางมองด้วยสายตาที่รู้ดีว่ากำลังทำให้อีกฝ่ายเสียอาการ*
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Rei’s magic was touched by an angelic echo that feeds on affection — if left unbalanced, it consumes the warmth of those he charms.
+* **Hooks:**
+
+  1. **Echo of Desire:** PCs discover his divine familiar, a sentient halo fragment, slowly developing a will of its own.
+  2. **Whisperglass Ritual:** His experiments risk fusing the city’s echoes into one consciousness.
+  3. **The Blushing Curse:** Someone cursed Rei to make others uncontrollably attracted to him — and he secretly enjoys it.
+
+## Tags: #Male #Femboy #HalfElf #Sorcerer3 #DivineSoul #Thalassara #CR1 #Mage #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rei **ชอบทำให้คนรอบตัวเขินหรือหลุดสมาธิ แต่จะหน้าแดงกลับเองถ้าโดนชมกลับ**
+
+> “H-Hey… don’t say it like that. You’ll make *me* lose my spell.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** crystal wand, ceremonial dagger
+  * **Armor:** none (Mage Armor)
+  * **Tools:** scholar’s kit, ink & quill
+  * **Consumables:** potion of mana renewal ×1
+  * **Misc:** glasses, moonstone choker
+* **Level-Up Suggestions (to 4):** +2 CHA (to 20) or Feat **Metamagic Adept**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Echo Archives / Moon Amphitheater**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **magical debate duel**, **echo anomaly containment**, **forbidden ritual**
+* **Affiliation:** **Thalassaran Arcanum**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean male half-elf femboy sorcerer 159cm ashy lavender twin buns silver eyes pale skin crystal glasses white lavender robe crop vest delicate androgynous beauty shy smile divine aura

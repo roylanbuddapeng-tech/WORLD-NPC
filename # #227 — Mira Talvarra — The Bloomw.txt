@@ -1,0 +1,200 @@
+# #227 — **Mira Talvarra** — *The Bloomwright of Whisperroot Vale*
+
+> “Every seed is a spell that remembers the warmth of sunlight.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 227
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — เป็นมิตร ยิ้มง่าย รักการลุยภาคสนาม มีอารมณ์ขันแต่จริงจังเวลาใช้เวท ชอบช่วยคนอื่นแต่ไม่ชอบถูกขอบคุณมากเกินไป
+* **Age:** 24
+* **Race:** **Half-Beast (Mammal subtype — Deerkin)** — มนุษย์ประมาณ 85% มีหูและเขากวางเล็กเรียว ผิวมีจุดกระเล็กๆ ตามแก้มและไหล่คล้ายลายของกวางอ่อน
+* **Class & Level:** **Druid (Circle of Dreams)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** traveling botanist / healer / herbal enchantress
+* **Organization:** **Verdant Veil Collective**
+* **Symbol:** interwoven vine surrounding a crescent leaf
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–Western European**, gentle beauty with natural charm.
+
+**Eyes:** soft hazel-green with golden flecks.
+**Skin:** warm ivory with faint freckles; faint shimmer on her collarbones under sunlight.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Bob (15% chance)**
+**Style:** **short bob**, slightly wavy, tucked behind one ear where her small antler sprouts.
+**Color:** **chestnut brown with honey-gold highlights.**
+
+**Height:** 165 cm
+**Weight:** 55 kg
+**Body Type:** soft yet fit, lean from travel, graceful like a forest nymph.
+
+**FEMALE BODY METRICS (รุ่นเพื่อน type — open range)**
+
+```
+CUP: D   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 90 – 67 – 95
+VALIDATION: • W/B = 0.744 → OK   • H/W = 1.41 → OK
+```
+
+**Theme Layer:** **None (30%)**
+**Glasses Roll (50%):** success → wears **oval wooden-frame glasses** used for plant observation.
+**Jewelry & Accessories:** dried flower earring, vine bracelet, charm-pendant vial containing glowing pollen.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — soft rustic attire
+
+Mira wears a **sleeveless moss-green tunic** belted with braided vines, **short leather skirt**, and **thigh-high boots** of soft barkweave.
+A **half-cloak of pale leaves** trails lightly behind her, glowing faintly at dusk.
+The outfit hints at curves while maintaining forest practicality.
+
+**Color Palette:** green / brown / cream / gold
+**Accents:** leaf embroidery, druidic sigils, natural fibers
+
+**Weapons & Gear:**
+
+* **Druidic staff entwined with ivy**, **pouch of seeds**, **healing salves**, **herbal notebook**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **26 HP**
+* **AC:** **15** (leather armor + DEX + shield of vines)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 16 (+3)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +3, WIS +5
+* **Skills:** Nature +3, Medicine +5, Animal Handling +5, Survival +4
+* **Languages:** Common, Druidic, Sylvan
+
+**Druid 3 — Circle of Dreams**
+
+* **Balm of the Summer Court:** bonus healing pool (1d6 × druid level).
+* **Hearth of Moonlight and Shadow:** sanctuary bubble while resting.
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Guidance, Produce Flame, Thorn Whip*
+  * *1st:* *Cure Wounds, Faerie Fire, Goodberry*
+  * *2nd:* *Lesser Restoration, Moonbeam*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Healer / Support / Battlefield Sustainer**
+* **Opener:** *Faerie Fire* to mark enemies, *Balm of the Summer Court* to patch allies mid-fight.
+* **Flow:** maintains *Moonbeam* as a radiant zoning spell while dodging gracefully.
+* **Finisher:** bursts of *Produce Flame* when pushed into melee, igniting vines in radiant light.
+
+**Damage Flavor:** glowing pollen trails swirl like fireflies as she moves, reforming into protective sigils.
+
+---
+
+## 💬 Personality
+
+* **Traits:** gentle humor, protective instincts, speaks softly but decisively when needed.
+* **Ideal:** Harmony — “Growth takes patience, even for wounds.”
+* **Bond:** her grove’s dryad friend; sends her letters folded as flower petals.
+* **Flaw:** can’t say no to people in pain; spreads herself too thin.
+* **Quirk:** names every seed she plants.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Verdant Vale — Whisperroot Grove, Bloom Basin**
+* **Threat Gradient:** **Stable → Wavering (Fungal Echo)**
+* **Encounter Framing:** **healing retreat**, **forest corruption**, **ritual renewal**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once an apprentice botanist, Mira discovered she could awaken flowers with song.
+She travels helping communities rebuild nature after Severance damage.
+
+* **Lifestyle:** simple, nature-based, always smells faintly of jasmine.
+* **Income:** herbal trade, healing commissions.
+* **Relationships:** close to Selene (#226), sometimes assists her moonlight rituals.
+
+---
+
+## 🧩 Morals & Ethics
+
+Sees nature as a mirror — if the world hurts, it only reflects the people within it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** barren lands and silence where no life stirs.
+* **Weaknesses:** soft heart; hesitates to harm corrupted beings.
+* **Strengths:** restorative magic, empathy, adaptability.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — ชวนคุยง่าย ขี้แซว และอบอุ่นเหมือนคนที่อยู่ข้างๆ เสมอ**
+
+> “You’ve got dirt on your cheek… here, let me—” *เธอเอานิ้วแตะเบาๆ พร้อมยิ้มละไม*
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her druidic power comes from a Severance seed purified in her body; removing it could kill her.
+* **Hooks:**
+
+  1. **The Withered Path:** flowers along her trail begin to die — something’s unbalancing her link.
+  2. **Heartroot Pact:** her deerkin bloodline is tied to a guardian spirit seeking rebirth.
+  3. **Fungal Bloom:** her grove is infected by parasitic spores that mimic her voice.
+
+## Tags: #Female #PeerType #HalfBeast #Deerkin #Druid3 #CircleOfDreams #VerdantVale #CR1 #Healer #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mira **มักทำให้คนเขินด้วยการเข้าใกล้โดยไม่รู้ตัว แล้วพูดช้าๆ ด้วยเสียงอ่อนโยน**
+
+> “Relax… I can feel your heartbeat. Nature likes it calm.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** staff, sickle
+  * **Armor:** druidic leather
+  * **Tools:** herbal kit, seed pouch
+  * **Consumables:** healing salve ×2, goodberries ×10
+  * **Misc:** vine charm, pollen vial, wooden glasses
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 18)** or **Feat: Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Whisperroot Grove / Bloom Basin / Verdant Vale**
+* **Threat Gradient:** **Stable → Wavering (Fungal Echo)**
+* **Encounter Type:** **healing mission**, **forest defense**, **ritual bloom**
+* **Affiliation:** **Verdant Veil Collective**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese European female deerkin half-beast druid circle of dreams 165cm chestnut bob hair hazel green eyes gentle smile soft light forest outfit green tunic short skirt antler small wooden glasses vines and flowers natural light

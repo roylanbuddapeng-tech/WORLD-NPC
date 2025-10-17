@@ -1,0 +1,198 @@
+# #192 — **Neriel Duskfen** — *The Wildclaw Healer of Skarnov*
+
+> “Muscle mends faster when you believe in the pulse that drives it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 192
+* **Gender (weighted random):** **Female (Type: Tomboy, Type 2 — athletic build, outdoorsy, confident grin)**
+* **Age:** 24
+* **Race:** **Half-Beast (Lynxkin)** — ใบหูเล็กปลายแหลมคล้ายแมวป่า ปลายผมมีขนสีเทาเงินแซม ดวงตาเหลืองอำพันสะท้อนแสงในเงาป่า
+* **Class & Level:** **Cleric (Nature Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Healer / Beast-hunter medic / Survivalist
+* **Rank / Position:** **Field Healer of the Skarnov Vanguard**
+* **Organization:** **Order of the Forge-Root**
+* **Symbol:** clawprint encircled by vines
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Nordic–Thai hybrid**, athletic, sun-kissed, wild beauty.
+
+**Eyes:** amber-gold with vertical feline slits.
+**Skin:** tanned with natural freckles over nose and shoulders.
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result → Short (25%)*
+**Style:** **short tousled cut**, slightly spiked, side-swept bangs.
+**Color:** **steel gray with silver tips and faint tawny undertones.**
+**Height:** 173 cm
+**Weight:** 63 kg
+**Body Type:** strong athletic feminine — firm abdomen, muscular thighs, confident posture.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 90 – 68 – 96
+VALIDATION: • W/B = 0.755 → OK   • H/W = 1.41 → OK
+```
+
+**Jewelry & Accessories (female glasses 40% → 🎲 fail):**
+Wears a **bone pendant**, **woven bracelet of beast sinew**, and **iron loop earrings** with a single green rune shard.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 *Result → Functional gear with rugged flair*
+
+Neriel’s clothing balances practicality and wild charm:
+A **tight leather top with open shoulders**, paired with **reinforced forest-green trousers** tucked into knee boots.
+Her **pauldron and bracers** are shaped from barksteel, and a **half-cloak of fur** drapes over one shoulder.
+
+**Color Palette:** forest green / brown / silver-gray / tawny
+**Accents:** earthy, primal, slightly flirtatious
+
+**Weapons:** heavy mace “Rootbreaker” and wooden shield “Verdant Coil.”
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **17** (scale mail + shield)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 12 (+1)** **CON 14 (+2)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +3
+* **Skills:** Medicine +5, Survival +5, Athletics +4, Nature +2
+* **Languages:** Common, Sylvan, Druidic
+
+**Cleric (Nature Domain) 3:**
+
+* **Channel Divinity (Charm Animals/Plants)**
+* **Domain Spells:** *Animal Friendship, Speak with Animals, Barkskin, Spike Growth*
+* **Spellcasting (WIS DC 13, +5 atk):** *Cure Wounds, Healing Word, Bless, Create Water, Spiritual Weapon*
+
+**Attacks:**
+
+* **Rootbreaker (Mace):** +4 to hit, 1d6+2 bludgeoning
+* **Spiritual Weapon:** +5 to hit, 1d8+3 force
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Frontline Support / Healer
+* **Opener:** *Bless* allies → charges in melee to shield weaker companions.
+* **Flow:** Combines *Barkskin* for defense, *Spike Growth* for control, *Healing Word* mid-battle.
+* **Finisher:** *Spiritual Weapon* shaped like a claw made of light.
+
+**Damage Flavor:** her magic leaves faint claw-marks of green light in the air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Bluntly honest, teasing, loyal.
+* **Ideal:** Pack — “If one falls, we all feel it.”
+* **Bond:** Her hunting squad; calls them her “clawmates.”
+* **Flaw:** Jumps into fights to protect others even when injured.
+* **Quirk:** Calls everyone “cub” affectionately.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ironwood Expanse, Clawwatch Ridge, Beast Trenches**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **rescue mission in ruins**, **forest skirmish**, **beast ambush under stormlight.**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a hunter and a forest priestess, Neriel grew up learning how to mend wounds between battles.
+Her faith is rooted in motion and vitality rather than prayer.
+
+* **Lifestyle:** lives outdoors more than in taverns; eats like a wolf.
+* **Income:** bounty hunting, survival escort missions.
+* **Relationships:** mentor to younger adventurers — calls them “little claws.”
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes strength is a gift meant to shelter, not dominate.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of her beast nature.
+* **Weaknesses:** stubborn pride, rushes to shield allies.
+* **Strengths:** field healing, beast empathy, feral endurance.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy tone — พูดตรง มั่นใจ ชอบแหย่แบบพี่สาวบ้าพลัง**
+
+> “Hey, cub, you bruise easy—stand behind me next time.”
+> *เธอยิ้มมุมปากแล้วตบหัวไหล่เบา ๆ ก่อนจะเดินนำไปโดยไม่รอคำตอบ*
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her claws manifest stronger during moonrise — a sign she’s part of a forgotten druidic line.
+* **Hooks:**
+
+  1. **Beast’s Call:** She’s hunted by cultists who see her as the next “Alpha Vessel.”
+  2. **Echo Hunt:** The forest spirits she communes with start whispering in reverse.
+  3. **Pulse Pact:** She needs rare herbs found only in Severance zones.
+
+## Tags: #Female #TomboyType #HalfBeast #Lynxkin #Cleric3 #NatureDomain #Skarnov #CR1 #Healer #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Neriel **ไม่ค่อยเขินแต่ชอบแกล้งให้คนอื่นเขิน**
+
+> “What, never seen a woman flex before?” *หัวเราะพร้อมเหวี่ยงโล่ใส่อากาศเบา ๆ*
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** mace, shield
+  * **Armor:** scale mail, fur cloak
+  * **Tools:** herbalist kit
+  * **Consumables:** healing potion ×1
+  * **Misc:** beast claw pendant, rune earring
+* **Level-Up Suggestions (to 4):** +2 WIS (to 18) or Feat **Warcaster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Ironwood Expanse / Clawwatch Ridge**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **rescue mission**, **defensive stand**, **spiritual corruption cleanse**
+* **Affiliation:** **Order of the Forge-Root**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Nordic Thai female half-beast lynxkin cleric nature domain 173cm short spiky gray silver hair amber eyes athletic muscular build tanned skin leather top fur cloak green pants forest healer mace shield confident grin

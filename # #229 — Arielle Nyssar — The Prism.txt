@@ -1,0 +1,200 @@
+# #229 — **Arielle Nyssar** — *The Prismancer of Lumestra*
+
+> “Light is never simple. Bend it, and it will show you what the world hides.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 229
+* **Gender:** **Female (Type: รุ่นน้อง)** — สดใส แอบมั่นใจในเสน่ห์ตัวเอง ชอบเรียกร้องความสนใจจากคนที่ชื่นชมแต่จริงๆ แอบตั้งใจเรียนเวทมากกว่าที่ใครรู้
+* **Age:** 20
+* **Race:** **Other (Genasi — Lightborn)** — ผิวมนุษย์ 90% แต่เรืองแสงเบา ๆ ตามจังหวะหัวใจ มีจุดประกายเล็ก ๆ ตามปลายนิ้ว
+* **Class & Level:** **Sorcerer (Divine Soul)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** street illusionist / healing apprentice / performer mage
+* **Organization:** **Lumestra Temple of Radiance**
+* **Symbol:** a golden prism refracting seven rays
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–French**, luminous and playful.
+
+**Eyes:** bright amber with faint rainbow rings reflecting sunlight.
+**Skin:** warm tone, with luminescent veins faintly visible under strong emotion.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail (highest weight)**
+**Style:** **long high ponytail**, tied with gold-thread ribbon, slightly curled ends.
+**Color:** **pastel pink fading into sunlit gold.**
+
+**Height:** 163 cm
+**Weight:** 52 kg
+**Body Type:** petite yet shapely, with delicate curves and dancer’s grace.
+
+**FEMALE BODY METRICS (รุ่นน้อง type — large cups allowed)**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 95 – 67 – 97
+VALIDATION: • W/B = 0.705 → OK   • H/W = 1.45 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)** — the daughter of a minor noble family sent to “learn humility” at the temple.
+**Glasses Roll:** fail (no glasses).
+**Jewelry & Accessories:** rainbow-gem earrings, light-thread anklet, gold choker with prism pendant.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** high — temple dancer style with confident elegance
+
+Arielle wears a **two-piece ceremonial garb** — **white-gold silk wrap top** leaving shoulders and midriff bare, with a **flowing skirt split to the thigh** over shimmering leggings.
+A **transparent veil cloak** of light-thread drapes behind her, scattering prismatic reflections as she moves.
+The attire is radiant but reverent — divine beauty balanced with youthful spark.
+
+**Color Palette:** white / gold / soft pink / pastel prism tones
+**Accents:** silk shimmer, reflective threads, faint aura glows
+
+**Weapons & Gear:**
+
+* **Prism focus crystal**, **sun-touched dagger**, **healing salve pouches**, **mirror fragments for spell refraction**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **15** (mage armor + DEX + divine shimmer)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 10 (+0)** **WIS 11 (+0)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, CHA +6
+* **Skills:** Performance +6, Persuasion +6, Arcana +2, Insight +2
+* **Languages:** Common, Celestial, Draconic
+
+**Sorcerer 3 — Divine Soul (Lightborn)**
+
+* **Favored by the Gods:** add 2d4 to failed saves or misses.
+* **Metamagic:** *Twinned Spell*, *Distant Spell*
+* **Spellcasting (CHA DC 14, +6 atk)**
+
+  * *Cantrips:* *Sacred Flame, Light, Minor Illusion, Prestidigitation*
+  * *1st:* *Bless, Cure Wounds, Magic Missile*
+  * *2nd:* *Mirror Image, Scorching Ray*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Blaster / Support Healer / Illusion Manipulator**
+* **Opener:** *Bless* → *Mirror Image* to set up radiant field.
+* **Flow:** mixes healing and burst damage with illusion distractions.
+* **Finisher:** *Scorching Ray* refracted through prism focus, creating a radiant cone that blinds enemies.
+
+**Damage Flavor:** beams scatter into rainbows, each ray hums a harmonic note on impact.
+
+---
+
+## 💬 Personality
+
+* **Traits:** curious, upbeat, competitive, affectionate.
+* **Ideal:** Beauty — “If the world can’t be kind, at least it can be bright.”
+* **Bond:** her mentor priestess who believed she could heal hearts through art.
+* **Flaw:** easily jealous when overlooked.
+* **Quirk:** her light aura brightens when flustered.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Lumestra — Temple Gardens, Sunstep Plaza, Mirror Pools**
+* **Threat Gradient:** **Stable → Wavering (light echo distortion)**
+* **Encounter Framing:** **festival performance**, **holy rite**, **sunlight anomaly**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a noble family, Arielle was sent to Lumestra to temper her pride.
+Instead, she found joy in the temple’s art of light-weaving — learning that creation and radiance are just another form of love.
+
+* **Lifestyle:** luxurious but humble; lives in shared quarters, keeps a diary of sunlight reflections.
+* **Income:** temple performances, light-ritual blessings.
+* **Relationships:** friendly rivalry with Natsumi (#225), admiration for Selene (#226).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes divine power should delight as much as it heals — compassion through color.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** darkness or blindness.
+* **Weaknesses:** emotionally reactive; distracted by beauty.
+* **Strengths:** high charisma, radiant control, inspiring presence.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — ซื่อแต่อ้อน ใช้แสงและรอยยิ้มทำให้คนใจเต้น**
+
+> “Senpai, do I shine too much? Then look closer — I’ll dim just for you.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her light magic carries fragments of a lost solar entity sealed in her heart.
+* **Hooks:**
+
+  1. **The Dim Festival:** her radiance begins to flicker during a temple ritual.
+  2. **Solar Heirloom:** a mirror relic reflects her divine ancestry.
+  3. **Shattered Prism:** her heart-crystal cracks, releasing dangerous radiance.
+
+## Tags: #Female #JuniorType #Genasi #Sorcerer3 #DivineSoul #Lumestra #CR1 #LightMage #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Arielle **มักยื่นหน้าเข้ามาใกล้เพื่อให้เห็นประกายตาในระยะประชิด**
+
+> “See that glow? That’s not magic. That’s you.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** prism focus, dagger
+  * **Armor:** radiant weave outfit
+  * **Tools:** mirror kit, dye set
+  * **Consumables:** sun salve ×2, potion of healing ×1
+  * **Misc:** prism pendant, diary, auric anklet
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Lumestra Temple / Sunstep Plaza / Mirror Pools**
+* **Threat Gradient:** **Wavering (light distortion)**
+* **Encounter Type:** **festival defense**, **ritual failure**, **radiant duel**
+* **Affiliation:** **Temple of Radiance — Lumestra**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai French female genasi divine soul sorcerer 163cm high ponytail pastel pink gold hair amber eyes glowing skin radiant outfit white gold silk wrap top skirt split thigh prism jewelry light aura youthful beautiful temple sunlight background

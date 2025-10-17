@@ -1,0 +1,211 @@
+# #264 — **Liora Kaenvelle** — *The Crimson Hex of Sunreach*
+
+> “Light burns brightest when you dare to hold it barehanded.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 264
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — มั่นใจในตัวเอง พูดจาคมแต่น้ำเสียงอบอุ่น มีความเป็นผู้นำโดยธรรมชาติ แอบหวงเพื่อนแต่ไม่พูดตรงๆ
+* **Age:** 23
+* **Race:** **Human**
+* **Class & Level:** **Warlock (Fiend Pact)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** **flame pact duelist / contract courier / infernal researcher**
+* **Organization:** **Sunreach Pact Guild**
+* **Symbol:** วงแหวนเพลิงหมุนรอบพระอาทิตย์ครึ่งดวง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Latin**, sun-kissed golden skin, strong eyes, alluring smile with just a hint of rebellion.
+
+**Eyes:** amber-orange with faint flickers of firelight when excited.
+**Skin:** warm honey tone, faint burn scars on left shoulder (ritual mark).
+
+**Hair (Female Hair Randomizer):** 🎲 **Ponytail (most frequent)**
+**Style:** long flowing ponytail tied high, a few loose locks frame her face.
+**Color:** **crimson with dark roots**, the ends glow faintly when channeling flame.
+
+**Height:** 168 cm
+**Weight:** 58 kg
+**Body Type:** **athletic hourglass**, defined waist and powerful stance; confident posture that makes her seem taller.
+
+**FEMALE BODY METRICS (รุ่นเพื่อน rule – random)**
+🎲 Rolled medium-large bust.
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 95 – 70 – 100
+VALIDATION: • W/B = 0.74 → OK   • H/W = 1.43 → OK
+```
+
+**Sub-Theme:** 🎲 **None (Free Adventurer)** — not noble, not nerd, just raw charisma and grit.
+
+**Glasses Roll (50%):** 🎲 Fail → **No glasses**
+
+**Jewelry & Accessories:** flame-mark choker, thin gold hoops, leather bracer etched with pact sigils, crimson crystal focus ring.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High — confident battlewear**
+
+Liora wears a **black cropped combat jacket** over a **scarlet halter top** that reveals toned abs.
+Tight **charred-leather pants** hug her figure with flame-stitched seams, and a **half-skirt** flares from her belt.
+Her arms are wrapped in **ash-grey bandages** glowing faintly when she casts.
+
+**Palette:** black / scarlet / gold
+**Accents:** glowing sigil lines, scorch patterns, crimson crystal jewelry
+
+**Weapons & Gear:**
+
+* *Infernal Grimoire (contract focus)*
+* *Fiend-blood dagger*
+* *Brimstone charm ring*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **18 HP**
+* **AC:** **15** (leather + DEX + infernal ward)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 16 (+3)** **CON 12 (+1)** **INT 11 (+0)** **WIS 12 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CHA +5, WIS +3
+* **Skills:** Intimidation +5, Arcana +2, Persuasion +5, Athletics +2
+* **Languages:** Common, Infernal
+
+**Warlock (Fiend Pact)**
+
+* **Expanded Spells:** *Burning Hands, Command, Scorching Ray, Flaming Sphere*
+* **Dark One’s Blessing:** gain temp HP on kill.
+* **Eldritch Invocations:** *Agonizing Blast*, *Fiendish Vigor*.
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Cantrips:* *Eldritch Blast, Fire Bolt, Minor Illusion*
+  * *1st–2nd:* *Armor of Agathys, Scorching Ray, Hellish Rebuke*
+
+**Attacks**
+
+* **Eldritch Blast:** +5, 1d10+3 force.
+* **Fire Bolt:** +5, 1d10 fire.
+* **Scorching Ray:** +5, 2d6×3 fire.
+
+---
+
+## 🎯 Combat Tactics (Offense)
+
+* **Role:** **Ranged Striker / Sustain Damage**
+* **Opener:** *Armor of Agathys* → *Eldritch Blast* → *Hellish Rebuke* reaction.
+* **Flow:** *Fiendish Vigor* temp HP buffer, aggressive repositioning.
+* **Finisher:** *Scorching Ray* with radiant feedback from pact mark.
+
+**Flavor:** her flames manifest as phoenix feathers—embers that flutter and reform behind her.
+
+---
+
+## 💬 Personality
+
+* **Traits:** confident, loyal, protective; teases with warmth not cruelty.
+* **Ideal:** Strength through connection — “I burn for those beside me.”
+* **Bond:** her pact spirit “Azel,” a fiery wolf who guides her in dreams.
+* **Flaw:** reckless, overextends to protect allies.
+* **Quirk:** smirks before every spell like she’s daring fate to hit harder.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Sunreach Frontier — Emberfield Ruins, Pact Chambers**
+* **Threat Gradient:** **Wavering → Echo Surge**
+* **Encounter Framing:** **demonic ambush**, **contract duel**, **pact rebirth trial**
+
+---
+
+## 📜 Background & Lifestyle
+
+Liora once guarded caravans across scorched lands before being saved by a fiendish spirit who offered her power in return for her promise to “burn brighter than despair.”
+Now she’s a freelancer mercenary and field protector for smaller towns.
+
+* **Lifestyle:** lives above a forge, always smells faintly of smoke.
+* **Income:** contracts, demon hunts, magical item retrievals.
+* **Relationships:** childhood friend of Calla (#261); sparring rival to Yuri (#263).
+
+---
+
+## 🧩 Morals & Ethics
+
+She’s not afraid of temptation — believes power’s only evil when you stop caring about people.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of her pact spirit.
+* **Weaknesses:** emotionally impulsive; heat of battle blinds judgment.
+* **Strengths:** explosive damage, charisma, unbreakable resolve.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — คุยตรง แหย่แรงแต่ใจดี ชอบจับไหล่ จ้องตา และพูดประชิดหน้าด้วยรอยยิ้มมั่นใจ**
+
+> “You’re scared? Don’t be. I’m literally on fire right now—what’s your excuse?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Azel, her fiend patron, was once a mortal hero—his soul’s burning inside her mark.
+* **Hooks:**
+
+  1. **Pact Burn:** her flames start singing with another’s voice.
+  2. **Ember Hunt:** she’s hunted by zealots who call her “phoenix liar.”
+  3. **Infernal Reversal:** her pact mark starts absorbing heat—turning cold flame.
+
+## Tags: #Female #FriendType #Human #Warlock3 #FiendPact #CR1 #Adventurer #Sunreach
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Liora **ชอบทำให้คนอื่นเขินโดยแกล้งเรียกชื่อเล่นเสียงต่ำหรือพิงไหล่ตอนพูด ขณะตาเป็นประกายร้อนแรง**
+
+> “Relax. If you can’t stand the heat—then you’d better stand closer.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** fiend-blood dagger
+  * **Armor:** cropped combat jacket
+  * **Tools:** infernal grimoire, brimstone charm
+  * **Consumables:** ember oil, phoenix ash
+  * **Misc:** Azel’s sigil
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 19)** or **Feat: War Caster / Elemental Adept (Fire)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Sunreach Frontier / Emberfield Ruins**
+* **Threat Gradient:** **Wavering → Echo Surge**
+* **Encounter Type:** **contract duel**, **pact trial**, **fiend hunt**
+* **Affiliation:** **Sunreach Pact Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Latin female human warlock fiend pact 168cm long crimson ponytail amber eyes tanned skin E-cup athletic confident friend type high exposure cropped jacket halter top black pants fiery aura phoenix flame tattoos charismatic adventurer

@@ -1,0 +1,204 @@
+# #173 — **Nerine Vale** — *The Silent Bloom of Thalassara*
+
+> “Not every flower needs to sing. Some are meant to listen.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 173
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — มีเสน่ห์แบบเด็กสาวขี้อายแต่มีไฟในตัวเอง ยิ้มบาง ๆ แล้วหลบตาเวลาถูกชม น้ำเสียงนุ่มนวลแต่เปี่ยมด้วยความมุ่งมั่น
+* **Age:** 19
+* **Race:** **Half-Elf (Thalassaran Lineage)** — มนุษย์ 85% หูเรียวยาวแผ่วบาง ปลายเรืองแสงจาง ๆ เมื่ออยู่ใกล้แหล่งน้ำ
+* **Class & Level:** **Cleric (Domain of Nature)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** นักบวชฝึกหัด / ผู้ดูแลสวนเสียงในวิหารน้ำ
+* **Rank / Position:** **Acolyte of the Bloom Choir**
+* **Organization:** **Temple of the Seven Resonances (Thalassara)**
+* **Symbol:** ดอกไม้เปิดบานเหนือวงคลื่นน้ำ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Vietnamese**, delicate face with serene grace and soft gestures.
+
+**Eyes:** gentle turquoise with flecks of pale gold near the iris.
+**Skin:** light ivory with faint shimmer under temple light.
+
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result: Bun Subroll → Single Low Bun*
+**Hair style:** **low bun with braided sides**, adorned with a silver-blue pin in the shape of a lily.
+**Texture:** fine, smooth.
+**Color:** **soft aqua-blue with silver reflections**.
+**Height:** 162 cm
+**Weight:** 51 kg
+**Body Type:** **Slim fit**, graceful but slightly fragile frame.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 86 – 62 – 88
+VALIDATION: • W/B = 0.720 → OK   • H/W = 1.41 → OK
+```
+
+**Jewelry & Accessories (30% glasses roll → no glasses):**
+Silver **necklace with crystal droplet**, **small earrings shaped like petals**, and a **woven wrist ribbon** of blue thread blessed by her mentor.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Temple attire, modest with elegant detail*
+
+Nerine wears a **flowing sleeveless temple dress**, soft white and light teal, cinched by a sash of silver cloth.
+The hem glows faintly when wet, revealing faint runes of blessing.
+A **light cloak** of gossamer veil wraps her shoulders, fluttering with her breath.
+
+**Color Palette:** white / silver / teal / aqua
+**Accents:** calm, ethereal, spiritual
+
+**Loadout:** blessed staff of willowwood, holy symbol pendant, healing pouch, vial of consecrated water.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **16** (chain shirt + shield)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 12 (+1)** **CON 12 (+1)** **INT 11 (+0)** **WIS 17 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Medicine +5, Insight +5, Nature +3, Religion +2, Persuasion +4
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Cleric (Nature Domain) 3:**
+
+* **Channel Divinity (Charm Animals & Plants)**
+* **Spells (WIS DC 13, +5 atk):**
+
+  * *Cantrips:* *Guidance, Thaumaturgy, Resistance*
+  * *1st–2nd:* *Bless, Cure Wounds, Healing Word, Hold Person, Lesser Restoration, Barkskin, Moonbeam*
+
+**Attacks:**
+
+* **Quarterstaff (blessed):** +2 to hit, 1d6+0 bludgeoning (radiant glow).
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Healer / Support / Controller**
+* **Opener:** *Bless* allies → *Moonbeam* to force enemies out of formation.
+* **Flow:** Uses *Cure Wounds* and *Lesser Restoration* as needed.
+* **Finisher:** *Hold Person* + radiant strike through ally coordination.
+
+**Damage Flavor:** shimmering ripples of moonlight form around her staff swings.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Gentle, shy, quietly determined.
+* **Ideal:** Harmony — “Every sound deserves its echo.”
+* **Bond:** Protects the Bloom Choir and its sacred garden.
+* **Flaw:** Hesitates to fight, even when necessary.
+* **Quirk:** Talks to flowers and apologizes if she steps on grass.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Bloom Canals, Temple Gardens**
+* **Threat Gradient:** **Stable → Wavering (resonant flora)**
+* **Encounter Framing:** **Healing ritual under attack**, **Echo corruption of sacred garden**, **Rescue from temple flooding**
+
+---
+
+## 📜 Background & Lifestyle
+
+A novice cleric raised in the Temple of Resonant Bloom, Nerine was chosen to guard the sacred lilies said to sing under moonlight.
+She trains to channel divine resonance through calm emotion.
+
+* **Lifestyle:** tranquil mornings, tea before sunrise, meditation by canals.
+* **Income:** temple allowance and donations.
+* **Relationships:** adores Lyra Thalassara as her senior; often brings her herbs for patrols.
+
+---
+
+## 🧩 Morals & Ethics
+
+“Goodness is not in words — it’s in the quiet that follows them.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** letting her magic harm a living thing unintentionally.
+* **Weaknesses:** timid under pressure.
+* **Strengths:** immense empathy and calm aura that soothes allies.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — ขี้อาย อ่อนโยน แต่พยายามเก่งขึ้นเสมอ**
+
+> “Ah— I… I didn’t mean to bump into you, senpai—!”
+> มือแตะแก้ม หน้าแดง
+> “Um… thank you for noticing… the flowers bloom better when you smile, you know.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Holds a seed of the *First Bloom*, capable of purifying an entire Echo Zone — but at the cost of her own resonance.
+* **Hooks:**
+
+  1. **Bloom of Silence:** The temple flowers stop singing; only she can hear their cry.
+  2. **Echo of Compassion:** A Severance priest demands her to use the seed for corruption instead.
+  3. **Tears of the Canal:** Healing waters begin turning to glass.
+
+## Tags: #Female #JuniorType #HalfElf #Cleric3 #NatureDomain #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nerine **เขินง่ายมากเมื่อถูกชม** — จะพูดเสียงเบาและหลบตา
+
+> “D-don’t look at me like that… I’ll… forget my spell.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff
+  * **Armor:** chain shirt, shield
+  * **Tools:** herbal pouch
+  * **Consumables:** holy water ×2, healing potion ×1
+  * **Misc:** silver hairpin, prayer ribbon, lily seed charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 19) *or* **Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Temple Gardens / Bloom Canal Sanctum**
+* **Threat Gradient:** **Stable → Wavering (resonant flora)**
+* **Encounter Type:** **Defense Ritual**, **Healing Mission**, **Sanctuary Corruption**
+* **Affiliation:** **Temple of the Seven Resonances**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Vietnamese female half-elf cleric nature domain 162cm low braided bun soft aqua blue hair turquoise eyes slim body, white teal temple robe silver sash, holding staff, flower garden at night, shy gentle smile

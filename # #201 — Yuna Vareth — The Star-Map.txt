@@ -1,0 +1,192 @@
+# #201 — **Yuna Vareth** — *The Star-Map Naturalist of Thalassara*  
+
+> “Patterns in the sky heal what we fail to understand on the ground.”  
+
+---
+
+## 🜏 General Information  
+- **Running No.:** 201  
+- **Gender:** **Female (Type: รุ่นเพื่อน)** — ร่าเริง มีเหตุผล คุยง่ายและดันทีมให้เดินต่อเสมอ  
+- **Age:** 22  
+- **Race:** **Tiefling (Other — near-human ~85%)** — เขาเล็กโค้งเรียบแนบศีรษะ สีงาชมพูอ่อน หางเรียวบางซ่อนใต้เสื้อคลุม  
+- **Class & Level:** **Druid (Circle of Stars)** 3 — **Total 3**  
+- **Challenge Rating (approx):** **CR 1**  
+- **Alignment:** **Neutral Good**  
+- **Profession:** นักผจญภัย / นักสืบพฤกษ์–ดาราศาสตร์ (field researcher)  
+- **Organization:** **Thalassaran Echo Botanical Survey**  
+- **Symbol:** แผนที่ดาวซ้อนกับใบไม้  
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese**, clean, studious beauty with soft warmth.  
+
+**Eyes:** slate-gray with tiny star-like flecks that brighten in low light.  
+**Skin:** fair with a gentle rose undertone; faint luminescent freckles across the nose.  
+
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 Result → **Straight** (top-weighted)  
+**Style:** sleek straight, **collarbone length** with tidy center part; tucks behind one horn when she reads.  
+**Color:** **soft black with midnight-blue sheen.**  
+
+**Height:** 165 cm  
+**Weight:** 54 kg  
+**Body Type:** **fit-but-soft**, field-ready but not bulky; graceful shoulders, steady hands.  
+
+**FEMALE BODY METRICS**  
+```
+CUP: D   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 92 – 66 – 95
+VALIDATION: • W/B = 0.717 → OK   • H/W = 1.44 → OK
+```
+
+**Theme Layer:** **Nerd (35%) → glasses mandatory**  
+**Jewelry & Accessories:** round **graphite-rim glasses**, a **thin star-map pendant**, **silver rune studs**, **leather field bracelet** with etched constellations, **anklet** threaded with blue bead markers.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** light-functional scholar gear (subtle midriff hint)  
+
+Yuna wears a **midnight-blue cropped field vest** over a **white fitted blouse**, sleeves rolled to the elbow.  
+A **short split research skirt** over **dark thermal leggings** allows easy kneeling among canal plants.  
+A **soft leather utility belt** holds vials and a compact star-disc; **waterproof boots** finish the look.  
+
+**Color Palette:** midnight blue / white / charcoal / silver pins  
+**Accents:** practical scholar chic, starry motifs on seams  
+
+**Loadout:** wooden shield, sickle, star map focus (crystal astrolabe), herbal kit, sample vials.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+- **HP:** 3d8 + (CON +2)×3 → **27 HP**  
+- **AC:** **16** (hide armor 12 + DEX +2 + wooden shield +2)  
+- **Speed:** 30 ft  
+- **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 16 (+3)** **CHA 12 (+1)**  
+- **Proficiency Bonus:** +2  
+- **Saving Throws:** INT +3, WIS +5  
+- **Skills:** Nature +3, Medicine +5, Perception +5, Survival +5, Arcana +3  
+- **Languages:** Common, Druidic, Celestial, Thalassaran Cant  
+
+**Druid 3 — Circle of Stars**  
+- **Star Map (spell focus), Starry Form** (Archer/Chalice/Dragon)  
+- **Wild Shape → Starry Form use** (bonus action; 10 min)  
+- **Spellcasting (WIS DC 13, +5 atk)**  
+  - **Cantrips:** *Guidance, Produce Flame, Thorn Whip*  
+  - **Prepared (examples):** *Cure Wounds, Goodberry, Faerie Fire, Entangle, Moonbeam, Lesser Restoration, Healing Word*  
+- **Typical Starry Form Usage:**  
+  - **Chalice** for enhanced healing bursts  
+  - **Archer** for radiant chip damage at range
+
+**Attacks:**  
+- **Sickle:** +4 to hit, 1d4+2 slashing  
+- **Produce Flame (ranged):** +5 to hit, 2d8 fire (scales by cantrip level)
+
+---
+
+## 🎯 Combat Tactics
+
+- **Role:** **Support Controller / Radiant Off-healer**  
+- **Opener:** *Faerie Fire* to tag threats → **Starry Form (Chalice)** for heal throughput.  
+- **Flow:** *Entangle* zones + ranged *Produce Flame*; swap to **Archer** form if team has another healer.  
+- **Finisher:** *Moonbeam* funnel through choke; steady radiant ticks close fights safely.
+
+**Damage/Effect Flavor:** starry glyphs orbit her glasses; each heal draws faint constellations across allies’ skin.
+
+---
+
+## 💬 Personality
+
+- **Traits:** Methodical, curious, kind with a teasing wit.  
+- **Ideal:** Understanding — “Patterns reduce fear.”  
+- **Bond:** Protects her herbarium notebooks like treasure.  
+- **Flaw:** Overexplains during danger; forgets to duck while lecturing.  
+- **Quirk:** Taps her frames twice when forming a hypothesis.
+
+---
+
+## 🧭 Common Locations
+
+- **Kingdom/Zone:** **Thalassara — Moon Canals, Echo Greenhouses, Tide Libraries**  
+- **Threat Gradient:** **Wavering → Echo Zone**  
+- **Encounter Framing:** **ritual survey gone wrong**, **canal creature rescue**, **echo-bloom containment**
+
+---
+
+## 📜 Background & Lifestyle
+
+A scholarship kid who mapped canal plants by starlight, Yuna proved that resonance blooms follow celestial cycles.  
+She joined adventurers to test her models under real pressure.
+
+- **Lifestyle:** tidy bunk; dried flowers pressed in every book.  
+- **Income:** academy stipend + expedition shares.  
+- **Relationships:** shares data with Rei Solenne; debates politely with Eira Valenne on tactics.
+
+---
+
+## 🧩 Morals & Ethics
+
+Truth should soothe the frightened, not punish the ignorant.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+- **Fears:** misreading patterns and costing lives.  
+- **Weaknesses:** tunnels vision on data mid-fight.  
+- **Strengths:** area control + burst healing via **Chalice**, reliable radiant chip via **Archer**.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — เป็นกันเอง ขี้แซวแบบนุ่ม ๆ**  
+> “Hold still—your resonance is spiking. I promise this won’t sting… much.”  
+เธอยิ้มน้อย ๆ ก่อนจดอะไรลงสมุดอย่างตั้งใจ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+- **Secret:** Her star map sometimes shows constellations that don’t exist — a Severance “future echo.”  
+- **Hooks:**  
+  1. **Bloom of the Uncharted:** A new plant grows where her map predicted a star.  
+  2. **Chalice Overload:** Her healing constellation starts draining her own stamina.  
+  3. **The Vanishing Node:** A canal star-node disappears; only her map still remembers it.
+
+## Tags: #Female #FriendType #Other #Tiefling #Druid3 #CircleOfStars #Thalassara #CR1 #Support #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)  
+Yuna **ทำให้คนเขินด้วยความใกล้ชิดเวลาเช็คชีพจร**  
+> “Pulse steady… why is your face warmer than normal?”
+
+---
+
+## 🧰 Player-Compatible Add-On  
+- **Starting XP:** **900**  
+- **XP to Next Level:** **1,800**  
+- **Inventory Slots:**  
+  - **Weapons:** sickle, wooden shield  
+  - **Armor:** hide armor  
+  - **Tools:** herbalism kit, star map (focus)  
+  - **Consumables:** healing potion ×1, goodberry pouches  
+  - **Misc:** round glasses, field notes, sample vials  
+- **Level-Up Suggestions (to 4):** +2 WIS (to 18) or Feat **Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting  
+- **Zone:** **Thalassara / Echo Greenhouse / Moon Canal banks**  
+- **Threat Gradient:** **Wavering → Echo Zone**  
+- **Encounter Type:** **ritual survey**, **plant-creature defense**, **echo-bloom quarantine**  
+- **Affiliation:** **Echo Botanical Survey**
+
+---
+
+## 🎨 Image Gen Key (EN)  
+Korean Japanese female tiefling druid circle of stars 165cm straight black hair blue sheen round glasses small horns tail hidden midnight-blue cropped vest white blouse split skirt leggings wooden shield star map pendant scholar field gear starry freckles canal greenhouse background

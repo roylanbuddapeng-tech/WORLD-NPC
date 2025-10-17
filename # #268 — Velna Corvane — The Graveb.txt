@@ -1,0 +1,211 @@
+# #268 — **Velna Corvane** — *The Gravebell Conductor*
+
+> “Every heartbeat is a drumbeat in the grand requiem. I simply decide when the song ends.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 268
+* **Gender:** **Female (Type: รุ่นพี่)** — พูดนุ่มแต่มีพลังแบบคนที่ผ่านอะไรมาเยอะ ใจดีแต่ดุได้เมื่อจำเป็น ชอบให้คำแนะนำพร้อมรอยยิ้มที่อ่านไม่ออก
+* **Age:** 28
+* **Race:** **Half-Beast (Batkin)** — humanlike 85%, ears slightly elongated into thin bat shapes, faint leathery pattern on shoulders, eyes large and iridescent crimson.
+* **Class & Level:** **Sorcerer (Shadow Magic)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral**
+* **Profession:** **Funeral Cantor / Shadow Weaver / Grave Summoner**
+* **Organization:** **The Silent Choir of Gravemere**
+* **Symbol:** a bell wreathed in black silk
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–French**, hauntingly elegant, soft voice that carries like echo in a cathedral.
+
+**Eyes:** deep crimson fading into rose-pink at the rim.
+**Skin:** pale cream with faint lilac tint under light.
+
+**Hair (Female Hair Randomizer):** 🎲 **Long (25%) — straight with soft curls at the end**
+**Style:** glossy, brushed over one shoulder; strands shift slightly as if weightless.
+**Color:** **black with violet sheen**.
+
+**Height:** 169 cm
+**Weight:** 56 kg
+**Body Type:** **tall slender hourglass**, gentle curves, graceful posture; wings fold close like a cloak when relaxed.
+
+**FEMALE BODY METRICS (รุ่นพี่ rule – ≥ D cup)**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 96 – 69 – 100
+VALIDATION: • W/B = 0.718 → OK   • H/W = 1.45 → OK
+```
+
+**Sub-Theme:** 🎲 **Nerd (Arcane theorist)** — specializes in harmonic necromancy and resonance frequencies of soul echoes.
+
+**Glasses Rule (Nerd = Always):** **Yes.**
+**Glasses:** thin wire-rim half-moon spectacles, tinted purple, glowing faintly when she reads from the Book of Silence.
+
+**Jewelry & Accessories:** silver ear chain linking two piercings, obsidian pendant shaped like a bell, and a thin anklet of violet silk.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High — refined Gothic allure**
+
+Velna wears a **form-fitting black corset dress** with **lace sleeves** and a **deep-cut neckline** adorned with sheer mesh embroidered in silver runes.
+Her **back is partially open**, revealing faint lines where her bat wings fold beneath the skin.
+A **slit skirt** flows down her left leg, showing glimpses of thigh-high stockings and runic garter bands.
+
+**Palette:** black / violet / silver
+**Accents:** sheer lace, glowing runes, bell motifs
+
+**Weapons & Gear:**
+
+* *Shadow Chime Staff* (arcane focus)
+* *Tome of Silence* (grimoire)
+* *Bone bell pendant* (summon focus)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **14** (natural agility + mage armor)
+* **Speed:** 30 ft; **Flight (Glide)** 20 ft short bursts
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 12 (+1)** **WIS 13 (+1)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, CHA +5
+* **Skills:** Arcana +3, Insight +3, Persuasion +5, Performance +5
+* **Languages:** Common, Infernal, Abyssal
+
+**Sorcerer (Shadow Magic)**
+
+* **Eyes of the Dark:** darkvision 120 ft.
+* **Strength of the Grave:** survive fatal blow (1/long rest).
+* **Font of Magic:** 3 sorcery points.
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Cantrips:* *Chill Touch, Minor Illusion, Message*
+  * *1st–2nd:* *Mage Armor, Darkness, Hold Person, Mirror Image, Spiritual Weapon (reflavored shadow bell)*
+
+**Attacks**
+
+* **Chill Touch:** +5, 1d8 necrotic.
+* **Spiritual Weapon:** +5, 1d8 + 3 force.
+
+---
+
+## 🎯 Combat Tactics (Offense / Summoner Hybrid)
+
+* **Role:** **Ranged controller / soul summoner**
+* **Opener:** *Darkness* → *Spiritual Weapon* (bell of shadows) → *Hold Person* on exposed targets.
+* **Flow:** controls field with summoned bells and echoes that strike unseen.
+* **Finisher:** *Twin Spell Chill Touch* + Spiritual Weapon combo for necrotic burst.
+
+**Flavor:** when she casts, faint bells ring from nowhere, and black petals swirl around her like smoke.
+
+---
+
+## 💬 Personality
+
+* **Traits:** patient, wryly humorous, slightly teasing but composed.
+* **Ideal:** Balance — “The living and the dead must both learn to listen.”
+* **Bond:** a spectral choir that follows her, formed from lost students.
+* **Flaw:** carries guilt for summoning a soul that begged to die again.
+* **Quirk:** hums funeral hymns when thinking; often adjusts her glasses before scolding.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Gravemere — Silent Choir Sanctum / Crypt Amphitheater**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **ritual performance**, **undead uprising**, **concert exorcism**
+
+---
+
+## 📜 Background & Lifestyle
+
+Velna once taught arcane harmonics in the cathedral-college of Gravemere.
+When an echo surge consumed her students, she bound their souls into harmonic bells that now accompany her spells.
+
+* **Lifestyle:** quiet, nocturnal; keeps a candlelit studio lined with chimes that ring softly when spirits approach.
+* **Income:** cathedral grants, exorcism contracts.
+* **Relationships:** mentor of Eryndor (#267), long-time colleague of Mireia (#266).
+
+---
+
+## 🧩 Morals & Ethics
+
+Sees necromancy as a conversation with grief, not an act of defiance.
+She believes every ghost only lingers because no one has yet listened to their song.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** silence—the true, absolute kind where even echoes die.
+* **Weaknesses:** overextends sorcery points maintaining simultaneous summons.
+* **Strengths:** precise control of necrotic resonance and emotional composure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — สุขุม อบอุ่น แต่แฝงความยั่วโดยธรรมชาติ มักพูดใกล้หูพร้อมยิ้มบาง ๆ ตอนแนะนำเวทย์หรือชมผลงานคนอื่น**
+
+> “Your tone is off—let me help. Here… feel the rhythm of their silence.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her spectral choir is slowly gaining individuality—they may rebel.
+* **Hooks:**
+
+  1. **The Unfinished Song:** one bell stops ringing; a student’s soul is missing.
+  2. **Choir Rebellion:** her summons start casting independently.
+  3. **The Silence Bloom:** a cult seeks her bells to summon a god of mute death.
+
+## Tags: #Female #SeniorType #HalfBeast #Batkin #Sorcerer3 #ShadowMagic #CR1 #Necromancy #Summoner
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Velna **ชอบทำให้คนเขินด้วยการพูดชมเชยในจังหวะที่อีกฝ่ายไม่ทันตั้งตัว เช่นตอนร่ายเวทหรือขณะจับมือเพื่อสอนท่าทาง**
+
+> “Your hands are steady… surprisingly steady. Keep them that way, or I might think you’re nervous.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** shadow chime staff
+  * **Armor:** lace dress (warded)
+  * **Tools:** Tome of Silence, bell pendant
+  * **Consumables:** whispering incense
+  * **Misc:** soul bells (4)
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 19)** or **Feat: Metamagic Adept / Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Gravemere — Silent Choir Sanctum**
+* **Threat Gradient:** **Echo → Deep Echo**
+* **Encounter Type:** **ritual duel**, **summoned choir resonance**, **haunted performance**
+* **Affiliation:** **The Silent Choir**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese French female batkin sorcerer shadow magic 169cm long black hair violet sheen red eyes pale skin F-cup hourglass wearing glasses gothic lace dress open back thigh slit wings refined beautiful composed necromantic bells dark fantasy

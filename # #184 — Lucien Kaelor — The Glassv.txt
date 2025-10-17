@@ -1,0 +1,196 @@
+# #184 — **Lucien Kaelor** — *The Glassveil Illusionist of Valeronnes*
+
+> “Truth is simply the illusion we agree to believe.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 184
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — สุภาพ เนี้ยบ มีรอยยิ้มมุมปากแบบคนที่รู้มากกว่าที่พูดออกมา
+* **Age:** 38
+* **Race:** **Half-Elf (Valeronnes Lineage)** — หูเรียวโค้งเล็ก ผิวซีดใสแบบคนไม่โดนแดดบ่อย ดวงตาดูเหมือนสะท้อนกระจก
+* **Class & Level:** **Wizard (School of Illusion)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** นักมายากล / นักเวทศิลป์ / อาจารย์สอนเวท
+* **Rank / Position:** **Glassveil Illusionist**
+* **Organization:** **Valeronnes Enclave of Silver Light**
+* **Symbol:** กระจกเงาในกรอบรูปตะวัน
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **English–French**, aristocratic and poised, with the calm mystery of a stage magician.
+
+**Eyes:** pale gray, glassy sheen that shifts like mercury.
+**Skin:** ivory-pale with faint shimmer under the eyelids.
+
+**Hair (Masculine Hair Randomizer):** 🎲 *Result → Medium length, swept back with loose strands*
+**Color:** **silver-blond with white gradient highlights.**
+**Height:** 182 cm
+**Weight:** 72 kg
+**Body Build:** **slim but defined**, long fingers, stage performer’s posture.
+
+**Jewelry & Accessories (male glasses 30% → 🎲 success):**
+**Round glass spectacles** with gold rim, **amethyst tie pin**, **thin chain watch**, **silver signet ring**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Style Roll:** *Refined stage magician attire — half-formal with dramatic flair*
+
+Lucien wears a **long navy tailcoat** lined with silver filigree, open over a **white high-collar shirt** and **dark waistcoat** embroidered with faint runes.
+**Gloves of black satin** cover his hands, and a **crystal brooch** rests at his chest.
+His **boots** are polished to mirror sheen, reflecting light during performances.
+
+**Color Palette:** silver / navy / white / violet
+**Accents:** formal, theatrical, mysterious
+
+**Loadout:** wand, illusion focus crystal, small stage props (coins, mirrors).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **13** (mage armor active)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, Insight +3, Performance +4, Deception +4, Investigation +5
+* **Languages:** Common, Elvish, Draconic, Valeronnes Cant
+
+**Wizard (Illusion) 3:**
+
+* **Arcane Tradition:** School of Illusion
+* **Illusion Savant, Improved Minor Illusion**
+* **Spells (INT DC 13, +5 atk):**
+
+  * *Cantrips:* *Minor Illusion, Prestidigitation, Mage Hand*
+  * *1st–2nd:* *Disguise Self, Silent Image, Mirror Image, Invisibility, Phantasmal Force, Blur*
+
+**Attacks:**
+
+* **Dagger:** +4 to hit, 1d4+2 piercing.
+* **Illusory Blade (flavor):** appears as light refracting edge.
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Battlefield Manipulator / Deceptive Control**
+* **Opener:** *Mirror Image* → *Phantasmal Force* to disorient foes.
+* **Flow:** Uses *Invisibility* or *Silent Image* to redirect enemy fire.
+* **Finisher:** *Phantasmal Force* illusion collapse or dagger feint when distracted.
+
+**Damage Flavor:** his spells refract like broken glass, leaving faint echoes of light shards in the air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Charming but secretive, calm under pressure, quietly teasing.
+* **Ideal:** Perception — “Reality is what we perform into existence.”
+* **Bond:** His students, whom he pushes to question truth.
+* **Flaw:** Manipulative tendencies; can’t resist proving his cleverness.
+* **Quirk:** Flips a coin constantly but never lets it fall.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Crystal Lecture Hall, Mirror Gardens, Twilight Stage**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **Stage illusion ambush**, **lecture attack**, **Echo infiltration disguised as performance**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a battlefield illusionist, Lucien turned to teaching to atone for deaths caused by his own deceptive tactics.
+Now he uses illusions to inspire wonder instead of fear.
+
+* **Lifestyle:** private study filled with mirrors and wine glasses.
+* **Income:** lecture fees, magical shows.
+* **Relationships:** quiet friendship with Selena Veyra; professional rivalry with Kaien Dross.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that hiding truth is not always deceit—sometimes mercy.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of his illusions.
+* **Weaknesses:** emotionally detached, overthinks morality.
+* **Strengths:** strategic creativity, composure, master of misdirection.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — สุภาพ เนี้ยบแต่เจ้าเล่ห์แฝงแซว**
+
+> “Careful, I might make another you… and see which one blushes first.”
+> เขาผลักแว่นขึ้นเล็กน้อย ยิ้มที่มุมปาก
+> “Relax—it’s only an illusion, unless you want it to feel real.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His mirror crystal still contains one living illusion—a memory that thinks it’s real.
+* **Hooks:**
+
+  1. **Echo Reflection:** His reflection starts acting independently.
+  2. **Glassveil Gala:** A noble hires him to fake their death through illusion.
+  3. **The Shard Teacher:** His sentient illusion seeks to replace him.
+
+## Tags: #Male #MiddleAged #HalfElf #Wizard3 #Illusionist #Valeronnes #CR1 #Manipulator #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Lucien **ชอบยั่วเชิงคำพูดมากกว่าการแตะตัว** — ใช้น้ำเสียงช้าและจ้องตานิ่ง
+
+> “Did the light just flicker—or was that your heartbeat?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** dagger
+  * **Armor:** none (mage armor)
+  * **Tools:** calligraphy set, glass focus
+  * **Consumables:** potion of healing ×1
+  * **Misc:** gold-rim glasses, pocket watch, crystal focus
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 INT (to 19) *or* **War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Mirror Gardens / Crystal Hall**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **Illusion duel**, **Echo mimicry**, **Lecture sabotage**
+* **Affiliation:** **Silver Light Enclave**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+English French male half-elf wizard illusionist 182cm medium silver blond hair silver glasses gray eyes slim build elegant navy coat white shirt violet vest crystal focus mirror shards background theatrical lighting

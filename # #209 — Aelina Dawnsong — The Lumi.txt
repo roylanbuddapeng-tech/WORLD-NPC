@@ -1,0 +1,207 @@
+# #209 — **Aelina Dawnsong** — *The Luminous Whisper of Valeronnes*
+
+> “Mercy is a blade with a mirror finish—you see yourself in every cut.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 209
+* **Gender:** **Female (Type: รุ่นน้อง)** — อ่อนหวาน ขยัน ชอบทำตัวให้มีประโยชน์กับทีม แต่มีไฟเงียบ ๆ เวลาปกป้องคนที่รัก
+* **Age:** 20
+* **Race:** **Other — Aasimar (Protector)** (ใกล้เคียงมนุษย์ ~90% มีออร่าทอแสงจาง ๆ และวงแหวนแสงเหนือกระหม่อมเวลาใช้อำนาจศักดิ์สิทธิ์)
+* **Class & Level:** **Warlock (The Celestial)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** นักผจญภัย / มือประสานงานพิธีกรรม / นักเยียวยาผ่านแสง
+* **Organization:** **Valeronnes Sunspire Auxiliaries**
+* **Symbol:** ดาวรุ่งพุ่งผ่านวงแหวนแสง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Thai**, youthful, luminous softness with earnest eyes.
+
+**Eyes:** honey-gold with a glassy halo ring.
+**Skin:** fair with warm glow; cheekbones catch light like fine pearl.
+
+**Hair (Feminine Hair Randomizer):** 🎲 Result → **Bun/Twin Bun group** → **high single bun** with loose angelic tendrils.
+**Color:** **platinum silver with pale gold tips.**
+
+**Height:** 164 cm
+**Weight:** 55 kg
+**Body Type:** soft yet well-proportioned; gentle curves with a serene posture.
+
+**FEMALE BODY METRICS** *(large cups allowed for รุ่นน้อง)*
+
+```
+CUP: H   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 104 – 69 – 112
+VALIDATION: • W/B = 0.663 → OK   • H/W = 1.62 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)** — อดีตเด็กในอุปถัมภ์ตระกูลแสงสุริยันแห่ง Sunspire
+**Glasses Roll (not Nerd → 50%) → success:**
+**Jewelry & Accessories:** **thin gold-rim round glasses**, **sunstone teardrop earrings**, **slender halo pendant**, **bracelet of tiny prayer rings**, **anklet** with two soft chimes.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate-high — elegant ceremonial with open back
+
+Aelina wears a **white-gold temple bodice** with a **subtle deep V neckline** lined in sun-thread, paired with a **flowing split skirt** that reveals **sheer, pearly leggings** beneath.
+A **half-cloak of gauze** drapes from one shoulder like dawn mist. When she channels power, faint **sun glyphs** drift along the fabric’s edges.
+
+**Color Palette:** white / pale gold / champagne / soft rose
+**Accents:** luminous threadwork, halo motifs, gentle but undeniably alluring
+
+**Weapons & Gear:**
+
+* **Sun-focus rod “Aurielle”** (arcane focus)
+* **Dagger** (ceremonial)
+* **Prayer kit**, small mirror talisman
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **15** (studded ceremonial leather + DEX)
+* **Speed:** 30 ft
+* **STR 8 (–1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +6
+* **Skills:** Persuasion +6, Insight +3, Religion +2, Arcana +2, Medicine +3
+* **Languages:** Common, Celestial, Valeronian
+
+**Warlock 3 — The Celestial**
+
+* **Expanded Spells:** *Cure Wounds, Guiding Bolt*
+* **Healing Light:** pool 3d6/day (bonus action heal within 60 ft)
+* **Pact Boon:** **Pact of the Tome** (Book of Shadows; extra cantrips)
+* **Invocations (2):** **Agonizing Blast**, **Mask of Many Faces (Disguise Self at will)**
+* **Spellcasting (CHA DC 14, +6 atk; 2 slots at 2nd level)**
+
+  * *Cantrips:* *Eldritch Blast*, *Light*, *Sacred Flame* (from Celestial), *Guidance* (Tome), *Spare the Dying* (Tome)
+  * *Known Spells:* *Guiding Bolt*, *Armor of Agathys*, *Healing Word* (via Celestial list allowed), *Misty Step*, *Hold Person*
+
+**Attacks:**
+
+* **Eldritch Blast:** +6 to hit, 1 beam 1d10+4 force (Agonizing)
+* **Sacred Flame:** DC 14, 2d8 radiant
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support Blaster / Face / Soft Healer**
+* **Opener:** *Guiding Bolt* to mark a target or *Armor of Agathys* if expecting pressure.
+* **Flow:** *Eldritch Blast* with Agonizing; sprinkle **Healing Light** or *Healing Word* to stabilize allies.
+* **Finisher:** *Hold Person* to set up crits or *Misty Step* into ideal line of sight for the kill shot.
+
+**Damage Flavor:** each blast is a sliver of dawn; motes of rosy-gold light spiral, reflecting in her glasses.
+
+---
+
+## 💬 Personality
+
+* **Traits:** shyly earnest, listens more than she talks, but brave when it matters.
+* **Ideal:** Compassion — “If the light chooses me, it must be for sharing, not blinding.”
+* **Bond:** the Sunspire chapel that took her in.
+* **Flaw:** apologizes while fighting; splits focus between aid and offense.
+* **Quirk:** polishes her lenses before casting, like a ritual.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Sunspire Bastion, Dawn Courts, Mirror Atria**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **pilgrim escort**, **cathedral warding**, **mirror-corridor ambush**
+
+---
+
+## 📜 Background & Lifestyle
+
+A foundling touched by a dawn-angel echo, raised among ceremonial courts.
+She left to ensure her light served the world outside the gilded halls.
+
+* **Lifestyle:** modest dorm near the Sunspire.
+* **Income:** auxiliary stipend + adventuring split.
+* **Relationships:** looks up to Seraphine Caelis (#200); studies star charts with Yuna Vareth (#201).
+
+---
+
+## 🧩 Morals & Ethics
+
+Mercy first, then judgment; never the other way around.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** failing to save someone right in front of her.
+* **Weaknesses:** soft-hearted; can be baited by cries for help.
+* **Strengths:** party sustain via **Healing Light**, social sway, reliable force/radiant output.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — ขี้เขิน ชอบทำให้คนอื่นอุ่นใจด้วยรอยยิ้มใส ๆ**
+
+> “I’ll… stay close. The light is brighter when we stand together.”
+> พูดเบา ๆ แล้วเผลอยิ้ม จนปลายผมสีทองสว่างขึ้นนิดหนึ่ง
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her “dawn echo” occasionally speaks with a second voice—jealous and protective.
+* **Hooks:**
+
+  1. **Mirror of Morning:** a relic reflects futures where she chooses wrath over mercy.
+  2. **The Unseen Choir:** a Severance cult covets her Book of Shadows.
+  3. **Sun That Bleeds:** her Guiding Bolt begins to draw life from her instead.
+
+## Tags: #Female #YoungerType #Other #Aasimar #Warlock3 #Celestial #Valeronnes #CR1 #SupportBlaster #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Aelina **ทำให้คนเขินโดยเผลอจับมือก่อนร่ายฮีลและยิ้มตาหยี**
+
+> “Warm, right? Hold on to me… this will pass.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** sun-focus rod, dagger
+  * **Armor:** studded ceremonial leather
+  * **Tools:** prayer kit, mirror talisman
+  * **Consumables:** potion of healing ×1, radiant salve ×1
+  * **Misc:** round glasses, Book of Shadows, sun pendant
+* **Level-Up Suggestions (to 4):** +2 CHA (to 20) or Feat **Healer** / **Eldritch Adept**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Sunspire Bastion / Mirror Atria**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **holy escort**, **mirror-ward skirmish**, **Severance cult interdiction**
+* **Affiliation:** **Sunspire Auxiliaries**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Thai female aasimar warlock celestial 164cm high bun platinum silver hair gold tips honey eyes fair glowing skin large bust elegant white gold ceremonial outfit deep V neckline split skirt sheer leggings halo motifs thin gold-rim glasses dawn light aura gentle shy smile

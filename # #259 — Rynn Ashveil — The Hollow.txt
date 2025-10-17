@@ -1,0 +1,198 @@
+# #259 — **Rynn Ashveil** — *The Hollow Summoner of Blackglass Veins*
+
+> “They told me not to draw the circle inside a circle.
+> So naturally, I did.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 259
+* **Gender:** **Male (Type: เคะ)** — ท่าทีสงบเงียบแต่สายตาดื้อรั้นเล็ก ๆ พูดน้อยแต่ใจกล้า และเวลาโดนแหย่มักหน้าแดงจนเสียอาการ
+* **Age:** 19
+* **Race:** **Half-Beast (Crowkin)** — มนุษย์ ~85% มี **ขนสีดำบางที่ต้นคอและข้อศอก**, **ดวงตาสีเทาเข้มประกายฟ้า**, และ **ปีกอีกาเล็ก ๆ กางจากหลังตอนร่ายเวท**
+* **Class & Level:** **Wizard (Necromancy)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **True Neutral (leans good)**
+* **Profession:** grave summoner / echo manipulator / field researcher
+* **Organization:** **Obsidian Weft — Blackglass Collegium**
+* **Symbol:** วงเวทซ้อนกันสามชั้นในทรงกลมเงา
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Western hybrid**, fine-boned face, melancholic yet charming.
+
+**Eyes:** smoky grey with faint electric-blue sparks when focusing.
+**Skin:** pale ivory, faint shadows under eyes — like someone who reads until dawn.
+
+**Hair (Male Hair Randomizer):** 🎲 **Short – slightly messy layered crop**
+**Style:** tousled at crown, light fringe over forehead; strands fall over the right eye when chanting.
+**Color:** **midnight black** with **silver-blue streaks** under the light.
+
+**Height:** 169 cm
+**Weight:** 57 kg
+**Body Build:** **slim, delicate frame**; fragile shoulders, graceful hands often ink-stained.
+
+**Jewelry & Accessories:** black iron choker etched with runes, silver ring on thumb engraved with sigil of rebirth, single stud earring (blue gem).
+**Glasses Roll (30% base for non-nerd) → success:** **narrow rectangular glasses**, sometimes half-fallen during ritual casting.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Rule:** skipped (male).
+Rynn dresses in **scholar’s robe hybrid** — a dark **charcoal trench-robe** layered with **cerulean underlining**. The outer coat is fastened with cross-belts and etched arcane threads.
+He wears **high boots** for fieldwork, and **thin gloves** covered with summoning sigils. When casting, his sleeves flare with blue fire and feathers scatter faintly into the air.
+
+**Palette:** charcoal / blue-silver / black
+**Accents:** glowing runic stitching, crow feathers, mirror-glass buttons
+
+**Weapons & Gear:**
+
+* *Grimoire of Echoing Wings*
+* *Wand of Hollow Feathers*
+* *Blackglass focus sphere*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **14** (mage armor)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 18 (+4)** **WIS 11 (+0)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +6, WIS +2
+* **Skills:** Arcana +6, Investigation +6, Insight +2, Stealth +4
+* **Languages:** Common, Infernal, Celestial
+
+**Wizard (Necromancy)**
+
+* **Grim Harvest:** regain HP when killing with a spell.
+* **Undead Familiar (flavor conjuration):** skeletal crow that scouts and delivers minor spells.
+* **Spellcasting (INT DC 14, +6 atk)**
+
+  * *Cantrips:* *Chill Touch, Mage Hand, Minor Illusion*
+  * *1st:* *Mage Armor, Ray of Sickness, Command*
+  * *2nd:* *Mirror Image, Summon Undead*
+
+**Attacks**
+
+* **Ray of Sickness:** +6 to hit, 2d8 poison.
+* **Summon Undead:** conjures skeletal guardian or ghostly warden (flavor crow-winged spirit).
+* **Chill Touch:** +6, 1d8 necrotic, halts healing.
+
+---
+
+## 🎯 Combat Tactics (Offense / Summoner)
+
+* **Role:** **Control / Summoner / Defensive Necromancy**
+* **Opener:** *Mirror Image* + *Summon Undead* (ranged shade).
+* **Flow:** keeps distance, uses *Chill Touch* and *Command* to disrupt melee foes.
+* **Finisher:** *Grim Harvest* heal cycle; crow familiar collects soul fragments.
+
+**Flavor:** when summoning, blue-black feathers spiral upward, forming translucent bone wings behind him.
+
+---
+
+## 💬 Personality
+
+* **Traits:** soft-spoken, curious, shy around attention but confident in ritual.
+* **Ideal:** Curiosity — “If life ends, then what story starts afterward?”
+* **Bond:** the skeletal crow “Neru,” his first ever successful spell — he calls it “his heartbeat.”
+* **Flaw:** emotionally repressed; avoids comfort, hides grief under logic.
+* **Quirk:** counts spell syllables under his breath like reciting poetry.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Blackglass Veins — Echoing Library, Bone Markets, Hollow Canyons**
+* **Threat Gradient:** **Deep Echo → Severance Residual**
+* **Encounter Framing:** **ritual interruption**, **soul containment**, **runaway summon control**
+
+---
+
+## 📜 Background & Lifestyle
+
+Child prodigy from a necromantic academy, known for disobeying magical geometry rules and accidentally summoning an entire winged corpse legion (later saved by Marielle #258).
+Now studies “controlled anomaly summoning.”
+
+* **Lifestyle:** minimal — books, chalk, black coffee.
+* **Income:** research stipends, retrieval contracts for lost familiars.
+* **Relationships:** admires Marielle like a surrogate mother; flusters easily around Silas (#257) who teases him endlessly.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes the boundary between life and death should be observed, not erased — yet he keeps testing it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** his summons turning sentient.
+* **Weaknesses:** frail body, overuses focus magic, easily embarrassed.
+* **Strengths:** meticulous control, quick recovery, uncanny precision.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — เขินง่าย ชอบพยายามเก๊กแต่โดนแหย่ทีลนลาน**
+
+> “D-don’t call me cute when I’m focusing! You’ll ruin the entire sigil!”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** the skeletal crow familiar carries a fragment of his soul; if destroyed, he loses empathy temporarily.
+* **Hooks:**
+
+  1. **Echo Wing:** his summoned guardian starts mimicking his voice.
+  2. **Severed Circle:** a forbidden spellbook tempts him with “The Second Circle” — double resonance summoning.
+  3. **Featherfall Pact:** the crow reveals a hidden name linked to an ancient fey.
+
+## Tags: #Male #KehType #HalfBeast #Crowkin #Wizard3 #Necromancy #Summoner #CR1 #Adventurer #BlackglassVeins
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rynn **ชอบทำให้เขินโดยไม่ได้ตั้งใจ เช่นหน้าแดงเมื่อมีคนจับมือหรือชมใกล้หู จนเวทรั่วเป็นประกายเล็ก ๆ รอบตัว**
+
+> “You—ah, that… that was just static discharge, not—uh—fluster.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** wand of hollow feathers
+  * **Armor:** layered trench robe
+  * **Tools:** grimoire, chalk sigil set
+  * **Consumables:** focus crystal x2, potion of vigor x1
+  * **Misc:** skeletal crow “Neru”
+* **Level-Up Suggestions (to 4):** **+2 INT (to 20)** or **Feat: War Caster / Ritual Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Blackglass Veins / Obsidian Weft Collegium**
+* **Threat Gradient:** **Deep Echo → Severance Residual**
+* **Encounter Type:** **summon containment**, **ritual skirmish**, **library defense**
+* **Affiliation:** **Obsidian Weft**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Western male half-beast crowkin wizard necromancer 169cm short messy black hair silver-blue streaks grey eyes rectangular glasses pale skin scholar robe charcoal blue accents crow feathers slim delicate build summoner circle glowing runes

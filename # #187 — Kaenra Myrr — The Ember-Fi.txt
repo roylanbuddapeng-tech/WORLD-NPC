@@ -1,0 +1,202 @@
+# #187 — **Kaenra Myrr** — *The Ember-Fist of Skarnov Forge*
+
+> “Steel breaks when it forgets how to bend.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 187
+* **Gender (weighted random):** **Female (Type: Tomboy – soft type)** — ผมสั้น รอยยิ้มกวนแต่มีเสน่ห์แบบธรรมชาติ พูดจาตรง ๆ แต่ใจดี
+* **Age:** 21
+* **Race:** **Half-Beast (Salamander — Skarnov Lineage)** — ผิวคล้ายมนุษย์แต่มีลายเกล็ดบางจาง ๆ ตามไหล่และสะโพก มองเห็นชัดเมื่อสะท้อนแสงไฟ ดวงตาเป็นสีส้มเข้มราวกับเหล็กร้อน
+* **Class & Level:** **Monk (Way of the Open Hand)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** ช่างตีเหล็ก / นักผจญภัยมือเปล่า / ผู้พิทักษ์โรงหลอม
+* **Rank / Position:** **Ember-Fist Apprentice**
+* **Organization:** **Skarnov Forgeguard**
+* **Symbol:** หมัดไฟล้อมด้วยวงแหวนเหล็ก
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Vietnamese**, warm, earthy, and playful beauty.
+
+**Eyes:** glowing orange-gold like molten metal.
+**Skin:** light bronze with a faint ember sheen when heated.
+
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result → Short feminine cut (soft bob with undercurl)*
+**Color:** **chestnut brown with ember-red tips.**
+**Height:** 166 cm
+**Weight:** 56 kg
+**Body Type:** **fit and compact**, curves with power; looks lithe until she moves—then you see the strength.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 87 – 63 – 91
+VALIDATION: • W/B = 0.724 → OK   • H/W = 1.44 → OK
+```
+
+**Jewelry & Accessories (female glasses 40% → 🎲 fail):**
+Simple **forge-band necklace**, **heatproof leather bracelet**, **iron earring**, **belt pouch** of cooled coals (ritual charm).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 *Result → cropped working gear (mid exposure)*
+
+Kaenra wears a **charcoal crop top** reinforced with heatproof fabric, showing her toned stomach and shoulders.
+A **forgemaster’s apron** hangs loosely around her waist like a skirt, and her **pants** are fitted for movement, soot-stained at the knees.
+Her **bandaged fists and forearms** glow faintly red-orange when she channels ki.
+
+**Color Palette:** black / rust red / bronze / ash gray
+**Accents:** tough, functional, unpretentious beauty
+
+**Loadout:** none (unarmed), **forging tongs**, **small hammer**, **fire charm pendant.**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **26 HP**
+* **AC:** **16** (DEX + WIS)
+* **Speed:** 40 ft
+* **STR 14 (+2)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, DEX +6
+* **Skills:** Acrobatics +6, Athletics +4, Perception +4, Insight +4, Smith’s Tools +4
+* **Languages:** Common, Ignan, Dwarvish
+
+**Monk (Open Hand) 3:**
+
+* **Martial Arts (1d6)**
+* **Ki (3 points)**: Flurry of Blows, Step of the Wind, Patient Defense
+* **Deflect Missiles, Unarmored Movement (+10 ft)**
+* **Open Hand Technique:** push, knock prone, or prevent reactions
+
+**Attacks:**
+
+* **Unarmed Strike:** +6 to hit, 1d6+4 bludgeoning
+* **Flurry of Blows:** 2× 1d6+4, with Open Hand options
+* **Fireflare (racial flavor):** when she lands both Flurry hits, target takes extra 1d4 fire (flavor).
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Bruiser / Disruptor**
+* **Opener:** *Step of the Wind* → close gap, unleash **Flurry** to knock enemies into forge pits or walls.
+* **Flow:** Spins and weaves between melee fighters, protecting allies with soft body checks.
+* **Finisher:** Fire-empowered rising knee strike, leaves glowing heat-mark on armor.
+
+**Damage Flavor:** fists crackle like heated steel; strikes leave orange shimmer trails in the air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, teasing, loyal to friends.
+* **Ideal:** Creation — “Strength and craft come from the same flame.”
+* **Bond:** Protects the forge and its apprentices.
+* **Flaw:** Short temper when people insult craftsmen.
+* **Quirk:** Always hums smithing songs during battle.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ember Forges, Molten Bridges, Foundry Streets**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **Forge defense**, **duel in the heat pits**, **Echo corruption through molten steel.**
+
+---
+
+## 📜 Background & Lifestyle
+
+Kaenra is the daughter of a blacksmith who taught her to fight and forge equally.
+Her hands bear burn scars from years of learning without magic gloves—she calls them her “honor marks.”
+
+* **Lifestyle:** simple; sleeps in forge lofts, keeps an anvil charm for luck.
+* **Income:** smithing commissions + adventuring contracts.
+* **Relationships:** close to Sariel Kenzora; flirts lightly with Rin Tavel (to annoy him).
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes anger is energy—waste it and you lose strength; forge it, and you shape destiny.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of her inner fire, burning someone innocent.
+* **Weaknesses:** easily provoked, refuses to back down.
+* **Strengths:** speed, raw striking power, immunity to heat and panic.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy tone (soft)** — พูดแหย่ขำ ๆ ชอบทำให้คนเขินโดยไม่รู้ตัว
+
+> “You’re staring again. What, never seen a girl with burn marks before?”
+> *หัวเราะพลางชกเบา ๆ ที่แขนอีกฝ่าย* “Kidding! You’re cute when you look scared.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her fire ki reacts to Severance fragments—causing uncontrolled flares if she’s near them.
+* **Hooks:**
+
+  1. **Flame in the Forge:** The fire spirits of Skarnov start whispering her name.
+  2. **Iron and Ember:** A rival monk challenges her for the title of Forge Guardian.
+  3. **The Burning Silence:** Her flame starts flickering blue—sign of Echo corruption.
+
+## Tags: #Female #TomboySoft #HalfBeast #SalamanderHybrid #Monk3 #OpenHand #Skarnov #CR1 #Brawler #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaenra **ชอบแกล้งให้เขิน** เช่น เอาหน้าเข้าใกล้เวลาเช็ดคราบเขม่าบนแก้มคนอื่น
+
+> “Hold still, you’ve got soot here… ha, there. Don’t blush, it’s just dirt.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** unarmed, smith hammer (utility)
+  * **Armor:** none
+  * **Tools:** smith’s tools
+  * **Consumables:** fire balm ×1, potion of healing ×1
+  * **Misc:** forge-band necklace, ember pouch
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Tavern Brawler**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Ember Forges / Molten Bridges**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **Forge duel**, **Molten ambush**, **Echo flare containment**
+* **Affiliation:** **Skarnov Forgeguard**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Vietnamese female half-beast salamander monk 166cm short chestnut hair red tips bronze skin orange eyes fit compact body cropped top forge apron bandaged fists glowing ember flare forge background

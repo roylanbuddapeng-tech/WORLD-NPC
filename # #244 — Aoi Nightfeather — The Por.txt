@@ -1,0 +1,204 @@
+# #244 — **Aoi Nightfeather** — *The Portent Scribe of Moon-Glass Arches*
+
+> “I don’t tell the future. I proofread it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 244
+* **Gender:** **Female (Type: รุ่นน้อง)** — ร่าเริง ขี้อ้อน กล้าแซวเบา ๆ แต่ทำงานจริงจังเกินหน้าเกินตา
+* **Age:** 20
+* **Race:** **Half-Beast (Avian subtype — Owlkin)** — มนุษย์ ~85% มีขนอ่อนบางเป็นลายแพรวตรงท้ายทอย หูมนเรียว และดวงตาแววลึกแบบนกฮูก
+* **Class & Level:** **Wizard (School of Divination)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** field omen-reader / escort seer / treaty scout
+* **Organization:** **Valeronnes Aegis Conservatory — Omen Desk**
+* **Symbol:** ขนนกฮูกซ้อนทับนาฬิกาทรายเรืองจาง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean**, cute-bright academic charm with inquisitive eyes.
+
+**Eyes:** smoky amber with concentric halo rings that widen when she focuses a portent.
+**Skin:** fair with a soft warm blush; faint feather-marks shimmer behind the ears.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Bun (weighted > twin tail)**
+**Style:** **high scholar bun** with wispy face-framing strands; a slim quill-pin runs through the knot.
+**Color:** **ash-brown** with **silver “feather” streaks** near the temples.
+
+**Height:** 162 cm
+**Weight:** 51 kg
+**Body Type:** slim-fit with gentle curves; quick, precise movements.
+
+**FEMALE BODY METRICS** *(รุ่นน้อง: large cup allowed by luck)*
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 103 – 70 – 105
+VALIDATION: • W/B = 0.680 → OK   • H/W = 1.50 → OK
+```
+
+**Theme Layer:** **Nerd (30%) → wears glasses always**
+**Glasses:** round, thin bronze frames with tiny rune etchings that glow when she speaks a portent.
+**Jewelry & Accessories:** crescent quill earrings, silver data-band, moon-glass anklet chime.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium exposure — backless halter + high-slit skirt**
+
+Aoi wears a **charcoal backless halter top** under a **sheer scholar coat** that shimmers like moon-glass.
+Her **ink-blue wrap skirt** has a **single high slit** to mid-thigh for fast steps between allies; **opaque leggings** protect modesty while running scrolls.
+Belts carry **ink vials, omen cards, and a crystal stylus**; soft boots leave faint sigil prints when she casts.
+
+**Palette:** charcoal / ink-blue / silver / pearl
+**Accents:** translucent hems, tiny runic beadwork, minimalist academic chic
+
+**Weapons & Gear:**
+
+* **Crystal stylus (arcane focus)**, **omen-card deck** (flavor), **silvered dagger**, **chalk & moon-glass dust**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **15** (*Mage Armor* 13 + DEX +2)
+* **Speed:** 30 ft; **Darkvision** 60 ft (owlkin heritage)
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, Insight +3, Investigation +5, Perception +3
+* **Languages:** Common, Celestial, Auran, Valeronian
+
+**Wizard 3 — School of Divination**
+
+* **Portent:** roll **2 d20** after long rest; replace any attack/check/save she sees with those results.
+* **Divination Savant** (copy divination spells cheaper).
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Message, Mage Hand, Minor Illusion, Light*
+  * *1st:* *Mage Armor (A)*, *Feather Fall, Protection from Evil and Good (A), Comprehend Languages*
+  * *2nd:* *Enhance Ability, See Invisibility, Invisibility, Web*
+
+*(A) = Abjuration; synergy for protection play. Aoi prioritizes divinations but carries control tools.)*
+
+---
+
+## 🎯 Combat Tactics (Support / Control)
+
+* **Role:** **Initiative Fixer / Save-Doctor / Soft Controller**
+* **Opener:** call **Portent** to rig an enemy save (bad roll) or ally clutch check (good roll).
+* **Flow:** *Protection from Evil and Good* on frontline vs. aberrations; *Enhance Ability* for key skill scenes; *Web* to halt rushes.
+* **Team Play:** *Message* for silent coordination; *See Invisibility* to counter ambushers.
+* **Finisher:** a “Portent fail” into allies’ hold or smite; she then *Invisibility* to reposition.
+
+**Effect Flavor:** her stylus sketches glowing circles; the chosen d20 result briefly spins above her glasses like a halo clock-hand.
+
+---
+
+## 💬 Personality
+
+* **Traits:** perky-bright, cheeky when confident; surprisingly protective.
+* **Ideal:** Clarity — “If we know where we’ll stumble, we can choose how to dance.”
+* **Bond:** the Omen Desk interns; she sneaks them snacks and study guides.
+* **Flaw:** analysis paralysis when her Portents show conflicting futures.
+* **Quirk:** taps her glasses twice to “focus the timeline.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Moon-Glass Arches, Aegis Conservatory stacks, Treaty Walks**
+* **Threat Gradient:** **Stable → Wavering (parley nights)**
+* **Encounter Framing:** **treaty escort with foresight**, **ambush preemption**, **missing envoy search via omens**
+
+---
+
+## 📜 Background & Lifestyle
+
+Dock-born to archivists, Aoi learned to read people before books.
+Her first “prophecy” saved a refugee cart from an Echo surge — she simply saw the pattern and moved first.
+
+* **Lifestyle:** tiny loft full of pinned omen cards and kettle tea.
+* **Income:** conservatory stipend, hazard bonuses, private “exam proctor” gigs (spotting cheaters with Portent—ethically, she warns first).
+* **Relationships:** friendly rivalry with Lucia Ashvale (#239); study buddy of Iria Fenwright (#228).
+
+---
+
+## 🧩 Morals & Ethics
+
+Fate is a draft, not a decree. Use the red pen kindly.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a future she can’t edit — helplessness.
+* **Weaknesses:** fragile; slot-hungry for control.
+* **Strengths:** turn-defining **Portent**, smart debuffs, perfect comms.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — แกล้งให้เขินด้วยความใกล้ชิดแบบซื่อ ๆ**
+
+> “Senpai… lean closer. I need to check your fate line—no, closer.”
+> เธอยื่นหน้าเข้ามาเกินพอดี นิ้วแตะแว่นเบา ๆ แล้วกระซิบผลลัพธ์ให้ได้ยินคนเดียว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** one of her Portent dice is an Echo imprint from a forgotten seer; using it too often lets the imprint “nudge” her choices.
+* **Hooks:**
+
+  1. **Clockwork Omen:** the Moon-Glass Arches start showing the same future on repeat. Why?
+  2. **Blind Spot:** something moves outside Portent’s sight; find the warded name.
+  3. **The Draft That Fights Back:** a page in her omen deck writes new events mid-battle.
+
+## Tags: #Female #JuniorType #HalfBeast #Owlkin #Wizard3 #Divination #Support #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Aoi **ชอบทำให้คนเขินด้วยการกระซิบผลพยากรณ์ในระยะหายใจแตะหู**
+
+> “Good news—your odds go up when you hold my hand.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** silvered dagger
+  * **Armor:** sheer scholar coat (*Mage Armor* preferred)
+  * **Tools:** crystal stylus, omen deck, chalk & dust
+  * **Consumables:** potion of healing ×1, focus tea sachets ×2
+  * **Misc:** bronze glasses, data-band, anklet chime
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Lucky / War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Moon-Glass Arches / Treaty Walks**
+* **Threat Gradient:** **Wavering (parley nights)**
+* **Encounter Type:** **ambush preempt**, **escort with foresight**, **intel-gathering by divination**
+* **Affiliation:** **Aegis Conservatory — Omen Desk**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean female owlkin half-beast wizard divination 162cm high bun ash-brown hair silver streaks amber eyes fair skin G-cup backless halter sheer scholar coat high-slit ink-blue skirt round bronze glasses omen cards crystal stylus moon-glass arches elegant cute academic vibe

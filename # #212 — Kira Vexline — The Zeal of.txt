@@ -1,0 +1,205 @@
+# #212 — **Kira Vexline** — *The Zeal of Broken Crowns*
+
+> “Rage is just conviction too loud to whisper.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 212
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — คุยง่าย ตรงไปตรงมา ใจใหญ่ ปะทะได้ หัวเราะเก่ง
+* **Age:** 24
+* **Race:** **Other — Changeling** (near-human ~90%; ผิวเปลี่ยนโทนได้เล็กน้อย ดวงตาเป็นประกายไล่สี)
+* **Class & Level:** **Barbarian (Path of the Zealot)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** frontline bruiser / relic breaker / adventurer
+* **Organization:** **Ash-Crown Free Company**
+* **Symbol:** มงกุฎแตกที่มีคมไฟศักดิ์สิทธิ์พุ่งทะลุ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Spanish**, sun-warmed athletic beauty; easy grin, fearless eyes.
+
+**Eyes:** gradient amber-violet, irises ripple subtly when emotions surge.
+**Skin:** warm olive that can pale or deepen slightly with mood (changeling trait).
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail** (top-weighted)
+**Style:** **high athletic ponytail**, strands braided along the sides for grip.
+**Color:** **ink-black with wine-red underlights.**
+
+**Height:** 171 cm
+**Weight:** 61 kg
+**Body Type:** **fit-athletic**, broad shoulders, trim waist, powerful thighs.
+
+**FEMALE BODY METRICS** *(friend type can roll large cups)*
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 102 – 69 – 106
+VALIDATION: • W/B = 0.676 → OK   • H/W = 1.54 → OK
+```
+
+**Theme Layer:** **None** (30%)
+**Glasses Roll (non-nerd 50%) → success:** wears **sleek matte-black sports glasses** (impact-proof).
+**Jewelry & Accessories:** iron shard pendant (saint’s nail), leather wrist wrap with tally notches, silver ear climber.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — battle-functional with bold lines
+
+Kira wears a **black cropped cuirass-halter** (treated leather) over **elastic combat banding**, paired with **scarred greaves** and **wrap-skirt panels** over tight shorts for mobility.
+A **saint-etched shoulder mantle** bears scorch marks from past rites.
+Fingerless gloves show callused knuckles; her belt holds reliquary shards.
+
+**Color Palette:** black / iron / ember-red / bone-gold
+**Accents:** rune stitching, broken-crown insignia, ritual scorch patterns
+
+**Weapons & Gear:**
+
+* **Greatsword “Credence”** — broad, simple, etched with tiny sun-glyphs
+* **Handaxe ×2** (throwing)
+* **Reliquary shards** (for rites), climbing cord, chalk seals
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **35 HP** (12 +3 + (7+3)×2)
+* **AC:** **15** (Unarmored Defense: 10 + DEX + CON = 10+2+3)
+* **Speed:** 40 ft
+* **STR 17 (+3)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +5, CON +5
+* **Skills:** Athletics +5, Intimidation +4, Perception +3, Religion +2
+* **Languages:** Common, Celestial, Thieves’ Cant
+
+**Barbarian 3 — Path of the Zealot**
+
+* **Rage (3/long rest), Rage Damage +2**
+* **Reckless Attack, Danger Sense**
+* **Divine Fury:** once per turn while raging, first creature hit takes **+1d6 + 2** radiant (or necrotic; Kira = radiant)
+* **Warrior of the Gods:** easier resurrection (material costs ignored)
+
+**Attacks:**
+
+* **Greatsword “Credence”:** +5 to hit, **2d6+3** slashing (raging → +2 dmg; +**Divine Fury** radiant once/turn)
+* **Handaxe (thrown/melee):** +5 to hit, **1d6+3** slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Bruiser / Disruptor**
+* **Opener:** **Reckless Attack** + **Rage**, crash the line with greatsword sweep.
+* **Flow:** targets enemy controllers; eats hits to pin aggro; leaps obstacles with 40 ft speed.
+* **Finisher:** times **Divine Fury** on priority target—one clean, radiant-charged cleave.
+
+**Damage Flavor:** blows leave brief crown-shaped flares of light that crackle, then shatter into motes.
+
+---
+
+## 💬 Personality
+
+* **Traits:** loud laugh, direct honesty, protective of underdogs.
+* **Ideal:** Defiance — “Break what tries to own you.”
+* **Bond:** the Ash-Crown crew who freed her from a cult.
+* **Flaw:** picks fights to vent; struggles to “stand down.”
+* **Quirk:** taps the saint-nail pendant to set her rhythm before charges.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov Frontiers — Ash-Crown Camps, Ruin-Basilicas, Ember Roads**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** relic smash-and-grab, cult procession ambush, siege breach escort
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised as a ceremonial breaker in a fringe cult, Kira learned to destroy cursed icons.
+She escaped with help from mercs and now sells that same skill to protect towns from relic-plagues.
+
+* **Lifestyle:** camp-born; sleeps near the door, blade across knees.
+* **Income:** hazard pay + relic disposal bounties.
+* **Relationships:** drinking buddy with Nara Veylan (#207); arm-wrestling rival to Kaori Namue (#203).
+
+---
+
+## 🧩 Morals & Ethics
+
+Better to crack a false god than kneel to it. Smash, then help pick up the pieces.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being forced into ritual obedience again.
+* **Weaknesses:** overcommits early; light AC.
+* **Strengths:** charge-breaking, radiant burst, high mobility in cluttered terrain.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — แซวเก่ง อบอุ่น และชอบทำให้เขินแบบตรงๆ**
+
+> “You watching my form or the swing? Either way—eyes up, partner.”
+> เธอยิ้มตาเป็นประกายแล้วดันแว่นขึ้น ก่อนแบกดาบพาดไหล่
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her greatsword houses a splinter of a martyr’s Echo; it hums when someone lies near her.
+* **Hooks:**
+
+  1. **Crown of Dust:** a cult wants her back as their “Breaker Saint.”
+  2. **Relic Fever:** townsfolk hoard cursed trinkets—she needs the party to stage a mass purge.
+  3. **Martyr’s Whisper:** the Echo in her blade starts arguing with her choices mid-battle.
+
+## Tags: #Female #FriendType #Other #Changeling #Barbarian3 #Zealot #Skarnov #CR1 #Bruiser #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kira **ชอบทำให้คนเขินด้วยการยืนชิดไหล่และพูดกระซิบเวลาวางแผนบุก**
+
+> “Close enough to hear me breathe? Good. Now—on my mark.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** greatsword, 2 handaxes
+  * **Armor:** none (unarmored)
+  * **Tools:** climbing cord, chalk seals
+  * **Consumables:** rage balm ×1 (fluff), potion of healing ×1
+  * **Misc:** saint-nail pendant, relic tags
+* **Level-Up Suggestions (to 4):** **+2 STR (to 19)** or **Feat: Great Weapon Master / Athlete**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov Frontiers / Ruin-Basilicas / Ember Roads**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **relic purge**, **cult assault break**, **siege breach escort**
+* **Affiliation:** **Ash-Crown Free Company**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Spanish female changeling barbarian zealot 171cm high ponytail black hair red underlights sports glasses athletic curvy black cropped cuirass greatsword radiant flares confident grin battlefield rubble

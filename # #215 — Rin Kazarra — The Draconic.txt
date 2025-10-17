@@ -1,0 +1,207 @@
+# #215 — **Rin Kazarra** — *The Draconic Pulse of Emberwell*
+
+> “Strength isn’t loud. It’s the steady heartbeat that keeps the others standing.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 215
+* **Gender:** **Female (Type: ทอมบอย — ประเภทที่ 2 ห้าวแต่มีเสน่ห์แบบหญิงที่แข็งแรง)**
+* **Age:** 25
+* **Race:** **Half-Beast (Mammal subtype — Dragon-Blooded Lioness)** — ผิวมีลายเกล็ดเล็ก ๆ แผ่วบางตามไหล่กับข้างเอว หางสั้น ๆ มีพู่ขนนุ่มทองแดงปลายหาง ดวงตาสีทองเข้มคล้ายอำพันสัตว์นักล่า
+* **Class & Level:** **Monk (Way of the Astral Self)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Martial instructor / mercenary / bodyguard
+* **Organization:** **Skarnov Forge Order — Emberwell Disciples**
+* **Symbol:** แก้วมังกรสลักเส้นแรงชีพ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Brazilian**, fierce and athletic beauty radiating confidence.
+
+**Eyes:** molten gold with slitted pupils, sharp and warm at once.
+**Skin:** sun-bronzed with a subtle glow across her arms; small shimmering scales scatter across collarbones.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Bob (15%)**
+**Style:** short **messy layered bob**, asymmetrical cut brushing the jawline, small tuft flipped upward at the back.
+**Color:** **tawny brown streaked with copper-gold.**
+
+**Height:** 172 cm
+**Weight:** 63 kg
+**Body Type:** athletic and toned; muscular shoulders, defined abs, firm but feminine silhouette.
+
+**FEMALE BODY METRICS (Tomboy Type 2)**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 66 – 94
+VALIDATION: • W/B = 0.75 → OK   • H/W = 1.42 → OK
+```
+
+**Theme Layer:** **None (30%)**
+**Glasses Roll (non-nerd 50%) → failed.**
+**Jewelry & Accessories:** simple fang pendant on leather cord, black wrap bracelets, gold ear hoops, claw-shaped anklet.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** combat-practical, slightly revealing due to mobility
+
+Rin wears a **dark crimson cropped battle-wrap top** that leaves her midriff exposed, wrapped with light dragon-scale bands for partial defense.
+Her **high-waist combat trousers** are slit along the sides for flexibility, paired with **bandaged feet** and **light arm wraps**.
+A **short black sash-belt** bears her monastery sigil, and her tail flicks easily behind her as she moves.
+
+**Color Palette:** ember-red / black / bronze / gold
+**Accents:** flame stitching, reinforced padding, symbolic dragon script across the hem
+
+**Weapons & Gear:**
+
+* **Unarmed combat focus**, **quarterstaff “Pulsefang”**
+* **Weighted wraps** (fluff gear), **incense sticks**, **meditation charm**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **17** (10 + DEX + WIS = 10 + 4 + 3)
+* **Speed:** 40 ft
+* **STR 14 (+2)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, DEX +6
+* **Skills:** Athletics +4, Acrobatics +6, Perception +5, Insight +5, Intimidation +3
+* **Languages:** Common, Draconic, Celestial
+
+**Monk 3 — Way of the Astral Self**
+
+* **Martial Arts (1d4)**, **Ki (3 points)** — *Flurry of Blows, Step of the Wind, Patient Defense*
+* **Unarmored Movement (+10 ft)**
+* **Deflect Missiles**
+* **Arms of the Astral Self** (bonus action): spectral dragon-claw arms (10 ft reach, use WIS for attacks)
+
+  * *Damage:* 1d8 force
+  * *Bonus:* advantage on STR checks, +WIS mod damage (once per turn)
+
+**Attacks:**
+
+* **Unarmed Strike:** +6 to hit, 1d4+4 bludgeoning (WIS for Astral Arms 1d8+3 force)
+* **Quarterstaff “Pulsefang”:** +6 to hit, 1d8+4 bludgeoning (versatile 1d10)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Frontliner / Control Striker**
+* **Opener:** activates **Arms of the Astral Self** → combo **Flurry of Blows** to disorient foes.
+* **Flow:** uses 40 ft speed + *Step of the Wind* to outmaneuver; deflect projectiles mid-charge.
+* **Finisher:** *Stunning Strike* + *Astral Arms* flurry creating explosive dragon energy burst.
+
+**Damage Flavor:** spectral bronze dragon limbs appear over her own, each punch leaving faint molten afterglows.
+
+---
+
+## 💬 Personality
+
+* **Traits:** direct, confident, protective, hates arrogance.
+* **Ideal:** Control — “Master your body, and your heart follows.”
+* **Bond:** her students at Emberwell Dojo; teaches kids to defend without cruelty.
+* **Flaw:** takes insults personally; rushes danger to shield friends.
+* **Quirk:** cracks knuckles before meditation “to quiet the fire.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Emberwell Monastery, Ash Courtyard, Inner Furnace Arena**
+* **Threat Gradient:** **Wavering → Deep Echo (in ritual duels)**
+* **Encounter Framing:** **training duel**, **ritual corruption cleanse**, **arena defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a blacksmith’s daughter, Rin joined the monks to temper strength into purpose.
+Her draconic blood amplifies her ki, making her both feared and admired as a teacher who can split stone with her palms.
+
+* **Lifestyle:** spartan; lives on strong tea and sparring.
+* **Income:** dojo wages + bounty contracts.
+* **Relationships:** rival-friend with Miyara Caelwen (#211), protector of several orphans under monastery care.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believe in discipline without denial. She tempers violence into protection.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of her dragon blood and harming innocents.
+* **Weaknesses:** impulsive defense, emotionally straightforward.
+* **Strengths:** mobility, reflexes, reach control, physical precision.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย tone (type 2)** — แกล้งพูดตรง ๆ ชวนเขินแบบไม่รู้ตัว
+
+> “You flinched when I smiled—don’t. I only bite if you drop your guard.”
+> พูดพร้อมยกนิ้วแตะคางคุณเบา ๆ อย่างขี้เล่น
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her draconic lineage isn’t random—it’s a blood sigil branded to test “Echo weaponization.”
+* **Hooks:**
+
+  1. **The Burning Seal:** her scale glow spreads, risking a meltdown of ki.
+  2. **Emberwell Rivalry:** a corrupted monk challenges her for the monastery sigil.
+  3. **The Lion’s Silence:** a child she saved years ago now hunts her as a Severance zealot.
+
+## Tags: #Female #Tomboy #HalfBeast #DragonLion #Monk3 #AstralSelf #Skarnov #CR1 #Frontliner #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rin **ชอบทำให้คนเขินโดยใช้การสัมผัสเบา ๆ หลังสอนท่าต่อสู้**
+
+> “No, no—hips lower. Here, feel it. That’s balance.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff “Pulsefang”
+  * **Armor:** none (unarmored defense)
+  * **Tools:** incense set, cloth wraps
+  * **Consumables:** potion of healing ×1
+  * **Misc:** fang pendant, dragon charm, sash-belt
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Mobile / Athlete**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Emberwell Monastery / Ash Courtyard**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **dojo duel**, **corrupted ritual fight**, **monastery siege**
+* **Affiliation:** **Emberwell Disciples**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Brazilian female half-beast dragon-lion monk astral self 172cm short bob tawny brown copper hair golden eyes tanned skin athletic toned cropped battle-wrap top dragon-scale bands martial pose confident grin

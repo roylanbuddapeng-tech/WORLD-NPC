@@ -1,0 +1,204 @@
+# #245 — **Minji Willowrise** — *The Star-Chart Healer of Tideglass Court*
+
+> “Maps don’t save lives. The hands holding them do.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 245
+* **Gender:** **Female (Type: รุ่นพี่)** — สุขุม อ่อนโยน โทนพี่สาวที่วางใจได้ พูดไม่มากแต่จับจังหวะทีมแม่นยำ
+* **Age:** 28
+* **Race:** **Half-Beast (Mammal — Rabbitkin)** — มนุษย์ ~85% มีหูกระต่ายเล็กนุ่ม ช่วงเอวมีขนอ่อน ๆ แบบพวงหางจิ๋ว ดวงตากลมน้ำตาลประกายอบอุ่น
+* **Class & Level:** **Druid (Circle of Stars)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** backline medic / astro-cartographer / ritual navigator
+* **Organization:** **Thalassara — Tideglass Court, Star Ward Annex**
+* **Symbol:** แผนที่ดาวซ้อนคลื่นกระจก
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Japanese**, soft academic beauty with gentle presence.
+
+**Eyes:** warm brown with tiny starlight flecks that brighten when she channels.
+**Skin:** fair with a moon-dusted sheen across collarbones.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail (highest weight)**
+**Style:** **low ribboned ponytail** with softly **braided crown**, wispy curtain bangs.
+**Color:** **ink-black** with **teal-aqua gradient tips** like night fading into dawn.
+
+**Height:** 167 cm
+**Weight:** 55 kg
+**Body Type:** slim-fit, dancer’s grace; long lines, poised shoulders.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 96 – 66 – 98
+VALIDATION: • W/B = 0.688 → OK   • H/W = 1.48 → OK
+```
+
+**Theme Layer:** **Nerd (30%) → wears glasses always**
+**Glasses:** thin round silver frames with star-etched temples.
+**Jewelry & Accessories:** crescent-ear studs, slim astrolabe pendant, data-band, delicate anklet with a tiny compass charm.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium exposure — cropped top + sheer sleeves, high-slit skirt**
+
+Minji wears a **midnight-blue cropped starweave top** (subtle underbust line) with **sheer, constellated sleeves** that glow when she sketches sigils.
+A **long wrap skirt** in **tideglass satin** carries a **single high slit** for quick repositioning behind the line, worn over **opaque dark leggings** for modesty.
+A **short scholar-cloak** half-capes one shoulder; belts hold inks, salves, and her foldable star map.
+
+**Palette:** midnight blue / teal / silver / pearl
+**Accents:** stitched constellations, glassy hems, soft auric glow
+
+**Weapons & Gear:** **star map (druidic focus), healer’s satchel, chalk & silver dust, lunar sextant (flavor).**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (hide 12 + DEX +2 + shield +2; plant-based materials)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 17 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +3, WIS +5
+* **Skills:** Medicine +5, Nature +3, Insight +5, Survival +5, Perception +5
+* **Languages:** Common, Druidic, Celestial, Thalassaran Cant
+
+**Druid 3 — Circle of Stars**
+
+* **Star Map (Focus):** you know **Guiding Bolt** and can cast it **PB (2) / long rest** without a slot.
+* **Starry Form (Wild Shape):** **Archer** (BA 1d8+WIS radiant shot), **Chalice** (boost healing), **Dragon** (concentration support).
+* **Spellcasting (WIS DC 13, +5 atk)** *(prepared examples)*
+
+  * *Cantrips:* *Guidance, Produce Flame, Thorn Whip*
+  * *1st:* *Healing Word, Faerie Fire, Goodberry*
+  * *2nd:* *Lesser Restoration, Moonbeam, Pass without Trace*
+
+**Attacks:**
+
+* **Starry Archer (BA):** spell attack +5, **1d8+3 radiant** (while in Archer form)
+* **Guiding Bolt (feature):** +5 to hit, 4d6 radiant; next hit on target has advantage.
+
+---
+
+## 🎯 Combat Tactics (Backline Support)
+
+* **Role:** **Backline Healer / Advantage Engine / Concentration Anchor**
+* **Opener:** **Starry Form (Chalice)** → *Healing Word*/*Goodberry* prep → swap to **Archer** when safe to keep pressure from backline.
+* **Flow:** *Faerie Fire* to turn fights; stabilize with *Healing Word* at range; *Moonbeam* as controlled zone.
+* **Team Sync:** *Pass without Trace* for escorts; *Lesser Restoration* to clear disabling effects.
+* **Finisher:** **Guiding Bolt (free)** to mark priority; allies delete with advantage.
+
+**Flavor:** starlit sigils unfold like origami constellations; every heal scatters tiny fireflies of light that orbit recipients.
+
+---
+
+## 💬 Personality
+
+* **Traits:** patient, quietly witty, detail-obsessed about maps and routes.
+* **Ideal:** Guidance — “A good path is a kindness.”
+* **Bond:** keeps old star charts from a mentor lost at sea-canal.
+* **Flaw:** overplans; anxious when forced off her route.
+* **Quirk:** taps her glasses three times before calling out coordinates.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Tideglass Court, Star Ward Annex, Moon-Chart Piers**
+* **Threat Gradient:** **Stable → Wavering (ritual traffic nights)**
+* **Encounter Framing:** **escort with route-omens**, **canal triage**, **ritual navigation under Echo fog**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to dock mappers, Minji charted the “quietest routes” by listening to how sound bent in the canals.
+A circle druid found her sketches matched the sky, and the stars have trusted her ever since.
+
+* **Lifestyle:** tidy room of rolled maps and seasalt candles.
+* **Income:** route-warden contracts, healing commissions, ritual navigation fees.
+* **Relationships:** collaborates with Selène Vioren (#242); trades elixir recipes with Talia Otterwell (#232).
+
+---
+
+## 🧩 Morals & Ethics
+
+If you can make the road kinder, you already healed something.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her star map in a storm.
+* **Weaknesses:** fragile in melee; concentration reliant.
+* **Strengths:** ranged healing boosts, advantage setup, battlefield planning.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — อ่อนโยน ดูแลแบบแนบเนียน ทำให้ใจเต้นด้วยความใกล้ที่พอดี**
+
+> “Stay still—two steps back, one left. Perfect sightline. Also… closer suits you.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her astrolabe hums with a **Severance star** fragment; once per month, it “chooses” a destination.
+* **Hooks:**
+
+  1. **The Star That Points Wrong:** her map insists on a route through a sealed echo-tunnel.
+  2. **Chart of the Drowned Sky:** missing mentor’s chart resurfaces, wet and still moving.
+  3. **Route of Mercy:** a refugee convoy needs a silent path through a riot; only her star map can weave the timing.
+
+## Tags: #Female #SeniorType #HalfBeast #Rabbitkin #Druid3 #CircleOfStars #Support #Backline #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Minji **ทำให้เขินด้วยการเลื่อนแผนที่มาคลุมไหล่คุณ แล้วกระซิบชิดหู**
+
+> “You’re within my chart now. Nothing gets lost here.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** wooden shield, druidic dagger
+  * **Armor:** hide armor (nonmetal)
+  * **Tools:** star map focus, healer’s kit, chalk & dust
+  * **Consumables:** goodberries (daily), salve ×2, potion of healing ×1
+  * **Misc:** silver glasses, astrolabe pendant, compass anklet
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 19)** or **Feat: War Caster / Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Tideglass Court / Star Ward Annex / Moon-Chart Piers**
+* **Threat Gradient:** **Wavering (ritual traffic)**
+* **Encounter Type:** **backline triage**, **escort routing**, **Echo-fog navigation**
+* **Affiliation:** **Star Ward Annex — Thalassara**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Japanese female rabbitkin half-beast druid circle of stars 167cm low braided ponytail black to teal gradient hair warm brown eyes fair skin E-cup cropped starweave top sheer constellation sleeves high-slit wrap skirt dark leggings round silver glasses gentle backline healer star map glowing sigils tideglass court background

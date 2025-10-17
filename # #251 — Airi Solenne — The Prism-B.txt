@@ -1,0 +1,206 @@
+# #251 — **Airi Solenne** — *The Prism-Brew Songchemist of Thalassara’s Silver Veins*
+
+> “If science can make the stars sing, I’ll bottle the melody and sell it for a smile.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 251
+* **Gender:** **Female (Type: รุ่นน้อง)** — ร่าเริง ฉลาดไว แต่อมยิ้มขี้แกล้งตลอดเวลา ชอบเรียกคนอื่นว่า “เซ็นเซย์” แม้ไม่ใช่ครูของตัวเอง
+* **Age:** 20
+* **Race:** **Half-Beast (Aquatic — Axolotlkin)** — ผิวเรียบลื่นมีประกายมุกบาง ๆ ใต้แสงจันทร์ ด้านหลังมีครีบหูใสคล้ายปีกน้ำเล็ก ๆ ขยับตามอารมณ์
+* **Class & Level:** **Artificer (Alchemist)** 3 — **Total 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** potion vocalist / field medic / melody mixer
+* **Organization:** **Thalassara — Silver Vein Collegium of Resonant Arts**
+* **Symbol:** ขวดน้ำยาทรงหยดน้ำ มีครีบใสปักอยู่ด้านหลัง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–French**, playful charm with bright, aquatic energy.
+
+**Eyes:** aqua blue, wide and slightly luminescent, reflecting like still water under moonlight.
+**Skin:** smooth light-pearl tone with subtle shimmer near shoulders.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail (highest weight)**
+**Style:** **side ponytail**, wavy and bouncy, tied with a **glass bubble hairband** filled with glowing liquid.
+**Color:** **lavender-silver** fading into **aqua blue ends**, giving the illusion of waves.
+
+**Height:** 162 cm
+**Weight:** 52 kg
+**Body Type:** lithe and curvy, energetic swimmer build with soft proportions.
+
+**FEMALE BODY METRICS (รุ่นน้อง type, large cup allowed)**
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 102 – 68 – 105
+VALIDATION: • W/B = 0.666 → OK   • H/W = 1.54 → OK
+```
+
+**Theme Layer:** **Aristocrat (ลูกคุณหนู)** — ท่าทีเรียบร้อยแต่มีนิสัยซุกซนในจริต
+**Glasses Roll (50%) → fail:** no glasses.
+**Jewelry & Accessories:** coral-pink earring loops, pearl anklet, bracelet with tiny vials and charms.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High exposure — cropped chemist top + slit skirt**
+
+Airi’s attire fuses artistry with chemistry — a **short cropped chemist blouse** with a **v-shaped neckline**, revealing her toned midriff and hint of lower bust when she moves.
+Over it, she wears a **half-length lab jacket** of **iridescent silk** that shimmers between aqua and lavender.
+Her **skirt** is **high-slit** on both sides with lace trim, revealing smooth thighs wrapped in soft belts carrying potion vials.
+**Knee-high boots** of transparent leather glint faintly under alchemical light.
+
+**Palette:** aqua / lavender / pearl / rose gold
+**Accents:** liquid sheen fabrics, faint mist trails, bioluminescent seams
+
+**Weapons & Gear:**
+
+* *Resonant Wand* (acts as alchemical focus and tuning rod)
+* *Potion sling holster*
+* *Hand crossbow (runic)*
+* *Experimental Elixirs (x3)*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **15** (studded chem top + DEX + infusion)
+* **Speed:** 30 ft; **Swim Speed 30 ft**
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 11 (+0)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, INT +5
+* **Skills:** Arcana +5, Performance +4, Medicine +2, Persuasion +4
+* **Languages:** Common, Thalassaran, Aquan, Celestial
+
+**Artificer (Alchemist) 3**
+
+* **Infuse Item (2):** *Enhanced Arcane Focus*, *Repeating Shot*
+* **Experimental Elixirs (3/day):** healing, resilience, swiftness.
+* **Tool Expertise:** Alchemist’s Supplies
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mending, Ray of Frost, Guidance*
+  * *1st:* *Cure Wounds, Faerie Fire*
+  * *2nd:* *Aid, Blur*
+
+---
+
+## 🎯 Combat Tactics (Support / Midline)
+
+* **Role:** **Hybrid Healer / Distraction Support / Aura Buffer**
+* **Opener:** *Faerie Fire* to mark enemies, follow with *Blur* to dodge while buffing others.
+* **Flow:** toss *Elixirs* to frontline; her potions release melodic hums upon breaking.
+* **Finisher:** *Aid* to restore allies’ HP and confidence mid-battle.
+
+**Flavor:** her elixirs glow like jellyfish pulses; when thrown, they make a soft “ping” like a music note.
+
+---
+
+## 💬 Personality
+
+* **Traits:** talkative, flirty, quick-witted, pretends innocence when caught teasing.
+* **Ideal:** Joy — “Every formula should sparkle. If it doesn’t, add laughter.”
+* **Bond:** secretly sends homemade tonics to orphans of the canal quarter.
+* **Flaw:** easily distracted by beautiful people — “for artistic reference!”
+* **Quirk:** sings while brewing; every note adjusts potion color.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Silver Vein Academy, Coral Bloom Quarters, Tidehall Canal**
+* **Threat Gradient:** **Stable → Echo-tinged (musical disturbances)**
+* **Encounter Framing:** **elixir delivery during Echo surge**, **water ambush**, **healing concert gone wrong**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born into a family of wealthy instrument makers, Airi rebelled from classic performance to fuse art with chemistry.
+She calls her work “singing alchemy” — equal parts science and sparkle.
+
+* **Lifestyle:** lavish, cluttered, full of mirrors and half-finished potions.
+* **Income:** private commissions from nobles and performers.
+* **Relationships:** flirts with both apprentices and teachers; rumored to have dated a noble client for “field research.”
+
+---
+
+## 🧩 Morals & Ethics
+
+Fun first, fear later — the world’s safer when people smile.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being forgotten in silence.
+* **Weaknesses:** lack of focus, low endurance.
+* **Strengths:** charisma, adaptive casting, rapid potion synthesis.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — อ้อนแบบจงใจให้เขิน ชอบขยิบตาและพูดใกล้เกินไปเสมอ**
+
+> “You’re blushing again, sensei~ Want me to mix you something cool?”
+> (เธอยื่นหน้ามาใกล้ ขวดในมือสะท้อนแสงระยิบพอดีกับรอยยิ้ม)
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** discovered how to trap music inside liquids — her latest bottle hums her heartbeat.
+* **Hooks:**
+
+  1. **The Singing Tonic:** a potion that repeats her voice — someone uses it for deception.
+  2. **Pearl Song Heist:** thieves want her bottled-melody elixirs for black-market enchantments.
+  3. **Echo’s Chorus:** one of her potions accidentally harmonizes with an Echo pulse.
+
+## Tags: #Female #JuniorType #HalfBeast #Aquatic #Artificer3 #Alchemist #Support #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Airi **ทำให้เขินด้วยการพูดเสียงเบาใกล้หู พร้อมหัวเราะเบา ๆ ตามหลัง**
+
+> “Hold still… the bubbles tickle more when you flinch.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** resonant wand, hand crossbow
+  * **Armor:** light chem jacket
+  * **Tools:** alchemist’s kit
+  * **Consumables:** 3 elixirs (random daily)
+  * **Misc:** coral bracelet, pearl anklet, perfume vial
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Elemental Adept (Cold)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Silver Vein Academy / Coral Bloom Quarters**
+* **Threat Gradient:** **Stable → Echo-tinged**
+* **Encounter Type:** **alchemy concert defense**, **canal skirmish**, **healing delivery mission**
+* **Affiliation:** **Silver Vein Collegium of Resonant Arts**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese French female half-beast axolotlkin artificer alchemist 162cm lavender silver hair aqua blue ends side ponytail glowing aqua eyes pearl skin G-cup cropped chem blouse v neckline slit skirt iridescent jacket aquatic aesthetic playful junior vibe alchemy bottles bioluminescent lab

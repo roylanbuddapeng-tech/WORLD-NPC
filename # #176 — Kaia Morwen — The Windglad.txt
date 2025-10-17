@@ -1,0 +1,206 @@
+# #176 — **Kaia Morwen** — *The Windglade Pathfinder*
+
+> “If you stop to listen, even the wind will tell you which way to go.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 176
+* **Gender (weighted random):** **Female (Type: Tomboy Type 2 – athletic & confident)**
+* **Age:** 22
+* **Race:** **Half-Elf (Skarnov Lineage)** — 80% human; subtle metallic gleam across collarbones and slightly pointed ears.
+* **Class & Level:** **Ranger (Beast Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Scout / Beast handler / Survival guide
+* **Rank / Position:** **Windglade Pathfinder**
+* **Organization:** **Skarnov Vanguard Scouts**
+* **Symbol:** Falcon wing carved into stone leaf
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Japanese**, confident and sun-kissed charm.
+
+**Eyes:** amber-brown with flecks of bronze.
+**Skin:** light tan, warm tone, faint sheen like brushed copper on shoulders.
+
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result → Ponytail (high chance)*
+**Style:** **high messy ponytail**, loose strands framing her jawline.
+**Texture:** wavy, slightly wild from travel.
+**Color:** **dark chestnut brown with copper gradient ends**.
+**Height:** 170 cm
+**Weight:** 59 kg
+**Body Type:** **Athletic feminine**, toned core, visible muscle definition along arms and thighs.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium-Large
+THREE_SIZES (B-W-H, cm): 91 – 67 – 97
+VALIDATION: • W/B = 0.736 → OK   • H/W = 1.44 → OK
+```
+
+**Jewelry & Accessories (Glasses roll 40% → no glasses):**
+Simple **leather band necklace** with a tooth charm, **bronze ear cuff**, and a **braided wrist cord** interwoven with feathers.
+
+---
+
+## 👗 Outfit (in English)
+
+**Outfit Exposure Roll:** *Active gear – partial reveal (midriff & legs visible)*
+
+Kaia wears a **short-cut leather armor vest** exposing her midriff, reinforced with light bronze plates over vital spots.
+Underneath: a **dark green cropped halter**, paired with **asymmetric leather shorts** and **high boots** fitted for cliff climbing.
+A **hooded wind-cloak** trails behind, frayed at the ends from travel.
+
+**Color Palette:** dark green / bronze / brown / dusty gold
+**Accents:** wild, windswept, confident
+
+**Loadout:** shortbow, twin hunting knives, rope harness, falcon glove.
+Companion: **Hawk familiar “Sora”**, trained for scouting.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **31 HP**
+* **AC:** **16** (studded leather + DEX)
+* **Speed:** 35 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Survival +4, Perception +4, Stealth +6, Animal Handling +4, Acrobatics +6, Athletics +3
+* **Languages:** Common, Elvish, Skarnov Cant
+
+**Ranger (Beast Master) 3:**
+
+* **Companion:** Hawk “Sora” (AC 13, HP 8, +5 to hit, 1d4+3 piercing)
+* **Spells (WIS DC 12, +4 atk):**
+
+  * *Cantrips:* —
+  * *1st:* *Hunter’s Mark, Cure Wounds, Speak with Animals, Goodberry*
+
+**Attacks:**
+
+* **Shortbow:** +6 to hit, 1d6+4 piercing.
+* **Twin Daggers:** +6 to hit, 1d4+4 slashing (off-hand available).
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Scout Support**
+* **Opener:** *Hunter’s Mark* → ranged volley from concealment; sends **Sora** to harry casters.
+* **Flow:** Moves constantly; heals allies via *Goodberry* or *Cure Wounds* between fights.
+* **Finisher:** cliffside knockback → *dagger throw* to pin foe.
+
+**Damage Flavor:** dust and feather whirlwinds follow each shot; her arrows hum faintly like a falcon’s cry.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Competitive, teasing, energetic.
+* **Ideal:** Freedom — “The wind goes where it must; so do I.”
+* **Bond:** Her hawk *Sora*; they’ve saved each other countless times.
+* **Flaw:** Reckless curiosity; underestimates danger if it looks exciting.
+* **Quirk:** Whistles instead of answering sometimes — each tone means a different mood.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Windglade Plateau, Bronze Forest Rims**
+* **Threat Gradient:** **Wavering → Echo Zone (mountain winds)**
+* **Encounter Framing:** **Scout mission**, **ambush counter**, **animal rescue**, or **Echo outbreak near cliffs**
+
+---
+
+## 📜 Background & Lifestyle
+
+Kaia grew up among miners and hunters, trained by her aunt—a legendary beast tamer.
+She joined the Vanguard Scouts to prove her instincts are sharper than maps.
+
+* **Lifestyle:** sleeps outdoors, eats trail food, showers only in rain or waterfall.
+* **Income:** bounties + escort pay.
+* **Relationships:** teasing rival to Rei Takashiro; drinking buddy with Sumiya.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that instinct is a form of truth — when she hesitates, she listens to the wind.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** confined spaces, silence with no wind.
+* **Weaknesses:** rash decisions, poor with diplomacy.
+* **Strengths:** unmatched mobility, perceptive reactions, loyal to the end.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy (Type 2)** — ห้าว มั่นใจ แต่แอบเขินเวลาถูกชมตรงๆ
+
+> “Huh? You think my abs look good? Well… they better, I climb for a living!”
+> หัวเราะเบา ๆ แล้วหันไปจัดสายคาดธนู
+> “You’re blushing? Don’t. I’ll just tease you harder.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her hawk *Sora* is partially bound to an old Skarnov wind spirit — severing it could unleash a gale across the region.
+* **Hooks:**
+
+  1. **The Shattered Thermals:** A storm collapses airways; Kaia’s team must restore wind flow.
+  2. **Feather of the Ancients:** Her falcon carries a relic hidden since the Severance.
+  3. **Echo of the Ridge:** Wind starts whispering her name—something old is calling.
+
+## Tags: #Female #Tomboy #HalfElf #Ranger3 #BeastMaster #Skarnov #CR1 #Scout #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaia **ชอบแกล้งมากกว่าเขิน** แต่ถ้าโดนชมเรื่องรูปร่างจะหน้าแดงแล้วเปลี่ยนเรื่องทันที.
+
+> “You noticed my scar? …Heh, yeah, earned it from a wyvern, not from falling, thanks.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** shortbow, twin daggers
+  * **Armor:** studded leather
+  * **Tools:** climbing kit, rope harness
+  * **Consumables:** goodberries (daily), potion of healing ×1
+  * **Misc:** feather charm, hawk glove, bronze ear cuff
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Windglade Plateau / Bronze Forest Rims**
+* **Threat Gradient:** **Wavering → Echo Zone (air resonance)**
+* **Encounter Type:** **Scout Mission**, **Beast Rescue**, **Ambush Skirmish**
+* **Affiliation:** **Skarnov Vanguard Scouts**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Japanese female half-elf ranger beast master 170cm athletic build tanned skin dark chestnut ponytail copper tips amber eyes, cropped leather armor vest green halter short shorts, falcon perched, cliff wind background, confident tomboy smirk

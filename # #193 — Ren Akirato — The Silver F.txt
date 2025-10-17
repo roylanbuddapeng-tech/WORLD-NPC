@@ -1,0 +1,190 @@
+# #193 — **Ren Akirato** — *The Silver Fist of Valeronnes*
+
+> “If words fail, a punch often gets the point across.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 193
+* **Gender (weighted random):** **Male (Type: เมะ)** — ท่าทางสุขุมแต่ดุดันเวลาเข้าต่อสู้ น้ำเสียงนิ่งแต่มีแรงกดดันแบบคนที่ชินกับการเป็นผู้นำ
+* **Age:** 26
+* **Race:** **Human (Valeronnes Lineage)** — ผิวขาวอมทองแบบตะวันเมดิเตอร์เรเนียน ดวงตาสีเทาเข้มผสมประกายเงิน
+* **Class & Level:** **Monk (Way of the Open Hand)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Martial Artist / Bodyguard / Adventurer-for-hire
+* **Rank / Position:** **Street Dojo Instructor**
+* **Organization:** **The Silent Lotus Order**
+* **Symbol:** A closed silver fist encircled by a lotus ring
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Greek**, masculine grace with stoic poise.
+
+**Eyes:** gunmetal gray.
+**Skin:** fair olive tone.
+**Hair (Masculine Hair Randomizer):** 🎲 *Result → Short (40%)*
+**Style:** **short, swept-back with undercut**, neatly kept but slightly tousled after battle.
+**Color:** **black with silver streaks.**
+**Height:** 182 cm
+**Weight:** 74 kg
+**Body Build:** **athletic muscular**, broad shoulders, compact core, strong hands.
+
+**Accessories (male glasses 30% → 🎲 fail):**
+Wears **silver wrist wraps**, a **thin rope necklace** with an old coin pendant, and **fingerless gloves** reinforced with cloth sigils.
+
+---
+
+## 👗 Outfit (in English)
+
+**Style Roll:** 🎲 *Result → minimal martial outfit (functional / low exposure)*
+
+Ren wears **a sleeveless dark gray gi** trimmed in white, belted with a **silver sash**, paired with **loose combat trousers** and **barefoot wraps** marked by his dojo’s symbol.
+When fighting, he removes the top half of his gi and ties it around his waist.
+
+**Color Palette:** charcoal / silver / white / muted blue
+**Accents:** simple, honorable, perfectly balanced
+
+**Weapons:** unarmed strikes (monk) / quarterstaff “Still Path” (secondary).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **26 HP**
+* **AC:** **17** (DEX + WIS + Monk Defense)
+* **Speed:** 40 ft
+* **STR 13 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 16 (+3)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Acrobatics +6, Athletics +3, Insight +5, Perception +5
+* **Languages:** Common, Elvish, Valeronian
+
+**Monk (Way of the Open Hand) 3:**
+
+* **Martial Arts (1d6)**
+* **Ki (3 points)** — *Flurry of Blows, Patient Defense, Step of the Wind*
+* **Open Hand Technique** — push, knock prone, or disable reaction.
+* **Deflect Missiles**
+
+**Attacks:**
+
+* **Unarmed Strike:** +6 to hit, 1d6+4 bludgeoning (monk weapon)
+* **Quarterstaff (two-handed):** +6 to hit, 1d8+4 bludgeoning
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Frontline Brawler / Disabler
+* **Opener:** *Step of the Wind* to close distance, *Flurry of Blows* for knockdown.
+* **Flow:** Controls positioning with pushes and stuns, protecting ranged allies.
+* **Finisher:** A rising knee into elbow strike combo that resonates with a faint silver echo.
+
+**Damage Flavor:** silver trails shimmer on impact, like light reflecting off rippling water.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Stoic, dry humor, protective.
+* **Ideal:** Mastery — “Perfection is silence in motion.”
+* **Bond:** Devoted to his dojo brothers.
+* **Flaw:** Suppresses his emotions too tightly.
+* **Quirk:** Cracks his knuckles before serious fights.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Lotus Courtyard, Silent Dojo, Riverside Promenade**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **training duel**, **street brawl**, **bodyguard contract ambush.**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised in a small riverside monastery, Ren learned early that words often failed where fists could mediate peace.
+He now runs a tiny dojo for orphaned youth while taking adventuring jobs to fund it.
+
+* **Lifestyle:** minimalist, quiet, drinks tea or sake after fights.
+* **Income:** teaching + paid combat escorts.
+* **Relationships:** rivals turned allies with a paladin named Kaen Vos.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes discipline creates freedom — every strike must mean restraint, not dominance.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of his ki and harming innocents.
+* **Weaknesses:** self-isolates emotionally.
+* **Strengths:** precision combat, leadership, fast adaptability.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — สุขุม มีเสน่ห์จากความมั่นใจ ไม่พูดเยอะแต่พอพูดแล้วโดนใจ**
+
+> “You’re trembling. Relax your stance… before I relax it for you.”
+> *เขาโน้มหน้าเล็กน้อย รอยยิ้มบางเฉียบ แต่แววตาคมจนอีกฝ่ายหลบสายตาเองโดยไม่รู้ตัว*
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His ki is linked to an ancient Valeronian echo that grants bursts of radiant light.
+* **Hooks:**
+
+  1. **The Silver Lotus:** His dojo emblem starts glowing during full moon.
+  2. **Fist of Echoes:** A rival monk uses corrupted ki — Ren must purify it.
+  3. **Silent Duel:** He’s invited to a deathmatch disguised as a “discipline exhibition.”
+
+## Tags: #Male #MehType #Human #Monk3 #OpenHand #Valeronnes #CR1 #MartialArtist #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ren **ชอบทำให้คนรู้สึกปลอดภัย แต่เผลอทำให้เขินด้วยความสุขุมของตัวเอง**
+
+> “I said I’d guard you, not that I’d stop you from staring.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff, wraps
+  * **Armor:** none (monk defense)
+  * **Tools:** herbal poultices, incense sticks
+  * **Consumables:** potion of healing ×1
+  * **Misc:** silver coin pendant, lotus sash
+* **Level-Up Suggestions (to 4):** +2 DEX (to 20) or Feat **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Silent Dojo / Riverside Promenade**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **dojo sparring**, **defense mission**, **echo-corrupted monk duel**
+* **Affiliation:** **Silent Lotus Order**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Greek male human monk 182cm short black silver hair gray eyes athletic muscular build sleeveless gray gi silver sash martial artist calm expression silver aura

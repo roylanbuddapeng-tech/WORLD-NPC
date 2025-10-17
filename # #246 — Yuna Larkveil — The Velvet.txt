@@ -1,0 +1,204 @@
+# #246 — **Yuna Larkveil** — *The Velvet Chorus of Silvercourt*
+
+> “I don’t shout over chaos. I tune the hearts inside it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 246
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — เป็นกันเอง มีออร่าไอดอล อบอุ่นแต่ขี้แซว ทำให้ทีมรู้สึกปลอดภัยเวลาเธออยู่แนวหลัง
+* **Age:** 23
+* **Race:** **Other (Aasimar — Luminous-blooded)** — มนุษย์ ~90% ผิวมีประกายทองบางยามต้องแสง ดวงตาเป็นประกายดาว
+* **Class & Level:** **Bard (College of Glamour)** 3 — **Total 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** backline morale-caller / escort performer / ritual presenter
+* **Organization:** **Valeronnes — Silvercourt Chorus**
+* **Symbol:** โน้ตดนตรีถักเป็นวงพวงมาลัยดาว
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese**, idol-like poise with gentle starlit charm.
+
+**Eyes:** soft amber with tiny star flecks that brighten on sustained notes.
+**Skin:** fair with a warm candlelit glow at the collarbones and cheeks.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Twin Tail** (rarer pick)
+**Style:** **low twin tails**, silky and straight, ribbon-tied; face-framing bangs soften her gaze.
+**Color:** **black-violet** with **lavender sheen** toward the ends.
+
+**Height:** 166 cm
+**Weight:** 54 kg
+**Body Type:** slim-fit with singer’s breath control and graceful posture.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 96 – 66 – 98
+VALIDATION: • W/B = 0.688 → OK   • H/W = 1.48 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)** — court-bred presenter trained to calm crowds with etiquette and song.
+**Glasses Roll (female non-nerd 40%) → success:** **thin oval crystal glasses** for score-reading.
+**Jewelry & Accessories:** star-charm earrings, silver choker with a tiny lyre, slim data-band, ankle chain with a soft chime.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium exposure — deep neckline + sheer overskirt**
+
+Yuna wears a **pearl-white stage bodice** with a **tasteful deep V neckline**, over a **soft silk crop panel** that shows a hint of midriff when she turns.
+A **flowing overskirt of sheer star-mesh** falls from a slim belt, split at one side to mid-thigh, revealing **opaque performance shorts** beneath for modesty and movement.
+A **half-capelet** of gauzy fabric glitters under light and fades when she whispers a cantrip.
+
+**Palette:** pearl white / lavender / silver / soft gold
+**Accents:** star-stitched hems, glassy buttons, faint halo glow while singing
+
+**Weapons & Gear:** crystal lyre (focus), silvered dagger (ceremonial), score folio, throat lozenges (flavor).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **15** (studded attire + DEX)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 10 (+0)** **WIS 11 (+0)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +4, CHA +6
+* **Skills:** Performance +8 (Expertise), Persuasion +8 (Expertise), Insight +2, Perception +2, Acrobatics +4
+* **Languages:** Common, Celestial, Valeronian
+
+**Bard 3 — College of Glamour**
+
+* **Bardic Inspiration (d6)**
+* **Mantle of Inspiration (BA):** expend a Bardic Inspiration to grant **temp HP (5)** to **up to 3 allies** within 60 ft; each can immediately **move up to their speed** without opportunity attacks (RAW).
+* **Enthralling Performance:** after 1 minute of performance, **charm** a number of creatures (Cha mod) on a failed save.
+* **Jack of All Trades; Expertise (Performance, Persuasion).**
+* **Spellcasting (CHA DC 14, +6 atk)**
+
+  * *Cantrips:* *Vicious Mockery, Dancing Lights, Minor Illusion*
+  * *1st:* *Healing Word, Faerie Fire, Dissonant Whispers*
+  * *2nd:* *Calm Emotions, Suggestion*
+
+**Attacks:**
+
+* **Silvered Dagger:** +4 to hit, 1d4+2 piercing (rarely used).
+
+---
+
+## 🎯 Combat Tactics (Backline Support)
+
+* **Role:** **Backline Buffer / Crowd Control / Safe Reposition**
+* **Opener:** **Mantle of Inspiration** to temp-HP and reposition allies safely; overlay *Faerie Fire* for advantage.
+* **Flow:** *Calm Emotions* to neutralize mobs; *Healing Word* to pick up downs at range; *Dissonant Whispers* to peel threats off the line.
+* **Finisher:** **Suggestion** to end a standoff without blood; *Vicious Mockery* to stagger damage dealers.
+
+**Flavor:** her chorus casts thin ribbons of light that tether to allies’ shoulders; when she lifts a hand, the ribbons gently tug them to safety.
+
+---
+
+## 💬 Personality
+
+* **Traits:** playful, reassuring, quick with compliments that land right on time.
+* **Ideal:** Poise — “Steady hearts steady hands.”
+* **Bond:** the Silvercourt interns who carry her lights and scores.
+* **Flaw:** hates disappointing crowds; pushes her voice past safe limits.
+* **Quirk:** hums warmups under her breath; the notes shimmer visibly.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Silvercourt Amphitheater, Treaty Walks, Moon-Glass Plazas**
+* **Threat Gradient:** **Stable → Wavering (crowd surges, protests)**
+* **Encounter Framing:** **backline rally support**, **evacuation with Mantle reposition**, **calming flashpoints**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised to present court announcements, Yuna learned early that a steady voice can turn a riot into a conversation.
+She joined the Chorus to bring that steadiness to streets, not just stages.
+
+* **Lifestyle:** tidy studio with mirrored wall and soft lantern strings.
+* **Income:** performance fees, escort retainers, relief-order stipends.
+* **Relationships:** often paired with Rei Kazemori (#243) on peace details; duet partner with Serena Lioren (#235).
+
+---
+
+## 🧩 Morals & Ethics
+
+Words are bridges; if one breaks, build another before anyone falls.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her voice mid-crisis.
+* **Weaknesses:** fragile in melee; slot-limited control.
+* **Strengths:** instant team reposition (**Mantle**), social dominance, nonlethal resolution.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — แซวนุ่ม ๆ พร้อมมอบพื้นที่ปลอดภัยทางใจ**
+
+> “You look best two steps back—there. Breathe with me, I’ll do the loud part.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her halo flare is actually a bound echo of applause; if shattered, it may turn crowds hostile.
+* **Hooks:**
+
+  1. **The Silent Stage:** an Echo steals all sound—she must rally with light alone.
+  2. **Encore Clause:** a noble contracts her Mantle for a “private rescue” with strings attached.
+  3. **Dissonant Ovation:** a cult hijacks her performance to enthrall the audience.
+
+## Tags: #Female #PeerType #Aasimar #Bard3 #CollegeOfGlamour #Support #Backline #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Yuna **ทำให้เขินด้วยการจับปลายคางเบา ๆ ตั้งไมค์เวท แล้วกระซิบชิดหู**
+
+> “I’ll pull you back if you lean too far. Promise.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** silvered dagger
+  * **Armor:** studded performance attire
+  * **Tools:** crystal lyre, score folio
+  * **Consumables:** throat lozenges ×3, potion of healing ×1
+  * **Misc:** oval crystal glasses, star choker, spare ribbons
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Inspiring Leader / Fey Touched**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Silvercourt Amphitheater / Treaty Walks / Moon-Glass Plazas**
+* **Threat Gradient:** **Wavering (crowds & protests)**
+* **Encounter Type:** **backline rally**, **evacuation pathing with Mantle**, **nonlethal standdown**
+* **Affiliation:** **Silvercourt Chorus**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese female aasimar bard glamour 166cm low twin tails black-violet hair lavender sheen amber star-fleck eyes fair skin E-cup deep V bodice midriff hint sheer overskirt performance shorts oval crystal glasses pearl white lavender silver stage lights backline support ribbons of light

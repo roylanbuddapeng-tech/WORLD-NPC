@@ -1,0 +1,213 @@
+# #262 — **Mirra Calden** — *The Grave-Flame Cantor*
+
+> “The dead are only quiet because they wait for the right harmony.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 262
+* **Gender:** **Female (Type: MILF)** — น้ำเสียงอบอุ่นแต่ออกคำสั่งได้เด็ดขาด แววตาคนเคยผ่านสงครามและรักที่สูญเสียมาก่อน
+* **Age:** 37
+* **Race:** **Human**
+* **Class & Level:** **Cleric (Grave Domain)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **field priestess / spirit appeaser / undertaker-healer**
+* **Organization:** **Sepulchral Choir of Valeronnes**
+* **Symbol:** ดอกกุหลาบสีขาวที่บานอยู่บนหลุมศพหิน
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Eastern European**, graceful, mature beauty touched by grief.
+
+**Eyes:** pale violet with faint luminescent rims like candlelight.
+**Skin:** ivory fair, small freckles near her collarbone, faint shadowed eyes.
+
+**Hair (Female Hair Randomizer):** 🎲 **Long (25%) — loose side-braid**
+**Style:** thick silvery ash hair braided down the right shoulder, soft curls at the end, with a few strands falling across her cheek.
+**Color:** **ash silver** with **white highlights**.
+
+**Height:** 173 cm
+**Weight:** 61 kg
+**Body Type:** statuesque and feminine, soft yet sturdy frame — the kind that comforts and commands in equal measure.
+
+**FEMALE BODY METRICS (MILF rule ≥ Cup H)**
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 110 – 76 – 112
+VALIDATION: • W/B = 0.69 → OK   • H/W = 1.47 → OK
+```
+
+**Sub-Theme:** 🎲 **Nerd (Scholar-Priest)**
+Mirra documents the rites of death in her journals and quotes lost philosophers mid-prayer.
+
+**Glasses Rule (Nerd = Always):** **Yes.**
+**Glasses:** round golden spectacles with chain loops; lenses reflect soft purple light when she casts.
+
+**Jewelry & Accessories:** silver rosary, violet crystal talisman, two memorial rings on her right hand, and an obsidian teardrop earring.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium-High — reverent elegance with allure**
+
+Mirra’s priestess robe is a **dark plum halter-gown** with a **deep V neckline** that crosses and ties with a silver sash.
+The fabric leaves her shoulders bare but drapes gracefully, layered with **translucent veils** from her back to wrist cuffs.
+Under the robe, she wears **black lace leggings** and **thigh-high boots**; the aesthetic balances sanctity and sensual strength.
+
+**Palette:** plum / silver / black lace / faint lavender glow
+**Accents:** silk veils, rosary threads, candlelight shimmer
+
+**Weapons & Gear:**
+
+* *Silver censer mace* — emits light or necrotic smoke.
+* *Prayer book bound in bonecloth.*
+* *Vial of holy oil and gravewater.*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **21 HP**
+* **AC:** **17** (chain shirt + shield)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 10 (+0)** **CON 14 (+2)** **INT 12 (+1)** **WIS 17 (+3)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Religion +5, Medicine +5, Insight +5, Persuasion +4
+* **Languages:** Common, Celestial, Abyssal
+
+**Cleric (Grave Domain)**
+
+* **Circle of Mortality:** maximize healing on creatures at 0 HP.
+* **Eyes of the Grave:** detect undead within 60 ft.
+* **Channel Divinity:** Path to the Grave — curse enemy for vulnerability.
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Spare the Dying, Sacred Flame, Thaumaturgy*
+  * *1st:* *Bless, Healing Word, Inflict Wounds*
+  * *2nd:* *Gentle Repose, Spiritual Weapon*
+
+**Attacks**
+
+* **Sacred Flame:** DC 13 DEX save, 1d8 radiant.
+* **Inflict Wounds:** +5, 3d10 necrotic.
+* **Spiritual Weapon:** +5, 1d8+3 force (flavor: glowing violet censer).
+
+---
+
+## 🎯 Combat Tactics (Support / Offense Hybrid)
+
+* **Role:** **Midline Support / Damage Hybrid**
+* **Opener:** *Bless* + *Spiritual Weapon*
+* **Flow:** heals critically injured allies while debuffing enemies with *Path to the Grave*.
+* **Finisher:** *Inflict Wounds* on cursed target for massive necrotic burst.
+
+**Flavor:** her chants resonate like a requiem; each word releases silver mist from her lips.
+
+---
+
+## 💬 Personality
+
+* **Traits:** patient, deeply empathetic, slightly melancholy humor.
+* **Ideal:** Peace through remembrance — “All souls deserve a lullaby.”
+* **Bond:** the cemetery choir she tends every dusk.
+* **Flaw:** overextends herself for others; denies her own exhaustion.
+* **Quirk:** hums funeral hymns when nervous; the air chills slightly when she does.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Ashen Cloister, Sepulchral Gardens**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **graveyard exorcism**, **funeral gone wrong**, **ghost aid negotiation**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a war-cleric during the Severance Crusades, Mirra abandoned battlefields to found a chapel for unburied soldiers.
+She now travels between ruins, performing rites for the forgotten dead.
+
+* **Lifestyle:** monastic comfort — candles, tea, and ink.
+* **Income:** donations, relic restorations.
+* **Relationships:** regarded as a “holy mother” by her choir apprentices; secretly corresponded with Sir Nael in his early knight years.
+
+---
+
+## 🧩 Morals & Ethics
+
+Her compassion is quiet but absolute: she believes death is sacred, not feared.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her faith; seeing the undead cry.
+* **Weaknesses:** emotionally exhausted; slow to retreat.
+* **Strengths:** unshakable resolve, mastery of healing under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — ชอบปลอบและแหย่พร้อมกัน น้ำเสียงอบอุ่นแต่แฝงแรงดึงดูด**
+
+> “Shh… it’s alright. Don’t look at me like that—your heart’s racing louder than my prayers.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her holy censer contains the ashes of her late husband, who still whispers advice mid-battle.
+* **Hooks:**
+
+  1. **Ashes that Sing:** the censer begins answering in his voice to other people.
+  2. **The Hollow Psalm:** she’s asked to resurrect a soul that refuses to return.
+  3. **Violet Requiem:** the dead start humming her prayer melody back at night.
+
+## Tags: #Female #MILFType #Human #Cleric3 #GraveDomain #Nerd #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mirra **ชอบทำให้คนอื่นเขินโดยการสัมผัสเบาๆ ระหว่างพูดปลอบมือแนบแก้ม หรือเป่าผมที่หล่นบนหน้าผากให้อีกฝ่าย**
+
+> “Stay still, dear… you’ll ruin your aura if you keep fidgeting like that.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** silver censer mace
+  * **Armor:** plum halter-gown with chain underlay
+  * **Tools:** rosary, prayer book
+  * **Consumables:** holy oil, gravewater, blessing incense
+  * **Misc:** memorial rings, gold spectacles
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 19)** or **Feat: Healer / War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Sepulchral Gardens / Ashen Cloister**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **ghost appeasement**, **undead cleansing**, **funeral defense**
+* **Affiliation:** **Sepulchral Choir of Valeronnes**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Eastern European female human cleric grave domain 173cm long ash silver hair violet eyes I-cup MILF type nerd priestess deep V plum gown black lace leggings veils golden glasses holy censer serene mature beauty compassionate confident

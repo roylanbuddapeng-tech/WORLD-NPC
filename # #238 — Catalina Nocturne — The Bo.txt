@@ -1,0 +1,206 @@
+# #238 — **Catalina Nocturne** — *The Bondbearer of Veyrun Cloisters*
+
+> “Hold my hand. That’s all a miracle needs.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 238
+* **Gender:** **Female (Type: MILF)** — สุขุม อบอุ่น สายตาเมตตาแต่มั่นคง มีบารมีของผู้ใหญ่ที่ทั้งปลอบและสั่งการได้
+* **Age:** 34
+* **Race:** **Half-Beast (Mammal subtype — Snow-Leopardkin)** — มนุษย์ ~85% หูแมวหิมะเล็กชิดศีรษะ ลายจุดจาง ๆ เหนือไหล่และสะโพก ปลายหางฟูสีเงินเทา
+* **Class & Level:** **Cleric (Peace Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** covenant healer / mediator / field chaplain
+* **Organization:** **Veyrun Cloisters — Concord Ward**
+* **Symbol:** วงแหวนสองวงคล้องกัน เหนือดอกลิลลี่เงิน
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Latin American**, stately, luminous warmth with feline grace.
+
+**Eyes:** pale ice-blue with soft silver limbal ring; gaze that settles nerves.
+**Skin:** fair with cool undertones; faint, natural rosette speckles at the shoulders (leopard pattern).
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail (highest weight)**
+**Style:** **low braided ponytail** looped into a sleek **braid-knot**; soft face-framing tendrils.
+**Color:** **smoky black** with **silver frost highlights**.
+
+**Height:** 173 cm
+**Weight:** 62 kg
+**Body Type:** tall, lush hourglass; temple-trained poise and quiet strength.
+
+**FEMALE BODY METRICS** *(MILF rule ≥ H; user rule: Cup > I)*
+
+```
+CUP: K   CATEGORY: Gigantic
+THREE_SIZES (B-W-H, cm): 114 – 76 – 120
+VALIDATION: • W/B = 0.667 → OK   • H/W = 1.58 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)** — former noble matron who chose the cloister.
+**Glasses Roll (non-nerd 50%) → success:** slim **cat-eye silver spectacles** for scripture and contracts.
+**Jewelry & Accessories:** moon-silver circlet, pearl drop earrings, braided silver bracelet (oath thread), delicate anklet chime.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate-high — dignified ritual with soft sensuality
+
+Catalina wears a **dove-white vestment gown** with a **deep heart neckline** veiled by translucent lace, paired with a **silver cinch-belt** that shapes her waist.
+A **sheer overcloak** with stitched pact runes flows to the calves; **side slits** allow swift steps when tending the wounded.
+Soft gloves hide healer’s scars; the inner lining shimmers like frost.
+
+**Palette:** white / silver / pale blue / moon-pearl
+**Accents:** lace veils, covenant stitches, quiet opalescent sheen
+
+**Weapons & Gear:** moonsteel mace (symbolic), **bond-knot rosary** (holy focus), healer’s kit, oath ribbons for rituals.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **18** (chain shirt 13 + shield 2 + WIS ward +3)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 12 (+1)** **CON 14 (+2)** **INT 11 (+0)** **WIS 18 (+4)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +6, CHA +4
+* **Skills:** Medicine +6, Insight +6, Persuasion +4, Religion +2, Perception +3
+* **Languages:** Common, Celestial, Valeronian, Tabaxi Cant (flavor)
+
+**Cleric 3 — Peace Domain**
+
+* **Emboldening Bond (PB times/long rest):** bond up to **PB (2)** creatures for **10 minutes** → they add **1d4** to an attack/check/save **once per turn**, and can teleport 30 ft to swap places? *(No — RAW: they can move toward each other as reaction?)*
+
+  * **RAW effect used:** *When a bonded creature is within 30 ft of another, it can add 1d4 once/turn to a roll; as a reaction once per turn, a bonded creature can move up to 30 ft toward another bonded creature without opportunity attacks.*
+* **Channel Divinity — Balm of Peace:** **Action** → move up to your speed without provoking; each creature you pass within 5 ft **heals 2d6 + WIS (4)** (once per creature per use).
+* **Domain Spells:** *Heroism, Sanctuary; Aid, Warding Bond.*
+* **Spellcasting (WIS DC 14, +6 atk)**
+
+  * *Cantrips:* *Guidance, Spare the Dying, Sacred Flame*
+  * *1st:* *Bless, Sanctuary, Cure Wounds, Heroism*
+  * *2nd:* *Aid, Warding Bond, Lesser Restoration*
+
+**Attacks:**
+
+* **Moonsteel Mace:** +2 to hit, 1d6 bludgeoning (used rarely; protection focus)
+
+---
+
+## 🎯 Combat Tactics (Support Specialist)
+
+* **Role:** **Buff Engine / Mobility Healer / Damage Mitigation**
+* **Opener:** **Emboldening Bond** on striker + caster → **Bless** if slots permit.
+* **Flow:** **Balm of Peace** to weave through allies, patching them while repositioning lines.
+* **Mitigation:** **Warding Bond** on the primary tank, then **Aid** early for team HP floor.
+* **Finisher:** stabilize with *Spare the Dying* then **Heroism** to keep rookies from panicking.
+
+**Effect Flavor:** silver threads spool from her rosary, tying wrists and hearts with gentle light; each knot hums in harmony.
+
+---
+
+## 💬 Personality
+
+* **Traits:** maternal composure, playful wit when calming fear, iron resolve under pressure.
+* **Ideal:** Covenant — “We survive by holding on to each other.”
+* **Bond:** protects her cloister wards and the orphans of Veyrun.
+* **Flaw:** takes burdens silently; refuses to let others bleed in her place.
+* **Quirk:** ties tiny knot-charms on allies’ belts before missions for luck.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Veyrun — Concord Cloisters, White-Bridge Clinics, Treaty Halls**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **treaty escort**, **mass-heal triage**, **frontline morale ward**
+
+---
+
+## 📜 Background & Lifestyle
+
+A once-married noble who left court after a siege took her spouse; Catalina rebuilt purpose in the Concord Ward, binding people as deftly as she binds wounds.
+
+* **Lifestyle:** tidy cell with a silver tea set and stacks of petition ribbons.
+* **Income:** cloister stipend, donation tithes, mediation retainers.
+* **Relationships:** confidante of Nerissa Valeon (#237); mutual aid with Mariel Crestveil (#234).
+
+---
+
+## 🧩 Morals & Ethics
+
+Mercy is structure, not sentiment: a promise you can lean on when the world shakes.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** failing to arrive in time; promises broken under her watch.
+* **Weaknesses:** low offense; self-sacrificing instincts.
+* **Strengths:** stacked buffs, mobile healing, fear/charm control via Sanctuary & Bond.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — อบอุ่นแต่เย้ายวนแบบไม่ตั้งใจ**
+
+> “Hands. Mine and yours—now breathe with me.”
+> เธอยกมือคุณแนบอกตนเองชั่วครู่ จังหวะหัวใจและแสงเงินเต้นเป็นหนึ่งเดียว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her bond threads are cuttable—someone is collecting the severed knots to weave a control ritual.
+* **Hooks:**
+
+  1. **Knot-Thief:** track a broker stealing bond-ribbons from battlefields.
+  2. **The Broken Vow:** her Warding Bond backfires during a riot; find the saboteur sigil.
+  3. **Concord Eclipse:** a Severance hymn unravels all bonds at once—she’s the key to retying them mid-siege.
+
+## Tags: #Female #MILF #HalfBeast #SnowLeopardkin #Cleric3 #PeaceDomain #Support #Veyrun #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Catalina **ชอบทำให้เขินด้วยการจับมือแน่น ๆ แล้วนำหายใจเป็นจังหวะ**
+
+> “In for four… out for four. Keep your eyes on me. Good girl/boy.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** moonsteel mace
+  * **Armor:** chain shirt, polished shield
+  * **Tools:** rosary focus, healer’s kit, oath ribbons
+  * **Consumables:** potion of healing ×2, calming tea sachets ×3
+  * **Misc:** cat-eye spectacles, silver circlet, concord signet
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 20)** or **Feat: Healer / Inspiring Leader / Resilient (CON)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Veyrun Cloisters / White-Bridge Clinics / Treaty Halls**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **treaty escort**, **triage wall**, **riot pacification**
+* **Affiliation:** **Concord Ward — Veyrun**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Latin female snow-leopardkin cleric peace domain 173cm low braided ponytail silver highlights ice-blue eyes fair skin K-cup white silver vestment deep neckline lace veil cat-eye glasses gentle maternal aura bond threads glowing rosary dignified sensual healer

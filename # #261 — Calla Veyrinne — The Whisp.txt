@@ -1,0 +1,211 @@
+# #261 — **Calla Veyrinne** — *The Whispered Bloom of Thalune Gardens*
+
+> “Even in silence, magic grows—if you tend to it with love.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 261
+* **Gender:** **Female (Type: รุ่นน้อง)** — ร่าเริง ใสซื่อ พูดจาเร็วแต่จริงใจ มักยิ้มกว้างเวลาโดนชม
+* **Age:** 20
+* **Race:** **Half-Beast (Catkin)** — หูแมวสีครีมขยับตามอารมณ์, หางยาวนุ่มสีเดียวกัน, ดวงตาเขียวอ่อนประกายทอง
+* **Class & Level:** **Sorcerer (Wild Magic)** 3
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** apprentice gardener / field sorcerer / messenger familiar keeper
+* **Organization:** **Thalune Blooming Choir**
+* **Symbol:** ดอกลิลลี่ 3 กลีบซ้อนกัน มีวงเวทเปล่งแสงอยู่ตรงเกสร
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Western**, round youthful face, innocent glow, catlike charm.
+
+**Eyes:** jade-green with faint golden rims.
+**Skin:** soft cream tone, lightly flushed cheeks, faint dimples when smiling.
+
+**Hair (Female Hair Randomizer):** 🎲 **Ponytail (most frequent)**
+**Style:** high ponytail tied with green ribbon; side fringe curls slightly; a few strands fall freely beside cheeks.
+**Color:** **strawberry blond** with hints of pink-gold when catching sunlight.
+
+**Height:** 162 cm
+**Weight:** 54 kg
+**Body Type:** soft but well-proportioned, lively movements, energetic posture.
+
+**FEMALE BODY METRICS (รุ่นน้อง rule — can roll big busts)**
+🎲 Rolled Large bust variant.
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 69 – 98
+VALIDATION: • W/B = 0.70 → OK   • H/W = 1.42 → OK
+```
+
+**Sub-Theme Roll:** 🎲 **Aristocrat (ลูกคุณหนู)**
+Born to a wealthy horticultural family; well-mannered yet playful, never used to hardship.
+
+**Glasses Roll (50% non-Nerd):** 🎲 Fail → **No glasses**
+
+**Jewelry & Accessories:** small gold bell earring on one ear, floral charm bracelet, silk ribbon with emerald bead around neck, enchanted gardening gloves (anti-thorn).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium exposure — airy, playful attire**
+
+Calla wears a **pastel-green cropped blouse** with **open shoulders** and **short sleeves**, paired with a **short layered skirt** that swishes with her tail.
+A **white sash belt** holds small vials of pollen and seeds.
+Her outfit looks equal parts cute and magical-lab appropriate.
+
+**Palette:** mint green / cream white / pink gold
+**Accents:** floral embroidery, ribbon details, soft lace trim
+
+**Weapons & Gear:**
+
+* *Wand of Bloomlight* (focus rod shaped like a tulip stem)
+* *Bloom satchel* with seeds and magic pollen jars
+
+---
+
+##⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **15 HP**
+* **AC:** **13** (mage armor)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 10 (+0)** **WIS 11 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, CHA +5
+* **Skills:** Nature +2, Arcana +2, Persuasion +5, Animal Handling +2
+* **Languages:** Common, Sylvan
+
+**Sorcerer (Wild Magic)**
+
+* **Tides of Chaos:** advantage once per long rest, triggers Wild Surge.
+* **Wild Magic Surge Table:** random magic phenomena (flavor: flower bloom bursts, pollen storms, glowing petals).
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Cantrips:* *Fire Bolt, Minor Illusion, Prestidigitation*
+  * *1st:* *Mage Armor, Chaos Bolt*
+  * *2nd:* *Mirror Image*
+
+**Attacks**
+
+* **Chaos Bolt:** +5, 2d8+1d6 random energy.
+* **Fire Bolt:** +5, 1d10 fire.
+
+---
+
+## 🎯 Combat Tactics (Offense)
+
+* **Role:** **Ranged Chaos Caster / Unstable Support**
+* **Opener:** *Tides of Chaos* + *Chaos Bolt* (roll for random element).
+* **Mid Combat:** *Mirror Image* to survive; *Wild Surge* creates flower explosions.
+* **Finisher:** *Twin Chaos Bolt* (flavor: vines erupt, petals flare like fireworks).
+
+---
+
+## 💬 Personality
+
+* **Traits:** cheerful, curious, talks to animals, sometimes naive.
+* **Ideal:** Freedom — “Magic should be fun, or it withers.”
+* **Bond:** her familiar cat spirit “Lume.”
+* **Flaw:** panics easily when people shout; magic goes haywire with emotions.
+* **Quirk:** calls every plant “sir” or “madam.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalune Gardens — Bloom Choir Conservatory, Misty Terrace**
+* **Threat Gradient:** **Stable → Wavering (magic surges)**
+* **Encounter Framing:** **garden rescue**, **summoning pollen spirits**, **accidental chaos burst**
+
+---
+
+## 📜 Background & Lifestyle
+
+The youngest daughter of the Veyrinne estate, Calla preferred plants to parties. She left home to learn “magic that makes things grow.”
+Now works under Marielle (#258), studying the bond between sound, flora, and magic.
+
+* **Lifestyle:** small cottage near arboretum, filled with flowers and glowing mushrooms.
+* **Income:** sells enchanted seeds, healing herbs.
+* **Relationships:** adored by locals, teased affectionately by her mentor and peers.
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes all living things respond to kindness before command — a dangerous idea in a world of soldiers.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** loud explosions; hates fire spells but uses them anyway.
+* **Weaknesses:** unpredictability; easily distracted by cute things.
+* **Strengths:** cheerful energy boosts morale; natural bond with beasts and plants.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — แบ๊วใส ทำให้คนรอบข้างหลุดยิ้มโดยไม่รู้ตัว**
+
+> “Senpai! Look! It bloomed—it really listened to me this time!”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** when overcharged, her wild surges connect to a forgotten “Garden of Voices.”
+* **Hooks:**
+
+  1. **Pollen Storm:** her laughter triggers uncontrolled blossom eruptions.
+  2. **Seed of Memory:** she finds a seed that hums with someone’s soul.
+  3. **Lume’s Pact:** her cat familiar starts speaking in her mother’s voice.
+
+## Tags: #Female #JuniorType #HalfBeast #Catkin #Sorcerer3 #WildMagic #Aristocrat #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Calla **ชอบทำให้เขินโดยการเผลอเข้าใกล้มากเกินไป ขณะยื่นดอกไม้ให้คนอื่น หูแมวสั่น หางแกว่งเบาๆ แล้วพูดเสียงใสจนอีกฝ่ายหลุดโฟกัส**
+
+> “It’s not dangerous! See? Just smell it—wait, don’t close your eyes that much!”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+
+* **XP to Next Level:** **1,800**
+
+* **Inventory Slots:**
+
+  * **Weapons:** Wand of Bloomlight
+  * **Armor:** cropped mage blouse + layered skirt
+  * **Tools:** bloom satchel, gloves of growth
+  * **Consumables:** pollen vial ×2, petal tincture ×1
+  * **Misc:** cat familiar “Lume,” floral charm
+
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 19)** or **Feat: Magic Initiate / Elemental Adept (Fire)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalune Gardens / Bloom Choir Conservatory**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **magical surge event**, **botanical spirit aid**, **accidental explosion**
+* **Affiliation:** **Thalune Blooming Choir**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Western female half-beast catkin sorcerer wild magic 162cm high ponytail strawberry blond hair jade green eyes cream skin F-cup cute junior type aristocrat mint blouse off-shoulder short skirt ribbons playful magical flowers tail ears forest garden

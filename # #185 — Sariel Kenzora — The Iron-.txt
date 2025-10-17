@@ -1,0 +1,202 @@
+# #185 — **Sariel Kenzora** — *The Iron-Tiger Berserker of Skarnov*
+
+> “Mercy comes after the wall is down.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 185
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — สุขุม ดุแต่อ่อนโยน พูดสั้น กระชับ และดูแลรุ่นน้องแบบเข้มงวด
+* **Age:** 28
+* **Race:** **Half-Beast (Tiger — Skarnov Lineage)** — มนุษย์ ~85%; มีหูเสือเส้นเล็กซ่อนในผม ลายเส้นจาง ๆ บริเวณไหล่–สะเอว และหางพยักเบา ๆ เวลาโฟกัส
+* **Class & Level:** **Barbarian (Path of the Berserker)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** นักผจญภัยแนวบุกเปิดทาง / บอดี้การ์ดกองคาราวาน
+* **Rank / Position:** **Iron-Tiger Vanguard**
+* **Organization:** **Skarnov Forgeguard Auxilia**
+* **Symbol:** กรงเล็บเหล็กกรีดผ่านสัญลักษณ์ลมพายุ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean**, sharp, disciplined face with a fighter’s calm heat.
+
+**Eyes:** amber-gold, feline pupils that narrow when she measures distance.
+**Skin:** warm beige with faint tiger-striping along the ribs and lower back.
+
+**Hair (Feminine Hair Randomizer v2.8):** **Medium length — straight** (top-weighted common), **style:** blunt **straight cut with long side bangs** tucked behind one ear; **color:** **black with bronze-tiger lowlights**.
+**Height:** 174 cm
+**Weight:** 64 kg
+**Body Type:** **Athletic (trained)** — carved abs, powerful thighs, broad but feminine shoulders.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 100 – 70 – 110
+VALIDATION: • W/B = 0.70 → OK   • H/W = 1.57 → OK
+```
+
+**Jewelry & Accessories (female glasses 40% → no glasses):**
+Steel **fang pendant**, **rune-stamped leather bracelet**, **single hoop earring** shaped like a claw, and a **thin ankle cord** braided with forge-thread.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 *Result → Moderate-revealing (backless harness + cropped mail)*
+
+Sariel wears a **cropped chainmail vest** under a **black leather harness** that leaves her back free for shoulder rotation, paired with **reinforced gladiator shorts** and **tiger-striped wraps** at thighs and forearms.
+**Knee-high boots** with shock plates absorb impact during charges; a **half-cloak** hangs shredded, marking past battles.
+
+**Color Palette:** iron black / bronze / storm gray / ember orange
+**Accents:** brutal elegance, smith-forged pragmatism
+
+**Loadout:** **greataxe “Rift-Cleaver”**, 2× **handaxes**, 3× **javelins**, climbing chalk, resin grip.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** **41 HP** (1st: 12 + CON3 = 15; 2nd–3rd: 7+3 ×2 = 20; *Tiger-blood toughness flavor +3* → still RAW total 35? — ใช้ **41** ตามค่าเฉลี่ยสูง)
+
+  > หากต้องการเคร่ง RAW เฉลี่ยมาตรฐาน = **35 HP** (GM เลือกใช้ได้)
+* **AC:** **15** (Unarmored Defense: 10 + DEX + CON = 10 +2 +3)
+* **Speed:** 40 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Intimidation +3, Survival +3, Perception +3
+* **Languages:** Common, Dwarvish, Skarnov Cant
+
+**Barbarian 3 (Path of the Berserker):**
+
+* **Rage (2/long rest):** +2 damage; resist bludgeoning/piercing/slashing
+* **Reckless Attack**, **Danger Sense**
+* **Frenzy:** while raging, bonus-action melee attack; exhaustion after (RAW)
+
+**Attacks:**
+
+* **Greataxe (Rift-Cleaver):** +6 to hit, **1d12+4** slashing (+**+2** while raging)
+* **Handaxe:** +6 to hit, **1d6+4** slashing (light, thrown 20/60)
+* **Javelin:** +6 to hit, **1d6+4** piercing (30/120)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Bruiser / Breaker**
+* **Opener:** **Reckless Attack** + **Rage**, charges the heaviest target to split front line.
+* **Flow:** Locks down chokepoints; if swarmed → enters **Frenzy** for extra swings.
+* **Finisher:** **Handaxe** throw to stop a fleeing foe, then **pounce** with cleaving overhand blow.
+
+**Damage Flavor:** each strike sends a bronze “claw echo” through the air; dust spirals like paw-prints in storm wind.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Stern, protective, dry humor.
+* **Ideal:** Responsibility — “Strength means being the wall, not the fist.”
+* **Bond:** Guards caravan kids and rookies like a den mother.
+* **Flaw:** Takes burdens alone; hides injuries.
+* **Quirk:** Scratches two short lines on the ground before every duel (tiger claw mark).
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ironwood Roads, Storm-Cut Passes, Forgefront Camps**
+* **Threat Gradient:** **Wavering → Echo Zone (resonant gales)**
+* **Encounter Framing:** **Caravan break-through**, **Hold-the-line siege**, **Beast hunt in storm gulch**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a caravan guard line; learned to listen to wind and weight like a smith listens to steel.
+She left a lucrative city guard post to protect the routes most people avoid.
+
+* **Lifestyle:** sparse tent, early runs at dawn; eats like a furnace after battle.
+* **Income:** escort contracts + bounty shares.
+* **Relationships:** friendly rivalry with Rhoen Talvikar; soft spot for Mika Lioren’s optimism.
+
+---
+
+## 🧩 Morals & Ethics
+
+“Use anger as a tool, not a home.” เธอเชื่อว่าความโกรธต้องถูกขัดเกลาเหมือนคมขวาน
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Losing control and harming civilians.
+* **Weaknesses:** Exhaustion after Frenzy; baited easily by threats to her “pack.”
+* **Strengths:** Burst damage, line-breaking charges, pain tolerance.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — เข้มงวด อบอุ่น แหย่แบบสั้น ๆ**
+
+> “เก็บศอกเข้าไว้—ฉันไม่อยากซ่อมไหล่นายหลังสู้เสร็จ”
+> เธอยิ้มมุมปากบาง ๆ
+> “ทำดี… เดี๋ยวซื้อขนมให้”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her greataxe edge holds a sliver of Severance ore; when she rages, its vein glows bronze and hungrily hums.
+* **Hooks:**
+
+  1. **Storm Den:** A predator hunts caravans; only Sariel’s charge can break its bone-plated hide.
+  2. **Bronze Hunger:** The axe starts “pulling” her toward Echo rifts.
+  3. **Oath of the Pass:** She must hold a mountain pass for one night against impossible odds.
+
+## Tags: #Female #SeniorType #HalfBeast #TigerHybrid #Barbarian3 #Berserker #Skarnov #CR1 #Frontliner #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Sariel **ทำให้คนอื่นเขินด้วยคำชมสั้น ๆ ตรงใจ** — แตะไหล่แน่นพอให้รู้ว่าปลอดภัย
+
+> “ดีมาก เสียงหัวใจนิ่งแล้ว… ไปต่อ”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** greataxe, handaxes ×2, javelins ×3
+  * **Armor:** none (Unarmored Defense)
+  * **Tools:** climber’s kit, whetstone, resin grip
+  * **Consumables:** potion of healing ×1
+  * **Misc:** fang pendant, claw earring, forge-thread ankle cord
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 20) *หรือ* **Great Weapon Master** (หากรับความเสี่ยง)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Storm-Cut Pass / Ironwood Road**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **Caravan break-through**, **Mountain siege**, **Echo beast hunt**
+* **Affiliation:** **Forgeguard Auxilia**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean female half-beast tiger barbarian 174cm medium straight black hair bronze lowlights amber eyes athletic body cropped chainmail harness greataxe gladiator boots tiger stripes storm pass charge pose

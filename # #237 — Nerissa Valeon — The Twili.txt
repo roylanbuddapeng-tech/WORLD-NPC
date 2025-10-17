@@ -1,0 +1,207 @@
+# #237 — **Nerissa Valeon** — *The Twilight Cantor of the Silver Choir*
+
+> “Twilight is mercy — the hour where light and dark share the same song.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 237
+* **Gender:** **Female (Type: MILF)** — หญิงผู้สงบงาม มีรัศมีแม่พระแต่แฝงไว้ด้วยเสน่ห์ที่ลึกและอบอุ่นทุกคำพูด
+* **Age:** 37
+* **Race:** **Human**
+* **Class & Level:** **Cleric (Twilight Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** priestess of twilight / healer and dream-warder / spiritual counselor
+* **Organization:** **Valeronnes Silver Choir**
+* **Symbol:** half-sun and half-moon intertwined, forming a soft silver halo
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **European–Vietnamese**, timeless beauty with soft, spiritual composure.
+
+**Eyes:** deep amethyst, calm but piercing when she focuses.
+**Skin:** smooth, slightly sun-kissed tone with silver glow under the throat.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Wavy Long**
+**Style:** **loose wavy hair** cascading to the waist; side-swept bangs frame her face; ribbon-tied near the ends.
+**Color:** **dark ash brown** with **lavender undertone** that glimmers under light.
+
+**Height:** 175 cm
+**Weight:** 64 kg
+**Body Type:** mature, tall, graceful — full curves that move with quiet authority.
+
+**FEMALE BODY METRICS** *(MILF rule: Cup ≥ H)*
+
+```
+CUP: J   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 112 – 75 – 118
+VALIDATION: • W/B = 0.67 → OK   • H/W = 1.57 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)** — high-born healer, ordained as a bridge between nobles and the divine.
+**Glasses Roll (50%) → success:** **thin oval-lensed reading glasses**, worn low on her nose when lecturing.
+**Jewelry & Accessories:** twilight-sigil pendant, silver bangle with sun-moon charms, pearl-bead rosary.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate-high — sensual elegance under clerical grace
+
+Nerissa wears a **flowing twilight robe** of deep violet and silver thread, cinched by a **moonsteel corset-belt** that shapes her waist.
+The top opens modestly but reveals a **faint glimpse of cleavage through sheer embroidered fabric** — ceremonial yet disarmingly human.
+Long sleeves flare toward the wrists, and her skirt splits at the side for movement.
+A **luminous cloak** of faint starlight drapes from her shoulders.
+
+**Palette:** violet / silver / lilac / white gold
+**Accents:** sun-moon embroidery, translucent runes, divine shimmer
+
+**Weapons & Gear:** silver-headed mace (holy focus), sanctified lantern of rest, prayer book of dawns and dusks.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **18** (chain shirt 13 + shield 2 + twilight ward +3)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 12 (+1)** **CON 14 (+2)** **INT 11 (+0)** **WIS 18 (+4)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +6, CHA +4
+* **Skills:** Medicine +6, Insight +6, Persuasion +4, Religion +2, Performance +4
+* **Languages:** Common, Celestial, Infernal (academic), Valeronian
+
+**Cleric 3 — Twilight Domain**
+
+* **Eyes of Night:** darkvision 300 ft (shareable).
+* **Vigilant Blessing:** give one ally advantage on initiative.
+* **Channel Divinity — Twilight Sanctuary:** 30-ft aura granting temp HP or ending fear/charm at turn end.
+* **Domain Spells:** *Faerie Fire, Sleep, Moonbeam, See Invisibility.*
+* **Spellcasting (WIS DC 14, +6 atk)**
+
+  * *Cantrips:* *Sacred Flame, Light, Thaumaturgy*
+  * *1st:* *Bless, Cure Wounds, Sanctuary*
+  * *2nd:* *Lesser Restoration, Moonbeam*
+
+**Attacks:**
+
+* **Silver Mace:** +3 to hit, 1d6+1 bludgeoning (radiant if focus active).
+
+---
+
+## 🎯 Combat Tactics (Support / Aura Guardian)
+
+* **Role:** **Aura Healer / Defensive Buffer**
+* **Opener:** *Bless* → *Twilight Sanctuary* aura to start regenerating allies.
+* **Flow:** heal with *Cure Wounds* while maintaining aura and warding off charm/fear.
+* **Defensive Use:** *Vigilant Blessing* pre-fight on rogue or fighter.
+* **Finisher:** *Moonbeam* to clear undead or Echo spawn in divine light.
+
+**Effect Flavor:** her sanctuary manifests as shimmering dusk — motes of starlight drift, pulsing in time with breathing.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, nurturing, but subtly teasing when others fluster; moves like she’s dancing with gravity.
+* **Ideal:** Balance — “Light without shadow blinds. Shadow without light devours.”
+* **Bond:** her orphanage chapel; protects its children as if her own.
+* **Flaw:** believes redemption is always possible — even when it’s not.
+* **Quirk:** adjusts glasses when giving blessings, murmuring half-sung prayers.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Silver Choir, Orphanage Sanctum, Moonbell Cloisters**
+* **Threat Gradient:** **Stable → Wavering (Echo edges)**
+* **Encounter Framing:** **refuge defense**, **blessing ceremony ambush**, **dream healing**
+
+---
+
+## 📜 Background & Lifestyle
+
+Nerissa was once the youngest twilight cantor of the Valeronnes court before abandoning privilege to tend to war-torn refugees.
+Her nightly masses became known for “bringing dreams instead of sermons.”
+
+* **Lifestyle:** quiet convent cell filled with starlight lamps and children’s drawings.
+* **Income:** church stipend, private donations, blessing rites for nobles.
+* **Relationships:** long-standing mentor to Mariel Crestveil (#234); spiritual counselor to Serena Lioren (#235).
+
+---
+
+## 🧩 Morals & Ethics
+
+Faith is not obedience — it’s compassion given form and light.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her light and leaving her flock in darkness.
+* **Weaknesses:** poor self-care; constantly suppresses exhaustion.
+* **Strengths:** best-in-class aura sustain, long-range darkvision, group restoration.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — อ่อนโยนแต่แฝงความยั่วลึก พูดช้าและนุ่ม**
+
+> “Don’t look away when I bless you. You’ll miss the best part.”
+> เธอยื่นมือแตะแก้มเบา ๆ แล้วรอยยิ้มก็ค่อย ๆ แต้มแสงเงินขึ้นรอบตัว
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** she contains a fragment of an ancient moon angel; if released, she becomes a beacon for celestial war.
+* **Hooks:**
+
+  1. **The Fading Twilight:** her sanctuary light weakens; she needs allies to recover the lost hymn of balance.
+  2. **Children of the Dusk:** orphans she blessed begin glowing faintly at night — a sign or a curse?
+  3. **The Choir Without Faces:** an Echo cult steals her appearance to spread false blessings.
+
+## Tags: #Female #MILFType #Human #Cleric3 #TwilightDomain #Support #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nerissa **ชอบทำให้เขินด้วยการพูดช้าและเอียงศีรษะใกล้จนได้กลิ่นหอมของเธอ**
+
+> “There now… breathe. That’s twilight, touching you. You feel it too, don’t you?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** silver mace
+  * **Armor:** chain shirt, divine shield
+  * **Tools:** holy focus lantern, prayer beads
+  * **Consumables:** moon water ×2, radiant balm ×1
+  * **Misc:** oval glasses, twilight rosary, charm bracelet
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 20)** or **Feat: Inspiring Leader / Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Silver Choir / Moonbell Cloisters**
+* **Threat Gradient:** **Stable → Wavering (Echo edges)**
+* **Encounter Type:** **aura defense**, **dream healing**, **holy sanctuary siege**
+* **Affiliation:** **Silver Choir**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+European Vietnamese female human cleric twilight domain 175cm long wavy ash-brown hair lavender tint amethyst eyes warm skin J-cup violet silver robe moonsteel corset-belt oval glasses twilight aura mature priestess serene smile

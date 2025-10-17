@@ -1,0 +1,204 @@
+# #235 — **Serena Lioren** — *The Songweaver of the Dawn Choir*
+
+> “Every wound has a melody. You just have to listen long enough to rewrite it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 235
+* **Gender:** **Female (Type: MILF)** — ผู้หญิงวัยกลางคนที่งดงามและดูแพง มีออร่าความอบอุ่น เย้ายวนแต่เต็มไปด้วยความมั่นใจ
+* **Age:** 35
+* **Race:** **Half-Beast (Avian subtype — Dovefolk)** — มนุษย์ ~85% มีขนนุ่มบางเฉียบแซมบริเวณต้นแขนและท้ายทอย ปีกขาวขนาดเล็กที่ไม่ใช้บินแต่พับแนบหลังได้อย่างสง่างาม
+* **Class & Level:** **Bard (College of Lore)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** traveling songhealer / court musician / emotional counselor
+* **Organization:** **Valeronnes Dawn Choir**
+* **Symbol:** ลวดลายโน้ตสลักบนขนนกขาวไขว้
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Japanese**, mature beauty with soft, velvety allure.
+
+**Eyes:** smoky lavender with tiny flecks of gold, heavy-lidded, expressive.
+**Skin:** smooth honey-fair with warm undertones, luminous in lamplight.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Wavy Medium**
+**Style:** **shoulder-length wavy hair**, parted to one side with natural bounce, soft curls brushing her collarbones.
+**Color:** **champagne blonde** with **soft rose undertone highlights**.
+
+**Height:** 171 cm
+**Weight:** 63 kg
+**Body Type:** lush hourglass, mature curves balanced by dancer’s grace; warm and soft but poised.
+
+**FEMALE BODY METRICS** *(MILF rule: Cup ≥ H)*
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 110 – 74 – 116
+VALIDATION: • W/B = 0.673 → OK   • H/W = 1.56 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)** — ex-court vocalist turned spiritual healer.
+**Glasses Roll (50%) → failed:** none (she prefers direct eye contact).
+**Jewelry & Accessories:** teardrop sapphire earrings, thin gold chain anklet, soundstone pendant (used as arcane focus).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** high — confident and sensual without vulgarity
+
+Serena wears a **deep plum silk bodice** with a **low-cut neckline** draped in a translucent chiffon shawl.
+Her **long skirt** is slit to mid-thigh for ease of movement during performances, with golden embroidery tracing feather motifs.
+Bare shoulders gleam under soft lanterns; **light arm-wraps** shimmer faintly with sound-magic sigils.
+
+**Palette:** plum / gold / ivory / rose
+**Accents:** gold-thread embroidery, shimmering chiffon, sapphire gem light
+
+**Weapons & Gear:** crystal lyre (arcane focus), jeweled dagger (defensive), travel satchel of tuning shards, potion of “silver voice.”
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **15** (enchanted bodice + DEX + cloak defense)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 12 (+1)** **WIS 11 (+0)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +4, CHA +6
+* **Skills:** Persuasion +8, Performance +8 (Expertise), Insight +4, Arcana +3, Perception +2
+* **Languages:** Common, Celestial, Auran, Valeronian
+
+**Bard 3 — College of Lore**
+
+* **Bardic Inspiration (d6)**
+* **Cutting Words:** reduce attack/damage/check using inspiration.
+* **Jack of All Trades; Expertise (Performance, Persuasion).**
+* **Spellcasting (CHA DC 14, +6 atk)**
+
+  * *Cantrips:* *Vicious Mockery, Prestidigitation, Light*
+  * *1st:* *Healing Word, Dissonant Whispers, Cure Wounds, Charm Person*
+  * *2nd:* *Calm Emotions, Suggestion, Detect Thoughts*
+
+**Attacks:**
+
+* **Jeweled Dagger:** +4 to hit, 1d4+2 piercing (used symbolically).
+
+---
+
+## 🎯 Combat Tactics (Support / Control)
+
+* **Role:** **Crowd Controller / Emotional Supporter / Healer**
+* **Opener:** *Calm Emotions* or *Suggestion* to halt chaos → *Healing Word* to stabilize.
+* **Flow:** *Dissonant Whispers* to displace enemies, *Cutting Words* to nullify key attacks.
+* **Finisher:** *Detect Thoughts* for intel mid-battle; soft songs as psychological armor.
+
+**Effect Flavor:** her songs manifest in threads of golden light that weave between allies, echoing heartbeats into harmony.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, confident, flirtatiously maternal, enjoys teasing with subtle warmth.
+* **Ideal:** Restoration — “Every soul deserves a refrain.”
+* **Bond:** once sang for a dying king; his last request still echoes in her songs.
+* **Flaw:** hides her own loneliness behind her voice.
+* **Quirk:** hums lullabies unconsciously when tending to the wounded.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Dawn Choir Halls, Moon Amphitheater, Emberlight Inns**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **emotional recovery**, **healing performance**, **negotiation or peace ritual**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once the lead vocalist of the royal choir, Serena left after a failed peace concert ended in bloodshed.
+Now she wanders city to city, helping heal hearts as much as wounds.
+
+* **Lifestyle:** stays in luxury inns paid for by performance; enjoys tea and handwritten letters.
+* **Income:** performance fees, healing commissions, emotional therapy donations.
+* **Relationships:** rumored romance with Sir Lucien; mentor figure to younger bard Ilyana (#231).
+
+---
+
+## 🧩 Morals & Ethics
+
+Beauty is a balm — if your words heal, you’ve done the work of a saint.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her voice permanently.
+* **Weaknesses:** fragile concentration when allies are harmed.
+* **Strengths:** charm resistance aura, morale boosting, versatile magic.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — ชอบพูดเย้า ๆ และใช้สัมผัสเบา ๆ ให้คนเขินเอง**
+
+> “You’re tense again, darling. Sit… breathe. Let mama fix that.”
+> เธอหัวเราะเบา ๆ เอื้อมมือแตะแขน แล้วเอียงหน้าเข้าใกล้อย่างจงใจ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her voice is magically bound to the spirit of the late king; each song burns her lifespan slightly.
+* **Hooks:**
+
+  1. **The Song That Killed a War:** a hidden verse from her lost performance may prevent another conflict.
+  2. **Harmonic Debt:** a cult wants to extract her “soul frequency” to summon the king’s echo.
+  3. **The Final Note:** a Severance distortion mimics her melody — her own voice becomes the threat.
+
+## Tags: #Female #MILFType #HalfBeast #Dovefolk #Bard3 #CollegeOfLore #Support #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Serena **ชอบให้เขินด้วยการแตะริมคางแล้วพูดเสียงแผ่ว**
+
+> “Eyes up. Smile for me—there, much better. You’re radiant when you stop worrying.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** jeweled dagger
+  * **Armor:** enchanted bodice
+  * **Tools:** crystal lyre, performance journal
+  * **Consumables:** potion of silver voice, perfume of clarity ×1
+  * **Misc:** sapphire earrings, soundstone pendant
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Inspiring Leader / Actor**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Dawn Choir Halls / Emberlight Inns**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **peace ritual**, **emotional support performance**, **Echo charm rescue**
+* **Affiliation:** **Dawn Choir**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Japanese female half-beast dovefolk bard lore 171cm shoulder-length wavy champagne-blonde hair lavender eyes fair skin I-cup plum silk bodice gold embroidery chiffon shawl sensual mature singer gentle smile

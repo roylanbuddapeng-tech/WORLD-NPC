@@ -1,0 +1,205 @@
+# #179 — **Selena Veyra** — *The Twilight Veil Medic of Valeronnes*
+
+> “If you must bleed, let it be for something beautiful.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 179
+* **Gender (weighted random):** **Female (Type: รุ่นพี่)** — สงบสุขุม ดูมีอำนาจในความอ่อนโยน อารมณ์แบบพี่สาวผู้มากประสบการณ์ที่คอยดูแลคนอื่น
+* **Age:** 27
+* **Race:** **Human (Valeronnes Lineage)** — ผิวขาวอมชมพู ดวงตาสีม่วงเข้มมีประกายอัญมณี
+* **Class & Level:** **Cleric (Grave Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** นักบวชสนาม / แพทย์ศึก / นักผจญภัย
+* **Rank / Position:** **Twilight Veil Medic**
+* **Organization:** **Valeronnes Order of the Silent Dawn**
+* **Symbol:** ดอกลิลลี่สีดำล้อมวงแสงเทา
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Korean**, poised elegance with understated allure.
+
+**Eyes:** violet-gray, calm and perceptive.
+**Skin:** pale ivory, faint rose tint under cheekbones.
+
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result → Long, wavy, side-swept*
+**Style:** cascading side waves with faint curls at the end.
+**Color:** **ashy silver-lavender** catching light like frost.
+**Height:** 172 cm
+**Weight:** 60 kg
+**Body Type:** **Fit-curvy**, feminine figure with soft but strong frame.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 70 – 104
+VALIDATION: • W/B = 0.714 → OK   • H/W = 1.49 → OK
+```
+
+**Jewelry & Accessories (female glasses 40% → 🎲 fail, none):**
+**Black-lilac pendant**, **thin silver circlet**, **rune-threaded bracelet**, and **ear cuff with violet gem**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** *Elegant medic attire – minimal exposure, ceremonial refinement*
+
+Selena wears a **dark plum battle robe** with silver-thread lining and **asymmetric shoulder mantle** adorned with tiny rune marks.
+A **black corset belt** cinches the waist; **long slit skirt** allows smooth motion.
+Under the hem: **leggings etched with faint warding patterns**, and **knee-high boots** with silver clasps.
+
+**Color Palette:** plum / silver / charcoal / violet
+**Accents:** dignified, tranquil, moonlit grace
+
+**Loadout:** holy symbol staff, vial case, surgical kit, moonlight rosary.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **25 HP**
+* **AC:** **17** (chain shirt + shield)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 12 (+1)** **CON 14 (+2)** **INT 12 (+1)** **WIS 17 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Medicine +5, Insight +5, Religion +3, Persuasion +4, History +3
+* **Languages:** Common, Elvish, Celestial
+
+**Cleric (Grave Domain) 3:**
+
+* **Channel Divinity:** *Path to the Grave*
+* **Circle of Mortality**, *Eyes of the Grave*
+* **Spells (WIS DC 13, +5 atk):**
+
+  * *Cantrips:* *Spare the Dying, Guidance, Sacred Flame*
+  * *1st–2nd:* *Cure Wounds, Bless, Gentle Repose, Lesser Restoration, Spiritual Weapon*
+
+**Attacks:**
+
+* **Mace:** +4 to hit, 1d6+2 bludgeoning (radiant flavor).
+* **Spiritual Weapon:** +5 to hit, 1d8+3 radiant.
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Healer / Protector / Debuff Specialist**
+* **Opener:** *Bless* → *Path to the Grave* on main target for ally burst.
+* **Flow:** Keeps wounded stable, pre-casts *Spiritual Weapon* to maintain pressure.
+* **Finisher:** *Cure Wounds* → *Sacred Flame* combo when enemy morale cracks.
+
+**Damage Flavor:** Each radiant burst leaves a faint petal of violet light that fades into mist.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calm, motherly to juniors, sharp tongue when annoyed.
+* **Ideal:** Mercy without weakness — “Compassion is measured by restraint.”
+* **Bond:** Protects the orphans under her ward in the Silent Dawn hospice.
+* **Flaw:** Self-sacrificing, will overwork to exhaustion.
+* **Quirk:** Adjusts gloves before healing; calls even seniors “dear” ironically.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Silent Dawn Hospice, Twilight Courtyard**
+* **Threat Gradient:** **Stable → Wavering (mourning rites)**
+* **Encounter Framing:** **Battlefield triage**, **mass healing under Echo threat**, **grace duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Selena served as a war medic before joining the clergy.
+She once saved an entire platoon using only one healing surge—by dividing her light through glass prisms.
+
+* **Lifestyle:** minimalist chamber, nightly candle rituals.
+* **Income:** church stipend, healing contracts.
+* **Relationships:** mentor to Meilin Aster; respected colleague of Lan Qiyue.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes every wound tells a story, and it’s her duty to ensure the story ends in peace.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being unable to save everyone.
+* **Weaknesses:** suppresses her emotions until they burst.
+* **Strengths:** expert battlefield triage, composure, radiant warding.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — สุขุม อ่อนโยน แต่ชอบพูดแซวให้เขินเล็ก ๆ**
+
+> “You keep running into danger so I can patch you up, hm?
+> You’ll make me blush, dear.”
+> เธอยิ้มพร้อมแตะแขนเบา ๆ แล้วเป่าลมเย็นใส่บาดแผล
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her rosary beads store echoes of the dying — whispers she uses to guide lost souls.
+* **Hooks:**
+
+  1. **Twilight Bloom:** Souls start speaking through her during healing sessions.
+  2. **Grave’s Gift:** She learns she can reverse death once—at her own life’s cost.
+  3. **The Silent March:** Echoes in Valeronnes begin mimicking her voice in prayer.
+
+## Tags: #Female #SeniorType #Human #Cleric3 #GraveDomain #Valeronnes #CR1 #Healer #Support #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Selena **ชอบทำให้คู่สนทนาเขินด้วยการพูดจาอ่อนโยนแต่จ้องตรงตา**
+
+> “Breathe… you’re trembling again. It’s just me, dear, not the divine.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** mace, holy symbol
+  * **Armor:** chain shirt, shield
+  * **Tools:** healer’s kit
+  * **Consumables:** potion of healing ×1
+  * **Misc:** rosary, silver circlet, prism charm
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 19) *or* **Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Silent Dawn Hospice / Twilight Courtyard**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **Triage Defense**, **Mass Healing Ritual**, **Echo Suppression**
+* **Affiliation:** **Order of the Silent Dawn**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Korean female human cleric grave domain 172cm long wavy ashy silver lavender hair violet eyes fit curvy body, plum robe silver trim, black corset belt, moonlit chapel, calm gentle expression

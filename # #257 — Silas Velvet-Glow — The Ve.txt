@@ -1,0 +1,200 @@
+# #257 — **Silas Velvet-Glow** — *The Velvet Sigil of Ember Lanes*
+
+> “If you want a miracle, darling, stop pretending you don’t like deals.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 257
+* **Gender:** **Male (Type: เฟมบอย)** — อ้อนแอ้น หวาน ยั่วเก่ง พูดสองแง่สามง่าม ตั้งใจทำให้ฝ่ายตรงข้ามหน้าแดง
+* **Age:** 21
+* **Race:** **Other (Tiefling)** — มนุษย์ ~90% มี **เขาเล็กโค้งไปหลัง** สีดำมุก, ปลายหางเรียวมีพู่กำมะหยี่สีแดงเข้ม, ดวงตาแกนไลลัก
+* **Class & Level:** **Warlock (The Fiend)** 3 — **Pact of the Chain**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Chaotic Neutral (benevolent lean)**
+* **Profession:** street-sorcerer / infernal courier / crowd-control blaster
+* **Organization:** **Solveil Ember Syndicate — Velvet Route**
+* **Symbol:** ตราประทับกำมะหยี่เป็นรูปริมฝีปากจูบทับเปลวไฟเล็ก
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese**, androgynous idol charm with velvet grace.
+
+**Eyes:** lilac-violet with glossy limbal shine; pupils tighten when he smiles.
+**Skin:** porcelain with a faint rose undertone; a soft blush catches light along cheekbones.
+
+**Hair (uses feminine table for femboy):** 🎲 **Twin buns (weighted slightly over twin tail)**
+**Style:** **low twin buns** with loose, silky strands framing the face; silk ribbons trail behind like little comets.
+**Color:** **inky black** with **crimson wine tips** that glow faintly when he casts.
+
+**Height:** **158 cm** (femboy rule ≤160 cm)
+**Weight:** 48 kg
+**Body Build:** **slender, elegant**, dancer’s lines; soft shoulders, narrow waist, poised wrists.
+
+**Jewelry & Accessories:** thin onyx choker with devil-sigil, chain bracelet of tiny ruby beads, single teardrop earring, anklet with a silent velvet tassel.
+**Glasses Roll (base 30% for non-nerd) → success:** **oval crystal glasses** he slides down his nose when flirting.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Rule applies (femboy):** 🎲 **High exposure — backless sheer blouse + underbust corset**
+
+Silas wears a **backless, sheer onyx blouse** that glimmers like smoke, paired with a **crimson underbust corset** that shapes a graceful waist and teases the lower curve of his chest.
+A **split velvet skirt** (mid-thigh) overlays **lace-trim shorts** for movement; **thigh-high boots** with rune heels click in a teasing staccato.
+When he gestures, **heat-sigil threads** crawl up his sleeves like glowing wine.
+
+**Palette:** onyx / crimson / rose-gold
+**Accents:** velvet sheen, lace edges, infernal stitchwork, playful transparency
+
+**Weapons & Gear:** infernal signet (focus), “kiss-sealed” scroll case, potion lip-gloss (fire resist flavor), bandolier of ruby shards (component pips).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **17 HP**
+* **AC:** **14** (studded attire 12 + DEX +2)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 12 (+1)** **WIS 10 (+0)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +2, CHA +6
+* **Skills:** Deception +6, Performance +6, Persuasion +6, Acrobatics +4, Arcana +3
+* **Languages:** Common, Infernal, Draconic
+
+**Warlock 3 — Fiend Patron (official)**
+
+* **Dark One’s Blessing:** gain temp HP when you reduce a foe to 0 HP.
+* **Pact Boon:** **Pact of the Chain** — familiar: **imp** (disguises as a plush **velvet moth** perched on his shoulder).
+* **Eldritch Invocations:**
+
+  * **Agonizing Blast** (add CHA to Eldritch Blast damage)
+  * **Investment of the Chain Master** (familiar attacks use your save DC; flight, invisibility perks)
+* **Spellcasting (CHA DC 14, +6 atk)** — **2 slots (2nd level)**
+
+  * *Cantrips:* **Eldritch Blast**, **Minor Illusion**, **Prestidigitation**
+  * *1st:* **Hex**, **Burning Hands** *(Fiend expanded)*
+  * *2nd:* **Scorching Ray** *(Fiend expanded)*, **Mirror Image**
+
+**Attacks**
+
+* **Eldritch Blast:** +6 to hit, **1d10+4 force**, often with **Hex** (+1d6).
+* **Imp/Moth (Chain):** Invisibility, sting delivery, Help action; whispers scouting snark.
+
+---
+
+## 🎯 Combat Tactics (Offense / Summoner-lite)
+
+* **Role:** **Blaster / Soft Controller / Familiar Harrier**
+* **Opener:** **Mirror Image** → **Hex** main target → **Eldritch Blast** with positioning from familiar.
+* **Burst:** **Scorching Ray** to delete priority threats (sweetly counting “one, two, three—kiss!”).
+* **Close-up:** **Burning Hands** if cornered; the imp distracts or stings casters.
+* **Sustain:** last-hit minions to trigger **Dark One’s Blessing** temp HP.
+
+**Effect Flavor:** beams unfurl like lipstick-red ribbons that smack foes with sizzling kisses; the air smells faintly of warm spice.
+
+---
+
+## 💬 Personality
+
+* **Traits:** flirtatious, quick-witted, playful provocateur but surprisingly loyal.
+* **Ideal:** Pleasure with Purpose — “If we must risk our lives, let it be beautifully.”
+* **Bond:** “Vel”—his imp familiar; bickers like lovers, protects like family.
+* **Flaw:** pushes boundaries, toys with enemies; sometimes underestimates zealots.
+* **Quirk:** stamps a tiny velvet kiss-mark seal on spent components.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Solveil Reach — Ember Lanes, Velvet Markets, Glass-Kiss Stage**
+* **Threat Gradient:** **Wavering → Echo Ember (performance riots, fire surges)**
+* **Encounter Framing:** **stage-ambush counterspell**, **smuggled-contract escort**, **riot pacification via dazzling blasts**
+
+---
+
+## 📜 Background & Lifestyle
+
+Runaway salon-performer who traded patronage for a **Fiend’s contract** that promised “freedom with fireworks.”
+He works as a courier-face for the Ember Syndicate, weaponizing charm and heat to keep allies alive.
+
+* **Lifestyle:** perfumed loft with velvet drapes and too many mirrors.
+* **Income:** escort retainer + tips + performance nights.
+* **Relationships:** shamelessly flirts with Liora (#256); owes Vesper (#254) a rooftop dare-night.
+
+---
+
+## 🧩 Morals & Ethics
+
+Consent and contracts — he plays dangerous, never cruel. Enemies who leer without listening get burned.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of the Fiend’s “fun” in front of those he loves.
+* **Weaknesses:** fragile HP, showy; relies on familiar for advantage.
+* **Strengths:** high single-target pressure, burst turns, social dominance.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เฟมบอย tone — ตั้งใจทำให้ผู้ชายเขิน**
+
+> “Hold my hand, handsome. The sparks behave better when someone cute is grounding me.”
+> (เขาขยับแว่นลงเล็กน้อย ยิ้มตาหวาน ก่อนปล่อยลำแสงพุ่งผ่านไหล่คุณไปแบบเฉียดชวนใจหวิว)
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his contract includes a hidden “encore clause” — the Fiend can demand one performance of total honesty (no lies, no illusions) before dawn.
+* **Hooks:**
+
+  1. **Velvet Riot:** a rival warlock hijacks his show with hellfire—Silas must outshine them without casualties.
+  2. **Kiss of Debt:** the velvet seal appears on an ally’s heart; the Fiend wants repayment in **truth**.
+  3. **Imp in Love:** Vel falls for a mortal and starts disobeying; chaos, comedy, and contracts ensue.
+
+## Tags: #Male #Femboy #Tiefling #Warlock3 #Fiend #PactOfTheChain #Blaster #SummonerLite #Solveil #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Silas **ชอบทำให้คนเขินด้วยการเลียริมฝีปากเบา ๆ แล้วกระซิบชิดหู**
+
+> “Don’t flinch. I only burn the ones who ask nicely.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** ritual dagger
+  * **Armor:** studded velvet attire (light)
+  * **Tools:** infernal signet focus, component pouch
+  * **Consumables:** potion of healing ×1, ruby shard pips ×6
+  * **Misc:** oval glasses, velvet seal kit, imp “Vel”
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Eldritch Adept (Repelling Blast) / War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Ember Lanes / Velvet Markets / Glass-Kiss Stage**
+* **Threat Gradient:** **Wavering → Echo Ember**
+* **Encounter Type:** **performance ambush**, **contract escort**, **riot dazzle control**
+* **Affiliation:** **Solveil Ember Syndicate — Velvet Route**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese male femboy tiefling warlock fiend 158cm low twin buns black hair crimson tips lilac eyes porcelain skin androgynous backless sheer blouse crimson underbust corset split velvet skirt lace shorts thigh-high boots oval glasses imp familiar velvet moth aesthetic seductive playful ribbons of red light

@@ -1,0 +1,209 @@
+# #270 — **Seraphine Vellorai** — *The Crimson Choir Mistress*
+
+> “Every scream has pitch. Every death, a perfect note. I just conduct them.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 270
+* **Gender:** **Female (Type: MILF)** — sensual poise of an experienced woman, every movement deliberate and controlled; speaks softly, with confidence that disarms and commands.
+* **Age:** 36
+* **Race:** **Half-Beast (Swanfolk)** — humanlike 85%; pale feathers blend seamlessly with her skin at shoulders and neck, fingers tipped in faint ivory down. Eyes glimmer with faint iridescent white.
+* **Class & Level:** **Bard (College of Spirits)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **Spirit Medium / Summoner / Conductor of the Crimson Choir**
+* **Organization:** **Thalassaran Choir of Requiems**
+* **Symbol:** a silver swan feather pierced by a musical note.
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Japanese**, noble and ethereal beauty with a haunting charm of someone who sings to ghosts more than people.
+
+**Eyes:** white-gold with rose tint, faint glow when she sings.
+**Skin:** porcelain with pearl shimmer across the collarbones.
+
+**Hair (Female Hair Randomizer):** 🎲 **Ponytail (highest freq)**
+**Style:** high ponytail tied with crimson ribbon, strands framing her cheekbones; occasionally feathered ends brush her neck like wings.
+**Color:** **silver-blond with faint blush tone**.
+
+**Height:** 173 cm
+**Weight:** 62 kg
+**Body Type:** **curvy, graceful, well-toned dancer’s body.**
+
+**FEMALE BODY METRICS (MILF rule – ≥ H cup)**
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 106 – 73 – 114
+VALIDATION: • W/B = 0.688 → OK   • H/W = 1.56 → OK
+```
+
+**Sub-Theme:** 🎲 **Aristocrat (Noble Voice of House Vellorai)** — trained in divine music as a court singer before joining necrotic rites of remembrance.
+
+**Glasses Rule (Aristocrat = 50%):** 🎲 Fail → **No glasses**
+
+**Jewelry & Accessories:** silver choker shaped like wings, drop earrings of red crystal, thin bracelets with rune lines pulsing to her song.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Moderate-high — Stage Allure**
+
+Seraphine wears a **corseted crimson gown** with a **plunging neckline** and **slit skirt** that reveals her left thigh when she walks.
+A translucent **sheer cape of white feathers** flows from her shoulders, giving the illusion of wings mid-motion.
+When performing rituals, the gown’s hem glows faintly and reveals script of the spirits she calls.
+
+**Palette:** crimson / pearl / silver / white
+**Accents:** lace feathers, subtle shimmer, spectral notes
+
+**Weapons & Gear:**
+
+* *Conductor’s Baton (arcane focus)*
+* *Spirit-etched Lute*
+* *Veil of Echoes* (focus shawl for summoning)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **20 HP**
+* **AC:** **15** (enchanted gown)
+* **Speed:** 30 ft; **Flight (Glide)** 20 ft burst
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 12 (+1)** **WIS 13 (+1)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +4, CHA +6
+* **Skills:** Performance +8, Persuasion +6, Arcana +3, Insight +3
+* **Languages:** Common, Celestial, Sylvan, Thalassaran Cant
+
+**Bard (College of Spirits)**
+
+* **Guiding Whispers:** learn *Guidance*.
+* **Spiritual Focus:** use musical instruments for summoning.
+* **Tales from Beyond:** roll Bardic Inspiration to summon spectral story effects.
+* **Spellcasting (CHA DC 14, +6 atk)**
+
+  * *Cantrips:* *Vicious Mockery, Thaumaturgy, Dancing Lights*
+  * *1st–2nd:* *Healing Word, Dissonant Whispers, Spiritual Weapon, Phantasmal Force, Calm Emotions*
+
+**Attacks**
+
+* **Dissonant Whispers:** DC 14 WIS, 3d6 psychic + push away.
+* **Spiritual Weapon:** +6, 1d8+4 radiant or necrotic (as music-bell manifestation).
+
+---
+
+## 🎯 Combat Tactics (Offensive Support / Summoner)
+
+* **Role:** **Mid-range summoner / morale controller**
+* **Opener:** *Guiding Whispers* → *Spiritual Weapon* → *Phantasmal Force* for psychological control.
+* **Flow:** maintains crowd morale, heals allies softly through melodic resonance.
+* **Finisher:** *Tales from Beyond (The Executioner or The Avenger)* — summons ghostly figures striking foes in rhythm with her aria.
+
+**Flavor:** glowing musical notes swirl around her, forming semi-corporeal figures who echo her movements in dance-like strikes.
+
+---
+
+## 💬 Personality
+
+* **Traits:** nurturing, teasingly confident, charismatic and aware of her charm.
+* **Ideal:** Harmony — “Even the dead crave an audience.”
+* **Bond:** her choir of ghostly performers, whom she calls by name.
+* **Flaw:** enjoys admiration too much; flirts even when she shouldn’t.
+* **Quirk:** hums half-finished arias under her breath; her eyes half-close when channeling.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Glass Amphitheater / Canal Stages**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **ritual performance**, **possession concert**, **spectral sabotage**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born a noble singer of House Vellorai, Seraphine discovered her voice drew spirits instead of applause.
+She turned her gift into a conduit for restless souls, leading rituals that bring closure through sound.
+
+* **Lifestyle:** luxurious, scented candles and feathered couches.
+* **Income:** royal patronage and noble commissions.
+* **Relationships:** admired by Velna (#268); rumored rival of Lyra (#1).
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes beauty can sanctify death — that every loss deserves a melody to immortalize it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her voice; silence terrifies her more than ghosts.
+* **Weaknesses:** emotionally vulnerable to flattery; overuses magic for aesthetics.
+* **Strengths:** unmatched performance presence, wide-range AoE support, powerful necrotic resonance.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — sensual warmth, affectionate, teasing confidence; มักแตะมือหรือคางเบา ๆ พร้อมรอยยิ้มเมื่อพูด**
+
+> “Darling, hold still. If you shiver like that, the spirits might think you’re inviting them.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her voice carries the echo of a long-dead siren ancestor — sometimes, it sings back.
+* **Hooks:**
+
+  1. **The Siren’s Debt:** her voice starts summoning souls beyond her control.
+  2. **Crimson Contract:** a noble offers her immortality in exchange for a final song.
+  3. **The Silent Stage:** an audience of ghosts refuses to depart.
+
+## Tags: #Female #MILF #HalfBeast #Swanfolk #Bard3 #CollegeOfSpirits #CR1 #Summoner #NecromanticSinger
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Seraphine **ชอบทำให้คนเขินโดยจงใจใช้เสียงหวานกระซิบใกล้หู หรือแตะไหล่ตอนชมเสียงของอีกฝ่ายว่ามีจังหวะดีสำหรับเวท**
+
+> “Yes, just like that… your heartbeat, it’s in perfect tempo. Shall we compose something together?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** conductor’s baton
+  * **Armor:** enchanted gown
+  * **Tools:** spirit lute, echo veil
+  * **Consumables:** echo elixir
+  * **Misc:** spectral feather charm
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Inspiring Leader / Magic Initiate (Cleric)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara — Glass Amphitheater / Moon Canals**
+* **Threat Gradient:** **Wavering → Echo**
+* **Encounter Type:** **haunted concert**, **spirit invocation**, **ritual defense**
+* **Affiliation:** **Thalassaran Choir of Requiems**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Japanese female half-beast swanfolk bard college of spirits 173cm silver-blonde ponytail gold eyes pale porcelain skin I-cup curvy wearing crimson gown deep neckline thigh slit sheer feather cape elegant noble sensual singing spirits gothic fantasy

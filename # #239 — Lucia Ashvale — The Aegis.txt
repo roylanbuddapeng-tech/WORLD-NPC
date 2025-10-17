@@ -1,0 +1,205 @@
+# #239 — **Lucia Ashvale** — *The Aegis Arcanist of Valeronnes*
+
+> “I don’t stop the world from breaking you. I make sure it breaks around you.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 239
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — เป็นกันเอง ตรงไปตรงมา มีความมั่นใจแบบคนเก่งงาน ชอบดูแลทีมให้ปลอดภัยก่อนลงมือสู้
+* **Age:** 24
+* **Race:** **Other (Dhampir)** — มนุษย์ ~90% ผิวซีดอมชมพู เขี้ยวเล็กแค่พอเห็นเวลายิ้ม ดวงตาออกเงินควัน มีออร่าเย็นเล็กน้อย
+* **Class & Level:** **Wizard (School of Abjuration)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** ward-specialist / escort mage / arcane bodyguard
+* **Organization:** **Valeronnes Aegis Conservatory — Field Wardens**
+* **Symbol:** วงเวทป้องกันสามชั้นซ้อนกันเป็นรูปโล่
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Chinese–Korean**, sharp, understated elegance with protector’s poise.
+
+**Eyes:** cool silver-grey with soft smoky limbal rings.
+**Skin:** pale porcelain with faint rosy warmth at the cheeks and ears.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Straight (top-weight)**
+**Style:** **long straight hair** to mid-back, sleek with center part; a thin black ribbon ties a low section near the nape.
+**Color:** **inky black** with **steel-blue sheen** under light.
+
+**Height:** 169 cm
+**Weight:** 56 kg
+**Body Type:** fit-but-soft; long lines, confident stance, quick precise movements.
+
+**FEMALE BODY METRICS** *(Support focus; large allowed)*
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 68 – 101
+VALIDATION: • W/B = 0.694 → OK   • H/W = 1.49 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)** — trained in court etiquette, hired as elite ward-mage for delegations.
+**Glasses Roll (non-nerd 50%) → success:** **thin rectangular gunmetal glasses** used when reading sigils.
+**Jewelry & Accessories:** matte silver choker with ward rune, small onyx stud earrings, braided ward-cord bracelet, and a quiet bell anklet (alarm charm).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — sleek guard-mage elegance
+
+Lucia wears a **charcoal ward-coat** with **reinforced lapels** etched in abjuration sigils, over a **fitted black blouse** with a **subtly open neckline** for comfort.
+A **split asymmetrical skirt** overlays **tailored trousers**, allowing swift motion without losing formality.
+**Soft-kneed boots** leave faint chalky glyph prints when she channels a barrier. A **folding cloak** snaps into a half-dome shield (flavor).
+
+**Palette:** charcoal / black / steel-blue / silver
+**Accents:** etched sigils, matte metal trims, minimalistic arcane chic
+
+**Weapons & Gear:**
+
+* **Arcane focus “Aegis Prism”** (crystal baton)
+* **Spellbook**, **chalk & silver dust** for circles, **sealed ward tokens** (Alarm, Shield flavor)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **15** (*Mage Armor* 13 + DEX +2)
+* **Speed:** 30 ft; **Spider Climb** (Dhampir) as a bonus-speed flavor via Vampiric Mobility (see lineage options)
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, Insight +3, Investigation +5, Perception +3
+* **Languages:** Common, Draconic, Celestial, Valeronian
+
+**Wizard 3 — School of Abjuration**
+
+* **Arcane Ward:** when you cast an abjuration spell, gain a ward HP pool (**6 + 2×wizard level = 12** HP). Can replenish with more abjurations.
+* **Projected Ward (lvl 6)** — noted for progression.
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mage Hand, Ray of Frost, Light, Minor Illusion*
+  * *1st:* *Mage Armor (A)*, *Shield (A)*, *Absorb Elements (A)*, *Protection from Evil and Good (A)*, *Feather Fall*
+  * *2nd:* *Arcane Lock (A)*, *Aid* (via scroll/ally? — **No**, replaced with wizard option) → *Nystul’s Magic Aura (A)*, *Misty Step*, *Web*
+
+*(A) = Abjuration spells that build the **Arcane Ward**.*
+
+---
+
+## 🎯 Combat Tactics (Support / Protection)
+
+* **Role:** **Protector / Control Support**
+* **Opener:** *Mage Armor* prepped → start with *Protection from Evil and Good* on frontline, triggering **Arcane Ward**.
+* **Flow:** maintain midline; throw *Web* to break charges; pop *Shield* or *Absorb Elements* for clutch defense, replenishing the ward.
+* **Team Play:** bodyguard the face or healer; *Misty Step* to intercept or peel threats.
+* **Finisher:** lock down routes with *Arcane Lock* (site play) or freeze stragglers with *Ray of Frost* into kill zones.
+
+**Effect Flavor:** hexagonal panes of glassy light ripple out from her prism; impacts shatter into harmless silver dust.
+
+---
+
+## 💬 Personality
+
+* **Traits:** dry humor, pragmatic kindness, big-sister instincts.
+* **Ideal:** Responsibility — “Power that protects is the only kind worth having.”
+* **Bond:** sworn to keep a refugee envoy alive until treaty signed.
+* **Flaw:** refuses to back down when guarding someone—overcommits to defense.
+* **Quirk:** measures distances by how many “Shield” reactions she can afford emotionally.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Aegis Conservatory, Embassy Row, Silver Courtyards**
+* **Threat Gradient:** **Stable → Wavering (during parley days)**
+* **Encounter Framing:** **treaty escort**, **assassination foil**, **siege ward set-up**
+
+---
+
+## 📜 Background & Lifestyle
+
+A noble adjunct trained for court duels, Lucia chose the field unit after shielding a street choir from an Echo riot.
+She now contracts as an “arcane bodyguard,” insuring people, not palaces.
+
+* **Lifestyle:** sparse apartment; wall of chalk sigils, tea tins labeled like spell slots.
+* **Income:** escort retainers + hazard bonuses + ward commissions.
+* **Relationships:** mutual respect with Ilyana Swanmere (#231); friendly rivalry with Iria Fenwright (#228).
+
+---
+
+## 🧩 Morals & Ethics
+
+Barriers don’t mean isolation; they’re promises. She builds them so others can reach each other safely.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** failing a protectee; enclosed fire (ward stress trigger).
+* **Weaknesses:** modest damage; spell-slot hungry.
+* **Strengths:** reaction defense, durable **Arcane Ward**, terrain denial.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — แหย่เก่ง ดูแลเก่ง ทำให้ใจเต้นด้วยความมั่นใจนิ่ง ๆ**
+
+> “Behind me. If they break this line, I’ll owe you tea.”
+> เธอยกมือวาดโล่ใส แล้วเหลือบมุมปากยิ้มให้แน่ใจว่าคุณยังมองอยู่
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her ward hums with a second heartbeat — an Echo she sealed within the prism to power her shields.
+* **Hooks:**
+
+  1. **The Second Pulse:** the ward starts guarding someone else on its own. Why?
+  2. **Keys to the Lock:** assassins carry counter-sigils matching her *Arcane Lock.*
+  3. **Glass Curtain:** a city gate needs a one-night perfect barrier; can her prism hold?
+
+## Tags: #Female #PeerType #Dhampir #Wizard3 #Abjuration #Valeronnes #CR1 #Support #Protector #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Lucia **ชอบทำให้คนเขินด้วยการยืนประชิดแล้วปรับกรอบแว่นให้ตรง ก่อนวางโล่ครอบตัวคุณกับเธอไว้ด้วยกัน**
+
+> “There. Safer already. Keep breathing with me.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** dagger
+  * **Armor:** warded coat (counts with *Mage Armor*)
+  * **Tools:** Aegis Prism, spellbook, chalk & silver dust
+  * **Consumables:** potion of healing ×1, scroll (*Alarm*) ×1
+  * **Misc:** rectangular glasses, ward tokens, embassy writ
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: War Caster / Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Embassy Row / Silver Courts**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **treaty escort**, **ward emplacement**, **assassin counterplay**
+* **Affiliation:** **Aegis Conservatory — Field Wardens**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Chinese Korean female dhampir wizard abjuration 169cm long straight black hair steel-blue sheen silver-grey eyes fair skin F-cup charcoal ward-coat subtle open neckline split skirt over trousers thin rectangular glasses crystal prism hex shield elegant bodyguard chic silver sigils embassy courtyard

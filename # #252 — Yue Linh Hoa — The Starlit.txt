@@ -1,0 +1,206 @@
+# #252 — **Yue Linh Hoa** — *The Starlit Flask Maiden of the Mirror Shoals*
+
+> “A potion’s taste is just its mood — I prefer mine a little unpredictable.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 252
+* **Gender:** **Female (Type: รุ่นน้อง)** — น่ารัก สดใส พูดเสียงหวานนิด ๆ มีความซื่อแบบตั้งใจ ชอบช่วยคนอื่นแม้จะซุ่มซ่ามบ้างเป็นบางครั้ง
+* **Age:** 19
+* **Race:** **Half-Beast (Avian — Heronkin)** — รูปร่างคล้ายมนุษย์แต่มีขนนุ่มบางบริเวณไหล่และแขนตอนแสงตกกระทบเหมือนแพรเงิน ใบหูแหลมเรียวพร้อมพู่ขนนกสีขาวฟ้า
+* **Class & Level:** **Artificer (Alchemist)** 3 — **Total 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** field alchemist / assistant healer / sky-runner courier
+* **Organization:** **Thalassara — Mirror Shoals Research Wing**
+* **Symbol:** ขวดแก้วใสมีปีกคู่เล็ก ๆ สะท้อนแสงเป็นสายรุ้ง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–Chinese**, soft and graceful with a bright, floating charm.
+
+**Eyes:** pale sky blue, slightly glowing when she concentrates.
+**Skin:** smooth ivory tone with faint pastel shimmer around the collarbone and wrists.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Straight (weighted)**
+**Style:** **long straight hair**, ends feathered softly outward, with **side braids** that tie behind the neck.
+**Color:** **white-silver** with subtle **pastel blue hue** near the tips.
+
+**Height:** 165 cm
+**Weight:** 53 kg
+**Body Type:** slender yet round at the right places — light curves, delicate hands, dancer’s poise.
+
+**FEMALE BODY METRICS (รุ่นน้อง type, large cup allowed)**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 66 – 101
+VALIDATION: • W/B = 0.67 → OK   • H/W = 1.53 → OK
+```
+
+**Theme Layer:** **Nerd** — สนใจทุกสิ่งรอบตัว ชอบอ่านตำราเวทยาสมุนไพรไปจนถึงเรื่องไร้สาระ
+**Glasses:** small, round crystal lenses framed in silver wire; often fog up from potion steam.
+**Jewelry & Accessories:** feather earrings, charm anklet with bells, alchemical bracelet filled with floating drops of light.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium exposure — slit skirt + open-shoulder blouse**
+
+Yue’s outfit is designed for mobility and charm — a **white open-shoulder blouse** made of soft enchanted fabric, paired with a **flowing sky-blue skirt** with **slits on both sides** that show her thighs when she runs.
+A **thin corset belt** holds vials and scrolls; her shoulders are lightly dusted with silver feathers.
+**Knee-high boots** with winged clips glimmer faintly as she moves.
+
+**Palette:** white / sky blue / silver / pale gold
+**Accents:** celestial shimmer, soft feather glow
+
+**Weapons & Gear:**
+
+* *Mini flask launcher* (modified hand crossbow)
+* *Resonant Wand of Airflow*
+* *Experimental Elixirs (x3)*
+* *Compact healing kit*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **15** (light robe + DEX + infusion)
+* **Speed:** 30 ft; **Flight (short glide)** up to 15 ft with momentum
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 11 (+0)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, INT +5
+* **Skills:** Arcana +5, Acrobatics +4, Nature +3, Performance +4
+* **Languages:** Common, Auran, Thalassaran Cant
+
+**Artificer (Alchemist) 3**
+
+* **Infuse Item (2):** *Enhanced Arcane Focus*, *Repeating Shot*
+* **Experimental Elixirs (3/day):** random effects (healing, swiftness, boldness).
+* **Tool Expertise:** Alchemist’s Supplies
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mending, Gust, Ray of Frost*
+  * *1st:* *Cure Wounds, Faerie Fire*
+  * *2nd:* *Aid, Levitate*
+
+---
+
+## 🎯 Combat Tactics (Support / Skirmisher)
+
+* **Role:** **Aerial Support / Healing Courier / Light Debuffer**
+* **Opener:** toss *Healing Elixir* to allies from above → *Faerie Fire* to expose enemies.
+* **Flow:** stays mid-range, constantly moving with *Levitate* or short glides to reposition.
+* **Finisher:** *Aid* or *Cure Wounds* under radiant aura.
+* **Damage Flavor:** liquid bursts with wind harmonics — feathers swirl around impact.
+
+**Flavor:** her potions burst like bubbles of light, and every time she casts a spell, her hair lifts gently like caught in a breeze.
+
+---
+
+## 💬 Personality
+
+* **Traits:** cheerful, honest, inquisitive to a fault, quick to panic but recovers fast.
+* **Ideal:** Curiosity — “Every mistake is just the next great idea.”
+* **Bond:** looks up to Rinna (#250), keeps her voice recordings to study tone healing.
+* **Flaw:** easily flustered by compliments; wings twitch visibly when embarrassed.
+* **Quirk:** adds flower petals into every elixir “for luck.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Mirror Shoals, Aeris Gardens, Skyloom Archives**
+* **Threat Gradient:** **Stable → Wavering (Echo storms over canals)**
+* **Encounter Framing:** **aerial delivery under attack**, **potion transport chase**, **healing from above**
+
+---
+
+## 📜 Background & Lifestyle
+
+Yue grew up among the floating bridges of Thalassara’s sky-canals. She’s the guild’s fastest courier and softest talker.
+Her curiosity for flight alchemy often leads to explosions… or sudden discoveries.
+
+* **Lifestyle:** cozy room full of feathers, books, and glass jars.
+* **Income:** potion delivery wages + tips from adventurers she rescues mid-run.
+* **Relationships:** admires Nara (#247), rivals with Airi (#251) in alchemy contests.
+
+---
+
+## 🧩 Morals & Ethics
+
+Even the lightest touch can lift a fallen heart — if given with care.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being grounded — literally or emotionally.
+* **Weaknesses:** clumsy under pressure, easy to fluster.
+* **Strengths:** aerial mobility, fast reaction, emotional morale boost.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — เขินง่ายแต่พยายามทำตัวเป็นประโยชน์ตลอดเวลา**
+
+> “I—I can fly a little! Just… not too high, okay? Don’t look up, I’ll drop your potion!”
+> (เสียงหัวเราะประหม่าแต่แววตาเต็มไปด้วยความพยายามจะช่วย)
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her “glide” isn’t natural — it’s sustained by a rare feather elixir that she must drink daily.
+* **Hooks:**
+
+  1. **The Feather That Fell:** she loses her core plume and can’t glide; must recover it from Echo beasts.
+  2. **Potion Drift:** stolen sky-potions cause hallucinatory weather over canals.
+  3. **Airborne Delivery:** she’s carrying a volatile cure across an Echo storm — needs escort.
+
+## Tags: #Female #JuniorType #HalfBeast #Avian #Artificer3 #Alchemist #Support #Healer #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Yue **ทำให้เขินโดยการพูดเสียงใสพร้อมก้มหน้าเวลาขอบคุณใกล้เกินระยะปลอดภัย**
+
+> “T-thank you... for catching me. I really would’ve crashed without you.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** flask launcher, wand of airflow
+  * **Armor:** light robe
+  * **Tools:** alchemist’s kit
+  * **Consumables:** 3 elixirs
+  * **Misc:** silver feather charm, wind-chime bracelet
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Mobile / Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Mirror Shoals / Aeris Gardens**
+* **Threat Gradient:** **Wavering (Echo winds)**
+* **Encounter Type:** **aerial delivery**, **potion chase**, **Echo containment rescue**
+* **Affiliation:** **Mirror Shoals Research Wing**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese Chinese female half-beast avian heronkin artificer alchemist 165cm long straight white silver hair pastel blue tips pale sky blue eyes fair glowing skin F-cup off-shoulder blouse slit skirt silver glasses feather details nerdy cute junior supportive aerial vibe

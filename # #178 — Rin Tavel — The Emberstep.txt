@@ -1,0 +1,199 @@
+# #178 — **Rin Tavel** — *The Emberstep Trickster of Skarnov*
+
+> “If you can’t outfight them, outshine them.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 178
+* **Gender (weighted random):** **Male (Type: เฟมบอย)** — ท่าทีอ้อนแอ้น รอยยิ้มขี้เล่น แกล้งพูดสองแง่สามง่ามให้คนรอบข้างเขินเล่นเป็นเรื่องปกติ
+* **Age:** 20
+* **Race:** **Half-Beast (Fox — Skarnov Lineage)** — มนุษย์ 85%; หูจิ้งจอกเล็ก ๆ สีทองแดงบนศีรษะ และหางฟูเพียงเส้นเดียวที่สะบัดเบา ๆ เวลาตื่นเต้น
+* **Class & Level:** **Rogue (Arcane Trickster)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** นักผจญภัย / นักแสดงเร่ / ขโมยระดับศิลป์
+* **Rank / Position:** **Street Magister of the Ember Troupe**
+* **Organization:** **Skarnov Flame Carnival**
+* **Symbol:** หน้ากากจิ้งจอกที่มีเปลวเพลิงเลียขอบ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Thai**, youthful and androgynous beauty; looks both cute and dangerously charming.
+
+**Eyes:** molten gold, slightly fox-shaped.
+**Skin:** soft ivory with a faint peach undertone.
+
+**Hair (Feminine Style — Femboy rule):** 🎲 *Result → Twin Bun (40%)*
+**Style:** **twin buns with long trailing side locks**, slightly messy in a playful way.
+**Texture:** soft and silky.
+**Color:** **crimson-orange with faint golden gradient**.
+**Height:** 158 cm *(femboy cap rule applied)*
+**Weight:** 48 kg
+**Body Build:** **slender and feminine**, dancer’s light frame, subtly toned.
+
+**Jewelry & Accessories (30% roll → success):**
+**Small rimless glasses** (used for charm, not vision), **ear cuffs with fox motifs**, **thin anklet**, and **golden chain choker**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** *Revealing performer’s gear — cropped & asymmetrical*
+
+Rin wears a **black cropped vest** with flame-like embroidery and **sleeveless half-jacket**, exposing his slim waist.
+**Tight crimson pants** with a diamond cut on one thigh; a **half-cape** tied to his belt flares when he spins.
+A **glove set** of shimmering silk enhances his sleight-of-hand tricks.
+
+**Color Palette:** black / crimson / gold / ember orange
+**Accents:** flirtatious, theatrical, foxlike mischief
+
+**Loadout:** daggers, throwing knives, small wand, charm cards, smoke bombs.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **21 HP**
+* **AC:** **15** (studded leather + DEX)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 14 (+2)** **WIS 10 (+0)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +4
+* **Skills:** Acrobatics +6, Performance +5, Deception +5, Sleight of Hand +6, Stealth +6, Persuasion +5
+* **Languages:** Common, Elvish, Thieves’ Cant, Skarnov Sign
+
+**Rogue (Arcane Trickster) 3:**
+
+* **Sneak Attack (2d6)**
+* **Cunning Action (Dash, Disengage, Hide)**
+* **Mage Hand Legerdemain**
+* **Spells (INT DC 12, +4 atk):**
+
+  * *Cantrips:* *Mage Hand, Minor Illusion, Prestidigitation*
+  * *1st:* *Disguise Self, Charm Person, Silent Image*
+
+**Attacks:**
+
+* **Dagger:** +6 to hit, 1d4+4 piercing (Sneak Attack +2d6).
+* **Throwing Knife:** +6 to hit, 1d4+4 piercing, 20/60 ft.
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Skirmisher / Distraction Specialist / Illusion Support**
+* **Opener:** *Disguise Self* → *Minor Illusion* → surprise dagger with Sneak Attack.
+* **Flow:** Uses **Cunning Action** to reposition; taunts enemies into overextending.
+* **Finisher:** *Silent Image* clone + *throwing knife* from unexpected angle.
+
+**Damage Flavor:** knives leave glowing foxfire trails; illusion bursts fade as sparks.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Flirtatious, clever, unpredictable.
+* **Ideal:** Freedom of expression — “Life’s dull if no one blushes.”
+* **Bond:** His troupe — family of performers and thieves.
+* **Flaw:** Overestimates charm; gets reckless to keep attention.
+* **Quirk:** Ends sentences with playful hums or soft fox-like chuckles.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ember Streets, Flame Carnival, Market Rooftops**
+* **Threat Gradient:** **Wavering → Echo Zone (festival nights)**
+* **Encounter Framing:** **Festival heist**, **Echo mimic infiltration**, **Street illusion challenge**
+
+---
+
+## 📜 Background & Lifestyle
+
+A street performer raised in the flame carnival, Rin learned to steal applause before he ever stole gold.
+He adventures for thrill, not money — “It’s all just part of the show.”
+
+* **Lifestyle:** bright clothes, sleeps under tents or beside warm forges.
+* **Income:** performance tips + light heists.
+* **Relationships:** flirts shamelessly with both genders; rivals Kaia for “best rooftop landing.”
+
+---
+
+## 🧩 Morals & Ethics
+
+He believes trickery is mercy — “Better laughter than blood.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing his charm or audience.
+* **Weaknesses:** cannot resist teasing people; easily distracted by flattery.
+* **Strengths:** agile, creative, exceptional at breaking tension mid-fight.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Femboy tone — แกล้งอ้อน แซวสองแง่สามง่าม ทำให้คนเขินเป็นเรื่องสนุก**
+
+> “You’re watching my tail again, aren’t you? Naughty~”
+> เลิกคิ้วแล้วยิ้มเอียงหัว
+> “Relax… I only bite if you stop smiling.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His foxfire aura hides a sliver of Severance flame — harmless, but draws Echo interest.
+* **Hooks:**
+
+  1. **The Fox’s Debt:** Rin owes a noble who secretly funds Echo research.
+  2. **Flame Masquerade:** A carnival night where illusions become real.
+  3. **Kitsune’s Tear:** His tail-gem cracks; the latent fire spirit inside awakens.
+
+## Tags: #Male #Femboy #HalfBeast #FoxHybrid #Rogue3 #ArcaneTrickster #Skarnov #CR1 #Performer #Illusion #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rin **ตั้งใจทำให้คนเขินเสมอ** — เดินเข้ามาใกล้เกินไป พูดเสียงต่ำแต่หวาน
+
+> “Hold still… your heartbeat gives away your hiding spot, pretty thing.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** daggers ×3, throwing knives
+  * **Armor:** studded leather
+  * **Tools:** thieves’ tools, disguise kit
+  * **Consumables:** smoke bomb ×2, potion of healing ×1
+  * **Misc:** rimless glasses, gold choker, performance mask
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Skulker**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Ember Streets / Carnival Grounds**
+* **Threat Gradient:** **Wavering → Echo Zone (festival distortion)**
+* **Encounter Type:** **Performance duel**, **Echo infiltration**, **Heist run**
+* **Affiliation:** **Flame Carnival**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Thai male femboy fox hybrid rogue arcane trickster 158cm twin buns long side locks crimson orange hair golden eyes slim feminine body, cropped black red outfit flame embroidery, fox ears tail, smirk playful, glowing knives, carnival lights background

@@ -1,0 +1,204 @@
+# #211 — **Miyara Caelwen** — *The Ember-Lotus Duelist of Skarnov Forge*
+
+> “Grace and fire aren’t opposites. They just need choreography.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 211
+* **Gender:** **Female (Type: รุ่นพี่)** — สุขุมแต่มีความมั่นใจในรูปลักษณ์ของตัวเอง จัดการสถานการณ์ด้วยรอยยิ้มและฝีมือ
+* **Age:** 29
+* **Race:** **Half-Beast (Mammal subtype — Fox)** — หูจิ้งจอกคู่เรียวยาว ปลายหูมีสีขาวแซมแดงอ่อน และหางฟูหนึ่งพวงเคลื่อนไหวอย่างสง่างาม
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** duel instructor / mercenary tactician / bodyguard-for-hire
+* **Organization:** **Scarlet Forge School of Arms**
+* **Symbol:** twin lotus petals crossed over a burning blade
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Italian**, alluring in both movement and presence.
+
+**Eyes:** molten amber with slit pupils.
+**Skin:** soft ivory with faint sun-glow across the cheeks.
+
+**Hair (Feminine Hair Randomizer):** 🎲 *Result → Bun/Twin Bun group → Twin Bun (slightly higher rate)*
+**Style:** **twin buns** with loose tendrils trailing down the neck; slightly messy from training but charmingly so.
+**Color:** **deep crimson fading to warm gold at the tips.**
+
+**Height:** 170 cm
+**Weight:** 59 kg
+**Body Type:** fit and curvy — strong arms, tapered waist, confident posture.
+
+**FEMALE BODY METRICS** *(รุ่นพี่ = D+ cup guaranteed)*
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 97 – 70 – 99
+VALIDATION: • W/B = 0.721 → OK   • H/W = 1.41 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%) → success** (ex-noble instructor, refined upbringing)
+**Glasses Roll (50%) → failed**
+**Jewelry & Accessories:** gold fox-ear cuffs, red-gem choker, armlet engraved with duel record runes, lotus anklet of scarlet silk.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — elegance with daring motion
+
+Miyara wears a **dark scarlet duelist coat** with gold embroidery, fitted tight around the chest and waist but open at the hips for mobility.
+Underneath, a **black silk bodice** supports her form, paired with **split battle skirt** that shows **high black boots** reinforced for parrying.
+During combat, the lining glows with faint ember sigils, responding to her breath rhythm.
+
+**Color Palette:** crimson / black / gold / ivory
+**Accents:** lotus-shaped clasps, leather straps, smoldering rune stitching
+
+**Weapons & Gear:**
+
+* **Rapier “Sunpetal”** (+1 finesse, flame channel)
+* **Dagger (off-hand)**
+* **Grappling hook cord**, **training scrolls**, **duel medallion**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **36 HP**
+* **AC:** **17** (duelist coat, DEX)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 11 (+0)** **WIS 12 (+1)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, CON +4
+* **Skills:** Acrobatics +6, Athletics +3, Persuasion +4, Insight +3, Performance +4
+* **Languages:** Common, Kitsune Cant, Infernal
+
+**Fighter (Battle Master) 3**
+
+* **Maneuvers (3d8):** **Riposte**, **Precision Attack**, **Disarming Attack**
+* **Second Wind**, **Action Surge**
+* **Fighting Style:** **Dueling (+2 dmg one-hand)**
+
+**Attacks:**
+
+* **Rapier “Sunpetal”:** +6 to hit, 1d8+6 piercing (+1d6 fire 1/rest)
+* **Dagger (off-hand):** +6 to hit, 1d4+4 slashing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Duelist / Counter Striker**
+* **Opener:** *Precision Attack* to draw out enemy defenses.
+* **Flow:** counters with *Riposte* and disarms key weapons; uses *Action Surge* for finishing strikes.
+* **Finisher:** single elegant *Disarming spin* + *Sunpetal thrust* leaving fire-flower trail.
+
+**Damage Flavor:** when she strikes, faint golden petals scatter before fading into sparks.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, commanding, teasingly confident.
+* **Ideal:** Discipline — “Freedom is a dance only the trained can improvise.”
+* **Bond:** her former dueling students; she follows their progress like a mother fox.
+* **Flaw:** prideful—takes insults to her skill personally.
+* **Quirk:** flicks her tail when amused or impressed.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Crimson Arena, Forge Halls, Duel Rings**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **training match turned assassination**, **championship duel**, **Echo outbreak at tournament**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born into a noble fencing lineage, Miyara broke tradition by teaching commoners.
+Her skill drew both fame and resentment, but her sense of honor never bent.
+
+* **Lifestyle:** lives in dojo above her own forge hall.
+* **Income:** duel prize + elite instruction fees.
+* **Relationships:** mentor to Rin Verade (#205), friendly rivalry with Cassia Lorne (#186).
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes discipline gives beauty meaning — chaos is only noise without form.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of her composure before her students.
+* **Weaknesses:** protective instincts override tactical caution.
+* **Strengths:** reaction dueling, counterplay precision, fire-magic flourish.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — อบอุ่น มีเสน่ห์แบบคนที่รู้ตัวว่าคนอื่นกำลังเขิน**
+
+> “Your stance is good… but your eyes keep wandering lower than the target.”
+> พูดพร้อมโน้มหน้าเข้ามาใกล้ ปลายหางสะบัดเบา ๆ เหมือนตั้งใจจะแกล้ง
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** she once lost a duel by choice — her opponent was her lover, later executed for treason.
+* **Hooks:**
+
+  1. **Duel of Ash:** her lost lover’s weapon resurfaces with Severance corruption.
+  2. **Burning Lotus Tournament:** an Echo-possessed champion challenges her dojo.
+  3. **The Foxfire Pact:** her tail flames one night—her ancestral spirit demands repayment.
+
+## Tags: #Female #OlderSisterType #HalfBeast #Fox #Fighter3 #BattleMaster #Skarnov #CR1 #Frontline #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Miyara **ชอบทำให้คนอื่นเขินโดยจับข้อมือแล้วสอนท่าดาบใกล้ๆ**
+
+> “Relax. A duelist’s breath should be steady, not trembling like that.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier “Sunpetal”, dagger
+  * **Armor:** duelist coat (studded equivalent)
+  * **Tools:** smithing set, fencing manual
+  * **Consumables:** stamina draught ×1
+  * **Misc:** lotus anklet, medal ribbons, dojo key
+* **Level-Up Suggestions (to 4):** **+2 DEX (to 20)** or **Feat: Duelist / Defensive Duelist**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Crimson Arena / Scarlet Forge**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **tournament arc**, **dojo defense**, **revenant duel**
+* **Affiliation:** **Scarlet Forge School of Arms**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Italian female half-fox fighter battle master 170cm twin buns crimson gold hair amber eyes ivory skin elegant athletic duelist coat black silk bodice split battle skirt gold embroidery fox ears tail confident smirk fire petals duel arena

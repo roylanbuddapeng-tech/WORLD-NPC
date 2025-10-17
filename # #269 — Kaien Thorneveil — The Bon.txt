@@ -1,0 +1,201 @@
+# #269 — **Kaien Thorneveil** — *The Bonewright of Black Hollow*
+
+> “You think death ends your work? Foolish. That’s when the art begins.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 269
+* **Gender:** **Male (Type: วัยกลางคน)** — สุภาพ ขรึม เสียงทุ้มลึก มีความหนักแน่นของคนที่เคยเป็นครูผู้ชี้ทางให้คนรุ่นหลัง และความเหนื่อยล้าของผู้ที่แบกศพมากเกินไปในชีวิต
+* **Age:** 42
+* **Race:** **Human**
+* **Class & Level:** **Cleric (Death Domain)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** **Mortuary Priest / Ossuary Keeper / Death-rite Summoner**
+* **Organization:** **Order of the Silent Flame**
+* **Symbol:** a white skull wrapped in black cloth, burning with a single silver flame
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Greek–Korean hybrid**, masculine elegance touched by age and scars.
+
+**Eyes:** steel-gray with faint golden flecks that shimmer under candlelight.
+**Skin:** warm bronze with pale burn scars running along his right arm and neck.
+
+**Hair (Male Hair Randomizer):** 🎲 **Short (40%) — swept back, neatly trimmed**
+**Color:** **black streaked with silver**, slightly unkempt fringe falls forward when he frowns.
+
+**Height:** 185 cm
+**Weight:** 82 kg
+**Body Type:** **muscular but lean**, broad shoulders, faint stubble along jawline, graceful posture honed by years of ritual.
+
+**Sub-Theme:** 🎲 **Aristocrat (Former Temple Master)** — descended from an old clerical line purged by the church for “blasphemous rites.”
+
+**Glasses Roll (30%):** 🎲 Fail → **No glasses**
+
+**Jewelry & Accessories:** silver rosary of bone beads, cracked holy sigil on a chain, steel wristband engraved with names of the dead.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** *Not applicable (male)*
+
+Kaien wears a **long ceremonial coat** of blackened linen trimmed with white runic bands, open at the chest revealing an underlayer of dark priest’s armor.
+His **gloves are bone-wrapped**, fingertips carved with sigils that glow when channeling necrotic energy.
+A **tattered stole** of ash-gray cloth bears a thousand stitched prayers of the forgotten.
+
+**Palette:** black / white / steel gray / faint gold
+**Accents:** bone filigree, holy script burns
+
+**Weapons & Gear:**
+
+* *Mourning Mace* (radiant + necrotic focus)
+* *Prayerbook of the Lost Flame*
+* *Bone censer emitting silver smoke*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **24 HP**
+* **AC:** **17** (chain shirt + shield)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 12 (+1)** **CON 14 (+2)** **INT 11 (+0)** **WIS 17 (+3)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +3
+* **Skills:** Religion +4, Medicine +5, Insight +5, Intimidation +3
+* **Languages:** Common, Celestial, Abyssal
+
+**Cleric (Death Domain)**
+
+* **Bonus Proficiency:** martial weapons.
+* **Reaper:** learn *Chill Touch*, affect two creatures.
+* **Channel Divinity: Touch of Death:** add +10 necrotic dmg on melee.
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Chill Touch, Sacred Flame, Thaumaturgy*
+  * *1st:* *Inflict Wounds, Shield of Faith*
+  * *2nd:* *Spiritual Weapon, Gentle Repose*
+
+**Attacks**
+
+* **Mourning Mace:** +4 to hit, 1d6+2 bludgeoning (+1d8 radiant/necrotic).
+* **Inflict Wounds:** +5 to hit, 3d10 necrotic.
+
+---
+
+## 🎯 Combat Tactics (Offense / Summon Support)
+
+* **Role:** **Battlefield controller / frontline necrotic caster**
+* **Opener:** *Shield of Faith* → *Spiritual Weapon* → *Inflict Wounds*.
+* **Flow:** *Chill Touch* multiple targets with Reaper → animate or bless bones for temporary summons.
+* **Finisher:** *Touch of Death* on wounded foe; area purged by silver fire.
+
+**Flavor:** when he channels, smoke rises from his weapon, forming faces of souls whispering prayers of release.
+
+---
+
+## 💬 Personality
+
+* **Traits:** stoic, disciplined, deeply empathetic despite grim demeanor.
+* **Ideal:** Balance — “The flame that burns the corpse also warms the living.”
+* **Bond:** protects the nameless graves of the condemned.
+* **Flaw:** despises false priests and manipulative faiths.
+* **Quirk:** hums an old battle hymn under his breath during funerals.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Black Hollow Crypts / Temple of Ashfire**
+* **Threat Gradient:** **Echo → Deep Echo**
+* **Encounter Framing:** **funeral defense**, **necrotic cleansing**, **holy corruption outbreak**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once the High Priest of Ashfire, Kaien defied the church by fusing divine and necrotic rites, believing death and light were inseparable.
+He was exiled after resurrecting an entire village’s dead to finish one final hymn.
+
+* **Lifestyle:** lives alone in the catacombs; lights hundreds of candles before sleeping.
+* **Income:** funerary contracts, cleansing rituals.
+* **Relationships:** respected by Mireia (#266), regarded as “blasphemer” by the living clergy.
+
+---
+
+## 🧩 Morals & Ethics
+
+He views good and evil as irrelevant to the final truth of death — he serves balance, not faith.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** becoming unable to distinguish prayer from necromancy.
+* **Weaknesses:** physically weary; burns his life force to empower divine necrosis.
+* **Strengths:** iron will, balanced control between radiant and necrotic power.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — สุภาพแต่เด็ดขาด น้ำเสียงนุ่มลึก มีออร่าปกป้อง แฝงความอบอุ่นที่ทำให้คนฟังรู้สึกปลอดภัย**
+
+> “The dead don’t haunt the living, child. It’s the living who cannot stop calling their names.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** keeps the ashes of his former disciples in his staff — their souls whisper advice in battle.
+* **Hooks:**
+
+  1. **Ash Choir:** the souls in his staff begin chanting on their own.
+  2. **The False Saint:** a rival cleric spreads rumors that Kaien has become undead.
+  3. **Funeral of the Sun:** a cult plans to snuff the last flame he guards.
+
+## Tags: #Male #MiddleAged #Human #Cleric3 #DeathDomain #Necromancer #CR1 #BlackHollow
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaien **ชอบสัมผัสศีรษะหรือไหล่ของคนอายุน้อยกว่าเมื่อให้กำลังใจ เสียงทุ้มอ่อนโยนเหมือนอาจารย์ผู้รู้จักโลกเกินไป**
+
+> “Don’t look away from the dead. They can’t harm you anymore—only teach you how to live.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** mourning mace
+  * **Armor:** chain shirt
+  * **Tools:** prayerbook, bone censer
+  * **Consumables:** silver incense
+  * **Misc:** ashes of disciples
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 19)** or **Feat: War Caster / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Black Hollow Crypts / Temple of Ashfire**
+* **Threat Gradient:** **Echo → Deep Echo**
+* **Encounter Type:** **ritual defense**, **holy purge**, **necrotic surge**
+* **Affiliation:** **Order of the Silent Flame**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Greek Korean male human cleric death domain 185cm short black silver hair gray eyes tan skin muscular middle-aged wearing long black priest coat white runes bone rosary mace stoic calm wise necromantic holy flame gothic fantasy

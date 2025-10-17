@@ -1,0 +1,203 @@
+# #223 — **Evelyn Caelura** — *The Aetherveil Prodigy of Solinar Academy*
+
+> “Magic is music. Control the tempo, and even chaos will dance.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 223
+* **Gender:** **Female (Type: รุ่นพี่)** — ฉลาด มั่นใจในตัวเอง แฝงเสน่ห์ของคนที่เคยผ่านสนามจริง มีท่าทีใจเย็นแต่สายตาคมเหมือนคนอ่านความคิดคนได้
+* **Age:** 28
+* **Race:** **Other (Aetherborn — humanoid infused with planar resonance)** — มนุษย์ร้อยละ 90 ผิวเนียนสว่างราวแสงเทียนในหมอก ผมและดวงตาเรืองประกายเมื่อใช้เวท เหมือนมีหมอกอีเธอร์ล้อมรอบ
+* **Class & Level:** **Sorcerer (Aberrant Mind)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** spell lecturer / combat experimenter / freelance arcane troubleshooter
+* **Organization:** **Solinar Academy, Aetherveil Faculty**
+* **Symbol:** silver neural spiral enclosed in a crystal circle
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–English**, ethereal and elegant with undertones of quiet confidence.
+
+**Eyes:** luminous pale turquoise with shifting opal glimmers.
+**Skin:** porcelain with faint bluish glow at the temples when focusing magic.
+
+**Hair (Feminine Hair Randomizer):** 🎲 *Result → Ponytail (highest weight)*
+**Style:** **half-up ponytail**, loosely bound with a silver clasp, letting some strands frame her cheeks.
+**Color:** **platinum silver with soft cyan gradient tips.**
+
+**Height:** 172 cm
+**Weight:** 59 kg
+**Body Type:** graceful and toned from dueling practice, posture perfect.
+
+**FEMALE BODY METRICS (รุ่นพี่ type ≥ D)**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 96 – 69 – 100
+VALIDATION: • W/B = 0.718 → OK   • H/W = 1.45 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)**
+**Glasses Roll (optional)** → success: wears slim rectangular **aether-blue lens glasses** during lectures, enhancing focus.
+**Jewelry & Accessories:** silver choker etched with runes, crystalline ear cuffs, a planar-linked wristband that hums faintly.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — sleek, refined academic allure
+
+Evelyn’s outfit combines fashion with practicality:
+a **dark indigo sleeveless coat-dress** with high collar and subtle open sides revealing **a shimmering bodysuit** beneath.
+A **belt of floating rune plates** drifts slightly off her hips, rotating lazily in her magic field.
+Her **boots** reach the knee, reinforced with iridescent plating, faintly glowing with each step.
+
+**Color Palette:** indigo / silver / cyan glow / white
+**Accents:** sleek fabric, metallic shimmer, academic futurism
+
+**Weapons & Gear:**
+
+* **Arcane focus crystal (“Eidolon Lens”)**, **short wand**, **spell chronometer**, **notebook with kinetic runes**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **15** (mage armor + DEX + subtle wards)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 13 (+1)** **WIS 10 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, CHA +5
+* **Skills:** Arcana +3, Insight +2, Persuasion +5, Investigation +3
+* **Languages:** Common, Deep Speech, Elvish, Aetheric
+
+**Sorcerer 3 — Aberrant Mind**
+
+* **Psionic Spells:** *Arms of Hadar, Detect Thoughts, Calm Emotions, Mind Sliver*
+* **Telepathic Speech:** 30 ft communication link.
+* **Metamagic:** *Subtle Spell*, *Quickened Spell*
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Cantrips:* *Ray of Frost, Mind Sliver, Mage Hand, Minor Illusion*
+  * *1st:* *Mage Armor, Sleep*
+  * *2nd:* *Detect Thoughts, Calm Emotions, Mirror Image*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Controller / Manipulator / Duelist**
+* **Opener:** *Mirror Image* or *Calm Emotions* to destabilize foes.
+* **Flow:** manipulate field using *Mind Sliver* and *Detect Thoughts* for advantage.
+* **Finisher:** *Arms of Hadar* as a psychic burst from the ground, shimmering tendrils tearing silence into chaos.
+
+**Damage Flavor:** her spells manifest as glowing lines of runes, fracturing space like stained glass in motion.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, calculating, and effortlessly teasing.
+* **Ideal:** Mastery — “Emotion without control is just noise. Magic makes it music.”
+* **Bond:** her research team; she secretly funds students from poor districts.
+* **Flaw:** hides her exhaustion; addicted to mental overexertion.
+* **Quirk:** adjusts her glasses when lying—it glows faintly each time.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Solinar Academy — Aetherveil Halls, Duel Grounds, Lecture Spire**
+* **Threat Gradient:** **Stable → Wavering (Aether Rift proximity)**
+* **Encounter Framing:** **magic duel**, **lecture interrupted by anomaly**, **telepathic intrusion defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Evelyn’s Aetherborn nature manifests as both gift and burden: she senses magic flows like emotions.
+As a lecturer, she teaches "Magical Harmonics and Subconscious Resonance"—but her power often causes whispers of unease.
+
+* **Lifestyle:** elegant minimalist apartment suspended by levitation fields.
+* **Income:** academy salary + private psionic consultancy.
+* **Relationships:** mentor to Arinya Solveil (#221); rivals with Professor Maelis (#206).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes in autonomy—knowledge should liberate, never enslave. Yet she knows power tempts both sides equally.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of her psionic surge mid-lecture.
+* **Weaknesses:** physical frailty; over-reliance on mental defense.
+* **Strengths:** telepathic coordination, spell precision, composure under stress.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — สุขุมแต่แฝงอารมณ์เย้าแบบผู้หญิงที่รู้ว่าตัวเองเก่งกว่า**
+
+> “You’re trembling again. Don’t worry, I only read minds when I’m bored.”
+> เธอพูดพร้อมเลิกคิ้วแล้วยิ้มบางเหมือนจะทดสอบการเต้นของหัวใจคุณ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her Aetherborn resonance was created from an ancient “Echo Mind”—a Severance fragment purified by accident.
+* **Hooks:**
+
+  1. **The Resonant Rift:** her classroom becomes a psionic storm zone.
+  2. **Mind Choir:** the Severance seeks to reclaim her “missing echo.”
+  3. **A Lesson in Silence:** she’s forced to train a student with power identical to hers—but corrupted.
+
+## Tags: #Female #SeniorType #Aetherborn #Sorcerer3 #AberrantMind #SolinarAcademy #CR1 #Caster #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Evelyn **มักทำให้คนอื่นใจเต้นโดยใช้เสียงเรียบพูดใกล้หู หรือจ้องตานานเกินไป**
+
+> “Breathe slower. Magic listens to rhythm, and so do I.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** short wand, dagger
+  * **Armor:** mage weave coat
+  * **Tools:** focus lens, aether chronometer
+  * **Consumables:** psionic stabilizer vial ×1, potion of healing ×1
+  * **Misc:** silver glasses, planar wristband, rune notes
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 19)** or **Feat: Telepathic / War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Solinar Academy / Aetherveil Tower / Duel Grounds**
+* **Threat Gradient:** **Stable → Wavering (Aether Rift proximity)**
+* **Encounter Type:** **duel**, **lecture gone wrong**, **mental resonance crisis**
+* **Affiliation:** **Aetherveil Faculty, Solinar**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean English female aetherborn sorcerer aberrant mind 172cm half-up ponytail platinum silver hair cyan tips turquoise glowing eyes fair skin elegant indigo mage coat rune belts sleek outfit confident smirk silver glasses arcane glow

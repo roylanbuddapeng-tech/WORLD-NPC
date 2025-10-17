@@ -1,0 +1,208 @@
+# #241 — **Mirielle Castavon** — *The Seraphic Oracle of the Silent Bell*
+
+> “When you whisper mercy, the world remembers its voice.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 241
+* **Gender:** **Female (Type: MILF)** — ผู้หญิงวัยกลางคนที่สง่างามราวผู้นำศาสนา แววตาอ่อนโยนแต่ทรงอำนาจ มีออร่าที่ทำให้รอบข้างสงบลงเพียงแค่มอง
+* **Age:** 36
+* **Race:** **Human**
+* **Class & Level:** **Cleric (Order Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** temple arbiter / miracle registrar / healer-commander
+* **Organization:** **Valeronnes Grand Basilica — Silent Bell Chapter**
+* **Symbol:** ระฆังเงินปิดผนึกด้วยริบบิ้นสีทอง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–English**, elegant, noble composure with sacred undertones.
+
+**Eyes:** storm-grey, calm but commanding.
+**Skin:** porcelain with faint warmth at the cheeks, glowing softly when channeling divine power.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Wavy Medium**
+**Style:** **shoulder-length wavy hair** tucked behind one ear, partially braided on one side.
+**Color:** **pale ash-blonde** with **silver-gold shimmer.**
+
+**Height:** 176 cm
+**Weight:** 65 kg
+**Body Type:** tall, statuesque, refined yet soft around the edges.
+
+**FEMALE BODY METRICS** *(MILF rule: Cup ≥ H, here > I as user requested)*
+
+```
+CUP: J   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 111 – 76 – 118
+VALIDATION: • W/B = 0.685 → OK   • H/W = 1.55 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)** — former noble judge turned high cleric.
+**Glasses Roll (50%) → success:** **half-rim golden spectacles**, worn low during reading or sermons.
+**Jewelry & Accessories:** gold circlet, sapphire rosary, twin bangles inscribed with prayer runes, silver bell anklet.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate-high — dignified allure
+
+Mirielle wears a **ceremonial white robe** slit from waist to thigh, layered over a **gold-embroidered corset girdle**.
+The neckline dips in a controlled V, veiled by a **transparent golden shawl** that glows faintly with prayer light.
+Long, flared sleeves conceal gesture seals; the back trails a ribbon bearing the Silent Bell insignia.
+When she walks, small runes shimmer along the hem like fading hymns.
+
+**Palette:** white / gold / silver / pale blue
+**Accents:** bell motif, divine embroidery, glasslike sheen
+
+**Weapons & Gear:**
+
+* **Sanctified war-mace “Righteous Silence”**
+* **Order focus scrolls**, **holy writ seals**, **command tokens** for subpriests.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **18** (chain mail 16 + shield +2)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 10 (+0)** **CON 14 (+2)** **INT 12 (+1)** **WIS 17 (+3)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +5
+* **Skills:** Insight +5, Persuasion +5, Intimidation +5, Religion +3
+* **Languages:** Common, Celestial, Infernal, Valeronian
+
+**Cleric 3 — Order Domain**
+
+* **Voice of Authority:** when she casts a spell on an ally, that ally can immediately make one weapon attack as a reaction.
+* **Channel Divinity — Order’s Demand:** charm enemies within 30 ft; force them to drop weapons.
+* **Domain Spells:** *Command, Heroism; Hold Person, Zone of Truth.*
+* **Spellcasting (WIS DC 14, +6 atk)**
+
+  * *Cantrips:* *Guidance, Light, Sacred Flame*
+  * *1st:* *Bless, Command, Cure Wounds, Sanctuary*
+  * *2nd:* *Hold Person, Spiritual Weapon*
+
+**Attacks:**
+
+* **Righteous Silence (Mace):** +3 to hit, 1d6+1 bludgeoning + 1d4 radiant (on crit adds bell chime psychic note).
+
+---
+
+## 🎯 Combat Tactics (Support / Control)
+
+* **Role:** **Control Support / Command Healer**
+* **Opener:** *Bless* or *Heroism* → ally gets immediate attack via *Voice of Authority.*
+* **Flow:** *Order’s Demand* to disarm mobs → use *Spiritual Weapon* for pressure.
+* **Finisher:** *Hold Person* → call for allied smite chain or finishing barrage.
+
+**Effect Flavor:** golden bells ring silently around her as waves of shimmering sound disarm and pacify combatants.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, maternal, a leader who commands gently but effectively.
+* **Ideal:** Discipline — “Mercy without order is chaos; order without mercy is tyranny.”
+* **Bond:** the Silent Bell initiates — she considers them her children.
+* **Flaw:** suppresses emotions; cannot grieve openly.
+* **Quirk:** adjusts glasses before delivering a reprimand.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Grand Basilica, Court of Bells, Sanctum of Judged Souls**
+* **Threat Gradient:** **Stable → Echo infiltration (legal trials)**
+* **Encounter Framing:** **trial-defense support**, **siege sermon**, **public negotiation**
+
+---
+
+## 📜 Background & Lifestyle
+
+A former magistrate who saw too much cruelty dressed as law, Mirielle turned to divine service to balance scales no courtroom could.
+Her sermons are quiet but absolute—her word alone can still a mob.
+
+* **Lifestyle:** pristine chambers with stained-glass light; silver tea service always set for guests.
+* **Income:** cathedral stipend + noble pensions.
+* **Relationships:** advisor to Nerissa Valeon (#237); mentor to Lucia Ashvale (#239).
+
+---
+
+## 🧩 Morals & Ethics
+
+Justice and compassion must speak the same language, even if it breaks you to translate.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** her orders turning into dogma; losing the ability to feel mercy.
+* **Weaknesses:** vulnerable to surprise attacks; overtrusts subordinates.
+* **Strengths:** battlefield control, leadership synergy, divine charm resistance.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — สุภาพและมีอำนาจแฝงแววเย้ายวนอ่อน ๆ**
+
+> “Stand straight. You’re under my protection — and my judgment.”
+> เธอยื่นมือสัมผัสปลายคาง ยิ้มเบา ๆ แต่สายตาคมพอจะทำให้หัวใจเต้นแรง
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** the Silent Bell she guards can silence *all sound-based magic* for miles — once per generation.
+* **Hooks:**
+
+  1. **Bell of the Forsaken:** the relic begins ringing faintly on its own.
+  2. **Trial of Echoes:** her court is infiltrated by a voice-mimic entity that speaks with her tone.
+  3. **The Mercy Clause:** she’s forced to pass divine judgment on someone she secretly loves.
+
+## Tags: #Female #MILFType #Human #Cleric3 #OrderDomain #Support #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mirielle **ชอบทำให้เขินด้วยการเรียกชื่อเต็มอย่างชัดเจนในน้ำเสียงที่นุ่มแต่สั่งได้**
+
+> “Lucia Ashvale, eyes on me. Good. That’s how you follow an order.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** Righteous Silence (mace)
+  * **Armor:** chain mail, ornate shield
+  * **Tools:** rosary, writ seals, command scrolls
+  * **Consumables:** holy water ×2, incense ×3
+  * **Misc:** gold spectacles, sapphire rosary, bell anklet
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 19)** or **Feat: Inspiring Leader / War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Grand Basilica / Court of Bells**
+* **Threat Gradient:** **Stable → Wavering (Echo infiltration)**
+* **Encounter Type:** **trial defense**, **crowd control sermon**, **cathedral defense**
+* **Affiliation:** **Silent Bell Chapter**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French English female human cleric order domain 176cm shoulder-length wavy ash-blonde hair silver-gold shimmer grey eyes fair skin J-cup white gold ceremonial robe transparent shawl half-rim glasses elegant MILF priestess bell motif sacred aura

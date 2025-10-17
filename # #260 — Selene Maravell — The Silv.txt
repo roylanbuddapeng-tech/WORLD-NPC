@@ -1,0 +1,213 @@
+# #260 — **Selene Maravell** — *The Silver Thesis of the Aetheric Choir*
+
+> “Perfection is not divine—it’s just a well-written equation.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 260
+* **Gender:** **Female (Type: รุ่นพี่)** — สุขุม ฉลาด รู้จังหวะพูด มีออร่าความมั่นใจแบบผู้หญิงที่ “รู้ว่าตัวเองเหนือกว่า”
+* **Age:** 28
+* **Race:** **Human**
+* **Class & Level:** **Wizard (Evocation School)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** evocation researcher / battle lecturer / guild instructor
+* **Organization:** **Aetheric Choir Collegium — Silver Faculty**
+* **Symbol:** วงเวทซ้อนสามชั้นที่เชื่อมกันด้วยเส้นซิลเวอร์เหมือนสายโน้ต
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–European hybrid**, sharp elegance and academic poise, every movement measured.
+
+**Eyes:** ice-blue, glinting with analytical calm.
+**Skin:** porcelain-pale, faint dusting of blush at the cheekbones, near translucent under lamplight.
+
+**Hair (Female Hair Randomizer):** 🎲 **Bob cut (15%) — angled academic bob**
+**Style:** sleek and straight with one tucked side, a silver quill pin holding a strand.
+**Color:** **platinum blond** with faint lavender tint at the ends.
+
+**Height:** 170 cm
+**Weight:** 59 kg
+**Body Type:** **slender hourglass**, refined, straight-backed; posture like a noblewoman used to lecterns and duels alike.
+
+**FEMALE BODY METRICS (รุ่นพี่ rule ≥ Cup D)**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 96 – 68 – 100
+VALIDATION: • W/B = 0.70 → OK   • H/W = 1.47 → OK
+```
+
+**Sub-Theme:** 🎲 **Nerd + Aristocrat (dual roll success)**
+She is a **noble-born academic prodigy**—brilliant, meticulous, and a little intimidatingly perfect.
+
+**Glasses Rule (Nerd = always)** → **Yes.**
+**Glasses:** thin half-moon spectacles with silver rims, resting low when she lectures.
+
+**Jewelry & Accessories:** platinum pendant with tiny blue crystal sphere, chain bracelet of runic script, quill hairpin, silver ear cuff shaped like an arcane circle.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Low exposure (academic formal wear)**
+
+Selene wears a **silver-gray arcane coat-dress**, belted tight at the waist and flaring at the hips, embroidered with faint rune filigree.
+A **high-collared undershirt** with open V neckline adds composure without immodesty.
+A **short mantle cape** covers one shoulder, embroidered with the sigil of her academy.
+Boots: tall, mirror-polished leather with silver piping.
+
+**Palette:** silver / white / pale lavender / navy
+**Accents:** metallic threads, fine cloth, precision seams
+
+**Weapons & Gear:**
+
+* *Runic focus rod*
+* *Silver-thread spellbook*
+* *Mana quill & ink of sapphire essence*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **14** (mage armor)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 13 (+1)** **CON 12 (+1)** **INT 18 (+4)** **WIS 12 (+1)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +6, WIS +3
+* **Skills:** Arcana +6, History +6, Insight +3, Persuasion +4
+* **Languages:** Common, Draconic, Celestial
+
+**Wizard (Evocation)**
+
+* **Sculpt Spells:** allies automatically avoid your area-of-effect spells.
+* **Empowered Evocation (flavor base):** precision energy control, +INT to damage.
+* **Spellcasting (INT DC 14, +6 atk)**
+
+  * *Cantrips:* *Fire Bolt, Frostbite, Mage Hand*
+  * *1st:* *Mage Armor, Magic Missile, Shield*
+  * *2nd:* *Scorching Ray, Shatter*
+
+**Attacks**
+
+* **Fire Bolt:** +6, 1d10 fire.
+* **Magic Missile:** auto-hit, 3×(1d4+1) force.
+* **Shatter:** CON save (DC 14), 3d8 thunder in 10-ft radius (half on success).
+
+---
+
+## 🎯 Combat Tactics (Offense)
+
+* **Role:** **Ranged AOE / Tactical Evoker**
+* **Opener:** *Mage Armor* → *Magic Missile* to test defense.
+* **Main Flow:** *Shatter* + *Sculpt Spells* positioning; *Scorching Ray* precision burst.
+* **Finisher:** *Evocation Overcast*—channel full INT bonus into *Shatter* for “conducted symphony” damage flavor.
+
+**Effect Flavor:** her spells produce crystalline sound harmonics, like musical notes that fracture the air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** confident, articulate, slightly condescending but not cruel.
+* **Ideal:** Order through Knowledge — “Ignorance causes more explosions than I ever could.”
+* **Bond:** her students; though she hides her care behind sharp remarks.
+* **Flaw:** struggles to admit when she’s wrong; hates improvisation.
+* **Quirk:** flicks her quill like a conductor before casting.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Silver Faculty Tower, Arcane Duelling Halls**
+* **Threat Gradient:** **Stable → Wavering (academy echo incidents)**
+* **Encounter Framing:** **teaching duel**, **lecture interruption**, **arcane resonance defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+The daughter of a noble house known for sponsoring mage academies, Selene earned her mastery early and now teaches “applied energy control.”
+Her research focuses on harmonic resonance in evocation fields — half science, half symphony.
+
+* **Lifestyle:** penthouse dorm lined with scrolls and tea sets.
+* **Income:** teaching salary + experimental grant from Aetheric Choir.
+* **Relationships:** formal colleague of Kaien (#255); mentor figure to Rynn (#259).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes power must be refined through reason — untrained passion is the enemy of mastery.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** emotional loss of control, chaotic magic, or being “wrong in public.”
+* **Weaknesses:** pride; overreliance on analysis before acting.
+* **Strengths:** precision spellwork, leadership composure, adaptive intellect.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — ชอบแหย่แบบรู้ทัน ทำให้คนฟังเกรงใจแต่หลงรักในเวลาเดียวกัน**
+
+> “You’re trembling again. It’s adorable… but disastrous for your aim.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** keeps a forbidden grimoire of harmonic “whitefire”—a spell that transforms sound into pure destructive light.
+* **Hooks:**
+
+  1. **The Silver Conductor:** her spell tests cause music crystals to hum citywide.
+  2. **Broken Note:** the whitefire spell begins to write itself through her dreams.
+  3. **The Quiet Duel:** an unknown mage challenges her with silence magic—if she loses, her voice may vanish.
+
+## Tags: #Female #SenpaiType #Human #Wizard3 #Evocation #Nerd #Aristocrat #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Selene **ชอบทำให้เขินโดยการยื่นหน้าเข้ามาใกล้ขณะพูดอธิบายคาถา ริมฝีปากเฉียดหูจนได้ยินลมหายใจเบา ๆ**
+
+> “Focus here. The formula isn’t the only thing trembling.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** runic focus rod
+  * **Armor:** formal arcane coat-dress
+  * **Tools:** silver-thread spellbook, mana quill
+  * **Consumables:** mana tincture ×2, potion of lucidity ×1
+  * **Misc:** platinum pendant, half-moon spectacles
+* **Level-Up Suggestions (to 4):** **+2 INT (to 20)** or **Feat: Elemental Adept / Keen Mind**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Silver Faculty Tower / Duelling Halls**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **training duel**, **resonance anomaly**, **lecture defense**
+* **Affiliation:** **Aetheric Choir Collegium**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese European female human wizard evocation 170cm platinum blond bob lavender tint ice-blue eyes pale skin E-cup silver-gray academic coat high collar half-moon glasses elegant senpai noble nerd teacher poised confident magic symphony silver aura

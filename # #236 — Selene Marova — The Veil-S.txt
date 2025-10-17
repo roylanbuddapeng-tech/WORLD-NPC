@@ -1,0 +1,205 @@
+# #236 — **Selene Marova** — *The Veil-Singer of Moonlight Vows*
+
+> “Soft words can mend where even miracles fail.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 236
+* **Gender:** **Female (Type: รุ่นพี่)** — สงบนิ่ง พูดน้อยแต่มีแรงดึงดูดลึกลับ มีรอยยิ้มที่อบอุ่นแต่ทำให้ใจเต้น
+* **Age:** 30
+* **Race:** **Half-Beast (Aquatic subtype — Swanmaid)** — มนุษย์ราว 85% ผิวระยับเหมือนหยดน้ำ ใต้ผมมีลายขนนุ่มราวปีกหงส์แผ่วบางหลังไหล่
+* **Class & Level:** **Cleric (Light Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** traveling priestess / illuminant healer / ritual singer
+* **Organization:** **Thalassara Moon Basilica**
+* **Symbol:** วงแหวนแสงล้อมหยดน้ำสามชั้น
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Greek**, radiant beauty with serene poise, like moonlight refracted on water.
+
+**Eyes:** pale silver with shimmering white irises that catch every flicker of light.
+**Skin:** cool ivory with faint pearlescent tones under moonlight.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Straight Long**
+**Style:** **long straight hair** flowing to the waist, slightly layered at the ends, with thin side-swept bangs.
+**Color:** **silvery-white** with **soft aqua sheen** when light moves across it.
+
+**Height:** 173 cm
+**Weight:** 60 kg
+**Body Type:** statuesque hourglass, graceful curves balanced by temple-trained fitness.
+
+**FEMALE BODY METRICS** *(Cup > E enforced)*
+
+```
+CUP: H   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 106 – 70 – 110
+VALIDATION: • W/B = 0.661 → OK   • H/W = 1.57 → OK
+```
+
+**Theme Layer:** **Nerd (30%) → wears glasses always**
+**Glasses:** crystal-framed spectacles with moonlit filigree arms.
+**Jewelry & Accessories:** luminous pearl circlet, silver anklet chime, moon-charm pendant, glass rosary of sea-crystals.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate-high — elegant, ritual sensuality
+
+Selene wears a **flowing white and silver vestment-dress**, the neckline gracefully dipping to show the hollow of her throat, veiled by translucent fabric embroidered with faint runes.
+A **moon-silk sash** hugs her waist, emphasizing her form, while a **sheer overcloak** ripples like water when she moves.
+Her sleeves flare, hiding small movements; her bare shoulders glow faintly in reflected moonlight.
+
+**Palette:** silver / white / aquamarine / pale blue
+**Accents:** moonlight sheen, fluid drape, translucent embroidery
+
+**Weapons & Gear:** lunar focus staff (silver inlaid), rosary (holy symbol), healing salves, moon crystal for purification rites.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **17** (chain shirt + DEX +2 + divine ward)
+* **Speed:** 30 ft, swim 25 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 11 (+0)** **WIS 17 (+3)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +5
+* **Skills:** Insight +5, Medicine +5, Religion +4, Persuasion +5, Performance +5
+* **Languages:** Common, Celestial, Aquan, Thalassaran Cant
+
+**Cleric 3 — Light Domain**
+
+* **Warding Flare (3/long rest):** impose disadvantage on enemy attacks within 30 ft.
+* **Channel Divinity:** *Radiance of the Dawn* (dispel magical darkness, deal radiant damage 2d10+3 to hostiles).
+* **Domain Spells:** *Faerie Fire, Burning Hands, Flaming Sphere, Lesser Restoration*.
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Sacred Flame, Light, Guidance*
+  * *1st:* *Bless, Cure Wounds, Sanctuary*
+  * *2nd:* *Lesser Restoration, Flaming Sphere*
+
+**Attacks:**
+
+* **Moon Staff:** +4 to hit, 1d8+2 bludgeoning + 1d4 radiant once/turn (flavor)
+
+---
+
+## 🎯 Combat Tactics (Support / Hybrid Control)
+
+* **Role:** **Support / Healer / Area Control**
+* **Opener:** *Bless* → position behind frontline; *Radiance of the Dawn* if area is dark or overrun.
+* **Flow:** use *Flaming Sphere* to herd enemies, interlace *Cure Wounds* between bursts.
+* **Defensive Use:** *Warding Flare* to protect key allies, keeping them in moonlight radius.
+* **Finisher:** *Sacred Flame* bursts to purify wounded Echo beasts.
+
+**Effect Flavor:** moonlight coalesces around her gestures; wounds close as shimmering dust floats away.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, motherly, but teasingly sharp when someone hides pain.
+* **Ideal:** Illumination — “Even the darkest water can carry light.”
+* **Bond:** her Moon Basilica sisters, especially those who lost voices to Echo.
+* **Flaw:** fears intimacy due to her vow of purity — but secretly craves connection.
+* **Quirk:** adjusts her glasses when nervous, then hums softly to mask it.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Basilica, Tide Shrines, Canal Sanctuaries**
+* **Threat Gradient:** **Wavering → Echo activity near holy pools**
+* **Encounter Framing:** **ritual purification**, **water rescue**, **holy ward restoration**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born among Thalassaran tide-priests, Selene was trained to maintain sacred echo-balance through music and ritual.
+Her serene faith hides a rebellion: she believes mercy is stronger than scripture.
+
+* **Lifestyle:** sleeps in floating sanctum cells surrounded by candlelight.
+* **Income:** temple tithe, healing donations, ceremonial performances.
+* **Relationships:** long-time collaborator with Lyra Thalassara (#001); mentor to Hana Redvale (#233).
+
+---
+
+## 🧩 Morals & Ethics
+
+Faith without compassion is just ritual; compassion without faith is still sacred.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** drowning alone in total darkness.
+* **Weaknesses:** fragile under sustained attack; refuses to retreat until everyone’s safe.
+* **Strengths:** healing, radiant control, morale restoration, moonlight buffs.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — พูดเบา ๆ แต่ขยับเข้าใกล้อย่างมีเจตนา**
+
+> “You’re shaking again. Here—look at the light. Keep your eyes on mine.”
+> เธอยื่นมือจับแก้มอย่างนุ่มนวล แสงรอบตัวสว่างขึ้นจาง ๆ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** the “moonlight” she channels comes from a dying celestial spirit bound in her heart.
+* **Hooks:**
+
+  1. **Moon’s Debt:** freeing the spirit risks ending her life.
+  2. **The Silent Hymn:** her songbooks are vanishing—each one erases memory of her miracles.
+  3. **Echo Beneath the Basilica:** a luminous monster calls her name from under the holy pools.
+
+## Tags: #Female #SeniorType #HalfBeast #Swanmaid #Cleric3 #LightDomain #Support #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Selene **ชอบให้เขินด้วยการเอียงหน้าเข้ามาใกล้มากเกินไปเวลาอธิบายเวท**
+
+> “Don’t blink. The light only listens when you’re still.” *เสียงเบาเหมือนฟังอยู่ในฝัน*
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** moon staff
+  * **Armor:** chain shirt
+  * **Tools:** holy focus, rosary, ritual components
+  * **Consumables:** holy water ×2, moon salve ×1
+  * **Misc:** crystal spectacles, moon circlet, pearl anklet
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 19)** or **Feat: War Caster / Resilient (CON)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Moon Basilica / Canal Shrines**
+* **Threat Gradient:** **Wavering → Echo active**
+* **Encounter Type:** **purification ritual**, **rescue operation**, **holy defense**
+* **Affiliation:** **Moon Basilica**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Greek female half-beast swanmaid cleric light domain 173cm long straight silvery-white hair aqua sheen silver eyes fair skin H-cup white silver vestment moon sash glasses luminous gentle priestess moonlight healing

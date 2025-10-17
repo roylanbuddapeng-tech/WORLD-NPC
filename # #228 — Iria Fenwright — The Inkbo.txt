@@ -1,0 +1,199 @@
+# #228 — **Iria Fenwright** — *The Inkbound Arcanist of Veyrun’s Library*
+
+> “Every spell I cast begins as a sentence — and ends as a story burned into the air.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 228
+* **Gender:** **Female (Type: รุ่นพี่)** — เธอดูฉลาด สุขุม มีเสน่ห์ของผู้หญิงที่เข้าใจโลกและคนอื่นเกินกว่าที่ใครจะตามทัน พูดด้วยน้ำเสียงนุ่มแต่กดอารมณ์อย่างแม่นยำ
+* **Age:** 29
+* **Race:** **Human**
+* **Class & Level:** **Wizard (School of Scribes)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** archivist / field researcher / spell transcriber
+* **Organization:** **Veyrun Great Library — Arcane Records Division**
+* **Symbol:** a quill and hourglass intertwined with silver ink
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Chinese–European**, refined and intellectual.
+
+**Eyes:** warm amber with faint concentric runes reflected within the iris.
+**Skin:** fair with faint blush, slightly ink-stained fingertips.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail (highest weight)**
+**Style:** **mid-length ponytail**, with a few loose strands framing her glasses.
+**Color:** **dark brown fading to ashen silver ends.**
+
+**Height:** 170 cm
+**Weight:** 57 kg
+**Body Type:** slim hourglass; poised posture, confident gaze, subtle strength in movement.
+
+**FEMALE BODY METRICS (รุ่นพี่ type ≥ D)**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 95 – 70 – 99
+VALIDATION: • W/B = 0.736 → OK   • H/W = 1.41 → OK
+```
+
+**Theme Layer:** **Nerd (35%)** → automatically wears glasses: thin rectangular lenses with gold frames.
+**Jewelry & Accessories:** ink-quill earrings, silver ring engraved with writing runes, crystal pen clipped to her robe.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** low to moderate — elegant and scholarly, with understated allure
+
+Iria wears a **charcoal scholar’s coat-dress** split at the front to reveal **dark blue trousers** and **high boots**.
+Underneath, a **white sleeveless blouse** opens just slightly at the collar, showing a glimpse of soft lace trim.
+Silver thread weaves across the hem of her coat forming glowing runes when she reads aloud.
+
+**Color Palette:** charcoal / silver / ink-blue / white
+**Accents:** embroidery, faint light-glow on edges of fabric
+
+**Weapons & Gear:**
+
+* **Quill of Continuance (arcane focus)**, **spellbook**, **scroll case**, **ink phial enchanted to never dry**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **13** (mage armor + DEX)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 18 (+4)** **WIS 11 (+0)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +6, WIS +2
+* **Skills:** Arcana +6, History +6, Investigation +4, Insight +2
+* **Languages:** Common, Draconic, Infernal, Celestial
+
+**Wizard 3 — School of Scribes**
+
+* **Awakened Spellbook:** change spell damage type when casting.
+* **Manifest Mind:** project spectral quill to cast spells remotely.
+* **Spellcasting (INT DC 14, +6 atk)**
+
+  * *Cantrips:* *Prestidigitation, Mage Hand, Ray of Frost, Fire Bolt*
+  * *1st:* *Identify, Magic Missile, Shield*
+  * *2nd:* *Mirror Image, Misty Step*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Tactical Support / Adaptable Caster**
+* **Opener:** *Mirror Image* → reposition → *Magic Missile* or *Ray of Frost.*
+* **Flow:** shifts damage type via *Awakened Spellbook* to exploit weaknesses.
+* **Finisher:** remote cast *Fire Bolt* through her spectral quill, targeting flanks unseen.
+
+**Damage Flavor:** ink trails shimmer midair, letters swirl into glowing runes that explode into elemental bursts.
+
+---
+
+## 💬 Personality
+
+* **Traits:** articulate, composed, teasingly sarcastic.
+* **Ideal:** Knowledge — “Every word written is a life preserved.”
+* **Bond:** a sealed codex she hasn’t been able to translate yet — it hums when she dreams.
+* **Flaw:** overanalyzes every situation, sometimes freezing in combat.
+* **Quirk:** murmurs in ancient tongues unconsciously when focusing.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Veyrun — Great Library, Arcane Archives, Mirror Hall Scriptorium**
+* **Threat Gradient:** **Stable → Wavering (memory echoes)**
+* **Encounter Framing:** **arcane anomaly**, **research duel**, **library defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised in the library’s scriptorium since youth, Iria spent her life translating ancient Severance-era texts.
+Her skill in rewriting magic sigils made her invaluable — but also dangerous, as her words can reshape reality itself.
+
+* **Lifestyle:** minimalist, quiet, filled with notes and coffee cups.
+* **Income:** translation contracts, spell commissions.
+* **Relationships:** occasional correspondence with Evelyn (#223); mutual respect, subtle rivalry.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes knowledge must be understood before it’s feared — secrecy breeds ignorance.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** forgetting her own writing; losing control of a spell mid-chant.
+* **Weaknesses:** physical fragility, tunnel focus.
+* **Strengths:** intellect, precision, control of linguistic magic.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — ใช้สายตาและน้ำเสียงกดดันได้อย่างนุ่มนวล**
+
+> “You read my notes, didn’t you? Don’t worry… I’ll let you copy them, if you ask properly.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her spellbook’s ink is made from ground fragments of a Severance echo — sentient text that sometimes writes back.
+* **Hooks:**
+
+  1. **The Living Lexicon:** pages begin rewriting themselves with forbidden knowledge.
+  2. **Script of Silence:** a missing codex seals sound; only Iria can unbind it.
+  3. **Inkfire Bloom:** her spells start burning real words into reality itself.
+
+## Tags: #Female #SeniorType #Human #Wizard3 #SchoolOfScribes #VeyrunLibrary #CR1 #ArcaneScholar #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Iria **มักทำให้คนเขินด้วยการโน้มหน้าใกล้ขณะอธิบาย หรือเอาปากกาแตะริมฝีปากตอนคิด**
+
+> “Focus. You’re not the only one distracted when I talk.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** dagger, quill (arcane focus)
+  * **Armor:** enchanted scholar coat
+  * **Tools:** scribe’s kit, ink vials
+  * **Consumables:** potion of intellect clarity ×1, coffee flask ×2
+  * **Misc:** golden glasses, sealed codex, notebook
+* **Level-Up Suggestions (to 4):** **+2 INT (to 20)** or **Feat: Keen Mind**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Veyrun Great Library / Mirror Hall Archives / Scriptorium Sanctum**
+* **Threat Gradient:** **Wavering (memory echo anomaly)**
+* **Encounter Type:** **defensive ritual**, **research duel**, **knowledge hunt**
+* **Affiliation:** **Arcane Records Division — Veyrun Library**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Chinese European female human wizard scribe scholar 170cm brown silver hair ponytail amber eyes gold glasses charcoal coat white blouse blue pants magic runes elegant calm confident intelligent aura library background

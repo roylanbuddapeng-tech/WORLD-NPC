@@ -1,0 +1,201 @@
+# #218 — **Kaela Vorn** — *The Iron Petal of Skarnov*
+
+> “Strength and grace don’t compete. They sharpen each other.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 218
+* **Gender:** **Female (Type: รุ่นพี่)** — ภายนอกดูสุขุม ใจดี มีออร่าคนที่ใคร ๆ อยากขอคำปรึกษา แต่เวลาจริงจังเหมือนดาบเหล็กที่พร้อมตัดทุกสิ่งเพื่อปกป้องผู้อื่น
+* **Age:** 31
+* **Race:** **Human**
+* **Class & Level:** **Paladin (Oath of the Crown)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** Royal guard / tactician / adventurer captain
+* **Organization:** **Valeronnes Silverwatch**
+* **Symbol:** silver rose blooming from an iron cross
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Western hybrid**, graceful and imposing with the bearing of a noble warrior.
+
+**Eyes:** deep steel gray, reflecting light like polished metal.
+**Skin:** smooth ivory with sun-kissed undertones from training outdoors.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail (highest weight)**
+**Style:** **long high ponytail**, slightly curled at the ends; a few locks fall loose across her temple for softness.
+**Color:** **ashy brown with silver streaks near the crown.**
+
+**Height:** 176 cm
+**Weight:** 66 kg
+**Body Type:** tall, toned, statuesque; soft hourglass beneath well-trained musculature.
+
+**FEMALE BODY METRICS (รุ่นพี่ type ≥ D)**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 100 – 72 – 104
+VALIDATION: • W/B = 0.72 → OK   • H/W = 1.44 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)**
+**Glasses Roll (Aristocrat optional)** → **failed (no glasses)**.
+**Jewelry & Accessories:** silver cross-pendant, single hoop earring, iron rose ring, steel wristlet engraved with Valeronnes crest.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** modest, functional elegance befitting a knight-captain
+
+Kaela wears **ceremonial steel armor** sculpted for mobility and style — polished breastplate etched with floral filigree, high-collared gorget, and reinforced gauntlets.
+Her **waist cinch** emphasizes her form under layered metal segments, and her **blue half-cloak** carries the royal sigil in white thread.
+Off duty, she wears a **sleeveless white tunic** and black trousers, often training barefoot to keep her balance perfect.
+
+**Color Palette:** steel / blue / white / silver
+**Accents:** polished surfaces, faint blue gleam on edges, clean royal aesthetic.
+
+**Weapons & Gear:**
+
+* **Longsword “Silver Oath”**, **Shield of the Rose**, **holy seal pendant**, **command scrolls**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **19** (chain mail 16 + shield 2 + defense style 1)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Athletics +5, Persuasion +5, Insight +3, History +2
+* **Languages:** Common, Celestial, Valeronian
+
+**Paladin 3 — Oath of the Crown**
+
+* **Divine Sense, Lay on Hands (15 HP pool)**
+* **Fighting Style:** Defense (+1 AC)
+* **Divine Smite (2d8 base)**
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Prepared:* *Bless, Command, Shield of Faith, Wrathful Smite*
+* **Channel Divinity (2/rest):** *Champion Challenge*, *Turn the Tide*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Protector / Commander**
+* **Opener:** *Bless* allies, *Shield of Faith* self, advance.
+* **Flow:** position to intercept, use *Champion Challenge* to keep enemies close.
+* **Finisher:** *Divine Smite* + *Wrathful Smite* for radiant burst.
+
+**Damage Flavor:** sword arcs leave silver trails shaped like rose petals scattering on impact.
+
+---
+
+## 💬 Personality
+
+* **Traits:** nurturing but firm, motherly confidence, smiles even mid-duel.
+* **Ideal:** Loyalty — “Service isn’t duty. It’s chosen purpose.”
+* **Bond:** her squad of recruits — treats them as family.
+* **Flaw:** hides her fatigue; overworks quietly.
+* **Quirk:** ties ponytail tighter before every confrontation as a ritual.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Silver Citadel, training courts, echo barrier lines**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **escort mission**, **citadel defense**, **leadership trial**
+
+---
+
+## 📜 Background & Lifestyle
+
+A veteran of the canal wars, Kaela refused noble retirement to train the next generation.
+Her leadership stabilized an entire battalion after a Severance outbreak.
+
+* **Lifestyle:** ascetic luxury — owns little, maintains immaculate order.
+* **Income:** royal guard stipend + tactical consultancy.
+* **Relationships:** mentor figure to younger adventurers like Selene (#214).
+
+---
+
+## 🧩 Morals & Ethics
+
+Law serves compassion, not pride. She enforces order to protect hope, not to bind it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being forced to choose between duty and conscience.
+* **Weaknesses:** stubborn pride; rarely delegates.
+* **Strengths:** charisma under pressure, protective power, tactical brilliance.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — สุภาพแต่มีแรงดึงดูดแบบคนที่รู้ตัวว่ามีอิทธิพล**
+
+> “You’re trembling. Don’t be embarrassed—courage starts with fear.”
+> เธอพูดพร้อมยกมือแตะคางคุณเบา ๆ แล้วสบตานิ่งราวกับคำสาบาน
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her divine powers come from a *borrowed* oath — she’s guarding the soul of her fallen commander within her sword.
+* **Hooks:**
+
+  1. **The Sleeping Oath:** her commander’s soul stirs, demanding freedom.
+  2. **Petals in Iron:** nobles conspire to disband her order; she needs allies.
+  3. **Trial of the Rose:** a hidden corruption festers within the Silver Citadel.
+
+## Tags: #Female #SeniorType #Human #Paladin3 #OathOfTheCrown #Valeronnes #CR1 #TankSupport #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaela **มักทำให้คนอื่นใจเต้นด้วยรอยยิ้มอบอุ่นและคำพูดจริงจังแบบเล่น ๆ**
+
+> “I’ll protect you, even if you don’t ask me to. Orders are orders, after all.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword “Silver Oath”
+  * **Armor:** chain mail
+  * **Tools:** command scrolls, holy symbol
+  * **Consumables:** potion of healing ×1
+  * **Misc:** iron rose ring, half-cloak
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 18)** or **Feat: Inspiring Leader / Sentinel**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Silver Citadel / Training Courts**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **escort**, **tactical defense**, **leadership test**
+* **Affiliation:** **Silverwatch Royal Guard**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Western female human paladin oath of the crown 176cm long high ponytail ashy brown silver streaks steel gray eyes fair skin blue cloak silver armor large bust knight captain confident gentle smile royal background

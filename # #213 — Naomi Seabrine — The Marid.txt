@@ -1,0 +1,204 @@
+# #213 — **Naomi Seabrine** — *The Marid’s Ledger of the Tide Courts*
+
+> “A contract is just a story with sharper edges. I prefer mine written in water and light.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 213
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — คุยง่าย ฉลาดมีไหวพริบ ชอบช่วยคิดแผนและคอยดึงเพื่อนกลับมาโฟกัส
+* **Age:** 23
+* **Race:** **Other — Water Genasi** (มนุษย์ ~90% ผิวมีประกายชื้น ๆ เหมือนละอองน้ำ เส้นผมเงาเหมือนผิวน้ำยามพลบค่ำ)
+* **Class & Level:** **Warlock (The Genie — Marid)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Pact-broker / ritual negotiator / adventurer
+* **Organization:** **Thalassara Tide Courts (Contract Scribes)**
+* **Symbol:** ขวดแก้วรูปหยดน้ำ มีวนเกลียวคลื่นภายใน
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Thai**, luminous scholarly charm with ocean-calm poise.
+
+**Eyes:** sea-glass teal with concentric wave rings in the iris.
+**Skin:** fair with a cool, dewy sheen; light mists around her shoulders when she’s focused.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Straight** (top-weight)
+**Style:** long, sleek **waist-length straight hair**, blunt-cut ends; side-part with a subtle tucked strand behind the ear.
+**Color:** **deep teal fading to pale aqua tips** with pearly shine.
+
+**Height:** 167 cm
+**Weight:** 57 kg
+**Body Type:** slim-curvy, swimmer’s back, graceful waist and hips.
+
+**FEMALE BODY METRICS** *(friend type can roll large cup)*
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 102 – 68 – 106
+VALIDATION: • W/B = 0.667 → OK   • H/W = 1.56 → OK
+```
+
+**Theme Layer:** **Nerd (35%) → mandatory glasses**
+**Jewelry & Accessories:** **oval clear-rim glasses**, **mother-of-pearl pendant**, **silver chain earrings**, **slim tide-etched bracelet**, and a **miniature conch-bottle ring** (her vessel).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — elegant scholar with water-silhouette accents
+
+Naomi wears a **sea-teal fitted bodice** with **sheer mesh panels** at the sides, paired with a **high-slit wrap skirt** over **opaque thigh leggings** for agile movement.
+A **short scholar-coat** with wave-stitched hems drapes to mid-thigh, and a **ribbon-belting** secures her focus vials at the hip.
+When she invokes the pact, **watery glyphs** ripple across the fabric as if submerged.
+
+**Color Palette:** teal / aqua / pearl white / silver
+**Accents:** wave filigree, glassy buttons, soft glow seams
+
+**Weapons & Gear:** crystal rod “Brine-Lexicon” (arcane focus), pact vessel **conch-bottle ring**, ritual seals, ink ampoules.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **15** (studded leather 12 + DEX +2 + style guards +1)
+* **Speed:** 30 ft; **swim 30 ft**
+* **STR 8 (–1)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 10 (+0)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +2, CHA +6
+* **Skills:** Arcana +3, Persuasion +6, Deception +6, Insight +2, Investigation +3
+* **Languages:** Common, Aquan, Celestial, Thalassaran Cant
+
+**Warlock 3 — The Genie (Marid)**
+
+* **Genie’s Vessel (Conch Ring)**, **Bottled Respite** (short rest in vessel), **Genie’s Wrath:** once/turn add **+PB (≈ +2)** cold to a hit
+* **Expanded Spells (Marid):** access to *Fog Cloud, Sleep* (1st); *Blur, Silence* (2nd)
+* **Pact Boon:** **Pact of the Chain** — familiar: **Sprite** reskinned as “Tide Sprite” (swims, speaks Aquan)
+* **Invocations (2):** **Agonizing Blast**, **Repelling Blast**
+* **Spellcasting (CHA DC 14, +6 atk; 2 slots @ 2nd):**
+
+  * **Cantrips:** *Eldritch Blast, Toll the Dead*
+  * **Known Spells (examples):** *Hex, Armor of Agathys, Fog Cloud (Marid), Misty Step, Blur (Marid), Hold Person*
+
+**Attacks:**
+
+* **Eldritch Blast:** +6 to hit, 1 beam 1d10+4 force (+push 10 ft via Repelling; add +2 cold 1/turn via Genie’s Wrath)
+* **Dagger:** +4 to hit, 1d4+2 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Control / Push-Pull Blaster / Face**
+* **Opener:** *Fog Cloud* to break enemy lines of sight → step to vantage with *Misty Step*.
+* **Flow:** *Eldritch Blast* + **Repelling** to knock foes into hazards; maintain *Blur* if pressured.
+* **Finisher:** lock a priority target with *Hold Person* for party crits; layer **Genie’s Wrath** on the decisive hit.
+
+**Damage Flavor:** each blast forms a spinning water sigil that collapses into a cold snap and a backward surge like a receding wave.
+
+---
+
+## 💬 Personality
+
+* **Traits:** analytical, playful banter, protective of teammates’ boundaries.
+* **Ideal:** Consent — “Deals without clarity are just traps.”
+* **Bond:** her Tide Sprite familiar, **“Pico”**, who keeps her honest.
+* **Flaw:** over-negotiates mid-crisis; can stall action for the “perfect clause.”
+* **Quirk:** taps the bridge of her glasses three times before sealing a pact phrase.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Tide Courts, Sea-Mirror Archives, Moon Canals**
+* **Threat Gradient:** **Wavering → Echo surge nights**
+* **Encounter Framing:** **contract duel**, **canal pursuit with forced-movement puzzles**, **ritual arbitration under threat**
+
+---
+
+## 📜 Background & Lifestyle
+
+An apprentice scribe who proved that compassion and precision can coexist in pact law.
+She left the desk to “field-test” better clauses that protect common folk from predatory spirits.
+
+* **Lifestyle:** tidy water-level loft; sleeps to wave-sound recordings.
+* **Income:** court retainers + adventuring shares.
+* **Relationships:** compares notes with Satsuki Renwei (#210); friendly tea debates with Aelina (#209).
+
+---
+
+## 🧩 Morals & Ethics
+
+Promises bind both ways; she refuses patrons who won’t sign in plain language.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** becoming dependent on the Marid’s favor.
+* **Weaknesses:** fragile if caught without cloud/control.
+* **Strengths:** forced-movement control, social leverage, short-rest economy via **Bottled Respite**.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — อบอุ่น แซวเก่ง แต่เอาจริงเวลาเพื่อเดือดร้อน**
+
+> “Stand behind me. If they won’t honor terms, the tide will.”
+> เธอดันแว่นเบา ๆ ก่อนยกมือวาดวงน้ำกระแทกศัตรูกลับ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her conch vessel sometimes fills with voices—other pacts begging to be rewritten.
+* **Hooks:**
+
+  1. **Clause of the Drowned King:** a Marid rival contests her pact—trial by water maze.
+  2. **Fogbound Heist:** thieves steal her vessel mid-fight; the pocket-rest is now a prison.
+  3. **The Undertow Oath:** her Repelling Blast starts pulling allies she lies to.
+
+## Tags: #Female #FriendType #Other #WaterGenasi #Warlock3 #Genie #Marid #Thalassara #CR1 #ControlCaster #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Naomi **ทำให้คนเขินด้วยการพูดใกล้หูตอนเจรจา แล้วหัวเราะเบาๆ เมื่ออีกฝ่ายหน้าแดง**
+
+> “That’s a yes? Good. Let’s sign before your courage evaporates.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** dagger, crystal rod
+  * **Armor:** studded leather
+  * **Tools:** contract seals, ink ampoules
+  * **Consumables:** potion of healing ×1, bottled mist ×1
+  * **Misc:** conch ring (vessel), oval glasses, tide journal
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Eldritch Adept (Grasp/Repelling alt)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Tide Courts / Moon Canal causeways**
+* **Threat Gradient:** **Wavering → Echo surge**
+* **Encounter Type:** **contract duel**, **canal push-pull combat**, **Marid arbitration**
+* **Affiliation:** **Tide Courts Scribes**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Thai female water genasi warlock genie marid 167cm long straight teal aqua hair sea-glass eyes oval clear glasses teal scholar coat high-slit skirt thigh leggings pearl pendant conch ring water magic repelling blast canal backdrop confident friendly smile

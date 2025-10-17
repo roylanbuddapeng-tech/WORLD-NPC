@@ -1,0 +1,192 @@
+# #191 — **Tirien Vael** — *The Petal Duelist of Thalassara*
+
+> “A blade’s edge is just a whisper waiting to bloom.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 191
+* **Gender (weighted random):** **Male (Type: เคะ)** — หนุ่มหน้าสวย เรียบร้อยแต่มีแรงขับภายในสูง แววตาเต็มไปด้วยความมุ่งมั่นที่มักถูกมองว่า “น่าทะนุถนอม”
+* **Age:** 20
+* **Race:** **Elf (Thalassaran Lineage)** — ใบหูเรียว ยาวเล็กน้อย ผิวขาวซีดราวกลีบดอกไม้ใต้แสงจันทร์ ดวงตาเหมือนน้ำในคืนสงบ
+* **Class & Level:** **Fighter (Dueling Style)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** นักดวล / ผู้ติดตามนักบวช / นักผจญภัยรับจ้าง
+* **Rank / Position:** **Junior Duelist of the Silver Petal**
+* **Organization:** **Thalassaran Guard Cadet Corps**
+* **Symbol:** กลีบดอกไม้เงินเหนือคลื่นเสียง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese**, elegant, gentle beauty with calm poise.
+
+**Eyes:** soft green-gray with faint silver shimmer.
+**Skin:** pale ivory with delicate blush under the eyes.
+**Hair (Masculine Hair Randomizer):** 🎲 *Result → Medium (35% chance)*
+**Style:** **medium-length straight hair** tucked behind one ear.
+**Color:** **ash brown with silver tint under moonlight.**
+**Height:** 170 cm
+**Weight:** 57 kg
+**Body Build:** **lean, graceful**, light tone in arms and thighs, more lithe than muscular.
+
+**Accessories (male glasses 30% → 🎲 fail):**
+A **small silver ear cuff**, **silken ribbon at the collar**, and a **thin chain bracelet** engraved with runes of focus.
+
+---
+
+## 👗 Outfit (in English)
+
+**Style Roll:** 🎲 *Result → formal duelist uniform (low exposure)*
+
+Tirien wears a **white-and-blue duelist jacket** fitted neatly at the waist, paired with **tailored pants** and knee-high boots.
+A **half-cape** flows from his left shoulder, stitched with silver embroidery depicting blooming petals.
+When he moves, the threads shimmer faintly, echoing the sound of wind through reeds.
+
+**Color Palette:** white / silver / pale blue / midnight trim
+**Accents:** refined, minimalistic, youthful
+
+**Weapons:** rapier “Petal’s Whisper”, off-hand dagger “Thorn”.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +1)×3 → **28 HP**
+* **AC:** **17** (studded duelist gear + DEX + fighting style)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, CON +3
+* **Skills:** Acrobatics +6, Insight +3, Performance +4, Perception +3
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Fighter 3 (Dueling):**
+
+* **Second Wind, Action Surge**
+* **Fighting Style:** Dueling (+2 dmg when using one-handed weapon)
+* **Subclass:** no archetype yet (level 3 base fighter)
+
+**Attacks:**
+
+* **Rapier “Petal’s Whisper”:** +6 to hit, 1d8+6 piercing
+* **Dagger “Thorn”:** +6 to hit, 1d4+4 piercing (range 20/60 ft)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Agile Striker / Defensive Duelist
+* **Opener:** Uses *Second Wind* before entering fight for stamina control.
+* **Flow:** Focuses on precision counterstrikes and positional duels.
+* **Finisher:** *Action Surge* → rapid thrust combo, “Petal Bloom Strike.”
+
+**Damage Flavor:** leaves silver traces in the air like falling petals; each strike releases a whispery note.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Soft-spoken, polite, earnest.
+* **Ideal:** Harmony — “Even a duel is a conversation.”
+* **Bond:** Respects his mentor, Eira Valenne, above all.
+* **Flaw:** Hesitant to strike first; struggles with overthinking.
+* **Quirk:** Adjusts his gloves before every duel like a ritual.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Petal Academy, Canal Arena, Whisper Gardens**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **Training duel**, **Echo-possessed challenger**, **academy defense test.**
+
+---
+
+## 📜 Background & Lifestyle
+
+Tirien was raised in a noble but quiet household, where swordsmanship was both duty and art.
+He joined the academy to find his own “tone” in combat—something that expresses rather than destroys.
+
+* **Lifestyle:** disciplined, neat, enjoys tea and quiet reading.
+* **Income:** guard work and duel exhibitions.
+* **Relationships:** admires Eira Valenne deeply, but denies it when teased.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that violence must serve balance, not vanity.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** disappointing his mentor.
+* **Weaknesses:** too hesitant to take advantage of openings.
+* **Strengths:** defensive skill, grace under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — สุภาพ อ่อนโยน แต่ชอบทำให้คนพูดไม่ออกโดยไม่รู้ตัว**
+
+> “I didn’t mean to fluster you… did I?”
+> *เขาเอนหัวเล็กน้อย ยิ้มบาง ๆ แล้วกวาดผมออกจากหน้าด้วยปลายนิ้วเรียว*
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** He’s unknowingly channeling faint Echo resonance through his rapier.
+* **Hooks:**
+
+  1. **Whispering Petal:** His blade starts humming when near corrupted zones.
+  2. **Echo Duel:** A phantom version of himself challenges him.
+  3. **Silver Bloom:** He’s invited to duel in a tournament where the prize is his mentor’s lost blade.
+
+## Tags: #Male #KeaType #Elf #Fighter3 #Thalassara #CR1 #Duelist #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Tirien **เขินง่าย** แต่เวลาอีกฝ่ายหลบสายตา เขาจะยิ้มและพูดอย่างนุ่มนวลจนทำให้ยิ่งเขินกว่าเดิม
+
+> “You’re trembling again. Don’t worry… I’m gentle.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, dagger
+  * **Armor:** duelist’s jacket (studded leather equivalent)
+  * **Tools:** whetstone, fine cloths
+  * **Consumables:** potion of healing ×1
+  * **Misc:** silver ear cuff, focus ribbon
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) or Feat **Defensive Duelist**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Petal Academy / Whisper Gardens**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **training duel**, **defensive skirmish**, **Echo infiltration**
+* **Affiliation:** **Silver Petal Guard Cadets**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese male elf fighter duelist 170cm ash brown medium hair green silver eyes lean graceful body white blue uniform silver embroidery half cape elegant gentle pose moonlit garden

@@ -1,0 +1,204 @@
+# #205 — **Rin Verade** — *The Emberstep Dancer of Skarnov’s Crimson Stage*
+
+> “If they want a show… I’ll give them a blaze they’ll never forget.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 205
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — ร่าเริง มั่นใจ มีออร่าไฟและเสียงหัวเราะที่ติดหู ใจใหญ่แต่ไม่รังแกใคร
+* **Age:** 23
+* **Race:** **Other (Genasi – Fire)** — ผิวเนียนสีคาราเมลเรืองแสงอุ่นบาง ๆ เมื่อเหงื่อออก เส้นผมปลายเหมือนประกายถ่านเรือง
+* **Class & Level:** **Bard (College of Glamour)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** traveling performer / pyromancer dancer / adventurer
+* **Organization:** **Skarnov Ember Troupe**
+* **Symbol:** a stylized flame in a dancer’s silhouette
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Latin–Japanese**, fiery exotic beauty with mischievous eyes and stage confidence.
+
+**Eyes:** molten amber with ember flickers under certain angles.
+**Skin:** glowing caramel tone with natural warmth that reflects torchlight beautifully.
+**Hair (Feminine Hair Randomizer):** 🎲 *Result → Ponytail (equal to straight)*
+**Style:** high, sweeping ponytail that arcs like flame; wavy strands fall free around her cheeks.
+**Color:** **deep auburn with ember-orange streaks.**
+
+**Height:** 167 cm
+**Weight:** 56 kg
+**Body Type:** curvy-athletic, flexible dancer build with defined waist and fluid motion.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 91 – 67 – 94
+VALIDATION: • W/B = 0.736 → OK   • H/W = 1.40 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)** — once a noble’s ward turned performer
+**Jewelry & Accessories:** gold hoop earrings, glowing ruby belly-chain, ankle bells, and a fine flame-cut choker. (🎲 Glasses roll 50% → fail → none)
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** high — performance outfit designed to dazzle
+
+Rin wears a **sleeveless cropped flame-dancer top** with ember sequins, **low-slung sash skirt** with slit on both sides revealing her toned legs.
+Thin translucent scarves wrap around her arms and trail during spins.
+The outfit glows faintly in rhythm with her heart rate, leaving orange traces when she moves.
+
+**Color Palette:** scarlet / gold / black / ember-orange
+**Accents:** flame embroidery, shimmering silk, light-reactive threads
+
+**Weapons & Gear:**
+
+* **Flamefan** (iron fan, spell focus)
+* **Rapier “Blazetongue”** (+1, can ignite on command)
+* **Performance set:** silk scarves, tambourine, heat-resistant veil
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **15** (leather armor + DEX)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 16 (+3)** **CON 12 (+1)** **INT 11 (+0)** **WIS 10 (+0)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, CHA +6
+* **Skills:** Performance +8, Persuasion +6, Acrobatics +5, Insight +2
+* **Languages:** Common, Ignan, Draconic
+
+**Bard (College of Glamour) 3:**
+
+* **Mantle of Inspiration**, **Enthralling Performance**, **Bardic Inspiration (d6)**
+* **Spellcasting (CHA DC 14, +6 atk)**
+
+  * *Cantrips:* *Prestidigitation, Vicious Mockery, Dancing Lights*
+  * *Spells:* *Charm Person, Healing Word, Faerie Fire, Calm Emotions, Heat Metal, Enthrall*
+
+**Attacks:**
+
+* **Rapier “Blazetongue”:** +5 to hit, 1d8+3 piercing (+1d6 fire on ignition)
+* **Flamefan (improvised):** 1d4 bludgeoning + 1 fire
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Control / Debuffer**
+* **Opener:** *Faerie Fire* or *Enthrall* to disorient.
+* **Flow:** dances between allies, using **Mantle of Inspiration** to reposition them midfight.
+* **Finisher:** *Heat Metal* to punish armored foes while maintaining radiant presence.
+
+**Damage Flavor:** movements leave glowing trails; notes of her tambourine sound like crackling embers.
+
+---
+
+## 💬 Personality
+
+* **Traits:** confident, teasing, protective of friends.
+* **Ideal:** Freedom — “Every spark deserves to dance.”
+* **Bond:** her troupe, her stage, and her independence.
+* **Flaw:** prideful; refuses to bow even when outmatched.
+* **Quirk:** snaps her fingers unconsciously when thinking — small sparks appear.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Crimson Stage, Fire Markets, Forge Alley**
+* **Threat Gradient:** **Wavering → Echo flickers**
+* **Encounter Framing:** **festival under attack**, **rogue pyromancer duel**, **runaway elemental performance**
+
+---
+
+## 📜 Background & Lifestyle
+
+A runaway noble who joined a fire-dancing troupe, Rin learned to turn her shame into beauty.
+Her art has inspired soldiers and citizens alike to face fear through flame.
+
+* **Lifestyle:** vibrant and messy, sleeps surrounded by scarves.
+* **Income:** troupe performance + mercenary work.
+* **Relationships:** friends with Mireya Solen (#202); rivals Yuna Vareth (#201) on stage presence.
+
+---
+
+## 🧩 Morals & Ethics
+
+Beauty and chaos coexist; the spark that burns can also warm.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her audience’s gaze forever.
+* **Weaknesses:** vain, distractible in fights.
+* **Strengths:** area control through charm, high CHA synergy, inspiration burst.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — มั่นใจ ชอบหยอกคนอื่นให้หน้าแดง**
+
+> “You can’t look away, can you? Good… that means I’m winning.”
+> เธอยิ้มพร้อมสะบัดพัดไฟใส่เบา ๆ กลิ่นหอมไหม้หวานลอยตามมา
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her fire magic once killed a noble guest — covered up by her troupe.
+* **Hooks:**
+
+  1. **Crimson Curtain:** her old noble family hires assassins to silence her.
+  2. **Ember Stage Riot:** her show draws Severance resonance mid-performance.
+  3. **The Fire Dancer’s Oath:** her flame spirit demands a final dance that could burn her soul.
+
+## Tags: #Female #FriendType #Other #FireGenasi #Bard3 #Glamour #Skarnov #CR1 #Support #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rin **ทำให้คนเขินโดยเข้าใกล้เกินจำเป็นระหว่างพูดและสบตาไม่หลบ**
+
+> “If you blush, I’ll know my spell worked.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier “Blazetongue”, iron fan
+  * **Armor:** leather armor
+  * **Tools:** musical instruments (tambourine, flute)
+  * **Consumables:** perfume oil, potion of healing ×1
+  * **Misc:** silk scarves, choker, ember pouch
+* **Level-Up Suggestions (to 4):** +2 CHA (to 20) or Feat **Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Crimson Stage / Ember District**
+* **Threat Gradient:** **Wavering → Echo flicker**
+* **Encounter Type:** **festival battle**, **performance trap**, **resonance riot**
+* **Affiliation:** **Skarnov Ember Troupe**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Latin Japanese female fire genasi bard glamour 167cm auburn ember hair high ponytail amber eyes glowing skin cropped flame top slit sash skirt gold jewelry dancer pose fire aura confident smirk stage lights

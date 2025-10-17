@@ -1,0 +1,192 @@
+# #174 — **Rei Takashiro** — *The Thunderleaf Duelist of Valeronnes*
+
+> “A blade should move like lightning—seen only when it’s too late.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 174
+* **Gender (weighted random):** **Male (Type: เมะ)** — สุภาพภายนอกแต่มีออร่าเยือกเย็นแบบนักสู้ตัวจริง พูดน้อยแต่คม รอยยิ้มแผ่ว ๆ ที่ทั้งอบอุ่นและน่ากลัวในเวลาเดียวกัน
+* **Age:** 26
+* **Race:** **Human (Valeronnes Lineage)** — ผิวขาวอมเหลือง ดวงตาเฉียบขาดและทรงพลัง ผมยุ่งเล็กน้อยราวกับเพิ่งลงจากสนามซ้อม
+* **Class & Level:** **Fighter (Samurai)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** นักดวลมืออาชีพ / อาจารย์สอนดาบในสถาบันวาโลรอนเนส
+* **Rank / Position:** **Sword Tutor of the Thunderleaf Hall**
+* **Organization:** **Valeronnes Duelist’s Guild**
+* **Symbol:** ดาบฟ้าผ่าทะลุใบไม้
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean**, stoic and sharp-edged beauty with refined posture.
+
+**Eyes:** hazel-brown with thin golden rings.
+**Skin:** pale with a faint olive undertone.
+
+**Hair (Masculine Hair Randomizer v2.8):** 🎲 *Result: Medium length — tied half-up ponytail*
+**Style:** neat **half-ponytail**, stray locks framing face; **texture:** smooth, straight; **color:** **jet black with storm-blue sheen**.
+**Height:** 180 cm
+**Weight:** 70 kg
+**Body Build:** **Lean athletic**, defined muscles but not bulky.
+
+**Jewelry & Accessories (30% glasses roll → no glasses):**
+Silver **ear cuff** in the shape of a lightning bolt, **dark leather bracelet**, **simple katana cord** tied around left wrist.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Traditional duelist attire (minimal exposure)*
+
+Rei wears a **dark indigo duelist’s coat** with silver lining and long split tails for movement.
+Underneath, a **fitted martial vest** of black silk shows his toned form subtly.
+He keeps his **katana** sheathed in a storm-gray saya engraved with lightning motifs.
+
+**Color Palette:** navy / silver / black / deep blue
+**Accents:** calm elegance, focused tension
+
+**Loadout:** katana (*Stormleaf*), short wakizashi, duelist’s badge, tea flask.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **29 HP**
+* **AC:** **17** (breastplate + DEX)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 16 (+3)** **CON 14 (+2)** **INT 11 (+0)** **WIS 13 (+1)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +4, CON +4
+* **Skills:** Athletics +4, Insight +3, Persuasion +4, Acrobatics +5, History +2
+* **Languages:** Common, Elvish, Valeronnes Duelist’s Code
+
+**Fighter (Samurai) 3:**
+
+* **Fighting Spirit (3/long rest):** Advantage on attacks + temp HP 5.
+* **Second Wind, Action Surge**
+* **Weapon Mastery:** Parry stance, versatile with katana (flavored longsword).
+
+**Attacks:**
+
+* **Katana (Stormleaf):** +5 to hit, 1d8+3 slashing (versatile 1d10+3).
+* **Wakizashi:** +5 to hit, 1d6+3 slashing (off-hand).
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline duelist / Counter-attacker**
+* **Opener:** *Fighting Spirit* + *Precision strike*, aims to end duels in two turns.
+* **Flow:** Focuses on anticipation — parries then punishes.
+* **Finisher:** *Action Surge* + *Iaijutsu combo* — two slashes faster than the eye can follow.
+
+**Damage Flavor:** blue lightning arcs along his blade when concentration peaks.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Calm, disciplined, dry humor.
+* **Ideal:** Self-mastery — “Victory means knowing your limit and breaking it cleanly.”
+* **Bond:** Protects the Duelist’s Guild students fiercely.
+* **Flaw:** Bottles emotions; rarely trusts others with his true thoughts.
+* **Quirk:** Drinks tea after every fight, regardless of how bloody.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Thunderleaf Hall, Duelist Arenas**
+* **Threat Gradient:** **Stable → Wavering (resonant blade storms)**
+* **Encounter Framing:** **Formal duel**, **Assassination attempt**, **Defense of the academy**
+
+---
+
+## 📜 Background & Lifestyle
+
+A prodigy of Valeronnes who once studied under the same master as Kaorin’s mentor.
+Rumor says he defeated three duelists at once with a single lightning stroke.
+
+* **Lifestyle:** early riser, meditates at dawn.
+* **Income:** guild salary + honor duels.
+* **Relationships:** mentor figure to Kaorin Mitsuye; occasional sparring partner for Lyra Thalassara.
+
+---
+
+## 🧩 Morals & Ethics
+
+“Order gives power to motion. Without it, the blade trembles.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control in a duel — betraying the precision he lives for.
+* **Weaknesses:** emotionally distant, refuses to ask for help.
+* **Strengths:** poise, tactical awareness, and lightning-speed reflexes.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — สุภาพ อบอุ่น แต่มีแรงกดดันในน้ำเสียง**
+
+> “You’re trembling. Relax—this is just practice… unless you want it to be real.”
+> พูดพร้อมรอยยิ้มบาง ๆ และจับมือคู่ซ้อมจัดท่าให้ถูก
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** The sword *Stormleaf* is bound to a fragment of Severance lightning — every use strains his soul.
+* **Hooks:**
+
+  1. **Duel of Silence:** Rei challenges the party after sensing Severance resonance in their gear.
+  2. **Storm Unbound:** His blade loses control mid-battle, turning the sky electric.
+  3. **The Fallen Master:** His old teacher returns — corrupted by Echo energy.
+
+## Tags: #Male #Semetype #Human #Fighter3 #Samurai #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rei **ไม่ค่อยแสดงออก แต่ชอบเขินเวลาโดนชมแบบตรงๆ**
+
+> “You shouldn’t flatter your teacher… unless you’re ready for extra training.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** katana (Stormleaf), wakizashi
+  * **Armor:** duelist’s coat (breastplate)
+  * **Tools:** whetstone, tea set
+  * **Consumables:** potion of healing ×1
+  * **Misc:** lightning earring, duel badge, sash cord
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 18) *or* **Dueling Mastery**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Thunderleaf Hall / Arena Grounds**
+* **Threat Gradient:** **Stable → Wavering (resonant lightning)**
+* **Encounter Type:** **Formal Duel**, **Defense Mission**, **Lightning Trial**
+* **Affiliation:** **Valeronnes Duelist’s Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean male human fighter samurai 180cm medium straight black hair blue sheen half ponytail hazel eyes lean athletic body, navy duelist coat silver trim katana in hand, calm stoic expression, storm arena background

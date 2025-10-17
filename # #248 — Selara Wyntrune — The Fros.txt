@@ -1,0 +1,207 @@
+# #248 — **Selara Wyntrune** — *The Frostveil Engineer of Azure Bastion*
+
+> “Miracles are just machines that haven’t exploded yet.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 248
+* **Gender:** **Female (Type: รุ่นพี่)** — สุขุมและเฉียบคม พูดน้อยแต่มีน้ำเสียงนุ่มลึก ปลอบใจได้แต่ดุได้ถ้าจำเป็น
+* **Age:** 29
+* **Race:** **Half-Beast (Mammal — Wolfkin)** — มนุษย์ ~85% มีหูหมาป่าขนาดเล็กซ่อนในผม และหางขนสีเทาเงินยาวนุ่มถึงข้อเท้า
+* **Class & Level:** **Artificer (Battle Smith)** 3 — **Total 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** combat engineer / tactical repairer / automaton handler
+* **Organization:** **Valeronnes — Azure Bastion Engineering Corps**
+* **Symbol:** เฟืองเหล็กซ้อนโล่ มีลายหิมะปักกลาง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Russian**, sleek elegance with commanding eyes and frosted beauty.
+
+**Eyes:** icy blue with faint silver circuitry veins near the iris.
+**Skin:** fair-cool tone, faint pink blush under frostlight.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Straight (top-weight)**
+**Style:** **medium-length straight**, side-swept with a single **metal clasp braid** running down the right temple.
+**Color:** **platinum silver** with a **pale blue sheen**.
+
+**Height:** 174 cm
+**Weight:** 60 kg
+**Body Type:** tall and fit — athletic upper body, lean waist, long legs with perfect poise.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 100 – 68 – 104
+VALIDATION: • W/B = 0.68 → OK   • H/W = 1.53 → OK
+```
+
+**Theme Layer:** **None (Engineer tone)**
+**Glasses Roll (40%) → success:** **silver frameless engineering lenses** with small targeting glyphs.
+**Jewelry & Accessories:** chain earring cuff, small silver circuit choker, and a rune-core anklet.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium exposure — open-chest engineer jacket + reinforced leggings**
+
+Selara wears a **fitted engineer’s jacket** of **frost-blue leather**, cropped at the ribs and left **open at the chest** to a reinforced undersuit with metallic threading.
+**Utility belts** carry crystal tools, ammo canisters, and vials of frost-oil.
+Her **leggings** are **black reinforced mesh** with silver seam plating at the thighs, leaving a glimpse of midriff when she leans forward.
+A **frosted visor** slots over her eyes during combat; her metal wolf companion often mirrors her motion.
+
+**Palette:** frost blue / silver / black / pale cyan
+**Accents:** runic seams, chrome buckles, tiny aurora flickers along edges
+
+**Weapons & Gear:** repeating light crossbow, shortsword, *Arcane Steel Defender (wolf automaton)*, multi-tool gauntlet.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **18** (scale mail + DEX + infusion + shield)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 14 (+2)** **CON 14 (+2)** **INT 17 (+3)** **WIS 10 (+0)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Arcana +5, Investigation +5, Perception +2, Animal Handling +2
+* **Languages:** Common, Celestial, Infernal, Valeronian
+
+**Artificer 3 — Battle Smith**
+
+* **Battle Ready:** INT for attack/damage with magic weapons.
+* **Steel Defender (construct companion)**
+
+  * AC 15 + PB = 17
+  * HP 2×Artificer Lvl + INT = 9
+  * *Force-Empowered Rend:* +5 to hit, 1d8+3 force
+  * *Deflect Attack* reaction to impose disadvantage on enemy attack.
+* **Infusions (2):** *Enhanced Weapon*, *Repeating Shot*
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mending, Guidance, Booming Blade*
+  * *1st:* *Cure Wounds, Heroism, Shield of Faith*
+  * *2nd:* *Heat Metal, Warding Bond*
+
+---
+
+## 🎯 Combat Tactics (Support / Hybrid Frontline)
+
+* **Role:** **Tactical Support / Defensive Buffer / Repair Medic**
+* **Opener:** *Warding Bond* on ally or Steel Defender → *Heroism* → engage.
+* **Flow:** Uses Defender to guard backline; fires with *Repeating Crossbow* enhanced by INT.
+* **Finisher:** *Heat Metal* on enemy armor → close in with *Booming Blade* through Defender flank.
+* **Synergy:** *Cure Wounds* restores constructs as well; toggles mechanical aid mid-combat.
+
+**Flavor:** her shots leave behind silver frost rings; when she casts, tiny gears spin in her irises.
+
+---
+
+## 💬 Personality
+
+* **Traits:** calm, pragmatic, and faintly teasing when others panic.
+* **Ideal:** Precision — “Measure twice. Defend once.”
+* **Bond:** her Steel Defender “Luno,” named after her late mentor’s wolf.
+* **Flaw:** emotionally avoids warmth — fears connection equals distraction.
+* **Quirk:** tightens gloves before speaking when nervous.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Azure Bastion, Frostgate Armory, Crystal Foundries**
+* **Threat Gradient:** **Stable → Wavering (war frontlines)**
+* **Encounter Framing:** **siege defense**, **rescue escort**, **machine containment**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to frostsmiths, Selara rebuilt her first automaton from scraps of a collapsed bastion.
+She now maintains the border guard’s machines — both steel and flesh.
+
+* **Lifestyle:** lives in a cold apartment filled with quiet hums of gears.
+* **Income:** military engineer retainer + hazard repair bonuses.
+* **Relationships:** regular collaborator with Nara Veylin (#247); frequent repairer for Azure Aegis weapons.
+
+---
+
+## 🧩 Morals & Ethics
+
+Machines can be rebuilt — people can only be repaired if someone stays to hold the parts together.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** watching a teammate die while she’s recalibrating.
+* **Weaknesses:** tends to overanalyze mid-battle.
+* **Strengths:** durable defense, reliable healing, tactical adaptability.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — เยือกเย็นแต่ทำให้ใจเต้นด้วยสายตาและน้ำเสียงนิ่งเกินจำเป็น**
+
+> “Don’t move. The last time someone ignored me, they lost an eyebrow.”
+> (เธอก้มเข้ามาใกล้ ปรับเกราะให้คุณเองอย่างใจเย็น ความร้อนจากลมหายใจแตะข้างแก้ม)
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her Steel Defender is partially powered by an Echo shard — it dreams when idle.
+* **Hooks:**
+
+  1. **Frozen Directive:** her Defender disobeys one order — “Don’t attack humans.”
+  2. **Heart of Froststeel:** she’s ordered to dismantle an ancient construct that might still think.
+  3. **The Second Voice:** during battle, her automaton whispers strategies she never programmed.
+
+## Tags: #Female #SeniorType #HalfBeast #Wolfkin #Artificer3 #BattleSmith #Support #Hybrid #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Selara **ทำให้เขินด้วยการโน้มหน้าเข้ามาใกล้เกินระยะปลอดภัยเวลาซ่อมชุดเกราะ**
+
+> “If you flinch, I’ll call it a calibration error.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** repeating crossbow, shortsword
+  * **Armor:** scale mail
+  * **Tools:** tinkerer’s tools, smith’s tools
+  * **Consumables:** repair oil ×2, potion of healing ×1
+  * **Misc:** silver lenses, frostcore choker, wolf automaton “Luno”
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: War Caster / Skilled**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Azure Bastion / Frostgate Armory**
+* **Threat Gradient:** **Wavering (siege conditions)**
+* **Encounter Type:** **machine defense**, **ally reinforcement**, **Echo containment breach**
+* **Affiliation:** **Azure Bastion Engineering Corps**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Russian female wolfkin half-beast artificer battle smith 174cm medium straight platinum silver hair pale blue sheen icy blue eyes fair skin F-cup open-chest frost-blue engineer jacket black reinforced leggings silver glasses wolf automaton frost aura calm senior vibe support hybrid technician

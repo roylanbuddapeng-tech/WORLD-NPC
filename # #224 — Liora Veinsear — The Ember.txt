@@ -1,0 +1,203 @@
+# #224 — **Liora Veinsear** — *The Emberglass Witch of the Shattered Kiln*
+
+> “Fire remembers everything it touches — that’s why it never really dies.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 224
+* **Gender:** **Female (Type: ทอมบอย ประเภทที่ 2 — กล้ามเนื้อเล็กน้อย ดูแข็งแรง ห้าวแต่น่ามอง)**
+* **Age:** 26
+* **Race:** **Half-Beast (Mammal subtype — Foxkin)** — มนุษย์ประมาณ 85% มีหูสุนัขจิ้งจอกและหางฟูสีแดงทอง ผิวอุ่นเปล่งประกายเหมือนเปลวไฟสะท้อนทองแดง
+* **Class & Level:** **Warlock (The Genie — Efreeti)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** forge-mage / arcane blacksmith / relic hunter
+* **Organization:** **Skarnov Flamewrights Guild**
+* **Symbol:** glowing red sigil of a flame trapped in a ring
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–Arabic**, desert-forged beauty with athletic grace and fiery aura.
+
+**Eyes:** bright amber with faint ember motes swirling within.
+**Skin:** golden-tan with faint molten lines running down her arms (flare tattoos that glow when she casts).
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail (high weight)**
+**Style:** **medium high ponytail**, layered and wavy with a few rebellious strands sticking out.
+**Color:** **burnished copper-red with darker root gradient.**
+
+**Height:** 170 cm
+**Weight:** 60 kg
+**Body Type:** athletic hourglass; toned shoulders, defined abdomen, strong thighs.
+
+**FEMALE BODY METRICS (Tom Boy Type 2)**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 66 – 93
+VALIDATION: • W/B = 0.75 → OK   • H/W = 1.41 → OK
+```
+
+**Theme Layer:** **None (30%)**
+**Glasses Roll:** fail (no glasses).
+**Jewelry & Accessories:** obsidian forge-band on left arm, a choker made of hammered bronze links, single earring shaped like a drop of molten glass.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — functional heat-resilient, slightly revealing for mobility
+
+Liora’s outfit is a **blackened forge corset-top** reinforced with fire-resistant leather and glowing thread seams, leaving her **arms bare** to show runic burns.
+She wears **high-waisted red trousers** tucked into **metal-toed boots**, with a **half-cloak** over one shoulder that’s half-singed from past work.
+Her outfit is more “battle-ready blacksmith” than classic mage — but the flame motifs burn elegant.
+
+**Color Palette:** ember red / bronze / black / gold
+**Accents:** glowing seams, smoke sheen, molten edge aesthetic
+
+**Weapons & Gear:**
+
+* **Flamebrand Dagger**, **Infernal Gauntlet (arcane focus)**, **portable forge sigil**, **heatproof satchel**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (leather + DEX + magic)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 16 (+3)** **CON 14 (+2)** **INT 10 (+0)** **WIS 11 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CHA +5, WIS +2
+* **Skills:** Arcana +2, Intimidation +5, Smith’s Tools +5, Acrobatics +5
+* **Languages:** Common, Ignan, Infernal
+
+**Warlock 3 — The Genie (Efreeti Patron)**
+
+* **Expanded Spells:** *Burning Hands, Aganazzar’s Scorcher, Flaming Sphere*
+* **Genie’s Vessel (Bracer):** minor refuge & spell storage
+* **Genie’s Wrath:** +3 fire damage per hit
+* **Pact Boon:** Pact of the Blade — her **gauntlet** becomes a bonded weapon.
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Cantrips:* *Fire Bolt, Mage Hand, Green-Flame Blade*
+  * *1st:* *Hex, Burning Hands*
+  * *2nd:* *Scorching Ray, Mirror Image*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mid-range Blaster / Hybrid Melee Caster**
+* **Opener:** *Hex* → *Scorching Ray* or *Green-Flame Blade* on first contact.
+* **Flow:** leap in and out of melee, channeling fire through blade strikes.
+* **Finisher:** *Aganazzar’s Scorcher* while spinning her gauntlet to fan the flame in a spiral cone.
+
+**Damage Flavor:** fire trails form in elegant circles; each strike leaves molten runes briefly glowing on surfaces.
+
+---
+
+## 💬 Personality
+
+* **Traits:** fiery confidence, loyal to the bone, grins in the face of chaos.
+* **Ideal:** Passion — “Creation without fire is just cold ash.”
+* **Bond:** her custom forge and the guildmates who saved her from a mine collapse.
+* **Flaw:** reckless in danger; treats every duel like a test of pride.
+* **Quirk:** bites her glove strap when thinking — habit from her forging days.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Forge Plateau, Emberglass Kilns, Lava Ravines**
+* **Threat Gradient:** **Wavering → Deep Echo (volcanic resonance)**
+* **Encounter Framing:** **forge defense**, **artifact retrieval**, **molten duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a metalsmith’s apprentice, she struck a pact with an Efreet who admired her stubborn spirit.
+Her forges now run half by hand, half by magic, and the line between creation and destruction blurs beautifully.
+
+* **Lifestyle:** workshop-home, smells of smoke and jasmine oil.
+* **Income:** artifact crafting commissions, magical weapon reforging.
+* **Relationships:** sparring friend to Kaela (#218); supplier for Thalassaran scouts.
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes fire is divine — not because it destroys, but because it *changes* what it touches.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** cold places or silence — reminds her of death.
+* **Weaknesses:** emotional impulse, easily provoked.
+* **Strengths:** resilience, creation magic, fearless presence.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**ทอมบอย tone — ยิ้มเก่ง ขี้แซว ร่างกายลุยแต่สายตาอบอุ่น**
+
+> “Heh, you’re sweating already? That’s just my warm-up.”
+> เธอพูดพร้อมปัดเหงื่อจากคางคุณก่อนหัวเราะเบา ๆ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her Efreet patron’s ember is literally *forged into her heart* — killing her could unleash an infernal storm.
+* **Hooks:**
+
+  1. **Heart of the Kiln:** rival mages try to steal her inner ember as a forge catalyst.
+  2. **Ash Pact:** her Efreet reappears demanding she reforge a weapon of war.
+  3. **Burning Silence:** a mine vent opens to a Severance rift that swallows sound and flame alike.
+
+## Tags: #Female #Tomboy #HalfBeast #Foxkin #Warlock3 #Efreeti #Skarnov #CR1 #HybridCaster #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Liora **ชอบทำให้คนเขินด้วยการยืนใกล้เกินไปตอนพูด หรือตบหลังแรง ๆ จนอีกฝ่ายหน้าแดง**
+
+> “C’mon, don’t flinch. I hit harder when I’m serious.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** Flamebrand dagger, gauntlet (pact weapon)
+  * **Armor:** enchanted leather corset
+  * **Tools:** smith’s kit, forge sigil
+  * **Consumables:** fireproof oil ×2, potion of fire resistance ×1
+  * **Misc:** bronze choker, ember vial, obsidian ring
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 19)** or **Feat: Elemental Adept (Fire)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Emberglass Kiln / Lava Ravine**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **artifact forge mission**, **lava bridge fight**, **infernal pact trial**
+* **Affiliation:** **Flamewrights Guild of Skarnov**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese Arabic female foxkin half-beast warlock efreeti 170cm copper-red ponytail amber eyes tan skin athletic body C-cup forge corset red pants molten glow tattoos tomboy confident grin lava forge background

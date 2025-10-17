@@ -1,0 +1,197 @@
+# #189 — **Ryn Thaviel** — *The Iron Pulse of Skarnov*
+
+> “You don’t stop a hammer; you dance with its rhythm.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 189
+* **Gender (weighted random):** **Male (Type: เมะ)** — นิ่งขรึม แต่เวลาแสดงพลังเหมือนภูเขาที่ระเบิดได้ทุกเมื่อ
+* **Age:** 29
+* **Race:** **Human (Skarnov Lineage)** — ผิวเข้มราวเหล็กอุ่น ดวงตาสีเทาเงินมีประกายไฟสะท้อนภายใน
+* **Class & Level:** **Barbarian (Path of the Berserker)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** ช่างเหล็กเดินทาง / นักผจญภัยรับจ้าง
+* **Rank / Position:** **Wandering Ironhand**
+* **Organization:** **Skarnov Forgeguard – Freelance Branch**
+* **Symbol:** หมัดโลหะกำลังแตกประกายไฟ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Greek–Arabic**, rugged, grounded masculinity.
+
+**Eyes:** steel-gray, burn bright orange in rage.
+**Skin:** bronze with soot undertones, burn marks faintly visible across arms.
+**Hair (Masculine Hair Randomizer):** 🎲 *Result → Medium (35% chance)*
+**Style:** **medium messy wave**, tied low at the back with a forge-band.
+**Color:** **black with copper streaks.**
+**Height:** 183 cm
+**Weight:** 82 kg
+**Body Build:** **athletic muscular**, broad-shouldered, compact core, thick forearms.
+
+**Accessories (male glasses 30% → 🎲 fail):**
+Wears a **heated iron chain bracelet**, **tooth of a salamander charm**, and **a soot-stained pendant** shaped like an anvil.
+
+---
+
+## 👗 Outfit (in English)
+
+**Style Roll:** 🎲 *Result → functional smith gear, low exposure*
+
+Ryn wears a **dark leather chestguard** with open arms and a **heavy forge apron** cut short at the front for movement.
+His **pants** are thick canvas blackened by soot, tucked into **reinforced boots**.
+The **shoulder straps** are crossed with burn marks; faint runes glow when he rages.
+
+**Color Palette:** charcoal / ember red / brass / steel gray
+**Accents:** raw, honest, powerful
+
+**Weapons:**
+
+* **Great Hammer “Molten Oath”** — engraved with Skarnov runes
+* **Backup:** handaxe and dagger
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d12 + (CON +3)×3 → **39 HP**
+* **AC:** **15** (unarmored + DEX + CON)
+* **Speed:** 40 ft
+* **STR 18 (+4)** **DEX 14 (+2)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Intimidation +2, Survival +3, Perception +3
+* **Languages:** Common, Dwarvish
+
+**Barbarian 3 (Path of the Berserker):**
+
+* **Rage (2/day), Reckless Attack, Danger Sense**
+* **Frenzy (bonus attack while raging)**
+* **Unarmored Defense (AC = 10 + DEX + CON)**
+
+**Attacks:**
+
+* **Molten Oath (Great Hammer):** +6 to hit, 2d6+4 bludgeoning (+2 Rage dmg)
+* **Frenzy Strike (bonus):** +6 to hit, 1d6+4
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Bruiser / Crowd Breaker**
+* **Opener:** Charges and *Rages* instantly; uses **Reckless Attack** to draw aggro.
+* **Flow:** Smashes enemies into terrain, opens flanks for allies.
+* **Finisher:** **Molten Oath overhead smash** — sends sparks and flame shards outward (flavor).
+
+**Damage Flavor:** hammer hits crack stone; glowing sparks trail across impact lines.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Stoic but kind-hearted; speaks little but smiles easily.
+* **Ideal:** Freedom — “Chains are meant to be reforged.”
+* **Bond:** Travels to forge a weapon worthy of his ancestor’s legacy.
+* **Flaw:** Forgets to stop fighting even after the threat’s gone.
+* **Quirk:** Counts hammer swings aloud when thinking deeply.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Ember Crossroads, Iron Anvil Tavern, Burning Hall**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Framing:** **Forge defense mission**, **bandit ambush**, **Echo corruption in molten vents.**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born in the heat of the Skarnov forges, Ryn refused to settle in one workshop.
+He believes every journey tempers his soul — and his hammer.
+Has helped rebuild villages using his smithing skills after battles.
+
+* **Lifestyle:** rugged but clean; meditates near fires at night.
+* **Income:** sells weapons, joins expeditions, and takes dueling commissions.
+* **Relationships:** Kaenra Myrr calls him “grumpy big brother”; he just smirks.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that destruction and creation share the same heartbeat — the forge’s pulse.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing himself completely to rage.
+* **Weaknesses:** reckless, too willing to take blows for others.
+* **Strengths:** unmatched endurance, unstoppable once roused.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — ขรึมแต่มีพลังดึงดูดแบบคนจริง**
+
+> “If you want to see strength, grab the hammer. If it burns, you’re not ready.”
+> *พูดพลางจับมืออีกฝ่ายประคองด้ามค้อนจนร้อนแดง* “You’ll get there.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** His hammer’s core contains fragments of Severance-forged steel.
+* **Hooks:**
+
+  1. **Heart of the Forge:** The hammer begins to pulse when Echo energy rises nearby.
+  2. **Chains of Fire:** A rival smith seeks to corrupt his weapon for power.
+  3. **Anvil’s Echo:** The Forgeguard asks him to join a ritual to purify Skarnov’s flames.
+
+## Tags: #Male #MemeType #Human #Barbarian3 #Berserker #Skarnov #CR1 #Frontliner #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ryn **ไม่ถนัดแสดงอารมณ์ แต่จะช่วยโดยการกระทำเสมอ**
+
+> “You talk too much. Here, hold this plate—don’t drop it.”
+> *หันกลับไปหลอมเหล็กเหมือนไม่มีอะไรเกิดขึ้น แต่ยิ้มมุมปากเล็กน้อย*
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** great hammer, handaxe
+  * **Armor:** none (unarmored defense)
+  * **Tools:** smith’s tools
+  * **Consumables:** potion of healing ×1
+  * **Misc:** salamander charm, forge band
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 20) *or* **Great Weapon Master**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Iron Anvil Tavern / Ember Crossroads**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **Siege hold**, **village defense**, **Echo corruption event**
+* **Affiliation:** **Skarnov Forgeguard (Freelancer)**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Greek Arabic male human barbarian berserker 183cm muscular bronze skin gray eyes medium wavy black hair copper streaks great hammer forge sparks leather apron soot rugged aura standing near molten forge

@@ -1,0 +1,209 @@
+# #175 — **Meilin Aster** — *The Star-Pane Archivist of Valeronnes*
+
+> “Patterns aren’t answers. They’re invitations.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 175
+* **Gender (weighted random):** **Female (Type: รุ่นเพื่อน + Nerd Theme / Rich-kid scholar)** — ฉลาดกริบ พูดตรง สุภาพ มีออร่าลูกคุณหนูนักวิชาการที่ทำให้คนรอบข้างตั้งใจฟัง
+* **Age:** 23
+* **Race:** **Other — Celestborn (Valeronnes Lineage)** — มนุษย์ ~90% มีประกายแสงรูปกลีบดาวจาง ๆ ในนัยน์ตา และไฮไลต์เรืองนิด ๆ ตามโหนกแก้มเมื่อร่ายเวท
+* **Class & Level:** **Druid (Circle of Stars)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** บรรณารักษ์สนาม/นักวิเคราะห์เรโซแนนซ์ท้องฟ้า, นักผจญภัย
+* **Rank / Position:** **Junior Aster Archivist**
+* **Organization:** **Valeronnes Ward & Aegis Circle — Star Annex**
+* **Symbol:** กระจกหกเหลี่ยมซ้อนกลุ่มดาวรูปพิณ
+
+> **Nerd Theme active → ใส่แว่นบังคับ (หญิง)**
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Chinese**, cool honor-student elegance with shy warmth when praised.
+
+**Eyes:** pale sapphire with tiny star-fleck motes.
+**Skin:** porcelain with a cool undertone; a faint astral shimmer across cheekbones under moonlight.
+
+**Hair (Feminine Hair Randomizer v2.8):** **Bun/Twin Bun roll → Single braided high bun (60%)**, with a few face-framing strands. **Texture:** sleek straight. **Color:** **black-ink with midnight-blue sheen**.
+**Height:** 166 cm
+**Weight:** 54 kg
+**Body Type:** **Fit but lightly toned**, dancer’s posture from balance drills.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium-Large
+THREE_SIZES (B-W-H, cm): 92 – 64 – 98
+VALIDATION: • W/B = 0.696 → OK   • H/W = 1.53 → OK
+```
+
+**Jewelry & Accessories (glasses forced by Nerd theme):**
+**Silver round spectacles** with anti-glare runes, **thin star pendant** (focus key), **slim bracelet** etched with constellation ticks, and a **delicate ankle chain** bearing a tiny hexagonal pane charm.
+
+---
+
+## 👗 Outfit (in English)
+
+**Outfit Archetype:** **Elegant / Noblewear (scholar field kit)** — modest, tailored, lab-ready.
+
+Meilin wears a **dove-gray fitted scholar coat** edged with micro-constellation embroidery over a **white high-collar blouse** and **ink-black pleated skirt** with subtle side slits for mobility. **Matte tights** pair with **low-heeled travel boots**.
+A **waist-binder belt** holds star slates and chalk; a **folding wood shield** (non-metal) rides behind a compact satchel.
+
+**Color Palette:** dove gray / white / ink black / pale sapphire glow
+**Accents:** laboratory elegance, stargazer poise
+
+**Loadout:** star map slate (druidic focus), portable astrolabe, wooden shield, field journal.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **16** (leather 11 + DEX + wooden shield)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 16 (+3)** **CON 12 (+1)** **INT 12 (+1)** **WIS 17 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +3, WIS +5
+* **Skills:** Nature +3, Medicine +5, Insight +5, Arcana +3, Perception +5, Investigation +3
+* **Languages:** Common, Druidic, Elvish, Valeronnes Cant
+
+**Druid (Circle of Stars) 3:**
+
+* **Star Map** (free *Guiding Bolt* 1/long rest; use map as focus)
+* **Starry Form (2/short rest):** **Archer**, **Chalice**, **Dragon** aspects
+* **Wild Shape (utility)**
+* **Spellcasting (WIS DC 13, +5 atk):**
+
+  * *Cantrips:* *Guidance, Produce Flame, Thorn Whip*
+  * *1st:* *Cure Wounds, Faerie Fire, Entangle, Absorb Elements*
+  * *2nd:* *Moonbeam, Lesser Restoration*
+
+**Attacks:**
+
+* **Thorn Whip (exotic feel, RAW cantrip):** +5 to hit, **2d6** piercing pull 10 ft (level 5+ scales; here 1d6 → reflavor as starvine; keep RAW 1d6 at L3)
+* **Produce Flame:** +5 to hit, 2d8 fire (as ranged attack)
+* **Quarterstaff (wooden, backup):** +5 to hit (Shillelagh if prepared), 1d6+3 bludgeoning
+
+*(Note: For balance at L3, **Thorn Whip** deals **1d6**, not 2d6 — damage described cinematically but uses RAW dice.)*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Healer/Support Controller**
+* **Opener:** **Archer Form** + *Faerie Fire* for advantage; follow with **Guiding Bolt** (from Star Map) to set up ally burst.
+* **Flow:** Swap to **Chalice Form** during triage — every healing spell splashes extra healing.
+* **Finisher:** **Moonbeam** corrals foes; **Thorn Whip** drags stragglers back through the light.
+
+**Damage Flavor:** pale star-lines snap into hexagonal panes that refract each spell like small constellations.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Analytical, softly teasing when comfortable, caretaking without fuss.
+* **Ideal:** Illumination — “Light should clarify, not blind.”
+* **Bond:** Protects the junior ward-keepers who catalogue night-sky echoes.
+* **Flaw:** Over-explains; loses people in her footnotes.
+* **Quirk:** Taps her spectacles twice to “pin” an idea before speaking.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Prism Archives (Star Annex), Glass Lecture Courts, Nightward Rooftops**
+* **Threat Gradient:** **Stable → Wavering (astral resonance leaks)**
+* **Encounter Framing:** **Rooftop ward calibration**, **Echo skyfall survey**, **Ritual shielding under starlight**
+
+---
+
+## 📜 Background & Lifestyle
+
+Heiress of a minor survey house that mapped star-echoes above Valeronnes.
+She joined the Aegis Circle to turn family astronomy into practical protection.
+
+* **Lifestyle:** tidy studio loft lined with star charts; tea labeled by constellation.
+* **Income:** stipend + hazard pay for night surveys.
+* **Relationships:** research buddy to Ilyana Varelle; debate partner to Cyris D’Velan; swaps field notes with Alen Viremont.
+
+---
+
+## 🧩 Morals & Ethics
+
+Truth is a lens: her duty is to polish it, not bend it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** Misreading a sky pattern and causing harm.
+* **Weaknesses:** Not great in tight melee; trusts math over instinct under stress.
+* **Strengths:** Flexible support via Starry Forms; reliable control and triage.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน + Nerd tone — อ่อนโยน ตรงประเด็น ทำให้เขินด้วยความใส่ใจละเอียด**
+
+> “Stand still. Your aura’s drifting three degrees… there—fixed.”
+> เธอยิ้มบาง ๆ แล้วดันแว่นขึ้น
+> “Try breathing with me. In… two… out… four.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her star map contains a hidden seventh pattern that doesn’t match any known sky — a “silent constellation” that moves.
+* **Hooks:**
+
+  1. **The Silent Hex:** The false constellation begins overwriting ward panes across the city.
+  2. **Moonbeam Ledger:** A thief steals her star slate; the notes predict tonight’s Echo breach.
+  3. **Glassfall:** Shards of star-glass rain over a district; Meilin’s calculus can shut it down mid-storm.
+
+## Tags: #Female #PeerType #NerdTheme #Celestborn #Druid3 #CircleOfStars #Valeronnes #CR1 #Support #Glasses #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Meilin **ทำให้คนอื่นเขินแบบไม่ตั้งใจ** — จับไหล่จัดท่าหายใจ, เว้นระยะใกล้ ๆ ตอนอธิบาย
+
+> “Your heartbeat’s syncing with the Archer aspect. That’s… good. Very good.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff (wood), wooden shield
+  * **Armor:** leather
+  * **Tools:** astrolabe, calligrapher’s kit
+  * **Consumables:** potion of healing ×1, star-ink vial ×1
+  * **Misc:** round spectacles, star pendant, foldable sky chart
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 WIS (to 19) *or* **Healer** / **Resilient (CON)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Nightward Rooftops / Prism Archives**
+* **Threat Gradient:** **Stable → Wavering (astral resonance)**
+* **Encounter Type:** **Ritual shielding**, **Echo skyfall survey**, **Escort under starlight**
+* **Affiliation:** **Ward & Aegis Circle — Star Annex**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Chinese female celestborn druid circle of stars 166cm braided high bun black hair blue sheen, silver round glasses, dove-gray scholar coat white blouse black skirt, star map slate, pale sapphire eyes, rooftop starlight, gentle focused pose

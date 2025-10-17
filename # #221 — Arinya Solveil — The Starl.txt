@@ -1,0 +1,201 @@
+# #221 — **Arinya Solveil** — *The Starlit Savant of Eirath Vale*
+
+> “Magic isn’t learned—it’s remembered. The stars simply remind us.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 221
+* **Gender:** **Female (Type: รุ่นน้อง)** — สดใส ฉลาดแต่ขี้เกรงใจ เป็นคนที่เวลายิ้มแล้วเหมือนแสงดาวแรกของค่ำคืน
+* **Age:** 20
+* **Race:** **Human**
+* **Class & Level:** **Wizard (School of Divination)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** arcane researcher / apprentice astrologer
+* **Organization:** **Eirath Observatory**
+* **Symbol:** a six-pointed star nested within a silver eye
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Japanese**, petite and luminous, with a gentle studious allure.
+
+**Eyes:** soft violet-gray, reflecting starlight as if holding constellations inside.
+**Skin:** pale porcelain with a faint pink hue around her cheeks.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Straight (equal to ponytail weight)**
+**Style:** **long straight hair** with bangs, slightly layered tips.
+**Color:** **silvery lilac**, glowing faintly under moonlight.
+
+**Height:** 158 cm
+**Weight:** 49 kg
+**Body Type:** slender and graceful; delicate silhouette like a porcelain doll.
+
+**FEMALE BODY METRICS (รุ่นน้อง — random allowed)**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 86 – 63 – 90
+VALIDATION: • W/B = 0.732 → OK   • H/W = 1.43 → OK
+```
+
+**Theme Layer:** **Nerd (35%)**
+**Glasses Roll:** automatic success — wears **round silver spectacles** often tilted slightly down her nose when reading.
+**Jewelry & Accessories:** small crescent earring, quartz pendant, rune-inscribed bracelet, observatory emblem pin.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** modest but soft — academic chic
+
+Arinya wears a **layered indigo robe** trimmed with silver thread, its collar loose enough to reveal a white underblouse.
+The **robe belt** carries small pouches of star dust, runestones, and a folded chart.
+Her **skirt** is knee-length with faint constellations embroidered in thread that glows faintly when she channels divination magic.
+When working late, she adds a **wool cardigan** that smells faintly of ink and lavender.
+
+**Color Palette:** indigo / white / silver / pale lilac
+**Accents:** celestial embroidery, scholar’s polish, soft light
+
+**Weapons & Gear:**
+
+* **Quarterstaff**, **spellbook “The Luminous Ledger”**, **arcane focus crystal orb**, **ink set**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **13** (mage armor or light robe + DEX + enchantment bonus)
+* **Speed:** 30 ft
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 10 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +3
+* **Skills:** Arcana +5, Insight +3, History +5, Investigation +5
+* **Languages:** Common, Elvish, Draconic
+
+**Wizard 3 — School of Divination**
+
+* **Portent (2 dice)** — replace rolls with foreseen numbers.
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mage Hand, Light, Ray of Frost, Prestidigitation*
+  * *1st:* *Mage Armor, Detect Magic, Sleep, Shield*
+  * *2nd:* *Augury, Misty Step, Mirror Image*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support / Control Caster**
+* **Opener:** *Mage Armor* pre-battle, observe from midline.
+* **Flow:** manipulate outcomes with *Portent*, *Sleep* early or *Mirror Image* for defense.
+* **Finisher:** *Augury* to predict enemy next move, *Ray of Frost* to lock escape routes.
+
+**Damage Flavor:** frost strikes scatter like tiny constellations of light; her voice carries a ringing echo of starlight.
+
+---
+
+## 💬 Personality
+
+* **Traits:** gentle curiosity, easily flustered when praised.
+* **Ideal:** Knowledge — “The stars don’t lie, even when people do.”
+* **Bond:** her mentor at Eirath Observatory who vanished mid-research.
+* **Flaw:** overthinks and second-guesses herself under pressure.
+* **Quirk:** whispers to her spellbook as if it talks back.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Eirath Vale — The Observatory of Nine Mirrors, Whispering Plateau**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **research expedition**, **vision experiment**, **arcane trial**
+
+---
+
+## 📜 Background & Lifestyle
+
+Raised by astronomers in the Vale, Arinya believes fate can be decoded like a constellation.
+Her youthful fascination makes her both brilliant and reckless, charting magic storms alone at night.
+
+* **Lifestyle:** scholarly simplicity; sleeps surrounded by scrolls and star charts.
+* **Income:** observatory stipend + rare star reading commissions.
+* **Relationships:** student of Professor Maelis (#206); close friend to Mira Thaless (#212).
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes destiny isn’t unchangeable—only *visible.* If you can read it, you can write it back.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** misreading a prophecy that harms those she cares for.
+* **Weaknesses:** low stamina and overuse of Portent visions.
+* **Strengths:** unmatched accuracy, keen foresight, precise casting.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — เขินง่ายแต่พยายามดูตั้งใจตลอดเวลา**
+
+> “P-please don’t look at me like that while I’m chanting... I’ll forget the incantation.”
+> เธอว่าพลางซ่อนหน้าไว้หลังสมุดเวทแต่แอบชำเลืองตาอย่างประหม่า
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** one of her Portent dice is a real fragment of a fallen star—alive, and whispering its own prophecies.
+* **Hooks:**
+
+  1. **Echo of the Starfall:** her fragment calls out to a second piece buried beneath the Vale.
+  2. **The Vanished Mentor:** her teacher’s last vision predicted a rift over Eirath.
+  3. **Starlit Convergence:** an astral phenomenon aligning with the Severance cycle.
+
+## Tags: #Female #JuniorType #Human #Wizard3 #Divination #EirathVale #CR1 #SupportCaster #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Arinya **ชอบทำให้คนอื่นเขินแบบไม่ตั้งใจ เช่น หันไปเจอคุณกำลังมองแล้วหน้าแดงจัด รีบก้มเขียนสมการแก้เขิน**
+
+> “A-ah, um, the pattern says... y-you’re standing too close!”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff
+  * **Armor:** mage robe
+  * **Tools:** spellbook, ink set, telescope lens
+  * **Consumables:** potion of mind clarity ×1
+  * **Misc:** silver spectacles, stardust vial
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Keen Mind / Alert**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Eirath Vale / Nine Mirrors Observatory / Astral Plateau**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **research expedition**, **prophecy trial**, **cosmic vision anomaly**
+* **Affiliation:** **Eirath Observatory**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Japanese female human wizard divination 158cm long straight silver lilac hair violet-gray eyes fair skin slender C-cup scholar robe indigo silver embroidery round glasses starlight glow shy apprentice

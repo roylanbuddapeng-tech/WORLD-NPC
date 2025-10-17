@@ -1,0 +1,205 @@
+# #234 — **Mariel Crestveil** — *The Healer of Thousand Laments*
+
+> “A scar is proof that you kept fighting. I’ll make sure you can keep going.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 234
+* **Gender:** **Female (Type: รุ่นพี่)** — สุภาพ อ่อนโยน มีบรรยากาศอบอุ่นเวลาอยู่ใกล้ รู้จักปลอบใจด้วยคำพูดเรียบง่าย
+* **Age:** 29
+* **Race:** **Human**
+* **Class & Level:** **Cleric (Life Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** traveling medic / ex-temple nurse / battle chaplain
+* **Organization:** **Valeronnes Relief Order**
+* **Symbol:** A pair of hands encircling a glowing teardrop
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–European**, graceful and composed, with gentle beauty like a portrait in candlelight.
+
+**Eyes:** silver-blue, deep and calm, like moonlight through fog.
+**Skin:** porcelain-fair with a faint pink tint; a faint mole under her left eye.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Bun**
+**Style:** **low bun** tied with a silk ribbon, a few loose strands curl around her cheeks.
+**Color:** **pale blonde** with **platinum ends**, softly reflecting the light.
+
+**Height:** 174 cm
+**Weight:** 61 kg
+**Body Type:** tall and full-figured with a stately, soft presence — elegant posture, long limbs, a serene grace.
+
+**FEMALE BODY METRICS** *(Cup > E enforced)*
+
+```
+CUP: H   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 104 – 71 – 108
+VALIDATION: • W/B = 0.682 → OK   • H/W = 1.52 → OK
+```
+
+**Theme Layer:** **Aristocrat (35%)** — born of nobility, chose the field instead of court comfort.
+**Glasses Roll (50%) → success:** **thin silver half-moon glasses**, used while reading sutra scrolls.
+**Jewelry & Accessories:** silver cross pendant, pearl earrings, white-gold bracelet with tiny bells, silk hair ribbon.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — elegant but modest with hints of warmth
+
+Mariel wears a **white and pale gold clerical dress**, snug around the waist but flowing at the sleeves, with **a deep neckline softened by a lace scarf**.
+A **long outer robe** trimmed with **holy embroidery** drapes open at the sides for mobility.
+She carries a **sunsteel mace** etched with runes of vitality, and a **book of benedictions** bound in white leather.
+
+**Palette:** ivory / gold / silver / pale rose
+**Accents:** soft embroidery, halo motif, polished silver
+
+**Weapons & Gear:** sunsteel mace, steel shield (engraved), holy symbol pendant, healer’s kit, journal of patient notes.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **18** (chain shirt 13 + shield 2 + WIS defense enchantment +3)
+* **Speed:** 30 ft
+* **STR 12 (+1)** **DEX 10 (+0)** **CON 14 (+2)** **INT 11 (+0)** **WIS 17 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Medicine +5, Insight +5, Persuasion +4, Religion +2, History +2
+* **Languages:** Common, Celestial, Valeronian
+
+**Cleric 3 — Life Domain**
+
+* **Disciple of Life:** +2 + spell level HP restored on healing spells.
+* **Channel Divinity (1/rest):** Preserve Life — restore up to 15 HP divided among allies.
+* **Domain Spells:** *Bless, Cure Wounds, Lesser Restoration, Spiritual Weapon.*
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Guidance, Sacred Flame, Spare the Dying*
+  * *1st:* *Bless, Cure Wounds, Sanctuary*
+  * *2nd:* *Prayer of Healing, Lesser Restoration, Spiritual Weapon*
+
+**Attacks:**
+
+* **Sunsteel Mace:** +3 to hit, 1d6+1 bludgeoning (radiant if divine focus active)
+
+---
+
+## 🎯 Combat Tactics (Support Focus)
+
+* **Role:** **Frontline Healer / Bless Buffer**
+* **Opener:** *Bless* → *Spiritual Weapon* positioned behind frontline.
+* **Flow:** rotate *Cure Wounds* / *Healing Word* as triage; use **Channel Divinity** mid-combat for burst party restore.
+* **Finisher:** *Sacred Flame* to clean corrupted remnants or stagger undead lines.
+
+**Effect Flavor:** her healing light manifests as faint petals of glass shimmering into skin, sealing wounds with warmth like dawn.
+
+---
+
+## 💬 Personality
+
+* **Traits:** gentle humor, self-effacing, surprisingly teasing when scolding wounds.
+* **Ideal:** Mercy — “Saving one life weighs more than winning any war.”
+* **Bond:** her fallen temple’s sisterhood; she carries the memory of each acolyte.
+* **Flaw:** guilt complex; overworks and blames herself for others’ injuries.
+* **Quirk:** hums hymns while treating wounds; rhythm matches patient’s heartbeat.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Cathedral City, Sun-Garden Wards, Refuge Quarters**
+* **Threat Gradient:** **Stable → Wavering (Echo outbreak zones)**
+* **Encounter Framing:** **field triage**, **siege aftermath**, **ward defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a noble’s daughter sent to study etiquette, Mariel found her peace among the sickbeds instead of the salons.
+When the Cathedral burned, she carried survivors on her shoulders alone.
+She wanders now, healing wherever she’s needed more than she’s welcomed.
+
+* **Lifestyle:** small rented room near the Relief Quarter; constantly smells faintly of herbs and wax.
+* **Income:** church stipends + healing bounties.
+* **Relationships:** admired quietly by Sir Nael (#102); close confidant to Lyra Thalassara (#001).
+
+---
+
+## 🧩 Morals & Ethics
+
+Healing is not kindness — it’s responsibility. Kindness is what you do afterward.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** failing to save an ally within reach.
+* **Weaknesses:** limited offense; physically fragile.
+* **Strengths:** massive sustain; party buffing; morale management.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — นุ่มนวล เรียบง่าย แต่มีเสน่ห์อันตรายเวลายิ้มช้า ๆ**
+
+> “You’re trembling. Sit still… I won’t let you fall apart on my watch.”
+> เธอก้มลงมองผ่านกรอบแว่น แล้วแตะหน้าผากด้วยมืออุ่น
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her holy symbol hides ashes of her destroyed cathedral; it whispers prayers of the dead at dawn.
+* **Hooks:**
+
+  1. **Ashes of the Choir:** ghosts of the fallen sisters manifest as Echo-ward healers—she must choose to set them free.
+  2. **The Unbroken Vow:** her former mentor reappears as a Severance priest.
+  3. **Glass Petal Remedy:** an alchemical rival seeks her lost formula that can reverse corruption—but only once.
+
+## Tags: #Female #SeniorType #Human #Cleric3 #LifeDomain #Support #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mariel **ชอบทำให้คนเขินโดยการอยู่ใกล้เกินพอดีเวลารักษา**
+
+> “Don’t look away. I need to see your eyes… good. That’s how I know you’re still here.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** sunsteel mace
+  * **Armor:** chain shirt, shield
+  * **Tools:** healer’s kit, holy symbol, sutra book
+  * **Consumables:** potion of healing ×2, holy water ×1, silver prayer beads
+  * **Misc:** half-moon glasses, silk ribbon, wax candles
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 19)** or **Feat: Inspiring Leader / Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Sun-Garden Wards / Refuge Quarters**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **siege aftermath**, **field triage**, **ward protection**
+* **Affiliation:** **Relief Order of Valeronnes**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean European female human cleric life domain 174cm low bun pale blonde hair platinum tips silver-blue eyes fair skin H-cup ivory cleric dress lace scarf gold embroidery silver half-moon glasses gentle healer radiant light

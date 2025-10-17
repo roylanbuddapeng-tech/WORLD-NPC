@@ -1,0 +1,209 @@
+# #254 — **Vesper Nyxvale** — *The Chain of Midnight Ash*
+
+> “The living fear the dark because they don’t know who’s already standing in it for them.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 254
+* **Gender:** **Female (Type: Tomboy — athletic type)** — ท่าทางห้าว คล่องแคล่ว น้ำเสียงทุ้มเล็กน้อย กล้าเสี่ยง-กล้าชน แต่ใจดีเกินคาด
+* **Age:** 22
+* **Race:** **Half-Beast (Mammal — Batkin)** — มนุษย์ ~85% มีหูค้างคาวเล็กแนบผม ปลายปีกหนังจาง ๆ พาดที่สะบักหลัง ดวงตาเรืองวาบเมื่ออยู่ในความมืด
+* **Class & Level:** **Warlock (The Undead)** 3 — **Pact of the Chain** — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** night-scout warlock / occult bodyguard / shadow courier
+* **Organization:** **Valeronnes Black Ward — Night Couriers**
+* **Symbol:** โซ่เสี้ยวจันทร์คล้องขี้เถ้าดำเป็นวงแหวน
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean**, lean, striking tomboy with sharp, wolf-cut coolness and midnight allure.
+
+**Eyes:** smoke-violet with a thin silver ring; glint like wet ink under moonlight.
+**Skin:** pale olive with cool undertone; faint ash-dust freckles across the nose.
+
+**Hair (Feminine Hair Randomizer — Tomboy spec):** 🎲 **Short masculine cut**
+**Style:** **tapered crop with undercut**, tousled crown, long bangs swept to one side for mask-quick draws.
+**Color:** **blue-black** with **amethyst tips** at the fringe.
+
+**Height:** 170 cm
+**Weight:** 58 kg
+**Body Type:** athletic V-line shoulders, tight core, runner’s thighs; confident stance.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 96 – 67 – 99
+VALIDATION: • W/B = 0.698 → OK   • H/W = 1.48 → OK
+```
+
+**Theme Layer:** **None** (street practical)
+**Glasses Roll (female non-nerd 40%) → fail:** no glasses.
+**Jewelry & Accessories:** matte-black ear cuff (bat wing motif), thin chain choker with bone bead, leather wrist-wrap with a hidden sigil, and a silent bell anklet.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium exposure — cropped jacket + side-slit combat skirt**
+
+Vesper wears a **black cropped necromancer jacket** with **sheer mesh sleeves** etched in subtle bone runes, over a **fitted ash-grey halter** that bares her **midriff**.
+A **side-slit combat skirt** overlays **tactical shorts**, allowing explosive movement across rooftops.
+**Soft-soled boots** mute her steps; a **folded cowl-mask** hides at the collar.
+When she casts, the mesh sleeves bloom with pale violet sigils like ash constellations.
+
+**Palette:** black / ash grey / amethyst / steel
+**Accents:** bone-thread embroidery, matte hardware, smoke-sheen edges
+
+**Weapons & Gear:** obsidian dagger, pouch of grave-salt, chain focus ring (warlock focus), climbing kit, black courier cords.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **15** (studded leather 12 + DEX +2 + hardened trim +1 flavor)
+* **Speed:** 30 ft; **Darkvision** 60 ft (batkin)
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +6
+* **Skills:** Stealth +4, Acrobatics +4, Intimidation +6, Perception +3, Arcana +2
+* **Languages:** Common, Infernal, Valeronian
+
+**Warlock 3 — The Undead (UA→Official)**
+
+* **Form of Dread (1/short rest):** bonus action, gain temp HP = **1d10+3**, fear on hit (WIS save), and resist fear.
+* **Pact Boon:** **Pact of the Chain** — **familiar** (imp/quasit/sprite/pseudodragon). *Vesper uses a spectral bat “Moth” (sprite stat-block, bat form flavor).*
+* **Eldritch Invocations:**
+
+  * **Agonizing Blast** (add CHA to Eldritch Blast damage)
+  * **Devil’s Sight** (see in magical darkness 120 ft)
+  * *(Pact synergy)* **Investment of the Chain Master** (familiar gets extra oomph, flies through foes; attacks use your spell DC)
+* **Spellcasting (CHA DC 14, +6 atk)** — **Slots:** 2 × **2nd-level**
+
+  * *Cantrips:* **Eldritch Blast**, **Chill Touch**, **Mage Hand**
+  * *1st:* **Hex**, **Armor of Agathys**, **Cause Fear**
+  * *2nd:* **Darkness**, **Invisibility**
+
+**Attacks**
+
+* **Eldritch Blast:** +6 to hit, **1d10+4 force** per beam (1 beam at this level), often with **Hex** for +1d6.
+* **Sprite/Bat (Chain):** uses reaction/help; on command can deliver touch effects or harry targets.
+
+---
+
+## 🎯 Combat Tactics (Offense / Summoner-Lite)
+
+* **Role:** **Skirmish Caster / Darkness Controller / Familiar Harrier**
+* **Opener:** **Form of Dread** → **Darkness** centered on ring → **Devil’s Sight** lets her fight inside, blind enemies.
+* **Flow:** **Hex** priority target → **Eldritch Blast** kites; **Moth** grants Help or delivers effects, scouting invisibly.
+* **Finisher:** **Armor of Agathys** pre-brawl or **Cause Fear** to peel threats from allies.
+
+**Effect Flavor:** blasts look like ribbons of ash blown by moonwind; when they strike, a bell tone rings once, very far away.
+
+---
+
+## 💬 Personality
+
+* **Traits:** blunt, dry-humored, fiercely protective in a “don’t make me say it twice” way.
+* **Ideal:** Mercy-through-strength — “If I must be the monster in the dark so others sleep, fine.”
+* **Bond:** her courier cell on the Night Routes.
+* **Flaw:** overextends alone; refuses to call for help until cornered.
+* **Quirk:** clicks her tongue twice before stepping off a rooftop — a personal “go” signal.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Black Ward rooftops, Ember Alleys, Moonchain Bridges**
+* **Threat Gradient:** **Wavering → Echo flare nights**
+* **Encounter Framing:** **shadow escort**, **assassination foil**, **rooftop pursuit under magical blackout**
+
+---
+
+## 📜 Background & Lifestyle
+
+A refugee runner who made too many solo saves to count, Vesper took a pact with an Undead Queen who “hates tyrants more than death.”
+Now she ferries medicine, messages, and sometimes people through nights others refuse to walk.
+
+* **Lifestyle:** sparse loft with rope lines strung like a training maze.
+* **Income:** hazard courier pay, night bounties, underbridge tips.
+* **Relationships:** flirts like a dare with Rei Kazemori (#243) in shield drills; owes Serena Lioren (#235) for a healed lung.
+
+---
+
+## 🧩 Morals & Ethics
+
+If power must wear bones to shield the living, then polish the bones and keep moving.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** enclosed fire and screaming crowds — riot-night memories.
+* **Weaknesses:** slot-hungry; relies on familiar for utility; low raw AC.
+* **Strengths:** battlefield darkness control, high single-target pressure, elite scouting via **Chain** familiar.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy tone — ห้าวนิด แซวแรงหน่อย แต่โคตรปกป้อง**
+
+> “Stay behind me. If you get lost in the dark, I’ll find you first and drag you out—promise.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** the Undead Queen’s chain on her wrist tightens when a tyrant lies within 120 ft; it points the way.
+* **Hooks:**
+
+  1. **Midnight Courier:** a treaty heart-sigil must cross the riot line; Vesper needs a team to punch a corridor through.
+  2. **Ash Without Bell:** her ash-blasts lose sound — someone stole her bell-tone; follow the silent murders.
+  3. **The Broken Chain:** her familiar “Moth” refuses orders around a certain noble — who died three years ago.
+
+## Tags: #Female #Tomboy #HalfBeast #Batkin #Warlock3 #UndeadPatron #PactOfTheChain #Offense #SummonerLite #Valeronnes #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Vesper **ชอบทำให้เขินด้วยการยืนชิดเกินพอดีบนขอบหลังคาแล้วกระซิบ**
+
+> “If you’re scared, hold my jacket. I’m not going anywhere.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** obsidian dagger
+  * **Armor:** studded leather
+  * **Tools:** climbing kit, courier cords
+  * **Consumables:** potion of healing ×1, grave-salt ×2
+  * **Misc:** chain focus ring, cowl-mask, silent bell anklet
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Eldritch Adept (Armor of Shadows) / War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Black Ward rooftops / Moonchain Bridges / Ember Alleys**
+* **Threat Gradient:** **Wavering → Echo flares**
+* **Encounter Type:** **shadow escort**, **blackout skirmish**, **assassin counter-run**
+* **Affiliation:** **Valeronnes Black Ward — Night Couriers**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean female batkin warlock undead patron pact of the chain 170cm short masculine undercut blue-black hair amethyst tips violet eyes pale olive skin E-cup cropped necromancer jacket mesh sleeves midriff side-slit combat skirt tactical shorts no glasses ash-purple sigils rooftop night darkness control sprite bat familiar confident tomboy

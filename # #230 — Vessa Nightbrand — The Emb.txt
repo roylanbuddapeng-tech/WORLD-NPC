@@ -1,0 +1,210 @@
+# #230 — **Vessa Nightbrand** — *The Ember Hex of Skarnov Rift*
+
+> “Mercy burns out faster than oil. Good thing I bring infernos.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 230
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — มั่นใจ ปากเก่งนิด ๆ ใจใหญ่ เข้ากับทีมง่ายและพร้อมลุยแนวหน้าเพื่อเพื่อน
+* **Age:** 24
+* **Race:** **Other — Tiefling (near-human ~85%)** — เขาเตี้ยเรียบโค้งไปทางท้ายทอย สีดำอมแดง ปลายหางเรียวเล็กมีตรารูนลนไฟ ดวงตาเรืองแสงอำพันไม่มีตาขาว
+* **Class & Level:** **Warlock (The Fiend)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** relic burner / rift exterminator / adventurer
+* **Organization:** **Skarnov Flamewright Vanguard**
+* **Symbol:** กริชเพลิงตัดผ่านตาวงแหวนเถ้า
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Arabic**, intense, magnetic beauty with a smoldering gaze.
+
+**Eyes:** molten amber, pupil-less; brighten when she speaks a pact word.
+**Skin:** warm olive with faint ember freckles across shoulders.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail** (top-weight)
+**Style:** **high braided ponytail** with heat-frizzed flyaways, battle-practical yet striking.
+**Color:** **black to crimson-ember ombré.**
+
+**Height:** 168 cm
+**Weight:** 57 kg
+**Body Type:** fit-athletic hourglass; strong back, trim waist, confident stance.
+
+**FEMALE BODY METRICS** *(peer type — large cup allowed)*
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 96 – 68 – 100
+VALIDATION: • W/B = 0.708 → OK   • H/W = 1.47 → OK
+```
+
+**Theme Layer:** **None**
+**Glasses Roll (non-nerd 50%) → success:** slim **smoke-crystal half-rims** for reading sigils.
+**Jewelry & Accessories:** charred-iron choker (seal ring), single ember-stud earring, rune-bangle (heat gauge), anklet with a tiny bell that pings when a fiend is near.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** medium-high — combat practical with bold heat vents
+
+Vessa wears a **coal-black cropped cuirass** over a **scarlet mesh underlay** (vented to bleed heat), paired with **high-slit battle skirt panels** over **tight char-leather shorts** for mobility.
+**Gauntlet bracers** etched with pact runes flare when she casts; **knee-high boots** leave ember prints on ash.
+
+**Color Palette:** black / ember red / brass / smoke gray
+**Accents:** scorched edges, glowing rune seams, infernal filigree
+
+**Weapons & Gear:**
+
+* **Pact focus “Cinder Seal”** (choker)
+* **Dagger** (obsidian edge)
+* Sigil chalk, brimstone phials, ignition cord
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **15** (studded leather 12 + DEX +2 + ward +1)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 12 (+1)** **WIS 10 (+0)** **CHA 18 (+4)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +2, CHA +6
+* **Skills:** Intimidation +6, Arcana +3, Investigation +3, Acrobatics +4
+* **Languages:** Common, Infernal, Ignan
+
+**Warlock 3 — The Fiend**
+
+* **Dark One’s Blessing:** temp HP on kill.
+* **Expanded Spells:** *Burning Hands, Command*; *Scorching Ray, Blindness/Deafness*.
+* **Pact Boon:** **Pact of the Tome** (*Book of Cinders* grants extra cantrips).
+* **Invocations (2):** **Agonizing Blast** (add CHA to Eldritch Blast), **Grasp of Hadar** (pull 10 ft once/beam).
+* **Spellcasting (CHA DC 14, +6 atk; 2 slots @ 2nd):**
+
+  * *Cantrips:* *Eldritch Blast*, *Fire Bolt* (Tome), *Green-Flame Blade* (Tome), *Minor Illusion* (Tome)
+  * *1st–2nd Known (examples):* *Hex, Burning Hands, Scorching Ray, Blindness/Deafness, Hellish Rebuke*
+
+**Attacks:**
+
+* **Eldritch Blast:** +6 to hit, 1 beam 1d10+4 force; **Grasp of Hadar** pull 10 ft (1/beam); often with **Hex**.
+* **Scorching Ray:** three rays, +6 to hit, 2d6 fire each (slot-limited).
+* **Burning Hands:** 3d6 fire (Dex save DC 14) — sculpted as a fan of infernal script.
+
+---
+
+## 🎯 Combat Tactics (Offense-Focused)
+
+* **Role:** **Primary Blaster / Soft Control**
+* **Opener:** *Hex* on priority target → **Eldritch Blast** to pull into hazards or allies’ melee.
+* **Tempo:** weave *Scorching Ray* for burst; punish pursuers with *Hellish Rebuke*.
+* **Control:** *Blindness/Deafness* on enemy casters; reposition using terrain she sets ablaze.
+* **Finisher:** drag boss across **Green-Flame Blade** line or into burning zones, securing **Dark One’s Blessing** temp HP.
+
+**Damage Flavor:** every beam writes a line of burning script in the air that snaps shut on impact like a book slamming.
+
+---
+
+## 💬 Personality
+
+* **Traits:** brash charm, battlefield humor, surprisingly gentle with rookies.
+* **Ideal:** Freedom — “Power should cut chains, not forge them.”
+* **Bond:** a squad of miners she saved from a rift firestorm.
+* **Flaw:** pride; escalates when challenged, even if it risks allies.
+* **Quirk:** smells sulfur like perfume; claims it’s “home.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Rift Kilns, Ash Galleries, Ember Roads**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **rift purge**, **infernal nest burn-out**, **artifact meltdown stop**
+
+---
+
+## 📜 Background & Lifestyle
+
+Sold her first “no” to a charming fiend to burn a Severance nest that killed her friends.
+Now she keeps the pact on a short leash — by making bigger fires than it asks for.
+
+* **Lifestyle:** spartan loft above a quench pit.
+* **Income:** hazard bounties + salvage cuts.
+* **Relationships:** snarky friendship with Liora Veinsear (#224); respectful rivalry with Kaela Vorn (#218).
+
+---
+
+## 🧩 Morals & Ethics
+
+Power is a tool; if it starts using you, set it on fire until it remembers its place.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** failing to contain a blaze she started.
+* **Weaknesses:** slot economy; over-commits to burst damage.
+* **Strengths:** elite single-target pressure, forced movement, on-kill sustain.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — แซวตรง ๆ ทำให้เขินด้วยสายตาร้อนแรง**
+
+> “Stand close. If you’re going to watch me burn, at least be warm about it.”
+> เธอดันแว่นครึ่งกรอบขึ้นแล้วจงใจยิ้มมุมปากให้ใจสั่น
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her **Book of Cinders** sometimes writes commands she never agreed to—orders from a different fiend.
+* **Hooks:**
+
+  1. **Ashes That Speak:** a murdered warlock’s voice answers from her flames.
+  2. **The Ember Debt:** her patron demands an impossible burn—an “unfire” that erases heat.
+  3. **Chainbreaker:** miners hide a relic that turns hellfire into healing; who gets it?
+
+## Tags: #Female #PeerType #Tiefling #Warlock3 #Fiend #Skarnov #CR1 #Blaster #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Vessa **ชอบทำให้คนเขินด้วยการเข้าใกล้แล้วกระซิบคำสาบานเวทข้างหู เสียงอุ่นเหมือนลมหายใจร้อน**
+
+> “One word from me, and you’ll feel the sun.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** dagger
+  * **Armor:** studded leather
+  * **Tools:** sigil chalk, brimstone phials
+  * **Consumables:** potion of healing ×1, fire ward salve ×1
+  * **Misc:** smoke-crystal glasses, Book of Cinders, seal choker
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 20)** or **Feat: Elemental Adept (Fire) / Eldritch Adept**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov Rift Kilns / Ash Galleries**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **rift purge**, **infernal den assault**, **severance-fire anomaly**
+* **Affiliation:** **Flamewright Vanguard**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Arabic female tiefling warlock fiend 168cm high braided ponytail black to crimson ombré eyes amber no sclera cropped cuirass battle skirt flames eldritch blast confident smirk ash forge backdrop

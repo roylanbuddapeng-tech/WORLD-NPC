@@ -1,0 +1,208 @@
+# #247 — **Nara Veylin** — *The Alchemical Lantern of Whisperglass Row*
+
+> “Every cure starts as a risk someone dared to taste.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 247
+* **Gender:** **Female (Type: MILF)** — ผู้หญิงวัยทำงานเต็มตัว แววตาฉลาด มีเสน่ห์แม่บ้านนักทดลอง ดูอันตรายแต่ใจดี
+* **Age:** 34
+* **Race:** **Human**
+* **Class & Level:** **Artificer (Alchemist)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** alchemical medic / potion merchant / tactical field support
+* **Organization:** **Thalassara — Whisperglass Guild of Alchemy**
+* **Symbol:** ขวดน้ำยาคริสตัลภายในมีดอกไม้เรืองแสง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Western fusion**, elegant and mature, eyes that read the world like formulas.
+
+**Eyes:** deep jade-green, warm but probing.
+**Skin:** sun-kissed ivory with faint chemical burn scars like gold dust along one arm — worn proudly.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail (highest weight)**
+**Style:** **high messy ponytail** tied with a red silk band, with a few loose curls framing her face.
+**Color:** **chestnut brown** streaked with **bronze highlights** from long exposure to alchemical vapors.
+
+**Height:** 172 cm
+**Weight:** 61 kg
+**Body Type:** fit hourglass — strong hips, smooth waist, and lean muscle tone from constant motion in the lab.
+
+**FEMALE BODY METRICS (MILF category: ≥ H)**
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 110 – 74 – 115
+VALIDATION: • W/B = 0.672 → OK   • H/W = 1.55 → OK
+```
+
+**Theme Layer:** **Nerd (always with glasses)**
+**Glasses:** rectangular, thin gold frame with adjustable bridge; lenses shimmer faintly from potion residue.
+**Jewelry & Accessories:** vial earrings, data-band, silver-chain bracelet with miniature beaker charm, and a tiny anklet holding a “stopper” charm.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High exposure — off-shoulder chemist top with open back & split skirt**
+
+Nara wears a **white off-shoulder chemist’s blouse**, cropped short to reveal a defined midriff and bare shoulders, paired with a **black leather corset harness** that supports several vials and scroll cases.
+Her **high-slit skirt** (deep navy) opens at one leg for easy movement, layered over **sheer leggings** patterned with faint chemical sigils.
+She also dons **fingerless gloves**, a **belt holster** of potions, and knee-high field boots reinforced with rune-steel buckles.
+When she walks, the vials clink musically — her own “alchemy chime.”
+
+**Palette:** ivory / bronze / black / navy
+**Accents:** glass glints, metal edges, faint bioluminescent glow in fabric seams
+
+**Weapons & Gear:** portable alchemy kit, vial rack (bandolier), hand crossbow, dagger, satchel with reagents.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (studded leather + DEX + infusion)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Arcana +5, Medicine +3, Investigation +5, Persuasion +3
+* **Languages:** Common, Draconic, Thalassaran Cant
+
+**Artificer 3 — Alchemist**
+
+* **Infuse Item (2)** — *Enhanced Arcane Focus*, *Enhanced Defense*
+* **Alchemist’s Supplies** proficiency; *Experimental Elixir (3/day)* — each rolled or chosen.
+* **The Right Tool for the Job**
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mending, Guidance, Ray of Frost*
+  * *1st:* *Cure Wounds, Faerie Fire, Sanctuary*
+  * *2nd:* *Aid, Lesser Restoration, Web*
+
+**Experimental Elixir (examples):**
+
+1. **Healing Draught:** heals 2d4+INT (5) HP.
+2. **Resilience Brew:** +1 AC for 10 min.
+3. **Swiftness Serum:** +10 ft speed for 1 hr.
+
+---
+
+## 🎯 Combat Tactics (Support / Backline Chemist)
+
+* **Role:** **Ranged Healer / Debuff Manager / Ally Buffer**
+* **Opener:** *Aid* → distribute potions (*Healing*, *Resilience*, *Swiftness*).
+* **Flow:** *Web* to trap frontline enemies; *Sanctuary* or *Cure Wounds* on allies in melee.
+* **Finisher:** mix volatile elixirs → throw (flavor acid / smoke).
+* **Field Trick:** break a luminous vial mid-fight — glowing mist grants **light + minor concealment** for allies.
+
+**Flavor:** every bottle she breaks releases a chemical melody — the pitch determines its effect.
+
+---
+
+## 💬 Personality
+
+* **Traits:** confident, nurturing, teasingly dangerous in tone.
+* **Ideal:** Creation — “Every mistake is just a new reaction.”
+* **Bond:** mentors younger alchemists with motherly care (and mild threats).
+* **Flaw:** too curious; drinks her own brews “just to test stability.”
+* **Quirk:** chews on potion corks while thinking.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Whisperglass Row, Alchemy Markets, Tidecell Arches**
+* **Threat Gradient:** **Wavering → Echo-contaminated**
+* **Encounter Framing:** **rescue under chemical fire**, **alchemy cart defense**, **Echo containment cleanup**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once an apothecary’s apprentice, Nara became a battlefield medic after seeing soldiers die of unstable cures.
+Now she experiments to make alchemy safer — though her lab looks like a beautiful accident waiting to happen.
+
+* **Lifestyle:** elegant but chaotic; glass everywhere, always faintly smells of citrus ether.
+* **Income:** guild salary, potion sales, private commissions.
+* **Relationships:** taught Miyo Rensha (#224); long-term “friendly rivalry” with Tobias Fenric (#209).
+
+---
+
+## 🧩 Morals & Ethics
+
+Science without compassion is just a prettier form of destruction.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** her formulas being militarized.
+* **Weaknesses:** sometimes distracted by breakthroughs mid-combat.
+* **Strengths:** burst-healing support, versatile buffs, high adaptability.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — tease with experience, confidence, and dangerous charm**
+
+> “Hold still. I need to test how your pulse reacts to this... elixir.”
+> เธอยกขวดขึ้นจ่อริมฝีปากคุณก่อนจะยิ้มมุมปาก “...you trust me, don’t you?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** she secretly brews a “Soul Reversal Serum” that could restore Echo-corrupted minds — or overwrite them.
+* **Hooks:**
+
+  1. **The Shattered Batch:** an unstable brew explodes, infecting an alley with chemical phantoms.
+  2. **Gold Dust Veins:** someone’s selling counterfeit “Nara Elixirs” that rot flesh.
+  3. **The Cure That Spoke:** a potion develops a voice, calling her name.
+
+## Tags: #Female #MILF #Human #Artificer3 #Alchemist #Support #Backline #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nara **ทำให้เขินด้วยการพูดเสียงแผ่วขณะตรวจชีพจร**
+
+> “Heartbeat elevated. Fascinating. Want me to check again?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** hand crossbow, dagger
+  * **Armor:** studded chemist top (light)
+  * **Tools:** alchemist’s supplies, vial belt
+  * **Consumables:** 3 experimental elixirs (rolled daily)
+  * **Misc:** gold glasses, beaker charm bracelet, field journal
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Healer / Alchemist Savant (UA)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Whisperglass Row / Tidecell Arches**
+* **Threat Gradient:** **Wavering–Echo**
+* **Encounter Type:** **support in field battle**, **chemical rescue**, **elixir recovery**
+* **Affiliation:** **Whisperglass Guild of Alchemy**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Western female human alchemist artificer 172cm high messy ponytail chestnut brown hair bronze highlights jade-green eyes sun-kissed skin I-cup off-shoulder cropped chemist top black corset harness high-slit navy skirt sheer leggings gold rectangular glasses mature MILF confident smile glowing vials laboratory background

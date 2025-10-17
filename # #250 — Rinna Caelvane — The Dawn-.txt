@@ -1,0 +1,205 @@
+# #250 — **Rinna Caelvane** — *The Dawn-Glass Harmonist of Auralis Choirhall*
+
+> “You fight with steel; I fight with the song that keeps you breathing.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 250
+* **Gender:** **Female (Type: รุ่นพี่)** — สุภาพ เรียบร้อยแต่เปี่ยมด้วยความอบอุ่นแบบพี่สาวที่ดูแลทุกคน เสียงพูดนุ่มจนทำให้คนอยากฟังต่อไปเรื่อย ๆ
+* **Age:** 26
+* **Race:** **Human**
+* **Class & Level:** **Cleric (Divine Soul / Multiclass Sorcerer 1)** — **Total Level 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** battle choir healer / hymn channeler / expedition medic
+* **Organization:** **Auralis — Order of the Dawn-Glass Choir**
+* **Symbol:** ดอกบัวเรืองแสงภายในคริสตัลทรงหยดน้ำ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–European blend**, gentle face with calm, motherly aura.
+
+**Eyes:** soft lilac fading to white near the pupil.
+**Skin:** porcelain tone with faint gold luminescence along the neck and collarbone when she channels magic.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Twin Bun (weighted slightly above twin tail)**
+**Style:** **twin low buns** with **curved fringe** and **loose tendrils** down each side, giving a musical symmetry.
+**Color:** **silver-blond** with **rosy pink gradient at the ends**, shimmering faintly when hit by light.
+
+**Height:** 170 cm
+**Weight:** 56 kg
+**Body Type:** elegant, shapely waist, modest curves but refined posture.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 103 – 70 – 108
+VALIDATION: • W/B = 0.68 → OK   • H/W = 1.54 → OK
+```
+
+**Theme Layer:** **Nerd (glasses always)**
+**Glasses:** rounded silver-rim spectacles with faint reflection of runes when spells are cast.
+**Jewelry & Accessories:** crystal rosary choker, thin chain bracelet with bell charm, pearl-thread anklet.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium exposure — backless cleric gown + translucent sleeves**
+
+Rinna wears a **long cleric gown** of **pearl-white silk**, open-backed with **translucent mesh sleeves** that shimmer faintly with holy sigils.
+The **skirt slit** runs high along her left thigh for movement, showing part of her leg when walking.
+Her chestplate is minimal, soft silver lace shaped into a melodic curve that glows faintly when she sings divine hymns.
+
+**Palette:** pearl white / silver / rose pink accents
+**Accents:** divine glow on embroidery threads, faint musical rune resonance
+
+**Weapons & Gear:**
+
+* *Glassstaff of Resonance* (holy focus)
+* *Ceremonial dagger* (silver blade)
+* *Prayer beads* tuned to divine frequencies
+
+---
+
+##⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 2d8 (Cleric) + 1d6 (Sorcerer) + (CON +1)×3 → **23 HP**
+* **AC:** **17** (chain shirt + DEX + shield)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 12 (+1)** **CON 13 (+1)** **INT 12 (+1)** **WIS 16 (+3)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +4
+* **Skills:** Insight +5, Performance +4, Persuasion +4, Religion +3
+* **Languages:** Common, Celestial, Auralian, Draconic
+
+**Cleric (Life Domain) 2 / Sorcerer (Divine Soul) 1**
+
+* **Channel Divinity:** Preserve Life (restore HP to nearby allies).
+* **Divine Soul Magic:** adds Sorcerer spell list to her known spells.
+* **Spellcasting (DC 15 / +7 atk)**
+
+  * *Cantrips:* *Guidance, Sacred Flame, Thaumaturgy*
+  * *1st-level:* *Cure Wounds, Bless, Healing Word, Shield, Guiding Bolt*
+  * *2nd-level:* *Aid*
+
+---
+
+## 🎯 Combat Tactics (Support / Backline)
+
+* **Role:** **Healer / Buffer / Counterbalance Caster**
+* **Opener:** *Bless* allies → *Cure Wounds* on frontline → shift to *Sacred Flame* when safe.
+* **Flow:** Alternates divine and arcane casting to create resonant auras (*Life + Divine Soul synergy*).
+* **Finisher:** *Guiding Bolt* + *Healing Word* in a single turn using Quickened metamagic (limited).
+* **Damage Flavor:** radiant shimmer that trails like falling petals.
+
+**Flavor:** her healing spells sound like faint choral harmonics; when she channels *Bless*, her eyes refract light like glass prisms.
+
+---
+
+## 💬 Personality
+
+* **Traits:** patient, encouraging, softly teasing when others are reckless.
+* **Ideal:** Harmony — “Even pain can become part of the song.”
+* **Bond:** secretly keeps a diary of every person she’s healed — including their smile after.
+* **Flaw:** never refuses a plea for help, even when exhausted.
+* **Quirk:** hums while stitching wounds; the melody restores calm.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Auralis — Choirhall Sanctum, Mirrorwell Gardens, Sunwater Amphitheater**
+* **Threat Gradient:** **Stable → Wavering (Echo-tainted choirs)**
+* **Encounter Framing:** **resonance healing concert**, **pilgrimage defense**, **Echo purification mission**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a prodigy singer chosen for divine resonance, Rinna blended music and healing magic.
+Her voice can mend flesh or shatter shadow barriers.
+She now travels as a **“Song Healer”**, carrying a tuning crystal that vibrates when nearby souls are in pain.
+
+* **Lifestyle:** tidy, fragrant rooms filled with scrolls and windchimes.
+* **Income:** temple stipend + concert donations + healing commission.
+* **Relationships:** formerly mentored by Lyra Thalassara (#1); often collaborates with Nara (#247) for field support.
+
+---
+
+## 🧩 Morals & Ethics
+
+Light should never blind — only guide.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her voice to Echo corruption.
+* **Weaknesses:** fragile concentration when emotionally overwhelmed.
+* **Strengths:** multi-source healing, morale support, crowd restoration.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — พูดอ่อนโยนแต่แฝงความอบอุ่นลึกซึ้ง จนรู้สึกเหมือนถูกกอดด้วยเสียง**
+
+> “You did well. Sit still for me… I’ll handle the rest.”
+> (เธอยกมือวางบนศีรษะเบา ๆ แล้วร่ายเวท รอยยิ้มอบอุ่นยิ่งกว่าประกายแสง)
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her hymns secretly draw upon an ancient Echo frequency — half of her divine magic isn’t divine at all.
+* **Hooks:**
+
+  1. **The Silent Choir:** an entire procession loses its voice mid-ritual — she’s immune.
+  2. **Broken Crystal:** her glassstaff cracks; its melody now whispers answers she never asked for.
+  3. **Resonant Duel:** a corrupted bard challenges her to “sing the truth” before dawn.
+
+## Tags: #Female #SeniorType #Human #Cleric2 #Sorcerer1 #DivineSoul #Support #Healer #Auralis #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rinna **ทำให้เขินด้วยการเอียงหน้าเข้ามาใกล้เวลาเป่าบาดแผลพร้อมรอยยิ้ม**
+
+> “You’ll be fine. My magic’s gentle... and so am I.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** Glassstaff of Resonance, dagger
+  * **Armor:** chain shirt, shield
+  * **Tools:** holy symbol, tuning crystal
+  * **Consumables:** healing potions ×2
+  * **Misc:** prayer chime, glass spectacles, hymn scroll
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 18)** or **Feat: Inspiring Leader / War Caster**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Auralis Choirhall / Mirrorwell Gardens**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **healing ritual defense**, **sound purification**, **pilgrimage escort**
+* **Affiliation:** **Dawn-Glass Choir of Auralis**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese European female human cleric sorcerer hybrid 170cm twin low buns silver-blond hair pink tips lilac eyes fair glowing skin G-cup backless pearl gown translucent sleeves silver glasses divine choir healer gentle senior type radiant staff holy aura

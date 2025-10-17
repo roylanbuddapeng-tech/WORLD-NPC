@@ -1,0 +1,190 @@
+# #195 — **Kaen Vos** — *The Crimson Vanguard of Skarnov*
+
+> “If I bleed, it means the forge still burns.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 195
+* **Gender (weighted random):** **Male (Type: วัยกลางคน)** — ท่าทางสุขุม หน้าคมเข้ม แววตาแฝงด้วยประสบการณ์จากการรบและชีวิตที่ผ่านการสูญเสีย
+* **Age:** 38
+* **Race:** **Human (Skarnov Lineage)** — ผิวเข้มแดงราวเหล็กที่ผ่านไฟ ดวงตาสีทองหม่น ผมเริ่มมีแถบขาวจากฝุ่นศึก
+* **Class & Level:** **Fighter (Champion)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** Veteran mercenary / Blacksmith’s bodyguard / Weapon instructor
+* **Rank / Position:** **Vanguard Captain of the Forgefronts**
+* **Organization:** **The Ironward Brotherhood**
+* **Symbol:** flame-wreathed gauntlet gripping a broken sword
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Arabic–Slavic blend**, rugged but noble, eyes filled with tempered heat.
+
+**Eyes:** molten amber, sharp and tired all at once.
+**Skin:** tanned bronze with burn scars across his forearms.
+**Hair (Masculine Hair Randomizer):** 🎲 *Result → Medium (35%)*
+**Style:** **medium rugged with side-swept front**, loosely tied with a leather cord.
+**Color:** **dark brown with iron-gray streaks.**
+**Height:** 185 cm
+**Weight:** 83 kg
+**Body Build:** heavily muscular, dense shoulders, powerful hands used to weapons and tools alike.
+
+**Accessories (male glasses 30% → 🎲 fail):**
+Wears a **blacksmith’s chain necklace**, **forged steel ring**, and **half-glove gauntlets** engraved with personal runes of resilience.
+
+---
+
+## 👗 Outfit (in English)
+
+**Style Roll:** 🎲 *Result → battle-forged armor (practical / worn aesthetic)*
+
+Kaen’s armor is a blend of utility and heritage: **reinforced crimson half-plate**, scarred from years of battle but polished daily.
+A **thick leather harness** supports his greatsword’s scabbard, and a **short red cloak** drapes across one shoulder.
+Underneath, a **black linen tunic** clings to his frame, torn slightly at the collar from past fights.
+
+**Color Palette:** crimson / black / steel gray / ash gold
+**Accents:** worn yet commanding
+
+**Weapons:** greatsword “Ashbinder,” backup handaxe “Cinder.”
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +3)×3 → **36 HP**
+* **AC:** **17** (half plate)
+* **Speed:** 30 ft
+* **STR 18 (+4)** **DEX 12 (+1)** **CON 16 (+3)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +6, CON +5
+* **Skills:** Athletics +6, Intimidation +3, Perception +3, Smith’s Tools (Proficient)
+* **Languages:** Common, Dwarvish, Skarnov runic
+
+**Fighter (Champion) 3:**
+
+* **Improved Critical (19–20)**
+* **Second Wind, Action Surge**
+* **Fighting Style:** Great Weapon Fighting
+
+**Attacks:**
+
+* **Greatsword “Ashbinder”:** +6 to hit, 2d6+4 slashing (reroll 1–2)
+* **Handaxe “Cinder”:** +6 to hit, 1d6+4 slashing (range 20/60 ft)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Frontline Bruiser / Anchor
+* **Opener:** *Second Wind* if entering prolonged battle.
+* **Flow:** *Action Surge* for burst — smite through lines with cleaving blows.
+* **Finisher:** *Ashbinder Crosscut* — a sweeping arc that leaves embers glowing in air.
+
+**Damage Flavor:** heat haze follows each swing, leaving flickering trails like molten sparks.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Dry humor, decisive, stoic warmth hidden under roughness.
+* **Ideal:** Duty — “Fire consumes what it must, so light can remain.”
+* **Bond:** Loyal to his blacksmith guild; mentors street orphans as apprentices.
+* **Flaw:** Underestimates his own emotional fatigue.
+* **Quirk:** Keeps counting his sword strokes out loud while training.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Iron Bastion, Furnace Courts, Emberwatch Keep**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **siege defense**, **training duel**, **escort across molten plains.**
+
+---
+
+## 📜 Background & Lifestyle
+
+Kaen was once a royal guard until a failed mission scorched his unit.
+Now, he forges weapons for younger warriors, teaching that strength without craft is meaningless.
+
+* **Lifestyle:** minimalist; sleeps near the forge.
+* **Income:** smithing commissions + combat contracts.
+* **Relationships:** close ally of Ren Akirato (Monk #193); sees him as a younger brother in discipline.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes the world burns to temper its heroes. Mercy, to him, is a forge’s cool water — used sparingly.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of his temper during battle.
+* **Weaknesses:** prideful, refuses to retreat.
+* **Strengths:** endurance, intimidation, heavy weapon mastery.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**วัยกลางคน tone — สุขุม มีเสน่ห์แบบผู้ใหญ่ที่ใจดีแต่เด็ดขาด**
+
+> “You swing too light. Feel the blade, not your fear.”
+> *เสียงทุ้มต่ำอบอุ่น แฝงแววสอน แต่ปลายนิ้วยกคางคนฟังขึ้นอย่างแผ่วเบา รอยยิ้มที่ทำให้หัวใจสั่นไม่รู้ตัว*
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** The Ashbinder blade was forged using remnants of Severance flame; it “breathes” faintly when near corrupted areas.
+* **Hooks:**
+
+  1. **Forged in Flame:** The party must help Kaen retemper his blade before it devours his spirit.
+  2. **Vanguard’s Trial:** He is challenged by his old commander for the title of Ironward.
+  3. **Echo at the Forge:** The forge itself begins whispering in Severance tongue.
+
+## Tags: #Male #AdultType #Human #Fighter3 #Champion #Skarnov #CR1 #Mercenary #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaen **ไม่เขินง่าย แต่ทำให้คนรอบตัวรู้สึกอบอุ่นและมั่นใจขึ้น**
+
+> “You did good. Now stand tall—don’t waste my lessons by slouching.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** greatsword, handaxe
+  * **Armor:** half plate
+  * **Tools:** smith’s kit
+  * **Consumables:** fire resistance salve ×1
+  * **Misc:** forge ring, iron chain
+* **Level-Up Suggestions (to 4):** +2 STR (to 20) or Feat **Great Weapon Master**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Iron Bastion / Furnace Courts**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **siege training**, **forge ritual defense**, **Severance flame containment**
+* **Affiliation:** **Ironward Brotherhood**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Arabic Slavic male human fighter champion 185cm medium dark brown hair gray streak rugged amber eyes muscular build scarred tanned skin crimson armor greatsword fire forge battle veteran stoic expression

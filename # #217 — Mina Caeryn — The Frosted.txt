@@ -1,0 +1,203 @@
+# #217 — **Mina Caeryn** — *The Frosted Whisper of Azure Vale*
+
+> “Not every chill means fear. Some of us breathe better in the cold.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 217
+* **Gender:** **Female (Type: รุ่นน้อง)** — ร่าเริง ขี้เล่น มีพลังงานสูง ชอบแกล้งคนที่ชอบ แต่เวลาจริงจังจะนิ่งจนเยือกเย็น
+* **Age:** 19
+* **Race:** **Other (Water Genasi)** — ผิวสีขาวนวลมีประกายฟ้าอ่อน ๆ เมื่อโดนแสงเย็น เส้นผมดูเหมือนเส้นไหมเคลือบน้ำแข็ง ดวงตาเหมือนหยดน้ำแข็งละลาย
+* **Class & Level:** **Sorcerer (Divine Soul)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Elemental adept / acolyte-in-training
+* **Organization:** **Thalassara School of Aural Arts**
+* **Symbol:** crystalline tear suspended in silver ring
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Nordic**, delicate yet luminous, the balance of innocence and ethereal grace.
+
+**Eyes:** translucent aqua-blue with shimmering irises like frost fractals.
+**Skin:** pale porcelain with faint cool undertones, veins faintly visible like frozen streams under skin.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Twin Bun** (slightly more common than twin tail)
+**Style:** **twin buns with trailing locks**, glossy **ice-silver** hue, short side bangs framing her face.
+**Color:** **pale ice blue with white gradient tips.**
+
+**Height:** 160 cm
+**Weight:** 50 kg
+**Body Type:** slim, soft contours, graceful posture; lithe but subtly toned from swimming and magic practice.
+
+**FEMALE BODY METRICS (รุ่นน้อง type, large cup allowed)**
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 102 – 70 – 104
+VALIDATION: • W/B = 0.686 → OK   • H/W = 1.49 → OK
+```
+
+**Theme Layer:** **Nerd (35%)**
+**Glasses Roll:** automatic (Nerd type → always wears).
+**Glasses:** round crystalline frames etched with faint runic snowflakes.
+**Jewelry & Accessories:** frost-pearl choker, silver stud earrings, floating charm band around wrist that glows when she channels spells.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** mild — elegant student uniform with magical embellishment
+
+Mina wears a **frost-blue sleeveless top** with an **open shoulder design** and silver trimming that faintly glows when she uses sorcery.
+Her **skirt is asymmetrical**, shorter on one side, with translucent veils draping behind like flowing water.
+Thigh-high stockings are inscribed with rune-lace patterns, and she keeps a **short fur-collared capelet** for warmth.
+
+**Color Palette:** ice blue / white / silver / pale lavender
+**Highlights:** crystalline motifs, layered fabrics, soft sparkle aesthetic
+
+**Weapons & Gear:**
+
+* **Focus:** glass wand tipped with floating snow crystal
+* **Arcane Journal**, **frost orb**, **holy charm from her mentor**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **20 HP**
+* **AC:** **13** (Mage Armor)
+* **Speed:** 30 ft; **swim speed 30 ft** (Water Genasi)
+* **STR 8 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 12 (+1)** **WIS 10 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, CHA +5
+* **Skills:** Arcana +3, Insight +2, Performance +5, Persuasion +5
+* **Languages:** Common, Primordial (Aquan), Celestial
+
+**Sorcerer 3 — Divine Soul (Good)**
+
+* **Favored by the Gods:** 2d4 to failed save or attack (1/rest).
+* **Metamagic (2 known):** *Twinned Spell, Subtle Spell*
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Cantrips:* *Ray of Frost, Guidance, Minor Illusion, Sacred Flame*
+  * *1st:* *Bless, Shield, Cure Wounds*
+  * *2nd:* *Mirror Image, Hold Person*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Support Caster / Crowd Control**
+* **Opener:** *Bless* or *Hold Person*, then *Mirror Image* to stay safe.
+* **Flow:** alternate between offense (*Ray of Frost*) and clutch support (*Cure Wounds*, *Shield*).
+* **Finisher:** *Twinned Ray of Frost* to immobilize foes while allies move in.
+
+**Damage Flavor:** frost crystals bloom midair, breaking into drifting light that fades like breath on glass.
+
+---
+
+## 💬 Personality
+
+* **Traits:** bubbly, nerdy curiosity, surprisingly brave when protecting others.
+* **Ideal:** Curiosity — “Magic is just emotion that got organized.”
+* **Bond:** her mentor, a retired cleric who first saw divine resonance in her sorcery.
+* **Flaw:** overthinks emotionally; apologizes too much.
+* **Quirk:** pushes glasses up with wand when deep in thought.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Azure Vale Academy / Frostmirror Amphitheater**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **academy exam duel**, **Echo incursion through frozen ritual**, **rescue in collapsing waterway**
+
+---
+
+## 📜 Background & Lifestyle
+
+Mina was a novice who discovered her connection to celestial power during a near-drowning accident.
+She now balances study and practice, writing every discovery meticulously in her rune journal.
+
+* **Lifestyle:** diligent but clumsy; studies till dawn.
+* **Income:** scholarship stipend + tutor aid from senior clerics.
+* **Relationships:** looks up to Lyra Thalassara (#1) as role model; has a quiet crush on a rival apprentice.
+
+---
+
+## 🧩 Morals & Ethics
+
+Empathy as strength — even ice can cradle warmth.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** letting someone down during a mission; heat.
+* **Weaknesses:** physically fragile, too trusting.
+* **Strengths:** exceptional reaction speed, emotional resonance enhances healing spells.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — ซื่อบื้อเวลาโดนชม แต่อ้อนง่าย**
+
+> “W-wait, you mean I look cool? That’s… not a pun, right?”
+> พูดพร้อมดึงแว่นลงอย่างงง ๆ ก่อนหน้าแดงไปถึงหู
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her divine power is tied to a forgotten Echo spirit of frozen light.
+* **Hooks:**
+
+  1. **The Silent Hymn:** a melody only she hears begins spreading frost patterns across her dorm.
+  2. **Glassheart Ritual:** she’s the key to reawakening a sealed Thalassaran saint.
+  3. **Frozen Debt:** her mentor’s soul may be trapped beneath the academy’s frozen archives.
+
+## Tags: #Female #JuniorType #Other #WaterGenasi #Sorcerer3 #DivineSoul #Thalassara #CR1 #SupportCaster #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mina **ชอบทำให้คนอื่นเขินโดยการเผลอพูดตรง ๆ แบบไม่ได้ตั้งใจ**
+
+> “You smell like lightning. That’s… a compliment! Probably.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** none (focus only)
+  * **Armor:** Mage Armor spell
+  * **Tools:** Arcane journal, quill, holy charm
+  * **Consumables:** potion of healing ×1
+  * **Misc:** frost orb, glasses, small fur capelet
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 19)** or **Feat: Inspiring Leader / Elemental Adept (Cold)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Azure Vale Academy / Frostmirror Amphitheater**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **training duel**, **ritual freeze**, **Echo breach rescue**
+* **Affiliation:** **Thalassara School of Aural Arts**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Nordic female water genasi sorcerer divine soul 160cm twin buns ice blue hair white tips aqua eyes fair skin frost aura round glasses silver choker sleeveless uniform ice-blue skirt thigh-high stockings winter fantasy mage shy smile

@@ -1,0 +1,206 @@
+# #206 — **Ame Linfae** — *The Silent Bloom of El-Vendas Vale*
+
+> “Not every healer prays aloud. Some whisper their magic through petals.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 206
+* **Gender:** **Female (Type: รุ่นพี่)** — สุภาพ อ่อนโยน แต่มีแรงดึงดูดแบบผู้หญิงที่ผ่านโลกมาแล้ว ใจดีแต่พูดตรง
+* **Age:** 28
+* **Race:** **Half-Beast (Mammal subtype — Cat)** — หูแมวนุ่มสีเทาเงินเหนือศีรษะ หางยาวเรียวขยับอย่างมีจังหวะ ดวงตาเฉดม่วงอ่อนสะท้อนแสง
+* **Class & Level:** **Druid (Circle of Dreams)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** traveling botanist / healer / wilderness guide
+* **Organization:** **Verdant Path of El-Vendas**
+* **Symbol:** blooming lotus cradled by crescent leaves
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Chinese–French**, serene beauty with gentle feline grace.
+
+**Eyes:** lilac with vertical pupils that narrow subtly in sunlight.
+**Skin:** porcelain with faint rose hue. When she smiles, her canines peek slightly.
+
+**Hair (Feminine Hair Randomizer):** 🎲 *Result → Bun/Twin Bun group → result: single low bun*
+**Style:** long straight hair tied into a **low bun** with a loose lock on each side framing her cheeks.
+**Color:** **silvery ash-blonde** with faint lavender tips.
+
+**Height:** 169 cm
+**Weight:** 57 kg
+**Body Type:** elegant and curvy, with a natural softness over lean muscle.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 71 – 101
+VALIDATION: • W/B = 0.724 → OK   • H/W = 1.42 → OK
+```
+
+**Theme Layer:** **Nerd 35% → failed roll → no glasses**
+**Jewelry & Accessories:** small **lotus pendant**, **silver ear cuff**, **woven leaf anklet**, and **moonlight bracelet** that glows faintly in dark groves.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** light — practical travel robes, subtly alluring
+
+Ame wears a **white-green layered robe**, belted with **braided vines**, and open at the sides for mobility.
+The neckline dips just enough to reveal a soft curve but remains dignified.
+Her **bare shoulders** peek beneath light shawl wraps when casting healing spells.
+
+**Color Palette:** pale green / ivory / silver / lilac
+**Accents:** petal embroidery and faint glowing threadwork
+
+**Weapons & Gear:**
+
+* Wooden staff with blooming crystal tip (focus)
+* Small herbal pouch belt
+* Polished druidic charm ring
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **15** (hide armor + DEX + WIS)
+* **Speed:** 30 ft
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 11 (+0)** **WIS 17 (+3)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +2, WIS +5
+* **Skills:** Medicine +5, Nature +4, Insight +5, Animal Handling +5
+* **Languages:** Common, Sylvan, Druidic
+
+**Druid (Circle of Dreams) 3:**
+
+* **Balm of the Summer Court (5d6 pool)**
+* **Wild Shape (utility-based)**
+* **Spellcasting (WIS DC 13, +5 atk)**
+
+  * *Cantrips:* *Guidance, Druidcraft, Thorn Whip*
+  * *Prepared Spells:* *Goodberry, Healing Word, Moonbeam, Entangle, Lesser Restoration, Flaming Sphere*
+
+**Attacks:**
+
+* **Quarterstaff:** +4 to hit, 1d8+2 bludgeoning (versatile)
+* **Thorn Whip:** +5 to hit, 2d6 piercing (pull 10 ft)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Healer / Battlefield Shaper**
+* **Opener:** *Entangle* or *Thorn Whip* to control space.
+* **Flow:** rotates *Healing Word* + *Moonbeam* sustain; uses **Balm of the Summer Court** reactively.
+* **Finisher:** *Flaming Sphere* to push enemies into her Moonbeam zone.
+
+**Damage Flavor:** soft petals swirl with radiant motes of green light when she channels healing energy.
+
+---
+
+## 💬 Personality
+
+* **Traits:** patient, nurturing, slightly teasing when she relaxes.
+* **Ideal:** Harmony — “Healing isn’t correction; it’s conversation.”
+* **Bond:** her mentor’s spirit resides in the moon crystal atop her staff.
+* **Flaw:** overprotective toward those younger or weaker.
+* **Quirk:** flicks her tail lightly when amused or proud.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **El-Vendas Vale — Verdant Groves, Whispering Fields, Blooming Shrines**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **field healing mission**, **forest purification**, **Severance corruption bloom**
+
+---
+
+## 📜 Background & Lifestyle
+
+Ame once tended noble gardens before the Severance plague burned them.
+She now travels as a wandering botanist-healer, searching for flora that can resist Echo corruption.
+
+* **Lifestyle:** quiet, prefers nature lodgings.
+* **Income:** herbal sales, healing commissions.
+* **Relationships:** old acquaintance of Seren Aqualyn (#204), mentor figure to Yuna Vareth (#201).
+
+---
+
+## 🧩 Morals & Ethics
+
+Every creature deserves gentleness — until it threatens to unbalance life.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being unable to save someone again.
+* **Weaknesses:** softhearted; can’t stand cruelty.
+* **Strengths:** elite healing, battlefield control, wisdom under pressure.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — สุภาพอบอุ่นแต่เจ้าเล่ห์นิด ๆ เวลาพูดใกล้ ๆ**
+
+> “You flinched again. Do I make you nervous… or is it just the medicine?”
+> เธอยิ้มบางและใช้ปลายนิ้วแตะหน้าผากเบา ๆ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her mentor’s spirit inside the staff is slowly fading into an Echo entity.
+* **Hooks:**
+
+  1. **The Withering Lotus:** her staff’s crystal begins blooming black petals.
+  2. **Dreaming Grove:** she is drawn nightly into a dream where her mentor calls for help.
+  3. **Echo Bloom Ritual:** a Severance cult seeks to use her healing circle for corruption.
+
+## Tags: #Female #OlderSisterType #HalfBeast #Cat #Druid3 #CircleOfDreams #ElVendas #CR1 #Support #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Ame **ทำให้คนเขินโดยใช้การแตะสัมผัสเบา ๆ ขณะพูดด้วยน้ำเสียงอ่อนโยน**
+
+> “Hold still, darling. The light listens better when you breathe slower.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff
+  * **Armor:** hide armor
+  * **Tools:** herbalism kit
+  * **Consumables:** potion of healing ×1, restorative salve ×1
+  * **Misc:** moon crystal focus, travel journal, pressed flower bookmarks
+* **Level-Up Suggestions (to 4):** +2 WIS (to 19) or Feat **Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **El-Vendas Vale / Verdant Path**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **forest cleansing**, **resonant corruption purge**, **dream ritual defense**
+* **Affiliation:** **Verdant Path of El-Vendas**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Chinese French female half-cat druid circle of dreams 169cm silvery ash blonde hair low bun lilac eyes fair skin gentle smile white green layered robes soft neckline shoulder shawl wooden staff moon crystal elegant pose forest clearing background

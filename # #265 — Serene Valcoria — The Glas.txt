@@ -1,0 +1,209 @@
+# #265 — **Serene Valcoria** — *The Glass Blossom Alchemist*
+
+> “Perfection isn’t found in purity—it’s born when you dare to mix the wrong things together.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 265
+* **Gender:** **Female (Type: Nerd)** — พูดเบา ๆ แต่คิดเร็ว คิ้วขมวดเวลาโฟกัสงานและเผลอพูดคำศัพท์เทคนิคกลางบทสนทนา
+* **Age:** 24
+* **Race:** **Half-Beast (Catfolk)** — humanlike 90%, only faint feline traits: slightly pointed teeth, slit pupils, and a tail wrapped around her waist like a belt.
+* **Class & Level:** **Artificer (Alchemist)** 3
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** **Potion researcher / field alchemist / academic explorer**
+* **Organization:** **Aurum Collegium – Department of Arcane Chemistry**
+* **Symbol:** an open glass vial blooming with petals of steam
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese-European hybrid**, delicate face with clever, observant eyes.
+
+**Eyes:** golden-amber with feline slit pupils that dilate in the dark.
+**Skin:** pale ivory with a rosy undertone.
+
+**Hair (Female Hair Randomizer):** 🎲 **Bob cut (15%) — asymmetrical, slightly curled inwards**
+**Color:** **dusty lavender** with pale blue sheen under light.
+
+**Height:** 160 cm
+**Weight:** 52 kg
+**Body Type:** **slim hourglass**, lightly toned arms, graceful posture; her movements precise and efficient.
+
+**FEMALE BODY METRICS (Nerd + random)**
+
+```
+CUP: D   CATEGORY: Medium-Large
+THREE_SIZES (B-W-H, cm): 90 – 66 – 92
+VALIDATION: • W/B = 0.73 → OK   • H/W = 1.39 → OK
+```
+
+**Sub-Theme:** 🎲 **Nerd (Scientist subtype)** — always carries quills and scribbles mid-conversation.
+
+**Glasses Rule (Nerd = Always):** **Yes.**
+**Glasses:** thin-rim rectangular spectacles with adjustable bridge; the lenses glow faintly with blue runes.
+
+**Jewelry & Accessories:** silver pen-pendant, leather satchel of vials, black ribbon tied around her tail’s base (for concentration “luck”).
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium — practical elegance**
+
+Serene wears a **white alchemist’s blouse** with rolled sleeves and a **corset-like utility belt** holding glass vials and tools.
+Her **high-waist pencil skirt** splits at the side for movement, revealing **black lace garter straps** beneath when she walks.
+Over her shoulders sits a **short navy mantle** embroidered with golden symbols.
+
+**Palette:** white / navy / gold / pale lavender
+**Accents:** brass buckles, glass vials, alchemical glow
+
+**Weapons & Gear:**
+
+* *Alchemical Pistol* (refitted flask gun)
+* *Transmutation Gauntlet*
+* *Elixir Kit & portable lab case*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **19 HP**
+* **AC:** **15** (studded leather + DEX + enchantments)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 11 (+0)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, INT +5
+* **Skills:** Arcana +5, Investigation +5, Medicine +2, Nature +5
+* **Languages:** Common, Draconic, Alchemical Cipher
+
+**Artificer (Alchemist)**
+
+* **Experimental Elixir (d6 random potion)**
+* **Alchemist’s Supplies (Expertise)**
+* **Infuse Item (2)** — e.g. Enhanced Defense, Repeating Shot.
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mending, Ray of Frost*
+  * *1st–2nd:* *Cure Wounds, Faerie Fire, Web, Flaming Sphere*
+
+**Attacks**
+
+* **Ray of Frost:** +5 to hit, 1d8 cold.
+* **Alchemical Pistol:** +5, 1d8 acid/fire (uses infused flask).
+
+---
+
+## 🎯 Combat Tactics (Support / Debuff)
+
+* **Role:** **Battlefield Controller / Support**
+* **Opener:** *Faerie Fire* to mark enemies → *Web* to restrain.
+* **Flow:** toss *Elixirs* to allies for healing or buff.
+* **Finisher:** *Flaming Sphere* while firing acid shots from range.
+
+**Flavor:** her vials burst in controlled fractal light; she counts seconds between reactions like music beats.
+
+---
+
+## 💬 Personality
+
+* **Traits:** analytical, shy but witty; taps her pen against lips when thinking.
+* **Ideal:** Knowledge through imperfection — “Accidents are proof you’re learning.”
+* **Bond:** her late mentor, an eccentric gnome who vanished after creating “living glass.”
+* **Flaw:** forgets to eat or rest during experiments; easily startled.
+* **Quirk:** her tail moves when she’s excited or embarrassed, giving away her mood.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Aurum City — Steamspire Labs / Glass Gardens**
+* **Threat Gradient:** **Stable → Controlled Echo**
+* **Encounter Framing:** **lab accident**, **potion malfunction**, **mercenary alchemy test**
+
+---
+
+## 📜 Background & Lifestyle
+
+Serene grew up as an apprentice to the Glass Gardens’ chief alchemist.
+After a failed experiment that created sentient crystal vines, she set out to refine her craft through fieldwork.
+
+* **Lifestyle:** keeps lab notes on her arm with chalk, lives in a dorm room full of glowing flasks.
+* **Income:** potion sales and university grants.
+* **Relationships:** occasionally assists Dr. Cassia (#201) with Echo-based mixtures.
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes knowledge is a duty — even mistakes deserve to be written down for others to learn from.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of volatile elixirs; disappointing her mentor.
+* **Weaknesses:** low endurance; poor reflex in melee.
+* **Strengths:** sharp intellect, precise timing, inventive combat tricks.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Nerd tone — พูดตรง เสียงเบา อายง่ายโดยเฉพาะเมื่อมีคนมองตอนทำงาน หรือชมฝีมือเธอ**
+
+> “Y-you’re watching too closely… the reaction’s sensitive to heat, including body heat, so—step back… please?”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** one of her “failed potions” is actually a dormant consciousness—her mentor’s mind trapped in liquid form.
+* **Hooks:**
+
+  1. **Glass Heart:** her potion begins whispering to her during dreams.
+  2. **Runaway Reaction:** alchemical slimes born from her early formula return.
+  3. **The Living Lab:** her lab starts growing vines that record memories.
+
+## Tags: #Female #NerdType #HalfBeast #Catfolk #Artificer3 #Alchemist #CR1 #AurumCity
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Serene **เขินเวลามีใครเข้ามาใกล้เกินระยะส่วนตัว มือจะเผลอยกขึ้นบังหน้าอกและหางจะกระดิกแรงจนเสียงแก้วในกระเป๋ากระทบกันดัง**
+
+> “D-don’t move closer… some of these mixtures are volatile… and so am I, apparently.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** alchemical pistol
+  * **Armor:** blouse + mantle + infused belt
+  * **Tools:** alchemist’s kit, portable lab
+  * **Consumables:** 4 random elixirs
+  * **Misc:** notebook, tail ribbon
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Alchemist Savant / Keen Mind**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Aurum City / Steamspire Labs**
+* **Threat Gradient:** **Stable → Controlled Echo**
+* **Encounter Type:** **lab crisis**, **ingredient recovery**, **runaway golem containment**
+* **Affiliation:** **Aurum Collegium**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese European female catfolk artificer alchemist 160cm short bob dusty lavender hair golden eyes pale skin D-cup nerd wearing glasses white blouse corset belt pencil skirt side slit alchemy lab aesthetic delicate intelligent shy

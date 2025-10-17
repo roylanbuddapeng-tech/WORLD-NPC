@@ -1,0 +1,206 @@
+# #249 — **Mira Hanabira** — *The Cherry-Tonic Apprentice of Bloomspire Atelier*
+
+> “Healing’s easy! You just mix sugar, sunlight, and a little bit of panic.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 249
+* **Gender:** **Female (Type: รุ่นน้อง)** — ร่าเริง ขี้อ้อน เสียงสดใส พูดไวกว่าใจคิด มักพลาดแล้วรีบขอโทษทันที
+* **Age:** 19
+* **Race:** **Half-Beast (Mammal — Catkin)** — มนุษย์ ~85% มีหูแมวสีชมพูอ่อนและหางยาวปุกปุย ดวงตากลมโตแบบแมว มีแววขี้เล่นอยู่เสมอ
+* **Class & Level:** **Artificer (Alchemist)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** potion assistant / combat alchemist / delivery medic
+* **Organization:** **Thalassara — Bloomspire Atelier**
+* **Symbol:** ขวดน้ำยาเปิดฝามีดอกซากุระผลิบานออกมาจากฟอง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese**, vibrant energy with cheerful, mischievous cuteness.
+
+**Eyes:** golden-amber with vertical catlike pupils; shine like honey when she laughs.
+**Skin:** fair with a warm blush that rises fast when flustered.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail (highest weight)**
+**Style:** **high side ponytail**, slightly **wavy**, tied with a pink ribbon that bounces when she runs.
+**Color:** **bubblegum pink** with subtle **peach highlights**.
+
+**Height:** 158 cm
+**Weight:** 50 kg
+**Body Type:** petite yet curvy, full chest for her size; quick, bouncy movements.
+
+**FEMALE BODY METRICS (รุ่นน้อง: allowed large cup)**
+
+```
+CUP: H   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 105 – 68 – 102
+VALIDATION: • W/B = 0.648 → OK   • H/W = 1.50 → OK
+```
+
+**Theme Layer:** **None**
+**Glasses Roll (40%) → fail:** no glasses.
+**Jewelry & Accessories:** pink gem necklace (handmade charm), chime anklet, bracelet of tiny potion charms.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **High exposure — cropped top + open midsection + skirt-split apron**
+
+Mira wears a **short alchemist’s apron-dress** with **open sides** and a **cropped white chem blouse** underneath that shows her **lower bust curve** when she bends forward.
+The **skirt** is short and **split at both sides**, revealing **lace-edged thigh straps** where she carries mini vials.
+**Knee-high boots** and **fingerless gloves** round her look, with small sparkles of potion mist clinging to her hair.
+
+**Palette:** pastel pink / cream white / gold / translucent glass
+**Accents:** cute but functional — bright, clean, lively
+
+**Weapons & Gear:**
+
+* Mini potion sling (bandolier)
+* “Fizzbombs” (flavor: alchemical grenades)
+* Alchemist’s kit
+* Short wand with glass coil (focus)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **20 HP**
+* **AC:** **15** (light apron + DEX + infusion)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 16 (+3)** **WIS 11 (+0)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, INT +5
+* **Skills:** Arcana +5, Persuasion +4, Medicine +2, Acrobatics +4
+* **Languages:** Common, Celestial, Thalassaran Cant
+
+**Artificer 3 — Alchemist**
+
+* **Infuse Item (2):** *Enhanced Arcane Focus*, *Enhanced Defense*
+* **Experimental Elixir (3/day)** — random buffs like healing, swiftness, resilience.
+* **Tool Expertise:** Alchemist’s Supplies
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Mending, Fire Bolt, Guidance*
+  * *1st:* *Cure Wounds, Faerie Fire*
+  * *2nd:* *Aid, Web*
+
+---
+
+## 🎯 Combat Tactics (Support / Backline)
+
+* **Role:** **Ranged Support / Field Healer / Chaos Buffer**
+* **Opener:** *Aid* or *Healing Elixir* for HP boost; toss *Fizzbomb* to mark enemy positions.
+* **Flow:** *Faerie Fire* + *Web* for control, *Cure Wounds* to patch frontliners.
+* **Finisher:** *Fire Bolt* amplified by *Experimental Reagent* for burst.
+* **Team Trick:** often feeds potions directly to allies (“Say ‘ahh!’”) mid-battle.
+
+**Flavor:** her potions pop with pink fizz — the scent of peach syrup trails her movements.
+
+---
+
+## 💬 Personality
+
+* **Traits:** energetic, curious, physically affectionate, occasionally clumsy.
+* **Ideal:** Hope — “No one’s beyond fixing; I’ve got just the recipe.”
+* **Bond:** her mentor Nara Veylin (#247); calls her “Master Naraaa~” constantly.
+* **Flaw:** tests new potions on herself first — often hiccups glitter after.
+* **Quirk:** adds sugar to every potion “to make the medicine go down better.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Bloomspire Atelier, Dockside Markets, Tidecell Ward**
+* **Threat Gradient:** **Stable → Wavering (trade route ambushes)**
+* **Encounter Framing:** **potion cart defense**, **alchemy delivery escort**, **Echo spill containment**
+
+---
+
+## 📜 Background & Lifestyle
+
+An orphan picked up by the Bloomspire guild, Mira turned out to be a natural prodigy at color mixing — and chaos.
+She’s the reason the atelier now has *“splash-proof walls”*.
+
+* **Lifestyle:** tiny shared dorm with shelves of pink bottles.
+* **Income:** guild apprentice stipend + bonus from field work.
+* **Relationships:** idolizes Nara (#247); flirts innocently with couriers for discounts.
+
+---
+
+## 🧩 Morals & Ethics
+
+Helping people feels better when they smile after — not just when they survive.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** causing real harm with her potions.
+* **Weaknesses:** reckless curiosity, low durability.
+* **Strengths:** flexible healing, battlefield buffs, morale boost.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — อ้อนและชอบทำให้คนเขินแบบไม่ตั้งใจ**
+
+> “You’ve got potion on your lips… um… here, let me—”
+> (เธอใช้ปลายนิ้วเช็ดอย่างเบามือ แล้วรีบหน้าขึ้นแดงจัด)
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** accidentally created a potion that gives temporary *Echo resonance*; hides it from her guild.
+* **Hooks:**
+
+  1. **Sweet Reaction:** someone mass-produces her formula; the results are explosive.
+  2. **Catnip Brew:** a smuggler sells her “miracle tonic” to beastkin addicts.
+  3. **Fizztide Bloom:** her failed potion sprouted into a sentient flower asking for “mother.”
+
+## Tags: #Female #JuniorType #HalfBeast #Catkin #Artificer3 #Alchemist #Support #Backline #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mira **ทำให้เขินด้วยการยื่นหน้าเข้ามาใกล้เกินไปเวลาตรวจบาดแผล**
+
+> “Hold still—if you move, I’ll spill it… and then I’ll have to lick it off, nya~!”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** short wand, light crossbow
+  * **Armor:** alchemist’s apron (light)
+  * **Tools:** alchemist’s kit, potion sling
+  * **Consumables:** 3 experimental elixirs
+  * **Misc:** chime anklet, potion bracelet, pink ribbon
+* **Level-Up Suggestions (to 4):** **+2 INT (to 18)** or **Feat: Alchemist Savant / Healer**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Bloomspire Atelier / Tidecell Ward**
+* **Threat Gradient:** **Stable → Wavering (trade ambushes)**
+* **Encounter Type:** **delivery defense**, **healing aid**, **Echo spill control**
+* **Affiliation:** **Bloomspire Atelier**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese female catkin half-beast artificer alchemist 158cm high side ponytail pink hair peach highlights golden cat eyes fair skin H-cup cropped chem blouse open sides split skirt apron thigh straps pink ribbon cheerful junior cute mischievous style pastel alchemy lab

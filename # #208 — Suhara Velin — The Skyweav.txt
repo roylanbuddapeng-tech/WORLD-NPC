@@ -1,0 +1,206 @@
+# #208 — **Suhara Velin** — *The Skyweaver of Thalassara Heights*
+
+> “Every gust is a song. Every fall is just the rhythm before flight.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 208
+* **Gender:** **Female (Type: รุ่นน้อง)** — ร่าเริง สดใส แต่ซ่อนความกล้าแบบคนที่อยากพิสูจน์ตัวเอง
+* **Age:** 20
+* **Race:** **Half-Beast (Avian subtype — Hawk)** — มนุษย์หญิงรูปร่างเพรียว มีปีกขนาดเล็กออกจากสะบักหลังปกติซ่อนไว้ได้ ดวงตาเฉดทองเข้มคล้ายเหยี่ยว
+* **Class & Level:** **Sorcerer (Storm Sorcery)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** messenger mage / storm courier / aerial scout
+* **Organization:** **Thalassara Sky Relay Guild**
+* **Symbol:** lightning bolt shaped like a feather
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Nordic**, an airy, lighthearted charm with wind-tossed hair and bright eyes.
+
+**Eyes:** golden-amber with vertical slits.
+**Skin:** pale ivory, kissed by faint sun freckles.
+
+**Hair (Feminine Hair Randomizer):** 🎲 *Result → Straight (highest)*
+**Style:** straight shoulder-length hair with a messy wind-blown texture and side bangs covering one eye slightly.
+**Color:** **pale blond with silver-blue sheen.**
+
+**Height:** 163 cm
+**Weight:** 50 kg
+**Body Type:** slim-fit, flexible with dancer-like legs and soft muscle tone.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 66 – 90
+VALIDATION: • W/B = 0.75 → OK   • H/W = 1.36 → OK
+```
+
+**Theme Layer:** **Nerd (35%) → success → wears glasses**
+**Jewelry & Accessories:** rounded **storm-glass goggles** (worn like glasses), **silver wind chime earrings**, **blue-thread anklet**, and **small rune locket**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** light — practical, breezy
+
+Suhara wears a **short cropped flight jacket** over a **form-fitting tunic**, **short wind skirt**, and **thigh straps** for gear hooks.
+Her outfit is designed for gliding and casting midair, shimmering faintly with static magic.
+When casting, the **edges of her sleeves glow pale blue**, tracing runes like flowing wind.
+
+**Color Palette:** sky blue / white / silver / navy
+**Accents:** aerodynamic lines, lightweight fabrics, avian feathers on cuffs and hem
+
+**Weapons & Gear:**
+
+* **Storm focus orb** (embedded on wristband)
+* **Dagger of Skyglass** (ceremonial)
+* **Wing harness pack**, message scroll cases, air map
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **21 HP**
+* **AC:** **14** (mage armor)
+* **Speed:** 30 ft (walking), 40 ft (glide/fly 1 min via magic surge)
+* **STR 8 (-1)** **DEX 15 (+2)** **CON 12 (+1)** **INT 11 (+0)** **WIS 10 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +3, CHA +5
+* **Skills:** Acrobatics +4, Arcana +2, Insight +2, Perception +4
+* **Languages:** Common, Auran, Elvish
+
+**Sorcerer (Storm Sorcery) 3:**
+
+* **Tempestuous Magic**, **Heart of the Storm**, **Storm Guide**
+* **Sorcery Points:** 3
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Cantrips:* *Ray of Frost, Gust, Lightning Lure, Prestidigitation*
+  * *Spells:* *Mage Armor, Thunderwave, Shatter, Gust of Wind, Feather Fall*
+
+**Attacks:**
+
+* **Dagger of Skyglass:** +4 to hit, 1d4+2 piercing
+* **Ray of Frost:** +5 to hit, 1d8 cold + 10 ft slow
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Caster / Hit-and-Fly Support**
+* **Opener:** *Gust of Wind* or *Thunderwave* for control.
+* **Flow:** dances between elevation shifts, then *Shatter* for burst AoE.
+* **Finisher:** aerial dive *Lightning Lure* combo before retreat.
+
+**Damage Flavor:** air pressure rings shimmer, hair and feathers ripple as she casts.
+
+---
+
+## 💬 Personality
+
+* **Traits:** enthusiastic, impulsive, flusters easily when praised.
+* **Ideal:** Freedom — “No chain should touch the wind.”
+* **Bond:** devoted to her squad leader who saved her from a crash.
+* **Flaw:** easily distracted by new magic phenomena.
+* **Quirk:** talks to her goggles as if they’re alive.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara Heights — Sky Towers, Wind Bridges, Cloud Markets**
+* **Threat Gradient:** **Stable → Wavering (storm surge periods)**
+* **Encounter Framing:** **aerial delivery under attack**, **lightning storm relay**, **Echo surge at altitude**
+
+---
+
+## 📜 Background & Lifestyle
+
+A runaway apprentice who joined the Sky Relay Guild, Suhara mastered aerial casting faster than any in her cohort.
+She still fears thunder despite commanding it.
+
+* **Lifestyle:** lives in a small floating loft above Thalassara.
+* **Income:** courier salary + weather control commissions.
+* **Relationships:** junior partner to Lyra Thalassara (#001); often teased by Rin Verade (#205).
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes movement is life — stagnation means death.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being grounded permanently or losing flight.
+* **Weaknesses:** fragile defense, easily startled.
+* **Strengths:** extreme mobility, storm synergy, AoE burst.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — ขี้เล่น เขินง่ายแต่พยายามทำเท่**
+
+> “I-I wasn’t staring! I was just… making sure you’re still in one piece!”
+> พูดพลางยกมือผลักเบา ๆ แล้วปีกสั่นเพราะความเขิน
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** she carries a sealed scroll meant for the Valeronnes council—content unknown even to her.
+* **Hooks:**
+
+  1. **Winds of Oath:** her storm magic reacts violently near the Severance frontier.
+  2. **The Lost Courier:** she’s mistaken for a missing envoy and hunted for the message.
+  3. **Echo Stormfall:** her flight squad goes missing mid-delivery.
+
+## Tags: #Female #YoungerType #HalfBeast #Hawk #Sorcerer3 #StormSorcery #Thalassara #CR1 #Caster #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Suhara **เขินง่ายเวลาถูกชม ชอบทำเป็นขู่กลับเบาๆด้วยการขยับหน้าเข้ามาใกล้**
+
+> “Say that again and I might drop a thundercloud on you.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** Skyglass dagger
+  * **Armor:** none (uses Mage Armor)
+  * **Tools:** glider harness, message tube
+  * **Consumables:** potion of feather fall ×1
+  * **Misc:** goggles, rune locket, snack stash
+* **Level-Up Suggestions (to 4):** +2 CHA (to 19) or Feat **Elemental Adept (Lightning)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara Heights / Sky Relay Routes**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **aerial skirmish**, **storm chase**, **resonant courier rescue**
+* **Affiliation:** **Thalassara Sky Relay Guild**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Nordic female half-hawk sorcerer storm magic 163cm pale blonde straight hair gold eyes flight jacket short skirt wind chime earrings glasses storm orb lightning aura flying pose cloudy sky confident smile

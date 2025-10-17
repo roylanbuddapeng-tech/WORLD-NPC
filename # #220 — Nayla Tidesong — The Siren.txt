@@ -1,0 +1,203 @@
+# #220 — **Nayla Tidesong** — *The Siren of the Silent Current*
+
+> “Still waters don’t hide secrets—they sing them softly to whoever dares to listen.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 220
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — ร่าเริง ฉลาด คุยง่าย มีความมั่นใจในตัวเองแต่ไม่โอ้อวด เป็นเพื่อนที่พร้อมเสี่ยงด้วยทุกสถานการณ์
+* **Age:** 24
+* **Race:** **Half-Beast (Aquatic subtype — Sirenblood)** — มนุษย์ร้อยละ 80 ผิวระเรื่อสีมุก แผ่วเกล็ดเงินบาง ๆ ตามสะโพกและปลายแขน ผมเหมือนเส้นไหมสะท้อนน้ำทะเล หูแหลมคล้ายครีบ
+* **Class & Level:** **Bard (College of Whispers)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** minstrel-spy / song courier / information broker
+* **Organization:** **Thalassara Night Ensemble**
+* **Symbol:** two mirrored waves forming a whisper mark
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–Greek**, alluring and playful with a mysterious marine glow.
+
+**Eyes:** aquamarine with faintly glowing pupils; her gaze always seems to shimmer.
+**Skin:** light tan with pearlescent sheen along her arms and collarbones.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail (high weight)**
+**Style:** **low ponytail**, loosely tied with silver ribbon; wavy strands drift as if underwater even in still air.
+**Color:** **deep teal fading to seafoam green.**
+
+**Height:** 168 cm
+**Weight:** 57 kg
+**Body Type:** fit but soft, dancer’s balance, flowing movement with a teasing femininity.
+
+**FEMALE BODY METRICS (friend type — large cup allowed)**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 96 – 70 – 100
+VALIDATION: • W/B = 0.729 → OK   • H/W = 1.43 → OK
+```
+
+**Theme Layer:** **Nerd (35%)**
+**Glasses Roll:** auto success — wears **crystal-rim half-moon spectacles** only when composing or reading sheet music.
+**Jewelry & Accessories:** wave-etched anklet, shell choker, silver wristbells that jingle softly as she gestures.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — stylish with maritime sensuality
+
+Nayla wears a **flowing azure top** with a **shoulder-slit drape**, baring the upper arms and collarbones, fastened by thin silver cords.
+Her **skirt** is layered chiffon, shorter at the front with trailing translucent panels that mimic fins.
+She wears **short boots** with light coral inlays and **a belt pouch of seashell charms** for tuning crystals.
+
+**Color Palette:** aqua / teal / silver / pearl
+**Accents:** fluid silhouettes, ocean motifs, subtle shimmer
+
+**Weapons & Gear:**
+
+* **Rapier “Lullbreaker”**, **dagger**, **lyre of glass-string**, **song scrolls**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **22 HP**
+* **AC:** **15** (studded leather + DEX + cloak)
+* **Speed:** 30 ft; **swim speed 30 ft** (Sirenblood)
+* **STR 10 (+0)** **DEX 16 (+3)** **CON 12 (+1)** **INT 13 (+1)** **WIS 10 (+0)** **CHA 17 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +5, CHA +5
+* **Skills:** Performance +5, Deception +5, Persuasion +5, Stealth +5, Insight +2
+* **Languages:** Common, Primordial (Aquan), Elvish
+
+**Bard 3 — College of Whispers**
+
+* **Bardic Inspiration (d6)**
+* **Psychic Blades:** expend Inspiration to add 2d6 psychic dmg.
+* **Words of Terror:** frighten by subtle speech (once/short rest).
+* **Jack of All Trades, Expertise (Performance, Deception)**
+* **Spellcasting (CHA DC 13, +5 atk)**
+
+  * *Cantrips:* *Message, Vicious Mockery, Minor Illusion*
+  * *1st:* *Charm Person, Healing Word, Disguise Self*
+  * *2nd:* *Detect Thoughts, Suggestion*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Manipulator / Debuffer / Support**
+* **Opener:** *Disguise Self* → *Detect Thoughts* to read intent.
+* **Flow:** distract foes with song, infuse psychic blades mid-duel.
+* **Finisher:** *Suggestion* whispered directly into an ear as echo-ripple shimmers outward.
+
+**Damage Flavor:** the sound of her blade hums like an ocean current, slicing minds before flesh.
+
+---
+
+## 💬 Personality
+
+* **Traits:** witty, curious, disarmingly friendly; uses humor as shield.
+* **Ideal:** Freedom — “Even tides need no permission to return.”
+* **Bond:** a partner-in-crime musician she believes was taken by the Severance.
+* **Flaw:** hides genuine fear behind flirtatious smiles.
+* **Quirk:** hums out of rhythm when nervous but insists it’s “artistic expression.”
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Tidehalls, Coral Bazaars, Sub-Opera Halls**
+* **Threat Gradient:** **Wavering → Echo Zone (during performances)**
+* **Encounter Framing:** **undercover heist**, **opera duel**, **interrogation through song duel**
+
+---
+
+## 📜 Background & Lifestyle
+
+Nayla grew up as a canal performer but learned the real audience was behind the curtains.
+She now trades secrets hidden in melodies and uses her siren blood to echo truth through illusion.
+
+* **Lifestyle:** luxurious minimalism — everything neat, scented with sea salt and jasmine.
+* **Income:** performance contracts + covert information trades.
+* **Relationships:** friendly rivalry with Mina Caeryn (#217).
+
+---
+
+## 🧩 Morals & Ethics
+
+Truth isn’t spoken—it’s performed. She reveals by rhythm, not argument.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing her voice or hearing her own melody turned against her.
+* **Weaknesses:** overly emotional when betrayed.
+* **Strengths:** infiltration, persuasion, psychic precision.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — ยิ้มเก่ง แซวเก่ง แต่จริงใจสุดใจเวลาใครสั่นคลอน**
+
+> “Stop staring, you’ll drown in the view—mine or the sea’s, your choice.”
+> เธอพูดพร้อมยกมือแตะปลายคางยิ้มมุมปาก
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her songs can awaken Echo resonance in others — a dangerous power she hides.
+* **Hooks:**
+
+  1. **The Song That Bled:** her performance leaks forbidden frequencies causing hallucinations.
+  2. **Tide of Whispers:** an assassin’s guild uses her voice recordings for mind control.
+  3. **The Drowned Duet:** she discovers her lost partner’s soul trapped inside her lyre.
+
+## Tags: #Female #FriendType #HalfBeast #Sirenblood #Bard3 #CollegeOfWhispers #Thalassara #CR1 #Support #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nayla **ชอบทำให้คนอื่นเขินด้วยคำพูดตรง ๆ แล้วหัวเราะเมื่อเห็นอีกฝ่ายหน้าแดง**
+
+> “Careful with your heartbeat—I can hear it through the water.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier “Lullbreaker”, dagger
+  * **Armor:** studded leather
+  * **Tools:** musical instrument (lyre), disguise kit
+  * **Consumables:** potion of healing ×1
+  * **Misc:** shell choker, glass lyre
+* **Level-Up Suggestions (to 4):** **+2 CHA (to 19)** or **Feat: Actor / Skilled**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Tidehalls / Coral Bazaar**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **musical infiltration**, **interrogation**, **information trade**
+* **Affiliation:** **Night Ensemble of Thalassara**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese Greek female sirenblood half-beast bard college of whispers 168cm low ponytail teal green hair aquamarine eyes tanned pearlescent skin large bust crystal glasses azure top chiffon skirt underwater glow charming smile

@@ -1,0 +1,199 @@
+# #225 — **Natsumi Raiken** — *Storm-Thread Weaver of the Eastern Peaks*
+
+> “Lightning doesn’t strike twice — unless I ask nicely.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 225
+* **Gender:** **Female (Type: รุ่นน้อง)** — ร่าเริง สดใส แอบดื้อเล็กน้อยแต่ขยัน มีพลังเหมือนสายฟ้าที่ควบคุมไม่อยู่แต่จริงใจสุดๆ
+* **Age:** 19
+* **Race:** **Human**
+* **Class & Level:** **Wizard (School of Evocation)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** apprentice storm mage / courier / field researcher
+* **Organization:** **Arclight College — Tempest Annex**
+* **Symbol:** a stylized bolt threaded through a spool of silk
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Korean**, youthful and vibrant.
+
+**Eyes:** electric blue with a faint corona effect when excited.
+**Skin:** fair with a soft warm tone, slight flush across her nose.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Twin Bun (weighted slightly higher than twin tail)**
+**Style:** **short twin buns with loose strands**, lively and slightly messy.
+**Color:** **storm-silver with violet tips.**
+
+**Height:** 160 cm
+**Weight:** 50 kg
+**Body Type:** slim-fit, lightly toned from field training; expressive posture and fast movements.
+
+**FEMALE BODY METRICS (รุ่นน้อง type — large cups allowed by luck roll)**
+
+```
+CUP: G   CATEGORY: Very Large
+THREE_SIZES (B-W-H, cm): 102 – 69 – 104
+VALIDATION: • W/B = 0.676 → OK   • H/W = 1.50 → OK
+```
+
+**Theme Layer:** **Nerd (35%)** → wears **thin round lightning-inscribed glasses**
+**Jewelry & Accessories:** glass-bead earrings shaped like thunderclouds, silver-thread choker, and a magnetic bracelet that occasionally sparks.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** medium-high — energetic and flashy aesthetic
+
+Natsumi wears a **white crop top** trimmed with **blue runic stitching**, paired with **short pleated skirt** reinforced by **arc threads** that crackle faintly when she moves.
+A **stormproof short jacket** (navy with silver piping) flutters dramatically, and her **boots** leave faint static trails on stone.
+
+**Color Palette:** white / navy / violet / silver
+**Accents:** lightning embroidery, tech-mage runes, silken textures
+
+**Weapons & Gear:**
+
+* **Wand of Static Flow**, **spellbook (“Cloud Journal”)**, **conductive gloves**, **mini thunder capacitor**
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **14** (mage armor + DEX)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 17 (+3)** **WIS 11 (+0)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +5, WIS +2
+* **Skills:** Arcana +5, Acrobatics +4, Nature +3, Performance +4
+* **Languages:** Common, Draconic, Auran
+
+**Wizard 3 — School of Evocation**
+
+* **Evocation Savant** (halve cost for copying evocation spells)
+* **Sculpt Spells** (exclude allies from AoE damage)
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Lightning Lure, Ray of Frost, Mage Hand, Shocking Grasp*
+  * *1st:* *Thunderwave, Mage Armor*
+  * *2nd:* *Shatter, Misty Step, Levitate*
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Blaster / Field Support**
+* **Opener:** *Misty Step* into height advantage → *Shatter* on clustered foes.
+* **Flow:** dart in and out with *Lightning Lure* and *Thunderwave*, keeping allies clear with *Sculpt Spells.*
+* **Finisher:** channel charged *Shatter* from her wand core, sending concentric ripples of violet light across the battlefield.
+
+**Damage Flavor:** spells manifest as woven filaments of light, forming fractal thunder patterns in the air.
+
+---
+
+## 💬 Personality
+
+* **Traits:** upbeat, competitive, reckless with experiments.
+* **Ideal:** Curiosity — “Every storm teaches you a new rhythm.”
+* **Bond:** her mentor’s lightning rod (still half-broken from her first test).
+* **Flaw:** easily distracted; overestimates how much voltage her gear can handle.
+* **Quirk:** her hair frizzes when nervous, sometimes creating tiny sparks.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Arclight College — Eastern Peaks Lab, Cloud Observatory**
+* **Threat Gradient:** **Stable → Wavering (storm season)**
+* **Encounter Framing:** **sky duel**, **experiment gone wrong**, **runaway construct retrieval**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former courier turned prodigy storm-wizard.
+She joined Arclight College after surviving being struck by lightning — which she now claims “taught her the right frequency of fearlessness.”
+
+* **Lifestyle:** cluttered room with blueprints and half-fried crystals.
+* **Income:** academy stipends, courier jobs, accidental bounties.
+* **Relationships:** studies under Professor Aerun (#196), rivals with Evelyn (#223).
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes mistakes are just practice runs for better lightning bolts.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** total silence or power outage.
+* **Weaknesses:** impulsive; poor endurance in drawn-out fights.
+* **Strengths:** high initiative, burst damage, agility.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — สดใส ขี้อ้อน แต่ทำให้ใจเต้นได้เพราะใกล้ชิดเกินจำเป็น**
+
+> “Senpai, hold this wire for me—no, closer! You’ll feel the charge~!”
+> พูดพร้อมยื่นมือแตะนิ้วอีกฝ่ายให้รู้สึกถึงกระแสไฟฟ้าอ่อนๆ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** she accidentally trapped a sentient lightning spirit in her capacitor — it whispers “Run” before big storms.
+* **Hooks:**
+
+  1. **Stormproof Heart:** her experiments may cause an artificial thunderstorm threatening the academy.
+  2. **Runaway Cloud:** a lightning elemental escapes during finals week.
+  3. **Static Bond:** a thunder-forged artifact binds her heartbeat to a Severance surge.
+
+## Tags: #Female #JuniorType #Human #Wizard3 #Evocation #ArclightCollege #CR1 #BlasterMage #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Natsumi **ชอบทำให้คนอื่นเขินโดยแตะตัวเบาๆ แล้วพูดคำที่เหมือนอุบัติเหตุแต่ตั้งใจชัดๆ**
+
+> “Oops—guess I shocked you, huh?” *wink* ⚡
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** wand, dagger
+  * **Armor:** enchanted jacket (counts as Mage Armor)
+  * **Tools:** thunder capacitor, goggles
+  * **Consumables:** lightning crystal ×2, potion of healing ×1
+  * **Misc:** cloud journal, silver-thread glasses
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Elemental Adept (Lightning)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Arclight College — Eastern Peaks, Cloud Observatory, Skyrail Labs**
+* **Threat Gradient:** **Wavering (storm surge)**
+* **Encounter Type:** **duel**, **storm rescue**, **experimental anomaly**
+* **Affiliation:** **Tempest Annex, Arclight College**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Korean female human wizard evocation 160cm twin buns silver violet hair blue eyes round glasses short crop top pleated skirt lightning glow youthful energetic cute storm magic laboratory background

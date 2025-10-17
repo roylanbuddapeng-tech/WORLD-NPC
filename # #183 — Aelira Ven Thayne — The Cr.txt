@@ -1,0 +1,204 @@
+# #183 — **Aelira Ven Thayne** — *The Crystalnote War Dancer of Thalassara*
+
+> “Why fight in silence when battle is just another rhythm?”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 183
+* **Gender (weighted random):** **Female (Type: Tom Boy – athletic)** — พูดตรง ห้าวนิด ๆ ทะเล้นในแบบที่ดูจริงใจ ยิ้มเก่งและกล้าแสดงออก
+* **Age:** 23
+* **Race:** **Half-Beast (Harpy – Thalassaran Lineage)** — มนุษย์ 85%; ปีกขนนกเล็ก ๆ สีเทาเงินงอกออกจากแผ่นหลังตอนสู้, ดวงตาสีฟ้าทะเล
+* **Class & Level:** **Monk (Way of the Kensei)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** นักผจญภัย / นักเต้นนักรบ / ทูตประจำคณะศิลป์แห่งเสียงสะท้อน
+* **Rank / Position:** **War Dancer of the Crystalnote Ensemble**
+* **Organization:** **Thalassaran Choir Guard**
+* **Symbol:** ปีกนกเรียงกันเป็นรูปสัญลักษณ์เสียง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Greek**, sun-kissed athletic beauty with fierce confidence.
+
+**Eyes:** ocean blue with silver flecks.
+**Skin:** tanned ivory with faint shimmer under light.
+
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result → Short, layered tousle (wild category)*
+**Style:** short, choppy layers with wind-blown texture.
+**Color:** **steel blue with white tips**.
+**Height:** 170 cm
+**Weight:** 61 kg
+**Body Type:** **muscular-athletic**, clearly defined abs, strong legs and shoulders.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium-Large
+THREE_SIZES (B-W-H, cm): 91 – 68 – 98
+VALIDATION: • W/B = 0.747 → OK   • H/W = 1.44 → OK
+```
+
+**Jewelry & Accessories (female glasses 40% → 🎲 fail):**
+**Feather choker**, **bracelet of silver cords**, **pierced ear cuff**, and **belt charm** shaped like a wing shard.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** *Mid-level revealing — cropped martial attire*
+
+Aelira wears a **sky-gray cropped top** reinforced with silk-thread weave and a **blue sash belt** knotted at her side.
+**Fitted pants** split at the outer thigh for flexibility; **light greaves** protect shins.
+Her **wraps and gloves** glimmer faintly from Thalassaran thread runes that resonate with sound.
+A small **feather mantle** decorates her left shoulder like a dancer’s flourish.
+
+**Color Palette:** blue-gray / silver / azure / white
+**Accents:** kinetic, confident, balanced between performance and combat
+
+**Loadout:** quarterstaff, short sword, wind talisman.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **26 HP**
+* **AC:** **16** (DEX + WIS + unarmored defense)
+* **Speed:** 40 ft; **Glide (racial)**
+* **STR 13 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Acrobatics +6, Athletics +3, Performance +3, Perception +4, Insight +4
+* **Languages:** Common, Elvish, Auran
+
+**Monk (Kensei) 3:**
+
+* **Martial Arts (1d4 → 1d6)**
+* **Ki (3 points)** — Flurry of Blows, Step of the Wind, Patient Defense
+* **Kensei Weapons:** quarterstaff, shortsword
+* **Deflect Missiles, Unarmored Movement (+10 ft)**
+
+**Attacks:**
+
+* **Quarterstaff (Kensei):** +6 to hit, 1d8+4 bludgeoning (versatile)
+* **Unarmed Strike:** +6 to hit, 1d6+4 bludgeoning
+* **Flurry of Blows:** two unarmed attacks as bonus
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Mobile Striker / Crowd Disruptor**
+* **Opener:** *Step of the Wind* → engage from above.
+* **Flow:** Uses flurries in rhythm to push enemies into formation.
+* **Finisher:** *Stunning Strike (flavor)* → leaping kick enhanced by echo resonance.
+
+**Damage Flavor:** her attacks release sound pulses like wind chords.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Energetic, playful, blunt honesty.
+* **Ideal:** Freedom — “If you can move, you can change the world.”
+* **Bond:** Protects the dancers and musicians of her troupe fiercely.
+* **Flaw:** Overestimates her stamina, hates staying still.
+* **Quirk:** Always snaps her fingers twice before charging into battle.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Amphitheater Rings, Wind Bridges, Training Courts**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **Performance duel**, **defensive dance**, **Echo disturbance show**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a street dancer who found discipline in temple martial arts, Aelira turned her rhythm into a fighting form.
+Now she teaches children how to move with grace under danger.
+
+* **Lifestyle:** lives in the open air, trains near sea cliffs.
+* **Income:** guild performance pay + escort jobs.
+* **Relationships:** friendly sparring partner with Mika; rivalry with Rin (he flirts, she kicks).
+
+---
+
+## 🧩 Morals & Ethics
+
+Freedom of movement equals freedom of soul — her creed is dance without apology.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing the ability to move.
+* **Weaknesses:** impulsive, reckless under pressure.
+* **Strengths:** mobility, adaptability, morale boosting presence.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy tone (athletic type)** — ชอบแกล้งเชิงแรง ๆ แต่ไม่ได้คิดลึก ถ้าโดนชมจะหน้าแดงแล้วหัวเราะแก้เก้อ
+
+> “Hah! You blinked first. Guess that means I win.”
+> “Wh-what? Complimenting me mid-fight? Cheap shot!”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her resonance threads carry a banned melody that can stun Echo entities.
+* **Hooks:**
+
+  1. **Winds of Silence:** Her dance awakens an ancient Thalassaran ward.
+  2. **Broken Feather:** A harpy kin seeks revenge for her leaving their clan.
+  3. **Echo Pulse:** Her rhythm attracts an unseen presence mimicking her steps.
+
+## Tags: #Female #Tomboy #Athletic #HalfBeast #HarpyHybrid #Monk3 #Kensei #Thalassara #CR1 #MartialArtist #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Aelira **ชอบหยอกให้เขิน** — แตะไหล่แรงเกินจำเป็น หรือยิ้มใกล้เกินไป
+
+> “You fluster so easy, it’s adorable. Don’t worry, I’ll protect you.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** quarterstaff, shortsword
+  * **Armor:** unarmored monk gear
+  * **Tools:** musical focus (drum rings)
+  * **Consumables:** healing potion ×1
+  * **Misc:** feather mantle, resonance talisman
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Amphitheater Rings / Wind Bridges**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **Performance duel**, **Martial exhibition**, **Echo incursion defense**
+* **Affiliation:** **Choir Guard**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Greek female half-beast harpy monk kensei 170cm short steel blue hair white tips tanned skin ocean eyes athletic muscular body cropped top blue sash gray pants feather mantle martial stance wind pulse, amphitheater background

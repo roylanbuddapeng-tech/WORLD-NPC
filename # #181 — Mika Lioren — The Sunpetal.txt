@@ -1,0 +1,204 @@
+# #181 — **Mika Lioren** — *The Sunpetal Archer of Thalassara*
+
+> “Every arrow I loose is a song I refuse to forget.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 181
+* **Gender (weighted random):** **Female (Type: รุ่นน้อง)** — ร่าเริง สดใส ซื่อ ๆ แต่พยายามเป็นประโยชน์ให้พี่ ๆ เสมอ
+* **Age:** 19
+* **Race:** **Half-Elf (Thalassaran Lineage)** — หูเรียวแหลมเล็กน้อย ผิวสีน้ำนม ผมสะท้อนประกายเหมือนคลื่นน้ำ
+* **Class & Level:** **Ranger (Hunter)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** นักล่าประจำเขต / นักผจญภัยฝึกหัด
+* **Rank / Position:** **Sunpetal Scout**
+* **Organization:** **Thalassara Canal Rangers (Apprentice Division)**
+* **Symbol:** ขนนกสีทองวางทับหยดน้ำ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Vietnamese**, bright, youthful, naturally cute.
+
+**Eyes:** light amber, big and expressive.
+**Skin:** warm cream tone with a faint golden glow in sunlight.
+
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result → Ponytail (top-weighted category)*
+**Style:** **high ponytail**, light bangs swept to the right.
+**Texture:** **soft and straight**.
+**Color:** **light brown with sunlit honey streaks.**
+**Height:** 162 cm
+**Weight:** 52 kg
+**Body Type:** **fit but soft**, young archer’s athletic charm.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 88 – 64 – 92
+VALIDATION: • W/B = 0.727 → OK   • H/W = 1.44 → OK
+```
+
+**Jewelry & Accessories (female glasses 40% → 🎲 fail):**
+**Small feather earrings**, **woven friendship bracelet**, **silver anklet**, **tiny charm of a sunflower pendant**.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** *Light adventure attire — cropped and mobile*
+
+Mika wears a **short leather jerkin** over a **white sleeveless blouse** that reveals her toned arms.
+A **midriff belt** supports her quiver and daggers, paired with **short forest-green skirt** over **black thigh leggings** for agility.
+**Leather armguards** protect her forearms, and her boots have **gold-thread tassels** that jingle when she runs.
+
+**Color Palette:** brown / green / white / gold accents
+**Accents:** bright, playful, mobile scout
+
+**Loadout:** longbow, dagger, short sword, 20 arrows.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +1)×3 → **26 HP**
+* **AC:** **15** (leather armor + DEX)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 17 (+3)** **CON 12 (+1)** **INT 10 (+0)** **WIS 15 (+2)** **CHA 14 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, DEX +5
+* **Skills:** Acrobatics +5, Perception +4, Survival +4, Nature +2, Stealth +5, Performance +4
+* **Languages:** Common, Elvish, Thalassaran Cant
+
+**Ranger (Hunter) 3:**
+
+* **Favored Enemy:** Beasts
+* **Natural Explorer:** Urban Waterways
+* **Fighting Style:** Archery (+2 attack)
+* **Hunter’s Prey:** Colossus Slayer (+1d8)
+* **Spells (WIS DC 12, +4 atk):** *Hunter’s Mark, Cure Wounds, Hail of Thorns*
+
+**Attacks:**
+
+* **Longbow:** +7 to hit, 1d8+3 piercing (+1d8 Hunter’s Mark)
+* **Dagger:** +5 to hit, 1d4+3 piercing
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Ranged Striker / Support Scout**
+* **Opener:** *Hunter’s Mark* → arrow volley.
+* **Flow:** Keeps distance, moves between high ground perches.
+* **Finisher:** *Hail of Thorns* to scatter clustered enemies.
+
+**Damage Flavor:** Arrows glint with golden dust that disperses like pollen.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Cheerful, eager to please, curious about everything.
+* **Ideal:** Growth — “I’ll get stronger, then I can protect you too!”
+* **Bond:** Admires Lyra Thalassara as her hero.
+* **Flaw:** Overconfident in dangerous situations.
+* **Quirk:** Names each arrow before a mission.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Canal Gardens, Roofwalks, Patrol Towers**
+* **Threat Gradient:** **Wavering → Echo Zone** (during dusk patrols)
+* **Encounter Framing:** **Rescue chase**, **Rooftop skirmish**, **Ambush support**
+
+---
+
+## 📜 Background & Lifestyle
+
+An orphan raised by the Canal Rangers, Mika trained herself by shadowing Lyra’s squad.
+Her enthusiasm outpaces her precision—but her optimism is infectious.
+
+* **Lifestyle:** communal dorm; messy but full of plants.
+* **Income:** guild stipend + small patrol pay.
+* **Relationships:** treats Lan Qiyue like a strict aunt; hero-worships Lyra.
+
+---
+
+## 🧩 Morals & Ethics
+
+She believes kindness is the purest strength—and that protecting smiles is the same as winning.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** letting others down.
+* **Weaknesses:** easily flustered by compliments.
+* **Strengths:** strong initiative, optimistic teamwork.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นน้อง tone — ขี้เขิน พูดเร็ว เวลาทำดีแล้วโดนชมจะหน้าแดงทันที**
+
+> “Eh?! D-did I hit it? Really?! Ah—th-thank you, senpai!”
+> เธอยิ้มแล้วดึงหูตัวเองเบา ๆ เวลาประหม่า
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps a silver arrowhead from Lyra’s old bow as a good luck charm.
+* **Hooks:**
+
+  1. **Echo in Bloom:** Her arrows start sprouting golden flowers after striking foes.
+  2. **Sunpetal Shadow:** A Severance beast imitates her form to frame her.
+  3. **Song of the Canal:** Her humming activates a hidden echo resonance.
+
+## Tags: #Female #JuniorType #HalfElf #Ranger3 #Hunter #Thalassara #CR1 #Archer #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Mika **เขินง่ายเวลาโดนลูบหัวหรือชม** — จะรีบเปลี่ยนเรื่องแล้วหัวเราะกลบเกลื่อน
+
+> “S-stop looking at me like that, okay?! I’m fine! Just—hehe—don’t say it again!”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longbow, dagger, quiver
+  * **Armor:** leather jerkin
+  * **Tools:** herbal pouch
+  * **Consumables:** potion of healing ×1
+  * **Misc:** sunflower pendant, friendship bracelet
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 19) *or* **Sharpshooter**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Canal Gardens / Patrol Towers**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **Rescue chase**, **Urban skirmish**, **Ambush support**
+* **Affiliation:** **Canal Rangers**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Vietnamese female half-elf ranger 162cm high ponytail straight light brown hair honey streaks amber eyes, light armor cropped white blouse short green skirt thigh leggings archer pose cheerful, golden pollen arrows, canal garden background

@@ -1,0 +1,198 @@
+# #196 — **Nalia Vestra** — *The Bloomstorm Duelist of Valeronnes*
+
+> “Beauty should never be harmless — not when the world needs colors to fight with.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 196
+* **Gender (weighted random):** **Female (Type: รุ่นเพื่อน)** — ร่าเริง ฉลาด มีเสน่ห์เป็นธรรมชาติ ชอบพูดตรงแต่แฝงความอบอุ่นที่ทำให้คนรอบข้างสบายใจ
+* **Age:** 23
+* **Race:** **Elf (Valeronnes Lineage)** — ผิวขาวอมชมพู ดวงตาเขียวมรกตสะท้อนแสงอาทิตย์ ผมยาวพริ้วราวกลีบดอกไม้ยามเช้า
+* **Class & Level:** **Fighter (Battle Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Good**
+* **Profession:** Duelist / Instructor / Adventurer
+* **Rank / Position:** **Junior Officer of the Bloomguard**
+* **Organization:** **Valeronnes House of Petal Blades**
+* **Symbol:** twin rapier tips crossing through a blooming rose
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Vietnamese–French**, lively and graceful with natural poise.
+
+**Eyes:** vibrant green with a gold sheen near the iris.
+**Skin:** fair with a faint rose tint across the cheeks.
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result → Bob (15%)*
+**Style:** **chin-length soft bob with side-swept fringe**, curled slightly at the ends.
+**Color:** **golden brown with faint pink undertones.**
+**Height:** 168 cm
+**Weight:** 56 kg
+**Body Type:** toned but feminine; tight waist, defined thighs from sword training.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: D   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 92 – 66 – 96
+VALIDATION: • W/B = 0.717 → OK   • H/W = 1.45 → OK
+```
+
+**Jewelry & Accessories (female glasses 40% → 🎲 success):**
+Wears **oval-framed gold-rim glasses**, **simple pearl studs**, and a **slender silver choker** with an emerald drop.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 *Result → light duelist attire (stylish practical)*
+
+Nalia’s armor is more fashion than function — a **corseted leather jerkin** with rose embroidery, paired with **white breeches** and a **half-skirt slit along the left leg** for movement.
+A **short bolero jacket** bears her Bloomguard insignia, and her **boots** are laced with metallic rose charms.
+
+**Color Palette:** blush pink / ivory / gold / green accents
+**Accents:** bright, modern, elegant combat-ready
+
+**Weapons:** rapier “Verdure” and parrying dagger “Petal Wing.”
+
+---
+
+##⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +1)×3 → **27 HP**
+* **AC:** **17** (leather + DEX + dueling posture)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 10 (+0)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +2, CON +3
+* **Skills:** Acrobatics +6, Persuasion +4, History +3, Performance +4
+* **Languages:** Common, Elvish, Valeronian
+
+**Fighter (Battle Master) 3:**
+
+* **Superiority Dice (d8, 4)**
+* **Maneuvers:** Riposte, Precision Attack, Evasive Footwork
+* **Second Wind, Action Surge**
+* **Fighting Style:** Dueling
+
+**Attacks:**
+
+* **Rapier (Verdure):** +6 to hit, 1d8+4 piercing
+* **Parrying Dagger:** +6 to hit, 1d4+4 piercing (reaction +1 AC)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Agile Striker / Counterattacker
+* **Opener:** Feints with *Precision Attack* to gauge foe.
+* **Flow:** Uses *Riposte* and *Evasive Footwork* to dance through melee.
+* **Finisher:** twin thrust combo with a spin flourish, “Rose Bloom Cut.”
+
+**Damage Flavor:** green-and-pink sparks trail every swing, petals scattering at the impact.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, teasing, enjoys friendly rivalry.
+* **Ideal:** Expression — “Beauty has teeth.”
+* **Bond:** Fellow duelists; thrives on competition.
+* **Flaw:** Underestimates more brutal enemies.
+* **Quirk:** Adjusts her glasses whenever she’s about to outsmart someone.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Bloomguard Academy, Arena Promenade, Merchant’s Terrace**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **training duel**, **festival defense**, **market ambush.**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a noble’s daughter who hated etiquette lessons, Nalia joined the Bloomguard to chase freedom in elegance.
+She now teaches young recruits the art of “graceful violence.”
+
+* **Lifestyle:** sociable, often seen in cafés after training.
+* **Income:** academy stipend + private dueling lessons.
+* **Relationships:** close friend (and occasional rival) with Seline Ardyn (#190).
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes style and honesty are inseparable — one’s sword should speak truth through beauty.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being forgotten in the shadow of greater duelists.
+* **Weaknesses:** prideful, overrelies on finesse.
+* **Strengths:** speed, intelligence, charm, precise technique.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — ร่าเริง ชอบคุยเล่น ตอบโต้ไว และชอบทำให้คนหัวเราะเวลาตึงเครียด**
+
+> “You’re looking again. Don’t tell me you like girls who can beat you in heels.”
+> *เธอยักคิ้วพลางเลื่อนแว่นขึ้นนิดหนึ่ง ยิ้มซนแต่ตาเป็นประกายจริงจังเมื่อจับดาบขึ้นอีกครั้ง*
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her rapier was forged using “Verdant Echo,” a shard that resonates with laughter — it glows stronger when people around her are joyful.
+* **Hooks:**
+
+  1. **Festival Duel:** She challenges PCs to a friendly match that turns deadly when the crowd’s cheer triggers the shard.
+  2. **Bloom Heist:** Thieves target the Bloomguard vault where her weapon rests.
+  3. **Petal Storm:** A mysterious storm mimics her dueling rhythm in thunder.
+
+## Tags: #Female #FriendType #Elf #Fighter3 #BattleMaster #Valeronnes #CR1 #Duelist #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Nalia **เขินยากแต่ชอบยั่วด้วยสายตาและคำพูดเล่น ๆ**
+
+> “You’re blushing — don’t worry, I do that to everyone.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** rapier, parrying dagger
+  * **Armor:** studded leather
+  * **Tools:** whetstone, polishing kit
+  * **Consumables:** potion of healing ×1
+  * **Misc:** gold-rim glasses, emerald choker
+* **Level-Up Suggestions (to 4):** +2 DEX (to 20) or Feat **Mobile**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Bloomguard Academy / Promenade Arena**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **dueling match**, **escort gone wrong**, **festival defense**
+* **Affiliation:** **House of Petal Blades**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Vietnamese French female elf fighter battle master 168cm golden brown bob hair green eyes fair skin gold glasses pink white duelist outfit floral embroidery corset jacket slim athletic build smiling confident

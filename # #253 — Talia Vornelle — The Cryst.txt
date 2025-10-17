@@ -1,0 +1,204 @@
+# #253 — **Talia Vornelle** — *The Crystal Veil Arcanist of Eltaran Gate*
+
+> “Magic doesn’t ask for permission. It asks for precision.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 253
+* **Gender:** **Female (Type: รุ่นพี่)** — สุขุม มั่นใจ และมีเสน่ห์แบบพี่สาวที่รู้ว่าตัวเองเก่งแค่ไหน พูดเสียงต่ำแต่ทุ้มละมุน แฝงความท้าทายอยู่ทุกคำ
+* **Age:** 28
+* **Race:** **Human**
+* **Class & Level:** **Wizard (Abjuration School)** 3 — **Total 3**
+* **Challenge Rating:** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** ward-mage / scholar of arcane defense / magical tactician
+* **Organization:** **Eltaran Gate Consortium**
+* **Symbol:** คริสตัลใสที่แตกครึ่ง แต่ยังเชื่อมกันด้วยลำแสงเวทสีทอง
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–European hybrid**, refined and elegant, a scholar who looks far too graceful for a battlefield.
+
+**Eyes:** emerald green with a faint concentric rune ring around each pupil.
+**Skin:** fair ivory with warm undertones; faint shimmering freckles like dusted gold.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Bun (weighted over twin bun)**
+**Style:** **high elegant bun**, with **stray curled locks** falling near her neck, and a **gold clasp** shaped like a magic circle.
+**Color:** **deep mahogany brown** with **gold streaks** that shimmer when she casts.
+
+**Height:** 172 cm
+**Weight:** 57 kg
+**Body Type:** tall, poised, slender with refined curves; graceful posture suggesting quiet strength.
+
+**FEMALE BODY METRICS (รุ่นพี่ type, D+ or higher)**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 99 – 68 – 104
+VALIDATION: • W/B = 0.68 → OK   • H/W = 1.52 → OK
+```
+
+**Theme Layer:** **Nerd** — ชอบพูดด้วยศัพท์เทคนิคเวลาอธิบายเรื่องง่าย ๆ
+**Glasses:** yes — half-rim gold arcane lenses etched with small ward runes on the side.
+**Jewelry & Accessories:** gold pendant of protection, layered bracelets engraved with sigil sequences, crystal anklet that hums faintly.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Medium exposure — slit mage robe + chest window**
+
+Talia wears a **dark teal robe** with a **diamond-cut chest window** lined in gold, and **high slits** up the sides for movement.
+The robe’s hem trails slightly, inscribed with glowing sigils that move like slow fireflies.
+She wears **fitted innerwear** of black satin with soft gold trim, partly visible when she casts.
+**Knee-high boots** of tempered leather complete the practical yet stylish mage aesthetic.
+
+**Palette:** teal / gold / black / ivory
+**Accents:** glowing runes, reflective gold lining, restrained elegance
+
+**Weapons & Gear:**
+
+* *Arcane Focus Staff* (infused crystal top)
+* *Spellbook of Wards & Reflections*
+* *Protective amulet (1/day absorb magic)*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **17 HP**
+* **AC:** **15** (mage armor + DEX)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 14 (+2)** **CON 12 (+1)** **INT 18 (+4)** **WIS 11 (+0)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +6, WIS +2
+* **Skills:** Arcana +6, Insight +2, Investigation +6, History +6
+* **Languages:** Common, Elvish, Draconic, Celestial
+
+**Wizard 3 — School of Abjuration**
+
+* **Arcane Ward (8 HP shield)**
+* **Projected Ward (protects allies within 30 ft)**
+* **Spellcasting (INT DC 14, +6 atk)**
+
+  * *Cantrips:* *Mage Hand, Ray of Frost, Prestidigitation*
+  * *1st:* *Shield, Magic Missile, Absorb Elements, Mage Armor*
+  * *2nd:* *Mirror Image, Misty Step, Counterspell (ritual variant)*
+
+---
+
+## 🎯 Combat Tactics (Support / Defensive Control)
+
+* **Role:** **Tactical Support / Shield Caster / Magical Counter**
+* **Opener:** *Mage Armor* + *Mirror Image* → *Ray of Frost* to slow.
+* **Flow:** uses *Projected Ward* to protect allies; counters casters with *Counterspell* or *Absorb Elements*.
+* **Finisher:** *Magic Missile* burst through Arcane Ward recharge.
+
+**Flavor:** When she casts, her voice harmonizes with low choral tones — every spell sounds like a fragment of music.
+
+---
+
+## 💬 Personality
+
+* **Traits:** confident, patient, slightly sarcastic; hides warmth behind formal speech.
+* **Ideal:** Control — “Knowledge without structure is chaos wearing perfume.”
+* **Bond:** secretly supports a small orphanage by enchanting their school supplies.
+* **Flaw:** refuses to admit when afraid — rationalizes emotion until it burns out.
+* **Quirk:** snaps her fingers to reset the rhythm of her thoughts.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Eltaran Gate, The Sapphire Spire, Thalassara Guest Chambers**
+* **Threat Gradient:** **Stable → Wavering (mage duels, spell resonance leaks)**
+* **Encounter Framing:** **arcane defense**, **counterspell duel**, **protective mission**
+
+---
+
+## 📜 Background & Lifestyle
+
+Once a noble family’s tutor, Talia left the household after discovering corruption in their magical funding.
+Now she works for the Eltaran Consortium, teaching adventurers “how not to explode.”
+
+* **Lifestyle:** minimalist elegance — a home filled with neat shelves, tea aroma, and floating quills.
+* **Income:** scholar salary + hazard bonus + consulting fees.
+* **Relationships:** peers respect her; students fear her exams; one apprentice adores her.
+
+---
+
+## 🧩 Morals & Ethics
+
+Magic is a mirror — it shows what’s already inside you.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing control of a spell before an audience.
+* **Weaknesses:** overuses magical reserves for others’ safety.
+* **Strengths:** elite counterspeller, sharp tactical mind, layered defenses.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นพี่ tone — สุภาพแต่ยั่วนิด ๆ ด้วยความมั่นใจและสายตาที่รู้ทุกอย่างอยู่แล้ว**
+
+> “You’re trembling. That’s... endearing. Don’t worry — I’m very good with wards.”
+> (เธอยกมือขึ้นแตะหน้าผากเบา ๆ เพื่อร่ายเกราะป้องกัน ความใกล้นั้นเกินจำเป็นอย่างชัดเจน)
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** her Arcane Ward is partially bound to a sentient crystal that whispers strategy mid-combat.
+* **Hooks:**
+
+  1. **The Ward That Watches:** her protective field begins casting on its own.
+  2. **Spell Echo:** rival mage challenges her to a public duel — the winner controls a sealed vault.
+  3. **Cracked Veil:** her enchanted glasses reveal the shape of the Echo in reflections.
+
+## Tags: #Female #SeniorType #Human #Wizard3 #Abjuration #Support #Control #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Talia **ทำให้เขินด้วยการยื่นหน้าเข้ามาอธิบายคาถาโดยมองตาไม่ละสายตา**
+
+> “Watch closely. You’re not supposed to blink when I say the command word.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** arcane staff
+  * **Armor:** enchanted robe
+  * **Tools:** spellbook, component pouch
+  * **Consumables:** potion of clarity, scroll of Counterspell
+  * **Misc:** gold glasses, pendant of warding
+* **Level-Up Suggestions (to 4):** **+2 INT (to 20)** or **Feat: War Caster / Resilient (CON)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Eltaran Gate / Sapphire Spire**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **magical duel**, **barrier breach**, **Echo counter defense**
+* **Affiliation:** **Eltaran Consortium**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean European female human wizard abjuration 172cm high bun mahogany brown hair gold streaks emerald green eyes ivory skin E-cup teal slit robe gold trim black innerwear half-rim gold glasses elegant scholarly confident senior type arcane staff glowing runes

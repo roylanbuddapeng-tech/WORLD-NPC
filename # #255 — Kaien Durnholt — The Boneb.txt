@@ -1,0 +1,200 @@
+# #255 — **Kaien Durnholt** — *The Bonebrand Arcanist of Hollow Ember*
+
+> “The dead never lie, they only whisper slower.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 255
+* **Gender:** **Male (Type: เมะ)** — ภายนอกสุขุม เยือกเย็น แต่เมื่อเข้าการต่อสู้จะกลายเป็นพายุของเวทและคาถา ควบคุมสนามด้วยความเด็ดขาด
+* **Age:** 26
+* **Race:** **Human**
+* **Class & Level:** **Wizard (School of Necromancy)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Neutral**
+* **Profession:** battlefield necromancer / relic scholar / combat researcher
+* **Organization:** **Hollow Ember Circle**
+* **Symbol:** กะโหลกในเปลวไฟสีขาว ภายในมีรอยสลักรูปวงเวท
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **European–Latin mix**, serious but magnetic.
+
+**Eyes:** silver-grey with a faint inner glow when channeling souls.
+**Skin:** pale bronze with faint soot markings near collarbones, like he’s always half-ashened.
+
+**Hair (Male Hair Randomizer):** 🎲 **Medium length — loose layers**
+**Style:** slightly wavy, half-tied with black cord, strands fall across his cheek when chanting.
+**Color:** **dark ash-blond**, ends tinted **silver-white** from soulfire exposure.
+
+**Height:** 182 cm
+**Weight:** 74 kg
+**Body Build:** **lean muscular**, combat-fit, long limbs, precise movements.
+
+**Jewelry & Accessories:** black choker ringed with bone fragments (focus), obsidian signet ring, single ear cuff carved with sigils, and a narrow wrist chain of silver bone links.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 **Light exposure — sleeveless robe / open forearms**
+
+Kaien wears a **black longcoat robe**, sleeveless and layered over **fitted dark linen**, revealing toned arms marked with faint necrotic runes.
+Underneath, a **banded harness** holds potion vials and spell reagents close to the ribs.
+The coat’s hem is split for movement, lined with ivory runic script that glows when he summons.
+Boots: high leather with engraved plates, steel-toed, polished obsidian clasps.
+
+**Palette:** black / bone / ash / silver
+**Accents:** glowing script, bone-carved adornments, controlled menace
+
+**Weapons & Gear:**
+
+* *Grimoire of Hollow Embers*
+* *Focus choker (bone ring)*
+* *Obsidian wand of graves*
+* *Soul-salt vials*
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d6 + (CON +1)×3 → **16 HP**
+* **AC:** **14** (mage armor)
+* **Speed:** 30 ft
+* **STR 11 (+0)** **DEX 14 (+2)** **CON 12 (+1)** **INT 18 (+4)** **WIS 11 (+0)** **CHA 13 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** INT +6, WIS +2
+* **Skills:** Arcana +6, History +6, Intimidation +3, Medicine +2
+* **Languages:** Common, Infernal, Abyssal
+
+**Wizard (Necromancy) 3**
+
+* **Grim Harvest:** regain HP equal to twice spell level (or thrice if it’s a necromancy spell) when killing a creature.
+* **Undead Thralls:** (flavor prep — raising single skeleton/ghoul familiar).
+* **Spellcasting (INT DC 14, +6 atk)**
+
+  * *Cantrips:* *Chill Touch, Toll the Dead, Minor Illusion*
+  * *1st:* *Mage Armor, Ray of Sickness, Command, Protection from Evil and Good*
+  * *2nd:* *Blindness/Deafness, Mirror Image, Spiritual Weapon (flavor necrotic variant)*
+
+**Attacks**
+
+* **Chill Touch:** +6 to hit, 1d8 necrotic, stops healing.
+* **Ray of Sickness:** +6, 2d8 poison (CON save).
+* **Skeleton Thrall:** CR 1/4 (1 active), acts on his initiative, obeys hand gestures.
+
+---
+
+## 🎯 Combat Tactics (Offense / Summoner)
+
+* **Role:** **Mid-range necromancer / battlefield control**
+* **Opener:** *Mirror Image* + *Protection* → deploy skeleton thrall.
+* **Flow:** alternating *Chill Touch* and *Blindness* to weaken enemies while thrall blocks line.
+* **Finisher:** *Toll the Dead* burst on bloodied targets + harvest HP with Grim Harvest.
+
+**Flavor:** his spells burn ghostly white; each cast leaves bone dust drifting in the air like snow.
+
+---
+
+## 💬 Personality
+
+* **Traits:** pragmatic, soft-spoken, oddly gentle despite grim magic.
+* **Ideal:** Balance — “Death is no punishment, only symmetry.”
+* **Bond:** carries his mentor’s black ash ring; still hears her voice during rituals.
+* **Flaw:** internalizes guilt; hesitates to use undead against innocents.
+* **Quirk:** speaks to skeletons as if they’re students.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Hollow Ember — Ossuary Libraries, Bone Circles, Cinder Marsh**
+* **Threat Gradient:** **Deep Echo → Severance-corrupted**
+* **Encounter Framing:** **ritual defense**, **Echo containment**, **necrotic storm control**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former academic prodigy from Valeron who joined the Hollow Ember Circle after watching a Severance outbreak erase a town.
+His research in controlled necromancy aims to “keep death useful, not hungry.”
+
+* **Lifestyle:** quiet stone cell near the Ossuary Gate; always smells faintly of sage and ash.
+* **Income:** Circle stipend + bounty share from undead suppression.
+* **Relationships:** intellectual rival to Dr. Nereth (#198); mutual respect with Lyra Thalassara (#1).
+
+---
+
+## 🧩 Morals & Ethics
+
+He treats necromancy as mathematics — precise, dispassionate, never cruel.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** becoming emotionally numb to the dead.
+* **Weaknesses:** over-focus on control; low physical defense.
+* **Strengths:** steady focus, efficient field control, subtle empathy.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เมะ tone — สุภาพ ควบคุมอารมณ์ แต่มีเสน่ห์ที่สายตาและเสียงทุ้มแผ่วเบา**
+
+> “You’re trembling again. Focus here—yes, on my voice. Death only listens to calm tones.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** his mentor’s soul anchors his focus choker; destroying it frees her, but removes his control bonuses.
+* **Hooks:**
+
+  1. **The Hollow Tutor:** her spirit starts casting through him — stronger, but uncontrollable.
+  2. **Ash Rebellion:** rogue necromancers awaken the buried legion. Kaien must command or destroy them.
+  3. **The Bone Key:** one thrall refuses dismissal, claiming it remembers its name — and his.
+
+## Tags: #Male #MehType #Human #Wizard3 #Necromancy #Summoner #CR1 #Adventurer #DarkMagic
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Kaien **ชอบทำให้เขินโดยการกระซิบใกล้หูเวลาอธิบายคาถา ห่างแค่ลมหายใจเดียว**
+
+> “Don’t blink. It listens when you blink.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** obsidian wand
+  * **Armor:** mage robe
+  * **Tools:** spellbook, bone focus
+  * **Consumables:** soul-salt ×2, potion of vitality
+  * **Misc:** focus choker, skeleton command charm
+* **Level-Up Suggestions (to 4):** **+2 INT (to 20)** or **Feat: War Caster / Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Hollow Ember / Ossuary Library / Bone Circles**
+* **Threat Gradient:** **Deep Echo → Severance-corrupted**
+* **Encounter Type:** **ritual control**, **necrotic storm**, **summoner defense**
+* **Affiliation:** **Hollow Ember Circle**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+European Latin male human necromancer wizard 182cm medium wavy dark ash-blond hair silver tips silver-grey eyes pale bronze skin sleeveless black robe bone accessories necromantic runes lean muscular light exposure grave ash magic confident calm mage

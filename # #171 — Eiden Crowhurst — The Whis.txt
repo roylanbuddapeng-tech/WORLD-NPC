@@ -1,0 +1,191 @@
+# #171 — **Eiden Crowhurst** — *The Whisperblade of Lysantra’s Dusk Market*
+
+> “A lie cuts deeper when you tell it gently.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 171
+* **Gender (weighted random):** **Male (Type: เคะ)** — หนุ่มหน้าหวาน เสียงนุ่มติดเย้า แววตาเหมือนมีอะไรซ่อนอยู่เสมอ พูดเบา ๆ แต่ทำให้คนฟังใจเต้นแรง
+* **Age:** 21
+* **Race:** **Half-Elf (Lysantran Lineage)** — ผิวซีดเนียนเหมือนหยก มีรอยเงาเงินบาง ๆ รอบตา หูแหลมโค้งเข้าหลังศีรษะเล็กน้อย
+* **Class & Level:** **Rogue (Soulknife)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** สายข่าวและนักฆ่ารับจ้างระดับตลาดมืด
+* **Rank / Position:** **Independent Whisperblade**
+* **Organization:** **Lysantra Shadow Brokers (Freelance)**
+* **Symbol:** กริชโปร่งแสงล้อมด้วยเงาจันทร์
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Japanese–Chinese**, soft-faced beauty with androgynous allure.
+
+**Eyes:** violet-silver, long lashes, sleepy gaze that hides mischief.
+**Skin:** porcelain with faint bluish undertone.
+
+**Hair (Masculine Hair Randomizer v2.8):** **Medium**, **style:** **half-up layered fringe**, **texture:** silky straight, **color:** **lavender-black gradient** (dark at roots fading to pale ends).
+**Height:** 159 cm (fits femboy/uke range)
+**Weight:** 51 kg
+**Body Build:** **Slender elegant**, delicate but well-toned arms.
+
+**Jewelry & Accessories (30% glasses roll → no glasses):**
+Two **chain earrings**, one **silver choker with crescent charm**, **fingerless gloves** hiding psionic tattoos faintly glowing when he whispers.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Stylized stealthwear (semi-revealing)*
+
+Eiden’s outfit blends shadow with temptation — **black sleeveless vest** open low at chest, trimmed with violet thread; **fitted dark trousers** bound by a silver sash; and **ankle-high boots** suited for silent steps.
+A short **hooded mantle** drapes to mid-back, shifting hues under dim light.
+
+**Color Palette:** black / violet / silver / smoke gray
+**Accents:** sleek, seductive, spectral
+
+**Loadout:** psionic blades (manifested), throwing knives, short sword, thieves’ tools.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +1)×3 → **24 HP**
+* **AC:** **15** (leather + DEX)
+* **Speed:** 30 ft
+* **STR 9 (-1)** **DEX 18 (+4)** **CON 12 (+1)** **INT 12 (+1)** **WIS 14 (+2)** **CHA 15 (+2)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** DEX +6, INT +3
+* **Skills:** Stealth +8, Insight +4, Persuasion +4, Acrobatics +6, Sleight of Hand +6, Perception +4
+* **Languages:** Common, Elvish, Lysantran Cant
+
+**Rogue (Soulknife) 3:**
+
+* **Psi-Bolstered Knack**, **Psychic Whispers**, **Psionic Blades (1d6)**
+* **Sneak Attack (2d6)**
+* **Cunning Action**
+
+**Attacks:**
+
+* **Psionic Blade:** +6 to hit, 1d6+4 psychic (plus 2d6 sneak).
+* **Thrown Knife:** +6 to hit, 1d4+4 piercing.
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Infiltrator / Ambush Assassin**
+* **Opener:** Enters minds using *Psychic Whispers* before striking unseen.
+* **Flow:** Uses psionic blade throws + Cunning Action to vanish behind cover.
+* **Finisher:** Dual manifests both blades — cross-slash of violet light that fades into silence.
+
+**Damage Flavor:** violet psychic ribbons shimmer, slice through air like silk tearing.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Flirtatious, cryptic, emotionally sharp.
+* **Ideal:** Freedom — “A whisper can kill as cleanly as a sword.”
+* **Bond:** Keeps a debt to Selene Vareth for saving his life once.
+* **Flaw:** Plays emotional games with everyone, even himself.
+* **Quirk:** Hums lullabies while cleaning blades.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Lysantra — Dusk Market, Silver Alleys, Echo Gardens**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **Silent assassination**, **Spy retrieval**, **Undercover sting**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former temple messenger turned information broker. Left the order after hearing “too many secrets.”
+Now trades intel and psionic services in back alleys.
+
+* **Lifestyle:** minimalist, nocturnal, always near running water.
+* **Income:** freelance contracts + rumor trading.
+* **Relationships:** playful rivalry with Selene; unexpected mutual respect with Cyris D’Velan.
+
+---
+
+## 🧩 Morals & Ethics
+
+“If it’s whispered, it’s already halfway to truth.”
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing his sense of sound (psionics depend on rhythm).
+* **Weaknesses:** emotionally reckless with lovers.
+* **Strengths:** unmatched stealth and mental acuity.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**เคะ tone — หน้าหวาน เย้ายวนโดยธรรมชาติ แต่เจ้าเล่ห์**
+
+> “You’re staring again… that’s dangerous, you know?”
+> ยกยิ้ม มุมปากโค้งน้อย ๆ
+> “I bite. Softly.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Keeps psychic memory fragments from victims — sometimes their thoughts bleed into his dreams.
+* **Hooks:**
+
+  1. **Echo Memory:** The fragments in his mind start whispering orders.
+  2. **Silent Debt:** The broker who owns his “whisper name” resurfaces.
+  3. **Broken Reflection:** Someone else manifests psionic blades identical to his.
+
+## Tags: #Male #UkeType #HalfElf #Rogue3 #Soulknife #Lysantra #CR1 #Adventurer #Psionic
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Eiden **ชอบทำให้คนอื่นเขิน** — ใช้สายตาเย้า ๆ พูดช้าให้จังหวะหัวใจคนฟังสะดุด
+
+> “If I lean closer… will you hear the echo, or just me?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** psionic blades (manifest), short sword
+  * **Armor:** leather vest
+  * **Tools:** thieves’ tools
+  * **Consumables:** potion of healing ×1, smoke vial ×1
+  * **Misc:** choker charm, silver knife, whisper coin
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 DEX (to 20) *or* **Telepathic**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Lysantra / Dusk Market / Silver Alleys**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **Infiltration**, **Assassination**, **Espionage**
+* **Affiliation:** **Shadow Brokers**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Japanese Chinese male half-elf rogue soulknife 159cm medium straight lavender black gradient hair violet eyes, soft androgynous face, sleeveless black vest low cut, silver sash, psionic blades, flirtatious smirk, dusk market background

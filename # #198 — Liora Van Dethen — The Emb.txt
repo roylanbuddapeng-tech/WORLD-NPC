@@ -1,0 +1,201 @@
+# #198 — **Liora Van Dethen** — *The Emberveil Scout of Skarnov*
+
+> “If you saw what the fire sees, you’d never call it destruction again.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 198
+* **Gender (weighted random):** **Female (Type: Tomboy — athletic type)** — ร่างกายแข็งแรง ท่าทางมั่นใจ ชอบเล่นหัวกับเพื่อน ชอบท้าทาย ชอบปกป้องคนอ่อนแอกว่า
+* **Age:** 24
+* **Race:** **Half-Human, Half-Beast (Wolf lineage, Skarnov stock)** — ใบหูมีลักษณะคล้ายหมาป่าขนาดเล็กสีเทา ดวงตาสีทองวาว ผิวสีแทนอมทอง และมีรอยแผลบาง ๆ ที่ข้างแก้มจากการฝึกในสนาม
+* **Class & Level:** **Ranger (Beast Master)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Chaotic Neutral**
+* **Profession:** Wilderness scout / Smuggler-hunter
+* **Rank / Position:** **Field tracker for the Skarnov Border Watch**
+* **Organization:** **Ironward Scouts Division**
+* **Symbol:** Wolf head wreathed by flame sigils
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Thai–Spanish**, fierce and sun-kissed with bold eyes and a disarming grin.
+
+**Eyes:** golden amber.
+**Skin:** bronze tan, freckled slightly across the nose.
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result → Short (25%)*
+**Style:** **short messy wolf cut**, layered bangs swept to one side; always looks wind-tousled.
+**Color:** **dark ash-brown with burnt red highlights.**
+**Height:** 172 cm
+**Weight:** 63 kg
+**Body Type:** lean muscular, toned arms and abs, confident stance, fluid motion.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: C   CATEGORY: Medium
+THREE_SIZES (B-W-H, cm): 90 – 67 – 94
+VALIDATION: • W/B = 0.744 → OK   • H/W = 1.40 → OK
+```
+
+**Jewelry & Accessories (female glasses 30% → 🎲 fail):**
+Wears **leather wristbands**, **wolf-fang pendant**, and a **single feather earring** symbolizing her first hunt.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** 🎲 *Result → cropped combat gear (functional, mildly revealing)*
+
+Liora wears a **black cropped leather vest** under **reinforced scout harness**, exposing a toned midriff and showing faint scars of battle.
+Her **tight cargo pants** are lined with climbing hooks, paired with **boots laced to the knee** and a **short tattered cloak** that hides her silhouette.
+A **belt sheath** holds twin hunting knives, and her bow rests slung over one shoulder.
+
+**Color Palette:** black / bronze / crimson / wolf-gray
+**Accents:** rugged, confident, slightly provocative
+
+**Weapons:** longbow “Ashfang,” twin short blades “Left Fang” & “Right Fang.”
+**Beast Companion:** a gray wolf named *Rift*.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **16** (leather + DEX + agility)
+* **Speed:** 35 ft
+* **STR 12 (+1)** **DEX 18 (+4)** **CON 14 (+2)** **INT 10 (+0)** **WIS 14 (+2)** **CHA 11 (+0)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** STR +3, DEX +6
+* **Skills:** Stealth +6, Survival +4, Animal Handling +4, Acrobatics +6
+* **Languages:** Common, Beast Tongue, Skarnov dialect
+
+**Ranger (Beast Master) 3:**
+
+* **Beast Companion (Rift, wolf)**
+* **Favored Enemy:** humanoids (bandits)
+* **Natural Explorer:** forests & volcanic plains
+* **Primeval Awareness (1 spell slot)**
+* **Spellcasting (WIS DC 12):** *Hunter’s Mark, Speak with Animals, Cure Wounds*
+
+**Attacks:**
+
+* **Longbow “Ashfang”:** +6 to hit, 1d8+4 piercing
+* **Short Blades:** +6 to hit, 1d6+4 slashing each
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** Mobile Skirmisher / Flanker
+* **Opener:** *Hunter’s Mark*, flank with *Rift* (wolf) for pack tactics.
+* **Flow:** Hit-and-run tactics, disorient foes with mobility.
+* **Finisher:** dives in with dual blades and wolf charge combo.
+
+**Damage Flavor:** crimson trails like burning threads; every arrow whistles faintly like a wolf’s howl.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Confident, witty, slightly cocky.
+* **Ideal:** Freedom — “A good fight clears the air better than a sermon.”
+* **Bond:** Her wolf companion *Rift* — the only being she trusts fully.
+* **Flaw:** Restless; hates standing still or following orders.
+* **Quirk:** Always chews something (twig, strap, or jerky) when thinking.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Skarnov — Emberwatch Ridge, Iron Borderlands**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Framing:** **border skirmish**, **beast pursuit**, **ambush defense.**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born to a caravan guard and a herbalist, Liora learned early how to move quietly and fight loud.
+She joined the border watch not for duty, but for the thrill of the hunt — though she pretends otherwise.
+
+* **Lifestyle:** rugged, sleeps outdoors, always laughing.
+* **Income:** bounty hunts + ranger patrol pay.
+* **Relationships:** on friendly terms with Kaen Vos (#195); he forged her blades.
+
+---
+
+## 🧩 Morals & Ethics
+
+Freedom and loyalty define her — she sees morality as a pack instinct rather than rules.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** losing *Rift* — her wolf, her anchor.
+* **Weaknesses:** impulsive, overestimates her stamina.
+* **Strengths:** survival, ranged precision, teamwork with beast.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**Tomboy (athletic) tone — ห้าว ยิ้มง่าย แกล้งคนเก่งแต่มีมุมอบอุ่นเวลาเห็นคนอ่อนแอ**
+
+> “What? You staring at my arms again? You can touch, I don’t bite—unless you ask nicely.”
+> *เธอยิ้มกว้าง ฟันขาวสะท้อนแสงไฟ ดวงตาเป็นประกายเหมือนกำลังท้าทายคนตรงหน้าให้ลองดี*
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her wolf *Rift* was born from an Echo beast; its blood occasionally glows under moonlight.
+* **Hooks:**
+
+  1. **Hunt of the Howling Flame:** Rift’s blood reacts to Severance corruption nearby.
+  2. **Smuggler’s Trail:** Liora is blamed for missing goods from a noble convoy.
+  3. **Wolf’s Promise:** Her companion is slowly becoming sentient — and jealous.
+
+## Tags: #Female #Tomboy #HalfBeast #Ranger3 #BeastMaster #Skarnov #CR1 #Scout #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Liora **ชอบทำให้คนอื่นเขินโดยไม่รู้ตัว โดยเฉพาะเวลาพูดจาเล่นๆ หรือเข้าใกล้มากเกินไป**
+
+> “Hey, your face’s redder than my cloak—don’t tell me I hit that hard?”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longbow, twin short blades
+  * **Armor:** studded leather
+  * **Tools:** climbing kit, hunting traps
+  * **Consumables:** potion of stamina ×1
+  * **Misc:** wolf-fang pendant, feather earring
+* **Level-Up Suggestions (to 4):** +2 DEX (to 20) or Feat **Sharpshooter**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Skarnov / Iron Borderlands / Emberwatch Ridge**
+* **Threat Gradient:** **Wavering → Deep Echo**
+* **Encounter Type:** **border pursuit**, **Echo beast hunt**, **defensive patrol**
+* **Affiliation:** **Ironward Scouts**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Thai Spanish female half-wolf ranger 172cm short messy ash brown hair golden eyes tanned skin athletic build cropped leather vest cargo pants wolf ears confident smirk bow twin blades companion wolf

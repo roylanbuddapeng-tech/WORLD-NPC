@@ -1,0 +1,209 @@
+# #214 — **Selene Rhyne** — *The Twilight Sanctuary of Moon-Fen*
+
+> “Dusk is not the end of light. It’s where the gentle kind lives.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 214
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — คุยง่าย ใจเย็น ชอบดึงเพื่อนให้ตั้งสติเวลาวุ่นวาย
+* **Age:** 24
+* **Race:** **Other — Goliath (near-human ~85%)** — ลายเส้นหินจาง ๆ บนไหล่และสะบักหลังเหมือนลายหินอ่อน ผิวเย็นนิด ๆ เวลาสัมผัส
+* **Class & Level:** **Cleric (Twilight Domain)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** Night-warden / field medic / adventurer
+* **Organization:** **Valeronnes Nightward Chapelry**
+* **Symbol:** a crescent cradling a field of tiny stars
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Russian**, serene, statuesque beauty with a calm gaze.
+
+**Eyes:** pale steel-blue with a faint silver ring, brightening in low light.
+**Skin:** cool fair with marble-like veining along shoulders and upper back.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Straight** (top-weight)
+**Style:** **long straight hair** to mid-back, center-parted, glossy with a smooth fall; a slim night-silk ribbon gathers a small portion behind her crown.
+**Color:** **smoky black with moon-silver lowlights.**
+
+**Height:** 178 cm
+**Weight:** 67 kg
+**Body Type:** tall, fit-but-soft; quiet strength in back and legs, gentle curves at the waist and hips.
+
+**FEMALE BODY METRICS** *(friend type can roll large cup)*
+
+```
+CUP: F   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 70 – 102
+VALIDATION: • W/B = 0.714 → OK   • H/W = 1.46 → OK
+```
+
+**Theme Layer:** **None (30%)**
+**Glasses Roll (non-nerd 50%) → success:** wears **thin round moonsteel glasses**.
+**Jewelry & Accessories:** star-etched pendant (holy symbol), small crescent stud earrings, silver bangles with soft chimes, and a midnight anklet woven with tiny reflective beads.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — ceremonial armor with elegant lines
+
+Selene wears a **charcoal twilight breastplate** over a **soft indigo underdress** with fitted sleeves. A **half-cloak** of dusky violet drapes from one shoulder, its hem stitched with star patterns.
+Her **belted skirt panels** open at the sides for stride, revealing **matte leggings** and **calf-high boots**. When she blesses allies, **silver motes** drift from her cloak like lazy fireflies.
+
+**Color Palette:** charcoal / indigo / silver / soft violet
+**Accents:** star-thread embroidery, crescent clasps, quiet gleam rather than shine
+
+**Weapons & Gear:**
+
+* **Spear “Evenfall”** (simple; etched with star glyphs)
+* **Shield** with a soft-lacquer nightscape
+* Healer’s kit, ward-candles, lantern of dim starlight (flavor focus)
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **18** (chain mail 16 + shield 2; domain grants heavy armor)
+* **Speed:** 30 ft
+* **STR 14 (+2)** **DEX 10 (+0)** **CON 14 (+2)** **INT 10 (+0)** **WIS 17 (+3)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +5, CHA +3
+* **Skills:** Insight +5, Perception +5, Medicine +5, Religion +2
+* **Languages:** Common, Giant, Celestial
+
+**Cleric 3 — Twilight Domain**
+
+* **Eyes of Night:** darkvision **300 ft**; can share with allies (1/long rest)
+* **Vigilant Blessing:** give **advantage on next initiative** to a creature
+* **Channel Divinity — Twilight Sanctuary:** 30-ft dim aura; end charm/fear and/or grant temp HP each round
+* **Domain Spells:** *Faerie Fire, Sleep* (1st), *Moonbeam, See Invisibility* (2nd)
+* **Spellcasting (WIS DC 13, +5 atk)** *(prepared examples)*
+
+  * *Cantrips:* *Guidance, Sacred Flame, Spare the Dying, Light*
+  * *1st:* *Bless, Cure Wounds, Faerie Fire, Sleep*
+  * *2nd:* *Moonbeam, See Invisibility, Lesser Restoration*
+
+**Attacks:**
+
+* **Spear (one-hand):** +4 to hit, 1d6+2 piercing (versatile 1d8)
+* **Sacred Flame:** DC 13, 2d8 radiant
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Defensive Support / Vision Control**
+* **Opener:** **Vigilant Blessing** on frontline ally → *Faerie Fire* to outline threats.
+* **Flow:** pop **Twilight Sanctuary** to feed temp HP and cleanse fear/charm; hold lines with shield while healing.
+* **Finisher:** funnel enemies through **Moonbeam** and spear them when they stagger out.
+
+**Damage/Effect Flavor:** a hush falls within her aura; starlight drifts like dust, and footfalls sound softer.
+
+---
+
+## 💬 Personality
+
+* **Traits:** patient, gently teasing, always measured.
+* **Ideal:** Refuge — “Everyone deserves safe dusk between battles.”
+* **Bond:** night-watch orphans she tutors in reading stars.
+* **Flaw:** overextends to keep everyone safe; takes blame easily.
+* **Quirk:** counts breaths aloud (barely a whisper) when tension spikes.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Moon-Fen causeways, Nightward Chapels, Lantern Courts**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **night patrol**, **fear purge ritual**, **ambush under dim wards**
+
+---
+
+## 📜 Background & Lifestyle
+
+Born near the marsh lights of Moon-Fen, Selene learned that darkness can be kind if curated.
+She joined the Nightward to turn that lesson into a sanctuary others can carry.
+
+* **Lifestyle:** ascetic neatness; tea, journals, stargazing.
+* **Income:** chapel stipend + hazard bonuses.
+* **Relationships:** often teams with Satsuki Renwei (#210) for night investigations; traded healing practices with Ame Linfae (#206).
+
+---
+
+## 🧩 Morals & Ethics
+
+Mercy first, boundaries second, and the shield never drops while someone still needs it.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being too late to raise the sanctuary.
+* **Weaknesses:** limited burst damage; protective overreach.
+* **Strengths:** **initiative control, anti-fear cleanse, team sustain, long-range darkvision sharing.**
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — อบอุ่น เนียนทำให้เขินด้วยความห่วงใยจริงใจ**
+
+> “Stay in my light, alright? It likes you.”
+> เธอพูดพร้อมดันแว่นขึ้นเล็กน้อย แสงดาวนุ่ม ๆ คลอรอบตัวคุณ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** the marble veining on her back slowly shifts each new moon, spelling unreadable constellations.
+* **Hooks:**
+
+  1. **Veins of the Night:** the patterns form a map to a sealed Echo well.
+  2. **Lantern Without Flame:** a serial fear-curse targets patrols; only her aura halts it.
+  3. **Moon-Fen Pact:** the marsh lights demand a tithe—someone must “watch” forever.
+
+## Tags: #Female #FriendType #Other #Goliath #Cleric3 #TwilightDomain #Valeronnes #CR1 #Support #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Selene **ชอบทำให้คนอื่นสบายใจด้วยการแตะหลังมือเบา ๆ และยิ้มตาอุ่น**
+
+> “Breathe with me—four in, four out. See? Night’s on our side.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** spear, shield
+  * **Armor:** chain mail
+  * **Tools:** healer’s kit, ward-candles
+  * **Consumables:** potion of healing ×1
+  * **Misc:** moonsteel glasses, star journal, dim lantern
+* **Level-Up Suggestions (to 4):** **+2 WIS (to 19)** or **Feat: War Caster / Resilient (CON)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Moon-Fen / Nightward routes**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **night ambush**, **fear purge**, **Echo well warding**
+* **Affiliation:** **Nightward Chapelry**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Russian female goliath cleric twilight domain 178cm long straight black hair silver lowlights pale steel blue eyes fair skin marble veins round glasses charcoal breastplate indigo underdress violet half-cloak spear shield starry aura gentle smile dusk marsh background

@@ -1,0 +1,201 @@
+# #177 — **Lan Qiyue** — *The Serpent Lash Paladin of Thalassara*
+
+> “Mercy binds tighter than any chain—unless you make me prove it.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 177
+* **Gender (weighted random):** **Female (Type: MILF)** — อบอุ่น ดูแลเก่ง แต่แซวแรงแบบผู้ใหญ่มั่นใจ
+* **Age:** 33
+* **Race:** **Half-Beast (Serpent — Thalassaran Lineage)** — มนุษย์ ~85%; เกล็ดจางๆ สีฟ้าเงินตามลำคอและสะบัก, ดวงตาวงรีปลายหางหงส์, ลมหายใจอุ่นคลื่น
+* **Class & Level:** **Paladin (Oath of the Ancients)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** ผู้คุมพิธีและองครักษ์คาราวานทางน้ำ, นักผจญภัย
+* **Rank / Position:** **Canal Ward Captain**
+* **Organization:** **Thalassara Moon-Guard**
+* **Symbol:** เถาวัลย์เรืองแสงรัดพระจันทร์เสี้ยว
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Chinese–Japanese**, mature allure with composed warmth and a teasing crescent-smile.
+
+**Eyes:** sea-teal with slit pupils that widen in low light.
+**Skin:** porcelain with a faint pearly sheen; silver-blue micro-scales catch moonlight along collarbones.
+
+**Hair (Feminine Hair Randomizer v2.8):** **Long**, **style:** **straight, sleek, center part** (top-weighted); **color:** **inky black with teal-blue lowlights**.
+**Height:** 171 cm
+**Weight:** 63 kg
+**Body Type:** **Curvy fit**, graceful posture, strong core and thighs from shield work.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: I   CATEGORY: Huge
+THREE_SIZES (B-W-H, cm): 105 – 72 – 112
+VALIDATION: • W/B = 0.686 → OK   • H/W = 1.56 → OK
+```
+
+**Jewelry & Accessories (female glasses 40% → 🎲 success):**
+**Oval silver spectacles** (anti-fog runes), **jade serpent pendant**, **thin chain earrings**, **rune bangle**, and a **slim anklet** with a tiny bell used for coded signals.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 Result → *Moderate-revealing (open-back cuirass, side-slit skirt)*
+
+Lan wears a **moonsteel open-back cuirass** over a **dark teal under-bodice** that supports and anchors her shield stance.
+A **side-slit battle skirt** overlays **scaled leggings**, allowing swift lunges on slick canal stones.
+A **half-cloak** of river-silk breaks her outline and muffles movement; **reef-grip boots** keep traction on wet rails.
+
+**Color Palette:** teal / silver / moonsteel gray / black pearl
+**Accents:** ritual elegance, river-guardian poise
+
+**Loadout:** **serpent-hide whip** (primary), **scimitar** (secondary), **round shield**, **throwing net** (capture), holy symbol.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **29 HP**
+* **AC:** **18** (chain shirt + shield + Defense aura flavor)
+* **Speed:** 30 ft; **Darkvision** 60 ft
+* **STR 16 (+3)** **DEX 14 (+2)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Athletics +5, Insight +3, Persuasion +5, Religion +2, Acrobatics +4
+* **Languages:** Common, Elvish, Aquan, Thalassaran Cant
+
+**Paladin (Oath of the Ancients) 3:**
+
+* **Lay on Hands (15 hp)**, **Divine Sense**, **Divine Smite**
+* **Channel Divinity:** *Nature’s Wrath* (restrain with spectral vines), *Turn the Faithless*
+* **Spells (CHA DC 13, +5 atk):** *Bless, Shield of Faith, Cure Wounds, Compelled Duel, Wrathful Smite*
+
+**Attacks:**
+
+* **Serpent Whip (martial, finesse, reach):** +5 to hit, **1d4+3** slashing; can deliver **Divine Smite** on hit
+* **Scimitar:** +5 to hit, **1d6+3** slashing
+* **Net (special):** restrain on hit (RAW limitations apply)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Controller / Off-Healer**
+* **Opener:** *Bless* → **Net** a priority target → **Nature’s Wrath** to lock down bruisers.
+* **Flow:** Maintains **Shield of Faith** on the squishiest ally, lashes with **whip (reach)** to punish movers, smites when a setup guarantees advantage.
+* **Finisher:** Whip yank into ally’s strike lane → **Wrathful Smite** to break morale.
+
+**Damage Flavor:** whip-trails glimmer like liquid moonlight; when she smites, teal vines spiral up the lash before impact.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Nurturing but razor-wry; calm leader who teases to lower tension.
+* **Ideal:** Mercy with boundaries — “A rescued life must be taught how to live.”
+* **Bond:** Her canal patrol and the children’s choir she guards.
+* **Flaw:** Overextends to protect civilians; will stand alone on a bad day.
+* **Quirk:** Clicks her tongue softly before a lash—like a metronome.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Canals, Tide Bridges, Amphitheater Arches**
+* **Threat Gradient:** **Wavering → Echo Zone** (performance nights)
+* **Encounter Framing:** **Ritual escort**, **Canal ambush control**, **Hostage rescue under floodlights**
+
+---
+
+## 📜 Background & Lifestyle
+
+Former chorus-warden who turned paladin after an Echo riot on her watch.
+She learned the whip from a river-keeper lineage that “sings through rope and light.”
+
+* **Lifestyle:** spartan, dawn prayers by the water; keeps a ledger of saved names.
+* **Income:** city stipend + contract bonuses.
+* **Relationships:** mutual respect with Lyra Thalassara; playful mentor energy toward Sumiya; measured debates with Cassian on “order vs. grace.”
+
+---
+
+## 🧩 Morals & Ethics
+
+Justice should feel like rescue to the innocent and like consequence to the wicked. She designs every fight to end with the most survivors.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** a silent canal night (Echo eats all sound).
+* **Weaknesses:** soft spot for desperate criminals; whip is less lethal vs. heavy armor.
+* **Strengths:** battlefield control, morale aura, reliable healing bursts.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**MILF tone — อบอุ่น เย้ายวน ขี้แซวแบบสอนเด็ก**
+
+> “Shield up, darling. If you drop it, I’ll have to hold you closer.”
+> เธอยิ้มผ่านกรอบแว่น
+> “Focus. Breathe with me—good. Now, let mom handle the ugly part.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her whip’s core is braided from a relic river-vine that once sealed an Echo rift; cutting it could reopen the wound.
+* **Hooks:**
+
+  1. **Ropesong Ransom:** A gang steals her whip to sell its vine—stop the auction.
+  2. **Night of Hollow Choir:** The choir’s voices vanish mid-hymn; Lan tracks the silence itself.
+  3. **Mercy’s Debt:** A teen she spared returns as a Severance agent—begging for one last rescue.
+
+## Tags: #Female #MILF #HalfBeast #SerpentHybrid #Paladin3 #OathOfTheAncients #Thalassara #CR1 #Whip #Net #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Lan **ชอบทำให้เขินก่อนแล้วค่อยปลอบ** — แตะแผ่นหลังเบา ๆ, สอนหายใจ, ใช้น้ำเสียงนุ่มแต่ชัด
+
+> “Good student. Eyes on me, not the danger.”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** serpent-hide whip, scimitar, net
+  * **Armor:** chain shirt, round shield
+  * **Tools:** healer’s kit, manacles, rope (silk)
+  * **Consumables:** potion of healing ×1, holy water ×1
+  * **Misc:** oval spectacles, jade pendant, patrol ledger
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 CHA (to 18) *or* **Sentinel** (reach control synergy)
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Moon Canals / Tide Bridges**
+* **Threat Gradient:** **Wavering → Echo Zone**
+* **Encounter Type:** **Ritual escort**, **Canal choke-point control**, **Hostage rescue**
+* **Affiliation:** **Moon-Guard**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Chinese Japanese female half-beast serpent paladin oath of the ancients 171cm long straight black hair teal lowlights, oval silver glasses, teal open-back cuirass side-slit skirt scaled leggings, moonsteel shield, serpent whip glowing teal, mature warm smile, moonlit canal background

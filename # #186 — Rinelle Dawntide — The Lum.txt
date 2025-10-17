@@ -1,0 +1,203 @@
+# #186 — **Rinelle Dawntide** — *The Luminous Blade of Valeronnes*
+
+> “If the world must burn, I’ll stand where the light begins.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 186
+* **Gender (weighted random):** **Female (Type: รุ่นเพื่อน)** — ร่าเริงแต่มีความเป็นผู้นำ ไม่กลัวการปะทะ และพูดแบบตรงไปตรงมา
+* **Age:** 24
+* **Race:** **Human (Valeronnes Lineage)** — ดวงตาสีฟ้าเข้มเจือทองอ่อน ผิวขาวอมชมพู มีออร่าอบอุ่นแผ่ว ๆ จากร่าง
+* **Class & Level:** **Paladin (Oath of the Dawnheart — flavor of Devotion)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Lawful Good**
+* **Profession:** นักรบศักดิ์สิทธิ์ / นักผจญภัยรับจ้างปกป้องผู้บริสุทธิ์
+* **Rank / Position:** **Dawnblade Knight**
+* **Organization:** **Order of the Silver Dawn**
+* **Symbol:** ดาบสีทองตัดผ่านวงแสงที่แตกออกเหมือนรุ่งอรุณ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **French–Japanese**, sharp and gentle beauty, radiant but battle-hardened.
+
+**Eyes:** blue-gold gradient that glows faintly in sunlight.
+**Skin:** soft ivory, faint rosy hue at cheeks and shoulders.
+
+**Hair (Feminine Hair Randomizer v2.8):** 🎲 *Result → Ponytail (top-weighted category)*
+**Style:** **low ponytail with side braids** tied in gold thread.
+**Color:** **light ash-blond with a warm sheen**.
+**Height:** 169 cm
+**Weight:** 58 kg
+**Body Type:** **slim-toned and firm**, lightly muscular core and thighs, graceful not bulky.
+
+**FEMALE BODY METRICS**
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 95 – 68 – 100
+VALIDATION: • W/B = 0.715 → OK   • H/W = 1.47 → OK
+```
+
+**Jewelry & Accessories (female glasses 40% → 🎲 fail):**
+A **silver circlet** with radiant motif, **chain earrings**, **rune-ring** on sword hand, and **small pendant** etched with sunrise rays.
+
+---
+
+## 👗 Outfit (in English)
+
+**Clothing Exposure Randomizer:** 🎲 *Result → Lightly revealing (battle grace)*
+
+Rinelle wears a **white and gold half-plate cuirass** designed for speed and elegance, its breastplate engraved with dawn motifs.
+Underneath, a **form-fitted linen undersuit** keeps movement silent.
+Her **skirt guards** are split at the sides to allow freer motion; **boots** polished and strapped with runic seals.
+A short **white mantle** clips to her shoulders, shifting to gold in sunlight.
+
+**Color Palette:** white / gold / light blue / silver accents
+**Accents:** radiant, elegant, and unwavering
+
+**Loadout:** longsword “*Morning’s Edge*”, small round shield “*Solmark*”, holy symbol pendant.
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d10 + (CON +2)×3 → **33 HP**
+* **AC:** **18** (half plate + shield)
+* **Speed:** 30 ft
+* **STR 16 (+3)** **DEX 12 (+1)** **CON 14 (+2)** **INT 10 (+0)** **WIS 12 (+1)** **CHA 16 (+3)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** WIS +3, CHA +5
+* **Skills:** Athletics +5, Persuasion +5, Intimidation +5, Religion +2
+* **Languages:** Common, Celestial
+
+**Paladin 3 (Oath of the Dawnheart flavor):**
+
+* **Divine Sense, Lay on Hands (15 HP pool)**
+* **Fighting Style:** Defense (+1 AC)
+* **Divine Smite, Divine Health**
+* **Oath Spells:** *Bless, Cure Wounds, Guiding Bolt*
+
+**Attacks:**
+
+* **Longsword “Morning’s Edge”:** +5 to hit, 1d8+3 slashing (+2d8 radiant on Smite)
+* **Shield Bash (flavor):** +5 to hit, 1d4+3 bludgeoning (push 5 ft on success, flavor)
+
+---
+
+## 🎯 Combat Tactics
+
+* **Role:** **Frontline Defender / Radiant Striker**
+* **Opener:** *Bless* allies, charge with **Divine Smite** on first hit.
+* **Flow:** Controls pace with shield pressure; uses **Lay on Hands** to stabilize fallen allies.
+* **Finisher:** *Guiding Bolt* or empowered *Smite* to pierce heavily armored foes.
+
+**Damage Flavor:** sword arcs trail golden embers; when she strikes true, the light hums like a choir note.
+
+---
+
+## 💬 Personality
+
+* **Traits:** Honest, competitive, loyal to a fault.
+* **Ideal:** Justice — “Light is the courage to stand even when the world darkens.”
+* **Bond:** Sworn to protect the weak and those who can’t wield weapons.
+* **Flaw:** Self-blame; sees every loss as her personal failure.
+* **Quirk:** Draws a tiny sun symbol on her gauntlet before every fight.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Valeronnes — Radiant Square, Solar Court, Echo Barracks**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Framing:** **Duel for honor**, **Defensive escort mission**, **Sanctum defense**
+
+---
+
+## 📜 Background & Lifestyle
+
+Daughter of a temple guard and a scholar; trained in both diplomacy and battle.
+She grew frustrated with the stagnant bureaucracy of the Order and became an adventurer to act where her superiors hesitated.
+
+* **Lifestyle:** clean but minimal; polishes armor daily.
+* **Income:** bounty missions and temple patronage.
+* **Relationships:** teasing rivalry with Aelira (calls her “birdbrain”); deep respect for Lyra Thalassara.
+
+---
+
+## 🧩 Morals & Ethics
+
+Believes that mercy is strength, but hesitation is a sin.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** being unable to protect innocents.
+* **Weaknesses:** overextends herself; refuses retreat.
+* **Strengths:** steadfast courage, radiant smite precision, frontline leadership.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — ร่าเริง ขี้แซว สู้คน แต่พอถูกชมจะหลบตาทันที**
+
+> “You think I look good in armor? Heh… try saying that again after I hit you with the flat side.”
+> *ยิ้มแล้วก้าวเข้ามาใกล้กว่าที่ควร ก่อนพูดเสียงแผ่ว:* “...Thanks, though.”
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** Her sword’s radiance reacts violently near Echo corruption — hinting that it was forged from the same resonance core.
+* **Hooks:**
+
+  1. **Lightless Dawn:** Rinelle’s aura flickers; something in her blade hungers for darkness.
+  2. **Trial of Seven Bells:** She’s summoned to defend an innocent condemned by the Order.
+  3. **The Broken Halo:** A celestial being recognizes her by name—though she’s never met it.
+
+## Tags: #Female #FriendType #Human #Paladin3 #Valeronnes #CR1 #Frontliner #RadiantKnight #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Rinelle **มักเขินเมื่อถูกชมเรื่องความกล้า** จะหัวเราะกลบแล้วพูดประชดเล็กน้อย
+
+> “Don’t say stuff like that before a fight! I can’t focus when you’re looking at me like that!”
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** longsword, shield
+  * **Armor:** half plate
+  * **Tools:** holy symbol pendant
+  * **Consumables:** potion of healing ×1
+  * **Misc:** silver circlet, dawn ring, prayer cloth
+* **Level-Up Suggestions (to 4):**
+
+  * **ASI/Feat:** +2 STR (to 18) *or* **Inspiring Leader**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Valeronnes / Solar Court / Echo Barracks**
+* **Threat Gradient:** **Stable → Wavering**
+* **Encounter Type:** **Duel of honor**, **Escort defense**, **Sanctum siege**
+* **Affiliation:** **Order of the Silver Dawn**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+French Japanese female human paladin 169cm ash blonde low ponytail side braids blue gold eyes slim toned body white gold armor half plate shield longsword radiant aura sunrise background

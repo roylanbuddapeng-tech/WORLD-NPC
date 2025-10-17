@@ -1,0 +1,205 @@
+# #232 — **Talia Otterwell** — *The Canal Alchemist of Moon-Tide Wards*
+
+> “If it fizzles, we learn. If it blooms, we live.”
+
+---
+
+## 🜏 General Information
+
+* **Running No.:** 232
+* **Gender:** **Female (Type: รุ่นเพื่อน)** — คุยง่าย ใจเย็น ขี้แซวเบา ๆ เวลาคนอื่นเครียด เป็นมันสมองที่ลงมือทำจริง
+* **Age:** 24
+* **Race:** **Half-Beast (Aquatic subtype — Otterkin)** — มนุษย์ ~85% มีหูนากกลมเล็ก ขนเนียนที่หางสั้น ๆ และผิวมีประกายชื้นเมื่อโดนน้ำ
+* **Class & Level:** **Artificer (Alchemist)** 3 — **Total 3**
+* **Challenge Rating (approx):** **CR 1**
+* **Alignment:** **Neutral Good**
+* **Profession:** นักปรุงอีลิกเซอร์ภาคสนาม / ช่างเวทช่วยชีวิต / นักผจญภัย
+* **Organization:** **Thalassara Moon-Tide Ward**
+* **Symbol:** ขวดรูปหยดน้ำพันด้วยเถาเงินและเฟืองเล็ก ๆ
+
+---
+
+## 🪞 Appearance (in English)
+
+**Ethnic Theme:** **Korean–Thai**, bright-eyed, practical charm with playful warmth.
+
+**Eyes:** sea-brown with teal flecks; widen adorably when concentrating.
+**Skin:** warm beige with a dewy sheen; faint whisker-like freckles near the cheeks.
+
+**Hair (Feminine Hair Randomizer):** 🎲 **Ponytail** (top weight)
+**Style:** **low utility ponytail**, slightly wavy, with flyaway bangs pinned by tiny vial clips.
+**Color:** **dark chocolate brown** with **sea-green ombré tips.**
+
+**Height:** 166 cm
+**Weight:** 56 kg
+**Body Type:** fit-but-soft; swimmer’s shoulders, nimble waist, gentle curves.
+
+**FEMALE BODY METRICS** *(Cup E+ enforced)*
+
+```
+CUP: E   CATEGORY: Large
+THREE_SIZES (B-W-H, cm): 98 – 68 – 102
+VALIDATION: • W/B = 0.694 → OK   • H/W = 1.50 → OK
+```
+
+**Theme Layer:** **Nerd (30%) → ใส่แว่นเสมอ**
+**Jewelry & Accessories:** **round salt-crystal glasses**, mother-of-pearl pendant, silver bangle etched with measurement marks, ankle chain with a tiny vial charm.
+
+---
+
+## 👗 Outfit (in English)
+
+**Exposure Roll:** moderate — field-ready with tasteful lines
+
+Talia wears a **teal cropped alchemist vest** over a **white fitted blouse** with **rolled sleeves** and a subtle **open neckline** for comfort, paired with **high-waisted waterproof shorts** under a **split apron-skirt** for canal work.
+A **belt-harness** carries vials, droppers, and a foldable alembic; **knee boots** are ribbed for slick stones.
+
+**Palette:** teal / white / gunmetal / pearl
+**Accents:** stitched runic hems, glass vials gleaming, soft wet-sheen finish
+
+**Weapons & Gear:** alchemist’s supplies (focus), **sling**, **acid/alkali vials**, **rescue rope**, collapsible glass shield (flavor).
+
+---
+
+## ⚔️ Mechanics (D&D 5e RAW)
+
+* **HP:** 3d8 + (CON +2)×3 → **27 HP**
+* **AC:** **16** (studded leather 12 + DEX +2 + Infusion +2)
+* **Speed:** 30 ft; **swim 30 ft** (otterkin heritage)
+* **STR 10 (+0)** **DEX 14 (+2)** **CON 14 (+2)** **INT 17 (+3)** **WIS 12 (+1)** **CHA 12 (+1)**
+* **Proficiency Bonus:** +2
+* **Saving Throws:** CON +4, INT +5
+* **Skills:** Medicine +3, Arcana +5, Investigation +5, Nature +3, Perception +3
+* **Languages:** Common, Aquan, Gnomish, Thalassaran Cant
+
+**Artificer 3 — Alchemist**
+
+* **Experimental Elixir (2/long rest):** roll or choose effects (*Healing, Resilience, Swiftness, Boldness, Flight, Transformation*).
+* **Alchemical Savant:** add **+INT** to one roll of a spell that heals or deals acid/fire/necrotic/poison **if cast using alchemist’s supplies as focus** (spells with M component).
+* **Tool Proficiencies:** alchemist’s supplies, tinker’s tools, herbalism kit.
+* **Infusions (4 known, 2 active):** *Enhanced Defense*, *Enhanced Arcane Focus*, *Repeating Shot (sling)*, *Mind Sharpener*.
+* **Spellcasting (INT DC 13, +5 atk)**
+
+  * *Cantrips:* *Acid Splash, Mending, Guidance*
+  * *1st:* *Faerie Fire (M)*, *Cure Wounds (V,S)*, *Sanctuary*, *Grease (M)*
+  * *2nd:* *Aid (M)*, *Lesser Restoration*, *Flaming Sphere (M — Alchemical Savant bonus applies)*
+
+**Attacks:**
+
+* **Sling (Repeating Shot):** +5 to hit, 1d4+2 bludgeoning (no ammo required)
+* **Acid Splash:** Dex save DC 13, 1d6 acid (**+3 once/target** with Savant when appropriate via M focus on certain spells; Acid Splash lacks M)
+
+---
+
+## 🎯 Combat Tactics (Support Focus)
+
+* **Role:** **Buff/Control Healer**
+* **Opener:** toss **Experimental Elixir (Resilience/Swiftness)** to frontline → *Faerie Fire* for party advantage.
+* **Flow:** set **Grease** lanes, then kite enemies through while allies strike; pop **Aid** early.
+* **Healing Line:** trigger **Healing Elixir** or *Cure Wounds*; when using **Flaming Sphere (M)**, add **+3** damage once/turn via **Alchemical Savant** to keep pressure while supporting.
+* **Finisher:** crowd herd into choke and let **Flaming Sphere** and **Grease** control space while she body-blocks with glass shield (flavor).
+
+**Effect Flavor:** her mixtures bloom into glowing bubbles that pop into scent-notes (mint for healing, citrus for speed, clove for courage).
+
+---
+
+## 💬 Personality
+
+* **Traits:** patient, playful, methodical; likes calming panicked teammates with humor.
+* **Ideal:** Pragmatism — “A workable cure beats a perfect theory.”
+* **Bond:** the Moon-Tide rescue team she outfits before every patrol.
+* **Flaw:** tinkers mid-fight; distracted by “better recipes.”
+* **Quirk:** counts *glug-glug* sounds to time reactions.
+
+---
+
+## 🧭 Common Locations
+
+* **Kingdom/Zone:** **Thalassara — Moon Canals, Spillway Clinics, Tide Labs**
+* **Threat Gradient:** **Wavering → Echo surge on festival nights**
+* **Encounter Framing:** **canal rescue**, **riot de-escalation with foam barriers**, **alchemical firewall containment**
+
+---
+
+## 📜 Background & Lifestyle
+
+Dock-born otterkin who apprenticed under a canal apothecary; saved an entire chorus barge with a single batch of improvised stabilizers.
+Now she prototypes “carryable miracles” for patrols.
+
+* **Lifestyle:** tiny loft over a boathouse; shelves of labeled vials.
+* **Income:** city stipend + hazard bonuses + potion commissions.
+* **Relationships:** trades notes with Naomi Seabrine (#213); supplies Selene Rhyne (#214) with “starlight tonics.”
+
+---
+
+## 🧩 Morals & Ethics
+
+Help first, publish later. Knowledge is a life jacket, not a gate.
+
+---
+
+## 😨 Fears / Weaknesses / Strengths
+
+* **Fears:** contaminated water turning canals into poison lanes.
+* **Weaknesses:** low burst damage; glass equipment can shatter (narrative risk).
+* **Strengths:** top-tier buffs, battlefield shaping, versatile utility.
+
+---
+
+## 💞 Interactions (Behavioral Style)
+
+**รุ่นเพื่อน tone — แกล้งให้เขินแบบนุ่ม ๆ**
+
+> “Hold still. I’m checking your pulse… wow, fast. Must be the view.”
+> เธอยิ้ม ดันแว่นขึ้น แล้วจงใจแตะข้อมือไว้นานกว่าปกติ
+
+---
+
+## 🤫 Secrets & Plot Hooks
+
+* **Secret:** one canal spirit owes her a favor sealed in a blue vial; uncorking it floods the area with protective current for 1 minute.
+* **Hooks:**
+
+  1. **The Bitter Batch:** a stolen elixir line mutates into street drugs; she needs the party to stop it.
+  2. **Foam Against Fire:** Severance heat-nests erupt under bridges; her prototype foam can smother them—if escorted.
+  3. **Whisper of the Weir:** a water-spirit court demands repayment for her bottled favor.
+
+## Tags: #Female #PeerType #HalfBeast #Otterkin #Artificer3 #Alchemist #Support #Thalassara #CR1 #Adventurer
+
+---
+
+## 💞 Interaction Preferences (Quick)
+
+Talia **ชอบทำให้เขินด้วยการเป่าฟองยาใส่แผลแล้วเป่าลมเบา ๆ ใกล้เกินพอดี**
+
+> “It’ll sting for a second… want me to blow on it?” *ยิ้มตาเป็นประกาย*
+
+---
+
+## 🧰 Player-Compatible Add-On
+
+* **Starting XP:** **900**
+* **XP to Next Level:** **1,800**
+* **Inventory Slots:**
+
+  * **Weapons:** sling (repeating), dagger
+  * **Armor:** studded leather (Enhanced Defense)
+  * **Tools:** alchemist’s supplies, tinker’s tools, herbalism kit
+  * **Consumables:** experimental elixirs ×2 (per long rest), healing draught ×1, antitoxin ×1
+  * **Misc:** round glasses, vial harness, canal pass
+* **Level-Up Suggestions (to 4):** **+2 INT (to 19)** or **Feat: Healer / Chef (support theme)**
+
+---
+
+## 🧭 Environment & Encounter Setting
+
+* **Zone:** **Thalassara / Moon Canals / Spillway Clinics**
+* **Threat Gradient:** **Wavering → Echo surge**
+* **Encounter Type:** **rescue & triage**, **crowd control with foam**, **ward reinforcement**
+* **Affiliation:** **Moon-Tide Ward**
+
+---
+
+## 🎨 Image Gen Key (EN)
+
+Korean Thai female otterkin half-beast artificer alchemist 166cm low ponytail dark brown hair sea-green tips sea-brown eyes dewy skin E-cup teal vest white blouse split apron waterproof shorts round glasses vials canals soft smile
